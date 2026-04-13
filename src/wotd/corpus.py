@@ -38,6 +38,10 @@ class RawItem:
     content_text: str           # full text — NEVER committed
     kind: str                   # "article" | "tweet"
     via_source_id: str | None = None
+    # Transient: raw HTML of the page we fetched. Kept in memory so
+    # downstream stages (e.g. newsletter link-follow) don't re-fetch.
+    # Not persisted to disk under any circumstances.
+    content_html: str | None = None
 
 
 def article_id_for(source_id: str, external_id: str) -> str:

@@ -44,6 +44,7 @@ class SourceAdapter(Protocol):
         *,
         user_agent: str,
         max_items: int,
+        seen_urls: frozenset[str] = frozenset(),
     ) -> Iterable[RawItem]:
         ...
 

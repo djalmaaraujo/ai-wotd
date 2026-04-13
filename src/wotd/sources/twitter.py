@@ -76,7 +76,10 @@ class TwitterAdapter:
         *,
         user_agent: str,
         max_items: int,
+        seen_urls: frozenset[str] = frozenset(),
     ) -> Iterable[RawItem]:
+        # Tweets are keyed by tweet ID, not article URL; seen_urls dedup is
+        # handled at the outer loop via url_cache.
         if source.get("x_api"):
             yield from self._fetch_x_api(
                 source, cursor, user_agent=user_agent, max_items=max_items

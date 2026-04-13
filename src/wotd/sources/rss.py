@@ -79,6 +79,7 @@ class RssAdapter:
         *,
         user_agent: str,
         max_items: int,
+        seen_urls: frozenset[str] = frozenset(),
     ) -> Iterable[RawItem]:
         feed_url = source.get("feed")
         if not feed_url:
@@ -112,6 +113,12 @@ class RssAdapter:
                 break  # caught up
             url = entry.get("link") or guid
             url_canonical = canonicalize(url) or url
+
+            # Skip entries whose canonical URL was already ingested (this
+            # run or earlier). Saves a full article-HTML GET per duplicate.
+            if url_canonical in seen_urls:
+                continue
+
             published = _parse_date(
                 entry.get("published") or entry.get("updated")
             )
@@ -124,11 +131,13 @@ class RssAdapter:
 
             # Try to fetch the full page; fall back to inline content.
             body_text = ""
+            body_html: str | None = None
             try:
                 with httpx.Client(timeout=15.0, follow_redirects=True) as client:
                     article_resp = client.get(url, headers={"User-Agent": user_agent})
                 if article_resp.status_code == 200:
-                    _, body_text = extract_article_text(article_resp.text)
+                    body_html = article_resp.text
+                    _, body_text = extract_article_text(body_html)
             except Exception as exc:
                 logger.info("rss: body fetch failed for %s: %s", url, exc)
 
@@ -147,5 +156,6 @@ class RssAdapter:
                 published_at=published,
                 content_text=body_text,
                 kind="article",
+                content_html=body_html,
             )
             seen += 1

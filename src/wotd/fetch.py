@@ -23,14 +23,17 @@ from .sources.rss import extract_article_text
 logger = logging.getLogger(__name__)
 
 
-def _render_newsletter_body_html(item: RawItem) -> str:
-    """We need the HTML to mine outbound links. Refetch the issue URL once.
+def _render_newsletter_body_html(item: RawItem, user_agent: str) -> str:
+    """Return the HTML of the newsletter issue.
 
-    Cheap enough since newsletters are typically a single page per issue.
+    Reuses the HTML the RSS adapter already fetched (on RawItem.content_html).
+    Only refetches as a last resort if the adapter didn't keep it.
     """
+    if item.content_html:
+        return item.content_html
     try:
         with httpx.Client(timeout=15.0, follow_redirects=True) as client:
-            resp = client.get(item.url)
+            resp = client.get(item.url, headers={"User-Agent": user_agent})
         if resp.status_code == 200:
             return resp.text
     except Exception as exc:
@@ -39,14 +42,24 @@ def _render_newsletter_body_html(item: RawItem) -> str:
 
 
 def _extract_outbound_urls(html: str, origin_url: str | None = None) -> list[str]:
+    """Extract outbound hrefs from HTML, deduped by their canonicalized form.
+
+    Order of first appearance is preserved so the most-prominently-linked
+    article wins the linkfollow budget.
+    """
     if not html:
         return []
     soup = BeautifulSoup(html, "lxml")
     urls: list[str] = []
+    seen: set[str] = set()
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
         if not href or href.startswith("#") or href.startswith("mailto:"):
             continue
+        canonical = canonicalize(href) or href
+        if canonical in seen:
+            continue
+        seen.add(canonical)
         urls.append(href)
     return urls
 
@@ -74,7 +87,7 @@ def _follow_links_from_newsletter(
     blocklist: frozenset[str],
     url_cache: dict,
 ) -> Iterable[RawItem]:
-    html = _render_newsletter_body_html(item)
+    html = _render_newsletter_body_html(item, settings.user_agent)
     urls = _extract_outbound_urls(html, origin_url=item.url)
     followed = 0
     for url in urls:
@@ -151,12 +164,18 @@ def run_fetch(paths: Paths, settings: Settings, sources: list[dict]) -> dict:
 
         newest_guid: str | None = None
         items_seen = 0
+        # Snapshot the URLs already ingested so the adapter can skip the
+        # article-body GET for duplicates before making the HTTP request.
+        seen_urls = frozenset(
+            u for u, v in url_cache.items() if v.get("article_id")
+        )
         try:
             raw_items = adapter.fetch(
                 source,
                 cursor,
                 user_agent=settings.user_agent,
                 max_items=settings.max_articles_per_source,
+                seen_urls=seen_urls,
             )
         except Exception as exc:
             logger.warning("fetch: adapter crashed for %s: %s", sid, exc)
