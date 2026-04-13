@@ -1,0 +1,98 @@
+{
+  "article_id": "openai-blog--28cc9fc2",
+  "author": "OpenAI Blog",
+  "content_chars": 186,
+  "content_sha256": "03d94cacfab8fc532be4995c6f70f8d2010b59f823bb58eca3008003445ae75f",
+  "content_tokens": 46,
+  "fetched_at": "2026-04-13T18:54:23Z",
+  "kind": "article",
+  "published_at": "2026-03-16T00:00:00+00:00",
+  "snippet": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+  "source_id": "openai-blog",
+  "title": "Why Codex Security Doesn’t Include a SAST Report",
+  "top_terms": [
+    [
+      "codex",
+      2
+    ],
+    [
+      "codex security",
+      2
+    ],
+    [
+      "codex security doesn",
+      2
+    ],
+    [
+      "sast",
+      2
+    ],
+    [
+      "security",
+      2
+    ],
+    [
+      "security doesn",
+      2
+    ],
+    [
+      "security doesn t",
+      2
+    ],
+    [
+      "why codex",
+      2
+    ],
+    [
+      "why codex security",
+      2
+    ],
+    [
+      "a deep",
+      1
+    ],
+    [
+      "a deep dive",
+      1
+    ],
+    [
+      "a sast",
+      1
+    ],
+    [
+      "a sast report",
+      1
+    ],
+    [
+      "ai-driven",
+      1
+    ],
+    [
+      "ai-driven constraint",
+      1
+    ],
+    [
+      "ai-driven constraint reasoning",
+      1
+    ],
+    [
+      "and validation",
+      1
+    ],
+    [
+      "and validation to",
+      1
+    ],
+    [
+      "constraint",
+      1
+    ],
+    [
+      "constraint reasoning",
+      1
+    ]
+  ],
+  "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+  "url_canonical": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+  "via_source_id": null
+}

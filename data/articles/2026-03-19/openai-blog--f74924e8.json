@@ -1,0 +1,98 @@
+{
+  "article_id": "openai-blog--f74924e8",
+  "author": "OpenAI Blog",
+  "content_chars": 177,
+  "content_sha256": "467407ea36594aeb8ac6f4ed730d9270d0c793bf80c938c038bbc857d1d86b7b",
+  "content_tokens": 44,
+  "fetched_at": "2026-04-13T18:54:23Z",
+  "kind": "article",
+  "published_at": "2026-03-19T10:00:00+00:00",
+  "snippet": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+  "source_id": "openai-blog",
+  "title": "How we monitor internal coding agents for misalignment",
+  "top_terms": [
+    [
+      "agents",
+      2
+    ],
+    [
+      "coding",
+      2
+    ],
+    [
+      "coding agents",
+      2
+    ],
+    [
+      "internal",
+      2
+    ],
+    [
+      "internal coding",
+      2
+    ],
+    [
+      "internal coding agents",
+      2
+    ],
+    [
+      "misalignment",
+      2
+    ],
+    [
+      "agents analyzing",
+      1
+    ],
+    [
+      "agents analyzing real-world",
+      1
+    ],
+    [
+      "agents for",
+      1
+    ],
+    [
+      "agents for misalignment",
+      1
+    ],
+    [
+      "ai safety",
+      1
+    ],
+    [
+      "ai safety safeguards",
+      1
+    ],
+    [
+      "analyzing",
+      1
+    ],
+    [
+      "analyzing real-world",
+      1
+    ],
+    [
+      "analyzing real-world deployments",
+      1
+    ],
+    [
+      "and strengthen",
+      1
+    ],
+    [
+      "and strengthen ai",
+      1
+    ],
+    [
+      "chain-of-thought",
+      1
+    ],
+    [
+      "chain-of-thought monitoring",
+      1
+    ]
+  ],
+  "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+  "url_canonical": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+  "via_source_id": null
+}
