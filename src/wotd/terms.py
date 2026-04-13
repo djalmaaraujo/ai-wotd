@@ -82,11 +82,29 @@ def extract_terms(
     return counts
 
 
+MAX_TERMS_PER_DAY = 5000
+MAX_ARTICLES_PER_TERM = 50
+MAX_AUTHORS_PER_TERM = 10
+
+
 def summarize_per_day(
     per_article_counts: dict[str, Counter],
     article_authors: dict[str, str] | None = None,
+    *,
+    max_terms: int = MAX_TERMS_PER_DAY,
+    max_articles_per_term: int = MAX_ARTICLES_PER_TERM,
+    max_authors_per_term: int = MAX_AUTHORS_PER_TERM,
 ) -> dict:
     """Collapse per-article term counters into a per-day stats blob.
+
+    Defense-in-depth against pathological days that contain hundreds of
+    articles and blow the per-term article list into megabytes:
+
+      * Drop terms with df=1 (can never win WOTD — the scorer requires
+        df >= 2 anyway) so the long tail of single-doc n-grams is culled.
+      * Cap term article lists at `max_articles_per_term` (default 50).
+      * Cap author lists at `max_authors_per_term` (default 10).
+      * Keep only the top `max_terms` terms by tf (default 5000).
 
     Returns a dict with:
       terms: { term: { tf, df, articles: [...], authors: [...] } }
@@ -102,12 +120,27 @@ def summarize_per_day(
             )
             t["tf"] += tf
             t["df"] += 1
-            t["articles"].append(article_id)
+            if len(t["articles"]) < max_articles_per_term:
+                t["articles"].append(article_id)
             author = article_authors.get(article_id)
-            if author and author not in t["authors"]:
+            if (
+                author
+                and author not in t["authors"]
+                and len(t["authors"]) < max_authors_per_term
+            ):
                 t["authors"].append(author)
 
-    # Stable ordering.
+    # Drop single-doc terms (can't be elected; just noise on disk).
+    terms = {k: v for k, v in terms.items() if v["df"] >= 2}
+
+    # Keep top-N by tf (then alphabetical for stable output).
+    if len(terms) > max_terms:
+        top = sorted(
+            terms.items(), key=lambda kv: (-kv[1]["tf"], kv[0])
+        )[:max_terms]
+        terms = dict(top)
+
+    # Stable ordering inside each term entry.
     for v in terms.values():
         v["articles"].sort()
         v["authors"].sort()

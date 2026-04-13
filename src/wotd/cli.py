@@ -78,27 +78,28 @@ def _discover_stats_days(stats_dir: Path) -> list[date]:
 def cmd_process(args) -> int:
     """Build per-day stats.
 
-    With --date: only that day.
-    Without --date: every day that has articles but whose stats are missing
-    or stale (backfill + idempotent).
+    Default: today only. Use `wotd reprocess --from X --to Y` (or
+    `--backfill` here) to rebuild older days.
     """
     paths = _paths_for(args)
     processed = state.load_processed_days(paths.index)
 
     if args.date:
         targets = [_parse_date(args.date)]
-    else:
-        targets = _discover_article_days(paths.articles)
+    elif getattr(args, "backfill", False):
+        targets = [
+            d
+            for d in _discover_article_days(paths.articles)
+            if not (paths.stats / f"{d.isoformat()}.json").exists()
+        ]
         if not targets:
-            log.info("process: no article days found")
+            log.info("process: nothing to backfill")
             return 0
+    else:
+        targets = [datetime.now(timezone.utc).date()]
 
     built = 0
     for target in targets:
-        stats_path = paths.stats / f"{target.isoformat()}.json"
-        if not args.date and stats_path.exists():
-            # Skip days already computed (idempotent backfill).
-            continue
         result = corpus.build_day_stats(
             paths.articles, paths.stats, paths.fulltext_cache, target
         )
@@ -120,28 +121,23 @@ def cmd_process(args) -> int:
 def cmd_wotd(args) -> int:
     """Elect the word of the day.
 
-    With --date: only that day.
-    Without --date: every day that has stats but no wotd.json yet, plus a
-    re-run for the most recent stats day even if it already has a wotd
-    (to pick up newly fetched articles that landed in the same day).
+    Default: today only. Use `--backfill` to elect for every stats day
+    that doesn't have a wotd yet.
     """
     paths = _paths_for(args)
     settings = Settings.from_env()
 
     if args.date:
         targets = [_parse_date(args.date)]
-    else:
+    elif getattr(args, "backfill", False):
         stats_days = _discover_stats_days(paths.stats)
-        if not stats_days:
-            log.info("wotd: no stats found")
-            return 0
         existing = {p.stem for p in paths.wotd.glob("*.json")}
         targets = [d for d in stats_days if d.isoformat() not in existing]
-        # Always refresh the newest stats day, since more articles may have
-        # landed on it since the last run.
-        newest = stats_days[-1]
-        if newest not in targets:
-            targets.append(newest)
+        if not targets:
+            log.info("wotd: nothing to backfill")
+            return 0
+    else:
+        targets = [datetime.now(timezone.utc).date()]
 
     for target in targets:
         payload = wotd.pick_wotd(
@@ -312,10 +308,20 @@ def build_parser() -> argparse.ArgumentParser:
 
     sp = sub.add_parser("process")
     sp.add_argument("--date", default=None)
+    sp.add_argument(
+        "--backfill",
+        action="store_true",
+        help="Process every article day that lacks stats (opt-in, slow).",
+    )
     sp.set_defaults(fn=cmd_process)
 
     sp = sub.add_parser("wotd")
     sp.add_argument("--date", default=None)
+    sp.add_argument(
+        "--backfill",
+        action="store_true",
+        help="Elect words for every stats day without a wotd yet.",
+    )
     sp.set_defaults(fn=cmd_wotd)
 
     sp = sub.add_parser("blurb")
