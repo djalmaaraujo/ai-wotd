@@ -78,8 +78,9 @@ def _discover_stats_days(stats_dir: Path) -> list[date]:
 def cmd_process(args) -> int:
     """Build per-day stats.
 
-    Default: today only. Use `wotd reprocess --from X --to Y` (or
-    `--backfill` here) to rebuild older days.
+    Default: today only. With `--backfill`, rebuild every day that has
+    articles — ignoring any pre-existing stats so the new day reflects
+    the current state of data/articles/ (e.g. after migrate-buckets).
     """
     paths = _paths_for(args)
     processed = state.load_processed_days(paths.index)
@@ -87,13 +88,9 @@ def cmd_process(args) -> int:
     if args.date:
         targets = [_parse_date(args.date)]
     elif getattr(args, "backfill", False):
-        targets = [
-            d
-            for d in _discover_article_days(paths.articles)
-            if not (paths.stats / f"{d.isoformat()}.json").exists()
-        ]
+        targets = _discover_article_days(paths.articles)
         if not targets:
-            log.info("process: nothing to backfill")
+            log.info("process: no article days found")
             return 0
     else:
         targets = [datetime.now(timezone.utc).date()]
@@ -121,8 +118,9 @@ def cmd_process(args) -> int:
 def cmd_wotd(args) -> int:
     """Elect the word of the day.
 
-    Default: today only. Use `--backfill` to elect for every stats day
-    that doesn't have a wotd yet.
+    Default: today only. With `--backfill`, re-elect for every stats
+    day — overwriting prior wotd/*.json so stale elections (from before
+    a stats rebuild) don't linger.
     """
     paths = _paths_for(args)
     settings = Settings.from_env()
@@ -130,11 +128,9 @@ def cmd_wotd(args) -> int:
     if args.date:
         targets = [_parse_date(args.date)]
     elif getattr(args, "backfill", False):
-        stats_days = _discover_stats_days(paths.stats)
-        existing = {p.stem for p in paths.wotd.glob("*.json")}
-        targets = [d for d in stats_days if d.isoformat() not in existing]
+        targets = _discover_stats_days(paths.stats)
         if not targets:
-            log.info("wotd: nothing to backfill")
+            log.info("wotd: no stats found")
             return 0
     else:
         targets = [datetime.now(timezone.utc).date()]
