@@ -28,6 +28,62 @@ logger = logging.getLogger(__name__)
 
 
 DEFAULT_ISSUE_PATH_PREFIX = "/p/"  # Beehiiv / Substack convention
+SITEMAP_MAX_DEPTH = 3
+
+
+def _fetch_sitemap_urls(
+    sitemap_url: str,
+    issue_path_prefix: str,
+    *,
+    user_agent: str,
+    _depth: int = 0,
+) -> list[str]:
+    """Recursively collect issue URLs from a sitemap.xml.
+
+    Handles both `<urlset>` (leaf) and `<sitemapindex>` (parent) shapes.
+    Dedupe is caller's job; this preserves sitemap order (usually
+    newest-first for Beehiiv/Substack/Ghost).
+    """
+    if _depth >= SITEMAP_MAX_DEPTH:
+        return []
+    try:
+        with httpx.Client(timeout=15.0, follow_redirects=True) as client:
+            resp = client.get(sitemap_url, headers={"User-Agent": user_agent})
+    except Exception as exc:
+        logger.info("archive: sitemap fetch failed for %s: %s", sitemap_url, exc)
+        return []
+    if resp.status_code != 200 or not resp.content:
+        return []
+
+    try:
+        soup = BeautifulSoup(resp.content, "lxml-xml")
+    except Exception:
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+    urls: list[str] = []
+    # <sitemapindex> → recurse into child sitemaps.
+    for sm in soup.find_all("sitemap"):
+        loc = sm.find("loc")
+        if loc and loc.text:
+            urls.extend(
+                _fetch_sitemap_urls(
+                    loc.text.strip(),
+                    issue_path_prefix,
+                    user_agent=user_agent,
+                    _depth=_depth + 1,
+                )
+            )
+
+    # <urlset> → pull issue URLs, filter by path prefix.
+    for u in soup.find_all("url"):
+        loc = u.find("loc")
+        if loc and loc.text:
+            href = loc.text.strip()
+            path = urlparse(href).path
+            if path.startswith(issue_path_prefix):
+                urls.append(href)
+
+    return urls
 
 
 def _parse_iso(value: str | None) -> str:
@@ -114,24 +170,59 @@ class ArchiveAdapter:
             return
         issue_path_prefix = source.get("issue_path_prefix") or DEFAULT_ISSUE_PATH_PREFIX
 
-        # 1. Load the archive index page.
-        try:
-            with httpx.Client(timeout=15.0, follow_redirects=True) as client:
-                resp = client.get(archive_url, headers={"User-Agent": user_agent})
-            resp.raise_for_status()
-            archive_html = resp.text
-        except Exception as exc:
-            logger.warning(
-                "archive: index fetch failed for %s: %s", source.get("id"), exc
-            )
-            return
+        # 1. Prefer sitemap.xml — one roundtrip, full archive (no JS
+        # pagination limits). Explicit sitemap_url overrides the default
+        # guess at <host>/sitemap.xml.
+        sitemap_url = source.get("sitemap_url")
+        if not sitemap_url:
+            parts = urlparse(archive_url)
+            if parts.scheme and parts.hostname:
+                sitemap_url = f"{parts.scheme}://{parts.hostname}/sitemap.xml"
 
-        issue_urls = _extract_issue_urls(
-            archive_html, archive_url, issue_path_prefix
-        )
+        issue_urls: list[str] = []
+        if sitemap_url:
+            sitemap_urls = _fetch_sitemap_urls(
+                sitemap_url, issue_path_prefix, user_agent=user_agent
+            )
+            # Dedupe preserving order.
+            seen_canon: set[str] = set()
+            for href in sitemap_urls:
+                canon = canonicalize(href) or href
+                if canon in seen_canon:
+                    continue
+                seen_canon.add(canon)
+                issue_urls.append(href)
+            if issue_urls:
+                logger.info(
+                    "archive: %d issue URLs from sitemap %s",
+                    len(issue_urls),
+                    sitemap_url,
+                )
+
+        # 2. Fallback to HTML scraping of the archive page.
+        if not issue_urls:
+            try:
+                with httpx.Client(timeout=15.0, follow_redirects=True) as client:
+                    resp = client.get(
+                        archive_url, headers={"User-Agent": user_agent}
+                    )
+                resp.raise_for_status()
+                archive_html = resp.text
+            except Exception as exc:
+                logger.warning(
+                    "archive: index fetch failed for %s: %s",
+                    source.get("id"),
+                    exc,
+                )
+                return
+
+            issue_urls = _extract_issue_urls(
+                archive_html, archive_url, issue_path_prefix
+            )
+
         if not issue_urls:
             logger.info(
-                "archive: no issue URLs found on %s (prefix=%r)",
+                "archive: no issue URLs found (sitemap + HTML) for %s (prefix=%r)",
                 archive_url,
                 issue_path_prefix,
             )

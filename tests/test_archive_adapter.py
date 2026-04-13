@@ -117,6 +117,89 @@ def test_archive_adapter_yields_raw_items(monkeypatch):
     assert items[0].published_at.startswith("2026-04-13T10:00:00")
 
 
+def test_archive_adapter_prefers_sitemap_over_html(monkeypatch):
+    """When sitemap.xml has issues, it wins over HTML archive scraping."""
+    sitemap_xml = """<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url><loc>https://codenewsletter.ai/p/issue-100-latest</loc></url>
+      <url><loc>https://codenewsletter.ai/p/issue-99-older</loc></url>
+      <url><loc>https://codenewsletter.ai/p/issue-98-even-older</loc></url>
+      <url><loc>https://codenewsletter.ai/about</loc></url>
+    </urlset>
+    """
+    issue_html = "<html><body><article>MCP agents context window.</article></body></html>"
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/sitemap.xml":
+            return httpx.Response(
+                200,
+                content=sitemap_xml.encode(),
+                headers={"content-type": "application/xml"},
+            )
+        if request.url.path.startswith("/p/"):
+            return httpx.Response(200, text=issue_html)
+        # If we get here for /archive, the sitemap path wasn't taken.
+        raise AssertionError(f"Unexpected request: {request.url.path}")
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+
+    source = {
+        "id": "codenewsletter",
+        "type": "archive",
+        "url": "https://codenewsletter.ai/",
+        "archive_url": "https://codenewsletter.ai/archive",
+    }
+    items = list(
+        ArchiveAdapter().fetch(source, Cursor(), user_agent="t", max_items=10)
+    )
+    assert len(items) == 3  # /about is filtered by prefix
+    # Order preserved from sitemap.
+    assert "issue-100" in items[0].url
+    assert "issue-99" in items[1].url
+    assert "issue-98" in items[2].url
+
+
+def test_archive_adapter_falls_back_to_html_when_sitemap_empty(monkeypatch):
+    """If sitemap is empty or 404, fall back to scraping /archive HTML."""
+    issue_html = "<html><body><p>some mcp body</p></body></html>"
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/sitemap.xml":
+            return httpx.Response(404)
+        if request.url.path == "/archive":
+            return httpx.Response(200, text=ARCHIVE_HTML)
+        if request.url.path.startswith("/p/"):
+            return httpx.Response(200, text=issue_html)
+        return httpx.Response(404)
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+
+    source = {
+        "id": "codenewsletter",
+        "type": "archive",
+        "url": "https://codenewsletter.ai/",
+        "archive_url": "https://codenewsletter.ai/archive",
+    }
+    items = list(
+        ArchiveAdapter().fetch(source, Cursor(), user_agent="t", max_items=10)
+    )
+    assert len(items) == 3  # from ARCHIVE_HTML fallback
+
+
 def test_archive_adapter_respects_cursor(monkeypatch):
     """If last_guid matches an issue canonical, stop (don't refetch history)."""
 

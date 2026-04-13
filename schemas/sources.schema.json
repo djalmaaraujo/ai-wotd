@@ -71,6 +71,11 @@
             "type": { "const": "archive" },
             "url": { "type": "string", "format": "uri" },
             "archive_url": { "type": "string", "format": "uri" },
+            "sitemap_url": {
+              "type": "string",
+              "format": "uri",
+              "description": "Override the /sitemap.xml guess. When present, the adapter prefers the sitemap over HTML scraping (no JS-pagination limits)."
+            },
             "issue_path_prefix": {
               "type": "string",
               "description": "Only follow same-host <a> hrefs whose path starts with this (default: '/p/')"
