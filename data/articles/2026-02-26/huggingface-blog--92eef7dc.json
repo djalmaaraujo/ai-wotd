@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--92eef7dc",
+  "author": "Hugging Face Blog",
+  "content_chars": 17304,
+  "content_sha256": "4c7c23981d424a3cdef9d41395d5a1ba2e8a8a8def8a67bebc4d0d67ad3b3aaf",
+  "content_tokens": 4326,
+  "fetched_at": "2026-04-13T19:19:06Z",
+  "kind": "article",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "snippet": "Mixture of Experts (MoEs) in Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Mixture of Experts (MoEs) in Transformers Published February 26, 2026 Update on GitHub Upvote 153 +147 Aritra Roy Gosthipaty…",
+  "source_id": "huggingface-blog",
+  "title": "Mixture of Experts (MoEs) in Transformers",
+  "top_terms": [
+    [
+      "experts",
+      45
+    ],
+    [
+      "expert",
+      35
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "transformers",
+      25
+    ],
+    [
+      "moes",
+      24
+    ],
+    [
+      "updated",
+      22
+    ],
+    [
+      "models",
+      20
+    ],
+    [
+      "loading",
+      18
+    ],
+    [
+      "moe",
+      15
+    ],
+    [
+      "weight",
+      14
+    ],
+    [
+      "of experts",
+      13
+    ],
+    [
+      "backend",
+      12
+    ],
+    [
+      "b updated",
+      10
+    ],
+    [
+      "collection",
+      10
+    ],
+    [
+      "items",
+      10
+    ],
+    [
+      "items updated",
+      10
+    ],
+    [
+      "training",
+      10
+    ],
+    [
+      "dense",
+      9
+    ],
+    [
+      "generation",
+      9
+    ],
+    [
+      "pipeline",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/moe-transformers",
+  "url_canonical": "https://huggingface.co/blog/moe-transformers",
+  "via_source_id": null
+}

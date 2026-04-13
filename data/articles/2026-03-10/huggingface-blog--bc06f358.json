@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--bc06f358",
+  "author": "Hugging Face Blog",
+  "content_chars": 67451,
+  "content_sha256": "49aec8314cfda5e062b584d804f76ae14bc2950608c27edaf7c21b88336b073b",
+  "content_tokens": 16862,
+  "fetched_at": "2026-04-13T19:19:05Z",
+  "kind": "article",
+  "published_at": "2026-03-10T00:00:00+00:00",
+  "snippet": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries Published March 10, 2026 Update on GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+  "top_terms": [
+    [
+      "training",
+      131
+    ],
+    [
+      "sync",
+      63
+    ],
+    [
+      "inference",
+      61
+    ],
+    [
+      "weight",
+      61
+    ],
+    [
+      "lora",
+      60
+    ],
+    [
+      "generation",
+      53
+    ],
+    [
+      "async",
+      50
+    ],
+    [
+      "model",
+      46
+    ],
+    [
+      "rl",
+      42
+    ],
+    [
+      "axis",
+      40
+    ],
+    [
+      "libraries",
+      40
+    ],
+    [
+      "vllm",
+      40
+    ],
+    [
+      "rollout",
+      36
+    ],
+    [
+      "weight sync",
+      35
+    ],
+    [
+      "staleness",
+      34
+    ],
+    [
+      "rollouts",
+      32
+    ],
+    [
+      "tp",
+      31
+    ],
+    [
+      "design",
+      30
+    ],
+    [
+      "megatron",
+      30
+    ],
+    [
+      "moe",
+      28
+    ]
+  ],
+  "url": "https://huggingface.co/blog/async-rl-training-landscape",
+  "url_canonical": "https://huggingface.co/blog/async-rl-training-landscape",
+  "via_source_id": null
+}
