@@ -1,0 +1,102 @@
+:root {
+  --fg: #111;
+  --bg: #fff;
+  --muted: #666;
+  --rule: #ddd;
+  --max: 42rem;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+header, main, footer {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 1rem;
+}
+header .brand {
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--fg);
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+}
+header nav a {
+  margin-left: 1rem;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+header nav a:hover { color: var(--fg); text-decoration: underline; }
+h1 {
+  font-size: 3rem;
+  margin: 0.4rem 0 1rem;
+  letter-spacing: -0.01em;
+  font-weight: normal;
+}
+h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  border-top: 1px solid var(--rule);
+  padding-top: 1.5rem;
+  margin-top: 2rem;
+}
+.date { color: var(--muted); font-size: 0.9rem; margin: 0; }
+.why { font-size: 1.05rem; }
+.summary p { font-size: 1rem; }
+.evidence ul, .archive { list-style: none; padding: 0; }
+.evidence li, .archive li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.evidence a, .archive a {
+  color: var(--fg);
+  text-decoration: none;
+}
+.evidence a:hover, .archive a:hover { text-decoration: underline; }
+.evidence .meta, .candidates .meta {
+  display: block;
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.2rem;
+}
+blockquote {
+  border-left: 2px solid var(--rule);
+  margin: 0.5rem 0 0;
+  padding: 0.2rem 0 0.2rem 0.8rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-style: italic;
+}
+.candidates ol { padding-left: 1.2rem; }
+.candidates li { margin: 0.2rem 0; }
+.pager {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid var(--rule);
+  padding-top: 1rem;
+}
+.pager a { color: var(--muted); text-decoration: none; }
+.pager a:hover { color: var(--fg); }
+footer {
+  font-size: 0.85rem;
+  color: var(--muted);
+  border-top: 1px solid var(--rule);
+  margin-top: 3rem;
+}
+footer a { color: var(--muted); }

@@ -2,13 +2,13 @@
 <rss version="2.0">
   <channel>
     <title>AI Word Of The Day</title>
-    <link>https://djalmaaraujo.github.io/ai-wotd/</link>
+    <link>{{ site_url }}/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
     <lastBuildDate>{{ now }}</lastBuildDate>
     {% for d in all_days %}
     <item>
       <title>{{ d.word }} ({{ d.date }})</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/{{ d.date }}/</link>
+      <link>{{ site_url }}/d/{{ d.date }}/</link>
       <guid isPermaLink="false">wotd-{{ d.date }}</guid>
       <pubDate>{{ d.date }}</pubDate>
       <description>{% if d.llm and d.llm.why %}{{ d.llm.why|e }}{% else %}Word of the day: {{ d.word|e }}{% endif %}</description>

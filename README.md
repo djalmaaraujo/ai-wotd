@@ -127,6 +127,25 @@ Useful environment variables:
 | `WOTD_NITTER_INSTANCES` | _(builtin list)_ | Comma-separated Nitter hosts. |
 | `X_BEARER_TOKEN` | _(unset)_ | Only needed for sources with `x_api: true`. |
 
+## GitHub Pages
+
+The site is served from `/docs` on `main`.
+
+1. **Settings → Pages → Build and deployment → Source: Deploy from a branch.**
+2. **Branch: `main`, folder: `/docs`.** Save.
+3. The site resolves at `https://djalmaaraujo.github.io/ai-wotd/`.
+
+The templates render all in-site links with a configurable base path so
+project-page URLs (`/ai-wotd/...`) and custom domains both work:
+
+| Variable | Default | When to change |
+|---|---|---|
+| `WOTD_SITE_BASE` | `/ai-wotd` | Set to `""` when serving from a custom domain at the root. |
+| `WOTD_SITE_URL` | `https://djalmaaraujo.github.io/ai-wotd` | Only used in `feed.xml` to build absolute permalinks. |
+
+`docs/.nojekyll` is written on every render so GitHub Pages serves every
+file verbatim (no Jekyll filtering of underscore-prefixed paths).
+
 ## Repository layout
 
 ```

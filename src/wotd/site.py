@@ -3,12 +3,17 @@
 from __future__ import annotations
 
 import json
+import os
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+
+DEFAULT_SITE_BASE = "/ai-wotd"
+DEFAULT_SITE_URL = "https://djalmaaraujo.github.io/ai-wotd"
 
 
 def _load_day(path: Path) -> dict:
@@ -40,12 +45,28 @@ def _articles_index(articles_dir: Path) -> dict[str, dict]:
     return index
 
 
+def _resolve_base(value: str | None) -> str:
+    """Normalize a site base: strip trailing slash, keep leading slash."""
+    v = value if value is not None else os.environ.get("WOTD_SITE_BASE", DEFAULT_SITE_BASE)
+    v = v.rstrip("/")
+    if v and not v.startswith("/"):
+        v = "/" + v
+    return v
+
+
+def _resolve_url(value: str | None) -> str:
+    v = value if value is not None else os.environ.get("WOTD_SITE_URL", DEFAULT_SITE_URL)
+    return v.rstrip("/")
+
+
 def render_site(
     *,
     wotd_dir: Path,
     articles_dir: Path,
     templates_dir: Path,
     docs_dir: Path,
+    site_base: str | None = None,
+    site_url: str | None = None,
 ) -> dict:
     env = Environment(
         loader=FileSystemLoader(str(templates_dir)),
@@ -58,7 +79,13 @@ def render_site(
 
     docs_dir.mkdir(parents=True, exist_ok=True)
 
+    base = _resolve_base(site_base)
+    url = _resolve_url(site_url)
+    ctx = {"base": base, "site_url": url}
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+    # .nojekyll so GitHub Pages serves every file verbatim.
+    (docs_dir / ".nojekyll").write_text("", encoding="utf-8")
 
     # index.html — latest day
     if days:
@@ -70,11 +97,13 @@ def render_site(
             is_index=True,
             all_days=days,
             now=now_iso,
+            **ctx,
         )
         (docs_dir / "index.html").write_text(html, encoding="utf-8")
     else:
         (docs_dir / "index.html").write_text(
-            env.get_template("empty.html").render(now=now_iso), encoding="utf-8"
+            env.get_template("empty.html").render(now=now_iso, **ctx),
+            encoding="utf-8",
         )
 
     # Per-day permalinks.
@@ -90,6 +119,7 @@ def render_site(
             prev_day=prev_day,
             next_day=next_day,
             now=now_iso,
+            **ctx,
         )
         day_dir = docs_dir / "d" / day["date"]
         day_dir.mkdir(parents=True, exist_ok=True)
@@ -97,14 +127,16 @@ def render_site(
 
     # Archive.
     archive_html = env.get_template("archive.html").render(
-        all_days=days, now=now_iso
+        all_days=days, now=now_iso, **ctx
     )
     archive_dir = docs_dir / "archive"
     archive_dir.mkdir(parents=True, exist_ok=True)
     (archive_dir / "index.html").write_text(archive_html, encoding="utf-8")
 
     # Feed.
-    feed_xml = env.get_template("feed.xml").render(all_days=days[:50], now=now_iso)
+    feed_xml = env.get_template("feed.xml").render(
+        all_days=days[:50], now=now_iso, **ctx
+    )
     (docs_dir / "feed.xml").write_text(feed_xml, encoding="utf-8")
 
     # Stylesheet (copy if not already there).
@@ -112,4 +144,4 @@ def render_site(
     if css_src.exists():
         shutil.copyfile(css_src, docs_dir / "style.css")
 
-    return {"days": len(days)}
+    return {"days": len(days), "base": base, "site_url": url}

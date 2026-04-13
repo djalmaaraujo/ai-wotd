@@ -46,8 +46,8 @@
   {% endif %}
 
   <nav class="pager">
-    {% if prev_day %}<a href="/d/{{ prev_day.date }}/">← {{ prev_day.date }}</a>{% endif %}
-    {% if next_day %}<a href="/d/{{ next_day.date }}/">{{ next_day.date }} →</a>{% endif %}
+    {% if prev_day %}<a href="{{ base }}/d/{{ prev_day.date }}/">← {{ prev_day.date }}</a>{% endif %}
+    {% if next_day %}<a href="{{ base }}/d/{{ next_day.date }}/">{{ next_day.date }} →</a>{% endif %}
   </nav>
 </article>
 {% endblock %}

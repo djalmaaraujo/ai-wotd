@@ -59,16 +59,41 @@ def test_end_to_end(tmp_path: Path):
     assert (paths.parquet / "terms.parquet").exists()
     assert (paths.parquet / "wotd.parquet").exists()
 
-    # 5. Build site.
+    # 5. Build site with a custom base path (simulates GH Pages project URL).
     render_site(
         wotd_dir=paths.wotd,
         articles_dir=paths.articles,
         templates_dir=TEMPLATES_DIR,
         docs_dir=paths.docs,
+        site_base="/ai-wotd",
+        site_url="https://example.github.io/ai-wotd",
     )
     index_html = (paths.docs / "index.html").read_text()
     assert "<h1>" in index_html
     assert payload["word"] in index_html
+    # Base path should prefix every in-site link.
+    assert 'href="/ai-wotd/style.css"' in index_html
+    assert 'href="/ai-wotd/archive/"' in index_html
+    assert (paths.docs / ".nojekyll").exists()
     assert (paths.docs / "archive" / "index.html").exists()
     assert (paths.docs / "d" / d.isoformat() / "index.html").exists()
     assert (paths.docs / "feed.xml").exists()
+    feed = (paths.docs / "feed.xml").read_text()
+    assert "https://example.github.io/ai-wotd/d/" in feed
+
+
+def test_render_site_with_empty_base(tmp_path: Path):
+    """Custom-domain / root deployment: base='' should produce `/` links."""
+    paths = Paths.from_root(tmp_path)
+    paths.ensure()
+    render_site(
+        wotd_dir=paths.wotd,
+        articles_dir=paths.articles,
+        templates_dir=TEMPLATES_DIR,
+        docs_dir=paths.docs,
+        site_base="",
+        site_url="https://example.com",
+    )
+    index_html = (paths.docs / "index.html").read_text()
+    assert 'href="/style.css"' in index_html
+    assert 'href="/archive/"' in index_html

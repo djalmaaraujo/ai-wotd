@@ -6,7 +6,7 @@
 <ul class="archive">
   {% for d in all_days %}
   <li>
-    <a href="/d/{{ d.date }}/"><time>{{ d.date }}</time> — <strong>{{ d.word }}</strong></a>
+    <a href="{{ base }}/d/{{ d.date }}/"><time>{{ d.date }}</time> — <strong>{{ d.word }}</strong></a>
   </li>
   {% endfor %}
 </ul>
