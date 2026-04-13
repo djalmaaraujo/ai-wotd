@@ -1,6 +1,6 @@
 version: 1
 sources:
-  # --- Generic RSS/Atom (blogs, company feeds, arXiv alerts) ---
+  # --- Company blogs / news (RSS) ---
   - id: openai-blog
     type: rss
     name: "OpenAI Blog"
@@ -8,21 +8,38 @@ sources:
     feed: "https://openai.com/news/rss.xml"
     added: "2026-04-13"
 
-  - id: anthropic-news
+  - id: google-deepmind
     type: rss
-    name: "Anthropic News"
-    url: "https://www.anthropic.com/news"
-    feed: "https://www.anthropic.com/news/rss.xml"
+    name: "Google DeepMind Blog"
+    url: "https://deepmind.google/discover/blog/"
+    feed: "https://deepmind.google/blog/rss.xml"
     added: "2026-04-13"
 
-  # --- Newsletter (Beehiiv) ---
-  - id: aibreakfast
+  - id: huggingface-blog
+    type: rss
+    name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog"
+    feed: "https://huggingface.co/blog/feed.xml"
+    added: "2026-04-13"
+
+  # --- Newsletters (Substack) ---
+  # Substack RSS is always at <subdomain>.substack.com/feed
+  - id: import-ai
     type: newsletter
-    platform: beehiiv
-    name: "AI Breakfast"
-    url: "https://aibreakfast.beehiiv.com/"
-    feed: "https://aibreakfast.beehiiv.com/feed"
-    author: "AI Breakfast"
+    platform: substack
+    name: "Import AI"
+    url: "https://importai.substack.com/"
+    feed: "https://importai.substack.com/feed"
+    author: "Jack Clark"
+    added: "2026-04-13"
+
+  - id: one-useful-thing
+    type: newsletter
+    platform: substack
+    name: "One Useful Thing"
+    url: "https://www.oneusefulthing.org/"
+    feed: "https://www.oneusefulthing.org/feed"
+    author: "Ethan Mollick"
     added: "2026-04-13"
 
   # --- Twitter / X via Nitter RSS (best-effort) ---
