@@ -297,6 +297,64 @@ def cmd_reprocess(args) -> int:
     return 0
 
 
+def cmd_migrate_buckets(args) -> int:
+    """Re-bucket existing article JSONs by their `fetched_at` field.
+
+    When the bucketing policy changed from `published_at` to `fetched_at`,
+    historical article files stayed in folders matching their
+    publication date. This command walks data/articles/*/*.json, reads
+    each file's `fetched_at`, and moves any file whose parent folder
+    doesn't match. Idempotent; safe to run repeatedly.
+    """
+    paths = _paths_for(args)
+    articles_dir = paths.articles
+    if not articles_dir.exists():
+        log.info("migrate: no data/articles/ yet")
+        return 0
+
+    moved = 0
+    skipped = 0
+    for json_path in sorted(articles_dir.glob("*/*.json")):
+        try:
+            payload = json.loads(json_path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            log.warning("migrate: unreadable %s: %s", json_path, exc)
+            continue
+        fetched_at = payload.get("fetched_at") or ""
+        # Accept both "2026-04-13T18:54:24+00:00" and trailing-Z forms.
+        iso = fetched_at.rstrip("Z")
+        try:
+            bucket = datetime.fromisoformat(iso).date().isoformat()
+        except ValueError:
+            log.info("migrate: skipping %s (unparseable fetched_at)", json_path.name)
+            skipped += 1
+            continue
+        if json_path.parent.name == bucket:
+            continue  # already in the right place
+        new_dir = articles_dir / bucket
+        new_dir.mkdir(parents=True, exist_ok=True)
+        new_path = new_dir / json_path.name
+        if new_path.exists():
+            # Collision — keep whichever has content_sha256 that matches;
+            # otherwise leave the source alone.
+            log.info(
+                "migrate: %s already exists at %s; leaving original",
+                json_path.name,
+                bucket,
+            )
+            continue
+        json_path.rename(new_path)
+        moved += 1
+
+    # Clean up empty day folders.
+    for day_dir in list(articles_dir.iterdir()):
+        if day_dir.is_dir() and not any(day_dir.iterdir()):
+            day_dir.rmdir()
+
+    log.info("migrate: moved %d file(s), skipped %d", moved, skipped)
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="wotd", description="AI Word Of The Day pipeline.")
     p.add_argument("--root", default=".", help="Repo root (default: cwd).")
@@ -331,6 +389,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("export").set_defaults(fn=cmd_export)
     sub.add_parser("build").set_defaults(fn=cmd_build)
+    sub.add_parser("migrate-buckets").set_defaults(fn=cmd_migrate_buckets)
 
     sp = sub.add_parser("run")
     sp.add_argument("--date", default=None)

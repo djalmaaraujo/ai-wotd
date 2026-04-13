@@ -1,0 +1,117 @@
+name: Rebuild WOTD (no fetch)
+
+# Recomputes stats, WOTD, LLM blurb, Parquet exports, and the site from
+# the articles already on disk in data/articles/. No feed fetches, no
+# article-body requests. Useful after code changes to the scorer,
+# templates, or term extraction — "retry yesterday's brain without
+# re-downloading yesterday's news".
+
+on:
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Also rebuild every historical day (not just today)"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+      force_blurb:
+        description: "Re-run Claude blurb even if one already exists"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+concurrency:
+  group: wotd-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
+
+      # Restore (but do not re-save) the full-text cache, so the LLM blurb
+      # can use full article text instead of just snippets when available.
+      - name: Restore full-text cache (read-only)
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/wotd/fulltext
+          key: fulltext-readonly
+          restore-keys: |
+            fulltext-
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Re-bucket historical articles by fetched_at
+        # One-time consistency pass: articles committed before the bucket
+        # policy change were keyed by published_at. This moves each JSON
+        # into data/articles/<fetched_at-date>/. Idempotent.
+        run: wotd migrate-buckets
+
+      - name: Process stats
+        run: |
+          if [ "${{ inputs.backfill }}" = "true" ]; then
+            wotd process --backfill
+          else
+            wotd process
+          fi
+
+      - name: Elect WOTD
+        run: |
+          if [ "${{ inputs.backfill }}" = "true" ]; then
+            wotd wotd --backfill
+          else
+            wotd wotd
+          fi
+
+      - name: Claude blurb (latest day with a word)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ inputs.force_blurb }}" = "true" ]; then
+            wotd blurb --force
+          else
+            wotd blurb
+          fi
+
+      - name: Export Parquet
+        run: wotd export
+
+      - name: Render site
+        run: wotd build
+
+      - name: Commit & push
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name  "ai-wotd-bot"
+            git config user.email "ai-wotd-bot@users.noreply.github.com"
+            git add data/ docs/
+            WORD=$(for f in $(ls -r data/wotd/*.json 2>/dev/null); do w=$(jq -r '.word // empty' "$f"); if [ -n "$w" ]; then echo "$w"; break; fi; done)
+            WORD=${WORD:-update}
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "chore(wotd): rebuild ${DATE} — ${WORD}"
+            git push origin HEAD
+            echo "Pushed rebuild with word: ${WORD}"
+          else
+            echo "No changes from rebuild."
+          fi
