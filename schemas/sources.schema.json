@@ -11,7 +11,8 @@
         "oneOf": [
           { "$ref": "#/$defs/rss" },
           { "$ref": "#/$defs/newsletter" },
-          { "$ref": "#/$defs/twitter" }
+          { "$ref": "#/$defs/twitter" },
+          { "$ref": "#/$defs/archive" }
         ]
       }
     }
@@ -55,6 +56,25 @@
             },
             "url": { "type": "string", "format": "uri" },
             "feed": { "type": "string", "format": "uri" }
+          }
+        }
+      ]
+    },
+    "archive": {
+      "description": "Scrapes an archive HTML page for issue links. Use when RSS is unavailable.",
+      "allOf": [
+        { "$ref": "#/$defs/common" },
+        {
+          "type": "object",
+          "required": ["type", "url"],
+          "properties": {
+            "type": { "const": "archive" },
+            "url": { "type": "string", "format": "uri" },
+            "archive_url": { "type": "string", "format": "uri" },
+            "issue_path_prefix": {
+              "type": "string",
+              "description": "Only follow same-host <a> hrefs whose path starts with this (default: '/p/')"
+            }
           }
         }
       ]

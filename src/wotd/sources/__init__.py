@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from .archive import ArchiveAdapter
 from .base import SourceAdapter  # noqa: F401
 from .rss import RssAdapter
 from .newsletter import NewsletterAdapter
@@ -12,6 +13,7 @@ _REGISTRY: dict[str, type[SourceAdapter]] = {
     "rss": RssAdapter,
     "newsletter": NewsletterAdapter,
     "twitter": TwitterAdapter,
+    "archive": ArchiveAdapter,
 }
 
 

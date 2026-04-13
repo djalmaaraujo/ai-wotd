@@ -42,6 +42,16 @@ sources:
     author: "Ethan Mollick"
     added: "2026-04-13"
 
+  # --- Archive-scraper (use when RSS is unavailable) ---
+  - id: codenewsletter
+    type: archive
+    name: "Code Newsletter"
+    url: "https://codenewsletter.ai/"
+    archive_url: "https://codenewsletter.ai/archive"
+    issue_path_prefix: "/p/"
+    author: "Code Newsletter"
+    added: "2026-04-13"
+
   # --- Twitter / X via Nitter RSS (best-effort) ---
   - id: x-sama
     type: twitter
