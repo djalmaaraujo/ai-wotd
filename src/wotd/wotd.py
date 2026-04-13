@@ -75,11 +75,15 @@ def score_terms(
     today_terms: dict = today_stats.get("terms", {})
     today_doc_count = int(today_stats.get("document_count", 1) or 1)
 
+    # When the day only has one article, df>=2 is impossible — don't filter
+    # on it; otherwise there is no word of the day on slow days.
+    min_df = 2 if today_doc_count >= 2 else 1
+
     candidates: list[Candidate] = []
     for term, info in today_terms.items():
         tf_today = int(info.get("tf", 0))
         df_today = int(info.get("df", 0))
-        if df_today < 2:
+        if df_today < min_df:
             continue
 
         baseline_tfs = baseline_per_term.get(term, [])

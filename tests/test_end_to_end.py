@@ -36,13 +36,16 @@ def test_end_to_end(tmp_path: Path):
     paths = Paths.from_root(tmp_path)
     paths.ensure()
 
-    # 1. Write fake articles (no network).
+    # 1. Write fake articles (no network). Pin the bucket date explicitly.
+    from datetime import date, datetime
+    d = date(2026, 4, 13)
+    simulated_now = datetime.combine(d, datetime.min.time())
     for i in range(3):
-        write_article_derivative(_raw(i), paths.articles, paths.fulltext_cache)
+        write_article_derivative(
+            _raw(i), paths.articles, paths.fulltext_cache, now=simulated_now
+        )
 
     # 2. Process stats.
-    from datetime import date
-    d = date(2026, 4, 13)
     summary = build_day_stats(paths.articles, paths.stats, paths.fulltext_cache, d)
     assert summary is not None
 

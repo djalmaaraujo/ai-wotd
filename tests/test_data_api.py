@@ -1,5 +1,5 @@
 import json
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import polars as pl
@@ -16,10 +16,12 @@ def _build_fixture_corpus(root: Path) -> None:
     wotd_dir = root / "wotd"
     parquet_dir = root / "parquet"
 
-    # Two days of data.
+    # Two days of data. Pass `now=` explicitly so the fetched_at-based
+    # bucket lands on the simulated day, not on today.
     today = date(2026, 4, 13)
     yesterday = today - timedelta(days=1)
     for d, suffix in [(yesterday, "y"), (today, "t")]:
+        simulated_now = datetime.combine(d, datetime.min.time())
         for i in range(2):
             item = RawItem(
                 source_id="src",
@@ -32,7 +34,9 @@ def _build_fixture_corpus(root: Path) -> None:
                 content_text="MCP " + "agents " * (i + 2) + "context window",
                 kind="article",
             )
-            write_article_derivative(item, articles_dir, cache_dir)
+            write_article_derivative(
+                item, articles_dir, cache_dir, now=simulated_now
+            )
         build_day_stats(articles_dir, stats_dir, cache_dir, d)
 
     # Write a wotd entry for today manually.

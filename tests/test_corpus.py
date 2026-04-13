@@ -58,12 +58,14 @@ def test_write_article_derivative_has_no_full_text(tmp_path: Path):
 
 
 def test_build_day_stats_from_cache(tmp_path: Path):
+    from datetime import datetime
     articles = tmp_path / "articles"
     cache = tmp_path / "cache"
     stats = tmp_path / "stats"
-    for i in range(3):
-        write_article_derivative(_raw(i), articles, cache)
     day = date(2026, 4, 13)
+    simulated_now = datetime.combine(day, datetime.min.time())
+    for i in range(3):
+        write_article_derivative(_raw(i), articles, cache, now=simulated_now)
     summary = build_day_stats(articles, stats, cache, day)
     assert summary is not None
     assert summary["document_count"] == 3

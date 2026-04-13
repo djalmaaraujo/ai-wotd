@@ -130,8 +130,12 @@ def summarize_per_day(
             ):
                 t["authors"].append(author)
 
-    # Drop single-doc terms (can't be elected; just noise on disk).
-    terms = {k: v for k, v in terms.items() if v["df"] >= 2}
+    # Drop single-doc terms (can't be elected; just noise on disk) ONLY
+    # when the day has enough mass for df>=2 to be reachable. On slow days
+    # with a single article, keep everything so the scorer still has
+    # something to work with.
+    if len(per_article_counts) >= 2:
+        terms = {k: v for k, v in terms.items() if v["df"] >= 2}
 
     # Keep top-N by tf (then alphabetical for stable output).
     if len(terms) > max_terms:

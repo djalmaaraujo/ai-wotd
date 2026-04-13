@@ -94,7 +94,11 @@ def write_article_derivative(
     allowlist = allowlist if allowlist is not None else load_allowlist()
 
     article_id = article_id_for(item.source_id, item.external_id)
-    pub_date = parse_pub_date(item.published_at)
+    # Bucket articles by the day we fetched them (UTC). "Word of the day"
+    # means "what's being talked about today on the feeds we watch", not
+    # "what the publisher labelled with today's date". Slow publishers
+    # with ancient published_at values still contribute to today's WOTD.
+    bucket_date = now.date()
 
     full_text = item.content_text or ""
     content_sha256 = hashlib.sha256(full_text.encode("utf-8")).hexdigest()
@@ -122,7 +126,7 @@ def write_article_derivative(
         "top_terms": [list(t) for t in top_terms(counts, n=20)],
     }
 
-    day_dir = articles_dir / pub_date.isoformat()
+    day_dir = articles_dir / bucket_date.isoformat()
     day_dir.mkdir(parents=True, exist_ok=True)
     out_path = day_dir / f"{article_id}.json"
     with open(out_path, "w", encoding="utf-8") as f:
