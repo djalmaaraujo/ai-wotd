@@ -52,9 +52,7 @@ jobs:
             git config user.name  "ai-wotd-bot"
             git config user.email "ai-wotd-bot@users.noreply.github.com"
             git add data/ docs/
-            WORD=$(python -c "import json,glob,os; \
-paths=sorted(glob.glob('data/wotd/*.json')); \
-print(json.load(open(paths[-1]))['word'] if paths else 'update')" )
+            WORD=$(python -c "import json, glob; p=sorted(glob.glob('data/wotd/*.json')); print(json.load(open(p[-1]))['word'] if p else 'update')")
             DATE=$(date -u +%Y-%m-%d)
             git commit -m "chore(wotd): ${DATE} — ${WORD}"
             git push origin HEAD
