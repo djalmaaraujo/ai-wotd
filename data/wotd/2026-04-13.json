@@ -1,7 +1,204 @@
 {
-  "candidates": [],
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--2ed052c3",
+        "huggingface-blog--68db180e",
+        "huggingface-blog--c012219b",
+        "huggingface-blog--c71dcfc7",
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 10,
+      "score": 63500.449929,
+      "term": "n n",
+      "tf_today": 6745
+    },
+    {
+      "articles": [
+        "huggingface-blog--3d9b79af",
+        "huggingface-blog--4ff30db7",
+        "huggingface-blog--6a494170",
+        "huggingface-blog--bfc87805",
+        "huggingface-blog--c71dcfc7",
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--b38e9669",
+        "one-useful-thing--bb9276f7",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 13,
+      "score": 52623.12389,
+      "term": "b b",
+      "tf_today": 5603
+    },
+    {
+      "articles": [
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 52074.789679,
+      "term": "w w",
+      "tf_today": 5777
+    },
+    {
+      "articles": [
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--9fe3c81e",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 51503.963045,
+      "term": "qe",
+      "tf_today": 5687
+    },
+    {
+      "articles": [
+        "huggingface-blog--0d90400d",
+        "huggingface-blog--1129f170",
+        "huggingface-blog--1c816da1",
+        "huggingface-blog--2ed052c3",
+        "huggingface-blog--3bcb5df6",
+        "huggingface-blog--68db180e",
+        "huggingface-blog--6a494170",
+        "huggingface-blog--81c5c7a9",
+        "huggingface-blog--86293f58",
+        "huggingface-blog--92eef7dc",
+        "huggingface-blog--9b390704",
+        "huggingface-blog--a0b27e9a",
+        "huggingface-blog--a63671c4",
+        "huggingface-blog--bc06f358",
+        "huggingface-blog--c71dcfc7",
+        "huggingface-blog--d8274971",
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--480d126c",
+        "one-useful-thing--564e75dd",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--d8a724d0",
+        "one-useful-thing--d943e161",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 26,
+      "score": 50284.166414,
+      "term": "k k",
+      "tf_today": 5017
+    },
+    {
+      "articles": [
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--b38e9669",
+        "one-useful-thing--c7316dba",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 8,
+      "score": 44555.754623,
+      "term": "r r",
+      "tf_today": 4966
+    },
+    {
+      "articles": [
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 44428.27726,
+      "term": "obj",
+      "tf_today": 5011
+    },
+    {
+      "articles": [
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 44358.936008,
+      "term": "endobj",
+      "tf_today": 5004
+    },
+    {
+      "articles": [
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 44309.412781,
+      "term": "endobj obj",
+      "tf_today": 4999
+    },
+    {
+      "articles": [
+        "huggingface-blog--68db180e",
+        "one-useful-thing--03220e0f",
+        "one-useful-thing--35f0ac78",
+        "one-useful-thing--a6a722f5",
+        "one-useful-thing--d47afbec",
+        "one-useful-thing--e01f1e57",
+        "one-useful-thing--ff4ae5b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 41666.624708,
+      "term": "q q",
+      "tf_today": 4704
+    }
+  ],
   "date": "2026-04-13",
-  "evidence_article_ids": [],
-  "score": 0.0,
-  "word": null
+  "evidence_article_ids": [
+    "huggingface-blog--2ed052c3",
+    "huggingface-blog--68db180e",
+    "huggingface-blog--c012219b",
+    "huggingface-blog--c71dcfc7",
+    "one-useful-thing--03220e0f",
+    "one-useful-thing--35f0ac78",
+    "one-useful-thing--a6a722f5",
+    "one-useful-thing--d47afbec",
+    "one-useful-thing--e01f1e57",
+    "one-useful-thing--ff4ae5b5"
+  ],
+  "score": 63500.449929,
+  "word": "n n"
 }
