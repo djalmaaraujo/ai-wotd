@@ -1,0 +1,61 @@
+name: Validate sources.yml
+
+on:
+  pull_request:
+    paths:
+      - "sources.yml"
+      - "schemas/sources.schema.json"
+      - ".github/workflows/validate-sources.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install jsonschema PyYAML httpx
+
+      - name: Schema check
+        run: |
+          python - <<'PY'
+          import json, sys, yaml
+          from jsonschema import Draft202012Validator
+          with open("sources.yml") as f: doc = yaml.safe_load(f)
+          with open("schemas/sources.schema.json") as f: schema = json.load(f)
+          errors = sorted(Draft202012Validator(schema).iter_errors(doc), key=lambda e: e.path)
+          if errors:
+              for e in errors:
+                  print(f"::error ::{list(e.path)}: {e.message}")
+              sys.exit(1)
+          print(f"OK: {len(doc.get('sources') or [])} sources validated")
+          PY
+
+      - name: Reachability check
+        run: |
+          python - <<'PY'
+          import yaml, httpx, sys
+          with open("sources.yml") as f: doc = yaml.safe_load(f)
+          failures = []
+          for s in doc.get("sources") or []:
+              url = s.get("feed") or s.get("nitter_feed")
+              if not url:
+                  continue
+              try:
+                  r = httpx.get(url, timeout=10.0, follow_redirects=True,
+                                headers={"User-Agent": "ai-wotd-validator"})
+                  if r.status_code >= 400:
+                      failures.append((s["id"], url, r.status_code))
+              except Exception as e:
+                  failures.append((s["id"], url, str(e)))
+          for sid, url, why in failures:
+              print(f"::warning ::{sid}: {url} unreachable ({why})")
+          # Fail the check only on schema errors, not reachability, to avoid
+          # flaky PRs when a publisher's CDN hiccups.
+          PY

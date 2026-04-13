@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{% block title %}AI Word Of The Day{% endblock %}</title>
+  <link rel="stylesheet" href="{% block css_href %}/style.css{% endblock %}">
+  <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/feed.xml">
+</head>
+<body>
+  <header>
+    <a class="brand" href="/">AI Word Of The Day</a>
+    <nav>
+      <a href="/">Today</a>
+      <a href="/archive/">Archive</a>
+      <a href="https://github.com/djalmaaraujo/ai-wotd">GitHub</a>
+    </nav>
+  </header>
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  <footer>
+    <p>Updated {{ now }}. Built from public RSS, newsletters, and X.
+    Short attributed snippets shown under fair use; full text is never
+    redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
+  </footer>
+</body>
+</html>

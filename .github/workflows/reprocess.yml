@@ -1,0 +1,68 @@
+name: Reprocess WOTD
+
+on:
+  workflow_dispatch:
+    inputs:
+      from:
+        description: "From date (YYYY-MM-DD)"
+        required: true
+      to:
+        description: "To date (YYYY-MM-DD)"
+        required: true
+      steps:
+        description: "Stages to rerun"
+        required: true
+        default: "process+wotd"
+        type: choice
+        options:
+          - process
+          - wotd
+          - process+wotd
+          - all
+
+permissions:
+  contents: write
+
+jobs:
+  reprocess:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache/wotd/fulltext
+          key: fulltext-${{ github.run_id }}
+          restore-keys: |
+            fulltext-
+
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Reprocess
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          wotd reprocess --from "${{ inputs.from }}" --to "${{ inputs.to }}" --steps "${{ inputs.steps }}"
+          wotd export
+          wotd build
+
+      - name: Commit & push
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name  "ai-wotd-bot"
+            git config user.email "ai-wotd-bot@users.noreply.github.com"
+            git add data/ docs/
+            git commit -m "chore(wotd): reprocess ${{ inputs.from }}..${{ inputs.to }} (${{ inputs.steps }})"
+            git push origin HEAD
+          else
+            echo "No changes."
+          fi

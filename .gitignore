@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Build
+build/
+dist/
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# WOTD full-text cache (never committed)
+.cache/

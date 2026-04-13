@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OpenAI fixture feed</title>
+    <link>https://openai.example.com/</link>
+    <description>Fixture</description>
+    <item>
+      <title>Announcing MCP support</title>
+      <link>https://openai.example.com/posts/mcp</link>
+      <guid>https://openai.example.com/posts/mcp</guid>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
+      <description>We are shipping MCP support across our APIs today.
+        MCP is the context protocol everyone is talking about.
+        Developers can wire agents to MCP servers for tools and RAG.</description>
+    </item>
+    <item>
+      <title>New reasoning benchmarks for agents</title>
+      <link>https://openai.example.com/posts/reasoning</link>
+      <guid>https://openai.example.com/posts/reasoning</guid>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Our latest reasoning evals show agents using MCP
+        tools outperform prior baselines. The context window is 1M tokens.</description>
+    </item>
+  </channel>
+</rss>

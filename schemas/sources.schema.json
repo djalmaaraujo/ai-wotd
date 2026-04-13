@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WOTD sources.yml",
+  "type": "object",
+  "required": ["version", "sources"],
+  "properties": {
+    "version": { "type": "integer", "const": 1 },
+    "sources": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          { "$ref": "#/$defs/rss" },
+          { "$ref": "#/$defs/newsletter" },
+          { "$ref": "#/$defs/twitter" }
+        ]
+      }
+    }
+  },
+  "$defs": {
+    "common": {
+      "type": "object",
+      "required": ["id", "type", "name", "added"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "added": { "type": "string", "format": "date" },
+        "author": { "type": "string" }
+      }
+    },
+    "rss": {
+      "allOf": [
+        { "$ref": "#/$defs/common" },
+        {
+          "type": "object",
+          "required": ["type", "feed"],
+          "properties": {
+            "type": { "const": "rss" },
+            "url": { "type": "string", "format": "uri" },
+            "feed": { "type": "string", "format": "uri" }
+          }
+        }
+      ]
+    },
+    "newsletter": {
+      "allOf": [
+        { "$ref": "#/$defs/common" },
+        {
+          "type": "object",
+          "required": ["type", "feed", "platform"],
+          "properties": {
+            "type": { "const": "newsletter" },
+            "platform": {
+              "type": "string",
+              "enum": ["beehiiv", "substack", "ghost", "other"]
+            },
+            "url": { "type": "string", "format": "uri" },
+            "feed": { "type": "string", "format": "uri" }
+          }
+        }
+      ]
+    },
+    "twitter": {
+      "allOf": [
+        { "$ref": "#/$defs/common" },
+        {
+          "type": "object",
+          "required": ["type", "handle"],
+          "properties": {
+            "type": { "const": "twitter" },
+            "handle": { "type": "string", "pattern": "^[A-Za-z0-9_]{1,15}$" },
+            "nitter_feed": { "type": "string", "format": "uri" },
+            "x_api": { "type": "boolean" },
+            "min_likes": { "type": "integer", "minimum": 0 },
+            "exclude_replies": { "type": "boolean" }
+          },
+          "anyOf": [
+            { "required": ["nitter_feed"] },
+            { "required": ["x_api"] }
+          ]
+        }
+      ]
+    }
+  }
+}

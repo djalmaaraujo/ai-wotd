@@ -1,0 +1,63 @@
+name: Daily WOTD
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: wotd-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
+
+      - name: Restore full-text cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/wotd/fulltext
+          key: fulltext-${{ github.run_id }}
+          restore-keys: |
+            fulltext-
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: wotd run
+
+      - name: Commit & push
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name  "ai-wotd-bot"
+            git config user.email "ai-wotd-bot@users.noreply.github.com"
+            git add data/ docs/
+            WORD=$(python -c "import json,glob,os; \
+paths=sorted(glob.glob('data/wotd/*.json')); \
+print(json.load(open(paths[-1]))['word'] if paths else 'update')" )
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "chore(wotd): ${DATE} — ${WORD}"
+            git push origin HEAD
+          else
+            echo "No changes."
+          fi

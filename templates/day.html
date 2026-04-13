@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}{{ day.word }} — {{ day.date }} · AI WOTD{% endblock %}
+{% block content %}
+<article class="day">
+  <p class="date">{{ day.date }}</p>
+  <h1>{{ day.word }}</h1>
+
+  {% if day.llm and day.llm.why %}
+  <p class="why">{{ day.llm.why }}</p>
+  {% endif %}
+
+  {% if day.llm and day.llm.summary %}
+  <section class="summary">
+    <h2>Today in AI</h2>
+    <p>{{ day.llm.summary }}</p>
+  </section>
+  {% endif %}
+
+  {% if evidence %}
+  <section class="evidence">
+    <h2>Evidence ({{ evidence|length }})</h2>
+    <ul>
+      {% for a in evidence %}
+      <li>
+        <a href="{{ a.url_canonical or a.url }}" rel="noreferrer">{{ a.title or a.url }}</a>
+        <span class="meta">
+          {{ a.source_id }}{% if a.author %} · {{ a.author }}{% endif %}
+          · {{ a.published_at[:10] }}
+        </span>
+        {% if a.snippet %}<blockquote>{{ a.snippet }}</blockquote>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if day.candidates %}
+  <section class="candidates">
+    <h2>Candidates</h2>
+    <ol>
+      {% for c in day.candidates %}
+      <li>{{ c.term }} <span class="meta">tf={{ c.tf_today }}, df={{ c.df_today }}, score={{ "%.2f"|format(c.score) }}</span></li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+
+  <nav class="pager">
+    {% if prev_day %}<a href="/d/{{ prev_day.date }}/">← {{ prev_day.date }}</a>{% endif %}
+    {% if next_day %}<a href="/d/{{ next_day.date }}/">{{ next_day.date }} →</a>{% endif %}
+  </nav>
+</article>
+{% endblock %}

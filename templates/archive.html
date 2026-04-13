@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Archive · AI WOTD{% endblock %}
+{% block content %}
+<h1>Archive</h1>
+{% if all_days %}
+<ul class="archive">
+  {% for d in all_days %}
+  <li>
+    <a href="/d/{{ d.date }}/"><time>{{ d.date }}</time> — <strong>{{ d.word }}</strong></a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No entries yet.</p>
+{% endif %}
+{% endblock %}

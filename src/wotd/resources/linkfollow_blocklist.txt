@@ -1,0 +1,29 @@
+# Domains to never follow one-hop from newsletter bodies.
+# Social / video / tracking.
+x.com
+twitter.com
+t.co
+youtube.com
+youtu.be
+tiktok.com
+instagram.com
+facebook.com
+fb.com
+linkedin.com
+reddit.com
+pinterest.com
+threads.net
+mastodon.social
+# Newsletter / link shorteners / trackers.
+bit.ly
+buff.ly
+lnkd.in
+ow.ly
+link.mail.beehiiv.com
+substack.com
+open.substack.com
+click.convertkit-mail.com
+beehiiv.com
+# App stores / downloads.
+apps.apple.com
+play.google.com

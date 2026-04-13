@@ -1,0 +1,36 @@
+version: 1
+sources:
+  # --- Generic RSS/Atom (blogs, company feeds, arXiv alerts) ---
+  - id: openai-blog
+    type: rss
+    name: "OpenAI Blog"
+    url: "https://openai.com/blog"
+    feed: "https://openai.com/news/rss.xml"
+    added: "2026-04-13"
+
+  - id: anthropic-news
+    type: rss
+    name: "Anthropic News"
+    url: "https://www.anthropic.com/news"
+    feed: "https://www.anthropic.com/news/rss.xml"
+    added: "2026-04-13"
+
+  # --- Newsletter (Beehiiv) ---
+  - id: aibreakfast
+    type: newsletter
+    platform: beehiiv
+    name: "AI Breakfast"
+    url: "https://aibreakfast.beehiiv.com/"
+    feed: "https://aibreakfast.beehiiv.com/feed"
+    author: "AI Breakfast"
+    added: "2026-04-13"
+
+  # --- Twitter / X via Nitter RSS (best-effort) ---
+  - id: x-sama
+    type: twitter
+    handle: "sama"
+    name: "Sam Altman"
+    nitter_feed: "https://nitter.net/sama/rss"
+    min_likes: 50
+    exclude_replies: true
+    added: "2026-04-13"
