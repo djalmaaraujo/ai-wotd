@@ -46,43 +46,145 @@ def cmd_fetch(args) -> int:
     return 0
 
 
+def _discover_article_days(articles_dir: Path) -> list[date]:
+    """Every YYYY-MM-DD subdir that contains at least one article JSON."""
+    if not articles_dir.exists():
+        return []
+    days: list[date] = []
+    for entry in sorted(articles_dir.iterdir()):
+        if not entry.is_dir():
+            continue
+        try:
+            d = date.fromisoformat(entry.name)
+        except ValueError:
+            continue
+        if any(entry.glob("*.json")):
+            days.append(d)
+    return days
+
+
+def _discover_stats_days(stats_dir: Path) -> list[date]:
+    if not stats_dir.exists():
+        return []
+    days: list[date] = []
+    for p in sorted(stats_dir.glob("*.json")):
+        try:
+            days.append(date.fromisoformat(p.stem))
+        except ValueError:
+            pass
+    return days
+
+
 def cmd_process(args) -> int:
+    """Build per-day stats.
+
+    With --date: only that day.
+    Without --date: every day that has articles but whose stats are missing
+    or stale (backfill + idempotent).
+    """
     paths = _paths_for(args)
-    target = _parse_date(args.date)
     processed = state.load_processed_days(paths.index)
-    result = corpus.build_day_stats(
-        paths.articles, paths.stats, paths.fulltext_cache, target
-    )
-    if result is None:
-        log.info("process: no articles for %s", target)
-        return 0
-    processed[target.isoformat()] = {
-        "processed_at": datetime.now(timezone.utc).isoformat(),
-        "document_count": result["document_count"],
-    }
+
+    if args.date:
+        targets = [_parse_date(args.date)]
+    else:
+        targets = _discover_article_days(paths.articles)
+        if not targets:
+            log.info("process: no article days found")
+            return 0
+
+    built = 0
+    for target in targets:
+        stats_path = paths.stats / f"{target.isoformat()}.json"
+        if not args.date and stats_path.exists():
+            # Skip days already computed (idempotent backfill).
+            continue
+        result = corpus.build_day_stats(
+            paths.articles, paths.stats, paths.fulltext_cache, target
+        )
+        if result is None:
+            log.info("process: no articles for %s", target)
+            continue
+        processed[target.isoformat()] = {
+            "processed_at": datetime.now(timezone.utc).isoformat(),
+            "document_count": result["document_count"],
+        }
+        log.info("process: %s -> %d docs", target, result["document_count"])
+        built += 1
+
     state.save_processed_days(paths.index, processed)
-    log.info("process: %s -> %d docs", target, result["document_count"])
+    log.info("process: built %d day(s)", built)
     return 0
 
 
 def cmd_wotd(args) -> int:
+    """Elect the word of the day.
+
+    With --date: only that day.
+    Without --date: every day that has stats but no wotd.json yet, plus a
+    re-run for the most recent stats day even if it already has a wotd
+    (to pick up newly fetched articles that landed in the same day).
+    """
     paths = _paths_for(args)
     settings = Settings.from_env()
-    target = _parse_date(args.date)
-    payload = wotd.pick_wotd(
-        paths.stats, paths.wotd, target, baseline_days=settings.baseline_days
-    )
-    if payload is None:
-        log.info("wotd: no stats for %s", target)
-        return 0
-    log.info("wotd: %s -> %s", target, payload.get("word"))
+
+    if args.date:
+        targets = [_parse_date(args.date)]
+    else:
+        stats_days = _discover_stats_days(paths.stats)
+        if not stats_days:
+            log.info("wotd: no stats found")
+            return 0
+        existing = {p.stem for p in paths.wotd.glob("*.json")}
+        targets = [d for d in stats_days if d.isoformat() not in existing]
+        # Always refresh the newest stats day, since more articles may have
+        # landed on it since the last run.
+        newest = stats_days[-1]
+        if newest not in targets:
+            targets.append(newest)
+
+    for target in targets:
+        payload = wotd.pick_wotd(
+            paths.stats, paths.wotd, target, baseline_days=settings.baseline_days
+        )
+        if payload is None:
+            log.info("wotd: no stats for %s", target)
+            continue
+        log.info("wotd: %s -> %s", target, payload.get("word"))
     return 0
+
+
+def _latest_wotd_date(wotd_dir: Path) -> date | None:
+    days: list[date] = []
+    for p in wotd_dir.glob("*.json"):
+        try:
+            days.append(date.fromisoformat(p.stem))
+        except ValueError:
+            pass
+    return max(days) if days else None
 
 
 def cmd_blurb(args) -> int:
     paths = _paths_for(args)
     settings = Settings.from_env()
-    target = _parse_date(args.date)
+    if args.date:
+        target = _parse_date(args.date)
+    else:
+        # Default: most recent day that actually has a word elected.
+        latest = None
+        for p in sorted(paths.wotd.glob("*.json"), reverse=True):
+            try:
+                payload = json.loads(p.read_text())
+            except Exception:
+                continue
+            if payload.get("word"):
+                latest = date.fromisoformat(p.stem)
+                break
+        if latest is None:
+            log.info("blurb: no elected word to blurb yet")
+            return 0
+        target = latest
+
     wotd_path = paths.wotd / f"{target.isoformat()}.json"
     if not wotd_path.exists():
         log.info("blurb: no wotd json for %s", target)
@@ -90,6 +192,11 @@ def cmd_blurb(args) -> int:
 
     with open(wotd_path, "r", encoding="utf-8") as f:
         payload = json.load(f)
+
+    # Don't re-blurb if it already has one (avoid burning API quota daily).
+    if payload.get("llm", {}).get("summary") and not getattr(args, "force", False):
+        log.info("blurb: %s already has a blurb; skipping", target)
+        return 0
 
     # Collect evidence with full text (from cache if present).
     evidence_articles: list[dict] = []
@@ -213,6 +320,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     sp = sub.add_parser("blurb")
     sp.add_argument("--date", default=None)
+    sp.add_argument("--force", action="store_true", help="Re-blurb even if already present.")
     sp.set_defaults(fn=cmd_blurb)
 
     sub.add_parser("export").set_defaults(fn=cmd_export)
