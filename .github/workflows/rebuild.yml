@@ -8,23 +8,6 @@ name: Rebuild WOTD (no fetch)
 
 on:
   workflow_dispatch:
-    inputs:
-      backfill:
-        description: "Also rebuild every historical day (not just today)"
-        required: false
-        default: "true"
-        type: choice
-        options:
-          - "true"
-          - "false"
-      force_blurb:
-        description: "Re-run Claude blurb even if one already exists"
-        required: false
-        default: "false"
-        type: choice
-        options:
-          - "true"
-          - "false"
 
 concurrency:
   group: wotd-main
@@ -46,8 +29,6 @@ jobs:
           cache: "pip"
           cache-dependency-path: requirements.txt
 
-      # Restore (but do not re-save) the full-text cache, so the LLM blurb
-      # can use full article text instead of just snippets when available.
       - name: Restore full-text cache (read-only)
         uses: actions/cache/restore@v4
         with:
@@ -63,36 +44,18 @@ jobs:
           pip install -e .
 
       - name: Re-bucket historical articles by fetched_at
-        # One-time consistency pass: articles committed before the bucket
-        # policy change were keyed by published_at. This moves each JSON
-        # into data/articles/<fetched_at-date>/. Idempotent.
         run: wotd migrate-buckets
 
-      - name: Process stats
-        run: |
-          if [ "${{ inputs.backfill }}" = "true" ]; then
-            wotd process --backfill
-          else
-            wotd process
-          fi
+      - name: Process stats (all historical days)
+        run: wotd process --backfill
 
-      - name: Elect WOTD
-        run: |
-          if [ "${{ inputs.backfill }}" = "true" ]; then
-            wotd wotd --backfill
-          else
-            wotd wotd
-          fi
+      - name: Elect WOTD (all historical days)
+        run: wotd wotd --backfill
 
-      - name: Claude blurb (latest day with a word)
+      - name: Claude blurb (latest elected day only; skipped if key absent)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          if [ "${{ inputs.force_blurb }}" = "true" ]; then
-            wotd blurb --force
-          else
-            wotd blurb
-          fi
+        run: wotd blurb
 
       - name: Export Parquet
         run: wotd export
