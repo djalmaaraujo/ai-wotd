@@ -22,8 +22,7 @@ sources:
     feed: "https://huggingface.co/blog/feed.xml"
     added: "2026-04-13"
 
-  # --- Newsletters (Substack) ---
-  # Substack RSS is always at <subdomain>.substack.com/feed
+  # --- Newsletter (Substack RSS) ---
   - id: import-ai
     type: newsletter
     platform: substack
@@ -33,21 +32,33 @@ sources:
     author: "Jack Clark"
     added: "2026-04-13"
 
+  # --- Archive + sitemap (Beehiiv/Substack without RSS or wanting full history) ---
+  - id: aibreakfast
+    type: archive
+    name: "AI Breakfast"
+    url: "https://aibreakfast.beehiiv.com/"
+    archive_url: "https://aibreakfast.beehiiv.com/archive"
+    sitemap_url: "https://aibreakfast.beehiiv.com/sitemap.xml"
+    issue_path_prefix: "/p/"
+    author: "AI Breakfast"
+    added: "2026-04-14"
+
   - id: one-useful-thing
-    type: newsletter
-    platform: substack
+    type: archive
     name: "One Useful Thing"
     url: "https://www.oneusefulthing.org/"
-    feed: "https://www.oneusefulthing.org/feed"
+    archive_url: "https://www.oneusefulthing.org/archive"
+    sitemap_url: "https://www.oneusefulthing.org/sitemap.xml"
+    issue_path_prefix: "/p/"
     author: "Ethan Mollick"
     added: "2026-04-13"
 
-  # --- Archive-scraper (use when RSS is unavailable) ---
   - id: codenewsletter
     type: archive
     name: "Code Newsletter"
     url: "https://codenewsletter.ai/"
     archive_url: "https://codenewsletter.ai/archive"
+    sitemap_url: "https://codenewsletter.ai/sitemap.xml"
     issue_path_prefix: "/p/"
     author: "Code Newsletter"
     added: "2026-04-13"
@@ -61,3 +72,19 @@ sources:
     min_likes: 50
     exclude_replies: true
     added: "2026-04-13"
+
+  - id: x-trq212
+    type: twitter
+    handle: "trq212"
+    name: "@trq212"
+    nitter_feed: "https://nitter.net/trq212/rss"
+    exclude_replies: true
+    added: "2026-04-14"
+
+  - id: x-bcherny
+    type: twitter
+    handle: "bcherny"
+    name: "Boris Cherny"
+    nitter_feed: "https://nitter.net/bcherny/rss"
+    exclude_replies: true
+    added: "2026-04-14"
