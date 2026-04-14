@@ -69,11 +69,20 @@ def make_snippet(text: str, max_chars: int = SNIPPET_MAX_CHARS) -> str:
     return cut.rstrip(" ,.;:-") + "…"
 
 
-def parse_pub_date(published_at: str) -> date:
+def parse_pub_date(published_at: str) -> date | None:
+    """Return a valid UTC date from an ISO timestamp, or None on failure."""
+    if not published_at:
+        return None
     try:
         return datetime.fromisoformat(published_at.replace("Z", "+00:00")).date()
-    except Exception:
-        return date.today()
+    except (ValueError, AttributeError):
+        return None
+
+
+# Articles labelled with a date outside [EARLIEST_PLAUSIBLE, today] fall
+# back to fetched_at. Guards against parse errors that produce epoch-0
+# dates and against feeds with future-dated entries.
+EARLIEST_PLAUSIBLE = date(2015, 1, 1)
 
 
 def write_article_derivative(
@@ -94,11 +103,18 @@ def write_article_derivative(
     allowlist = allowlist if allowlist is not None else load_allowlist()
 
     article_id = article_id_for(item.source_id, item.external_id)
-    # Bucket articles by the day we fetched them (UTC). "Word of the day"
-    # means "what's being talked about today on the feeds we watch", not
-    # "what the publisher labelled with today's date". Slow publishers
-    # with ancient published_at values still contribute to today's WOTD.
-    bucket_date = now.date()
+    # Bucket by the publisher's date when it's plausible, so a sitemap
+    # backfill produces a proper timeline (one WOTD per historical day)
+    # instead of dumping everything into fetched_at's bucket. Fall back
+    # to fetched_at for articles with missing / bogus / future-dated
+    # published_at (which still lets slow-day content contribute to
+    # today's WOTD).
+    pub = parse_pub_date(item.published_at)
+    today = now.date()
+    if pub and EARLIEST_PLAUSIBLE <= pub <= today:
+        bucket_date = pub
+    else:
+        bucket_date = today
 
     full_text = item.content_text or ""
     content_sha256 = hashlib.sha256(full_text.encode("utf-8")).hexdigest()

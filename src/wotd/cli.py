@@ -294,19 +294,28 @@ def cmd_reprocess(args) -> int:
 
 
 def cmd_migrate_buckets(args) -> int:
-    """Re-bucket existing article JSONs by their `fetched_at` field.
+    """Re-bucket existing article JSONs to match the current policy.
 
-    When the bucketing policy changed from `published_at` to `fetched_at`,
-    historical article files stayed in folders matching their
-    publication date. This command walks data/articles/*/*.json, reads
-    each file's `fetched_at`, and moves any file whose parent folder
-    doesn't match. Idempotent; safe to run repeatedly.
+    Policy: bucket by `published_at` when plausible (between
+    2015-01-01 and today inclusive), else fall back to `fetched_at`.
+    Idempotent; safe to run repeatedly. Cleans up day folders that end
+    up empty.
     """
     paths = _paths_for(args)
     articles_dir = paths.articles
     if not articles_dir.exists():
         log.info("migrate: no data/articles/ yet")
         return 0
+
+    today = datetime.now(timezone.utc).date()
+
+    def _parse(iso: str | None) -> date | None:
+        if not iso:
+            return None
+        try:
+            return datetime.fromisoformat(iso.replace("Z", "+00:00")).date()
+        except (ValueError, AttributeError):
+            return None
 
     moved = 0
     skipped = 0
@@ -316,15 +325,22 @@ def cmd_migrate_buckets(args) -> int:
         except Exception as exc:
             log.warning("migrate: unreadable %s: %s", json_path, exc)
             continue
-        fetched_at = payload.get("fetched_at") or ""
-        # Accept both "2026-04-13T18:54:24+00:00" and trailing-Z forms.
-        iso = fetched_at.rstrip("Z")
-        try:
-            bucket = datetime.fromisoformat(iso).date().isoformat()
-        except ValueError:
-            log.info("migrate: skipping %s (unparseable fetched_at)", json_path.name)
+        pub = _parse(payload.get("published_at"))
+        fetched = _parse(payload.get("fetched_at"))
+        earliest = date(2015, 1, 1)
+        target: date | None = None
+        if pub and earliest <= pub <= today:
+            target = pub
+        elif fetched:
+            target = fetched
+        if target is None:
+            log.info(
+                "migrate: skipping %s (no usable published_at/fetched_at)",
+                json_path.name,
+            )
             skipped += 1
             continue
+        bucket = target.isoformat()
         if json_path.parent.name == bucket:
             continue  # already in the right place
         new_dir = articles_dir / bucket
