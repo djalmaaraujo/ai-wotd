@@ -136,8 +136,19 @@ class RssAdapter:
                 with httpx.Client(timeout=15.0, follow_redirects=True) as client:
                     article_resp = client.get(url, headers={"User-Agent": user_agent})
                 if article_resp.status_code == 200:
-                    body_html = article_resp.text
-                    _, body_text = extract_article_text(body_html)
+                    ctype = (article_resp.headers.get("content-type") or "").lower()
+                    # Only pass HTML/XML/text through readability. PDFs and
+                    # other binary blobs get skipped — they contaminate the
+                    # corpus with stream markers like "obj", "endobj", "q q".
+                    if "html" in ctype or "xml" in ctype or ctype.startswith("text/"):
+                        body_html = article_resp.text
+                        _, body_text = extract_article_text(body_html)
+                    else:
+                        logger.info(
+                            "rss: skipping non-HTML body for %s (content-type=%s)",
+                            url,
+                            ctype or "unknown",
+                        )
             except Exception as exc:
                 logger.info("rss: body fetch failed for %s: %s", url, exc)
 

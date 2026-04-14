@@ -49,7 +49,9 @@ jobs:
       - name: Process stats (all historical days)
         run: wotd process --backfill
 
-      - name: Elect WOTD (all historical days)
+      - name: Elect WOTD (all historical days; Groq reranks if key present)
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: wotd wotd --backfill
 
       - name: Claude blurb (latest elected day only; skipped if key absent)

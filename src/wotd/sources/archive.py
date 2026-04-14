@@ -248,6 +248,14 @@ class ArchiveAdapter:
                 continue
             if issue_resp.status_code != 200:
                 continue
+            ctype = (issue_resp.headers.get("content-type") or "").lower()
+            if not ("html" in ctype or "xml" in ctype or ctype.startswith("text/")):
+                logger.info(
+                    "archive: skipping non-HTML issue %s (content-type=%s)",
+                    url,
+                    ctype or "unknown",
+                )
+                continue
 
             issue_html = issue_resp.text
             title, body_text = extract_article_text(issue_html)

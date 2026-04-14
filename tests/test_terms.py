@@ -44,3 +44,29 @@ def test_top_terms_is_deterministic():
     c = Counter({"b": 2, "a": 2, "c": 1})
     # Same count → alphabetical.
     assert top_terms(c, n=2) == [("a", 2), ("b", 2)]
+
+
+def test_extract_terms_rejects_single_char_tokens_in_ngrams():
+    """PDF-leakage regression: "n n", "q q", "w w" must NOT survive."""
+    # Looks like PDF stream residue.
+    text = "n n q q w w obj endobj endstream n n"
+    counts = extract_terms(text)
+    assert "n n" not in counts
+    assert "q q" not in counts
+    assert "w w" not in counts
+    # Single-letter unigrams also out.
+    assert "n" not in counts
+    assert "q" not in counts
+    # And the PDF artifacts are stopworded.
+    assert "obj" not in counts
+    assert "endobj" not in counts
+
+
+def test_extract_terms_still_keeps_normal_ngrams():
+    text = "The context window for this model is one million tokens."
+    counts = extract_terms(text)
+    # Allowlisted multi-word term survives.
+    assert counts.get("context window", 0) >= 1
+    # Good unigrams survive.
+    assert counts.get("tokens", 0) >= 1
+    assert counts.get("model", 0) >= 1

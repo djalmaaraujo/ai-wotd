@@ -48,12 +48,14 @@ def extract_terms(
     stopwords: frozenset[str] | None = None,
     allowlist: frozenset[str] | None = None,
     max_n: int = 3,
+    min_token_len: int = 2,
 ) -> Counter:
     """Return a Counter of terms (unigrams..n-grams) with stopword filtering.
 
     A term is kept when:
       * it's in the allowlist, OR
-      * it has at least one non-stopword token and ≥2 chars and not all digits.
+      * every token is at least `min_token_len` chars, has a non-digit
+        component, and the gram isn't entirely stopwords.
     """
     stopwords = stopwords if stopwords is not None else load_stopwords()
     allowlist = allowlist if allowlist is not None else load_allowlist()
@@ -67,15 +69,18 @@ def extract_terms(
                 counts[gram] += 1
                 continue
             parts = gram.split(" ")
+            # Reject grams where any individual token is too short or all-digit.
+            # This is what traps "n n", "q q", "obj obj", etc. from PDF leakage.
+            if any(len(p) < min_token_len for p in parts):
+                continue
+            if any(p.isdigit() for p in parts):
+                continue
             # Drop pure-stopword grams.
             if all(p in stopwords for p in parts):
                 continue
-            # Require at least one alpha-bearing content token.
-            if all(p.isdigit() for p in parts):
-                continue
             if n == 1:
                 tok = parts[0]
-                if tok in stopwords or len(tok) < 2 or tok.isdigit():
+                if tok in stopwords:
                     continue
             counts[gram] += 1
 

@@ -141,15 +141,43 @@ def pick_wotd(
             "evidence_article_ids": [],
         }
     else:
-        top = candidates[0]
         top10 = [c.to_dict() for c in candidates[:10]]
+        # Deterministic top — always the fallback.
+        det_top = candidates[0]
+        chosen_term = det_top.term
+        reranked: list[str] | None = None
+        rerank_meta: dict | None = None
+
+        # Optional: ask Groq to rerank by AI-domain relevance. One call
+        # per day, gated on GROQ_API_KEY. If it succeeds, the LLM's top
+        # term becomes the WOTD; if not, we keep the deterministic pick.
+        try:
+            from .ranker import rerank_candidates, DEFAULT_MODEL as _GROQ_MODEL
+
+            reranked = rerank_candidates(
+                [c.to_dict() for c in candidates[:40]]
+            )
+            if reranked:
+                chosen_term = reranked[0]
+                rerank_meta = {
+                    "by": "groq",
+                    "model": _GROQ_MODEL,
+                    "top": reranked,
+                }
+        except Exception:  # noqa: BLE001 — reranker must never block WOTD
+            reranked = None
+
+        chosen = next((c for c in candidates if c.term == chosen_term), det_top)
+
         payload = {
             "date": target.isoformat(),
-            "word": top.term,
-            "score": round(top.score, 6),
+            "word": chosen.term,
+            "score": round(chosen.score, 6),
             "candidates": top10,
-            "evidence_article_ids": list(top.articles)[:10],
+            "evidence_article_ids": list(chosen.articles)[:10],
         }
+        if rerank_meta:
+            payload["rerank"] = rerank_meta
 
     wotd_dir.mkdir(parents=True, exist_ok=True)
     out = wotd_dir / f"{target.isoformat()}.json"
