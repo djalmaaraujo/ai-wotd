@@ -96,3 +96,43 @@ sources:
     nitter_feed: "https://nitter.net/claudeai/rss"
     exclude_replies: true
     added: "2026-04-14"
+
+  - id: x-karpathy
+    type: twitter
+    handle: "karpathy"
+    name: "Andrej Karpathy"
+    nitter_feed: "https://nitter.net/karpathy/rss"
+    exclude_replies: true
+    added: "2026-04-14"
+
+  - id: x-simonw
+    type: twitter
+    handle: "simonw"
+    name: "Simon Willison"
+    nitter_feed: "https://nitter.net/simonw/rss"
+    exclude_replies: true
+    added: "2026-04-14"
+
+  - id: x-drjimfan
+    type: twitter
+    handle: "DrJimFan"
+    name: "Jim Fan"
+    nitter_feed: "https://nitter.net/DrJimFan/rss"
+    exclude_replies: true
+    added: "2026-04-14"
+
+  - id: x-ylecun
+    type: twitter
+    handle: "ylecun"
+    name: "Yann LeCun"
+    nitter_feed: "https://nitter.net/ylecun/rss"
+    exclude_replies: true
+    added: "2026-04-14"
+
+  - id: x-demishassabis
+    type: twitter
+    handle: "demishassabis"
+    name: "Demis Hassabis"
+    nitter_feed: "https://nitter.net/demishassabis/rss"
+    exclude_replies: true
+    added: "2026-04-14"
