@@ -88,3 +88,11 @@ sources:
     nitter_feed: "https://nitter.net/bcherny/rss"
     exclude_replies: true
     added: "2026-04-14"
+
+  - id: x-claudeai
+    type: twitter
+    handle: "claudeai"
+    name: "Claude (Anthropic)"
+    nitter_feed: "https://nitter.net/claudeai/rss"
+    exclude_replies: true
+    added: "2026-04-14"
