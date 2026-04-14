@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--fe742ef7",
+  "author": "Boris Cherny",
+  "content_chars": 234,
+  "content_sha256": "5b96d5bca78d656fef33dbd66dc6f0ace121e82d2e8a9efde434feed547b026d",
+  "content_tokens": 58,
+  "fetched_at": "2026-04-14T01:47:18Z",
+  "kind": "tweet",
+  "published_at": "2026-04-09T21:23:30+00:00",
+  "snippet": "The wins came from three places: 1. Pre-computing upfront in a clever way that doesn't block the main thread 2. Avoiding NAPI overhead for small result sets 3. Iteratively asking Claude to find perf improvements for faster file search",
+  "source_id": "x-bcherny",
+  "title": "The wins came from three places: 1. Pre-computing upfront in a clever way that d",
+  "top_terms": [
+    [
+      "came from three",
+      2
+    ],
+    [
+      "clever",
+      2
+    ],
+    [
+      "clever way",
+      2
+    ],
+    [
+      "clever way that",
+      2
+    ],
+    [
+      "from three",
+      2
+    ],
+    [
+      "from three places",
+      2
+    ],
+    [
+      "places",
+      2
+    ],
+    [
+      "places pre-computing",
+      2
+    ],
+    [
+      "places pre-computing upfront",
+      2
+    ],
+    [
+      "pre-computing",
+      2
+    ],
+    [
+      "pre-computing upfront",
+      2
+    ],
+    [
+      "pre-computing upfront in",
+      2
+    ],
+    [
+      "the wins",
+      2
+    ],
+    [
+      "the wins came",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "three places",
+      2
+    ],
+    [
+      "three places pre-computing",
+      2
+    ],
+    [
+      "upfront",
+      2
+    ],
+    [
+      "upfront in",
+      2
+    ],
+    [
+      "way",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2042352728094245016",
+  "url_canonical": "https://x.com/bcherny/status/2042352728094245016",
+  "via_source_id": null
+}

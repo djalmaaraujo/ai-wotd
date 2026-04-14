@@ -1,0 +1,98 @@
+{
+  "article_id": "x-karpathy--3ff5d161",
+  "author": "Andrej Karpathy",
+  "content_chars": 378,
+  "content_sha256": "3d75bdb10e92c2868c32f2ef62984b360a5a68e51c37eefeb387ffc2a3c219a1",
+  "content_tokens": 94,
+  "fetched_at": "2026-04-14T01:47:20Z",
+  "kind": "tweet",
+  "published_at": "2026-03-25T16:22:08+00:00",
+  "snippet": "(I cycle through all LLMs over time and all of them seem to do this so it's not any particular implementation but something deeper, e.g. maybe during training, a lot of the information in the context window is relevant to the task, so the LLMs develop a bias to use what is…",
+  "source_id": "x-karpathy",
+  "title": "(I cycle through all LLMs over time and all of them seem to do this so it's not ",
+  "top_terms": [
+    [
+      "llms",
+      3
+    ],
+    [
+      "all llms",
+      2
+    ],
+    [
+      "all llms over",
+      2
+    ],
+    [
+      "cycle",
+      2
+    ],
+    [
+      "cycle through",
+      2
+    ],
+    [
+      "cycle through all",
+      2
+    ],
+    [
+      "it's",
+      2
+    ],
+    [
+      "it's not",
+      2
+    ],
+    [
+      "llms over",
+      2
+    ],
+    [
+      "llms over time",
+      2
+    ],
+    [
+      "of them seem",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "seem to",
+      2
+    ],
+    [
+      "seem to do",
+      2
+    ],
+    [
+      "so it's",
+      2
+    ],
+    [
+      "so it's not",
+      2
+    ],
+    [
+      "them seem",
+      2
+    ],
+    [
+      "them seem to",
+      2
+    ],
+    [
+      "this so it's",
+      2
+    ],
+    [
+      "through all llms",
+      2
+    ]
+  ],
+  "url": "https://x.com/karpathy/status/2036841069636370467",
+  "url_canonical": "https://x.com/karpathy/status/2036841069636370467",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--ec65330f",
+  "author": "Boris Cherny",
+  "content_chars": 251,
+  "content_sha256": "ac4933edc34cee398bd2645356e5a837dc04863e88f66d98d2d56bc265d6e95f",
+  "content_tokens": 62,
+  "fetched_at": "2026-04-14T01:47:18Z",
+  "kind": "tweet",
+  "published_at": "2026-04-10T18:27:59+00:00",
+  "snippet": "Claude now supports dynamic looping. If you run /loop without passing an interval, Claude will dynamically schedule the next tick based on your task. It also may directly use the Monitor tool to bypass polling altogether /loop check CI on my PR Video",
+  "source_id": "x-bcherny",
+  "title": "Claude now supports dynamic looping. If you run /loop without passing an interva",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "loop",
+      3
+    ],
+    [
+      "claude now",
+      2
+    ],
+    [
+      "claude now supports",
+      2
+    ],
+    [
+      "dynamic",
+      2
+    ],
+    [
+      "dynamic looping",
+      2
+    ],
+    [
+      "dynamic looping if",
+      2
+    ],
+    [
+      "if you run",
+      2
+    ],
+    [
+      "loop without",
+      2
+    ],
+    [
+      "loop without passing",
+      2
+    ],
+    [
+      "looping",
+      2
+    ],
+    [
+      "looping if",
+      2
+    ],
+    [
+      "looping if you",
+      2
+    ],
+    [
+      "now supports",
+      2
+    ],
+    [
+      "now supports dynamic",
+      2
+    ],
+    [
+      "passing",
+      2
+    ],
+    [
+      "passing an",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "run loop",
+      2
+    ],
+    [
+      "run loop without",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2042670949003153647",
+  "url_canonical": "https://x.com/bcherny/status/2042670949003153647",
+  "via_source_id": null
+}

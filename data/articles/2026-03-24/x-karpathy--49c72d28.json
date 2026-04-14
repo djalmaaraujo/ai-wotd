@@ -1,0 +1,98 @@
+{
+  "article_id": "x-karpathy--49c72d28",
+  "author": "Andrej Karpathy",
+  "content_chars": 2076,
+  "content_sha256": "f3ab4dea37d899d05c0dd843d101ef876e1c5ce65f0755ccbd446a402a66d05c",
+  "content_tokens": 519,
+  "fetched_at": "2026-04-14T01:47:20Z",
+  "kind": "tweet",
+  "published_at": "2026-03-24T16:56:24+00:00",
+  "snippet": "Software horror: litellm PyPI supply chain attack. Simple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database…",
+  "source_id": "x-karpathy",
+  "title": "Software horror: litellm PyPI supply chain attack. Simple `pip install litellm` ",
+  "top_terms": [
+    [
+      "litellm",
+      13
+    ],
+    [
+      "attack",
+      5
+    ],
+    [
+      "install",
+      4
+    ],
+    [
+      "software",
+      4
+    ],
+    [
+      "chain",
+      3
+    ],
+    [
+      "credentials",
+      3
+    ],
+    [
+      "keys",
+      3
+    ],
+    [
+      "litellm pypi",
+      3
+    ],
+    [
+      "on litellm",
+      3
+    ],
+    [
+      "pip",
+      3
+    ],
+    [
+      "pip install",
+      3
+    ],
+    [
+      "pypi",
+      3
+    ],
+    [
+      "simple",
+      3
+    ],
+    [
+      "supply",
+      3
+    ],
+    [
+      "supply chain",
+      3
+    ],
+    [
+      "attack simple",
+      2
+    ],
+    [
+      "attack simple pip",
+      2
+    ],
+    [
+      "been compromised",
+      2
+    ],
+    [
+      "chain attack",
+      2
+    ],
+    [
+      "chain attack simple",
+      2
+    ]
+  ],
+  "url": "https://x.com/karpathy/status/2036487306585268612",
+  "url_canonical": "https://x.com/karpathy/status/2036487306585268612",
+  "via_source_id": null
+}

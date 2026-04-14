@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--e4e2ff1e",
+  "author": "Boris Cherny",
+  "content_chars": 285,
+  "content_sha256": "fe3f3562d76ca338d7fe41b01621c789bf90a7dc5a6f0ff585cdb4d3ba31bffc",
+  "content_tokens": 71,
+  "fetched_at": "2026-04-14T01:47:18Z",
+  "kind": "tweet",
+  "published_at": "2026-04-09T20:06:16+00:00",
+  "snippet": "Tired of manually writing config files and env vars to use Claude Code with Amazon Bedrock or Google Vertex? Me too. Just shipped a setup wizard that handles it for you. Bonus: Claude Code now notices if you have an older model pinned and suggests a newer one if you have access!…",
+  "source_id": "x-bcherny",
+  "title": "Tired of manually writing config files and env vars to use Claude Code with Amaz",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "claude code",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "and env",
+      2
+    ],
+    [
+      "and env vars",
+      2
+    ],
+    [
+      "claude code with",
+      2
+    ],
+    [
+      "code with",
+      2
+    ],
+    [
+      "config",
+      2
+    ],
+    [
+      "config files",
+      2
+    ],
+    [
+      "config files and",
+      2
+    ],
+    [
+      "env",
+      2
+    ],
+    [
+      "env vars",
+      2
+    ],
+    [
+      "env vars to",
+      2
+    ],
+    [
+      "files",
+      2
+    ],
+    [
+      "files and",
+      2
+    ],
+    [
+      "files and env",
+      2
+    ],
+    [
+      "manually",
+      2
+    ],
+    [
+      "manually writing",
+      2
+    ],
+    [
+      "manually writing config",
+      2
+    ],
+    [
+      "of manually",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2042333291924369890",
+  "url_canonical": "https://x.com/bcherny/status/2042333291924369890",
+  "via_source_id": null
+}

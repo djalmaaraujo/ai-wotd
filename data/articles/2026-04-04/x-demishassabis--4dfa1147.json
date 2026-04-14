@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--4dfa1147",
+  "author": "Demis Hassabis",
+  "content_chars": 695,
+  "content_sha256": "49dd61c795304da758e33fdd15cf3bcc278c0b66fd1a731f165d9bc66a355f19",
+  "content_tokens": 173,
+  "fetched_at": "2026-04-14T01:47:23Z",
+  "kind": "tweet",
+  "published_at": "2026-04-04T00:18:18+00:00",
+  "snippet": "llama-server -hf ggml-org/gemma-4-26b-a4b-it-GGUF:Q4_K_M openclaw onboard --non-interactive \\ --auth-choice custom-api-key \\ --custom-base-url \"http://127.0.0.1:8080/v1\" \\ --custom-model-id \"ggml-org-gemma-4-26b-a4b-gguf\" \\ --custom-api-key \"llama.cpp\" \\ --secret-input-mode…",
+  "source_id": "x-demishassabis",
+  "title": "llama-server -hf ggml-org/gemma-4-26b-a4b-it-GGUF:Q4_K_M openclaw onboard --non-",
+  "top_terms": [
+    [
+      "custom-api-key",
+      2
+    ],
+    [
+      "gemma-4-26b-a4b-it-gguf",
+      2
+    ],
+    [
+      "gemma-4-26b-a4b-it-gguf q4",
+      2
+    ],
+    [
+      "ggml-org",
+      2
+    ],
+    [
+      "ggml-org gemma-4-26b-a4b-it-gguf",
+      2
+    ],
+    [
+      "ggml-org gemma-4-26b-a4b-it-gguf q4",
+      2
+    ],
+    [
+      "hf",
+      2
+    ],
+    [
+      "hf ggml-org",
+      2
+    ],
+    [
+      "hf ggml-org gemma-4-26b-a4b-it-gguf",
+      2
+    ],
+    [
+      "llama-server",
+      2
+    ],
+    [
+      "llama-server hf",
+      2
+    ],
+    [
+      "llama-server hf ggml-org",
+      2
+    ],
+    [
+      "onboard",
+      2
+    ],
+    [
+      "openclaw",
+      2
+    ],
+    [
+      "openclaw onboard",
+      2
+    ],
+    [
+      "q4",
+      2
+    ],
+    [
+      "steipete",
+      2
+    ],
+    [
+      "accept-risk",
+      1
+    ],
+    [
+      "accept-risk peter",
+      1
+    ],
+    [
+      "accept-risk peter steinberger",
+      1
+    ]
+  ],
+  "url": "https://x.com/demishassabis/status/2040222392434172269",
+  "url_canonical": "https://x.com/demishassabis/status/2040222392434172269",
+  "via_source_id": null
+}

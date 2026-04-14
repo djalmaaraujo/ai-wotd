@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--7e4cc71c",
+  "author": "Boris Cherny",
+  "content_chars": 151,
+  "content_sha256": "bec099e1e0c43d9e1c45da4f2f76ece5c67e088b9892724b1b32e864cea970bb",
+  "content_tokens": 37,
+  "fetched_at": "2026-04-14T01:47:18Z",
+  "kind": "tweet",
+  "published_at": "2026-04-09T21:23:28+00:00",
+  "snippet": "To power file @-mentions in Claude Code, we used to use a custom Rust-based file indexer that we invoked from Claude Code via NAPI. It was pretty fast.",
+  "source_id": "x-bcherny",
+  "title": "To power file @-mentions in Claude Code, we used to use a custom Rust-based file",
+  "top_terms": [
+    [
+      "file",
+      4
+    ],
+    [
+      "claude",
+      3
+    ],
+    [
+      "claude code",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "claude code we",
+      2
+    ],
+    [
+      "code we",
+      2
+    ],
+    [
+      "code we used",
+      2
+    ],
+    [
+      "custom",
+      2
+    ],
+    [
+      "custom rust-based",
+      2
+    ],
+    [
+      "custom rust-based file",
+      2
+    ],
+    [
+      "file mentions",
+      2
+    ],
+    [
+      "file mentions in",
+      2
+    ],
+    [
+      "in claude",
+      2
+    ],
+    [
+      "in claude code",
+      2
+    ],
+    [
+      "mentions",
+      2
+    ],
+    [
+      "mentions in",
+      2
+    ],
+    [
+      "mentions in claude",
+      2
+    ],
+    [
+      "power",
+      2
+    ],
+    [
+      "power file",
+      2
+    ],
+    [
+      "power file mentions",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2042352722004099352",
+  "url_canonical": "https://x.com/bcherny/status/2042352722004099352",
+  "via_source_id": null
+}

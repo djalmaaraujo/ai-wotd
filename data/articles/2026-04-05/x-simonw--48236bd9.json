@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--48236bd9",
+  "author": "Simon Willison",
+  "content_chars": 254,
+  "content_sha256": "13c052c454016ec8b41b44912193cfeec2bd8a4ccc4c6b42602f8bac1fc8a589",
+  "content_tokens": 63,
+  "fetched_at": "2026-04-14T01:47:20Z",
+  "kind": "tweet",
+  "published_at": "2026-04-05T04:17:29+00:00",
+  "snippet": "I built a new Python CLI tool for scanning folders for secret strings, useful if you want to share a bunch of log files but first want to check they didn't accidentally leak API keys or similar. Run this command to learn more: uvx scan-for-secrets --help",
+  "source_id": "x-simonw",
+  "title": "I built a new Python CLI tool for scanning folders for secret strings, useful if",
+  "top_terms": [
+    [
+      "built",
+      2
+    ],
+    [
+      "cli",
+      2
+    ],
+    [
+      "cli tool",
+      2
+    ],
+    [
+      "cli tool for",
+      2
+    ],
+    [
+      "folders",
+      2
+    ],
+    [
+      "folders for",
+      2
+    ],
+    [
+      "folders for secret",
+      2
+    ],
+    [
+      "for scanning",
+      2
+    ],
+    [
+      "for scanning folders",
+      2
+    ],
+    [
+      "for secret",
+      2
+    ],
+    [
+      "for secret strings",
+      2
+    ],
+    [
+      "new python",
+      2
+    ],
+    [
+      "new python cli",
+      2
+    ],
+    [
+      "python",
+      2
+    ],
+    [
+      "python cli",
+      2
+    ],
+    [
+      "python cli tool",
+      2
+    ],
+    [
+      "scanning",
+      2
+    ],
+    [
+      "scanning folders",
+      2
+    ],
+    [
+      "scanning folders for",
+      2
+    ],
+    [
+      "secret",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2040644971204857879",
+  "url_canonical": "https://x.com/simonw/status/2040644971204857879",
+  "via_source_id": null
+}

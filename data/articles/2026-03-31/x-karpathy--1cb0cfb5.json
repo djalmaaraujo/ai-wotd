@@ -1,0 +1,98 @@
+{
+  "article_id": "x-karpathy--1cb0cfb5",
+  "author": "Andrej Karpathy",
+  "content_chars": 1896,
+  "content_sha256": "e3f56c813912eb106543ea1223eaec4389973f2f6a47d6328cf8f156e49e68d2",
+  "content_tokens": 474,
+  "fetched_at": "2026-04-14T01:47:20Z",
+  "kind": "tweet",
+  "published_at": "2026-03-31T05:23:32+00:00",
+  "snippet": "New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads. Scanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily)…",
+  "source_id": "x-karpathy",
+  "title": "New supply chain attack this time for npm axios, the most popular HTTP client li",
+  "top_terms": [
+    [
+      "axios",
+      6
+    ],
+    [
+      "chain",
+      4
+    ],
+    [
+      "npm",
+      4
+    ],
+    [
+      "supply",
+      4
+    ],
+    [
+      "supply chain",
+      4
+    ],
+    [
+      "attack",
+      3
+    ],
+    [
+      "chain attack",
+      3
+    ],
+    [
+      "feross",
+      3
+    ],
+    [
+      "latest",
+      3
+    ],
+    [
+      "supply chain attack",
+      3
+    ],
+    [
+      "version",
+      3
+    ],
+    [
+      "analysis",
+      2
+    ],
+    [
+      "attack this",
+      2
+    ],
+    [
+      "attack this time",
+      2
+    ],
+    [
+      "axios the",
+      2
+    ],
+    [
+      "axios the most",
+      2
+    ],
+    [
+      "chain attack this",
+      2
+    ],
+    [
+      "cli",
+      2
+    ],
+    [
+      "client",
+      2
+    ],
+    [
+      "downloads",
+      2
+    ]
+  ],
+  "url": "https://x.com/karpathy/status/2038849654423798197",
+  "url_canonical": "https://x.com/karpathy/status/2038849654423798197",
+  "via_source_id": null
+}

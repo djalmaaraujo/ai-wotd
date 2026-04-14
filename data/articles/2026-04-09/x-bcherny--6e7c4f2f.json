@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--6e7c4f2f",
+  "author": "Boris Cherny",
+  "content_chars": 251,
+  "content_sha256": "c0c2151eab77f45384c3b9528d4d13b0e7a8e8517bc8a3e1bfa957729f6082ed",
+  "content_tokens": 62,
+  "fetched_at": "2026-04-14T01:47:18Z",
+  "kind": "tweet",
+  "published_at": "2026-04-09T21:23:29+00:00",
+  "snippet": "But in big codebases, it would fall over. So we introduced a new fileSuggestion setting in Claude Code, so customers with large codebases could plug in their custom code index (using SourceGraph, an in-house index, etc.). code.claude.com/docs/en/sett…",
+  "source_id": "x-bcherny",
+  "title": "But in big codebases, it would fall over. So we introduced a new fileSuggestion ",
+  "top_terms": [
+    [
+      "code",
+      3
+    ],
+    [
+      "codebases",
+      3
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "big codebases",
+      2
+    ],
+    [
+      "big codebases it",
+      2
+    ],
+    [
+      "but in big",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "codebases it",
+      2
+    ],
+    [
+      "codebases it would",
+      2
+    ],
+    [
+      "fall",
+      2
+    ],
+    [
+      "fall over",
+      2
+    ],
+    [
+      "fall over so",
+      2
+    ],
+    [
+      "filesuggestion",
+      2
+    ],
+    [
+      "in big",
+      2
+    ],
+    [
+      "in big codebases",
+      2
+    ],
+    [
+      "index",
+      2
+    ],
+    [
+      "introduced",
+      2
+    ],
+    [
+      "it would fall",
+      2
+    ],
+    [
+      "new filesuggestion",
+      2
+    ],
+    [
+      "so we introduced",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2042352723610517963",
+  "url_canonical": "https://x.com/bcherny/status/2042352723610517963",
+  "via_source_id": null
+}

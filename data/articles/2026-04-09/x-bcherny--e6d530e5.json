@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--e6d530e5",
+  "author": "Boris Cherny",
+  "content_chars": 272,
+  "content_sha256": "83b9e60f565e1e65b864c8579d9bfb3e56d2799890f3ce1ea6d9c379639253a1",
+  "content_tokens": 68,
+  "fetched_at": "2026-04-14T01:47:18Z",
+  "kind": "tweet",
+  "published_at": "2026-04-09T20:02:12+00:00",
+  "snippet": "Thrilled to announce the Monitor tool which lets Claude create background scripts that wake the agent up when needed. Big token saver and great way to move away from polling in the agent loop Claude can now: * Follow logs for errors * Poll PRs via script * and more! Video",
+  "source_id": "x-bcherny",
+  "title": "Thrilled to announce the Monitor tool which lets Claude create background script",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "announce",
+      2
+    ],
+    [
+      "announce the",
+      2
+    ],
+    [
+      "announce the monitor",
+      2
+    ],
+    [
+      "background",
+      2
+    ],
+    [
+      "claude create",
+      2
+    ],
+    [
+      "claude create background",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "create background",
+      2
+    ],
+    [
+      "lets",
+      2
+    ],
+    [
+      "lets claude",
+      2
+    ],
+    [
+      "lets claude create",
+      2
+    ],
+    [
+      "monitor",
+      2
+    ],
+    [
+      "monitor tool",
+      2
+    ],
+    [
+      "monitor tool which",
+      2
+    ],
+    [
+      "script",
+      2
+    ],
+    [
+      "the agent",
+      2
+    ],
+    [
+      "the monitor",
+      2
+    ],
+    [
+      "the monitor tool",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2042332268450963774",
+  "url_canonical": "https://x.com/bcherny/status/2042332268450963774",
+  "via_source_id": null
+}

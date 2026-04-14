@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--7c5158e5",
+  "author": "Simon Willison",
+  "content_chars": 432,
+  "content_sha256": "46d03a1c453bd79be1d478d49cbc2222f105af185cb95d5bc04fc20ee841dbe0",
+  "content_tokens": 108,
+  "fetched_at": "2026-04-14T01:47:20Z",
+  "kind": "tweet",
+  "published_at": "2026-04-05T17:40:00+00:00",
+  "snippet": "Billing different based on text contained in the system prompt is a really bad look Peter Steinberger 🦞 (@steipete) Anthropic now blocks first-party harness use too 👀 claude -p --append-system-prompt 'A personal assistant running inside OpenClaw.' 'is clawd here?' → 400…",
+  "source_id": "x-simonw",
+  "title": "Billing different based on text contained in the system prompt is a really bad l",
+  "top_terms": [
+    [
+      "bad",
+      2
+    ],
+    [
+      "based",
+      2
+    ],
+    [
+      "based on",
+      2
+    ],
+    [
+      "based on text",
+      2
+    ],
+    [
+      "billing",
+      2
+    ],
+    [
+      "billing different",
+      2
+    ],
+    [
+      "billing different based",
+      2
+    ],
+    [
+      "contained",
+      2
+    ],
+    [
+      "contained in",
+      2
+    ],
+    [
+      "contained in the",
+      2
+    ],
+    [
+      "different",
+      2
+    ],
+    [
+      "different based",
+      2
+    ],
+    [
+      "different based on",
+      2
+    ],
+    [
+      "in the system",
+      2
+    ],
+    [
+      "on text",
+      2
+    ],
+    [
+      "on text contained",
+      2
+    ],
+    [
+      "prompt",
+      2
+    ],
+    [
+      "prompt is",
+      2
+    ],
+    [
+      "really bad",
+      2
+    ],
+    [
+      "steipete",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2040846932239851936",
+  "url_canonical": "https://x.com/simonw/status/2040846932239851936",
+  "via_source_id": null
+}
