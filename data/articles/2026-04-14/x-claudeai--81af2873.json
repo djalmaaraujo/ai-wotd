@@ -1,0 +1,98 @@
+{
+  "article_id": "x-claudeai--81af2873",
+  "author": "Claude (Anthropic)",
+  "content_chars": 288,
+  "content_sha256": "b51683d1fd45ee34d9e1376be8554f2ed4065484e002166a34d3133f3e9d4756",
+  "content_tokens": 72,
+  "fetched_at": "2026-04-15T06:54:45Z",
+  "kind": "tweet",
+  "published_at": "2026-04-14T16:47:01+00:00",
+  "snippet": "Routines each come with their own API endpoint, so you can point your alerts, deploy hooks, or internal tools at Claude directly. Try sending Claude an alert payload and asking it to find the owning service and post a triage summary to #oncall . POST a message and get back a…",
+  "source_id": "x-claudeai",
+  "title": "Routines each come with their own API endpoint, so you can point your alerts, de",
+  "top_terms": [
+    [
+      "alerts",
+      2
+    ],
+    [
+      "api",
+      2
+    ],
+    [
+      "api endpoint",
+      2
+    ],
+    [
+      "api endpoint so",
+      2
+    ],
+    [
+      "can point",
+      2
+    ],
+    [
+      "can point your",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "endpoint",
+      2
+    ],
+    [
+      "endpoint so",
+      2
+    ],
+    [
+      "endpoint so you",
+      2
+    ],
+    [
+      "own api",
+      2
+    ],
+    [
+      "own api endpoint",
+      2
+    ],
+    [
+      "point",
+      2
+    ],
+    [
+      "point your",
+      2
+    ],
+    [
+      "point your alerts",
+      2
+    ],
+    [
+      "routines",
+      2
+    ],
+    [
+      "routines each",
+      2
+    ],
+    [
+      "routines each come",
+      2
+    ],
+    [
+      "their own api",
+      2
+    ],
+    [
+      "you can point",
+      2
+    ]
+  ],
+  "url": "https://x.com/claudeai/status/2044095089203655099",
+  "url_canonical": "https://x.com/claudeai/status/2044095089203655099",
+  "via_source_id": null
+}

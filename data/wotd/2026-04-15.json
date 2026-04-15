@@ -1,0 +1,190 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--51c57a82",
+        "aibreakfast--68f95280",
+        "aibreakfast--6e8dec98",
+        "aibreakfast--6f9065d9",
+        "aibreakfast--7c07c556",
+        "aibreakfast--9dc7fc0c",
+        "aibreakfast--b0319c8f",
+        "aibreakfast--dba28732",
+        "aibreakfast--eaccea1d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 63.401703,
+      "term": "avatar",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "aibreakfast--34b3213b",
+        "aibreakfast--3daba2c7",
+        "aibreakfast--4fdee227",
+        "aibreakfast--7322414d",
+        "aibreakfast--8de0c19d",
+        "aibreakfast--c9bbc8b9",
+        "aibreakfast--ce171eb7",
+        "aibreakfast--dba28732",
+        "aibreakfast--e616f65b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 63.401703,
+      "term": "for video",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "aibreakfast--03709ff2",
+        "aibreakfast--17eec94d",
+        "aibreakfast--4fdee227",
+        "aibreakfast--589908dd",
+        "aibreakfast--6f9065d9",
+        "aibreakfast--9dc7fc0c",
+        "aibreakfast--ce171eb7",
+        "aibreakfast--dba28732"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 8,
+      "score": 52.321432,
+      "term": "reconstruction",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "aibreakfast--0d4a80ab",
+        "aibreakfast--3f7a72a8",
+        "aibreakfast--4fdee227",
+        "aibreakfast--589908dd",
+        "aibreakfast--68ff2896",
+        "aibreakfast--8e7c99d4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 49.638282,
+      "term": "announcement",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "aibreakfast--109938ac",
+        "aibreakfast--589908dd",
+        "aibreakfast--68f95280",
+        "aibreakfast--eaccea1d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 46.955132,
+      "term": "business premium",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "aibreakfast--03709ff2",
+        "aibreakfast--3258f4a3",
+        "aibreakfast--3f7a72a8",
+        "aibreakfast--4fdee227",
+        "aibreakfast--68ff2896",
+        "aibreakfast--7c07c556",
+        "aibreakfast--8a5a4a9e",
+        "aibreakfast--8e7c99d4",
+        "aibreakfast--9aa9d25d",
+        "aibreakfast--dba28732"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 10,
+      "score": 45.37476,
+      "term": "company's",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "aibreakfast--3258f4a3",
+        "aibreakfast--36438078",
+        "aibreakfast--3f7a72a8",
+        "aibreakfast--589908dd",
+        "aibreakfast--6f9065d9",
+        "aibreakfast--9dc7fc0c",
+        "aibreakfast--b0319c8f",
+        "aibreakfast--c9bbc8b9",
+        "aibreakfast--dba28732",
+        "aibreakfast--dd9fd807"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 10,
+      "score": 45.37476,
+      "term": "efficiency and",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "aibreakfast--03709ff2",
+        "aibreakfast--17493ee9",
+        "aibreakfast--1a0b0fb4",
+        "aibreakfast--4505cfb4",
+        "aibreakfast--e5baadab",
+        "one-useful-thing--0f988797"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 45.250645,
+      "term": "eye",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "aibreakfast--17493ee9",
+        "aibreakfast--1afc8e89",
+        "aibreakfast--6f9065d9",
+        "aibreakfast--7322414d",
+        "aibreakfast--a9834ff9",
+        "aibreakfast--b0319c8f",
+        "aibreakfast--ccf04b79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 42.054656,
+      "term": "nuclear",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "aibreakfast--3f7a72a8",
+        "aibreakfast--e616f65b",
+        "one-useful-thing--4547d137"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 41.581674,
+      "term": "curiosity",
+      "tf_today": 14
+    }
+  ],
+  "date": "2026-04-15",
+  "evidence_article_ids": [
+    "aibreakfast--0d4a80ab",
+    "aibreakfast--36438078",
+    "aibreakfast--3f7a72a8",
+    "aibreakfast--6e8dec98",
+    "aibreakfast--6f9065d9",
+    "aibreakfast--8de0c19d",
+    "aibreakfast--9aa9d25d",
+    "aibreakfast--b0319c8f"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "code generation",
+      "reconstruction",
+      "crispr",
+      "customization",
+      "decoding ai"
+    ]
+  },
+  "score": 34.387902,
+  "word": "code generation"
+}
