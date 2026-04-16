@@ -136,3 +136,11 @@ sources:
     nitter_feed: "https://nitter.net/demishassabis/rss"
     exclude_replies: true
     added: "2026-04-14"
+
+  - id: x-demishassabis
+    type: twitter
+    handle: "ClaudeDevs"
+    name: "Claude Devs"
+    nitter_feed: "https://nitter.net/ClaudeDevs/rss"
+    exclude_replies: true
+    added: "2026-04-16"
