@@ -1,0 +1,98 @@
+{
+  "article_id": "x-trq212--f8fb9263",
+  "author": "@trq212",
+  "content_chars": 250,
+  "content_sha256": "dac9a6b0146889bd47c056ca4be4d8423c00233b16f2c003057e5b6c20528fdf",
+  "content_tokens": 62,
+  "fetched_at": "2026-04-16T06:55:36Z",
+  "kind": "tweet",
+  "published_at": "2026-04-16T05:44:18+00:00",
+  "snippet": "You can also set your autocompact threshold yourself and effectively lower your context window if you'd prefer. For example, 400k context is a good compromise: CLAUDE_CODE_AUTO_COMPACT_WINDOW=400000 claude see docs here: code.claude.com/docs/en/sett…",
+  "source_id": "x-trq212",
+  "title": "You can also set your autocompact threshold yourself and effectively lower your ",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "also set",
+      2
+    ],
+    [
+      "also set your",
+      2
+    ],
+    [
+      "and effectively",
+      2
+    ],
+    [
+      "and effectively lower",
+      2
+    ],
+    [
+      "autocompact",
+      2
+    ],
+    [
+      "autocompact threshold",
+      2
+    ],
+    [
+      "autocompact threshold yourself",
+      2
+    ],
+    [
+      "can also set",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "docs",
+      2
+    ],
+    [
+      "effectively",
+      2
+    ],
+    [
+      "effectively lower",
+      2
+    ],
+    [
+      "effectively lower your",
+      2
+    ],
+    [
+      "lower",
+      2
+    ],
+    [
+      "lower your",
+      2
+    ],
+    [
+      "set",
+      2
+    ],
+    [
+      "set your",
+      2
+    ],
+    [
+      "set your autocompact",
+      2
+    ]
+  ],
+  "url": "https://x.com/trq212/status/2044653085415604473",
+  "url_canonical": "https://x.com/trq212/status/2044653085415604473",
+  "via_source_id": null
+}

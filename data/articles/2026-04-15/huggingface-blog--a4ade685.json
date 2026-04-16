@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a4ade685",
+  "author": "Hugging Face Blog",
+  "content_chars": 21798,
+  "content_sha256": "64a8061ba5a5cca27925119333315b394cd2356641df0d483f0805f6335df0f8",
+  "content_tokens": 5449,
+  "fetched_at": "2026-04-16T06:54:56Z",
+  "kind": "article",
+  "published_at": "2026-04-15T12:07:25+00:00",
+  "snippet": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents Enterprise Article Published April 15, 2026…",
+  "source_id": "huggingface-blog",
+  "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+  "top_terms": [
+    [
+      "tool",
+      58
+    ],
+    [
+      "capability",
+      34
+    ],
+    [
+      "data",
+      30
+    ],
+    [
+      "api",
+      24
+    ],
+    [
+      "vakra",
+      24
+    ],
+    [
+      "correct",
+      20
+    ],
+    [
+      "models",
+      20
+    ],
+    [
+      "reasoning",
+      19
+    ],
+    [
+      "answer",
+      18
+    ],
+    [
+      "name",
+      15
+    ],
+    [
+      "the tool",
+      15
+    ],
+    [
+      "tools",
+      15
+    ],
+    [
+      "apis",
+      14
+    ],
+    [
+      "hop",
+      13
+    ],
+    [
+      "agent",
+      12
+    ],
+    [
+      "agents",
+      12
+    ],
+    [
+      "calls",
+      12
+    ],
+    [
+      "queries",
+      12
+    ],
+    [
+      "benchmark",
+      11
+    ],
+    [
+      "document",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+  "url_canonical": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+  "via_source_id": null
+}
