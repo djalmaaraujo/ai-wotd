@@ -65,6 +65,7 @@ h2 {
   font-size: 0.85rem;
   text-decoration: none;
   word-break: break-all;
+  overflow-wrap: break-word;
 }
 .def-refs a:hover { color: var(--fg); text-decoration: underline; }
 .summary p { font-size: 1rem; }
