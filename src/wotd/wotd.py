@@ -174,7 +174,7 @@ def pick_wotd(
             "word": chosen.term,
             "score": round(chosen.score, 6),
             "candidates": top10,
-            "evidence_article_ids": list(chosen.articles)[:10],
+            "evidence_article_ids": list(dict.fromkeys(chosen.articles))[:10],
         }
         if rerank_meta:
             payload["rerank"] = rerank_meta

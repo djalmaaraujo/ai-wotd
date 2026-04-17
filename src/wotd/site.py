@@ -45,6 +45,18 @@ def _articles_index(articles_dir: Path) -> dict[str, dict]:
     return index
 
 
+def _articles_for_date(articles_dir: Path, date_str: str) -> list[dict]:
+    """Return all article derivatives for a given date, sorted by article_id."""
+    day_dir = articles_dir / date_str
+    if not day_dir.exists():
+        return []
+    result = []
+    for p in sorted(day_dir.glob("*.json")):
+        with open(p, "r", encoding="utf-8") as f:
+            result.append(json.load(f))
+    return result
+
+
 def _resolve_base(value: str | None) -> str:
     """Normalize a site base: strip trailing slash, keep leading slash."""
     v = value if value is not None else os.environ.get("WOTD_SITE_BASE", DEFAULT_SITE_BASE)
@@ -91,9 +103,11 @@ def render_site(
     if days:
         latest = days[0]
         evidence = [articles[a] for a in latest.get("evidence_article_ids", []) if a in articles]
+        all_day_articles = _articles_for_date(articles_dir, latest["date"])
         html = env.get_template("day.html").render(
             day=latest,
             evidence=evidence,
+            all_day_articles=all_day_articles,
             is_index=True,
             all_days=days,
             now=now_iso,
@@ -109,11 +123,13 @@ def render_site(
     # Per-day permalinks.
     for i, day in enumerate(days):
         ev = [articles[a] for a in day.get("evidence_article_ids", []) if a in articles]
+        all_day_arts = _articles_for_date(articles_dir, day["date"])
         prev_day = days[i + 1] if i + 1 < len(days) else None
         next_day = days[i - 1] if i > 0 else None
         html = env.get_template("day.html").render(
             day=day,
             evidence=ev,
+            all_day_articles=all_day_arts,
             is_index=False,
             all_days=days,
             prev_day=prev_day,

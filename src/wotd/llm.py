@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 SUMMARY_PROMPT = """You are writing for an AI industry daily digest.
 
 Given the list of the top trending AI terms for today along with headlines and
-short excerpts from the articles that mention them, write TWO things:
+short excerpts from the articles that mention them, write THREE things:
 
 1. summary — about 150 words. A running narrative of what is happening in AI
    today as seen through this corpus. Mention 2-4 of the top terms, with
@@ -26,8 +26,18 @@ short excerpts from the articles that mention them, write TWO things:
    no preamble. Start with a declarative sentence.
 2. why — 2–3 sentences that specifically explain why the chosen WORD OF THE
    DAY trended today, grounded in the evidence excerpts. Be concrete.
+3. definition — a concise definition (2-4 sentences) of the WORD OF THE DAY
+   in the context of AI. Explain what the term means, how it is used in the
+   AI industry, and why it matters. If the term is a product or company name,
+   describe what it does and its role in the AI ecosystem. Ground the
+   definition in publicly available knowledge. Include a "references" list
+   of 1-3 authoritative URLs (official docs, Wikipedia, seminal papers) that
+   a reader could follow to learn more. Each reference should be a plain URL
+   string.
 
-Return a single JSON object with keys "summary" and "why", and nothing else.
+Return a single JSON object with keys "summary", "why", and "definition",
+where "definition" is an object with keys "text" (the definition string) and
+"references" (an array of URL strings). Nothing else.
 """
 
 
@@ -57,7 +67,7 @@ def generate_blurb(
     model: str = "claude-sonnet-4-5",
     api_key: str | None = None,
 ) -> dict | None:
-    """Call Anthropic Messages API; return {summary, why, model, generated_at}.
+    """Call Anthropic Messages API; return {summary, why, definition, model, generated_at}.
 
     Returns None (and logs) if the API key is missing or the SDK import fails.
     """
@@ -81,7 +91,7 @@ def generate_blurb(
     try:
         resp = client.messages.create(
             model=model,
-            max_tokens=800,
+            max_tokens=1200,
             temperature=0.2,
             system=SUMMARY_PROMPT,
             messages=[{"role": "user", "content": user_msg}],
@@ -94,26 +104,31 @@ def generate_blurb(
         block.text for block in resp.content if getattr(block, "type", None) == "text"
     ).strip()
 
-    summary, why = _parse_response(text)
+    summary, why, definition = _parse_response(text)
     if not summary or not why:
         logger.warning("llm: could not parse response; raw=%r", text[:200])
         return None
 
-    return {
+    result = {
         "summary": summary,
         "why": why,
         "model": model,
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
+    if definition:
+        result["definition"] = definition
+    return result
 
 
-def _parse_response(text: str) -> tuple[str | None, str | None]:
-    """Extract `summary` and `why` from the model output.
+def _parse_response(text: str) -> tuple[str | None, str | None, dict | None]:
+    """Extract `summary`, `why`, and `definition` from the model output.
 
     Accepts either a JSON object or a code-fenced JSON object.
+    Returns (summary, why, definition) where definition is
+    ``{"text": "...", "references": [...]}`` or None.
     """
     if not text:
-        return None, None
+        return None, None, None
 
     # Strip markdown fences if present.
     candidate = text.strip()
@@ -133,9 +148,9 @@ def _parse_response(text: str) -> tuple[str | None, str | None]:
             try:
                 obj = json.loads(candidate[start : end + 1])
             except json.JSONDecodeError:
-                return None, None
+                return None, None, None
         else:
-            return None, None
+            return None, None, None
 
     summary = obj.get("summary") if isinstance(obj, dict) else None
     why = obj.get("why") if isinstance(obj, dict) else None
@@ -147,7 +162,22 @@ def _parse_response(text: str) -> tuple[str | None, str | None]:
         why = why.strip() or None
     else:
         why = None
-    return summary, why
+
+    definition = None
+    raw_def = obj.get("definition") if isinstance(obj, dict) else None
+    if isinstance(raw_def, dict):
+        def_text = raw_def.get("text")
+        if isinstance(def_text, str) and def_text.strip():
+            refs = raw_def.get("references", [])
+            if not isinstance(refs, list):
+                refs = []
+            refs = [str(r) for r in refs if isinstance(r, str) and r.strip()]
+            definition = {"text": def_text.strip(), "references": refs}
+    elif isinstance(raw_def, str) and raw_def.strip():
+        # Tolerate a plain string (no references).
+        definition = {"text": raw_def.strip(), "references": []}
+
+    return summary, why, definition
 
 
 def attach_blurb_to_wotd(

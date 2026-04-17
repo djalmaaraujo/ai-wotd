@@ -9,6 +9,20 @@
   <p class="why">{{ day.llm.why }}</p>
   {% endif %}
 
+  {% if day.llm and day.llm.definition %}
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>{{ day.llm.definition.text }}</p>
+    {% if day.llm.definition.references %}
+    <ul class="def-refs">
+      {% for ref in day.llm.definition.references %}
+      <li><a href="{{ ref }}" rel="noreferrer">{{ ref }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </section>
+  {% endif %}
+
   {% if day.llm and day.llm.summary %}
   <section class="summary">
     <h2>Today in AI</h2>
@@ -42,6 +56,24 @@
       <li>{{ c.term }} <span class="meta">tf={{ c.tf_today }}, df={{ c.df_today }}, score={{ "%.2f"|format(c.score) }}</span></li>
       {% endfor %}
     </ol>
+  </section>
+  {% endif %}
+
+  {% if all_day_articles %}
+  <section class="queried-links">
+    <details>
+      <summary>All queried links ({{ all_day_articles|length }})</summary>
+      <ul>
+        {% for a in all_day_articles %}
+        <li>
+          <a href="{{ a.url_canonical or a.url }}" rel="noreferrer">{{ a.title or a.url }}</a>
+          <span class="meta">
+            {{ a.source_id }}{% if a.author %} · {{ a.author }}{% endif %}
+          </span>
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
   </section>
   {% endif %}
 
