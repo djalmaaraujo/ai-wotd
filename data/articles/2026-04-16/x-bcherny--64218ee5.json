@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--64218ee5",
+  "author": "Boris Cherny",
+  "content_chars": 180,
+  "content_sha256": "59cbdd9735b7e036058c38fe24f14ea1eee180993c24a9747b2f070631d4b3a2",
+  "content_tokens": 45,
+  "fetched_at": "2026-04-17T06:56:30Z",
+  "kind": "tweet",
+  "published_at": "2026-04-16T20:02:04+00:00",
+  "snippet": "We fixed a bug where rate limits on Claude subscriptions weren't properly adjusted for long context requests in Opus 4.7. We've reset 5-hour and weekly rate limits. Enjoy Opus 4.7!",
+  "source_id": "x-bcherny",
+  "title": "We fixed a bug where rate limits on Claude subscriptions weren't properly adjust",
+  "top_terms": [
+    [
+      "limits",
+      3
+    ],
+    [
+      "rate",
+      3
+    ],
+    [
+      "rate limits",
+      3
+    ],
+    [
+      "bug",
+      2
+    ],
+    [
+      "bug where",
+      2
+    ],
+    [
+      "bug where rate",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude subscriptions",
+      2
+    ],
+    [
+      "claude subscriptions weren't",
+      2
+    ],
+    [
+      "fixed",
+      2
+    ],
+    [
+      "limits on",
+      2
+    ],
+    [
+      "limits on claude",
+      2
+    ],
+    [
+      "on claude",
+      2
+    ],
+    [
+      "on claude subscriptions",
+      2
+    ],
+    [
+      "opus",
+      2
+    ],
+    [
+      "properly",
+      2
+    ],
+    [
+      "rate limits on",
+      2
+    ],
+    [
+      "subscriptions",
+      2
+    ],
+    [
+      "subscriptions weren't",
+      2
+    ],
+    [
+      "subscriptions weren't properly",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2044868953206612154",
+  "url_canonical": "https://x.com/bcherny/status/2044868953206612154",
+  "via_source_id": null
+}

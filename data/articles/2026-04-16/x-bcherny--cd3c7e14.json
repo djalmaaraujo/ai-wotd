@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--cd3c7e14",
+  "author": "Boris Cherny",
+  "content_chars": 253,
+  "content_sha256": "0b358b14420858956b174e69978e8965e5ebedced482d477df371e884969b233",
+  "content_tokens": 63,
+  "fetched_at": "2026-04-17T06:56:30Z",
+  "kind": "tweet",
+  "published_at": "2026-04-16T15:38:11+00:00",
+  "snippet": "In Claude Code the default effort is now xhigh, a new level between high and max giving finer control over the reasoning/latency tradeoff. 4.7 thinks more, so token use runs higher than 4.6. Manage it with effort, task budgets, or prompting for brevity.",
+  "source_id": "x-bcherny",
+  "title": "In Claude Code the default effort is now xhigh, a new level between high and max",
+  "top_terms": [
+    [
+      "effort",
+      3
+    ],
+    [
+      "and max",
+      2
+    ],
+    [
+      "between high",
+      2
+    ],
+    [
+      "between high and",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "claude code the",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code the",
+      2
+    ],
+    [
+      "code the default",
+      2
+    ],
+    [
+      "default",
+      2
+    ],
+    [
+      "default effort",
+      2
+    ],
+    [
+      "default effort is",
+      2
+    ],
+    [
+      "effort is",
+      2
+    ],
+    [
+      "effort is now",
+      2
+    ],
+    [
+      "high",
+      2
+    ],
+    [
+      "high and",
+      2
+    ],
+    [
+      "high and max",
+      2
+    ],
+    [
+      "in claude",
+      2
+    ],
+    [
+      "in claude code",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2044802544896221484",
+  "url_canonical": "https://x.com/bcherny/status/2044802544896221484",
+  "via_source_id": null
+}
