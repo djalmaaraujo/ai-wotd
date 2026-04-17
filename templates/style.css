@@ -57,6 +57,16 @@ h2 {
 }
 .date { color: var(--muted); font-size: 0.9rem; margin: 0; }
 .why { font-size: 1.05rem; }
+.definition p { font-size: 1rem; }
+.def-refs { list-style: none; padding: 0; margin-top: 0.5rem; }
+.def-refs li { padding: 0.2rem 0; }
+.def-refs a {
+  color: var(--muted);
+  font-size: 0.85rem;
+  text-decoration: none;
+  word-break: break-all;
+}
+.def-refs a:hover { color: var(--fg); text-decoration: underline; }
 .summary p { font-size: 1rem; }
 .evidence ul, .archive { list-style: none; padding: 0; }
 .evidence li, .archive li {

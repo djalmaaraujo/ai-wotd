@@ -9,6 +9,20 @@
   <p class="why">{{ day.llm.why }}</p>
   {% endif %}
 
+  {% if day.llm and day.llm.definition %}
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>{{ day.llm.definition.text }}</p>
+    {% if day.llm.definition.references %}
+    <ul class="def-refs">
+      {% for ref in day.llm.definition.references %}
+      <li><a href="{{ ref }}" rel="noreferrer">{{ ref }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </section>
+  {% endif %}
+
   {% if day.llm and day.llm.summary %}
   <section class="summary">
     <h2>Today in AI</h2>
