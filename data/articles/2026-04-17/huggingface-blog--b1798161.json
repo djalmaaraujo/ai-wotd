@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b1798161",
+  "author": "Hugging Face Blog",
+  "content_chars": 16929,
+  "content_sha256": "79521830caf50a9b030adc752cab4496fdda184974e2f9a11c0bdf49de989ef0",
+  "content_tokens": 4232,
+  "fetched_at": "2026-04-17T18:22:16Z",
+  "kind": "article",
+  "published_at": "2026-04-17T16:17:55+00:00",
+  "snippet": "Building a Fast Multilingual OCR Model with Synthetic Data Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Building a Fast Multilingual OCR Model with Synthetic Data Enterprise + Article Published April 17, 2026 Upvote 4…",
+  "source_id": "huggingface-blog",
+  "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+  "top_terms": [
+    [
+      "model",
+      35
+    ],
+    [
+      "text",
+      32
+    ],
+    [
+      "ocr",
+      28
+    ],
+    [
+      "data",
+      22
+    ],
+    [
+      "v2",
+      19
+    ],
+    [
+      "multilingual",
+      18
+    ],
+    [
+      "synthetic",
+      18
+    ],
+    [
+      "languages",
+      16
+    ],
+    [
+      "nemotron",
+      16
+    ],
+    [
+      "nemotron ocr",
+      16
+    ],
+    [
+      "language",
+      14
+    ],
+    [
+      "nvidia",
+      13
+    ],
+    [
+      "pipeline",
+      13
+    ],
+    [
+      "synthetic data",
+      13
+    ],
+    [
+      "chinese",
+      12
+    ],
+    [
+      "images",
+      12
+    ],
+    [
+      "nemotron ocr v2",
+      12
+    ],
+    [
+      "ocr v2",
+      12
+    ],
+    [
+      "across",
+      11
+    ],
+    [
+      "pages",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+  "url_canonical": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+  "via_source_id": null
+}

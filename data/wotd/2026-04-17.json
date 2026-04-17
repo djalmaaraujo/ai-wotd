@@ -2,6 +2,34 @@
   "candidates": [
     {
       "articles": [
+        "aibreakfast--000f263e",
+        "aibreakfast--001503b5",
+        "aibreakfast--0087b2d2",
+        "aibreakfast--00bf7baf",
+        "aibreakfast--0f111687",
+        "aibreakfast--0fb8b97e",
+        "aibreakfast--2f1122c6",
+        "aibreakfast--3aa45619",
+        "aibreakfast--46e103b3",
+        "aibreakfast--48e4f8d3",
+        "aibreakfast--6c395e6a",
+        "aibreakfast--7d1bc3e7",
+        "aibreakfast--82938612",
+        "aibreakfast--9cbbe3c3",
+        "aibreakfast--a56e5207",
+        "aibreakfast--b47ad0dc",
+        "aibreakfast--df4ddebe",
+        "aibreakfast--dfe9277a",
+        "aibreakfast--ff0334ed"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 19,
+      "score": 93.251921,
+      "term": "world's first",
+      "tf_today": 22
+    },
+    {
+      "articles": [
         "aibreakfast--16e1c549",
         "aibreakfast--6b147a50",
         "aibreakfast--845839a4",
@@ -9,9 +37,106 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 4,
-      "score": 89.371141,
+      "score": 82.975466,
       "term": "adaline",
       "tf_today": 24
+    },
+    {
+      "articles": [
+        "aibreakfast--124defce",
+        "aibreakfast--1b5ac564",
+        "aibreakfast--1f762cd5",
+        "aibreakfast--28268e3f",
+        "aibreakfast--55db0d31",
+        "aibreakfast--6d5040b1",
+        "aibreakfast--845839a4",
+        "aibreakfast--dfe9277a",
+        "huggingface-blog--b1798161"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 80.477685,
+      "term": "synthetic data",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "aibreakfast--0f111687",
+        "aibreakfast--1f762cd5",
+        "aibreakfast--28268e3f",
+        "aibreakfast--449efb84",
+        "aibreakfast--4fb9e4bb",
+        "aibreakfast--6c395e6a",
+        "aibreakfast--7d1bc3e7",
+        "aibreakfast--857cf1e0",
+        "aibreakfast--9276d934",
+        "aibreakfast--af00b5ef",
+        "aibreakfast--f83ec2bc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 11,
+      "score": 73.294059,
+      "term": "bid",
+      "tf_today": 20
+    },
+    {
+      "articles": [
+        "aibreakfast--11650550",
+        "aibreakfast--1f762cd5",
+        "aibreakfast--2ace2b84",
+        "aibreakfast--2f1122c6",
+        "aibreakfast--4fb9e4bb",
+        "aibreakfast--6393da13",
+        "aibreakfast--79d18de2",
+        "aibreakfast--7aabd9aa",
+        "aibreakfast--a9a8540f",
+        "aibreakfast--dab231c4",
+        "aibreakfast--ebd9a19e",
+        "aibreakfast--ff0334ed"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 12,
+      "score": 64.777658,
+      "term": "o4-mini",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "aibreakfast--0d36f9ec",
+        "aibreakfast--0fb8b97e",
+        "aibreakfast--46837327",
+        "aibreakfast--6393da13",
+        "aibreakfast--b7f934d6",
+        "aibreakfast--ff0334ed"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 63.243237,
+      "term": "openai releases",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "aibreakfast--000f263e",
+        "aibreakfast--001503b5",
+        "aibreakfast--00bf7baf",
+        "aibreakfast--16da9101",
+        "aibreakfast--44bc6019",
+        "aibreakfast--45e46c09",
+        "aibreakfast--46e103b3",
+        "aibreakfast--48e4f8d3",
+        "aibreakfast--5d9c3669",
+        "aibreakfast--82938612",
+        "aibreakfast--dab231c4",
+        "aibreakfast--e9720dd7",
+        "aibreakfast--fe4f53be",
+        "aibreakfast--ff0334ed"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 14,
+      "score": 61.875366,
+      "term": "first ai",
+      "tf_today": 17
     },
     {
       "articles": [
@@ -23,159 +148,69 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 5,
-      "score": 63.392039,
+      "score": 57.9073,
       "term": "workos",
       "tf_today": 18
     },
     {
       "articles": [
-        "aibreakfast--3b5828d5",
-        "aibreakfast--4913f265",
-        "aibreakfast--4f393cc4",
-        "aibreakfast--845839a4",
-        "aibreakfast--857cf1e0",
-        "aibreakfast--b96e26a8",
-        "aibreakfast--bcbdb000",
-        "aibreakfast--dab231c4"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 8,
-      "score": 49.806884,
-      "term": "scale ai",
-      "tf_today": 14
-    },
-    {
-      "articles": [
-        "aibreakfast--000f263e",
-        "aibreakfast--001503b5",
-        "aibreakfast--0087b2d2",
-        "aibreakfast--00bf7baf",
         "aibreakfast--0f111687",
         "aibreakfast--0fb8b97e",
-        "aibreakfast--6c395e6a",
-        "aibreakfast--82938612",
-        "aibreakfast--9cbbe3c3",
-        "aibreakfast--a56e5207"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 10,
-      "score": 42.849742,
-      "term": "world's first",
-      "tf_today": 12
-    },
-    {
-      "articles": [
-        "aibreakfast--0087b2d2",
-        "aibreakfast--5309d815",
-        "aibreakfast--6e035fb1",
+        "aibreakfast--44bc6019",
+        "aibreakfast--4913f265",
+        "aibreakfast--4efc8b0d",
+        "aibreakfast--725c0753",
         "aibreakfast--7b20289a",
-        "aibreakfast--9443b9e4",
-        "aibreakfast--b96e26a8",
-        "aibreakfast--daff3a0f",
-        "aibreakfast--e68e6505"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 8,
-      "score": 35.909337,
-      "term": "windsurf",
-      "tf_today": 11
-    },
-    {
-      "articles": [
-        "aibreakfast--00bf7baf",
-        "aibreakfast--1acadf1d",
-        "aibreakfast--7dd41bcc",
-        "aibreakfast--c98e5126"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 4,
-      "score": 35.607532,
-      "term": "atla",
-      "tf_today": 12
-    },
-    {
-      "articles": [
-        "aibreakfast--16e1c549",
-        "aibreakfast--6b147a50",
-        "aibreakfast--845839a4",
-        "aibreakfast--f83ec2bc"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 4,
-      "score": 35.607532,
-      "term": "with adaline",
-      "tf_today": 12
-    },
-    {
-      "articles": [
-        "aibreakfast--001503b5",
-        "aibreakfast--21c28efa",
-        "aibreakfast--55db0d31",
-        "aibreakfast--6b147a50"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 4,
-      "score": 35.607532,
-      "term": "wristband",
-      "tf_today": 12
-    },
-    {
-      "articles": [
-        "aibreakfast--5309d815",
-        "aibreakfast--6b147a50",
-        "aibreakfast--7b20289a",
-        "aibreakfast--a05e4dcf",
         "aibreakfast--a56e5207",
-        "aibreakfast--bcbdb000"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 6,
-      "score": 33.765496,
-      "term": "unlocks",
-      "tf_today": 11
-    },
-    {
-      "articles": [
-        "aibreakfast--0d36f9ec",
-        "aibreakfast--16e1c549",
-        "aibreakfast--3b5828d5",
-        "aibreakfast--7b20289a",
-        "aibreakfast--845839a4",
-        "aibreakfast--9443b9e4",
-        "aibreakfast--ba4f8965",
-        "aibreakfast--dab231c4",
-        "aibreakfast--daff3a0f",
-        "aibreakfast--e68e6505"
+        "aibreakfast--e68e6505",
+        "aibreakfast--fe4f53be"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 10,
-      "score": 33.382464,
-      "term": "ai breakfast jun",
-      "tf_today": 10
+      "score": 53.72612,
+      "term": "self-improving",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "aibreakfast--106ea5ce",
+        "aibreakfast--11650550",
+        "aibreakfast--55db0d31",
+        "aibreakfast--a05e4dcf",
+        "aibreakfast--b7f934d6",
+        "aibreakfast--bead5956",
+        "aibreakfast--da8fc6f6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 51.207708,
+      "term": "google rolls",
+      "tf_today": 16
     }
   ],
   "date": "2026-04-17",
   "evidence_article_ids": [
-    "aibreakfast--3b5828d5",
-    "aibreakfast--4913f265",
-    "aibreakfast--4f393cc4",
+    "aibreakfast--124defce",
+    "aibreakfast--1b5ac564",
+    "aibreakfast--1f762cd5",
+    "aibreakfast--28268e3f",
+    "aibreakfast--55db0d31",
+    "aibreakfast--6d5040b1",
     "aibreakfast--845839a4",
-    "aibreakfast--857cf1e0",
-    "aibreakfast--b96e26a8",
-    "aibreakfast--bcbdb000",
-    "aibreakfast--dab231c4"
+    "aibreakfast--dfe9277a",
+    "huggingface-blog--b1798161"
   ],
   "rerank": {
     "by": "groq",
     "model": "llama-3.3-70b-versatile",
     "top": [
-      "scale ai",
-      "ai browser",
-      "self-improving",
+      "synthetic data",
       "adaline",
-      "including gemini"
+      "o4-mini",
+      "self-improving",
+      "grok-3"
     ]
   },
-  "score": 49.806884,
-  "word": "scale ai"
+  "score": 80.477685,
+  "word": "synthetic data"
 }
