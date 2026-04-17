@@ -45,6 +45,24 @@
   </section>
   {% endif %}
 
+  {% if all_day_articles %}
+  <section class="queried-links">
+    <details>
+      <summary>All queried links ({{ all_day_articles|length }})</summary>
+      <ul>
+        {% for a in all_day_articles %}
+        <li>
+          <a href="{{ a.url_canonical or a.url }}" rel="noreferrer">{{ a.title or a.url }}</a>
+          <span class="meta">
+            {{ a.source_id }}{% if a.author %} · {{ a.author }}{% endif %}
+          </span>
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
+  </section>
+  {% endif %}
+
   <nav class="pager">
     {% if prev_day %}<a href="{{ base }}/d/{{ prev_day.date }}/">← {{ prev_day.date }}</a>{% endif %}
     {% if next_day %}<a href="{{ base }}/d/{{ next_day.date }}/">{{ next_day.date }} →</a>{% endif %}
