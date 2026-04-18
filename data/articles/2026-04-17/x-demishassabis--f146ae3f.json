@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--f146ae3f",
+  "author": "Claude Devs",
+  "content_chars": 263,
+  "content_sha256": "0225a611122915924c059009b13066e2d6937b8623508caa793b4e01d03aa0b2",
+  "content_tokens": 65,
+  "fetched_at": "2026-04-18T06:42:50Z",
+  "kind": "tweet",
+  "published_at": "2026-04-17T20:31:40+00:00",
+  "snippet": "Some of you ran into Opus 4.7 refusing normal code edits with \"this might be malware\" warnings. That was a bug on our side, not the model being cautious. Older builds applied a stale safety prompt that Opus 4.7 doesn't need. Run claude update or relaunch the app.",
+  "source_id": "x-demishassabis",
+  "title": "Some of you ran into Opus 4.7 refusing normal code edits with \"this might be mal",
+  "top_terms": [
+    [
+      "opus",
+      3
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code edits",
+      2
+    ],
+    [
+      "code edits with",
+      2
+    ],
+    [
+      "edits",
+      2
+    ],
+    [
+      "edits with",
+      2
+    ],
+    [
+      "edits with this",
+      2
+    ],
+    [
+      "into opus",
+      2
+    ],
+    [
+      "into opus refusing",
+      2
+    ],
+    [
+      "normal",
+      2
+    ],
+    [
+      "normal code",
+      2
+    ],
+    [
+      "normal code edits",
+      2
+    ],
+    [
+      "of you ran",
+      2
+    ],
+    [
+      "opus refusing",
+      2
+    ],
+    [
+      "opus refusing normal",
+      2
+    ],
+    [
+      "ran",
+      2
+    ],
+    [
+      "ran into",
+      2
+    ],
+    [
+      "ran into opus",
+      2
+    ],
+    [
+      "refusing",
+      2
+    ],
+    [
+      "refusing normal",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2045238786339299431",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2045238786339299431",
+  "via_source_id": null
+}
