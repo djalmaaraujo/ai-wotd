@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--0771ed98",
+  "author": "Boris Cherny",
+  "content_chars": 245,
+  "content_sha256": "23ec3187fd59c8c685b9ae3127942d792fc5313a5d5091eed5f5013a6fcb7c75",
+  "content_tokens": 61,
+  "fetched_at": "2026-04-19T06:51:45Z",
+  "kind": "tweet",
+  "published_at": "2026-04-17T22:26:55+00:00",
+  "snippet": "Starting in v2.1.113, the Claude Code npm package ships the native binary instead of the JavaScript build. Same install command, faster startup, and the CLI no longer needs Node.js at runtime. If you need the JS build, pin to an earlier version.",
+  "source_id": "x-bcherny",
+  "title": "Starting in v2.1.113, the Claude Code npm package ships the native binary instea",
+  "top_terms": [
+    [
+      "binary",
+      2
+    ],
+    [
+      "build",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "claude code npm",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code npm",
+      2
+    ],
+    [
+      "code npm package",
+      2
+    ],
+    [
+      "in v2",
+      2
+    ],
+    [
+      "in v2 the",
+      2
+    ],
+    [
+      "js",
+      2
+    ],
+    [
+      "native",
+      2
+    ],
+    [
+      "native binary",
+      2
+    ],
+    [
+      "npm",
+      2
+    ],
+    [
+      "npm package",
+      2
+    ],
+    [
+      "npm package ships",
+      2
+    ],
+    [
+      "package",
+      2
+    ],
+    [
+      "package ships",
+      2
+    ],
+    [
+      "package ships the",
+      2
+    ],
+    [
+      "ships",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2045267790018543736",
+  "url_canonical": "https://x.com/bcherny/status/2045267790018543736",
+  "via_source_id": null
+}
