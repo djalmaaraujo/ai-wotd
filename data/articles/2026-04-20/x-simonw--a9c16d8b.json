@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--a9c16d8b",
+  "author": "Simon Willison",
+  "content_chars": 251,
+  "content_sha256": "9d6118f02bf6e0e6609e1c113523f5b7fdbe8766cf2e47d583588f91ee7d9162",
+  "content_tokens": 62,
+  "fetched_at": "2026-04-20T07:05:04Z",
+  "kind": "tweet",
+  "published_at": "2026-04-20T03:18:27+00:00",
+  "snippet": "Important to note: that 3x increase for images is entirely due to Opus 4.7 being able to handle higher resolutions. I tried that again with a 682x318 pixel image and it took 314 tokens with Opus 4.7 and 310 with Opus 4.6, so effectively the same cost.",
+  "source_id": "x-simonw",
+  "title": "Important to note: that 3x increase for images is entirely due to Opus 4.7 being",
+  "top_terms": [
+    [
+      "opus",
+      4
+    ],
+    [
+      "due",
+      2
+    ],
+    [
+      "due to",
+      2
+    ],
+    [
+      "due to opus",
+      2
+    ],
+    [
+      "entirely",
+      2
+    ],
+    [
+      "entirely due",
+      2
+    ],
+    [
+      "entirely due to",
+      2
+    ],
+    [
+      "for images",
+      2
+    ],
+    [
+      "for images is",
+      2
+    ],
+    [
+      "images",
+      2
+    ],
+    [
+      "images is",
+      2
+    ],
+    [
+      "images is entirely",
+      2
+    ],
+    [
+      "important",
+      2
+    ],
+    [
+      "important to",
+      2
+    ],
+    [
+      "important to note",
+      2
+    ],
+    [
+      "increase",
+      2
+    ],
+    [
+      "increase for",
+      2
+    ],
+    [
+      "increase for images",
+      2
+    ],
+    [
+      "is entirely",
+      2
+    ],
+    [
+      "is entirely due",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2046065935786938378",
+  "url_canonical": "https://x.com/simonw/status/2046065935786938378",
+  "via_source_id": null
+}
