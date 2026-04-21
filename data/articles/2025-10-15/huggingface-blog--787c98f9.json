@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--787c98f9",
+  "author": "Hugging Face Blog",
+  "content_chars": 12711,
+  "content_sha256": "21594afbd2db5ab9f5e837c1dae554d54bd6c9c42716e378a728d2d9e9d8b39f",
+  "content_tokens": 3177,
+  "fetched_at": "2026-04-21T06:55:25Z",
+  "kind": "article",
+  "published_at": "2025-10-15T00:00:00+00:00",
+  "snippet": "Get your VLM running in 3 simple steps on Intel CPUs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Get your VLM running in 3 simple steps on Intel CPUs Published October 15, 2025 Update on GitHub Upvote 22 +16 Ezequiel…",
+  "source_id": "huggingface-blog",
+  "title": "Get your VLM running in 3 simple steps on Intel CPUs",
+  "top_terms": [
+    [
+      "model",
+      39
+    ],
+    [
+      "intel",
+      31
+    ],
+    [
+      "quantization",
+      29
+    ],
+    [
+      "openvino",
+      18
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "optimum",
+      12
+    ],
+    [
+      "updated",
+      12
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "step",
+      9
+    ],
+    [
+      "your model",
+      9
+    ],
+    [
+      "configuration",
+      8
+    ],
+    [
+      "image-text-to-text",
+      8
+    ],
+    [
+      "static",
+      8
+    ],
+    [
+      "echarlaix",
+      7
+    ],
+    [
+      "first",
+      7
+    ],
+    [
+      "inference",
+      7
+    ],
+    [
+      "on intel",
+      7
+    ],
+    [
+      "ovmodelforvisualcausallm",
+      7
+    ],
+    [
+      "pretrained",
+      7
+    ],
+    [
+      "quantized",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/openvino-vlm",
+  "url_canonical": "https://huggingface.co/blog/openvino-vlm",
+  "via_source_id": null
+}

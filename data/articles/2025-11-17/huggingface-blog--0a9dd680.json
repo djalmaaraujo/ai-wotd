@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0a9dd680",
+  "author": "Hugging Face Blog",
+  "content_chars": 20891,
+  "content_sha256": "f25f743f720691050bc29c8d14de4a490338543d3c00694e50d523a30e270d95",
+  "content_tokens": 5222,
+  "fetched_at": "2026-04-21T06:55:21Z",
+  "kind": "article",
+  "published_at": "2025-11-17T00:00:00+00:00",
+  "snippet": "Easily Build and Share ROCm Kernels with Hugging Face Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Easily Build and Share ROCm Kernels with Hugging Face Published November 17, 2025 Update on GitHub Upvote 38 +32…",
+  "source_id": "huggingface-blog",
+  "title": "Easily Build and Share ROCm Kernels with Hugging Face",
+  "top_terms": [
+    [
+      "kernel",
+      74
+    ],
+    [
+      "torch",
+      71
+    ],
+    [
+      "gemm",
+      63
+    ],
+    [
+      "build",
+      40
+    ],
+    [
+      "kernels",
+      39
+    ],
+    [
+      "tensor",
+      38
+    ],
+    [
+      "device",
+      27
+    ],
+    [
+      "nix",
+      25
+    ],
+    [
+      "the kernel",
+      24
+    ],
+    [
+      "files",
+      19
+    ],
+    [
+      "scale",
+      19
+    ],
+    [
+      "const",
+      17
+    ],
+    [
+      "gemm kernel",
+      17
+    ],
+    [
+      "gpu",
+      17
+    ],
+    [
+      "include",
+      17
+    ],
+    [
+      "hub",
+      16
+    ],
+    [
+      "rocm",
+      16
+    ],
+    [
+      "torch tensor",
+      16
+    ],
+    [
+      "face",
+      15
+    ],
+    [
+      "hip",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/build-rocm-kernels",
+  "url_canonical": "https://huggingface.co/blog/build-rocm-kernels",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--4d505f2d",
+  "author": "Hugging Face Blog",
+  "content_chars": 11657,
+  "content_sha256": "b8da26e76e7a169d400c4c3c00b8d51b546bcbc0ecf398eb3ac0bc3edd0742bc",
+  "content_tokens": 2914,
+  "fetched_at": "2026-04-21T06:55:18Z",
+  "kind": "article",
+  "published_at": "2025-12-05T00:00:00+00:00",
+  "snippet": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Introducing swift-huggingface: The Complete Swift Client for Hugging Face Published December 5, 2025…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+  "top_terms": [
+    [
+      "let",
+      25
+    ],
+    [
+      "client",
+      24
+    ],
+    [
+      "progress",
+      23
+    ],
+    [
+      "swift-huggingface",
+      21
+    ],
+    [
+      "try",
+      18
+    ],
+    [
+      "cache",
+      17
+    ],
+    [
+      "token",
+      16
+    ],
+    [
+      "hub",
+      15
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "await",
+      13
+    ],
+    [
+      "huggingface",
+      13
+    ],
+    [
+      "downloads",
+      12
+    ],
+    [
+      "try await",
+      12
+    ],
+    [
+      "file",
+      11
+    ],
+    [
+      "hf",
+      11
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "python",
+      11
+    ],
+    [
+      "await client",
+      10
+    ],
+    [
+      "try await client",
+      10
+    ],
+    [
+      "environment",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/swift-huggingface",
+  "url_canonical": "https://huggingface.co/blog/swift-huggingface",
+  "via_source_id": null
+}

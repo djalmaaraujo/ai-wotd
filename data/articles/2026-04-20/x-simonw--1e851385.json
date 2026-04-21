@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--1e851385",
+  "author": "Simon Willison",
+  "content_chars": 189,
+  "content_sha256": "97b1a7a2d73fb2fc3638231d01f8dc9ecc65aea1a86ae918cb6d4116f2f277df",
+  "content_tokens": 47,
+  "fetched_at": "2026-04-21T06:56:02Z",
+  "kind": "tweet",
+  "published_at": "2026-04-20T13:47:41+00:00",
+  "snippet": "I tried a 15MB, 30 page text-heavy PDF and Opus 4.7 reported 60,934 tokens while 4.6 reported 56,482 - that's a 1.08x multiplier, significantly lower than the multiplier I got for raw text.",
+  "source_id": "x-simonw",
+  "title": "I tried a 15MB, 30 page text-heavy PDF and Opus 4.7 reported 60,934 tokens while",
+  "top_terms": [
+    [
+      "reported",
+      3
+    ],
+    [
+      "and opus",
+      2
+    ],
+    [
+      "and opus reported",
+      2
+    ],
+    [
+      "mb",
+      2
+    ],
+    [
+      "mb page",
+      2
+    ],
+    [
+      "mb page text-heavy",
+      2
+    ],
+    [
+      "multiplier",
+      2
+    ],
+    [
+      "opus",
+      2
+    ],
+    [
+      "opus reported",
+      2
+    ],
+    [
+      "opus reported tokens",
+      2
+    ],
+    [
+      "page",
+      2
+    ],
+    [
+      "page text-heavy",
+      2
+    ],
+    [
+      "page text-heavy pdf",
+      2
+    ],
+    [
+      "pdf and opus",
+      2
+    ],
+    [
+      "reported tokens",
+      2
+    ],
+    [
+      "reported tokens while",
+      2
+    ],
+    [
+      "text-heavy",
+      2
+    ],
+    [
+      "text-heavy pdf",
+      2
+    ],
+    [
+      "text-heavy pdf and",
+      2
+    ],
+    [
+      "tokens",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2046224286474764790",
+  "url_canonical": "https://x.com/simonw/status/2046224286474764790",
+  "via_source_id": null
+}

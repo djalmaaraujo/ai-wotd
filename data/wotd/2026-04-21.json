@@ -1,0 +1,164 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--053874df",
+        "aibreakfast--4cb0abe2",
+        "aibreakfast--4cc57f6c",
+        "aibreakfast--93b358d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 54.630165,
+      "term": "scribe ai",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "aibreakfast--3788f560",
+        "aibreakfast--4a4edf39"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 41.801185,
+      "term": "cohesive ai",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "aibreakfast--3788f560",
+        "aibreakfast--4a4edf39",
+        "aibreakfast--4cb0abe2",
+        "aibreakfast--4cc57f6c",
+        "aibreakfast--57fdc258",
+        "aibreakfast--8c206973",
+        "aibreakfast--93b358d8",
+        "aibreakfast--d6e0826e",
+        "aibreakfast--e1ba1ff4",
+        "aibreakfast--ee58c0a6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 10,
+      "score": 36.275852,
+      "term": "latest ai news",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--6c9f744f",
+        "aibreakfast--cf39d0c2",
+        "aibreakfast--db2c7f73"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 35.514683,
+      "term": "to use chatgpt",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--3788f560",
+        "aibreakfast--4a4edf39",
+        "aibreakfast--4cb0abe2",
+        "aibreakfast--567c33a8",
+        "aibreakfast--57fdc258",
+        "aibreakfast--797dfef8",
+        "aibreakfast--8c206973",
+        "aibreakfast--93b358d8",
+        "aibreakfast--e1ba1ff4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 35.046162,
+      "term": "news and",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--eb11149d",
+        "codenewsletter--d70a6c1a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.936253,
+      "term": "claude design",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--3788f560",
+        "aibreakfast--81b32917"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.936253,
+      "term": "juice",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--31b66b7a",
+        "aibreakfast--4bf4f8a9",
+        "aibreakfast--502b3439"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 31.5392,
+      "term": "detector",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "aibreakfast--4a4edf39",
+        "aibreakfast--4cb0abe2",
+        "aibreakfast--8c206973",
+        "aibreakfast--93b358d8",
+        "aibreakfast--d6e0826e",
+        "aibreakfast--ee58c0a6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 31.357092,
+      "term": "trending ai tools",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--3788f560",
+        "aibreakfast--4a4edf39",
+        "aibreakfast--4cb0abe2",
+        "aibreakfast--567c33a8",
+        "aibreakfast--57fdc258",
+        "aibreakfast--797dfef8",
+        "aibreakfast--8c206973",
+        "aibreakfast--93b358d8",
+        "aibreakfast--e1ba1ff4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 30.28785,
+      "term": "ai news and",
+      "tf_today": 9
+    }
+  ],
+  "date": "2026-04-21",
+  "evidence_article_ids": [
+    "aibreakfast--053874df",
+    "aibreakfast--4cb0abe2",
+    "aibreakfast--4cc57f6c",
+    "aibreakfast--93b358d8"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "scribe ai",
+      "cohesive ai",
+      "claude design",
+      "chatgpt plugins",
+      "eu ai act"
+    ]
+  },
+  "score": 54.630165,
+  "word": "scribe ai"
+}

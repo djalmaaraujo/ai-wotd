@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5687f7b8",
+  "author": "Hugging Face Blog",
+  "content_chars": 10464,
+  "content_sha256": "f5a0c64779cd301fcef1cf536985d601e41345c666943da5dc2b530f677039cf",
+  "content_tokens": 2616,
+  "fetched_at": "2026-04-21T06:55:25Z",
+  "kind": "article",
+  "published_at": "2025-10-16T00:00:00+00:00",
+  "snippet": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face…",
+  "source_id": "huggingface-blog",
+  "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+  "top_terms": [
+    [
+      "throughput",
+      30
+    ],
+    [
+      "c4",
+      28
+    ],
+    [
+      "c3",
+      27
+    ],
+    [
+      "generation",
+      22
+    ],
+    [
+      "model",
+      22
+    ],
+    [
+      "intel",
+      20
+    ],
+    [
+      "text",
+      19
+    ],
+    [
+      "tokens",
+      19
+    ],
+    [
+      "batch",
+      17
+    ],
+    [
+      "config",
+      16
+    ],
+    [
+      "latency",
+      16
+    ],
+    [
+      "generation config",
+      15
+    ],
+    [
+      "batch size",
+      13
+    ],
+    [
+      "size",
+      13
+    ],
+    [
+      "tco",
+      13
+    ],
+    [
+      "vcpus",
+      13
+    ],
+    [
+      "vcpu",
+      12
+    ],
+    [
+      "google",
+      10
+    ],
+    [
+      "gpt",
+      9
+    ],
+    [
+      "input",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+  "url_canonical": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+  "via_source_id": null
+}

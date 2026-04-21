@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--01b380af",
+  "author": "Hugging Face Blog",
+  "content_chars": 22209,
+  "content_sha256": "2e7a76e06fbeed5011469d52eb66e243c6e4e721983250f88f32b61afa1b9b94",
+  "content_tokens": 5552,
+  "fetched_at": "2026-04-21T06:55:19Z",
+  "kind": "article",
+  "published_at": "2025-11-25T00:00:00+00:00",
+  "snippet": "Continuous batching from first principles Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Continuous batching Published November 25, 2025 Update on GitHub Upvote 361 +355 Rémi Ouazan Reboul ror Follow Arthur Zucker ArthurZ…",
+  "source_id": "huggingface-blog",
+  "title": "Continuous batching from first principles",
+  "top_terms": [
+    [
+      "tokens",
+      44
+    ],
+    [
+      "attention",
+      43
+    ],
+    [
+      "token",
+      43
+    ],
+    [
+      "batching",
+      24
+    ],
+    [
+      "prompts",
+      22
+    ],
+    [
+      "batch",
+      21
+    ],
+    [
+      "mask",
+      21
+    ],
+    [
+      "prefill",
+      21
+    ],
+    [
+      "prompt",
+      21
+    ],
+    [
+      "the attention",
+      19
+    ],
+    [
+      "left",
+      18
+    ],
+    [
+      "attention mask",
+      16
+    ],
+    [
+      "continuous",
+      16
+    ],
+    [
+      "continuous batching",
+      16
+    ],
+    [
+      "right",
+      16
+    ],
+    [
+      "sequence",
+      13
+    ],
+    [
+      "shape",
+      13
+    ],
+    [
+      "generation",
+      12
+    ],
+    [
+      "kv",
+      12
+    ],
+    [
+      "memory",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/continuous_batching",
+  "url_canonical": "https://huggingface.co/blog/continuous_batching",
+  "via_source_id": null
+}
