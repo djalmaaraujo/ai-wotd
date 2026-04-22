@@ -1,0 +1,148 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 26.686166,
+      "term": "nitter",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 26.686166,
+      "term": "nitter net",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 16.424462,
+      "term": "https nitter",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 16.424462,
+      "term": "https nitter net",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 15.567281,
+      "term": "thsottiaux",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.945063,
+      "term": "theamolavasare",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 9.656627,
+      "term": "my blog",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--f527582a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.583669,
+      "term": "apparently",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.583669,
+      "term": "tibo",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.583669,
+      "term": "tibo thsottiaux",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-04-22",
+  "evidence_article_ids": [
+    "x-sama--e2534890",
+    "x-simonw--240a7b06",
+    "x-simonw--507f33b2",
+    "x-simonw--7a6a22ab",
+    "x-simonw--a72130d4"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "nitter net",
+      "pricing grid",
+      "new pricing grid",
+      "nitter",
+      "and efficient models"
+    ]
+  },
+  "score": 26.686166,
+  "word": "nitter net"
+}

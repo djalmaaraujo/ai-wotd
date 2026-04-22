@@ -1,0 +1,2841 @@
+{
+  "article_ids": [
+    "codenewsletter--d0009318",
+    "x-sama--e2534890",
+    "x-simonw--0973c6cf",
+    "x-simonw--240a7b06",
+    "x-simonw--507f33b2",
+    "x-simonw--73d85622",
+    "x-simonw--7a6a22ab",
+    "x-simonw--7c5c5067",
+    "x-simonw--a72130d4",
+    "x-simonw--d9f35118",
+    "x-simonw--f527582a",
+    "x-ylecun--7b94d0c0"
+  ],
+  "date": "2026-04-22",
+  "document_count": 12,
+  "terms": {
+    "ahead": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ahead of": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ahead of making": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "amol": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "amol avasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "amol avasare theamolavasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and docs": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and efficient": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and efficient models": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and plus": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and plus plans": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and trust": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and trust are": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "anthropic": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf",
+        "x-simonw--240a7b06",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "anthropic's": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--73d85622"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "any official": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "apparently": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "apr": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "are two": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "are two principles": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "available both": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available both in": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "avasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "avasare theamolavasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be available": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be available both": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "blog": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "break": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "break even": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "break even if": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "but codex": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "but codex will": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "change": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "changes": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 5
+    },
+    "changes we": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "changes we will": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf",
+        "x-simonw--73d85622",
+        "x-simonw--a72130d4",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 12
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf",
+        "x-simonw--73d85622",
+        "x-simonw--a72130d4",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 8
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf",
+        "x-simonw--73d85622",
+        "x-simonw--a72130d4",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 17
+    },
+    "codex": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "codex will": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "codex will continue": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "community": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "community well": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "community well ahead": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "compute": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "compute and": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "compute and efficient": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "confusing": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "continue": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "continue to": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "continue to be": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "course": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--73d85622"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "docs": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "don't": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "don't know": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "don't know what": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "earning": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "earning less": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient models": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient models to": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "end": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "end up": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engage": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engage with": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engage with the": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "files": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-ylecun--7b94d0c0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "flow": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for claude": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for claude code": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for important": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for important changes": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for the values": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "free": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "free and": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "free and plus": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "grid": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "groups": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-ylecun--7b94d0c0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "have the compute": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 6
+    },
+    "https nitter": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 5
+    },
+    "https nitter net": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 5
+    },
+    "i've": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "if it means": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "important": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "important changes": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "important changes we": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in the free": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in this world": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it for important": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it means": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it means momentarily": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "less": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "making": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "making them": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "making them transparency": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means momentarily": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means momentarily earning": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "models": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "models to": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "models to support": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "momentarily": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "momentarily earning": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "momentarily earning less": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "my blog": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "net": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--73d85622",
+        "x-simonw--7a6a22ab",
+        "x-simonw--7c5c5067",
+        "x-simonw--a72130d4",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 8,
+      "tf": 10
+    },
+    "net apr": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "net theamolavasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net theamolavasare status": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net thsottiaux": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "net thsottiaux status": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "new pricing": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "new pricing grid": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "new signups": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nitter": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 7
+    },
+    "nitter net": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 7
+    },
+    "nitter net theamolavasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "nitter net thsottiaux": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "not break": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "not break even": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of making": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of making them": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "official": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf",
+        "x-simonw--507f33b2",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "on claude": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on my blog": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "openai": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "page": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "people": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "plans": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plans we": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plans we have": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plus": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "plus plans": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plus plans we": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pricing": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--507f33b2",
+        "x-simonw--73d85622",
+        "x-simonw--7a6a22ab",
+        "x-simonw--7c5c5067",
+        "x-simonw--a72130d4",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 7,
+      "tf": 11
+    },
+    "pricing grid": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "principles": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "principles we": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "principles we will": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pro": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--0973c6cf",
+        "x-simonw--507f33b2"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "questions": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reminder": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reminder that": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reminder that you": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reversed": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--73d85622"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reversed course": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--73d85622"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reverted": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "seen any official": {
+      "articles": [
+        "x-simonw--0973c6cf",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign up": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "signups": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "simonwillison": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "simonwillison net": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "simonwillison net apr": {
+      "articles": [
+        "x-simonw--73d85622",
+        "x-simonw--7c5c5067",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "spend": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "status": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06",
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 7
+    },
+    "subscription": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscription for": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscription for the": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "support": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "support it": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "support it for": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "that you vote": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the community": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the community well": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the compute": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the compute and": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the free": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the free and": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the new pricing": {
+      "articles": [
+        "x-simonw--7a6a22ab",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the values": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the values you": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "theamolavasare": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "theamolavasare status": {
+      "articles": [
+        "x-simonw--507f33b2",
+        "x-simonw--7a6a22ab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "them transparency": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "them transparency and": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "there but codex": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this world": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this world https": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thsottiaux": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "thsottiaux status": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tibo": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "tibo thsottiaux": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "to be available": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to support": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to support it": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to use claude": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "token": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--f527582a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "transparency": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "transparency and": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "transparency and trust": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trust": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trust are": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trust are two": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "try": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "try it": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "try it out": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "two": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "two principles": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "two principles we": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--507f33b2"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "use claude": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--a72130d4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "values": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "values you": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "values you want": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vote": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vote with": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vote with your": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we will engage": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "well ahead": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "well ahead of": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "who's": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--d9f35118"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will continue": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will continue to": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will engage": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will engage with": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will not break": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with the community": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with your subscription": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world https": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world https nitter": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "yet": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--7c5c5067"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "you vote": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "you vote with": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "you'll": {
+      "articles": [
+        "codenewsletter--d0009318",
+        "x-simonw--507f33b2"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your subscription": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your subscription for": {
+      "articles": [
+        "x-sama--e2534890",
+        "x-simonw--240a7b06"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}

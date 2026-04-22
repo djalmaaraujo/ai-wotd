@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--77805181",
+  "author": "Simon Willison",
+  "content_chars": 597,
+  "content_sha256": "72a91b6e230337b34143587cda225d638c30d4708548a5484a9d1ec9c60cb48d",
+  "content_tokens": 149,
+  "fetched_at": "2026-04-22T06:55:05Z",
+  "kind": "tweet",
+  "published_at": "2026-04-21T23:59:13+00:00",
+  "snippet": "OK, here's a resolution - I managed to get it to think using these settings: \"thinking\": { \"type\": \"adaptive\", \"display\": \"summarized\" }, \"output_config\": { \"effort\": \"max\" } Without \"display\": \"summarized\" I couldn't tell if it thought or not nitter.net/simonw/status/20467401……",
+  "source_id": "x-simonw",
+  "title": "OK, here's a resolution - I managed to get it to think using these settings: \"th",
+  "top_terms": [
+    [
+      "simonw",
+      4
+    ],
+    [
+      "reasoning",
+      3
+    ],
+    [
+      "couldn't",
+      2
+    ],
+    [
+      "couldn't tell",
+      2
+    ],
+    [
+      "couldn't tell if",
+      2
+    ],
+    [
+      "display",
+      2
+    ],
+    [
+      "display summarized",
+      2
+    ],
+    [
+      "here's",
+      2
+    ],
+    [
+      "managed",
+      2
+    ],
+    [
+      "managed to",
+      2
+    ],
+    [
+      "managed to get",
+      2
+    ],
+    [
+      "net",
+      2
+    ],
+    [
+      "net simonw",
+      2
+    ],
+    [
+      "net simonw status",
+      2
+    ],
+    [
+      "nitter",
+      2
+    ],
+    [
+      "nitter net",
+      2
+    ],
+    [
+      "nitter net simonw",
+      2
+    ],
+    [
+      "ok",
+      2
+    ],
+    [
+      "ok here's",
+      2
+    ],
+    [
+      "output",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2046740570140508252",
+  "url_canonical": "https://x.com/simonw/status/2046740570140508252",
+  "via_source_id": null
+}

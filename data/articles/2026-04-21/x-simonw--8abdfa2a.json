@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--8abdfa2a",
+  "author": "Simon Willison",
+  "content_chars": 269,
+  "content_sha256": "7403cd06b0e57b4370e448871f2bb445a47fd0f0ad2f6722032a5fe0b3874abb",
+  "content_tokens": 67,
+  "fetched_at": "2026-04-22T06:55:05Z",
+  "kind": "tweet",
+  "published_at": "2026-04-21T18:36:41+00:00",
+  "snippet": "Claude Opus 4.7 with adaptive thinking via the API... am I missing something or is it not possible any more to force it to think? (Prompt hacks like \"think step by step\" don't count here, I mean the equivalent of budget_tokens or effort: high in previous Claude models)",
+  "source_id": "x-simonw",
+  "title": "Claude Opus 4.7 with adaptive thinking via the API... am I missing something or ",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "adaptive",
+      2
+    ],
+    [
+      "adaptive thinking",
+      2
+    ],
+    [
+      "adaptive thinking via",
+      2
+    ],
+    [
+      "api",
+      2
+    ],
+    [
+      "api am",
+      2
+    ],
+    [
+      "claude opus",
+      2
+    ],
+    [
+      "claude opus with",
+      2
+    ],
+    [
+      "missing",
+      2
+    ],
+    [
+      "missing something",
+      2
+    ],
+    [
+      "missing something or",
+      2
+    ],
+    [
+      "opus",
+      2
+    ],
+    [
+      "opus with",
+      2
+    ],
+    [
+      "opus with adaptive",
+      2
+    ],
+    [
+      "something",
+      2
+    ],
+    [
+      "something or",
+      2
+    ],
+    [
+      "step",
+      2
+    ],
+    [
+      "the api",
+      2
+    ],
+    [
+      "the api am",
+      2
+    ],
+    [
+      "thinking",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2046659404217659467",
+  "url_canonical": "https://x.com/simonw/status/2046659404217659467",
+  "via_source_id": null
+}

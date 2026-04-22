@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--d002dc2e",
+  "author": "Yann LeCun",
+  "content_chars": 1639,
+  "content_sha256": "faefcf22412b67e18a4a33efd13dcf01d16e6d56ab27785b2bedb82939543f61",
+  "content_tokens": 409,
+  "fetched_at": "2026-04-22T06:55:07Z",
+  "kind": "tweet",
+  "published_at": "2026-04-21T05:12:16+00:00",
+  "snippet": "全网都在吹的LeCun新论文，90%的解读都是错的。 他们说生成式AI是死路，说过去三年花的几百亿全白费了，说15M参数的小模型就能吊打万亿大模型。 这些全是营销号的夸张， 我觉得这篇论文的真正分量比他们吹的还要重。 Yann LeCun团队这次解决了JEPA困扰了好几年的表征坍缩问题。 以前的世界模型，学着学着就会把狗车人都压成一模一样的向量，什么都学不到。 这次他们只加了一个极其优雅的数学正则化器SIGReg， 没有复杂的trick 和六个超参数要调，训练稳得离谱。…",
+  "source_id": "x-ylecun",
+  "title": "全网都在吹的LeCun新论文，90%的解读都是错的。 他们说生成式AI是死路，说过去三年花的几百亿全白费了，说15M参数的小模型就能吊打万亿大模型。 这些全是营",
+  "top_terms": [
+    [
+      "lecun",
+      7
+    ],
+    [
+      "dario",
+      5
+    ],
+    [
+      "lecun ai",
+      4
+    ],
+    [
+      "ayi",
+      3
+    ],
+    [
+      "ai ai lecun",
+      2
+    ],
+    [
+      "ai lecun",
+      2
+    ],
+    [
+      "ainotes",
+      2
+    ],
+    [
+      "ayi ainotes",
+      2
+    ],
+    [
+      "ceo",
+      2
+    ],
+    [
+      "dario ai",
+      2
+    ],
+    [
+      "yann",
+      2
+    ],
+    [
+      "yann lecun",
+      2
+    ],
+    [
+      "ai ai dario",
+      1
+    ],
+    [
+      "ai anthropic",
+      1
+    ],
+    [
+      "ai anthropic ceo",
+      1
+    ],
+    [
+      "ai ceo",
+      1
+    ],
+    [
+      "ai ceo sam",
+      1
+    ],
+    [
+      "ai dario",
+      1
+    ],
+    [
+      "ai dario fox",
+      1
+    ],
+    [
+      "ai hhh",
+      1
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2046456965904146536",
+  "url_canonical": "https://x.com/ylecun/status/2046456965904146536",
+  "via_source_id": null
+}
