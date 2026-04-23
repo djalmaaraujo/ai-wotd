@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 92.338177,
+      "term": "chatgpt images",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "accessed",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "codex session",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "fear-based",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "fear-based marketing",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "new image",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "unauthorized users",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "unreleased",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "ai scientist",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--30b99643",
+        "codenewsletter--4edb3569"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "days in",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-04-23",
+  "evidence_article_ids": [
+    "aibreakfast--30b99643",
+    "codenewsletter--4edb3569"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "chatgpt images",
+      "codex session",
+      "claude mythos",
+      "image model",
+      "agents"
+    ]
+  },
+  "score": 92.338177,
+  "word": "chatgpt images"
+}

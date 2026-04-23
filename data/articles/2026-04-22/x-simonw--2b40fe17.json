@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--2b40fe17",
+  "author": "Simon Willison",
+  "content_chars": 225,
+  "content_sha256": "ed724158e41ca4ee87ea43a3ac00a8a4cd7c1e19dafad0d40d47a471eb7c93b9",
+  "content_tokens": 56,
+  "fetched_at": "2026-04-23T06:55:40Z",
+  "kind": "tweet",
+  "published_at": "2026-04-22T17:59:53+00:00",
+  "snippet": "I've been mostly prompting the new model directly via the client.images.generate() API, I have no idea if that rewrites my prompts at all or if it passes them straight to the model - details here simonwillison.net/2026/Apr/2…",
+  "source_id": "x-simonw",
+  "title": "I've been mostly prompting the new model directly via the client.images.generate",
+  "top_terms": [
+    [
+      "model",
+      3
+    ],
+    [
+      "been mostly",
+      2
+    ],
+    [
+      "been mostly prompting",
+      2
+    ],
+    [
+      "client",
+      2
+    ],
+    [
+      "client images",
+      2
+    ],
+    [
+      "client images generate",
+      2
+    ],
+    [
+      "directly",
+      2
+    ],
+    [
+      "directly via",
+      2
+    ],
+    [
+      "directly via the",
+      2
+    ],
+    [
+      "generate",
+      2
+    ],
+    [
+      "i've",
+      2
+    ],
+    [
+      "i've been",
+      2
+    ],
+    [
+      "i've been mostly",
+      2
+    ],
+    [
+      "images",
+      2
+    ],
+    [
+      "images generate",
+      2
+    ],
+    [
+      "model directly",
+      2
+    ],
+    [
+      "model directly via",
+      2
+    ],
+    [
+      "mostly",
+      2
+    ],
+    [
+      "mostly prompting",
+      2
+    ],
+    [
+      "mostly prompting the",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2047012529927585814",
+  "url_canonical": "https://x.com/simonw/status/2047012529927585814",
+  "via_source_id": null
+}
