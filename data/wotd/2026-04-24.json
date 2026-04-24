@@ -1,0 +1,136 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.864555,
+      "term": "scottjla",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.931329,
+      "term": "deepseek-v4-flash",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.940485,
+      "term": "deepseek ai",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 10.729586,
+      "term": "deepseek-v4-pro",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "active params",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "params",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--4b44b357",
+        "x-simonw--587565e1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "pelicans",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "sign of",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 6.931472,
+      "term": "open weights",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.007276,
+      "term": "ai status",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-04-24",
+  "evidence_article_ids": [
+    "x-simonw--1388a300",
+    "x-simonw--587565e1",
+    "x-simonw--59c6269d"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "deepseek-v4-flash",
+      "deepseek-v4-pro",
+      "active params",
+      "open weights",
+      "context length"
+    ]
+  },
+  "score": 14.931329,
+  "word": "deepseek-v4-flash"
+}

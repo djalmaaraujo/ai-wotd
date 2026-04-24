@@ -1,0 +1,3424 @@
+{
+  "article_ids": [
+    "codenewsletter--e5fed5f3",
+    "one-useful-thing--b26e4fcd",
+    "x-sama--b77f53c1",
+    "x-simonw--1388a300",
+    "x-simonw--3f73c88c",
+    "x-simonw--4b44b357",
+    "x-simonw--587565e1",
+    "x-simonw--59c6269d",
+    "x-simonw--67b0c3e4"
+  ],
+  "date": "2026-04-24",
+  "document_count": 9,
+  "terms": {
+    "across": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "active": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "active params": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "active params performance": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "active params your": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "agentic": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai deepseek-v4": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai deepseek-v4 preview": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai status": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "and economical": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and economical choice": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "api": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "api is": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "api is updated": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "apr": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--1388a300"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "architecture": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "at chat": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "at chat deepseek": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available today": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available today tech": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "basically": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "better": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "big": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--1388a300"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "bringing": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "building": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "chat": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "chat deepseek": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "chat deepseek com": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "chatgpt": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "choice": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "choice try": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "choice try it": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "claude code and": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "close": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--1388a300"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "closed-source": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "closed-source models": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "closed-source models deepseek-v4-flash": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "co": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "co collections": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "co deepseek-ai": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 18
+    },
+    "code and": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "codex": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "coding": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 12
+    },
+    "collections": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "com": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1",
+        "x-simonw--4b44b357",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 8
+    },
+    "com via": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "com via expert": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "complex": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "context": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "context length": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "context length deepseek-v4-pro": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cost-effective": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "create": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "data": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "deepseek": {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "deepseek ai": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "deepseek ai deepseek-v4": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek ai status": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "deepseek com": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek com via": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek deepseek": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek deepseek ai": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek-ai": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek-v4": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek-v4 preview": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek-v4 preview is": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deepseek-v4-flash": {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "deepseek-v4-pro": {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "developers": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-sama--b77f53c1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "dimensions": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "done": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "economical": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "economical choice": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "economical choice try": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient and": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient and economical": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "email": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "engineering": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "entire": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "entirely": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "era": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "era of": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "era of cost-effective": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ever": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "every": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "expert": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "expert mode": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "expert mode instant": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fast": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fast efficient": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fast efficient and": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "features": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "feel": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "first": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "fluency": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "framework": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "free": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "free to": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "frontier": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--1388a300"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "frontier models": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--1388a300"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "full": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fully": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "future": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "gemini": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "generated": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "give": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "home": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "https": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 7
+    },
+    "https nitter": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "https nitter net": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "huggingface": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "huggingface co": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "huggingface co collections": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "huggingface co deepseek-ai": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "images": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "important": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "include": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instant": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instant mode": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instant mode api": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instead": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is officially": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is officially live": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is updated": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is updated available": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is worth": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "iteration": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "kind": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "kind of": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "lab": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "length": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "length deepseek-v4-pro": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "live": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "live open-sourced": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "live open-sourced welcome": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "long": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "major": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "maker": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mode": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "mode api": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mode api is": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mode instant": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mode instant mode": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 24
+    },
+    "model can": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "models": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1",
+        "x-simonw--1388a300",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 23
+    },
+    "models deepseek-v4-flash": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "net": {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 7
+    },
+    "net deepseek": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net deepseek ai": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net scottjla": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net scottjla status": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "news": {
+      "articles": [
+        "x-simonw--1388a300",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "nitter": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "nitter net": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "nitter net deepseek": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "nitter net scottjla": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "now at chat": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of cost-effective": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "officially": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "officially live": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "officially live open-sourced": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 9
+    },
+    "open weights": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "open weights huggingface": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open-sourced": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "open-sourced welcome": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open-sourced welcome to": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "openai": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 17
+    },
+    "paper": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "params": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "params performance": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "params performance rivaling": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "params your": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "params your fast": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "passing": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pattern": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "patterns": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "pelicans": {
+      "articles": [
+        "x-simonw--4b44b357",
+        "x-simonw--587565e1"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "performance": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "performance rivaling": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "performance rivaling the": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "powerful": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "presented": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "preview": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "preview is": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "preview is officially": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "previous": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "privacy": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "product": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "production": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "prompt": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "question": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reading": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "real": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "real-world": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reply": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "report": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "report huggingface": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "report huggingface co": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "research": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-sama--b77f53c1"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "review": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "rivaling": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rivaling the": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rivaling the world's": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "run": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "runs": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "scott": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "scott scottjla": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "scottjla": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "scottjla status": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "shows": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "sign in": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sign of": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--3f73c88c"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "single": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "size": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "solved": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "solving": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stack": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "status": {
+      "articles": [
+        "x-simonw--3f73c88c",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "subscribe": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "subscribe sign": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "substack": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "substack com": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--4b44b357"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "systems": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tech": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "tech report": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tech report huggingface": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "test": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "tests": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--67b0c3e4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "the era": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the era of": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the frontier": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--1388a300"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the future": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the model": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the real": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the way": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the world's": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the world's top": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thing": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "things": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "thinking": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "to include": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to the era": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to try": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "today tech": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "today tech report": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "together": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "tool": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "tools": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "top": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "top closed-source": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "top closed-source models": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "total": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "try": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "try it": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "try it now": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "two": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updated": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updated available": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updated available today": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "via expert": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "via expert mode": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "way": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "way to": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "weights": {
+      "articles": [
+        "one-useful-thing--b26e4fcd",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Ethan Mollick",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "weights huggingface": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "weights huggingface co": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "welcome": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "welcome to": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "welcome to the": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "whether": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "without": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "world's": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world's top": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world's top closed-source": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "worth": {
+      "articles": [
+        "codenewsletter--e5fed5f3",
+        "one-useful-thing--b26e4fcd"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Ethan Mollick"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "your fast": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your fast efficient": {
+      "articles": [
+        "x-simonw--587565e1",
+        "x-simonw--59c6269d"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}

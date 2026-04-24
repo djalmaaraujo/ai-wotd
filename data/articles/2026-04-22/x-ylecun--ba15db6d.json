@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--ba15db6d",
+  "author": "Yann LeCun",
+  "content_chars": 3096,
+  "content_sha256": "a34f9ede09366c61b7078b8ae6b4304a0c93660df817af55c379ee76c1f88bb0",
+  "content_tokens": 774,
+  "fetched_at": "2026-04-24T06:56:29Z",
+  "kind": "tweet",
+  "published_at": "2026-04-22T19:11:54+00:00",
+  "snippet": "🦤 LeWorldModel: Learning Physics from Pixels — Stable World Models with Just Two Losses World models: 1️⃣ DINO-WM: pretrained ViT encoder (from ImageNet) → features → predictor. But encoder is frozen, so no end-to-end learning. Its “visual genetics” are tuned for coarse…",
+  "source_id": "x-ylecun",
+  "title": "🦤 LeWorldModel: Learning Physics from Pixels — Stable World Models with Just Two",
+  "top_terms": [
+    [
+      "encoder",
+      7
+    ],
+    [
+      "end-to-end",
+      6
+    ],
+    [
+      "physics",
+      6
+    ],
+    [
+      "pixels",
+      5
+    ],
+    [
+      "stable",
+      5
+    ],
+    [
+      "block",
+      4
+    ],
+    [
+      "collapse",
+      4
+    ],
+    [
+      "latent",
+      4
+    ],
+    [
+      "lewm",
+      4
+    ],
+    [
+      "loss",
+      4
+    ],
+    [
+      "models",
+      4
+    ],
+    [
+      "sigreg",
+      4
+    ],
+    [
+      "world",
+      4
+    ],
+    [
+      "world models",
+      4
+    ],
+    [
+      "constraints",
+      3
+    ],
+    [
+      "dino-wm",
+      3
+    ],
+    [
+      "embedding",
+      3
+    ],
+    [
+      "frozen",
+      3
+    ],
+    [
+      "hyperparameter",
+      3
+    ],
+    [
+      "jepa",
+      3
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2047030655440376214",
+  "url_canonical": "https://x.com/ylecun/status/2047030655440376214",
+  "via_source_id": null
+}
