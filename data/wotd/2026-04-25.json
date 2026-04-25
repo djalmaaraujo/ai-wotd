@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--f20934de",
+        "x-demishassabis--06feb3c2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "awesome",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "accuses",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "agents an",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "agents now",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "beta for",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "data across",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "grep",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "managed agents",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "public beta",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--61d490bf",
+        "codenewsletter--f20934de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "public beta for",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-04-25",
+  "evidence_article_ids": [
+    "aibreakfast--61d490bf",
+    "codenewsletter--f20934de"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gpt-5",
+      "managed agents",
+      "public beta",
+      "codex",
+      "api"
+    ]
+  },
+  "score": 0.529322,
+  "word": "gpt-5"
+}
