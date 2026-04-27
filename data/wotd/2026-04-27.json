@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "google-deepmind--59872ea3",
+        "x-sama--7ef4d038"
+      ],
+      "avg_tf_baseline": 259.6364,
+      "df_today": 2,
+      "score": 0.040256,
+      "term": "tools",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "google-deepmind--59872ea3",
+        "x-simonw--2382e778"
+      ],
+      "avg_tf_baseline": 117.4,
+      "df_today": 2,
+      "score": 0.021835,
+      "term": "access",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-04-27",
+  "evidence_article_ids": [
+    "google-deepmind--59872ea3",
+    "x-sama--7ef4d038"
+  ],
+  "score": 0.040256,
+  "word": "tools"
+}

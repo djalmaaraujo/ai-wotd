@@ -1,0 +1,35 @@
+{
+  "article_ids": [
+    "google-deepmind--59872ea3",
+    "x-sama--7ef4d038",
+    "x-simonw--2382e778"
+  ],
+  "date": "2026-04-27",
+  "document_count": 3,
+  "terms": {
+    "access": {
+      "articles": [
+        "google-deepmind--59872ea3",
+        "x-simonw--2382e778"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tools": {
+      "articles": [
+        "google-deepmind--59872ea3",
+        "x-sama--7ef4d038"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 5
+    }
+  }
+}

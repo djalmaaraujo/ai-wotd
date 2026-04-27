@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--2382e778",
+  "author": "Simon Willison",
+  "content_chars": 387,
+  "content_sha256": "7bd67bad0290111a73cd47c844c63e6469eb45c3763a7d3b516fbd5ae00f1935",
+  "content_tokens": 96,
+  "fetched_at": "2026-04-27T07:11:31Z",
+  "kind": "tweet",
+  "published_at": "2026-04-27T03:01:29+00:00",
+  "snippet": "The conclusions here feel wrong to me. The two lessons I see are: 1. Don't run agents anywhere they might be able to access production environment credentials - it's on you to know which credentials those are 2. Keep tested backups that are independent from your production host…",
+  "source_id": "x-simonw",
+  "title": "The conclusions here feel wrong to me. The two lessons I see are: 1. Don't run a",
+  "top_terms": [
+    [
+      "jer",
+      3
+    ],
+    [
+      "are don't",
+      2
+    ],
+    [
+      "are don't run",
+      2
+    ],
+    [
+      "conclusions",
+      2
+    ],
+    [
+      "conclusions here",
+      2
+    ],
+    [
+      "conclusions here feel",
+      2
+    ],
+    [
+      "credentials",
+      2
+    ],
+    [
+      "don't",
+      2
+    ],
+    [
+      "don't run",
+      2
+    ],
+    [
+      "feel",
+      2
+    ],
+    [
+      "feel wrong",
+      2
+    ],
+    [
+      "feel wrong to",
+      2
+    ],
+    [
+      "here feel",
+      2
+    ],
+    [
+      "here feel wrong",
+      2
+    ],
+    [
+      "lessons",
+      2
+    ],
+    [
+      "lifeof",
+      2
+    ],
+    [
+      "lifeof jer",
+      2
+    ],
+    [
+      "me the two",
+      2
+    ],
+    [
+      "production",
+      2
+    ],
+    [
+      "run",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2048598378171572332",
+  "url_canonical": "https://x.com/simonw/status/2048598378171572332",
+  "via_source_id": null
+}
