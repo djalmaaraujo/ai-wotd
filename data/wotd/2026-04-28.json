@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--566e7e7a",
+        "x-simonw--da1be2a6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.116467,
+      "term": "talkie",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.535388,
+      "term": "rarely",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "commits",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "competing with",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "finish",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "into anthropic",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "invisible",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "with broadcom",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--bb1b2a18",
+        "huggingface-blog--76ac2863"
+      ],
+      "avg_tf_baseline": 14.5,
+      "df_today": 2,
+      "score": 1.299352,
+      "term": "sound",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--d154216f",
+        "codenewsletter--bb1b2a18"
+      ],
+      "avg_tf_baseline": 9.2857,
+      "df_today": 2,
+      "score": 0.758052,
+      "term": "round",
+      "tf_today": 5
+    }
+  ],
+  "date": "2026-04-28",
+  "evidence_article_ids": [
+    "aibreakfast--d154216f",
+    "codenewsletter--bb1b2a18"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "anthropic",
+      "claude code",
+      "agents",
+      "github",
+      "codex"
+    ]
+  },
+  "score": 0.274549,
+  "word": "anthropic"
+}

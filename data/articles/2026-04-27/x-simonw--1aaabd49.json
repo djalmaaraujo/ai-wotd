@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--1aaabd49",
+  "author": "Simon Willison",
+  "content_chars": 285,
+  "content_sha256": "ff0c85613d4c84361d666bda9fb3e587dd8a9bc16b862362240e38d00b46971e",
+  "content_tokens": 71,
+  "fetched_at": "2026-04-28T07:11:33Z",
+  "kind": "tweet",
+  "published_at": "2026-04-27T23:48:02+00:00",
+  "snippet": "Microsoft's MIT licensed VibeVoice speech-to-text model (think Whisper with speaker diarization) is really good - my notes on running the 5.71GB 4bit MLX conversion on an M5 MacBook, using about 60GB of RAM at peak and transcribing 1hr of audio in ~9 mins…",
+  "source_id": "x-simonw",
+  "title": "Microsoft's MIT licensed VibeVoice speech-to-text model (think Whisper with spea",
+  "top_terms": [
+    [
+      "gb",
+      2
+    ],
+    [
+      "licensed",
+      2
+    ],
+    [
+      "licensed vibevoice",
+      2
+    ],
+    [
+      "licensed vibevoice speech-to-text",
+      2
+    ],
+    [
+      "microsoft's",
+      2
+    ],
+    [
+      "microsoft's mit",
+      2
+    ],
+    [
+      "microsoft's mit licensed",
+      2
+    ],
+    [
+      "mit",
+      2
+    ],
+    [
+      "mit licensed",
+      2
+    ],
+    [
+      "mit licensed vibevoice",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "model think",
+      2
+    ],
+    [
+      "model think whisper",
+      2
+    ],
+    [
+      "speech-to-text",
+      2
+    ],
+    [
+      "speech-to-text model",
+      2
+    ],
+    [
+      "speech-to-text model think",
+      2
+    ],
+    [
+      "think whisper",
+      2
+    ],
+    [
+      "think whisper with",
+      2
+    ],
+    [
+      "vibevoice",
+      2
+    ],
+    [
+      "vibevoice speech-to-text",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2048912086307377252",
+  "url_canonical": "https://x.com/simonw/status/2048912086307377252",
+  "via_source_id": null
+}

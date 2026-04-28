@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--b1f3c360",
+  "author": "Simon Willison",
+  "content_chars": 269,
+  "content_sha256": "b8360081ebda0de9210866f9b0778d71a81ed0977a2b1f161c55867f61a60538",
+  "content_tokens": 67,
+  "fetched_at": "2026-04-28T07:11:33Z",
+  "kind": "tweet",
+  "published_at": "2026-04-27T23:53:04+00:00",
+  "snippet": "Here's a uv one-liner that downloads and runs the MLX model against a local mp3 file uv run --with mlx-audio python -m mlx_audio.stt.generate \\ --model mlx-community/VibeVoice-ASR-4bit \\ --audio lenny.mp3 --output-path lenny \\ --format json --verbose --max-tokens 32768",
+  "source_id": "x-simonw",
+  "title": "Here's a uv one-liner that downloads and runs the MLX model against a local mp3 ",
+  "top_terms": [
+    [
+      "mlx",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "mp3",
+      3
+    ],
+    [
+      "uv",
+      3
+    ],
+    [
+      "and runs",
+      2
+    ],
+    [
+      "and runs the",
+      2
+    ],
+    [
+      "audio",
+      2
+    ],
+    [
+      "downloads",
+      2
+    ],
+    [
+      "downloads and",
+      2
+    ],
+    [
+      "downloads and runs",
+      2
+    ],
+    [
+      "here's",
+      2
+    ],
+    [
+      "lenny",
+      2
+    ],
+    [
+      "local",
+      2
+    ],
+    [
+      "local mp3",
+      2
+    ],
+    [
+      "mlx model",
+      2
+    ],
+    [
+      "mlx model against",
+      2
+    ],
+    [
+      "model against",
+      2
+    ],
+    [
+      "one-liner",
+      2
+    ],
+    [
+      "one-liner that",
+      2
+    ],
+    [
+      "one-liner that downloads",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2048913350860685395",
+  "url_canonical": "https://x.com/simonw/status/2048913350860685395",
+  "via_source_id": null
+}
