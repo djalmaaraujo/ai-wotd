@@ -1,0 +1,96 @@
+{
+  "article_ids": [
+    "codenewsletter--d3c40fa6",
+    "x-demishassabis--32d90873",
+    "x-demishassabis--99818bef",
+    "x-sama--c6154959"
+  ],
+  "date": "2026-04-29",
+  "document_count": 4,
+  "terms": {
+    "google": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "headlines": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "next": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-sama--c6154959"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "paper": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "still": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the next": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-sama--c6154959"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "updates": {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-sama--c6154959"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-sama--c6154959"
+      ],
+      "avg_tf_baseline": 57.5,
+      "df_today": 2,
+      "score": 0.111961,
+      "term": "updates",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "avg_tf_baseline": 61.5833,
+      "df_today": 2,
+      "score": 0.104537,
+      "term": "still",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "avg_tf_baseline": 40.5,
+      "df_today": 2,
+      "score": 0.102688,
+      "term": "headlines",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-sama--c6154959"
+      ],
+      "avg_tf_baseline": 44.4444,
+      "df_today": 2,
+      "score": 0.093575,
+      "term": "the next",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-sama--c6154959"
+      ],
+      "avg_tf_baseline": 110.0,
+      "df_today": 2,
+      "score": 0.081444,
+      "term": "next",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "avg_tf_baseline": 89.9,
+      "df_today": 2,
+      "score": 0.07161,
+      "term": "paper",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--d3c40fa6",
+        "x-demishassabis--32d90873"
+      ],
+      "avg_tf_baseline": 368.5385,
+      "df_today": 2,
+      "score": 0.024309,
+      "term": "google",
+      "tf_today": 5
+    }
+  ],
+  "date": "2026-04-29",
+  "evidence_article_ids": [
+    "codenewsletter--d3c40fa6",
+    "x-demishassabis--32d90873"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "google",
+      "paper",
+      "next",
+      "the next",
+      "updates"
+    ]
+  },
+  "score": 0.024309,
+  "word": "google"
+}

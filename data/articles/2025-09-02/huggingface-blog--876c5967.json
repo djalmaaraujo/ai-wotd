@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--876c5967",
+  "author": "Hugging Face Blog",
+  "content_chars": 20465,
+  "content_sha256": "32ec14a7efc911c637ac6a22447a91702f4e2dd130c3b4e0e386c04bd99ed08f",
+  "content_tokens": 5116,
+  "fetched_at": "2026-04-29T07:06:24Z",
+  "kind": "article",
+  "published_at": "2025-09-02T00:00:00+00:00",
+  "snippet": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Make your ZeroGPU Spaces go brrr with ahead-of-time compilation Published September 2, 2025 Update on GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+  "top_terms": [
+    [
+      "spaces",
+      46
+    ],
+    [
+      "model",
+      44
+    ],
+    [
+      "compilation",
+      42
+    ],
+    [
+      "transformer",
+      40
+    ],
+    [
+      "zerogpu",
+      31
+    ],
+    [
+      "compiled",
+      30
+    ],
+    [
+      "pipe",
+      26
+    ],
+    [
+      "export",
+      21
+    ],
+    [
+      "torch",
+      20
+    ],
+    [
+      "dynamic",
+      19
+    ],
+    [
+      "gpu",
+      18
+    ],
+    [
+      "shapes",
+      18
+    ],
+    [
+      "aot",
+      17
+    ],
+    [
+      "pytorch",
+      17
+    ],
+    [
+      "dynamic shapes",
+      16
+    ],
+    [
+      "import",
+      16
+    ],
+    [
+      "aoti",
+      15
+    ],
+    [
+      "call",
+      15
+    ],
+    [
+      "ahead-of-time",
+      14
+    ],
+    [
+      "compile",
+      14
+    ]
+  ],
+  "url": "https://huggingface.co/blog/zerogpu-aoti",
+  "url_canonical": "https://huggingface.co/blog/zerogpu-aoti",
+  "via_source_id": null
+}

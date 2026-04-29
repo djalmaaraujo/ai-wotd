@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--cabd0df7",
+  "author": "Hugging Face Blog",
+  "content_chars": 25248,
+  "content_sha256": "ccfeec3a0e6d9cfaef5a8d2c54563da7fc39c7d0d3362f6368c8c8068bb7d0d6",
+  "content_tokens": 6312,
+  "fetched_at": "2026-04-29T07:06:25Z",
+  "kind": "article",
+  "published_at": "2025-08-18T00:00:00+00:00",
+  "snippet": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels Published…",
+  "source_id": "huggingface-blog",
+  "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
+  "top_terms": [
+    [
+      "kernel",
+      113
+    ],
+    [
+      "kernels",
+      69
+    ],
+    [
+      "img2gray",
+      52
+    ],
+    [
+      "build",
+      43
+    ],
+    [
+      "torch",
+      40
+    ],
+    [
+      "cuda",
+      30
+    ],
+    [
+      "version",
+      26
+    ],
+    [
+      "the kernel",
+      25
+    ],
+    [
+      "input",
+      21
+    ],
+    [
+      "hub",
+      20
+    ],
+    [
+      "tensor",
+      20
+    ],
+    [
+      "step",
+      19
+    ],
+    [
+      "img",
+      18
+    ],
+    [
+      "import",
+      18
+    ],
+    [
+      "the kernels",
+      17
+    ],
+    [
+      "get kernel",
+      16
+    ],
+    [
+      "kernel-builder",
+      16
+    ],
+    [
+      "library",
+      16
+    ],
+    [
+      "nix",
+      16
+    ],
+    [
+      "pytorch",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/blog/kernel-builder",
+  "url_canonical": "https://huggingface.co/blog/kernel-builder",
+  "via_source_id": null
+}

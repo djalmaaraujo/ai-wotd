@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--b8e6e30d",
+  "author": "Claude Devs",
+  "content_chars": 220,
+  "content_sha256": "3dc188d533050dfd237a9a4b6c68b298b1e2d787beeccb9d66a013cb247d4bab",
+  "content_tokens": 55,
+  "fetched_at": "2026-04-29T07:06:45Z",
+  "kind": "tweet",
+  "published_at": "2026-04-28T20:44:29+00:00",
+  "snippet": "3/ Lower memory, faster startup Sessions with background tasks were slowly eating RAM on Linux. We fixed the re-render loop behind it, and made MCP servers connect concurrently so startup doesn't wait on the slowest one.",
+  "source_id": "x-demishassabis",
+  "title": "3/ Lower memory, faster startup Sessions with background tasks were slowly eatin",
+  "top_terms": [
+    [
+      "startup",
+      3
+    ],
+    [
+      "background",
+      2
+    ],
+    [
+      "background tasks",
+      2
+    ],
+    [
+      "background tasks were",
+      2
+    ],
+    [
+      "faster",
+      2
+    ],
+    [
+      "faster startup",
+      2
+    ],
+    [
+      "faster startup sessions",
+      2
+    ],
+    [
+      "lower",
+      2
+    ],
+    [
+      "lower memory",
+      2
+    ],
+    [
+      "lower memory faster",
+      2
+    ],
+    [
+      "memory",
+      2
+    ],
+    [
+      "memory faster",
+      2
+    ],
+    [
+      "memory faster startup",
+      2
+    ],
+    [
+      "sessions",
+      2
+    ],
+    [
+      "sessions with",
+      2
+    ],
+    [
+      "sessions with background",
+      2
+    ],
+    [
+      "slowly",
+      2
+    ],
+    [
+      "startup sessions",
+      2
+    ],
+    [
+      "startup sessions with",
+      2
+    ],
+    [
+      "tasks",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2049228278670712933",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2049228278670712933",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--bdf1d2e9",
+  "author": "Hugging Face Blog",
+  "content_chars": 40419,
+  "content_sha256": "3d09f8e81a981d1d705717165c8c42fe3a1bb1551b9d540d05f297285e94e9cb",
+  "content_tokens": 10104,
+  "fetched_at": "2026-04-29T07:06:37Z",
+  "kind": "article",
+  "published_at": "2025-07-09T00:00:00+00:00",
+  "snippet": "Creating custom kernels for the AMD MI300 Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Creating custom kernels for the AMD MI300 Published July 9, 2025 Update on GitHub Upvote 54 +48 Rémi Ouazan Reboul ror Follow…",
+  "source_id": "huggingface-blog",
+  "title": "Creating custom kernels for the AMD MI300",
+  "top_terms": [
+    [
+      "kernel",
+      53
+    ],
+    [
+      "data",
+      43
+    ],
+    [
+      "kernels",
+      38
+    ],
+    [
+      "instruction",
+      35
+    ],
+    [
+      "memory",
+      35
+    ],
+    [
+      "thread",
+      34
+    ],
+    [
+      "load",
+      29
+    ],
+    [
+      "gemm",
+      26
+    ],
+    [
+      "two",
+      26
+    ],
+    [
+      "compute",
+      25
+    ],
+    [
+      "shared",
+      25
+    ],
+    [
+      "threads",
+      25
+    ],
+    [
+      "rows",
+      23
+    ],
+    [
+      "gpu",
+      21
+    ],
+    [
+      "shared memory",
+      21
+    ],
+    [
+      "warp",
+      20
+    ],
+    [
+      "fp8",
+      19
+    ],
+    [
+      "instructions",
+      19
+    ],
+    [
+      "size",
+      19
+    ],
+    [
+      "matrix",
+      18
+    ]
+  ],
+  "url": "https://huggingface.co/blog/mi300kernels",
+  "url_canonical": "https://huggingface.co/blog/mi300kernels",
+  "via_source_id": null
+}

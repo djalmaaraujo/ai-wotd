@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--bc304361",
+  "author": "Hugging Face Blog",
+  "content_chars": 14764,
+  "content_sha256": "ceeaf7bbabcaa4b4baa7c34898b899724d7f6346bb5e759fdfef810930d5a1d6",
+  "content_tokens": 3691,
+  "fetched_at": "2026-04-29T07:06:31Z",
+  "kind": "article",
+  "published_at": "2025-07-23T00:00:00+00:00",
+  "snippet": "Fast LoRA inference for Flux with Diffusers and PEFT Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Fast LoRA inference for Flux with Diffusers and PEFT Published July 23, 2025 Update on GitHub Upvote 54 +48 Sayak Paul…",
+  "source_id": "huggingface-blog",
+  "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
+  "top_terms": [
+    [
+      "lora",
+      34
+    ],
+    [
+      "fp8",
+      21
+    ],
+    [
+      "pipe",
+      21
+    ],
+    [
+      "flux",
+      20
+    ],
+    [
+      "inference",
+      20
+    ],
+    [
+      "compile",
+      18
+    ],
+    [
+      "quantization",
+      18
+    ],
+    [
+      "compilation",
+      17
+    ],
+    [
+      "torch",
+      14
+    ],
+    [
+      "without",
+      14
+    ],
+    [
+      "diffusers",
+      13
+    ],
+    [
+      "recompilation",
+      13
+    ],
+    [
+      "recipe",
+      12
+    ],
+    [
+      "fp8 quantization",
+      11
+    ],
+    [
+      "loras",
+      11
+    ],
+    [
+      "optimization",
+      11
+    ],
+    [
+      "hotswapping",
+      10
+    ],
+    [
+      "lora inference",
+      10
+    ],
+    [
+      "speedup",
+      10
+    ],
+    [
+      "t5",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/lora-fast",
+  "url_canonical": "https://huggingface.co/blog/lora-fast",
+  "via_source_id": null
+}

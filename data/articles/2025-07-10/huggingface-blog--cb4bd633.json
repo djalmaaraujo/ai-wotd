@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--cb4bd633",
+  "author": "Hugging Face Blog",
+  "content_chars": 18063,
+  "content_sha256": "9ea9a2d8b8fb1a9a112e945a30ba66cfa741bc76c3d1d04600baf9f6ae14915d",
+  "content_tokens": 4515,
+  "fetched_at": "2026-04-29T07:06:34Z",
+  "kind": "article",
+  "published_at": "2025-07-10T00:00:00+00:00",
+  "snippet": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Asynchronous Robot Inference: Decoupling Action Prediction and Execution Published July 10, 2025…",
+  "source_id": "huggingface-blog",
+  "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+  "top_terms": [
+    [
+      "inference",
+      69
+    ],
+    [
+      "action",
+      28
+    ],
+    [
+      "async",
+      23
+    ],
+    [
+      "queue",
+      23
+    ],
+    [
+      "actions",
+      20
+    ],
+    [
+      "async inference",
+      20
+    ],
+    [
+      "observations",
+      19
+    ],
+    [
+      "chunk",
+      18
+    ],
+    [
+      "observation",
+      17
+    ],
+    [
+      "robot",
+      17
+    ],
+    [
+      "server",
+      15
+    ],
+    [
+      "client",
+      14
+    ],
+    [
+      "control",
+      14
+    ],
+    [
+      "execution",
+      12
+    ],
+    [
+      "policy",
+      12
+    ],
+    [
+      "asynchronous",
+      11
+    ],
+    [
+      "inference time",
+      11
+    ],
+    [
+      "policyserver",
+      11
+    ],
+    [
+      "task",
+      11
+    ],
+    [
+      "the client",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/async-robot-inference",
+  "url_canonical": "https://huggingface.co/blog/async-robot-inference",
+  "via_source_id": null
+}

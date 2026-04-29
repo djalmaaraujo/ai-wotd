@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--a3569fe2",
+  "author": "Simon Willison",
+  "content_chars": 270,
+  "content_sha256": "cd66c0056081b5109425d06a8b8ad7cdc924e2383d739cb63553b5a5d81c9ba1",
+  "content_tokens": 67,
+  "fetched_at": "2026-04-29T07:06:43Z",
+  "kind": "tweet",
+  "published_at": "2026-04-27T16:50:14+00:00",
+  "snippet": "Having your backups on the same vendor as your production database puts you at risk of your vendor banning your account for some reason (like billing messups, or detected CSAM in user-uploaded content) - having your backups held outside that vendor protects against that",
+  "source_id": "x-simonw",
+  "title": "Having your backups on the same vendor as your production database puts you at r",
+  "top_terms": [
+    [
+      "vendor",
+      4
+    ],
+    [
+      "backups",
+      3
+    ],
+    [
+      "having your backups",
+      3
+    ],
+    [
+      "your backups",
+      3
+    ],
+    [
+      "as your production",
+      2
+    ],
+    [
+      "backups on",
+      2
+    ],
+    [
+      "backups on the",
+      2
+    ],
+    [
+      "database",
+      2
+    ],
+    [
+      "database puts",
+      2
+    ],
+    [
+      "database puts you",
+      2
+    ],
+    [
+      "production",
+      2
+    ],
+    [
+      "production database",
+      2
+    ],
+    [
+      "production database puts",
+      2
+    ],
+    [
+      "puts",
+      2
+    ],
+    [
+      "puts you",
+      2
+    ],
+    [
+      "puts you at",
+      2
+    ],
+    [
+      "same vendor",
+      2
+    ],
+    [
+      "same vendor as",
+      2
+    ],
+    [
+      "the same vendor",
+      2
+    ],
+    [
+      "vendor as",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2048806939766014268",
+  "url_canonical": "https://x.com/simonw/status/2048806939766014268",
+  "via_source_id": null
+}
