@@ -1,0 +1,134 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--e8177f15",
+        "codenewsletter--fe1b9dd3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.467309,
+      "term": "nemotron nano",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "x-demishassabis--06b4fe42",
+        "x-demishassabis--e32349cc",
+        "x-demishassabis--f3a87c4b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 11.646437,
+      "term": "managed agent",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-demishassabis--30c1bcb3",
+        "x-demishassabis--826c9ee8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.725302,
+      "term": "chile",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--30c1bcb3",
+        "x-demishassabis--826c9ee8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.725302,
+      "term": "from chile",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--66ace8a8",
+        "x-simonw--f481b99f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.725302,
+      "term": "rationale",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--3fea7655",
+        "x-sama--48c64d96"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.99066,
+      "term": "at pm",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-demishassabis--06b4fe42",
+        "x-demishassabis--e32349cc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.99066,
+      "term": "from france",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--fe1b9dd3",
+        "x-simonw--f481b99f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.99066,
+      "term": "idea that",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-demishassabis--06b4fe42",
+        "x-demishassabis--e32349cc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.99066,
+      "term": "managed agent with",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--fe1b9dd3",
+        "x-simonw--f481b99f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.99066,
+      "term": "on the idea",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-04-30",
+  "evidence_article_ids": [
+    "x-demishassabis--06b4fe42",
+    "x-demishassabis--e32349cc",
+    "x-demishassabis--f3a87c4b"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "managed agent",
+      "managed agents",
+      "nemotron nano",
+      "mcp tools",
+      "layer"
+    ]
+  },
+  "score": 11.646437,
+  "word": "managed agent"
+}
