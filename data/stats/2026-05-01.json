@@ -1,0 +1,83 @@
+{
+  "article_ids": [
+    "codenewsletter--39223607",
+    "x-sama--601010ab",
+    "x-ylecun--f543235d"
+  ],
+  "date": "2026-05-01",
+  "document_count": 3,
+  "terms": {
+    "changed": {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google": {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "labs": {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "models": {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "times": {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trained": {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 5
+    }
+  }
+}

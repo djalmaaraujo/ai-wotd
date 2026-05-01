@@ -1,0 +1,88 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "avg_tf_baseline": 48.1111,
+      "df_today": 2,
+      "score": 0.217246,
+      "term": "trained",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "avg_tf_baseline": 23.6667,
+      "df_today": 2,
+      "score": 0.108314,
+      "term": "changed",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "avg_tf_baseline": 56.8889,
+      "df_today": 2,
+      "score": 0.08529,
+      "term": "labs",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "avg_tf_baseline": 41.1111,
+      "df_today": 2,
+      "score": 0.062354,
+      "term": "times",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "avg_tf_baseline": 433.0,
+      "df_today": 2,
+      "score": 0.024138,
+      "term": "models",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--39223607",
+        "x-ylecun--f543235d"
+      ],
+      "avg_tf_baseline": 320.1333,
+      "df_today": 2,
+      "score": 0.015156,
+      "term": "google",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-01",
+  "evidence_article_ids": [
+    "codenewsletter--39223607",
+    "x-ylecun--f543235d"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "models",
+      "labs",
+      "trained",
+      "changed",
+      "times"
+    ]
+  },
+  "score": 0.024138,
+  "word": "models"
+}
