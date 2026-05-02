@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.200963,
+      "term": "cloud computer",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "manus just",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "reset",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "ascent",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "founding",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "ignore",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "it hits",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "it hits the",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "money without",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--2bc4a813",
+        "codenewsletter--428363e8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "plain-english",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-02",
+  "evidence_article_ids": [
+    "aibreakfast--2bc4a813",
+    "codenewsletter--428363e8"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "anthropic",
+      "agents",
+      "cloud computer",
+      "codex",
+      "cursor"
+    ]
+  },
+  "score": 0.506292,
+  "word": "anthropic"
+}
