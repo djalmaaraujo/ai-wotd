@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 31.640034,
+      "term": "claude security",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "x-sama--c7c122ce"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "how people",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "x-simonw--6dc5bb1b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "port",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "custom voices",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "enterprise teams",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--28c0e4c8",
+        "x-simonw--6dc5bb1b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "for coding agents",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "is different",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "pets",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "pitch is",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--db2cfe8f",
+        "codenewsletter--28c0e4c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "scanner",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-05",
+  "evidence_article_ids": [
+    "aibreakfast--db2cfe8f",
+    "codenewsletter--28c0e4c8"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude security",
+      "anthropic",
+      "xai",
+      "codex",
+      "for coding agents"
+    ]
+  },
+  "score": 31.640034,
+  "word": "claude security"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--006730da",
+  "author": "Claude Devs",
+  "content_chars": 272,
+  "content_sha256": "943ee718e6f52221b4dc7153e7d3e867c34389eb4d9b7f53e1ec2f9e7fd9ec88",
+  "content_tokens": 68,
+  "fetched_at": "2026-05-05T07:03:28Z",
+  "kind": "tweet",
+  "published_at": "2026-05-04T20:09:08+00:00",
+  "snippet": "Managing API keys is one of the top security concerns we hear from customers. Today we’re introducing keyless auth for Claude Platform: authenticate via browser with the CLI, or let workloads use their existing cloud identity (AWS, GCP, Azure, or any OIDC token provider).",
+  "source_id": "x-demishassabis",
+  "title": "Managing API keys is one of the top security concerns we hear from customers. To",
+  "top_terms": [
+    [
+      "api",
+      2
+    ],
+    [
+      "api keys",
+      2
+    ],
+    [
+      "api keys is",
+      2
+    ],
+    [
+      "concerns",
+      2
+    ],
+    [
+      "concerns we",
+      2
+    ],
+    [
+      "concerns we hear",
+      2
+    ],
+    [
+      "customers",
+      2
+    ],
+    [
+      "from customers",
+      2
+    ],
+    [
+      "hear",
+      2
+    ],
+    [
+      "hear from",
+      2
+    ],
+    [
+      "hear from customers",
+      2
+    ],
+    [
+      "keys",
+      2
+    ],
+    [
+      "keys is",
+      2
+    ],
+    [
+      "keys is one",
+      2
+    ],
+    [
+      "managing",
+      2
+    ],
+    [
+      "managing api",
+      2
+    ],
+    [
+      "managing api keys",
+      2
+    ],
+    [
+      "of the top",
+      2
+    ],
+    [
+      "security",
+      2
+    ],
+    [
+      "security concerns",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2051393709619732758",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2051393709619732758",
+  "via_source_id": null
+}
