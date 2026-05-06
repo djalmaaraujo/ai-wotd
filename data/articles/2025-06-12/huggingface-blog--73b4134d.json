@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--73b4134d",
+  "author": "Hugging Face Blog",
+  "content_chars": 24382,
+  "content_sha256": "8c2d7ecb2bdbed742ca47baa1dd3d05ee48def1237276442278ab91fc6636bec",
+  "content_tokens": 6095,
+  "fetched_at": "2026-05-06T07:12:49Z",
+  "kind": "article",
+  "published_at": "2025-06-12T00:00:00+00:00",
+  "snippet": "Learn the Hugging Face Kernel Hub in 5 Minutes Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles 🏎️ Enhance Your Models in 5 Minutes with the Hugging Face Kernel Hub Published June 12, 2025 Update on GitHub Upvote 164 +158…",
+  "source_id": "huggingface-blog",
+  "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
+  "top_terms": [
+    [
+      "kernel",
+      103
+    ],
+    [
+      "size",
+      62
+    ],
+    [
+      "kernels",
+      56
+    ],
+    [
+      "torch",
+      50
+    ],
+    [
+      "self",
+      46
+    ],
+    [
+      "input",
+      42
+    ],
+    [
+      "model",
+      39
+    ],
+    [
+      "dtype",
+      37
+    ],
+    [
+      "hub",
+      36
+    ],
+    [
+      "output",
+      33
+    ],
+    [
+      "hidden",
+      30
+    ],
+    [
+      "device",
+      28
+    ],
+    [
+      "rmsnorm",
+      27
+    ],
+    [
+      "hidden size",
+      26
+    ],
+    [
+      "optimized",
+      26
+    ],
+    [
+      "baseline",
+      24
+    ],
+    [
+      "print",
+      24
+    ],
+    [
+      "bench",
+      23
+    ],
+    [
+      "eps",
+      22
+    ],
+    [
+      "activation",
+      21
+    ]
+  ],
+  "url": "https://huggingface.co/blog/hello-hf-kernels",
+  "url_canonical": "https://huggingface.co/blog/hello-hf-kernels",
+  "via_source_id": null
+}

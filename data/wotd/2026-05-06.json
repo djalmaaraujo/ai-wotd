@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--3cfcd680",
+        "x-ylecun--47e5fdec"
+      ],
+      "avg_tf_baseline": 12.0,
+      "df_today": 2,
+      "score": 0.536479,
+      "term": "breaking",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--3cfcd680",
+        "x-sama--ce5bb947"
+      ],
+      "avg_tf_baseline": 38.0,
+      "df_today": 2,
+      "score": 0.109444,
+      "term": "feels",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-06",
+  "evidence_article_ids": [
+    "codenewsletter--3cfcd680",
+    "x-ylecun--47e5fdec"
+  ],
+  "score": 0.536479,
+  "word": "breaking"
+}

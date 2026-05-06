@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--317ae2ba",
+  "author": "Hugging Face Blog",
+  "content_chars": 25397,
+  "content_sha256": "d8c22bff4f6fe1698047de4ba16909b64882318e14579700ee154e49ef2a68f2",
+  "content_tokens": 6349,
+  "fetched_at": "2026-05-06T07:12:49Z",
+  "kind": "article",
+  "published_at": "2025-06-19T00:00:00+00:00",
+  "snippet": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware Published June 19, 2025 Update on GitHub Upvote 104 +98 Derek Liu…",
+  "source_id": "huggingface-blog",
+  "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
+  "top_terms": [
+    [
+      "lora",
+      65
+    ],
+    [
+      "flux",
+      44
+    ],
+    [
+      "model",
+      40
+    ],
+    [
+      "bit",
+      29
+    ],
+    [
+      "training",
+      29
+    ],
+    [
+      "mucha",
+      26
+    ],
+    [
+      "qlora",
+      26
+    ],
+    [
+      "prompt",
+      24
+    ],
+    [
+      "text",
+      24
+    ],
+    [
+      "alphonse",
+      23
+    ],
+    [
+      "alphonse mucha",
+      23
+    ],
+    [
+      "memory",
+      23
+    ],
+    [
+      "transformer",
+      23
+    ],
+    [
+      "diffusers",
+      21
+    ],
+    [
+      "dev",
+      20
+    ],
+    [
+      "fine-tuning",
+      20
+    ],
+    [
+      "flux dev",
+      20
+    ],
+    [
+      "jun",
+      20
+    ],
+    [
+      "pipeline",
+      20
+    ],
+    [
+      "torch",
+      20
+    ]
+  ],
+  "url": "https://huggingface.co/blog/flux-qlora",
+  "url_canonical": "https://huggingface.co/blog/flux-qlora",
+  "via_source_id": null
+}

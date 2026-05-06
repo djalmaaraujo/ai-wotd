@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--18552a8f",
+  "author": "Hugging Face Blog",
+  "content_chars": 30091,
+  "content_sha256": "5a23bbe7632411554991ae65600fe242d005b4e6ca61797e54105f7a68a617e1",
+  "content_tokens": 7522,
+  "fetched_at": "2026-05-06T07:12:52Z",
+  "kind": "article",
+  "published_at": "2025-05-23T00:00:00+00:00",
+  "snippet": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Tiny Agents in Python: an MCP-powered agent in ~70 lines of code Published May 23, 2025 Update on GitHub Upvote…",
+  "source_id": "huggingface-blog",
+  "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+  "top_terms": [
+    [
+      "agent",
+      64
+    ],
+    [
+      "mcp",
+      61
+    ],
+    [
+      "tool",
+      56
+    ],
+    [
+      "tools",
+      55
+    ],
+    [
+      "huggingface",
+      44
+    ],
+    [
+      "hub",
+      35
+    ],
+    [
+      "huggingface hub",
+      31
+    ],
+    [
+      "provider",
+      29
+    ],
+    [
+      "servers",
+      27
+    ],
+    [
+      "inference",
+      25
+    ],
+    [
+      "llm",
+      25
+    ],
+    [
+      "run",
+      25
+    ],
+    [
+      "loop",
+      22
+    ],
+    [
+      "tiny-agents",
+      22
+    ],
+    [
+      "self",
+      21
+    ],
+    [
+      "https",
+      20
+    ],
+    [
+      "python",
+      20
+    ],
+    [
+      "server",
+      19
+    ],
+    [
+      "tiny",
+      19
+    ],
+    [
+      "function",
+      18
+    ]
+  ],
+  "url": "https://huggingface.co/blog/python-tiny-agents",
+  "url_canonical": "https://huggingface.co/blog/python-tiny-agents",
+  "via_source_id": null
+}

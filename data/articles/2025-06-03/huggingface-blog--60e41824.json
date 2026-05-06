@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--60e41824",
+  "author": "Hugging Face Blog",
+  "content_chars": 44614,
+  "content_sha256": "a31ed1a502be5f4b610e20b74223f14bf28550a16c47ebc26f51faf8ebe3c620",
+  "content_tokens": 11153,
+  "fetched_at": "2026-05-06T07:12:51Z",
+  "kind": "article",
+  "published_at": "2025-06-03T00:00:00+00:00",
+  "snippet": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL Published June 3, 2025 Update on…",
+  "source_id": "huggingface-blog",
+  "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
+  "top_terms": [
+    [
+      "rank0",
+      202
+    ],
+    [
+      "training",
+      86
+    ],
+    [
+      "vllm",
+      81
+    ],
+    [
+      "py",
+      71
+    ],
+    [
+      "local",
+      69
+    ],
+    [
+      "file",
+      68
+    ],
+    [
+      "line",
+      67
+    ],
+    [
+      "line in",
+      67
+    ],
+    [
+      "py line",
+      67
+    ],
+    [
+      "py line in",
+      67
+    ],
+    [
+      "rank0 file",
+      67
+    ],
+    [
+      "python3",
+      66
+    ],
+    [
+      "lib",
+      65
+    ],
+    [
+      "lib python3",
+      65
+    ],
+    [
+      "dist-packages",
+      64
+    ],
+    [
+      "file usr",
+      64
+    ],
+    [
+      "file usr local",
+      64
+    ],
+    [
+      "lib python3 dist-packages",
+      64
+    ],
+    [
+      "local lib",
+      64
+    ],
+    [
+      "local lib python3",
+      64
+    ]
+  ],
+  "url": "https://huggingface.co/blog/vllm-colocate",
+  "url_canonical": "https://huggingface.co/blog/vllm-colocate",
+  "via_source_id": null
+}

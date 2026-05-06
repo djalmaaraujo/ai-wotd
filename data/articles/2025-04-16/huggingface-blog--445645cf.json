@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--445645cf",
+  "author": "Hugging Face Blog",
+  "content_chars": 13884,
+  "content_sha256": "03934ee2ccaa498de52ebd6fa8dfbeba3e205d4404c0d4e0c4bff9fd6cad1bb5",
+  "content_tokens": 3471,
+  "fetched_at": "2026-05-06T07:12:56Z",
+  "kind": "article",
+  "published_at": "2025-04-16T10:10:58+00:00",
+  "snippet": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Prefill and Decode for Concurrent Requests - Optimizing LLM Performance Team Article Published April…",
+  "source_id": "huggingface-blog",
+  "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+  "top_terms": [
+    [
+      "prefill",
+      50
+    ],
+    [
+      "token",
+      46
+    ],
+    [
+      "decode",
+      31
+    ],
+    [
+      "requests",
+      28
+    ],
+    [
+      "output",
+      24
+    ],
+    [
+      "tokens",
+      23
+    ],
+    [
+      "output token",
+      18
+    ],
+    [
+      "concurrent",
+      17
+    ],
+    [
+      "phase",
+      17
+    ],
+    [
+      "the prefill",
+      16
+    ],
+    [
+      "gpu",
+      15
+    ],
+    [
+      "batch",
+      14
+    ],
+    [
+      "batching",
+      14
+    ],
+    [
+      "first",
+      14
+    ],
+    [
+      "request",
+      14
+    ],
+    [
+      "chunked",
+      13
+    ],
+    [
+      "single",
+      13
+    ],
+    [
+      "chunked prefill",
+      11
+    ],
+    [
+      "throughput",
+      11
+    ],
+    [
+      "and decode",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+  "url_canonical": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+  "via_source_id": null
+}

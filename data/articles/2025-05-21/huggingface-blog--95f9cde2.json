@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--95f9cde2",
+  "author": "Hugging Face Blog",
+  "content_chars": 20974,
+  "content_sha256": "8ca418231c3f7c03701245cd1865cdbec60e7d5566241e6a927e4976efd9e52c",
+  "content_tokens": 5243,
+  "fetched_at": "2026-05-06T07:12:53Z",
+  "kind": "article",
+  "published_at": "2025-05-21T00:00:00+00:00",
+  "snippet": "Exploring Quantization Backends in Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Exploring Quantization Backends in Diffusers Published May 21, 2025 Update on GitHub Upvote 45 +39 Derek Liu derekl35 Follow Marc…",
+  "source_id": "huggingface-blog",
+  "title": "Exploring Quantization Backends in Diffusers",
+  "top_terms": [
+    [
+      "torch",
+      71
+    ],
+    [
+      "bit",
+      50
+    ],
+    [
+      "gb",
+      44
+    ],
+    [
+      "model",
+      42
+    ],
+    [
+      "import",
+      39
+    ],
+    [
+      "diffusers",
+      36
+    ],
+    [
+      "memory",
+      36
+    ],
+    [
+      "quantization",
+      35
+    ],
+    [
+      "bnb",
+      34
+    ],
+    [
+      "transformer",
+      34
+    ],
+    [
+      "dtype",
+      31
+    ],
+    [
+      "bnb bit",
+      29
+    ],
+    [
+      "dtype torch",
+      29
+    ],
+    [
+      "bfloat16",
+      27
+    ],
+    [
+      "dtype torch bfloat16",
+      27
+    ],
+    [
+      "torch bfloat16",
+      27
+    ],
+    [
+      "quant",
+      26
+    ],
+    [
+      "seconds",
+      22
+    ],
+    [
+      "text",
+      22
+    ],
+    [
+      "flux",
+      20
+    ]
+  ],
+  "url": "https://huggingface.co/blog/diffusers-quantization",
+  "url_canonical": "https://huggingface.co/blog/diffusers-quantization",
+  "via_source_id": null
+}

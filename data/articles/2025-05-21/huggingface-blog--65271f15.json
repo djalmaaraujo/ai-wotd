@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--65271f15",
+  "author": "Hugging Face Blog",
+  "content_chars": 15274,
+  "content_sha256": "3f1a1cc32bf1415365e8d7f0cc224d770957b596e5be91f0c7c7aa2b95baf4f2",
+  "content_tokens": 3818,
+  "fetched_at": "2026-05-06T07:12:53Z",
+  "kind": "article",
+  "published_at": "2025-05-21T00:00:00+00:00",
+  "snippet": "nanoVLM: The simplest repository to train your VLM in pure PyTorch Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles nanoVLM: The simplest repository to train your VLM in pure PyTorch Published May 21, 2025 Update on GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
+  "top_terms": [
+    [
+      "model",
+      44
+    ],
+    [
+      "vision",
+      26
+    ],
+    [
+      "py",
+      24
+    ],
+    [
+      "image",
+      22
+    ],
+    [
+      "language",
+      21
+    ],
+    [
+      "models",
+      21
+    ],
+    [
+      "train",
+      16
+    ],
+    [
+      "training",
+      16
+    ],
+    [
+      "nanovlm",
+      15
+    ],
+    [
+      "text",
+      14
+    ],
+    [
+      "vision language",
+      12
+    ],
+    [
+      "vlm",
+      12
+    ],
+    [
+      "generate",
+      11
+    ],
+    [
+      "language model",
+      11
+    ],
+    [
+      "repository",
+      11
+    ],
+    [
+      "run",
+      10
+    ],
+    [
+      "data",
+      9
+    ],
+    [
+      "datasets",
+      9
+    ],
+    [
+      "inference",
+      9
+    ],
+    [
+      "tokens",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nanovlm",
+  "url_canonical": "https://huggingface.co/blog/nanovlm",
+  "via_source_id": null
+}

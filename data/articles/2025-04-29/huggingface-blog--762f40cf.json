@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--762f40cf",
+  "author": "Hugging Face Blog",
+  "content_chars": 9566,
+  "content_sha256": "0fbc0b10d3ec9e059958e9421e86705dbbc5513d910077ec1eea794673aa9932",
+  "content_tokens": 2391,
+  "fetched_at": "2026-05-06T07:12:55Z",
+  "kind": "article",
+  "published_at": "2025-04-29T00:00:00+00:00",
+  "snippet": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles What is AutoRound? Published April 29, 2025 Update on GitHub Upvote 44 +38 wenhua cheng wenhuach Follow…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+  "top_terms": [
+    [
+      "autoround",
+      39
+    ],
+    [
+      "model",
+      23
+    ],
+    [
+      "quantization",
+      23
+    ],
+    [
+      "min",
+      17
+    ],
+    [
+      "intel",
+      16
+    ],
+    [
+      "models",
+      15
+    ],
+    [
+      "min min",
+      13
+    ],
+    [
+      "accuracy",
+      11
+    ],
+    [
+      "auto",
+      10
+    ],
+    [
+      "follow",
+      9
+    ],
+    [
+      "min min min",
+      9
+    ],
+    [
+      "model name",
+      9
+    ],
+    [
+      "name",
+      9
+    ],
+    [
+      "bits",
+      8
+    ],
+    [
+      "gptq",
+      8
+    ],
+    [
+      "tokenizer",
+      8
+    ],
+    [
+      "awq",
+      7
+    ],
+    [
+      "dataset",
+      7
+    ],
+    [
+      "samples",
+      7
+    ],
+    [
+      "automodelforcausallm",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/autoround",
+  "url_canonical": "https://huggingface.co/blog/autoround",
+  "via_source_id": null
+}

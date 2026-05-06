@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0a0db35c",
+  "author": "Hugging Face Blog",
+  "content_chars": 13399,
+  "content_sha256": "a64077e3f6f1492fa7ad20adb021b1b64e36d748ae961da3eabfa03fd6f62914",
+  "content_tokens": 3349,
+  "fetched_at": "2026-05-06T07:12:50Z",
+  "kind": "article",
+  "published_at": "2025-06-04T00:00:00+00:00",
+  "snippet": "KV Cache from scratch in nanoVLM Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles KV Cache from scratch in nanoVLM Published June 4, 2025 Update on GitHub Upvote 117 +111 Aritra Roy Gosthipaty ariG23498 Follow Kashif Rasul…",
+  "source_id": "huggingface-blog",
+  "title": "KV Cache from scratch in nanoVLM",
+  "top_terms": [
+    [
+      "kv",
+      50
+    ],
+    [
+      "cache",
+      43
+    ],
+    [
+      "kv cache",
+      28
+    ],
+    [
+      "caching",
+      25
+    ],
+    [
+      "kv caching",
+      22
+    ],
+    [
+      "input",
+      20
+    ],
+    [
+      "token",
+      20
+    ],
+    [
+      "attention",
+      19
+    ],
+    [
+      "model",
+      19
+    ],
+    [
+      "torch",
+      15
+    ],
+    [
+      "dim",
+      14
+    ],
+    [
+      "block",
+      13
+    ],
+    [
+      "generation",
+      13
+    ],
+    [
+      "prefill",
+      11
+    ],
+    [
+      "curr",
+      10
+    ],
+    [
+      "decode",
+      10
+    ],
+    [
+      "output",
+      10
+    ],
+    [
+      "pos",
+      10
+    ],
+    [
+      "dim model",
+      9
+    ],
+    [
+      "ext",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/kv-cache",
+  "url_canonical": "https://huggingface.co/blog/kv-cache",
+  "via_source_id": null
+}

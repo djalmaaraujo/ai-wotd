@@ -1,0 +1,36 @@
+{
+  "article_ids": [
+    "codenewsletter--3cfcd680",
+    "x-bcherny--080647a7",
+    "x-sama--ce5bb947",
+    "x-ylecun--47e5fdec"
+  ],
+  "date": "2026-05-06",
+  "document_count": 4,
+  "terms": {
+    "breaking": {
+      "articles": [
+        "codenewsletter--3cfcd680",
+        "x-ylecun--47e5fdec"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "feels": {
+      "articles": [
+        "codenewsletter--3cfcd680",
+        "x-sama--ce5bb947"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

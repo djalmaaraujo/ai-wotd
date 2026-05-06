@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--82e17c77",
+  "author": "Hugging Face Blog",
+  "content_chars": 52067,
+  "content_sha256": "b0cb0f3d332801ba303c5800b6e72b8f80ace7ec6952f8a5f8c616a678550781",
+  "content_tokens": 13016,
+  "fetched_at": "2026-05-06T07:12:48Z",
+  "kind": "article",
+  "published_at": "2025-07-01T00:00:00+00:00",
+  "snippet": "Training and Finetuning Sparse Embedding Models with Sentence Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Training and Finetuning Sparse Embedding Models with Sentence Transformers Published July 1, 2025…",
+  "source_id": "huggingface-blog",
+  "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
+  "top_terms": [
+    [
+      "model",
+      112
+    ],
+    [
+      "dataset",
+      111
+    ],
+    [
+      "sparse",
+      94
+    ],
+    [
+      "models",
+      90
+    ],
+    [
+      "training",
+      82
+    ],
+    [
+      "sentence",
+      66
+    ],
+    [
+      "transformers",
+      55
+    ],
+    [
+      "embedding",
+      52
+    ],
+    [
+      "sentence transformers",
+      52
+    ],
+    [
+      "import",
+      40
+    ],
+    [
+      "query",
+      40
+    ],
+    [
+      "splade",
+      40
+    ],
+    [
+      "loss",
+      39
+    ],
+    [
+      "encoder",
+      37
+    ],
+    [
+      "datasets",
+      35
+    ],
+    [
+      "data",
+      33
+    ],
+    [
+      "load",
+      32
+    ],
+    [
+      "train",
+      31
+    ],
+    [
+      "evaluation",
+      29
+    ],
+    [
+      "dense",
+      28
+    ]
+  ],
+  "url": "https://huggingface.co/blog/train-sparse-encoder",
+  "url_canonical": "https://huggingface.co/blog/train-sparse-encoder",
+  "via_source_id": null
+}
