@@ -1879,6 +1879,10 @@
     "article_id": "aibreakfast--8f2d4e1a",
     "first_seen_date": "2026-04-15"
   },
+  "https://aibreakfast.beehiiv.com/p/the-u-s-government-wants-to-inspect-frontier-ai-before-release": {
+    "article_id": "aibreakfast--d98a87b6",
+    "first_seen_date": "2026-05-07"
+  },
   "https://aibreakfast.beehiiv.com/p/this-device-turns-your-dreams-into-ai-video-3230": {
     "article_id": "aibreakfast--9443b9e4",
     "first_seen_date": "2026-04-17"
@@ -2392,6 +2396,10 @@
     "article_id": "codenewsletter--faddb04c",
     "first_seen_date": "2026-04-14"
   },
+  "https://codenewsletter.ai/p/openai-drops-gpt-5-5-instant-google-ships-multimodal-upgrade-to-file-search": {
+    "article_id": "codenewsletter--5e917bc9",
+    "first_seen_date": "2026-05-07"
+  },
   "https://codenewsletter.ai/p/openai-open-sources-symphony-cognition-brings-devin-into-the-terminal": {
     "article_id": "codenewsletter--d3c40fa6",
     "first_seen_date": "2026-04-29"
@@ -2882,6 +2890,10 @@
   "https://huggingface.co/blog/ServiceNow-AI/aprielguard": {
     "article_id": "huggingface-blog--a0b27e9a",
     "first_seen_date": "2026-04-13"
+  },
+  "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections": {
+    "article_id": "huggingface-blog--63866926",
+    "first_seen_date": "2026-05-07"
   },
   "https://huggingface.co/blog/ServiceNow-AI/eva": {
     "article_id": "huggingface-blog--bf5af236",
@@ -3386,6 +3398,10 @@
   "https://huggingface.co/blog/open-asr-leaderboard": {
     "article_id": "huggingface-blog--07f0ca6c",
     "first_seen_date": "2026-04-21"
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-private-data": {
+    "article_id": "huggingface-blog--a070fa58",
+    "first_seen_date": "2026-05-07"
   },
   "https://huggingface.co/blog/open-responses": {
     "article_id": "huggingface-blog--a19f77e3",
@@ -3943,10 +3959,18 @@
     "article_id": "openai-blog--98f46b55",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/introducing-b2b-signals": {
+    "article_id": "openai-blog--986666c1",
+    "first_seen_date": "2026-05-07"
+  },
   "https://openai.com/index/introducing-chatgpt-agent": {
     "article_id": null,
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
+  },
+  "https://openai.com/index/introducing-chatgpt-futures-class-of-2026": {
+    "article_id": "openai-blog--d06dfa10",
+    "first_seen_date": "2026-05-07"
   },
   "https://openai.com/index/introducing-chatgpt-images-2-0": {
     "article_id": "openai-blog--f0f1ff95",
@@ -3997,6 +4021,10 @@
   "https://openai.com/index/making-chatgpt-better-for-clinicians": {
     "article_id": "openai-blog--6b4bf1fe",
     "first_seen_date": "2026-04-23"
+  },
+  "https://openai.com/index/mrc-supercomputer-networking": {
+    "article_id": "openai-blog--eed00e4b",
+    "first_seen_date": "2026-05-07"
   },
   "https://openai.com/index/new-result-theoretical-physics": {
     "article_id": null,
@@ -4067,6 +4095,10 @@
     "article_id": "openai-blog--73477eed",
     "first_seen_date": "2026-04-15"
   },
+  "https://openai.com/index/singular-bank": {
+    "article_id": "openai-blog--5aa2f092",
+    "first_seen_date": "2026-05-07"
+  },
   "https://openai.com/index/speeding-up-agentic-workflows-with-websockets": {
     "article_id": "openai-blog--7c434d5d",
     "first_seen_date": "2026-04-23"
@@ -4087,6 +4119,10 @@
   "https://openai.com/index/the-next-evolution-of-the-agents-sdk": {
     "article_id": "openai-blog--7b2e743e",
     "first_seen_date": "2026-04-16"
+  },
+  "https://openai.com/index/uber": {
+    "article_id": "openai-blog--567ca1bd",
+    "first_seen_date": "2026-05-07"
   },
   "https://openai.com/index/update-on-the-openai-foundation": {
     "article_id": "openai-blog--edae1430",
@@ -5167,6 +5203,50 @@
     "article_id": "x-demishassabis--e367d683",
     "first_seen_date": "2026-05-05"
   },
+  "https://x.com/ClaudeDevs/status/2052055459272761661": {
+    "article_id": "x-demishassabis--a1cfcf66",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052055579162755308": {
+    "article_id": "x-demishassabis--c43d35a8",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052064938840228237": {
+    "article_id": "x-demishassabis--1229c1e9",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052069321355182447": {
+    "article_id": "x-demishassabis--3fd8afe3",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052069322760311111": {
+    "article_id": "x-demishassabis--a4571b18",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052069324106662197": {
+    "article_id": "x-demishassabis--3d0b198d",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052069325469839433": {
+    "article_id": "x-demishassabis--3b0f7293",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052069326786798013": {
+    "article_id": "x-demishassabis--4f6fce65",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052069328435175654": {
+    "article_id": "x-demishassabis--20572ffe",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052074424757793198": {
+    "article_id": "x-demishassabis--238682dc",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ClaudeDevs/status/2052106837810704473": {
+    "article_id": "x-demishassabis--35624a3f",
+    "first_seen_date": "2026-05-07"
+  },
   "https://x.com/DrJimFan/status/2019112603637920237": {
     "article_id": "x-drjimfan--594658a3",
     "first_seen_date": "2026-04-14"
@@ -5475,6 +5555,34 @@
     "article_id": "x-bcherny--080647a7",
     "first_seen_date": "2026-05-06"
   },
+  "https://x.com/bcherny/status/2052055459272761661": {
+    "article_id": "x-bcherny--da2e3a27",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/bcherny/status/2052060691893227611": {
+    "article_id": "x-bcherny--ada7642c",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/bcherny/status/2052068475900985388": {
+    "article_id": "x-bcherny--b41195ee",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/bcherny/status/2052070549271232870": {
+    "article_id": "x-bcherny--1d04686b",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/bcherny/status/2052070552744116486": {
+    "article_id": "x-bcherny--5e01ac25",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/bcherny/status/2052070555151708564": {
+    "article_id": "x-bcherny--998a835d",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/bcherny/status/2052091408643756296": {
+    "article_id": "x-bcherny--91b6bf60",
+    "first_seen_date": "2026-05-07"
+  },
   "https://x.com/claudeai/status/2039836891508261106": {
     "article_id": "x-claudeai--8e2be9fa",
     "first_seen_date": "2026-04-14"
@@ -5719,6 +5827,50 @@
     "article_id": "x-claudeai--9270cbc7",
     "first_seen_date": "2026-05-06"
   },
+  "https://x.com/claudeai/status/2052055459272761661": {
+    "article_id": "x-claudeai--84df9f5c",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052060691893227611": {
+    "article_id": "x-claudeai--02964b74",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052060693269008586": {
+    "article_id": "x-claudeai--0a061153",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052060694699237558": {
+    "article_id": "x-claudeai--f1765dbe",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052060696255283346": {
+    "article_id": "x-claudeai--b3c136b4",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052067399088664981": {
+    "article_id": "x-claudeai--f8de9c25",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052067400690851842": {
+    "article_id": "x-claudeai--63cbd284",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052067403228455419": {
+    "article_id": "x-claudeai--ad83100d",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052067404696473833": {
+    "article_id": "x-claudeai--f0bcae1f",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052067407204700646": {
+    "article_id": "x-claudeai--623da189",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/claudeai/status/2052105841864495282": {
+    "article_id": "x-claudeai--1aadb476",
+    "first_seen_date": "2026-05-07"
+  },
   "https://x.com/demishassabis/status/2039736628659269901": {
     "article_id": "x-demishassabis--661400a2",
     "first_seen_date": "2026-04-14"
@@ -5938,6 +6090,18 @@
   "https://x.com/demishassabis/status/2051713412431007808": {
     "article_id": "x-demishassabis--4d472221",
     "first_seen_date": "2026-05-06"
+  },
+  "https://x.com/demishassabis/status/2052041651359748585": {
+    "article_id": "x-demishassabis--6dcbcacd",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/demishassabis/status/2052147236952477923": {
+    "article_id": "x-demishassabis--91cb4db9",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/demishassabis/status/2052147239619838058": {
+    "article_id": "x-demishassabis--8cf12fe7",
+    "first_seen_date": "2026-05-07"
   },
   "https://x.com/karpathy/status/2034321875506196585": {
     "article_id": "x-karpathy--107688fb",
@@ -7007,6 +7171,22 @@
     "article_id": "x-simonw--3043c0fa",
     "first_seen_date": "2026-05-06"
   },
+  "https://x.com/simonw/status/2052040005275779552": {
+    "article_id": "x-simonw--fc64271d",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/simonw/status/2052055655230706032": {
+    "article_id": "x-simonw--c3dab1a7",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/simonw/status/2052133374018699373": {
+    "article_id": "x-simonw--38e3d875",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/simonw/status/2052136006720299117": {
+    "article_id": "x-simonw--b6438bc0",
+    "first_seen_date": "2026-05-07"
+  },
   "https://x.com/trq212/status/2041654973491245509": {
     "article_id": "x-trq212--3f691ebd",
     "first_seen_date": "2026-04-14"
@@ -7202,6 +7382,26 @@
   "https://x.com/trq212/status/2051808772423819507": {
     "article_id": "x-trq212--c15f97ba",
     "first_seen_date": "2026-05-06"
+  },
+  "https://x.com/trq212/status/2052055459272761661": {
+    "article_id": "x-trq212--95ee08cc",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/trq212/status/2052060350770515978": {
+    "article_id": "x-trq212--7c7476ee",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/trq212/status/2052065936585457982": {
+    "article_id": "x-trq212--49bd06ed",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/trq212/status/2052074924588888261": {
+    "article_id": "x-trq212--337d9c0b",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/trq212/status/2052250816720056604": {
+    "article_id": "x-trq212--7c6df7df",
+    "first_seen_date": "2026-05-07"
   },
   "https://x.com/ylecun/status/2041892448704622894": {
     "article_id": "x-ylecun--beb4d2ab",
@@ -7847,8 +8047,60 @@
     "article_id": "x-ylecun--3e706070",
     "first_seen_date": "2026-05-05"
   },
+  "https://x.com/ylecun/status/2051661954180125061": {
+    "article_id": "x-ylecun--a1308c6d",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2051783907293409384": {
+    "article_id": "x-ylecun--23038b6c",
+    "first_seen_date": "2026-05-07"
+  },
   "https://x.com/ylecun/status/2051909244102869082": {
     "article_id": "x-ylecun--47e5fdec",
     "first_seen_date": "2026-05-06"
+  },
+  "https://x.com/ylecun/status/2051976546290655529": {
+    "article_id": "x-ylecun--d9732b6b",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052011979640807614": {
+    "article_id": "x-ylecun--cfd28729",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052022247934566673": {
+    "article_id": "x-ylecun--7113ff9e",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052029372282888234": {
+    "article_id": "x-ylecun--5e394a6e",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052034314120896582": {
+    "article_id": "x-ylecun--0bc4bd19",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052061533388021822": {
+    "article_id": "x-ylecun--402a0a77",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052086833090003096": {
+    "article_id": "x-ylecun--fe594036",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052092924284826013": {
+    "article_id": "x-ylecun--b2a8f728",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052108378197868843": {
+    "article_id": "x-ylecun--981fe414",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052132802758349015": {
+    "article_id": "x-ylecun--b104f718",
+    "first_seen_date": "2026-05-07"
+  },
+  "https://x.com/ylecun/status/2052132855963074951": {
+    "article_id": "x-ylecun--6ee3e9b9",
+    "first_seen_date": "2026-05-07"
   }
 }

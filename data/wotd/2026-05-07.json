@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 41.014859,
+      "term": "gpt-5 instant",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "coinbase",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "everyone else",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "agents are built",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "are built for",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "claude the",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "reviewing",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "small teams",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 14.4,
+      "df_today": 2,
+      "score": 1.424127,
+      "term": "instant",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--d98a87b6",
+        "codenewsletter--5e917bc9"
+      ],
+      "avg_tf_baseline": 37.6667,
+      "df_today": 2,
+      "score": 0.846627,
+      "term": "frontier",
+      "tf_today": 11
+    }
+  ],
+  "date": "2026-05-07",
+  "evidence_article_ids": [
+    "aibreakfast--d98a87b6",
+    "codenewsletter--5e917bc9"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gpt-5 instant",
+      "claude code",
+      "anthropic",
+      "agentic",
+      "multimodal"
+    ]
+  },
+  "score": 41.014859,
+  "word": "gpt-5 instant"
+}
