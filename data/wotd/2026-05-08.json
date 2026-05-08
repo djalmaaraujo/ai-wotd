@@ -1,0 +1,134 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--e3e9511c",
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 17.917595,
+      "term": "code with claude",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "amazing time",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "amazing time and",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "an amazing",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "an amazing time",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "claude san",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "claude san francisco",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "clawd",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "clawd had",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c9554aa9",
+        "x-demishassabis--f6da7394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "clawd had an",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-05-08",
+  "evidence_article_ids": [
+    "codenewsletter--e3e9511c",
+    "x-bcherny--c9554aa9",
+    "x-demishassabis--f6da7394"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "code with claude",
+      "claude san francisco",
+      "wrap on code",
+      "on code with",
+      "with claude san"
+    ]
+  },
+  "score": 17.917595,
+  "word": "code with claude"
+}
