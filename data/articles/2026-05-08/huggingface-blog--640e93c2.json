@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--640e93c2",
+  "author": "Hugging Face Blog",
+  "content_chars": 12088,
+  "content_sha256": "9eaa71641abb54ce6527bfea6b750ef5b61b60e2b13d20b7a3c8715462539651",
+  "content_tokens": 3022,
+  "fetched_at": "2026-05-09T06:59:43Z",
+  "kind": "article",
+  "published_at": "2026-05-08T16:03:50+00:00",
+  "snippet": "EMO: Pretraining mixture of experts for emergent modularity Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles EMO: Pretraining mixture of experts for emergent modularity Team Article Published May 8, 2026 Upvote 15 +9 Kyle…",
+  "source_id": "huggingface-blog",
+  "title": "EMO: Pretraining mixture of experts for emergent modularity",
+  "top_terms": [
+    [
+      "experts",
+      41
+    ],
+    [
+      "emo",
+      29
+    ],
+    [
+      "expert",
+      22
+    ],
+    [
+      "moe",
+      19
+    ],
+    [
+      "tokens",
+      18
+    ],
+    [
+      "document",
+      17
+    ],
+    [
+      "model",
+      16
+    ],
+    [
+      "subset",
+      16
+    ],
+    [
+      "of experts",
+      14
+    ],
+    [
+      "standard",
+      13
+    ],
+    [
+      "across",
+      11
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "standard moe",
+      11
+    ],
+    [
+      "modularity",
+      10
+    ],
+    [
+      "pool",
+      10
+    ],
+    [
+      "small",
+      10
+    ],
+    [
+      "training",
+      10
+    ],
+    [
+      "moes",
+      8
+    ],
+    [
+      "performance",
+      8
+    ],
+    [
+      "subsets",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/emo",
+  "url_canonical": "https://huggingface.co/blog/allenai/emo",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--b1c13892",
+  "author": "Claude Devs",
+  "content_chars": 274,
+  "content_sha256": "b412553ceeb6e6bf243af9b496de5b8f21bb2cdbc55b33159459c36cd3e0d4fe",
+  "content_tokens": 68,
+  "fetched_at": "2026-05-09T06:59:52Z",
+  "kind": "tweet",
+  "published_at": "2026-05-08T15:18:42+00:00",
+  "snippet": "1/ Stability • claude -p now handles >10MB of piped stdin • Requests resume cleanly after waking a Mac from sleep • Memory stays bounded when a stdio MCP server writes non-protocol data to stdout (was growing past 10GB) • Output now appears reliably after thinking completes",
+  "source_id": "x-demishassabis",
+  "title": "1/ Stability • claude -p now handles >10MB of piped stdin • Requests resume clea",
+  "top_terms": [
+    [
+      "claude",
+      2
+    ],
+    [
+      "handles",
+      2
+    ],
+    [
+      "handles mb",
+      2
+    ],
+    [
+      "handles mb of",
+      2
+    ],
+    [
+      "mb",
+      2
+    ],
+    [
+      "mb of",
+      2
+    ],
+    [
+      "mb of piped",
+      2
+    ],
+    [
+      "now handles",
+      2
+    ],
+    [
+      "now handles mb",
+      2
+    ],
+    [
+      "of piped",
+      2
+    ],
+    [
+      "of piped stdin",
+      2
+    ],
+    [
+      "piped",
+      2
+    ],
+    [
+      "piped stdin",
+      2
+    ],
+    [
+      "piped stdin requests",
+      2
+    ],
+    [
+      "requests",
+      2
+    ],
+    [
+      "requests resume",
+      2
+    ],
+    [
+      "resume",
+      2
+    ],
+    [
+      "stability",
+      2
+    ],
+    [
+      "stability claude",
+      2
+    ],
+    [
+      "stdin",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2052770171224482188",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2052770171224482188",
+  "via_source_id": null
+}

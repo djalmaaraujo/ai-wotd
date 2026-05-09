@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--14b93398",
+  "author": "Claude Devs",
+  "content_chars": 261,
+  "content_sha256": "9a80f6ab1813e1d338a15e106363f0072d415545e2d273e23606d90bb1e542e3",
+  "content_tokens": 65,
+  "fetched_at": "2026-05-09T06:59:52Z",
+  "kind": "tweet",
+  "published_at": "2026-05-08T15:18:42+00:00",
+  "snippet": "2/ Agent loop • Sub-agent summaries now hit the prompt cache • Opt-in 1-hour prompt caching is now honored correctly • Parallel shell calls keep running if a read-only sibling fails • 1M-context sessions use their full window before hitting \"Prompt is too long\"",
+  "source_id": "x-demishassabis",
+  "title": "2/ Agent loop • Sub-agent summaries now hit the prompt cache • Opt-in 1-hour pro",
+  "top_terms": [
+    [
+      "prompt",
+      4
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "agent loop",
+      2
+    ],
+    [
+      "agent loop sub-agent",
+      2
+    ],
+    [
+      "cache",
+      2
+    ],
+    [
+      "cache opt-in",
+      2
+    ],
+    [
+      "cache opt-in hour",
+      2
+    ],
+    [
+      "hit",
+      2
+    ],
+    [
+      "hit the",
+      2
+    ],
+    [
+      "hit the prompt",
+      2
+    ],
+    [
+      "hour",
+      2
+    ],
+    [
+      "loop",
+      2
+    ],
+    [
+      "loop sub-agent",
+      2
+    ],
+    [
+      "loop sub-agent summaries",
+      2
+    ],
+    [
+      "now hit",
+      2
+    ],
+    [
+      "now hit the",
+      2
+    ],
+    [
+      "opt-in",
+      2
+    ],
+    [
+      "opt-in hour",
+      2
+    ],
+    [
+      "prompt cache",
+      2
+    ],
+    [
+      "prompt cache opt-in",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2052770172591800332",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2052770172591800332",
+  "via_source_id": null
+}

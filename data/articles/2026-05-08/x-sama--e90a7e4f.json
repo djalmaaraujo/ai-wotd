@@ -1,0 +1,98 @@
+{
+  "article_id": "x-sama--e90a7e4f",
+  "author": "Sam Altman",
+  "content_chars": 307,
+  "content_sha256": "5028264e636e52c7c384bb75484ce9b895e835e4ae23d38ed4120549a3aa1545",
+  "content_tokens": 76,
+  "fetched_at": "2026-05-09T06:59:46Z",
+  "kind": "tweet",
+  "published_at": "2026-05-08T20:19:04+00:00",
+  "snippet": "Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misaligned reasoning during RL. We found a limited amount of accidental CoT grading which affected released models, and are sharing our analysis…",
+  "source_id": "x-sama",
+  "title": "Chain of thought monitors are a key layer of defense against AI agent misalignme",
+  "top_terms": [
+    [
+      "against ai agent",
+      2
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "ai agent",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "chain of",
+      2
+    ],
+    [
+      "chain of thought",
+      2
+    ],
+    [
+      "defense",
+      2
+    ],
+    [
+      "defense against",
+      2
+    ],
+    [
+      "defense against ai",
+      2
+    ],
+    [
+      "key",
+      2
+    ],
+    [
+      "key layer",
+      2
+    ],
+    [
+      "key layer of",
+      2
+    ],
+    [
+      "layer",
+      2
+    ],
+    [
+      "layer of",
+      2
+    ],
+    [
+      "layer of defense",
+      2
+    ],
+    [
+      "monitors",
+      2
+    ],
+    [
+      "monitors are",
+      2
+    ],
+    [
+      "of defense",
+      2
+    ],
+    [
+      "of defense against",
+      2
+    ],
+    [
+      "of thought monitors",
+      2
+    ]
+  ],
+  "url": "https://x.com/sama/status/2052845764507062349",
+  "url_canonical": "https://x.com/sama/status/2052845764507062349",
+  "via_source_id": null
+}

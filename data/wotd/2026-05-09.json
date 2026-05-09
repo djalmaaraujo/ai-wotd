@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "gpt-realtime-2",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "voice models",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "actions that",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "brain that",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "chrome extension for",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "extension for",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "extension for macos",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "failures in",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "for macos and",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--a6ef6534",
+        "codenewsletter--6704d4d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "in the api",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-09",
+  "evidence_article_ids": [
+    "aibreakfast--a6ef6534",
+    "codenewsletter--6704d4d3"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "real-time voice models",
+      "foundation model",
+      "codex",
+      "agents",
+      "voice models"
+    ]
+  },
+  "score": 6.591674,
+  "word": "real-time voice models"
+}

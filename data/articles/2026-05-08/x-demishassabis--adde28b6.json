@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--adde28b6",
+  "author": "Claude Devs",
+  "content_chars": 249,
+  "content_sha256": "a78a6dc1a33397c68406ae8943fc74939fa59aa5aaa692292d6a5f6996ffc37d",
+  "content_tokens": 62,
+  "fetched_at": "2026-05-09T06:59:52Z",
+  "kind": "tweet",
+  "published_at": "2026-05-08T15:18:42+00:00",
+  "snippet": "3/ Auth • You can paste the OAuth code into the terminal when the browser can't reach localhost (WSL2, SSH, containers) • Login now works on slow proxies and IPv6-only devcontainers • Refresh tokens are protected against a rare concurrent-write race",
+  "source_id": "x-demishassabis",
+  "title": "3/ Auth • You can paste the OAuth code into the terminal when the browser can't ",
+  "top_terms": [
+    [
+      "auth",
+      2
+    ],
+    [
+      "auth you",
+      2
+    ],
+    [
+      "auth you can",
+      2
+    ],
+    [
+      "browser",
+      2
+    ],
+    [
+      "browser can't",
+      2
+    ],
+    [
+      "can paste",
+      2
+    ],
+    [
+      "can paste the",
+      2
+    ],
+    [
+      "can't",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code into",
+      2
+    ],
+    [
+      "code into the",
+      2
+    ],
+    [
+      "into the terminal",
+      2
+    ],
+    [
+      "oauth",
+      2
+    ],
+    [
+      "oauth code",
+      2
+    ],
+    [
+      "oauth code into",
+      2
+    ],
+    [
+      "paste",
+      2
+    ],
+    [
+      "paste the",
+      2
+    ],
+    [
+      "paste the oauth",
+      2
+    ],
+    [
+      "terminal",
+      2
+    ],
+    [
+      "terminal when",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2052770173820764378",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2052770173820764378",
+  "via_source_id": null
+}
