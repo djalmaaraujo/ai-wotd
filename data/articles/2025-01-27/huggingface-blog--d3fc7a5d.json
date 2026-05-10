@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--d3fc7a5d",
+  "author": "Hugging Face Blog",
+  "content_chars": 23940,
+  "content_sha256": "cbfe23efbc373c840885c6c24402a842aa35c6438a6c177b88742594db04cac3",
+  "content_tokens": 5985,
+  "fetched_at": "2026-05-10T07:10:41Z",
+  "kind": "article",
+  "published_at": "2025-01-27T00:00:00+00:00",
+  "snippet": "State of open video generation models in Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles State of open video generation models in Diffusers Published January 27, 2025 Update on GitHub Upvote 70 +64 Sayak Paul…",
+  "source_id": "huggingface-blog",
+  "title": "State of open video generation models in Diffusers",
+  "top_terms": [
+    [
+      "video",
+      74
+    ],
+    [
+      "models",
+      60
+    ],
+    [
+      "generation",
+      51
+    ],
+    [
+      "video generation",
+      39
+    ],
+    [
+      "diffusers",
+      33
+    ],
+    [
+      "memory",
+      24
+    ],
+    [
+      "model",
+      24
+    ],
+    [
+      "gb",
+      23
+    ],
+    [
+      "generation models",
+      22
+    ],
+    [
+      "open",
+      19
+    ],
+    [
+      "video generation models",
+      19
+    ],
+    [
+      "inference",
+      16
+    ],
+    [
+      "tiling",
+      16
+    ],
+    [
+      "torch",
+      16
+    ],
+    [
+      "text",
+      15
+    ],
+    [
+      "bit",
+      14
+    ],
+    [
+      "blog",
+      14
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "offloading",
+      14
+    ],
+    [
+      "steps",
+      14
+    ]
+  ],
+  "url": "https://huggingface.co/blog/video_gen",
+  "url_canonical": "https://huggingface.co/blog/video_gen",
+  "via_source_id": null
+}

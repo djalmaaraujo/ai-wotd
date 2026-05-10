@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5691bab1",
+  "author": "Hugging Face Blog",
+  "content_chars": 8537,
+  "content_sha256": "c4e04bcb7ecacd518d1434284b2c27b0c22a6090c2dbad27b8455d445cb995d3",
+  "content_tokens": 2134,
+  "fetched_at": "2026-05-10T07:10:33Z",
+  "kind": "article",
+  "published_at": "2025-03-31T00:00:00+00:00",
+  "snippet": "How Hugging Face Scaled Secrets Management for AI Infrastructure Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles How Hugging Face Scaled Secrets Management for AI Infrastructure Published March 31, 2025 Update on GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+  "top_terms": [
+    [
+      "infisical",
+      24
+    ],
+    [
+      "secrets",
+      18
+    ],
+    [
+      "secret",
+      16
+    ],
+    [
+      "security",
+      16
+    ],
+    [
+      "kubernetes",
+      14
+    ],
+    [
+      "management",
+      14
+    ],
+    [
+      "hugging",
+      12
+    ],
+    [
+      "face",
+      10
+    ],
+    [
+      "hugging face",
+      10
+    ],
+    [
+      "infrastructure",
+      8
+    ],
+    [
+      "integration",
+      8
+    ],
+    [
+      "operator",
+      8
+    ],
+    [
+      "secrets management",
+      8
+    ],
+    [
+      "development",
+      7
+    ],
+    [
+      "local",
+      7
+    ],
+    [
+      "automatically",
+      6
+    ],
+    [
+      "access",
+      5
+    ],
+    [
+      "cd",
+      5
+    ],
+    [
+      "ci",
+      5
+    ],
+    [
+      "ci cd",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/scaling-secrets-management",
+  "url_canonical": "https://huggingface.co/blog/scaling-secrets-management",
+  "via_source_id": null
+}

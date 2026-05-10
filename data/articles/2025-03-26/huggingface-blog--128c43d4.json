@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--128c43d4",
+  "author": "Hugging Face Blog",
+  "content_chars": 47018,
+  "content_sha256": "ce6ac401e12f60a63eb504a0789588eb55debb9f3e8e3df9e54dbdaaa1048be3",
+  "content_tokens": 11754,
+  "fetched_at": "2026-05-10T07:10:34Z",
+  "kind": "article",
+  "published_at": "2025-03-26T00:00:00+00:00",
+  "snippet": "Training and Finetuning Reranker Models with Sentence Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Training and Finetuning Reranker Models with Sentence Transformers Published March 26, 2025 Update on GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Training and Finetuning Reranker Models with Sentence Transformers",
+  "top_terms": [
+    [
+      "dataset",
+      152
+    ],
+    [
+      "model",
+      115
+    ],
+    [
+      "training",
+      88
+    ],
+    [
+      "negatives",
+      62
+    ],
+    [
+      "negative",
+      59
+    ],
+    [
+      "hard",
+      52
+    ],
+    [
+      "train",
+      51
+    ],
+    [
+      "models",
+      50
+    ],
+    [
+      "negative negative",
+      49
+    ],
+    [
+      "negative negative negative",
+      48
+    ],
+    [
+      "evaluation",
+      40
+    ],
+    [
+      "sentence",
+      40
+    ],
+    [
+      "datasets",
+      38
+    ],
+    [
+      "eval",
+      38
+    ],
+    [
+      "load",
+      38
+    ],
+    [
+      "transformers",
+      38
+    ],
+    [
+      "reranker",
+      37
+    ],
+    [
+      "sentence transformers",
+      36
+    ],
+    [
+      "evaluator",
+      35
+    ],
+    [
+      "loss",
+      35
+    ]
+  ],
+  "url": "https://huggingface.co/blog/train-reranker",
+  "url_canonical": "https://huggingface.co/blog/train-reranker",
+  "via_source_id": null
+}
