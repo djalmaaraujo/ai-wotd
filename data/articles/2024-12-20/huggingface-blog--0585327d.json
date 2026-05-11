@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0585327d",
+  "author": "Hugging Face Blog",
+  "content_chars": 9911,
+  "content_sha256": "600e9ef4ef132b133b921b4bb668069bbb031810d3a57e11cdb7a38a6c4dfe9d",
+  "content_tokens": 2477,
+  "fetched_at": "2026-05-11T07:33:43Z",
+  "kind": "article",
+  "published_at": "2024-12-20T00:00:00+00:00",
+  "snippet": "Evaluating Audio Reasoning with Big Bench Audio Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Evaluating Audio Reasoning with Big Bench Audio Published December 20, 2024 Update on GitHub Upvote 29 +23 Micah Hill-Smith…",
+  "source_id": "huggingface-blog",
+  "title": "Evaluating Audio Reasoning with Big Bench Audio",
+  "top_terms": [
+    [
+      "speech",
+      54
+    ],
+    [
+      "audio",
+      41
+    ],
+    [
+      "text",
+      34
+    ],
+    [
+      "answer",
+      31
+    ],
+    [
+      "to speech",
+      26
+    ],
+    [
+      "speech to",
+      24
+    ],
+    [
+      "speech to speech",
+      19
+    ],
+    [
+      "reasoning",
+      17
+    ],
+    [
+      "bench",
+      15
+    ],
+    [
+      "big",
+      15
+    ],
+    [
+      "big bench",
+      15
+    ],
+    [
+      "gpt-4o",
+      15
+    ],
+    [
+      "candidate",
+      14
+    ],
+    [
+      "candidate answer",
+      14
+    ],
+    [
+      "bench audio",
+      13
+    ],
+    [
+      "big bench audio",
+      13
+    ],
+    [
+      "text to",
+      13
+    ],
+    [
+      "dataset",
+      12
+    ],
+    [
+      "model",
+      12
+    ],
+    [
+      "question",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/big-bench-audio-release",
+  "url_canonical": "https://huggingface.co/blog/big-bench-audio-release",
+  "via_source_id": null
+}

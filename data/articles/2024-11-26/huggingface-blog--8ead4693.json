@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8ead4693",
+  "author": "Hugging Face Blog",
+  "content_chars": 9707,
+  "content_sha256": "5172d460d71516bce92aed7fc09ed1266427ed1c14363d25f4c47a403469be88",
+  "content_tokens": 2426,
+  "fetched_at": "2026-05-11T07:33:45Z",
+  "kind": "article",
+  "published_at": "2024-11-26T00:00:00+00:00",
+  "snippet": "Rearchitecting Hugging Face Uploads and Downloads Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Rearchitecting Hugging Face Uploads and Downloads Published November 26, 2024 Update on GitHub Upvote 50 +44 Banerjee…",
+  "source_id": "huggingface-blog",
+  "title": "Rearchitecting Hugging Face Uploads and Downloads",
+  "top_terms": [
+    [
+      "cas",
+      14
+    ],
+    [
+      "upload",
+      13
+    ],
+    [
+      "uploads",
+      13
+    ],
+    [
+      "hub",
+      11
+    ],
+    [
+      "hugging",
+      9
+    ],
+    [
+      "the hub",
+      9
+    ],
+    [
+      "data",
+      8
+    ],
+    [
+      "downloads",
+      8
+    ],
+    [
+      "face",
+      8
+    ],
+    [
+      "files",
+      8
+    ],
+    [
+      "hugging face",
+      8
+    ],
+    [
+      "path",
+      8
+    ],
+    [
+      "storage",
+      8
+    ],
+    [
+      "file",
+      7
+    ],
+    [
+      "infrastructure",
+      7
+    ],
+    [
+      "s3",
+      7
+    ],
+    [
+      "and downloads",
+      6
+    ],
+    [
+      "countries",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "requests",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
+  "url_canonical": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
+  "via_source_id": null
+}

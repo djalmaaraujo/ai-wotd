@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--979b2353",
+  "author": "Yann LeCun",
+  "content_chars": 822,
+  "content_sha256": "1aa0d08a98b910c267235e5a1a1fac52f326c082411f003ea95d115fae1c86c7",
+  "content_tokens": 205,
+  "fetched_at": "2026-05-11T07:33:53Z",
+  "kind": "tweet",
+  "published_at": "2026-05-09T14:48:20+00:00",
+  "snippet": "One theorem every ML engineer should know: The Johnson–Lindenstrauss Lemma. It states that high-dimensional data can be projected into a much lower-dimensional space while approximately preserving pairwise distances. Why it matters: • Explains why random projections work •…",
+  "source_id": "x-ylecun",
+  "title": "One theorem every ML engineer should know: The Johnson–Lindenstrauss Lemma. It s",
+  "top_terms": [
+    [
+      "ml",
+      4
+    ],
+    [
+      "learning",
+      3
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "dimensions",
+      2
+    ],
+    [
+      "embeddings",
+      2
+    ],
+    [
+      "engineer",
+      2
+    ],
+    [
+      "engineer should",
+      2
+    ],
+    [
+      "engineer should know",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "every ml",
+      2
+    ],
+    [
+      "every ml engineer",
+      2
+    ],
+    [
+      "johnson",
+      2
+    ],
+    [
+      "johnson lindenstrauss",
+      2
+    ],
+    [
+      "johnson lindenstrauss lemma",
+      2
+    ],
+    [
+      "know the johnson",
+      2
+    ],
+    [
+      "lemma",
+      2
+    ],
+    [
+      "lemma it",
+      2
+    ],
+    [
+      "lindenstrauss",
+      2
+    ],
+    [
+      "lindenstrauss lemma",
+      2
+    ],
+    [
+      "lindenstrauss lemma it",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2053124917122433097",
+  "url_canonical": "https://x.com/ylecun/status/2053124917122433097",
+  "via_source_id": null
+}

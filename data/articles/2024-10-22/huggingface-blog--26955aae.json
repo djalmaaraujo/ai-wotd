@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--26955aae",
+  "author": "Hugging Face Blog",
+  "content_chars": 15058,
+  "content_sha256": "67e71d54684f22289628f4448af4a38151a82d5709beca879d098fe23069fe55",
+  "content_tokens": 3764,
+  "fetched_at": "2026-05-11T07:33:49Z",
+  "kind": "article",
+  "published_at": "2024-10-22T00:00:00+00:00",
+  "snippet": "Deploying Speech-to-Speech on Hugging Face Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Deploying Speech-to-Speech on Hugging Face Published October 22, 2024 Update on GitHub Upvote 45 +39 Andres Marafioti andito Follow…",
+  "source_id": "huggingface-blog",
+  "title": "Deploying Speech-to-Speech on Hugging Face",
+  "top_terms": [
+    [
+      "inference",
+      39
+    ],
+    [
+      "image",
+      30
+    ],
+    [
+      "custom",
+      28
+    ],
+    [
+      "speech-to-speech",
+      25
+    ],
+    [
+      "endpoints",
+      24
+    ],
+    [
+      "docker",
+      23
+    ],
+    [
+      "inference endpoints",
+      22
+    ],
+    [
+      "hugging",
+      21
+    ],
+    [
+      "models",
+      20
+    ],
+    [
+      "face",
+      19
+    ],
+    [
+      "hugging face",
+      19
+    ],
+    [
+      "audio",
+      18
+    ],
+    [
+      "endpoint",
+      16
+    ],
+    [
+      "docker image",
+      15
+    ],
+    [
+      "repository",
+      14
+    ],
+    [
+      "deploying",
+      13
+    ],
+    [
+      "s2s",
+      13
+    ],
+    [
+      "andito",
+      11
+    ],
+    [
+      "container",
+      11
+    ],
+    [
+      "the audio",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/s2s_endpoint",
+  "url_canonical": "https://huggingface.co/blog/s2s_endpoint",
+  "via_source_id": null
+}

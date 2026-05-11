@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--ff5023b1",
+  "author": "Hugging Face Blog",
+  "content_chars": 5953,
+  "content_sha256": "e366aff6633d37350a9c41427a5172df47e4ffc8e6a1dd5604e03f1c44eb1490",
+  "content_tokens": 1488,
+  "fetched_at": "2026-05-11T07:33:41Z",
+  "kind": "article",
+  "published_at": "2025-01-16T00:00:00+00:00",
+  "snippet": "Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference Published…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference",
+  "top_terms": [
+    [
+      "tgi",
+      22
+    ],
+    [
+      "backend",
+      15
+    ],
+    [
+      "vllm",
+      8
+    ],
+    [
+      "performance",
+      7
+    ],
+    [
+      "backends",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "nvidia",
+      6
+    ],
+    [
+      "rust",
+      6
+    ],
+    [
+      "support",
+      6
+    ],
+    [
+      "backend we",
+      5
+    ],
+    [
+      "backend we are",
+      5
+    ],
+    [
+      "community",
+      5
+    ],
+    [
+      "cpp",
+      5
+    ],
+    [
+      "deploy",
+      5
+    ],
+    [
+      "gpus",
+      5
+    ],
+    [
+      "inference",
+      5
+    ],
+    [
+      "jan",
+      5
+    ],
+    [
+      "llama",
+      5
+    ],
+    [
+      "llama cpp",
+      5
+    ],
+    [
+      "reply",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tgi-multi-backend",
+  "url_canonical": "https://huggingface.co/blog/tgi-multi-backend",
+  "via_source_id": null
+}

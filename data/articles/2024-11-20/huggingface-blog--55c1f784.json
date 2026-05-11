@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--55c1f784",
+  "author": "Hugging Face Blog",
+  "content_chars": 18410,
+  "content_sha256": "13ea9f2a04e1b732fd13734b366ec398d6f71048b1de85f7e33b292dc5badf30",
+  "content_tokens": 4602,
+  "fetched_at": "2026-05-11T07:33:46Z",
+  "kind": "article",
+  "published_at": "2024-11-20T00:00:00+00:00",
+  "snippet": "Faster Text Generation with Self-Speculative Decoding Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Faster Text Generation with Self-Speculative Decoding Published November 20, 2024 Update on GitHub Upvote 65 +59 Aritra…",
+  "source_id": "huggingface-blog",
+  "title": "Faster Text Generation with Self-Speculative Decoding",
+  "top_terms": [
+    [
+      "layers",
+      48
+    ],
+    [
+      "decoding",
+      46
+    ],
+    [
+      "exit",
+      40
+    ],
+    [
+      "early",
+      39
+    ],
+    [
+      "model",
+      39
+    ],
+    [
+      "early exit",
+      29
+    ],
+    [
+      "self-speculative",
+      27
+    ],
+    [
+      "self-speculative decoding",
+      27
+    ],
+    [
+      "draft",
+      25
+    ],
+    [
+      "layer",
+      25
+    ],
+    [
+      "layerskip",
+      25
+    ],
+    [
+      "tokens",
+      22
+    ],
+    [
+      "summarization",
+      18
+    ],
+    [
+      "training",
+      18
+    ],
+    [
+      "meta-llama",
+      17
+    ],
+    [
+      "generation",
+      15
+    ],
+    [
+      "the draft",
+      15
+    ],
+    [
+      "assistant",
+      14
+    ],
+    [
+      "exit layer",
+      14
+    ],
+    [
+      "llama2",
+      14
+    ]
+  ],
+  "url": "https://huggingface.co/blog/layerskip",
+  "url_canonical": "https://huggingface.co/blog/layerskip",
+  "via_source_id": null
+}
