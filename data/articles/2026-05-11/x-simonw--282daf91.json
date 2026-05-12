@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--282daf91",
+  "author": "Simon Willison",
+  "content_chars": 216,
+  "content_sha256": "bc35c894eedf97af1503389f7de51bab58f319ed6fce6935d55fac21ed4fc752",
+  "content_tokens": 54,
+  "fetched_at": "2026-05-12T07:16:35Z",
+  "kind": "tweet",
+  "published_at": "2026-05-11T23:01:31+00:00",
+  "snippet": "My Mac had less available memory than I expected, turned out the \"claude\" Claude Code processes on this machine (running in various terminal windows) were consuming ~30GB on their own! The largest one was using 4.9GB",
+  "source_id": "x-simonw",
+  "title": "My Mac had less available memory than I expected, turned out the \"claude\" Claude",
+  "top_terms": [
+    [
+      "claude",
+      4
+    ],
+    [
+      "available",
+      2
+    ],
+    [
+      "available memory",
+      2
+    ],
+    [
+      "available memory than",
+      2
+    ],
+    [
+      "claude claude",
+      2
+    ],
+    [
+      "expected",
+      2
+    ],
+    [
+      "expected turned",
+      2
+    ],
+    [
+      "expected turned out",
+      2
+    ],
+    [
+      "gb",
+      2
+    ],
+    [
+      "had less",
+      2
+    ],
+    [
+      "had less available",
+      2
+    ],
+    [
+      "less",
+      2
+    ],
+    [
+      "less available",
+      2
+    ],
+    [
+      "less available memory",
+      2
+    ],
+    [
+      "mac",
+      2
+    ],
+    [
+      "mac had",
+      2
+    ],
+    [
+      "mac had less",
+      2
+    ],
+    [
+      "memory",
+      2
+    ],
+    [
+      "memory than",
+      2
+    ],
+    [
+      "my mac",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2053973809510916205",
+  "url_canonical": "https://x.com/simonw/status/2053973809510916205",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--99327b1c",
+  "author": "Hugging Face Blog",
+  "content_chars": 11849,
+  "content_sha256": "cf13b7f1009b99f6171715ad07bfc65adcc350d0e9d97ae377f9fc219c15ebc2",
+  "content_tokens": 2962,
+  "fetched_at": "2026-05-12T07:16:17Z",
+  "kind": "article",
+  "published_at": "2024-10-09T00:00:00+00:00",
+  "snippet": "Scaling AI-based Data Processing with Hugging Face + Dask Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Scaling AI-Based Data Processing with Hugging Face + Dask Published October 9, 2024 Update on GitHub Upvote 33 +27…",
+  "source_id": "huggingface-blog",
+  "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
+  "top_terms": [
+    [
+      "device",
+      24
+    ],
+    [
+      "dask",
+      22
+    ],
+    [
+      "df",
+      22
+    ],
+    [
+      "data",
+      20
+    ],
+    [
+      "torch",
+      18
+    ],
+    [
+      "datasets",
+      17
+    ],
+    [
+      "dataset",
+      15
+    ],
+    [
+      "import",
+      13
+    ],
+    [
+      "face",
+      11
+    ],
+    [
+      "hugging",
+      11
+    ],
+    [
+      "hugging face",
+      11
+    ],
+    [
+      "parquet",
+      11
+    ],
+    [
+      "available",
+      10
+    ],
+    [
+      "hardware",
+      10
+    ],
+    [
+      "huggingfacefw",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "pandas",
+      10
+    ],
+    [
+      "repo",
+      10
+    ],
+    [
+      "device torch",
+      9
+    ],
+    [
+      "device torch device",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/dask-scaling",
+  "url_canonical": "https://huggingface.co/blog/dask-scaling",
+  "via_source_id": null
+}

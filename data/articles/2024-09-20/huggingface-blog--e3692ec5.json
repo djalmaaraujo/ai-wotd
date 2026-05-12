@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e3692ec5",
+  "author": "Hugging Face Blog",
+  "content_chars": 11211,
+  "content_sha256": "3ee0cd6010d6b411b91a62fa31b85a1593bd145e86b3db7d56591517babe5f8d",
+  "content_tokens": 2802,
+  "fetched_at": "2026-05-12T07:16:19Z",
+  "kind": "article",
+  "published_at": "2024-09-20T00:00:00+00:00",
+  "snippet": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Optimize and deploy models with Optimum-Intel and OpenVINO GenAI Published September 20, 2024 Update on GitHub Upvote…",
+  "source_id": "huggingface-blog",
+  "title": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI",
+  "top_terms": [
+    [
+      "openvino",
+      36
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "genai",
+      25
+    ],
+    [
+      "api",
+      19
+    ],
+    [
+      "config",
+      18
+    ],
+    [
+      "openvino genai",
+      17
+    ],
+    [
+      "quantization",
+      17
+    ],
+    [
+      "models",
+      15
+    ],
+    [
+      "python",
+      15
+    ],
+    [
+      "intel",
+      14
+    ],
+    [
+      "step",
+      13
+    ],
+    [
+      "std",
+      12
+    ],
+    [
+      "example",
+      10
+    ],
+    [
+      "optimum-intel",
+      10
+    ],
+    [
+      "pipe",
+      9
+    ],
+    [
+      "chat",
+      8
+    ],
+    [
+      "follow",
+      8
+    ],
+    [
+      "inference",
+      8
+    ],
+    [
+      "optimization",
+      8
+    ],
+    [
+      "transformers",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/deploy-with-openvino",
+  "url_canonical": "https://huggingface.co/blog/deploy-with-openvino",
+  "via_source_id": null
+}

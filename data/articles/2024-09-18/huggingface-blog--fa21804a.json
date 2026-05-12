@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fa21804a",
+  "author": "Hugging Face Blog",
+  "content_chars": 45842,
+  "content_sha256": "0173b40a5a109515c7847bbb0253da6930e307fb4bb863d6ef279dce3ae7bac9",
+  "content_tokens": 11460,
+  "fetched_at": "2026-05-12T07:16:19Z",
+  "kind": "article",
+  "published_at": "2024-09-18T00:00:00+00:00",
+  "snippet": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Fine-tuning LLMs to 1.58bit: extreme quantization made easy Published September 18, 2024 Update on GitHub Upvote…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+  "top_terms": [
+    [
+      "scale",
+      66
+    ],
+    [
+      "matrix",
+      49
+    ],
+    [
+      "times",
+      47
+    ],
+    [
+      "size",
+      43
+    ],
+    [
+      "memory",
+      41
+    ],
+    [
+      "model",
+      39
+    ],
+    [
+      "block",
+      37
+    ],
+    [
+      "weights",
+      37
+    ],
+    [
+      "quantization",
+      34
+    ],
+    [
+      "fine-tuning",
+      32
+    ],
+    [
+      "models",
+      32
+    ],
+    [
+      "text",
+      32
+    ],
+    [
+      "training",
+      31
+    ],
+    [
+      "bitnet",
+      28
+    ],
+    [
+      "bmatrix",
+      28
+    ],
+    [
+      "lambda",
+      28
+    ],
+    [
+      "results",
+      28
+    ],
+    [
+      "tl",
+      28
+    ],
+    [
+      "block size",
+      26
+    ],
+    [
+      "frac",
+      25
+    ]
+  ],
+  "url": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+  "url_canonical": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+  "via_source_id": null
+}

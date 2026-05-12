@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--4dee9402",
+  "author": "Hugging Face Blog",
+  "content_chars": 32714,
+  "content_sha256": "638fd5b110775b97bf7a32beb134d5b056785ef19b373ddbb4890c29c4671244",
+  "content_tokens": 8178,
+  "fetched_at": "2026-05-12T07:16:16Z",
+  "kind": "article",
+  "published_at": "2026-05-11T23:18:26+00:00",
+  "snippet": "Building Blocks for Foundation Model Training and Inference on AWS Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Building Blocks for Foundation Model Training and Inference on AWS Enterprise Article Published May 11, 2026…",
+  "source_id": "huggingface-blog",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "top_terms": [
+    [
+      "training",
+      52
+    ],
+    [
+      "gpu",
+      36
+    ],
+    [
+      "distributed",
+      31
+    ],
+    [
+      "inference",
+      29
+    ],
+    [
+      "aws",
+      27
+    ],
+    [
+      "model",
+      27
+    ],
+    [
+      "efa",
+      26
+    ],
+    [
+      "gb",
+      23
+    ],
+    [
+      "nvidia",
+      23
+    ],
+    [
+      "amazon",
+      22
+    ],
+    [
+      "across",
+      20
+    ],
+    [
+      "and inference",
+      19
+    ],
+    [
+      "distributed training",
+      19
+    ],
+    [
+      "provides",
+      19
+    ],
+    [
+      "communication",
+      18
+    ],
+    [
+      "compute",
+      18
+    ],
+    [
+      "gpus",
+      18
+    ],
+    [
+      "memory",
+      18
+    ],
+    [
+      "nvlink",
+      17
+    ],
+    [
+      "resource",
+      17
+    ]
+  ],
+  "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "url_canonical": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "via_source_id": null
+}

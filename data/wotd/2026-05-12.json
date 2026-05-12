@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--02b4e83c",
+        "codenewsletter--c7b7eb81"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 21.01583,
+      "term": "hermes agent",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-bcherny--4b68ab37",
+        "x-bcherny--f4e8a36f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "flights",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--02b4e83c",
+        "codenewsletter--c7b7eb81"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "boris",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--4b68ab37",
+        "x-bcherny--f4e8a36f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "bunch",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--4b68ab37",
+        "x-bcherny--f4e8a36f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "bunch of",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--02b4e83c",
+        "codenewsletter--c7b7eb81"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "and mcp",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--02b4e83c",
+        "codenewsletter--c7b7eb81"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "and mcp servers",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-bcherny--4b68ab37",
+        "x-bcherny--f4e8a36f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "booking flights",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--02b4e83c",
+        "codenewsletter--c7b7eb81"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "boris cherny",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--02b4e83c",
+        "codenewsletter--c7b7eb81"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "cherny",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-12",
+  "evidence_article_ids": [
+    "aibreakfast--02b4e83c",
+    "codenewsletter--c7b7eb81"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "hermes agent",
+      "claude code",
+      "ai agents",
+      "openrouter",
+      "claude"
+    ]
+  },
+  "score": 21.01583,
+  "word": "hermes agent"
+}

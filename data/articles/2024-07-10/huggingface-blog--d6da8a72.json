@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--d6da8a72",
+  "author": "Hugging Face Blog",
+  "content_chars": 20090,
+  "content_sha256": "104d280ab2abe4e66c3878f0f848534df1b3540252d26f6a7f806f02305067fa",
+  "content_tokens": 5022,
+  "fetched_at": "2026-05-12T07:16:27Z",
+  "kind": "article",
+  "published_at": "2024-07-10T00:00:00+00:00",
+  "snippet": "Preference Optimization for Vision Language Models Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Preference Optimization for Vision Language Models with TRL Published July 10, 2024 Update on GitHub Upvote 93 +87 Quentin…",
+  "source_id": "huggingface-blog",
+  "title": "Preference Optimization for Vision Language Models",
+  "top_terms": [
+    [
+      "model",
+      43
+    ],
+    [
+      "dataset",
+      37
+    ],
+    [
+      "image",
+      35
+    ],
+    [
+      "chosen",
+      24
+    ],
+    [
+      "memory",
+      24
+    ],
+    [
+      "training",
+      24
+    ],
+    [
+      "rejected",
+      22
+    ],
+    [
+      "size",
+      22
+    ],
+    [
+      "processor",
+      20
+    ],
+    [
+      "times",
+      20
+    ],
+    [
+      "example",
+      19
+    ],
+    [
+      "models",
+      18
+    ],
+    [
+      "text",
+      18
+    ],
+    [
+      "prompt",
+      17
+    ],
+    [
+      "train",
+      17
+    ],
+    [
+      "dpo",
+      15
+    ],
+    [
+      "idefics2-8b",
+      15
+    ],
+    [
+      "import",
+      15
+    ],
+    [
+      "peft",
+      14
+    ],
+    [
+      "images",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/dpo_vlm",
+  "url_canonical": "https://huggingface.co/blog/dpo_vlm",
+  "via_source_id": null
+}

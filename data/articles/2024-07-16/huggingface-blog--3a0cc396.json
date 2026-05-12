@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--3a0cc396",
+  "author": "Hugging Face Blog",
+  "content_chars": 58156,
+  "content_sha256": "c0a764e051085b56c213ddaeb682c0d51fa32b45d8cd0e8047e1fcc3126cd212",
+  "content_tokens": 14539,
+  "fetched_at": "2026-05-12T07:16:26Z",
+  "kind": "article",
+  "published_at": "2024-07-16T00:00:00+00:00",
+  "snippet": "How we leveraged distilabel to create an Argilla 2.0 Chatbot Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles How we leveraged distilabel to create an Argilla 2.0 Chatbot Published July 16, 2024 Update on GitHub Upvote 33…",
+  "source_id": "huggingface-blog",
+  "title": "How we leveraged distilabel to create an Argilla 2.0 Chatbot",
+  "top_terms": [
+    [
+      "model",
+      109
+    ],
+    [
+      "dataset",
+      97
+    ],
+    [
+      "argilla",
+      81
+    ],
+    [
+      "queries",
+      79
+    ],
+    [
+      "name",
+      55
+    ],
+    [
+      "query",
+      47
+    ],
+    [
+      "chatbot",
+      46
+    ],
+    [
+      "docs",
+      46
+    ],
+    [
+      "user",
+      45
+    ],
+    [
+      "we'll",
+      44
+    ],
+    [
+      "database",
+      43
+    ],
+    [
+      "str",
+      42
+    ],
+    [
+      "sdk",
+      36
+    ],
+    [
+      "table",
+      35
+    ],
+    [
+      "argilla sdk",
+      34
+    ],
+    [
+      "data",
+      33
+    ],
+    [
+      "settings",
+      33
+    ],
+    [
+      "context",
+      31
+    ],
+    [
+      "id",
+      31
+    ],
+    [
+      "positive",
+      31
+    ]
+  ],
+  "url": "https://huggingface.co/blog/argilla-chatbot",
+  "url_canonical": "https://huggingface.co/blog/argilla-chatbot",
+  "via_source_id": null
+}

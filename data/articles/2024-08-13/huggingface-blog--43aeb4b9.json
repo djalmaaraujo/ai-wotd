@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--43aeb4b9",
+  "author": "Hugging Face Blog",
+  "content_chars": 18600,
+  "content_sha256": "91fcaa0288b589566729bd2fc27f9c2c74367b050d6019ed2a52445ff296357e",
+  "content_tokens": 4650,
+  "fetched_at": "2026-05-12T07:16:22Z",
+  "kind": "article",
+  "published_at": "2024-08-13T00:00:00+00:00",
+  "snippet": "Introduction to ggml Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Introduction to ggml Published August 13, 2024 Update on GitHub Upvote 281 +275 Xuan-Son Nguyen ngxson Follow Georgi Gerganov ggerganov Follow ggml-org…",
+  "source_id": "huggingface-blog",
+  "title": "Introduction to ggml",
+  "top_terms": [
+    [
+      "ggml",
+      150
+    ],
+    [
+      "tensor",
+      56
+    ],
+    [
+      "backend",
+      52
+    ],
+    [
+      "result",
+      46
+    ],
+    [
+      "ctx",
+      31
+    ],
+    [
+      "graph",
+      28
+    ],
+    [
+      "data",
+      27
+    ],
+    [
+      "ggml backend",
+      26
+    ],
+    [
+      "rows",
+      23
+    ],
+    [
+      "size",
+      23
+    ],
+    [
+      "tensors",
+      23
+    ],
+    [
+      "buffer",
+      21
+    ],
+    [
+      "cgraph",
+      21
+    ],
+    [
+      "cols",
+      21
+    ],
+    [
+      "int",
+      19
+    ],
+    [
+      "build",
+      18
+    ],
+    [
+      "gf",
+      17
+    ],
+    [
+      "struct",
+      17
+    ],
+    [
+      "struct ggml",
+      17
+    ],
+    [
+      "type",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/blog/introduction-to-ggml",
+  "url_canonical": "https://huggingface.co/blog/introduction-to-ggml",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--f72a1919",
+  "author": "Hugging Face Blog",
+  "content_chars": 6219,
+  "content_sha256": "2f5ab720eb87d6f1b43f19743194f46010922b46088e5a355c75968573513de7",
+  "content_tokens": 1554,
+  "fetched_at": "2026-05-12T07:16:16Z",
+  "kind": "article",
+  "published_at": "2024-10-16T00:00:00+00:00",
+  "snippet": "Fixing Gradient Accumulation Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Fixing Gradient Accumulation Published October 16, 2024 Update on GitHub Upvote 66 +60 Lysandre lysandre Follow Arthur Zucker ArthurZ Follow…",
+  "source_id": "huggingface-blog",
+  "title": "Fixing Gradient Accumulation",
+  "top_terms": [
+    [
+      "loss",
+      29
+    ],
+    [
+      "shift",
+      14
+    ],
+    [
+      "transformers",
+      14
+    ],
+    [
+      "labels",
+      13
+    ],
+    [
+      "logits",
+      13
+    ],
+    [
+      "accumulation",
+      10
+    ],
+    [
+      "gradient",
+      10
+    ],
+    [
+      "gradient accumulation",
+      10
+    ],
+    [
+      "models",
+      7
+    ],
+    [
+      "shift labels",
+      7
+    ],
+    [
+      "fixing",
+      6
+    ],
+    [
+      "follow",
+      6
+    ],
+    [
+      "issues",
+      6
+    ],
+    [
+      "model",
+      6
+    ],
+    [
+      "shift logits",
+      6
+    ],
+    [
+      "default",
+      5
+    ],
+    [
+      "github",
+      5
+    ],
+    [
+      "issue",
+      5
+    ],
+    [
+      "training",
+      5
+    ],
+    [
+      "users",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/gradient_accumulation",
+  "url_canonical": "https://huggingface.co/blog/gradient_accumulation",
+  "via_source_id": null
+}
