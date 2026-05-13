@@ -1,0 +1,133 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--b2d93049"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 19.459101,
+      "term": "working until",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "claude code helps",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--119ff012",
+        "x-demishassabis--71487cf3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "claude on",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "claude working",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "claude working until",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "code helps",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "code helps with",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "do you keep",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "done claude",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.298975,
+      "term": "done claude code",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-05-13",
+  "evidence_article_ids": [
+    "x-bcherny--1405745a",
+    "x-demishassabis--1d46b07d"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude code helps",
+      "claude working until",
+      "keep claude working",
+      "done claude code",
+      "refactors"
+    ]
+  },
+  "score": 9.298975,
+  "word": "claude code helps"
+}

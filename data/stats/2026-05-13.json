@@ -1,0 +1,1018 @@
+{
+  "article_ids": [
+    "codenewsletter--f4fd0f62",
+    "x-bcherny--1405745a",
+    "x-demishassabis--119ff012",
+    "x-demishassabis--1d46b07d",
+    "x-demishassabis--1f1a12ef",
+    "x-demishassabis--71487cf3",
+    "x-demishassabis--9d712688",
+    "x-demishassabis--b2d93049",
+    "x-demishassabis--eddaf75c"
+  ],
+  "date": "2026-05-13",
+  "document_count": 9,
+  "terms": {
+    "and claude": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "built": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--119ff012",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--1f1a12ef",
+        "x-demishassabis--71487cf3",
+        "x-demishassabis--9d712688",
+        "x-demishassabis--b2d93049",
+        "x-demishassabis--eddaf75c"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 9,
+      "tf": 31
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 4,
+      "tf": 12
+    },
+    "claude code helps": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "claude on": {
+      "articles": [
+        "x-demishassabis--119ff012",
+        "x-demishassabis--71487cf3"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "claude working": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "claude working until": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "clean": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--71487cf3",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--9d712688",
+        "x-demishassabis--eddaf75c"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 5,
+      "tf": 23
+    },
+    "code claude": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--eddaf75c"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code helps": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "code helps with": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "condition": {
+      "articles": [
+        "x-demishassabis--9d712688",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "do you keep": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "done": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "done claude": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "done claude code": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "every": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "few ways": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "few ways including": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "finish": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--1f1a12ef"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "goal": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--9d712688",
+        "x-demishassabis--b2d93049",
+        "x-demishassabis--eddaf75c"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "goal video": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "helps": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "helps with": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "helps with thi": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "helps with this": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "including": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "including one": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "including one we": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is done": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "is done claude": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "it's": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--9d712688",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "it's the": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "iterative": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--71487cf3"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "job": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "job is": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "job is done": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "keep": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "keep claude": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "keep claude working": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "keeps": {
+      "articles": [
+        "x-demishassabis--9d712688",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "loop": {
+      "articles": [
+        "x-demishassabis--71487cf3",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "one we shipped": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recently": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recently goal": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recently goal video": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "refactors": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--71487cf3"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "run": {
+      "articles": [
+        "x-demishassabis--1f1a12ef",
+        "x-demishassabis--71487cf3"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "runs": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--119ff012"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "set": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "shipped": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "shipped recently": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "shipped recently goal": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "step": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stop": {
+      "articles": [
+        "x-demishassabis--1f1a12ef",
+        "x-demishassabis--9d712688"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "test": {
+      "articles": [
+        "x-demishassabis--119ff012",
+        "x-demishassabis--1f1a12ef",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "tests": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "that's": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--eddaf75c"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the job": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the job is": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "thi": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thi how": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thi how do": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "until the job": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "video": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "ways": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ways including": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ways including one": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we shipped": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we shipped recently": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "weekly": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--119ff012"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with thi": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with thi how": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "working": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "working until": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d",
+        "x-demishassabis--b2d93049"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "working until the": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "works": {
+      "articles": [
+        "codenewsletter--f4fd0f62",
+        "x-demishassabis--eddaf75c"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "you keep": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "you keep claude": {
+      "articles": [
+        "x-bcherny--1405745a",
+        "x-demishassabis--1d46b07d"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}
