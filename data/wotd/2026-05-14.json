@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "claude code adds",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "code adds",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "npm",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "chain attack",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "goal command",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "supply chain attack",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "command in",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "fast mode",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "fast mode for",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--f08f48ed",
+        "codenewsletter--cf483c8b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "first confirmed",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-14",
+  "evidence_article_ids": [
+    "aibreakfast--f08f48ed",
+    "codenewsletter--cf483c8b"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "supply chain attack",
+      "zero-day exploit",
+      "goal command",
+      "claude code adds",
+      "research preview"
+    ]
+  },
+  "score": 8.317766,
+  "word": "supply chain attack"
+}
