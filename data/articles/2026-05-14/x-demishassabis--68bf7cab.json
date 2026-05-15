@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--68bf7cab",
+  "author": "Claude Devs",
+  "content_chars": 264,
+  "content_sha256": "c38e93c01cce22cfc70142e84c71922823de45893409ae6fc5788ce1a88d0d0d",
+  "content_tokens": 66,
+  "fetched_at": "2026-05-15T07:26:42Z",
+  "kind": "tweet",
+  "published_at": "2026-05-14T23:35:36+00:00",
+  "snippet": "Useful tip to cut time-to-first-token on longer prompts in the API: pre-warm the prompt cache. Send your system prompt before the user prompt. Claude writes it to the cache, but skips generating any output. When the real user request lands, it'll hit a warm cache.",
+  "source_id": "x-demishassabis",
+  "title": "Useful tip to cut time-to-first-token on longer prompts in the API: pre-warm the",
+  "top_terms": [
+    [
+      "cache",
+      3
+    ],
+    [
+      "prompt",
+      3
+    ],
+    [
+      "api",
+      2
+    ],
+    [
+      "api pre-warm",
+      2
+    ],
+    [
+      "api pre-warm the",
+      2
+    ],
+    [
+      "cut",
+      2
+    ],
+    [
+      "cut time-to-first-token",
+      2
+    ],
+    [
+      "cut time-to-first-token on",
+      2
+    ],
+    [
+      "in the api",
+      2
+    ],
+    [
+      "longer",
+      2
+    ],
+    [
+      "longer prompts",
+      2
+    ],
+    [
+      "longer prompts in",
+      2
+    ],
+    [
+      "on longer",
+      2
+    ],
+    [
+      "on longer prompts",
+      2
+    ],
+    [
+      "pre-warm",
+      2
+    ],
+    [
+      "pre-warm the",
+      2
+    ],
+    [
+      "prompts",
+      2
+    ],
+    [
+      "prompts in",
+      2
+    ],
+    [
+      "prompts in the",
+      2
+    ],
+    [
+      "the api",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2055069548672631218",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2055069548672631218",
+  "via_source_id": null
+}

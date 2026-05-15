@@ -2144,6 +2144,10 @@
     "article_id": "codenewsletter--55bde0e1",
     "first_seen_date": "2026-04-14"
   },
+  "https://codenewsletter.ai/p/anthropic-billing-overhaul-triggers-dev-backlash-notion-drops-a-dev-platform": {
+    "article_id": "codenewsletter--60eaf55a",
+    "first_seen_date": "2026-05-15"
+  },
   "https://codenewsletter.ai/p/anthropic-brings-work-tools-to-mobile-cursor-drops-self-hosted-cloud-agents": {
     "article_id": "codenewsletter--2ee3e56d",
     "first_seen_date": "2026-04-14"
@@ -3099,6 +3103,10 @@
     "article_id": "huggingface-blog--41a6f6e8",
     "first_seen_date": "2026-04-29"
   },
+  "https://huggingface.co/blog/continuous_async": {
+    "article_id": "huggingface-blog--85a38d17",
+    "first_seen_date": "2026-05-15"
+  },
   "https://huggingface.co/blog/continuous_batching": {
     "article_id": "huggingface-blog--01b380af",
     "first_seen_date": "2026-04-21"
@@ -3422,6 +3430,10 @@
   "https://huggingface.co/blog/ibm-granite/granite-4-vision": {
     "article_id": "huggingface-blog--015e831c",
     "first_seen_date": "2026-04-13"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2": {
+    "article_id": "huggingface-blog--966c17ef",
+    "first_seen_date": "2026-05-15"
   },
   "https://huggingface.co/blog/ibm-research/altk-evolve": {
     "article_id": "huggingface-blog--d7aec1a9",
@@ -4547,6 +4559,10 @@
     "article_id": "openai-blog--e8cd95cd",
     "first_seen_date": "2026-04-30"
   },
+  "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
+    "article_id": "openai-blog--1a64c68d",
+    "first_seen_date": "2026-05-15"
+  },
   "https://openai.com/index/choco": {
     "article_id": "openai-blog--df0885b5",
     "first_seen_date": "2026-04-28"
@@ -4787,6 +4803,10 @@
     "article_id": "openai-blog--73477eed",
     "first_seen_date": "2026-04-15"
   },
+  "https://openai.com/index/sea-david-chen": {
+    "article_id": "openai-blog--29ace633",
+    "first_seen_date": "2026-05-15"
+  },
   "https://openai.com/index/simplex": {
     "article_id": "openai-blog--ad269906",
     "first_seen_date": "2026-05-08"
@@ -4839,6 +4859,10 @@
   "https://openai.com/index/why-codex-security-doesnt-include-sast": {
     "article_id": "openai-blog--28cc9fc2",
     "first_seen_date": "2026-04-13"
+  },
+  "https://openai.com/index/work-with-codex-from-anywhere": {
+    "article_id": "openai-blog--cdb911a2",
+    "first_seen_date": "2026-05-15"
   },
   "https://openai.com/signals/research/2026q1-update": {
     "article_id": "openai-blog--8181361d",
@@ -6114,6 +6138,14 @@
   "https://x.com/ClaudeDevs/status/2054639780252844045": {
     "article_id": "x-demishassabis--0e571b95",
     "first_seen_date": "2026-05-14"
+  },
+  "https://x.com/ClaudeDevs/status/2055069548672631218": {
+    "article_id": "x-demishassabis--68bf7cab",
+    "first_seen_date": "2026-05-15"
+  },
+  "https://x.com/ClaudeDevs/status/2055069550505583055": {
+    "article_id": "x-demishassabis--32196359",
+    "first_seen_date": "2026-05-15"
   },
   "https://x.com/DrJimFan/status/2019112603637920237": {
     "article_id": "x-drjimfan--594658a3",
@@ -7939,6 +7971,14 @@
     "article_id": "x-sama--26deec5c",
     "first_seen_date": "2026-05-14"
   },
+  "https://x.com/sama/status/2055034461591588916": {
+    "article_id": "x-sama--578d78a5",
+    "first_seen_date": "2026-05-15"
+  },
+  "https://x.com/sama/status/2055034714231345475": {
+    "article_id": "x-sama--159986f2",
+    "first_seen_date": "2026-05-15"
+  },
   "https://x.com/simonw/status/2040213120992596388": {
     "article_id": "x-simonw--7c4c4f0f",
     "first_seen_date": "2026-04-14"
@@ -8458,6 +8498,10 @@
   "https://x.com/simonw/status/2054782039841460302": {
     "article_id": "x-simonw--469a107a",
     "first_seen_date": "2026-05-14"
+  },
+  "https://x.com/simonw/status/2055060328048885788": {
+    "article_id": "x-simonw--6afc4abd",
+    "first_seen_date": "2026-05-15"
   },
   "https://x.com/trq212/status/2041654973491245509": {
     "article_id": "x-trq212--3f691ebd",
@@ -9530,5 +9574,21 @@
   "https://x.com/ylecun/status/2054622859796820436": {
     "article_id": "x-ylecun--5df6d2be",
     "first_seen_date": "2026-05-14"
+  },
+  "https://x.com/ylecun/status/2054659284601131365": {
+    "article_id": "x-ylecun--6fcb1367",
+    "first_seen_date": "2026-05-15"
+  },
+  "https://x.com/ylecun/status/2054725161719382252": {
+    "article_id": "x-ylecun--41e617a3",
+    "first_seen_date": "2026-05-15"
+  },
+  "https://x.com/ylecun/status/2054943125668311432": {
+    "article_id": "x-ylecun--93f243e4",
+    "first_seen_date": "2026-05-15"
+  },
+  "https://x.com/ylecun/status/2054961175842943442": {
+    "article_id": "x-ylecun--1c1ac6ed",
+    "first_seen_date": "2026-05-15"
   }
 }

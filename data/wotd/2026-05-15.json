@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "anthropic billing",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "anthropic billing overhaul",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "billing overhaul",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "billing overhaul triggers",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "overhaul triggers",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "backlash notion",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "backlash notion drops",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "dev backlash",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "dev backlash notion",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--60eaf55a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "dev platform",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-05-15",
+  "evidence_article_ids": [
+    "codenewsletter--60eaf55a"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "anthropic billing overhaul",
+      "forward-deployed engineers",
+      "minimax agent",
+      "dev backlash notion",
+      "use minimax agent"
+    ]
+  },
+  "score": 26.876392,
+  "word": "anthropic billing overhaul"
+}

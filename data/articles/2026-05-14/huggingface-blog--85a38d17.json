@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--85a38d17",
+  "author": "Hugging Face Blog",
+  "content_chars": 23665,
+  "content_sha256": "7562036ef03e45bfd05019d0dd92b47d2a791c514d473d691d212e922b9ebdf0",
+  "content_tokens": 5916,
+  "fetched_at": "2026-05-15T07:26:26Z",
+  "kind": "article",
+  "published_at": "2026-05-14T00:00:00+00:00",
+  "snippet": "Unlocking asynchronicity in continuous batching Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Log In Sign Up Back to Articles Unlocking asynchronicity in continuous batching Published May 14, 2026 Update on GitHub Upvote 20 +14 Rémi Ouazan Reboul ror…",
+  "source_id": "huggingface-blog",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "top_terms": [
+    [
+      "batch",
+      77
+    ],
+    [
+      "gpu",
+      76
+    ],
+    [
+      "cpu",
+      70
+    ],
+    [
+      "stream",
+      57
+    ],
+    [
+      "the cpu",
+      50
+    ],
+    [
+      "the gpu",
+      42
+    ],
+    [
+      "compute",
+      29
+    ],
+    [
+      "batching",
+      26
+    ],
+    [
+      "operations",
+      26
+    ],
+    [
+      "streams",
+      21
+    ],
+    [
+      "h2d",
+      19
+    ],
+    [
+      "transfer",
+      19
+    ],
+    [
+      "event",
+      18
+    ],
+    [
+      "cuda",
+      17
+    ],
+    [
+      "continuous",
+      16
+    ],
+    [
+      "continuous batching",
+      16
+    ],
+    [
+      "d2h",
+      16
+    ],
+    [
+      "default",
+      14
+    ],
+    [
+      "done",
+      14
+    ],
+    [
+      "input",
+      14
+    ]
+  ],
+  "url": "https://huggingface.co/blog/continuous_async",
+  "url_canonical": "https://huggingface.co/blog/continuous_async",
+  "via_source_id": null
+}
