@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 52.73339,
+      "term": "from your phone",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "diffs",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "hacker",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "hacker news",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "one to two",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "phone while",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "to two",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "your phone while",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 4.0,
+      "df_today": 2,
+      "score": 7.771225,
+      "term": "coding agent",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--8ede0c95",
+        "codenewsletter--8e6a7a22"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "approve",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-16",
+  "evidence_article_ids": [
+    "aibreakfast--8ede0c95",
+    "codenewsletter--8e6a7a22"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "coding agent",
+      "agentic coding",
+      "anthropic",
+      "chatgpt mobile app",
+      "codex"
+    ]
+  },
+  "score": 7.771225,
+  "word": "coding agent"
+}
