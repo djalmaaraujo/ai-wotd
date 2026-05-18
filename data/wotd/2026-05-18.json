@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "already more",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "already more than",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "billion images",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "billion images created",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "chatgpt images india",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "created there",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "images created",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "images created there",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "images india",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--5c7079cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "images india already",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-18",
+  "evidence_article_ids": [
+    "x-sama--5c7079cd"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "chatgpt images",
+      "billion images",
+      "chatgpt images india",
+      "billion images created",
+      "aw chatgpt images"
+    ]
+  },
+  "score": 0.274653,
+  "word": "chatgpt images"
+}
