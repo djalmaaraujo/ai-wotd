@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1ce17a3e",
+  "author": "Hugging Face Blog",
+  "content_chars": 20709,
+  "content_sha256": "c656d86ced61852fcbacf8eec7ed6d52d7449aa21cbc1339ac1d17f15eb26443",
+  "content_tokens": 5177,
+  "fetched_at": "2026-05-19T07:32:03Z",
+  "kind": "article",
+  "published_at": "2026-05-18T16:00:21+00:00",
+  "snippet": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+  "top_terms": [
+    [
+      "lora",
+      60
+    ],
+    [
+      "video",
+      41
+    ],
+    [
+      "args",
+      29
+    ],
+    [
+      "training",
+      25
+    ],
+    [
+      "dir",
+      24
+    ],
+    [
+      "dora",
+      24
+    ],
+    [
+      "frames",
+      23
+    ],
+    [
+      "prompt",
+      22
+    ],
+    [
+      "cosmos",
+      20
+    ],
+    [
+      "the video",
+      20
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "nvidia",
+      18
+    ],
+    [
+      "instruction",
+      17
+    ],
+    [
+      "num",
+      16
+    ],
+    [
+      "rank",
+      15
+    ],
+    [
+      "noise",
+      14
+    ],
+    [
+      "dataset",
+      13
+    ],
+    [
+      "diffusers",
+      13
+    ],
+    [
+      "image",
+      13
+    ],
+    [
+      "physical",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+  "url_canonical": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+  "via_source_id": null
+}

@@ -1,0 +1,133 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--21108327",
+        "codenewsletter--8fdc2ff8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.200963,
+      "term": "ships",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--21108327",
+        "codenewsletter--8fdc2ff8",
+        "x-demishassabis--8e20b17a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.163054,
+      "term": "spending",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--8e20b17a",
+        "x-demishassabis--fbb83e18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "extra usage",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--8fdc2ff8",
+        "x-demishassabis--fbb83e18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "meant",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--21108327",
+        "codenewsletter--8fdc2ff8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "skill for",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-demishassabis--8e20b17a",
+        "x-demishassabis--fbb83e18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "usage credits",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--21108327",
+        "codenewsletter--8fdc2ff8"
+      ],
+      "avg_tf_baseline": 8.0,
+      "df_today": 2,
+      "score": 6.403378,
+      "term": "codex",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "x-demishassabis--8e20b17a",
+        "x-demishassabis--fbb83e18"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 5.793976,
+      "term": "credits",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--21108327",
+        "codenewsletter--8fdc2ff8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "app that",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "aibreakfast--21108327",
+        "codenewsletter--8fdc2ff8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "explanations and",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-05-19",
+  "evidence_article_ids": [
+    "aibreakfast--21108327",
+    "codenewsletter--8fdc2ff8"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "agents",
+      "agent",
+      "codex",
+      "programming language",
+      "ai agent"
+    ]
+  },
+  "score": 2.75664,
+  "word": "agents"
+}
