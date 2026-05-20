@@ -1,0 +1,133 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-demishassabis--02b3bc22",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "gemini flash",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "on coding",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "performs",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--7852aaac",
+        "x-simonw--09eb65d7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "ycombinator",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "avg_tf_baseline": 6.8462,
+      "df_today": 2,
+      "score": 4.04628,
+      "term": "every",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "other frontier",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "other frontier models",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0",
+        "x-sama--7852aaac"
+      ],
+      "avg_tf_baseline": 7.2,
+      "df_today": 3,
+      "score": 3.335771,
+      "term": "tokens",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 6.6154,
+      "df_today": 2,
+      "score": 1.588406,
+      "term": "better",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "avg_tf_baseline": 12.2,
+      "df_today": 2,
+      "score": 1.296723,
+      "term": "coding",
+      "tf_today": 8
+    }
+  ],
+  "date": "2026-05-20",
+  "evidence_article_ids": [
+    "codenewsletter--37399350",
+    "x-demishassabis--5fc2a4d0"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "other frontier models",
+      "frontier models",
+      "gemini flash",
+      "coding",
+      "tokens"
+    ]
+  },
+  "score": 3.955004,
+  "word": "other frontier models"
+}

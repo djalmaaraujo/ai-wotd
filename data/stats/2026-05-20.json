@@ -1,0 +1,386 @@
+{
+  "article_ids": [
+    "codenewsletter--37399350",
+    "x-demishassabis--02b3bc22",
+    "x-demishassabis--5fc2a4d0",
+    "x-sama--7852aaac",
+    "x-simonw--09eb65d7"
+  ],
+  "date": "2026-05-20",
+  "document_count": 5,
+  "terms": {
+    "back": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "better": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "building": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "coding": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "every": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 12
+    },
+    "faster": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "flash": {
+      "articles": [
+        "x-demishassabis--02b3bc22",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "frontier": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "frontier models": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gemini": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--02b3bc22",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "gemini flash": {
+      "articles": [
+        "x-demishassabis--02b3bc22",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "google": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--02b3bc22"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "model": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--02b3bc22"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "models": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "often": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "on coding": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "openai": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "other frontier": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "other frontier models": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "performs": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "products": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quality": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-simonw--09eb65d7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "startup": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "tasks": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "tokens": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis",
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "top": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-simonw--09eb65d7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "try": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-demishassabis--5fc2a4d0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "what's": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "work": {
+      "articles": [
+        "codenewsletter--37399350",
+        "x-sama--7852aaac"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "ycombinator": {
+      "articles": [
+        "x-sama--7852aaac",
+        "x-simonw--09eb65d7"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}
