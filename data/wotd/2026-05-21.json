@@ -1,0 +1,136 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0",
+        "x-demishassabis--130af2a6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 43.668272,
+      "term": "antigravity",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0",
+        "x-demishassabis--130af2a6"
+      ],
+      "avg_tf_baseline": 4.4,
+      "df_today": 3,
+      "score": 36.626527,
+      "term": "gemini",
+      "tf_today": 31
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 20.90386,
+      "term": "the gemini",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0",
+        "x-demishassabis--130af2a6"
+      ],
+      "avg_tf_baseline": 4.0,
+      "df_today": 3,
+      "score": 11.542272,
+      "term": "flash",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 9.4444,
+      "df_today": 2,
+      "score": 10.061769,
+      "term": "google",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "cutting",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "gemini and",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "mac",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "operating system",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--5ee72331",
+        "codenewsletter--56cbd2b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "subagents",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-21",
+  "evidence_article_ids": [
+    "aibreakfast--5ee72331",
+    "codenewsletter--56cbd2b0",
+    "x-demishassabis--130af2a6"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gemini",
+      "subagents",
+      "world models",
+      "gemini flash",
+      "agents"
+    ]
+  },
+  "score": 36.626527,
+  "word": "gemini"
+}
