@@ -1,0 +1,255 @@
+{
+  "article_ids": [
+    "codenewsletter--ed15082c",
+    "x-demishassabis--05cf74a5",
+    "x-demishassabis--3afde0ab",
+    "x-demishassabis--bfb9862f",
+    "x-sama--5b8796ab",
+    "x-simonw--144371d1",
+    "x-simonw--72511483"
+  ],
+  "date": "2026-05-22",
+  "document_count": 7,
+  "terms": {
+    "antigravity": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--72511483"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "bit": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "building": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "customers": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "first": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "gemini": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5",
+        "x-demishassabis--3afde0ab",
+        "x-demishassabis--bfb9862f"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "media": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "net": {
+      "articles": [
+        "x-simonw--144371d1",
+        "x-simonw--72511483"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "pro": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--3afde0ab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "require": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "seeing": {
+      "articles": [
+        "x-demishassabis--05cf74a5",
+        "x-demishassabis--bfb9862f"
+      ],
+      "authors": [
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "stop": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "story": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "training": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--3afde0ab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "turns": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "two": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "weekly": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "work": {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 6
+    }
+  }
+}

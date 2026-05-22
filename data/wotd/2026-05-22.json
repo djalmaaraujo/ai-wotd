@@ -1,0 +1,136 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-demishassabis--05cf74a5",
+        "x-demishassabis--bfb9862f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.116467,
+      "term": "seeing",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--72511483"
+      ],
+      "avg_tf_baseline": 2.7273,
+      "df_today": 2,
+      "score": 5.06408,
+      "term": "back",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "bit",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "media",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.452781,
+      "term": "require",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "avg_tf_baseline": 6.5,
+      "df_today": 2,
+      "score": 2.50501,
+      "term": "build",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5",
+        "x-demishassabis--3afde0ab",
+        "x-demishassabis--bfb9862f"
+      ],
+      "avg_tf_baseline": 10.2,
+      "df_today": 4,
+      "score": 1.846407,
+      "term": "gemini",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "avg_tf_baseline": 5.1333,
+      "df_today": 2,
+      "score": 1.78706,
+      "term": "work",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-simonw--144371d1"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 1.633847,
+      "term": "story",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--ed15082c",
+        "x-demishassabis--05cf74a5"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 1.633847,
+      "term": "weekly",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-22",
+  "evidence_article_ids": [
+    "codenewsletter--ed15082c",
+    "x-demishassabis--05cf74a5",
+    "x-demishassabis--3afde0ab",
+    "x-demishassabis--bfb9862f"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gemini",
+      "training",
+      "building",
+      "antigravity",
+      "seeing"
+    ]
+  },
+  "score": 1.846407,
+  "word": "gemini"
+}
