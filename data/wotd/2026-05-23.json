@@ -1,0 +1,136 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "codenewsletter--38edea8a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 47.957905,
+      "term": "alibaba",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "codenewsletter--38edea8a",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 43.944492,
+      "term": "qwen3",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.155593,
+      "term": "language models",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "codenewsletter--38edea8a",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 29.188652,
+      "term": "quick",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "codenewsletter--38edea8a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 29.112182,
+      "term": "qwen3 max",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 20.723266,
+      "term": "datasets",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "codenewsletter--38edea8a",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 9.1875,
+      "df_today": 3,
+      "score": 18.311658,
+      "term": "models",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "block",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "existing",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--21f647b4",
+        "codenewsletter--38edea8a",
+        "huggingface-blog--88a5cf0b"
+      ],
+      "avg_tf_baseline": 3.4,
+      "df_today": 3,
+      "score": 13.938494,
+      "term": "training",
+      "tf_today": 14
+    }
+  ],
+  "date": "2026-05-23",
+  "evidence_article_ids": [
+    "aibreakfast--21f647b4",
+    "huggingface-blog--88a5cf0b"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "language models",
+      "context window",
+      "agents",
+      "inference",
+      "autonomous"
+    ]
+  },
+  "score": 35.155593,
+  "word": "language models"
+}
