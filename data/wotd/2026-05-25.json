@@ -1,0 +1,100 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--4b7e7178",
+        "x-simonw--7915fdcf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 43.668272,
+      "term": "datasette",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "x-simonw--4b7e7178",
+        "x-simonw--7915fdcf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 20.90386,
+      "term": "jump",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--7915fdcf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 15.021421,
+      "term": "menu",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--4b7e7178"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "datasette io",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--4b7e7178"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "io",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--7915fdcf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "plugins can",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--7915fdcf"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 2.426015,
+      "term": "plugins",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-25",
+  "evidence_article_ids": [
+    "x-simonw--1b691011",
+    "x-simonw--4b7e7178"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "datasette io",
+      "datasette",
+      "plugins can",
+      "plugins",
+      "jump"
+    ]
+  },
+  "score": 9.704061,
+  "word": "datasette io"
+}

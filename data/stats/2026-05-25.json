@@ -1,0 +1,89 @@
+{
+  "article_ids": [
+    "x-simonw--1b691011",
+    "x-simonw--4b7e7178",
+    "x-simonw--7915fdcf"
+  ],
+  "date": "2026-05-25",
+  "document_count": 3,
+  "terms": {
+    "datasette": {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--4b7e7178",
+        "x-simonw--7915fdcf"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "datasette io": {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--4b7e7178"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "io": {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--4b7e7178"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "jump": {
+      "articles": [
+        "x-simonw--4b7e7178",
+        "x-simonw--7915fdcf"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "menu": {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--7915fdcf"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "plugins": {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--7915fdcf"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "plugins can": {
+      "articles": [
+        "x-simonw--1b691011",
+        "x-simonw--7915fdcf"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}
