@@ -1,0 +1,131 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.350922,
+      "term": "deepseek",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "experience",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 1.6667,
+      "df_today": 2,
+      "score": 10.546678,
+      "term": "ibm",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 8.958797,
+      "term": "discount",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "demis",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "demis hassabis",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "flagship",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "hassabis",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--bdb3e4e6",
+        "codenewsletter--35bede95"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "mcp server",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--35bede95",
+        "x-simonw--7e26d73e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "plus",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-26",
+  "evidence_article_ids": [
+    "aibreakfast--bdb3e4e6",
+    "codenewsletter--35bede95"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "deepseek",
+      "mcp server",
+      "flagship model",
+      "end-to-end tests"
+    ]
+  },
+  "score": 23.350922,
+  "word": "deepseek"
+}
