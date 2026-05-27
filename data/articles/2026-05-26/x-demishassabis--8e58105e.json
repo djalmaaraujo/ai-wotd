@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--8e58105e",
+  "author": "Claude Devs",
+  "content_chars": 269,
+  "content_sha256": "72ddb23f3bc4f3aeea43bcacdf581f22503a3948323d68a2fe844e99f526ea6e",
+  "content_tokens": 67,
+  "fetched_at": "2026-05-27T07:44:50Z",
+  "kind": "tweet",
+  "published_at": "2026-05-26T21:24:37+00:00",
+  "snippet": "It runs via hooks and reviews code on three levels: - On file edits: looks for risky patterns like commonly misused dangerous libraries - After model turns: reviews the full diff for harder-to-spot issues - On commits: reads surrounding code to validate vulnerabilities",
+  "source_id": "x-demishassabis",
+  "title": "It runs via hooks and reviews code on three levels: - On file edits: looks for r",
+  "top_terms": [
+    [
+      "code",
+      3
+    ],
+    [
+      "reviews",
+      3
+    ],
+    [
+      "and reviews",
+      2
+    ],
+    [
+      "and reviews code",
+      2
+    ],
+    [
+      "code on",
+      2
+    ],
+    [
+      "code on three",
+      2
+    ],
+    [
+      "edits",
+      2
+    ],
+    [
+      "edits looks",
+      2
+    ],
+    [
+      "edits looks for",
+      2
+    ],
+    [
+      "file",
+      2
+    ],
+    [
+      "file edits",
+      2
+    ],
+    [
+      "file edits looks",
+      2
+    ],
+    [
+      "hooks",
+      2
+    ],
+    [
+      "hooks and",
+      2
+    ],
+    [
+      "hooks and reviews",
+      2
+    ],
+    [
+      "it runs",
+      2
+    ],
+    [
+      "it runs via",
+      2
+    ],
+    [
+      "levels",
+      2
+    ],
+    [
+      "levels on",
+      2
+    ],
+    [
+      "levels on file",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2059385241115181528",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2059385241115181528",
+  "via_source_id": null
+}

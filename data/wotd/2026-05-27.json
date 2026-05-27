@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 2.3333,
+      "df_today": 2,
+      "score": 24.56816,
+      "term": "writing",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 20.90386,
+      "term": "giving",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 15.021421,
+      "term": "asked",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 15.021421,
+      "term": "half",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "course",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "deciding",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "hand",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "missed",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "ran",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--0b1e572d",
+        "one-useful-thing--d2e2de6f"
+      ],
+      "avg_tf_baseline": 2.5,
+      "df_today": 2,
+      "score": 9.670857,
+      "term": "task",
+      "tf_today": 9
+    }
+  ],
+  "date": "2026-05-27",
+  "evidence_article_ids": [
+    "codenewsletter--0b1e572d",
+    "one-useful-thing--d2e2de6f"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "specific task",
+      "thinking for",
+      "missed something",
+      "problem so",
+      "task"
+    ]
+  },
+  "score": 5.126857,
+  "word": "specific task"
+}
