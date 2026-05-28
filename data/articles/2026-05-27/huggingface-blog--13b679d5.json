@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--13b679d5",
+  "author": "Hugging Face Blog",
+  "content_chars": 27103,
+  "content_sha256": "611571705c2affbd1cf5ac53b4040179cfcc6cb35856a41d10c9abf53275de3c",
+  "content_tokens": 6775,
+  "fetched_at": "2026-05-28T07:40:34Z",
+  "kind": "article",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "snippet": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+  "top_terms": [
+    [
+      "bucket",
+      34
+    ],
+    [
+      "bf16",
+      33
+    ],
+    [
+      "step",
+      33
+    ],
+    [
+      "weights",
+      33
+    ],
+    [
+      "delta",
+      28
+    ],
+    [
+      "vllm",
+      27
+    ],
+    [
+      "trainer",
+      25
+    ],
+    [
+      "full",
+      22
+    ],
+    [
+      "model",
+      22
+    ],
+    [
+      "self",
+      22
+    ],
+    [
+      "sparse",
+      22
+    ],
+    [
+      "inference",
+      21
+    ],
+    [
+      "the trainer",
+      20
+    ],
+    [
+      "rl",
+      19
+    ],
+    [
+      "weight",
+      19
+    ],
+    [
+      "every",
+      16
+    ],
+    [
+      "name",
+      16
+    ],
+    [
+      "space",
+      16
+    ],
+    [
+      "two",
+      16
+    ],
+    [
+      "tensor",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/delta-weight-sync",
+  "url_canonical": "https://huggingface.co/blog/delta-weight-sync",
+  "via_source_id": null
+}

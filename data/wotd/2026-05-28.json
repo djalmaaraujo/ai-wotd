@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 65.502409,
+      "term": "benchmark",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "deepswe",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.876392,
+      "term": "deepswe benchmark",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.876392,
+      "term": "guidance",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "codex to",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "multi-agent",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "wrong",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "evaluate",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "patterns",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--7c0ea211",
+        "codenewsletter--3b543f2c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "signals",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-28",
+  "evidence_article_ids": [
+    "aibreakfast--7c0ea211",
+    "codenewsletter--3b543f2c"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "deepswe benchmark",
+      "multi-agent",
+      "agent",
+      "system",
+      "guardrails"
+    ]
+  },
+  "score": 26.876392,
+  "word": "deepswe benchmark"
+}
