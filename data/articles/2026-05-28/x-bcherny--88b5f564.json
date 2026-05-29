@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--88b5f564",
+  "author": "Boris Cherny",
+  "content_chars": 291,
+  "content_sha256": "d906e72e4d5412b77937719c8775e29670c9dcff29c87a8d1d44eabd9e9d3aef",
+  "content_tokens": 72,
+  "fetched_at": "2026-05-29T07:38:53Z",
+  "kind": "tweet",
+  "published_at": "2026-05-28T17:21:41+00:00",
+  "snippet": "We also shipped dynamic workflows in Claude Code (research preview), for tasks too big for one pass. Make sure to default to auto mode so Claude isn't stopping for permissions. It's token-intensive, so save it for your biggest jobs: migrations, refactors, perf optimization…",
+  "source_id": "x-bcherny",
+  "title": "We also shipped dynamic workflows in Claude Code (research preview), for tasks t",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "also shipped",
+      2
+    ],
+    [
+      "also shipped dynamic",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "claude code research",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code research",
+      2
+    ],
+    [
+      "code research preview",
+      2
+    ],
+    [
+      "dynamic",
+      2
+    ],
+    [
+      "dynamic workflows",
+      2
+    ],
+    [
+      "dynamic workflows in",
+      2
+    ],
+    [
+      "for tasks",
+      2
+    ],
+    [
+      "in claude",
+      2
+    ],
+    [
+      "in claude code",
+      2
+    ],
+    [
+      "preview",
+      2
+    ],
+    [
+      "preview for",
+      2
+    ],
+    [
+      "preview for tasks",
+      2
+    ],
+    [
+      "research",
+      2
+    ],
+    [
+      "research preview",
+      2
+    ],
+    [
+      "research preview for",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2060048877944778995",
+  "url_canonical": "https://x.com/bcherny/status/2060048877944778995",
+  "via_source_id": null
+}

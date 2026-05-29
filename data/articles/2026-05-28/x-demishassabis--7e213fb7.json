@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--7e213fb7",
+  "author": "Claude Devs",
+  "content_chars": 277,
+  "content_sha256": "35a228b29068e3723b13427c86e6b90d361faf8cb29a105553350339b164cfe0",
+  "content_tokens": 69,
+  "fetched_at": "2026-05-29T07:38:55Z",
+  "kind": "tweet",
+  "published_at": "2026-05-28T16:59:09+00:00",
+  "snippet": "Opus 4.8 defaults to high effort. For coding tasks, it spends similar tokens to the 4.7 default while delivering better performance. For difficult tasks and long-running async work, use xhigh. We’ve increased rate limits in Claude Code to accommodate the increased token usage.",
+  "source_id": "x-demishassabis",
+  "title": "Opus 4.8 defaults to high effort. For coding tasks, it spends similar tokens to ",
+  "top_terms": [
+    [
+      "tasks",
+      3
+    ],
+    [
+      "coding",
+      2
+    ],
+    [
+      "coding tasks",
+      2
+    ],
+    [
+      "coding tasks it",
+      2
+    ],
+    [
+      "defaults",
+      2
+    ],
+    [
+      "defaults to",
+      2
+    ],
+    [
+      "defaults to high",
+      2
+    ],
+    [
+      "effort",
+      2
+    ],
+    [
+      "effort for",
+      2
+    ],
+    [
+      "effort for coding",
+      2
+    ],
+    [
+      "for coding",
+      2
+    ],
+    [
+      "for coding tasks",
+      2
+    ],
+    [
+      "high",
+      2
+    ],
+    [
+      "high effort",
+      2
+    ],
+    [
+      "high effort for",
+      2
+    ],
+    [
+      "increased",
+      2
+    ],
+    [
+      "it spends",
+      2
+    ],
+    [
+      "it spends similar",
+      2
+    ],
+    [
+      "opus",
+      2
+    ],
+    [
+      "opus defaults",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2060043211129909732",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2060043211129909732",
+  "via_source_id": null
+}

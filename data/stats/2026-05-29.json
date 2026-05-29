@@ -1,0 +1,205 @@
+{
+  "article_ids": [
+    "codenewsletter--1918aea9",
+    "x-simonw--0183c233",
+    "x-simonw--15e77cf0",
+    "x-simonw--1aa5e031",
+    "x-simonw--6032b19a"
+  ],
+  "date": "2026-05-29",
+  "document_count": 5,
+  "terms": {
+    "anthropic": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--0183c233"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "built": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--1aa5e031"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "company": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--0183c233"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net": {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "net may": {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "original": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--6032b19a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "results": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "revenue": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--0183c233"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "simonwillison": {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "simonwillison net": {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "simonwillison net may": {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "story": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the results": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thinking": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--1aa5e031"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "whole": {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

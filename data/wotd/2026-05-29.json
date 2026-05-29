@@ -1,0 +1,137 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.163054,
+      "term": "net may",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.163054,
+      "term": "simonwillison",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.163054,
+      "term": "simonwillison net",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.163054,
+      "term": "simonwillison net may",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--6032b19a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "original",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "whole",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--15e77cf0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.955004,
+      "term": "the results",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--0183c233"
+      ],
+      "avg_tf_baseline": 2.8,
+      "df_today": 2,
+      "score": 2.879613,
+      "term": "revenue",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--0183c233",
+        "x-simonw--1aa5e031",
+        "x-simonw--6032b19a"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 3,
+      "score": 2.360509,
+      "term": "net",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--1918aea9",
+        "x-simonw--0183c233"
+      ],
+      "avg_tf_baseline": 2.7143,
+      "df_today": 2,
+      "score": 1.378998,
+      "term": "company",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-29",
+  "evidence_article_ids": [
+    "codenewsletter--1918aea9",
+    "x-simonw--1aa5e031"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude",
+      "anthropic",
+      "simonwillison net may",
+      "simonwillison net",
+      "simonwillison"
+    ]
+  },
+  "score": 0.911662,
+  "word": "claude"
+}

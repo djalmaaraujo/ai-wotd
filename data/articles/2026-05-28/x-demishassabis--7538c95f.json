@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--7538c95f",
+  "author": "Claude Devs",
+  "content_chars": 276,
+  "content_sha256": "bca9179d32ae790cdd45f7704b8aa005a90a3a3866b3bb43c5d1036aed98d370",
+  "content_tokens": 69,
+  "fetched_at": "2026-05-29T07:38:55Z",
+  "kind": "tweet",
+  "published_at": "2026-05-28T17:05:42+00:00",
+  "snippet": "Dynamic workflows are useful for tasks that are too big for a single agent loop, such as service-wide bug hunts, large migrations, or stress-testing a design. They're powerful and can be expensive, consuming a lot of tokens fast. Start with a scoped task to get a feel for it.",
+  "source_id": "x-demishassabis",
+  "title": "Dynamic workflows are useful for tasks that are too big for a single agent loop,",
+  "top_terms": [
+    [
+      "agent",
+      2
+    ],
+    [
+      "agent loop",
+      2
+    ],
+    [
+      "are too big",
+      2
+    ],
+    [
+      "are useful",
+      2
+    ],
+    [
+      "are useful for",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "big for",
+      2
+    ],
+    [
+      "dynamic",
+      2
+    ],
+    [
+      "dynamic workflows",
+      2
+    ],
+    [
+      "dynamic workflows are",
+      2
+    ],
+    [
+      "for tasks",
+      2
+    ],
+    [
+      "for tasks that",
+      2
+    ],
+    [
+      "loop",
+      2
+    ],
+    [
+      "single",
+      2
+    ],
+    [
+      "single agent",
+      2
+    ],
+    [
+      "single agent loop",
+      2
+    ],
+    [
+      "tasks",
+      2
+    ],
+    [
+      "tasks that",
+      2
+    ],
+    [
+      "tasks that are",
+      2
+    ],
+    [
+      "too big",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2060044856114942328",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2060044856114942328",
+  "via_source_id": null
+}
