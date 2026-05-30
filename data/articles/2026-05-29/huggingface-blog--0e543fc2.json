@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0e543fc2",
+  "author": "Hugging Face Blog",
+  "content_chars": 32135,
+  "content_sha256": "0edfe28020bf09b910ae9f9bd469c5b34fb91f4ed7dfddb014a9664a73a8cd80",
+  "content_tokens": 8033,
+  "fetched_at": "2026-05-30T07:17:56Z",
+  "kind": "article",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "snippet": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+  "top_terms": [
+    [
+      "gpu",
+      55
+    ],
+    [
+      "matmul",
+      52
+    ],
+    [
+      "cpu",
+      50
+    ],
+    [
+      "figure",
+      45
+    ],
+    [
+      "profiler",
+      44
+    ],
+    [
+      "add",
+      43
+    ],
+    [
+      "torch",
+      43
+    ],
+    [
+      "kernel",
+      37
+    ],
+    [
+      "trace",
+      29
+    ],
+    [
+      "aten",
+      28
+    ],
+    [
+      "the cpu",
+      27
+    ],
+    [
+      "the gpu",
+      24
+    ],
+    [
+      "cuda",
+      22
+    ],
+    [
+      "matmul add",
+      22
+    ],
+    [
+      "size",
+      22
+    ],
+    [
+      "compile",
+      20
+    ],
+    [
+      "kernels",
+      20
+    ],
+    [
+      "warmup",
+      20
+    ],
+    [
+      "matrix",
+      19
+    ],
+    [
+      "run",
+      19
+    ]
+  ],
+  "url": "https://huggingface.co/blog/torch-profiler",
+  "url_canonical": "https://huggingface.co/blog/torch-profiler",
+  "via_source_id": null
+}

@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 92.338177,
+      "term": "claude opus",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "elevenlabs",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "v2",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "dubbing",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "dubbing v2",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 3.2,
+      "df_today": 2,
+      "score": 19.494764,
+      "term": "opus",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "languages",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "orchestration tax",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 13.438196,
+      "term": "tax",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--45f90954",
+        "codenewsletter--0c6cf390"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "across languages",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-05-30",
+  "evidence_article_ids": [
+    "aibreakfast--45f90954",
+    "codenewsletter--0c6cf390"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "orchestration tax",
+      "dynamic workflows",
+      "claude opus",
+      "dubbing v2",
+      "anthropic"
+    ]
+  },
+  "score": 19.313255,
+  "word": "orchestration tax"
+}

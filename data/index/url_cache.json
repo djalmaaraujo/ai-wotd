@@ -251,6 +251,10 @@
     "article_id": "aibreakfast--7c0ea211",
     "first_seen_date": "2026-05-28"
   },
+  "https://aibreakfast.beehiiv.com/p/anthropic-rolls-out-claude-opus-4-8-with-near-mythos-level-alignment-and-3x-cheaper-fast-mode": {
+    "article_id": "aibreakfast--45f90954",
+    "first_seen_date": "2026-05-30"
+  },
   "https://aibreakfast.beehiiv.com/p/anthropic-s-ai-agent": {
     "article_id": "aibreakfast--17eec94d",
     "first_seen_date": "2026-04-15"
@@ -2243,6 +2247,10 @@
   "https://codenewsletter.ai/p/anthropic-unveils-claude-opus-4-7-openai-upgrades-codex-35cf": {
     "article_id": "codenewsletter--1e7b6a5b",
     "first_seen_date": "2026-04-17"
+  },
+  "https://codenewsletter.ai/p/anthropic-unveils-claude-opus-4-8-elevenlabs-drops-dubbing-v2": {
+    "article_id": "codenewsletter--0c6cf390",
+    "first_seen_date": "2026-05-30"
   },
   "https://codenewsletter.ai/p/anthropic-unveils-claude-security-xai-drops-grok-4-3-and-voice-cloning-api": {
     "article_id": "codenewsletter--28c0e4c8",
@@ -4331,6 +4339,10 @@
     "article_id": "huggingface-blog--ae0ecaf7",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/torch-profiler": {
+    "article_id": "huggingface-blog--0e543fc2",
+    "first_seen_date": "2026-05-30"
+  },
   "https://huggingface.co/blog/tpu-inference-endpoints-spaces": {
     "article_id": "huggingface-blog--9d65ee1d",
     "first_seen_date": "2026-05-12"
@@ -4739,6 +4751,14 @@
     "article_id": "openai-blog--e49392fc",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/boston-childrens-hospital": {
+    "article_id": "openai-blog--2e11a6c9",
+    "first_seen_date": "2026-05-30"
+  },
+  "https://openai.com/index/braintrust": {
+    "article_id": "openai-blog--e5cd54d5",
+    "first_seen_date": "2026-05-30"
+  },
   "https://openai.com/index/building-codex-windows-sandbox": {
     "article_id": "openai-blog--68590f1e",
     "first_seen_date": "2026-05-14"
@@ -5071,6 +5091,10 @@
     "article_id": "openai-blog--4d9b94cc",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+    "article_id": "openai-blog--d0aa2a1e",
+    "first_seen_date": "2026-05-30"
+  },
   "https://openai.com/index/sycophancy-in-gpt-4o": {
     "article_id": null,
     "first_seen_date": "2026-04-13",
@@ -5091,6 +5115,10 @@
   "https://openai.com/index/the-next-phase-of-education-for-countries": {
     "article_id": "openai-blog--fbe0eab3",
     "first_seen_date": "2026-05-21"
+  },
+  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+    "article_id": "openai-blog--e56a2a80",
+    "first_seen_date": "2026-05-30"
   },
   "https://openai.com/index/uber": {
     "article_id": "openai-blog--567ca1bd",
@@ -6583,6 +6611,18 @@
     "article_id": "x-demishassabis--0b76c44c",
     "first_seen_date": "2026-05-29"
   },
+  "https://x.com/ClaudeDevs/status/2060432688281251998": {
+    "article_id": "x-demishassabis--efa38983",
+    "first_seen_date": "2026-05-30"
+  },
+  "https://x.com/ClaudeDevs/status/2060432691288576207": {
+    "article_id": "x-demishassabis--c88a2442",
+    "first_seen_date": "2026-05-30"
+  },
+  "https://x.com/ClaudeDevs/status/2060432692882395376": {
+    "article_id": "x-demishassabis--c6facee9",
+    "first_seen_date": "2026-05-30"
+  },
   "https://x.com/DrJimFan/status/2019112603637920237": {
     "article_id": "x-drjimfan--594658a3",
     "first_seen_date": "2026-04-14"
@@ -7187,9 +7227,25 @@
     "article_id": "x-bcherny--05dd6895",
     "first_seen_date": "2026-05-29"
   },
+  "https://x.com/bcherny/status/2060059697366110305": {
+    "article_id": "x-bcherny--0fe3adc9",
+    "first_seen_date": "2026-05-30"
+  },
   "https://x.com/bcherny/status/2060061347522433422": {
     "article_id": "x-bcherny--26d52503",
     "first_seen_date": "2026-05-29"
+  },
+  "https://x.com/bcherny/status/2060390852619272526": {
+    "article_id": "x-bcherny--b663709f",
+    "first_seen_date": "2026-05-30"
+  },
+  "https://x.com/bcherny/status/2060390853835726946": {
+    "article_id": "x-bcherny--e92c3068",
+    "first_seen_date": "2026-05-30"
+  },
+  "https://x.com/bcherny/status/2060390855383400729": {
+    "article_id": "x-bcherny--c23cc5a7",
+    "first_seen_date": "2026-05-30"
   },
   "https://x.com/claudeai/status/2039836891508261106": {
     "article_id": "x-claudeai--8e2be9fa",
@@ -8058,6 +8114,10 @@
   "https://x.com/demishassabis/status/2059932468820816354": {
     "article_id": "x-demishassabis--07d90980",
     "first_seen_date": "2026-05-29"
+  },
+  "https://x.com/demishassabis/status/2060322611586834518": {
+    "article_id": "x-demishassabis--372ddaa9",
+    "first_seen_date": "2026-05-30"
   },
   "https://x.com/karpathy/status/2034321875506196585": {
     "article_id": "x-karpathy--107688fb",
@@ -9498,6 +9558,14 @@
   "https://x.com/simonw/status/2060209089620431295": {
     "article_id": "x-simonw--6032b19a",
     "first_seen_date": "2026-05-29"
+  },
+  "https://x.com/simonw/status/2060353804625977772": {
+    "article_id": "x-simonw--4ee353f2",
+    "first_seen_date": "2026-05-30"
+  },
+  "https://x.com/simonw/status/2060354196772413551": {
+    "article_id": "x-simonw--c8fa9a72",
+    "first_seen_date": "2026-05-30"
   },
   "https://x.com/trq212/status/2041654973491245509": {
     "article_id": "x-trq212--3f691ebd",
@@ -11106,6 +11174,10 @@
   "https://x.com/ylecun/status/2059918553151647763": {
     "article_id": "x-ylecun--3bdd926b",
     "first_seen_date": "2026-05-29"
+  },
+  "https://x.com/ylecun/status/2060004641127985295": {
+    "article_id": "x-ylecun--ae1c6815",
+    "first_seen_date": "2026-05-30"
   },
   "https://x.com/ylecun/status/2060009395107377282": {
     "article_id": "x-ylecun--f9c166ab",

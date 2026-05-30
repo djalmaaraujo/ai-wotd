@@ -1,14 +1,14 @@
 {
   "aibreakfast": {
     "etag": null,
-    "last_fetched_at": "2026-05-28T07:40:34.905569+00:00",
-    "last_guid": "https://aibreakfast.beehiiv.com/p/anthropic-now-grades-your-prompting",
+    "last_fetched_at": "2026-05-30T07:17:57.975315+00:00",
+    "last_guid": "https://aibreakfast.beehiiv.com/p/anthropic-rolls-out-claude-opus-4-8-with-near-mythos-level-alignment-and-3x-cheaper-fast-mode",
     "last_modified": null
   },
   "codenewsletter": {
     "etag": null,
-    "last_fetched_at": "2026-05-29T07:38:51.494893+00:00",
-    "last_guid": "https://codenewsletter.ai/p/openai-ships-secure-mcp-tunnel-ramp-deploys-10-000-security-agents",
+    "last_fetched_at": "2026-05-30T07:17:58.926121+00:00",
+    "last_guid": "https://codenewsletter.ai/p/anthropic-unveils-claude-opus-4-8-elevenlabs-drops-dubbing-v2",
     "last_modified": null
   },
   "google-deepmind": {
@@ -19,8 +19,8 @@
   },
   "huggingface-blog": {
     "etag": null,
-    "last_fetched_at": "2026-05-28T07:40:34.057489+00:00",
-    "last_guid": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "last_fetched_at": "2026-05-30T07:17:56.722465+00:00",
+    "last_guid": "https://huggingface.co/blog/torch-profiler",
     "last_modified": null
   },
   "one-useful-thing": {
@@ -31,14 +31,14 @@
   },
   "openai-blog": {
     "etag": null,
-    "last_fetched_at": "2026-05-29T07:38:48.898767+00:00",
-    "last_guid": "https://openai.com/index/endava",
+    "last_fetched_at": "2026-05-30T07:17:55.815728+00:00",
+    "last_guid": "https://openai.com/index/boston-childrens-hospital",
     "last_modified": null
   },
   "x-bcherny": {
     "etag": null,
-    "last_fetched_at": "2026-05-29T07:38:53.093069+00:00",
-    "last_guid": "2059701677981413812",
+    "last_fetched_at": "2026-05-30T07:18:00.730109+00:00",
+    "last_guid": "2060390855383400729",
     "last_modified": null
   },
   "x-claudeai": {
@@ -49,8 +49,8 @@
   },
   "x-demishassabis": {
     "etag": null,
-    "last_fetched_at": "2026-05-29T07:38:55.980126+00:00",
-    "last_guid": "2060044860984529368",
+    "last_fetched_at": "2026-05-30T07:18:03.798294+00:00",
+    "last_guid": "2060432688281251998",
     "last_modified": null
   },
   "x-drjimfan": {
@@ -73,8 +73,8 @@
   },
   "x-simonw": {
     "etag": null,
-    "last_fetched_at": "2026-05-29T07:38:54.291117+00:00",
-    "last_guid": "2060209089620431295",
+    "last_fetched_at": "2026-05-30T07:18:02.059775+00:00",
+    "last_guid": "2060354196772413551",
     "last_modified": null
   },
   "x-trq212": {
@@ -85,8 +85,8 @@
   },
   "x-ylecun": {
     "etag": null,
-    "last_fetched_at": "2026-05-29T07:38:55.136533+00:00",
-    "last_guid": "2060093674524975416",
+    "last_fetched_at": "2026-05-30T07:18:03.063943+00:00",
+    "last_guid": "2060004641127985295",
     "last_modified": null
   }
 }
