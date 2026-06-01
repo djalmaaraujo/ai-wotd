@@ -1,0 +1,95 @@
+{
+  "article_ids": [
+    "huggingface-blog--625ab2f2",
+    "x-simonw--5d7a8ed6",
+    "x-simonw--c07157f0"
+  ],
+  "date": "2026-06-01",
+  "document_count": 3,
+  "terms": {
+    "ago": {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "blog": {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--c07157f0"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "every": {
+      "articles": [
+        "x-simonw--5d7a8ed6",
+        "x-simonw--c07157f0"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "github": {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "here's": {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "people": {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6",
+        "x-simonw--c07157f0"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "previous": {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

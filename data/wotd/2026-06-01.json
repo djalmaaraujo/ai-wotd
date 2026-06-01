@@ -1,0 +1,100 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 2,
+      "score": 11.321404,
+      "term": "ago",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--c07157f0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "blog",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6",
+        "x-simonw--c07157f0"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 3,
+      "score": 4.479399,
+      "term": "people",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "avg_tf_baseline": 4.25,
+      "df_today": 2,
+      "score": 2.459278,
+      "term": "github",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 2.426015,
+      "term": "here's",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "huggingface-blog--625ab2f2",
+        "x-simonw--5d7a8ed6"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 2.426015,
+      "term": "previous",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--5d7a8ed6",
+        "x-simonw--c07157f0"
+      ],
+      "avg_tf_baseline": 6.8333,
+      "df_today": 2,
+      "score": 0.710053,
+      "term": "every",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-01",
+  "evidence_article_ids": [
+    "huggingface-blog--625ab2f2",
+    "x-simonw--5d7a8ed6"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "github",
+      "blog",
+      "previous",
+      "people",
+      "every"
+    ]
+  },
+  "score": 2.459278,
+  "word": "github"
+}
