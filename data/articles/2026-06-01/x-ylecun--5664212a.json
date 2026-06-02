@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--5664212a",
+  "author": "Yann LeCun",
+  "content_chars": 219,
+  "content_sha256": "1a6ad8609d211f56cf6860d3a4db4d9f262e87e6349654a6d42cdcedd40d96ff",
+  "content_tokens": 54,
+  "fetched_at": "2026-06-02T07:58:39Z",
+  "kind": "tweet",
+  "published_at": "2026-06-01T05:21:33+00:00",
+  "snippet": "LLMs learn by predicting tokens. World models (JEPA, data2vec) learn by predicting their own abstractions. Which needs more data? For data with hidden hierarchy, we prove the gap is exponential. arxiv.org/pdf/2605.27734",
+  "source_id": "x-ylecun",
+  "title": "LLMs learn by predicting tokens. World models (JEPA, data2vec) learn by predicti",
+  "top_terms": [
+    [
+      "learn",
+      4
+    ],
+    [
+      "learn by",
+      4
+    ],
+    [
+      "by predicting",
+      3
+    ],
+    [
+      "learn by predicting",
+      3
+    ],
+    [
+      "predicting",
+      3
+    ],
+    [
+      "by predicting tokens",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "data2vec",
+      2
+    ],
+    [
+      "data2vec learn",
+      2
+    ],
+    [
+      "data2vec learn by",
+      2
+    ],
+    [
+      "jepa",
+      2
+    ],
+    [
+      "jepa data2vec",
+      2
+    ],
+    [
+      "jepa data2vec learn",
+      2
+    ],
+    [
+      "llms",
+      2
+    ],
+    [
+      "llms learn",
+      2
+    ],
+    [
+      "llms learn by",
+      2
+    ],
+    [
+      "models",
+      2
+    ],
+    [
+      "models jepa",
+      2
+    ],
+    [
+      "models jepa data2vec",
+      2
+    ],
+    [
+      "predicting tokens",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2061317203857739846",
+  "url_canonical": "https://x.com/ylecun/status/2061317203857739846",
+  "via_source_id": null
+}

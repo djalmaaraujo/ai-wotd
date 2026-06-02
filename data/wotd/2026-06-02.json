@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 29.112182,
+      "term": "robotics",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.350922,
+      "term": "division",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "costs",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "computer",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "generation",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "request",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "robots",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "x-simonw--a2368a3f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "updated",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 8.958797,
+      "term": "spend",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--39e771a9",
+        "codenewsletter--edfcb824"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "an open",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-02",
+  "evidence_article_ids": [
+    "aibreakfast--39e771a9",
+    "codenewsletter--edfcb824"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "code generation",
+      "hugging face",
+      "input tokens",
+      "ai costs",
+      "coding workflows"
+    ]
+  },
+  "score": 4.394449,
+  "word": "code generation"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--47fdb52a",
+  "author": "Yann LeCun",
+  "content_chars": 375,
+  "content_sha256": "5a5c9fc0c801e3b8b60bbf3ecd5384dc822d3796df5a256706e45decbace6edb",
+  "content_tokens": 93,
+  "fetched_at": "2026-06-02T07:58:39Z",
+  "kind": "tweet",
+  "published_at": "2026-05-31T10:24:00+00:00",
+  "snippet": "卧槽！你随便扔一首 YouTube 歌，它就能直接拆成 6 条独立音轨——人声、鼓、贝斯、吉他、钢琴、其他……全给你扒出来！ 这工具叫 StemDeck，GitHub 开源项目，本地跑全程不上传、不注册、不花钱！它基于 Demucs 模型，拆完后给你一个接近 DAW 的界面： 静音、独奏、拉推子、缩波形、设循环、单轨下载、混音导出……想怎么玩就怎么玩。硬核亮点： 本地全速运行：自动识别 GPU，Apple Silicon 上快得飞起 智能分析：自动算 BPM、调性、响度，扒谱党狂喜 超灵活：想只拆几轨、留原声道做参考也行，处理中途随时取消…",
+  "source_id": "x-ylecun",
+  "title": "卧槽！你随便扔一首 YouTube 歌，它就能直接拆成 6 条独立音轨——人声、鼓、贝斯、吉他、钢琴、其他……全给你扒出来！ 这工具叫 StemDeck，Git",
+  "top_terms": [
+    [
+      "stemdeck",
+      3
+    ],
+    [
+      "github",
+      2
+    ],
+    [
+      "youtube",
+      2
+    ],
+    [
+      "youtube stemdeck",
+      2
+    ],
+    [
+      "apple",
+      1
+    ],
+    [
+      "apple silicon",
+      1
+    ],
+    [
+      "apple silicon bpm",
+      1
+    ],
+    [
+      "bpm",
+      1
+    ],
+    [
+      "bpm remix",
+      1
+    ],
+    [
+      "bpm remix stem",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "com thcp",
+      1
+    ],
+    [
+      "com thcp stemdeck",
+      1
+    ],
+    [
+      "daw",
+      1
+    ],
+    [
+      "daw gpu",
+      1
+    ],
+    [
+      "daw gpu apple",
+      1
+    ],
+    [
+      "demucs",
+      1
+    ],
+    [
+      "demucs daw",
+      1
+    ],
+    [
+      "demucs daw gpu",
+      1
+    ],
+    [
+      "git",
+      1
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2061030928986878151",
+  "url_canonical": "https://x.com/ylecun/status/2061030928986878151",
+  "via_source_id": null
+}

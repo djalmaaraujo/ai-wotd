@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--2d6c4005",
+  "author": "Yann LeCun",
+  "content_chars": 278,
+  "content_sha256": "f30f59c2e710ffde0cef09c73ae7b1bc1241a745a6289a402acb46a2f76bca1a",
+  "content_tokens": 69,
+  "fetched_at": "2026-06-02T07:58:39Z",
+  "kind": "tweet",
+  "published_at": "2026-05-29T08:30:31+00:00",
+  "snippet": "AI needs vastly more data than we do. One idea might close the gap: don't predict raw signals (tokens), predict your own abstract latent representation (JEPA, data2vec). With @DanKorchinski @MatthieuWyart , on a toy model, we prove how much that helps: the gap is exponential. 🧵",
+  "source_id": "x-ylecun",
+  "title": "AI needs vastly more data than we do. One idea might close the gap: don't predic",
+  "top_terms": [
+    [
+      "gap",
+      3
+    ],
+    [
+      "the gap",
+      3
+    ],
+    [
+      "ai needs",
+      2
+    ],
+    [
+      "ai needs vastly",
+      2
+    ],
+    [
+      "close",
+      2
+    ],
+    [
+      "close the",
+      2
+    ],
+    [
+      "close the gap",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "data than",
+      2
+    ],
+    [
+      "data than we",
+      2
+    ],
+    [
+      "do one idea",
+      2
+    ],
+    [
+      "don't",
+      2
+    ],
+    [
+      "gap don't",
+      2
+    ],
+    [
+      "idea",
+      2
+    ],
+    [
+      "idea might",
+      2
+    ],
+    [
+      "idea might close",
+      2
+    ],
+    [
+      "might close",
+      2
+    ],
+    [
+      "might close the",
+      2
+    ],
+    [
+      "more data",
+      2
+    ],
+    [
+      "more data than",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2060277596089159734",
+  "url_canonical": "https://x.com/ylecun/status/2060277596089159734",
+  "via_source_id": null
+}
