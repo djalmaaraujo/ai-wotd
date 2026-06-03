@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--c897851c",
+  "author": "Claude Devs",
+  "content_chars": 277,
+  "content_sha256": "41d14493e8bd34c986b22f6310e42a5f623bf6612d65a673b71f161b859ec2e3",
+  "content_tokens": 69,
+  "fetched_at": "2026-06-03T08:02:10Z",
+  "kind": "tweet",
+  "published_at": "2026-06-02T23:05:46+00:00",
+  "snippet": "We've updated /fork in Claude Code /fork now runs a background agent with your exact context (system prompt, tools, history, model) and prompt cache. The result gets returned to your session. /branch (the old /fork) still copies the transcript to a new session you drive. Video",
+  "source_id": "x-demishassabis",
+  "title": "We've updated /fork in Claude Code /fork now runs a background agent with your e",
+  "top_terms": [
+    [
+      "fork",
+      5
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "agent with",
+      2
+    ],
+    [
+      "agent with your",
+      2
+    ],
+    [
+      "background",
+      2
+    ],
+    [
+      "background agent",
+      2
+    ],
+    [
+      "background agent with",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "claude code fork",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code fork",
+      2
+    ],
+    [
+      "code fork now",
+      2
+    ],
+    [
+      "fork in",
+      2
+    ],
+    [
+      "fork in claude",
+      2
+    ],
+    [
+      "fork now",
+      2
+    ],
+    [
+      "fork now runs",
+      2
+    ],
+    [
+      "in claude",
+      2
+    ],
+    [
+      "in claude code",
+      2
+    ],
+    [
+      "now runs",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2061947411141169494",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2061947411141169494",
+  "via_source_id": null
+}

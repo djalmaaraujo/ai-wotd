@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--f6175c07",
+  "author": "Claude Devs",
+  "content_chars": 241,
+  "content_sha256": "912a0647d31a47d1d32444cb42d75f344504631654040f66a6fa7c9cb19c2a6d",
+  "content_tokens": 60,
+  "fetched_at": "2026-06-03T08:02:10Z",
+  "kind": "tweet",
+  "published_at": "2026-06-02T18:27:21+00:00",
+  "snippet": "For interactive login, the CLI supports \"ant auth login\". This runs a browser OAuth flow, scopes the token to a workspace, and stores it for you. That one credential is then used by the CLI (and even the SDKs) to authenticate your API calls.",
+  "source_id": "x-demishassabis",
+  "title": "For interactive login, the CLI supports \"ant auth login\". This runs a browser OA",
+  "top_terms": [
+    [
+      "login",
+      4
+    ],
+    [
+      "cli",
+      3
+    ],
+    [
+      "the cli",
+      3
+    ],
+    [
+      "ant",
+      2
+    ],
+    [
+      "ant auth",
+      2
+    ],
+    [
+      "ant auth login",
+      2
+    ],
+    [
+      "auth",
+      2
+    ],
+    [
+      "auth login",
+      2
+    ],
+    [
+      "auth login this",
+      2
+    ],
+    [
+      "browser",
+      2
+    ],
+    [
+      "cli supports",
+      2
+    ],
+    [
+      "cli supports ant",
+      2
+    ],
+    [
+      "for interactive",
+      2
+    ],
+    [
+      "for interactive login",
+      2
+    ],
+    [
+      "interactive",
+      2
+    ],
+    [
+      "interactive login",
+      2
+    ],
+    [
+      "interactive login the",
+      2
+    ],
+    [
+      "login the",
+      2
+    ],
+    [
+      "login the cli",
+      2
+    ],
+    [
+      "login this",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2061877344772722848",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2061877344772722848",
+  "via_source_id": null
+}

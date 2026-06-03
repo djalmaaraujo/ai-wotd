@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "balance",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "hands",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "hands of",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "the hands",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "the hands of",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 3.119162,
+      "term": "best",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 2.079442,
+      "term": "lead",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 4.7,
+      "df_today": 2,
+      "score": 1.327303,
+      "term": "tools",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 2.5,
+      "df_today": 2,
+      "score": 1.318335,
+      "term": "right",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--e39aab1c",
+        "x-sama--0219d071"
+      ],
+      "avg_tf_baseline": 9.8571,
+      "df_today": 2,
+      "score": 0.632874,
+      "term": "models",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-03",
+  "evidence_article_ids": [
+    "codenewsletter--e39aab1c",
+    "x-sama--0219d071"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "models",
+      "tools",
+      "hands of",
+      "the hands of",
+      "balance"
+    ]
+  },
+  "score": 0.632874,
+  "word": "models"
+}

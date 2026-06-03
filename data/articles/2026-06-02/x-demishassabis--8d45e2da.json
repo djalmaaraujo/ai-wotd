@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--8d45e2da",
+  "author": "Claude Devs",
+  "content_chars": 272,
+  "content_sha256": "3ae93a635421fe64ca16ec026b855f763884cb0ec63c1c68f59f44be03ecf9df",
+  "content_tokens": 68,
+  "fetched_at": "2026-06-03T08:02:10Z",
+  "kind": "tweet",
+  "published_at": "2026-06-02T18:27:23+00:00",
+  "snippet": "The CLI can kick off a Managed Agents session, send it an event, and the agent goes to work: reasoning, calling tools, working toward an answer. When it's done (or stuck), pull the trace: every event, every tool call, every decision is retrievable from the same CLI. Video",
+  "source_id": "x-demishassabis",
+  "title": "The CLI can kick off a Managed Agents session, send it an event, and the agent g",
+  "top_terms": [
+    [
+      "cli",
+      3
+    ],
+    [
+      "event",
+      3
+    ],
+    [
+      "every",
+      3
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "agents session",
+      2
+    ],
+    [
+      "agents session send",
+      2
+    ],
+    [
+      "an event",
+      2
+    ],
+    [
+      "an event and",
+      2
+    ],
+    [
+      "and the agent",
+      2
+    ],
+    [
+      "can kick",
+      2
+    ],
+    [
+      "can kick off",
+      2
+    ],
+    [
+      "cli can",
+      2
+    ],
+    [
+      "cli can kick",
+      2
+    ],
+    [
+      "event and",
+      2
+    ],
+    [
+      "event and the",
+      2
+    ],
+    [
+      "it an event",
+      2
+    ],
+    [
+      "kick",
+      2
+    ],
+    [
+      "kick off",
+      2
+    ],
+    [
+      "managed",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2061877351253004619",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2061877351253004619",
+  "via_source_id": null
+}
