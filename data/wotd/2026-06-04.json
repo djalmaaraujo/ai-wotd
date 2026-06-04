@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "devin",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "devin desktop",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.876392,
+      "term": "box",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 1.6667,
+      "df_today": 2,
+      "score": 21.581057,
+      "term": "local",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "git",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "offline",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "the agentic",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 2.25,
+      "df_today": 2,
+      "score": 15.985968,
+      "term": "live",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 1.6667,
+      "df_today": 2,
+      "score": 13.100482,
+      "term": "rules",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--d360b2b0",
+        "codenewsletter--9ee3b244"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "alongside",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-04",
+  "evidence_article_ids": [
+    "aibreakfast--d360b2b0",
+    "codenewsletter--9ee3b244"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "the agentic",
+      "agents",
+      "agent",
+      "code review",
+      "codex"
+    ]
+  },
+  "score": 19.313255,
+  "word": "the agentic"
+}
