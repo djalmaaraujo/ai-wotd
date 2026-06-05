@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "end",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "lot",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "the end",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "lot of",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "useful",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "worse",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 10.917068,
+      "term": "humans",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 3.2,
+      "df_today": 2,
+      "score": 9.714031,
+      "term": "better",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 9.656627,
+      "term": "write",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--da6d7701",
+        "one-useful-thing--4b65224c"
+      ],
+      "avg_tf_baseline": 5.5,
+      "df_today": 2,
+      "score": 7.45472,
+      "term": "work",
+      "tf_today": 11
+    }
+  ],
+  "date": "2026-06-05",
+  "evidence_article_ids": [
+    "codenewsletter--da6d7701",
+    "one-useful-thing--4b65224c"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "writing process",
+      "collection",
+      "code",
+      "process",
+      "results"
+    ]
+  },
+  "score": 6.591674,
+  "word": "writing process"
+}
