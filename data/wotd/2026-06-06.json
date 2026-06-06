@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "ai-native",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "gemma",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "an ai-native",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "finding",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "for every",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "ios",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "laptops",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--6e307e26",
+        "x-simonw--c7e96096"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "looking",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--0f14b6cd",
+        "codenewsletter--6e307e26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "online",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--6e307e26",
+        "x-simonw--c7e96096"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "solution",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-06",
+  "evidence_article_ids": [
+    "aibreakfast--0f14b6cd",
+    "codenewsletter--6e307e26"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "anthropic",
+      "ai-native",
+      "an ai-native",
+      "gemma",
+      "claude now"
+    ]
+  },
+  "score": 7.314016,
+  "word": "anthropic"
+}
