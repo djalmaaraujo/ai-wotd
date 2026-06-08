@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--984a6163",
+  "author": "Boris Cherny",
+  "content_chars": 1015,
+  "content_sha256": "7d229592a0e3070af4e9be03528cf1180e2a0d17cc5f13c74c15fa9fb7885fd4",
+  "content_tokens": 253,
+  "fetched_at": "2026-06-08T08:05:51Z",
+  "kind": "tweet",
+  "published_at": "2026-06-08T01:16:33+00:00",
+  "snippet": "Seeing a number of benchmarks showing Opus is the best model for long-running work. Five tips for running Opus autonomously for hours/days: 1. Use auto mode for permissions, so Claude doesn’t ask for approval 2. Use dynamic workflows, to have Claude orchestrate…",
+  "source_id": "x-bcherny",
+  "title": "Seeing a number of benchmarks showing Opus is the best model for long-running wo",
+  "top_terms": [
+    [
+      "claude",
+      6
+    ],
+    [
+      "work",
+      4
+    ],
+    [
+      "opus",
+      3
+    ],
+    [
+      "rishi",
+      3
+    ],
+    [
+      "way",
+      3
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "benchmarks",
+      2
+    ],
+    [
+      "benchmarks showing",
+      2
+    ],
+    [
+      "benchmarks showing opus",
+      2
+    ],
+    [
+      "best",
+      2
+    ],
+    [
+      "best model",
+      2
+    ],
+    [
+      "best model for",
+      2
+    ],
+    [
+      "build",
+      2
+    ],
+    [
+      "desai2",
+      2
+    ],
+    [
+      "done",
+      2
+    ],
+    [
+      "done use",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "for long-running",
+      2
+    ],
+    [
+      "is the best",
+      2
+    ],
+    [
+      "long-running",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2063792263067754658",
+  "url_canonical": "https://x.com/bcherny/status/2063792263067754658",
+  "via_source_id": null
+}
