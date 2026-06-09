@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--7786430e",
+  "author": "Hugging Face Blog",
+  "content_chars": 13376,
+  "content_sha256": "037ce27edd2d62de623d8277d6bf23ab85f7232bd94eee263765fe2942bfb2c7",
+  "content_tokens": 3344,
+  "fetched_at": "2026-06-09T07:32:42Z",
+  "kind": "article",
+  "published_at": "2024-04-16T00:00:00+00:00",
+  "snippet": "Running Privacy-Preserving Inferences on Hugging Face Endpoints Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Running Privacy-Preserving Inferences on Hugging Face Endpoints",
+  "top_terms": [
+    [
+      "models",
+      26
+    ],
+    [
+      "endpoint",
+      23
+    ],
+    [
+      "model",
+      22
+    ],
+    [
+      "hugging",
+      20
+    ],
+    [
+      "pre-compiled",
+      20
+    ],
+    [
+      "face",
+      19
+    ],
+    [
+      "hugging face",
+      19
+    ],
+    [
+      "inference",
+      16
+    ],
+    [
+      "endpoints",
+      15
+    ],
+    [
+      "prediction",
+      15
+    ],
+    [
+      "ml",
+      14
+    ],
+    [
+      "fhe",
+      13
+    ],
+    [
+      "encrypted",
+      12
+    ],
+    [
+      "available",
+      11
+    ],
+    [
+      "pre-compiled model",
+      11
+    ],
+    [
+      "py",
+      11
+    ],
+    [
+      "seconds",
+      10
+    ],
+    [
+      "zama-fhe",
+      10
+    ],
+    [
+      "concrete",
+      9
+    ],
+    [
+      "inferences",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/fhe-endpoints",
+  "url_canonical": "https://huggingface.co/blog/fhe-endpoints",
+  "via_source_id": null
+}

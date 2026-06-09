@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--60a49fea",
+  "author": "Hugging Face Blog",
+  "content_chars": 16702,
+  "content_sha256": "11580e047b6f674e6d33fbbda3c4f64d2196258303e646fc5e953e80d03429fc",
+  "content_tokens": 4175,
+  "fetched_at": "2026-06-09T07:32:38Z",
+  "kind": "article",
+  "published_at": "2024-05-16T00:00:00+00:00",
+  "snippet": "Unlocking Longer Generation with Key-Value Cache Quantization Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Unlocking Longer Generation with Key-Value Cache Quantization",
+  "top_terms": [
+    [
+      "cache",
+      58
+    ],
+    [
+      "quantization",
+      44
+    ],
+    [
+      "kv",
+      31
+    ],
+    [
+      "memory",
+      31
+    ],
+    [
+      "kv cache",
+      30
+    ],
+    [
+      "generation",
+      19
+    ],
+    [
+      "precision",
+      18
+    ],
+    [
+      "model",
+      17
+    ],
+    [
+      "tokens",
+      17
+    ],
+    [
+      "cache quantization",
+      16
+    ],
+    [
+      "quantized",
+      14
+    ],
+    [
+      "key-value",
+      12
+    ],
+    [
+      "kv cache quantization",
+      12
+    ],
+    [
+      "values",
+      12
+    ],
+    [
+      "keys",
+      11
+    ],
+    [
+      "token",
+      11
+    ],
+    [
+      "key-value cache",
+      10
+    ],
+    [
+      "models",
+      10
+    ],
+    [
+      "and values",
+      9
+    ],
+    [
+      "quanto",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/kv-cache-quantization",
+  "url_canonical": "https://huggingface.co/blog/kv-cache-quantization",
+  "via_source_id": null
+}

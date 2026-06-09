@@ -1459,6 +1459,10 @@
     "article_id": "aibreakfast--00bf7baf",
     "first_seen_date": "2026-04-17"
   },
+  "https://aibreakfast.beehiiv.com/p/openai-plans-massive-chatgpt-agent-superapp": {
+    "article_id": "aibreakfast--ff17f7d7",
+    "first_seen_date": "2026-06-09"
+  },
   "https://aibreakfast.beehiiv.com/p/openai-poised-for-o3-mini-release": {
     "article_id": "aibreakfast--46837327",
     "first_seen_date": "2026-04-17"
@@ -2604,6 +2608,10 @@
     "article_id": "codenewsletter--58f587db",
     "first_seen_date": "2026-04-14"
   },
+  "https://codenewsletter.ai/p/ycombinator-drops-paxel-openai-turns-chatgpt-into-a-coding-super-app": {
+    "article_id": "codenewsletter--d0d29b2d",
+    "first_seen_date": "2026-06-09"
+  },
   "https://codenewsletter.ai/p/zyphra-drops-zaya1-8b-anthropic-secures-a-major-compute-boost": {
     "article_id": "codenewsletter--e3e9511c",
     "first_seen_date": "2026-05-08"
@@ -3175,6 +3183,10 @@
     "article_id": "huggingface-blog--6139d846",
     "first_seen_date": "2026-05-26"
   },
+  "https://huggingface.co/blog/agents": {
+    "article_id": "huggingface-blog--1cb9fd03",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/ai-action-wh-2025": {
     "article_id": "huggingface-blog--6d4bed95",
     "first_seen_date": "2026-05-10"
@@ -3223,6 +3235,14 @@
     "article_id": "huggingface-blog--ac3ce7b6",
     "first_seen_date": "2026-05-11"
   },
+  "https://huggingface.co/blog/asr-diarization": {
+    "article_id": "huggingface-blog--197be590",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/assisted-generation-support-gaudi": {
+    "article_id": "huggingface-blog--4ae8aafc",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/async-rl-training-landscape": {
     "article_id": "huggingface-blog--bc06f358",
     "first_seen_date": "2026-04-13"
@@ -3250,6 +3270,10 @@
   "https://huggingface.co/blog/bamba": {
     "article_id": "huggingface-blog--a16891ba",
     "first_seen_date": "2026-05-11"
+  },
+  "https://huggingface.co/blog/beating-gaia": {
+    "article_id": "huggingface-blog--bfabcb5d",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/bedrock-marketplace": {
     "article_id": "huggingface-blog--6440d015",
@@ -3319,6 +3343,10 @@
     "article_id": "huggingface-blog--01b380af",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel": {
+    "article_id": "huggingface-blog--40e56a93",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/custom-cuda-kernels-agent-skills": {
     "article_id": "huggingface-blog--86293f58",
     "first_seen_date": "2026-04-13"
@@ -3359,9 +3387,17 @@
     "article_id": "huggingface-blog--06e9c8e3",
     "first_seen_date": "2026-04-25"
   },
+  "https://huggingface.co/blog/deepspeed-to-fsdp-and-back": {
+    "article_id": "huggingface-blog--1d9f1fc1",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/dell-ai-applications": {
     "article_id": "huggingface-blog--631e6067",
     "first_seen_date": "2026-05-06"
+  },
+  "https://huggingface.co/blog/dell-enterprise-hub": {
+    "article_id": "huggingface-blog--548ece59",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/delta-weight-sync": {
     "article_id": "huggingface-blog--13b679d5",
@@ -3374,6 +3410,10 @@
   "https://huggingface.co/blog/designing-positional-encoding": {
     "article_id": "huggingface-blog--a56e0ea2",
     "first_seen_date": "2026-05-11"
+  },
+  "https://huggingface.co/blog/dibt": {
+    "article_id": "huggingface-blog--213e6794",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/diffusers-quantization": {
     "article_id": "huggingface-blog--95f9cde2",
@@ -3415,6 +3455,14 @@
     "article_id": "huggingface-blog--8ea468e0",
     "first_seen_date": "2026-05-10"
   },
+  "https://huggingface.co/blog/enterprise-hub-aws-marketplace": {
+    "article_id": "huggingface-blog--38637597",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/ethics-soc-6": {
+    "article_id": "huggingface-blog--cdd8e9bf",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/ethics-soc-7": {
     "article_id": "huggingface-blog--4863adea",
     "first_seen_date": "2026-05-11"
@@ -3434,6 +3482,14 @@
   "https://huggingface.co/blog/evaleval/eval-costs-bottleneck": {
     "article_id": "huggingface-blog--6feabe2b",
     "first_seen_date": "2026-04-30"
+  },
+  "https://huggingface.co/blog/evaluation-structured-outputs": {
+    "article_id": "huggingface-blog--adcd6af6",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/falcon2-11b": {
+    "article_id": "huggingface-blog--d52baa0a",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/falcon3": {
     "article_id": "huggingface-blog--efbdd3d8",
@@ -3459,6 +3515,10 @@
     "article_id": "huggingface-blog--fd7ea2f2",
     "first_seen_date": "2026-05-10"
   },
+  "https://huggingface.co/blog/fhe-endpoints": {
+    "article_id": "huggingface-blog--7786430e",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/filbench": {
     "article_id": "huggingface-blog--99664c67",
     "first_seen_date": "2026-04-29"
@@ -3466,6 +3526,10 @@
   "https://huggingface.co/blog/fine-video": {
     "article_id": "huggingface-blog--1a99efe7",
     "first_seen_date": "2026-05-12"
+  },
+  "https://huggingface.co/blog/finetune-florence2": {
+    "article_id": "huggingface-blog--624a634f",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/fireworks-ai": {
     "article_id": "huggingface-blog--7b7b1ac2",
@@ -3503,6 +3567,10 @@
     "article_id": "huggingface-blog--c9d96cb2",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/gemma2": {
+    "article_id": "huggingface-blog--f69f0a8b",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/gemma3": {
     "article_id": "huggingface-blog--1f23b318",
     "first_seen_date": "2026-05-10"
@@ -3526,6 +3594,10 @@
   "https://huggingface.co/blog/google-cloud": {
     "article_id": "huggingface-blog--918cebe1",
     "first_seen_date": "2026-04-21"
+  },
+  "https://huggingface.co/blog/google-cloud-model-garden": {
+    "article_id": "huggingface-blog--c3ea1c60",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/gpt-oss-on-intel-xeon": {
     "article_id": "huggingface-blog--5687f7b8",
@@ -3567,6 +3639,10 @@
     "article_id": "huggingface-blog--db7a4ff1",
     "first_seen_date": "2026-04-29"
   },
+  "https://huggingface.co/blog/gradio-reload": {
+    "article_id": "huggingface-blog--d41966d3",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/gradio-vton-mcp": {
     "article_id": "huggingface-blog--a28c6680",
     "first_seen_date": "2026-04-29"
@@ -3602,6 +3678,10 @@
   "https://huggingface.co/blog/hugging-science/ai-for-food-allergies": {
     "article_id": "huggingface-blog--69e2179c",
     "first_seen_date": "2026-04-21"
+  },
+  "https://huggingface.co/blog/huggingface-amd-mi300": {
+    "article_id": "huggingface-blog--4e25082c",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/huggingface-amd-turin": {
     "article_id": "huggingface-blog--5de48dfe",
@@ -3687,6 +3767,10 @@
     "article_id": "huggingface-blog--a4ade685",
     "first_seen_date": "2026-04-16"
   },
+  "https://huggingface.co/blog/idefics2": {
+    "article_id": "huggingface-blog--90dac3b3",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/iisc-huggingface-collab": {
     "article_id": "huggingface-blog--2f29328d",
     "first_seen_date": "2026-05-10"
@@ -3735,6 +3819,10 @@
     "article_id": "huggingface-blog--b02385ce",
     "first_seen_date": "2026-04-29"
   },
+  "https://huggingface.co/blog/inferentia-inference-endpoints": {
+    "article_id": "huggingface-blog--aad3e422",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/infini-attention": {
     "article_id": "huggingface-blog--2788852a",
     "first_seen_date": "2026-05-12"
@@ -3771,6 +3859,10 @@
     "article_id": "huggingface-blog--43aeb4b9",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/jat": {
+    "article_id": "huggingface-blog--fdf5aec6",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/jfrog": {
     "article_id": "huggingface-blog--9e4cff4f",
     "first_seen_date": "2026-05-10"
@@ -3803,6 +3895,10 @@
     "article_id": "huggingface-blog--0a0db35c",
     "first_seen_date": "2026-05-06"
   },
+  "https://huggingface.co/blog/kv-cache-quantization": {
+    "article_id": "huggingface-blog--60a49fea",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b": {
     "article_id": "huggingface-blog--0b9a4c7f",
     "first_seen_date": "2026-05-09"
@@ -3814,6 +3910,10 @@
   "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper": {
     "article_id": "huggingface-blog--83928338",
     "first_seen_date": "2026-05-10"
+  },
+  "https://huggingface.co/blog/langchain": {
+    "article_id": "huggingface-blog--51be5c83",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/layerskip": {
     "article_id": "huggingface-blog--55c1f784",
@@ -3827,9 +3927,29 @@
     "article_id": "huggingface-blog--1ae215e9",
     "first_seen_date": "2026-05-10"
   },
+  "https://huggingface.co/blog/leaderboard-arabic": {
+    "article_id": "huggingface-blog--54d55de3",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/leaderboard-arabic-v2": {
     "article_id": "huggingface-blog--951a7187",
     "first_seen_date": "2026-05-10"
+  },
+  "https://huggingface.co/blog/leaderboard-artificial-analysis": {
+    "article_id": "huggingface-blog--d35660d7",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/leaderboard-artificial-analysis2": {
+    "article_id": "huggingface-blog--6f89a2f4",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/leaderboard-bigcodebench": {
+    "article_id": "huggingface-blog--c6afc586",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/leaderboard-cot": {
+    "article_id": "huggingface-blog--a421def7",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/leaderboard-emissions-analysis": {
     "article_id": "huggingface-blog--44878efa",
@@ -3839,9 +3959,25 @@
     "article_id": "huggingface-blog--332ba580",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/leaderboard-hebrew": {
+    "article_id": "huggingface-blog--f4ab1ffe",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/leaderboard-japanese": {
     "article_id": "huggingface-blog--a4d27770",
     "first_seen_date": "2026-05-11"
+  },
+  "https://huggingface.co/blog/leaderboard-livecodebench": {
+    "article_id": "huggingface-blog--abe22c72",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/leaderboard-llamaguard": {
+    "article_id": "huggingface-blog--cf917cde",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/leaderboard-medicalllm": {
+    "article_id": "huggingface-blog--67ec85fe",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/lematerial": {
     "article_id": "huggingface-blog--3cd07111",
@@ -3882,6 +4018,10 @@
   "https://huggingface.co/blog/llama-guard-4": {
     "article_id": "huggingface-blog--d1f51bdb",
     "first_seen_date": "2026-05-06"
+  },
+  "https://huggingface.co/blog/llama3": {
+    "article_id": "huggingface-blog--cff4f33a",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/llama31": {
     "article_id": "huggingface-blog--03393f11",
@@ -3931,6 +4071,10 @@
     "article_id": "huggingface-blog--bdf1d2e9",
     "first_seen_date": "2026-04-29"
   },
+  "https://huggingface.co/blog/microsoft-collaboration": {
+    "article_id": "huggingface-blog--a7fb5efe",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/microsoft/diff-attn-v2": {
     "article_id": "huggingface-blog--68db180e",
     "first_seen_date": "2026-04-13"
@@ -3974,6 +4118,10 @@
   "https://huggingface.co/blog/nanovlm": {
     "article_id": "huggingface-blog--65271f15",
     "first_seen_date": "2026-05-06"
+  },
+  "https://huggingface.co/blog/npc-gigax-cubzh": {
+    "article_id": "huggingface-blog--6429e724",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/nvidia-physical-ai": {
     "article_id": "huggingface-blog--5556f5e1",
@@ -4131,6 +4279,10 @@
     "article_id": "huggingface-blog--57819d9a",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/openenv-agentic-rl": {
+    "article_id": "huggingface-blog--b95297c3",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/openenv-turing": {
     "article_id": "huggingface-blog--284d3681",
     "first_seen_date": "2026-04-13"
@@ -4150,6 +4302,10 @@
   "https://huggingface.co/blog/pai-6-month": {
     "article_id": "huggingface-blog--40117383",
     "first_seen_date": "2026-05-06"
+  },
+  "https://huggingface.co/blog/paligemma": {
+    "article_id": "huggingface-blog--67588dea",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/paligemma2": {
     "article_id": "huggingface-blog--fc5a4458",
@@ -4171,9 +4327,17 @@
     "article_id": "huggingface-blog--123c2492",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/prezi-case-study": {
+    "article_id": "huggingface-blog--f4640ef9",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/protectai": {
     "article_id": "huggingface-blog--5ccab0b2",
     "first_seen_date": "2026-05-11"
+  },
+  "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo": {
+    "article_id": "huggingface-blog--c0891958",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/pycharm-integration": {
     "article_id": "huggingface-blog--13032858",
@@ -4219,6 +4383,10 @@
     "article_id": "huggingface-blog--33bfe80d",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/ryght-case-study": {
+    "article_id": "huggingface-blog--dee69b6a",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/s2s_endpoint": {
     "article_id": "huggingface-blog--26955aae",
     "first_seen_date": "2026-05-11"
@@ -4226,6 +4394,14 @@
   "https://huggingface.co/blog/safetensors-joins-pytorch-foundation": {
     "article_id": "huggingface-blog--cbd7f254",
     "first_seen_date": "2026-04-13"
+  },
+  "https://huggingface.co/blog/sagemaker-huggingface-embedding": {
+    "article_id": "huggingface-blog--425273c6",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/sc2-instruct": {
+    "article_id": "huggingface-blog--635dfdf8",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/scaling-secrets-management": {
     "article_id": "huggingface-blog--5691bab1",
@@ -4238,6 +4414,10 @@
   "https://huggingface.co/blog/screensuite": {
     "article_id": "huggingface-blog--a6758491",
     "first_seen_date": "2026-05-06"
+  },
+  "https://huggingface.co/blog/sd3": {
+    "article_id": "huggingface-blog--f790270d",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/sd3-5": {
     "article_id": "huggingface-blog--a6e035a2",
@@ -4295,6 +4475,14 @@
     "article_id": "huggingface-blog--25a4f33b",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/space-secrets-disclosure": {
+    "article_id": "huggingface-blog--2b30434a",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/spaces-dev-mode": {
+    "article_id": "huggingface-blog--741c5472",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/sql-console": {
     "article_id": "huggingface-blog--bb220c75",
     "first_seen_date": "2026-05-12"
@@ -4334,6 +4522,10 @@
   "https://huggingface.co/blog/textquests": {
     "article_id": "huggingface-blog--e27e3485",
     "first_seen_date": "2026-04-29"
+  },
+  "https://huggingface.co/blog/tgi-benchmarking": {
+    "article_id": "huggingface-blog--048c1a83",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/tgi-multi-backend": {
     "article_id": "huggingface-blog--ff5023b1",
@@ -4431,6 +4623,10 @@
     "article_id": "huggingface-blog--128c43d4",
     "first_seen_date": "2026-05-10"
   },
+  "https://huggingface.co/blog/train-sentence-transformers": {
+    "article_id": "huggingface-blog--f8dd5d6f",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/train-sparse-encoder": {
     "article_id": "huggingface-blog--82e17c77",
     "first_seen_date": "2026-05-06"
@@ -4442,6 +4638,10 @@
   "https://huggingface.co/blog/transformers-backend-sglang": {
     "article_id": "huggingface-blog--d57713c8",
     "first_seen_date": "2026-05-06"
+  },
+  "https://huggingface.co/blog/transformers-docs-redesign": {
+    "article_id": "huggingface-blog--ee873901",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/transformers-model-definition": {
     "article_id": "huggingface-blog--8749711e",
@@ -4539,6 +4739,10 @@
     "article_id": "huggingface-blog--60e41824",
     "first_seen_date": "2026-05-06"
   },
+  "https://huggingface.co/blog/vlms": {
+    "article_id": "huggingface-blog--5bfe0fac",
+    "first_seen_date": "2026-06-09"
+  },
   "https://huggingface.co/blog/vlms-2025": {
     "article_id": "huggingface-blog--77980799",
     "first_seen_date": "2026-05-06"
@@ -4578,6 +4782,10 @@
   "https://huggingface.co/blog/xethub-joins-hf": {
     "article_id": "huggingface-blog--c874a76c",
     "first_seen_date": "2026-05-12"
+  },
+  "https://huggingface.co/blog/xlscout-case-study": {
+    "article_id": "huggingface-blog--83d98486",
+    "first_seen_date": "2026-06-09"
   },
   "https://huggingface.co/blog/zero-shot-vqa-docmatix": {
     "article_id": "huggingface-blog--28d7a514",
@@ -4851,6 +5059,10 @@
     "article_id": "openai-blog--e8cd95cd",
     "first_seen_date": "2026-04-30"
   },
+  "https://openai.com/index/built-to-benefit-everyone-our-plan": {
+    "article_id": "openai-blog--e139b91f",
+    "first_seen_date": "2026-06-09"
+  },
   "https://openai.com/index/chatgpt-memory-dreaming": {
     "article_id": "openai-blog--9dd1e57c",
     "first_seen_date": "2026-06-05"
@@ -4910,6 +5122,10 @@
   "https://openai.com/index/dell-codex-enterprise-partnership": {
     "article_id": "openai-blog--be660c01",
     "first_seen_date": "2026-05-19"
+  },
+  "https://openai.com/index/economic-research-exchange": {
+    "article_id": "openai-blog--ffcdab90",
+    "first_seen_date": "2026-06-09"
   },
   "https://openai.com/index/election-safeguards-2026": {
     "article_id": "openai-blog--6bf0486c",
@@ -5126,6 +5342,10 @@
   "https://openai.com/index/openai-pwc-finance-collaboration": {
     "article_id": "openai-blog--36ccc78d",
     "first_seen_date": "2026-05-05"
+  },
+  "https://openai.com/index/openai-submits-confidential-s-1": {
+    "article_id": "openai-blog--c6adc98c",
+    "first_seen_date": "2026-06-09"
   },
   "https://openai.com/index/openai-to-acquire-astral": {
     "article_id": "openai-blog--8106933c",
@@ -6811,6 +7031,22 @@
     "article_id": "x-demishassabis--ab00f68d",
     "first_seen_date": "2026-06-04"
   },
+  "https://x.com/ClaudeDevs/status/2064032814392352816": {
+    "article_id": "x-demishassabis--f99149a6",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ClaudeDevs/status/2064072801062121906": {
+    "article_id": "x-demishassabis--594a7ff8",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ClaudeDevs/status/2064072803721339014": {
+    "article_id": "x-demishassabis--bd1d69af",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ClaudeDevs/status/2064072805663256997": {
+    "article_id": "x-demishassabis--b777f8c1",
+    "first_seen_date": "2026-06-09"
+  },
   "https://x.com/DrJimFan/status/2019112603637920237": {
     "article_id": "x-drjimfan--594658a3",
     "first_seen_date": "2026-04-14"
@@ -7459,9 +7695,25 @@
     "article_id": "x-bcherny--ea044186",
     "first_seen_date": "2026-06-06"
   },
+  "https://x.com/bcherny/status/2063756816006410522": {
+    "article_id": "x-bcherny--3ddae798",
+    "first_seen_date": "2026-06-09"
+  },
   "https://x.com/bcherny/status/2063792263067754658": {
     "article_id": "x-bcherny--984a6163",
     "first_seen_date": "2026-06-08"
+  },
+  "https://x.com/bcherny/status/2063856439446389184": {
+    "article_id": "x-bcherny--c398da13",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/bcherny/status/2064034799711588805": {
+    "article_id": "x-bcherny--535dbf36",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/bcherny/status/2064137133980586260": {
+    "article_id": "x-bcherny--633508a6",
+    "first_seen_date": "2026-06-09"
   },
   "https://x.com/claudeai/status/2039836891508261106": {
     "article_id": "x-claudeai--8e2be9fa",
@@ -7995,6 +8247,10 @@
     "article_id": "x-claudeai--63bd2e70",
     "first_seen_date": "2026-06-06"
   },
+  "https://x.com/claudeai/status/2064139073590104402": {
+    "article_id": "x-claudeai--80f34d80",
+    "first_seen_date": "2026-06-09"
+  },
   "https://x.com/demishassabis/status/2039736628659269901": {
     "article_id": "x-demishassabis--661400a2",
     "first_seen_date": "2026-04-14"
@@ -8386,6 +8642,10 @@
   "https://x.com/demishassabis/status/2062241713398149524": {
     "article_id": "x-demishassabis--9859a511",
     "first_seen_date": "2026-06-04"
+  },
+  "https://x.com/demishassabis/status/2063977058170999203": {
+    "article_id": "x-demishassabis--fdd80501",
+    "first_seen_date": "2026-06-09"
   },
   "https://x.com/karpathy/status/2034321875506196585": {
     "article_id": "x-karpathy--107688fb",
@@ -9239,6 +9499,10 @@
     "article_id": "x-sama--30b01ef9",
     "first_seen_date": "2026-06-08"
   },
+  "https://x.com/sama/status/2064088940932641225": {
+    "article_id": "x-sama--236e1c5c",
+    "first_seen_date": "2026-06-09"
+  },
   "https://x.com/simonw/status/2040213120992596388": {
     "article_id": "x-simonw--7c4c4f0f",
     "first_seen_date": "2026-04-14"
@@ -9938,6 +10202,10 @@
   "https://x.com/simonw/status/2063117069290446860": {
     "article_id": "x-simonw--cd615209",
     "first_seen_date": "2026-06-06"
+  },
+  "https://x.com/simonw/status/2064094592300134652": {
+    "article_id": "x-simonw--4b9b4cda",
+    "first_seen_date": "2026-06-09"
   },
   "https://x.com/trq212/status/2041654973491245509": {
     "article_id": "x-trq212--3f691ebd",
@@ -11739,6 +12007,10 @@
     "article_id": "x-ylecun--66028d6a",
     "first_seen_date": "2026-06-08"
   },
+  "https://x.com/ylecun/status/2063171227288510532": {
+    "article_id": "x-ylecun--733dc838",
+    "first_seen_date": "2026-06-09"
+  },
   "https://x.com/ylecun/status/2063270993116922253": {
     "article_id": "x-ylecun--d98e83fc",
     "first_seen_date": "2026-06-08"
@@ -11758,5 +12030,25 @@
   "https://x.com/ylecun/status/2063670045075484876": {
     "article_id": "x-ylecun--05b09f15",
     "first_seen_date": "2026-06-08"
+  },
+  "https://x.com/ylecun/status/2063887004249595937": {
+    "article_id": "x-ylecun--b804dbc1",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ylecun/status/2063909404596965602": {
+    "article_id": "x-ylecun--318ef8d4",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ylecun/status/2064023908341190967": {
+    "article_id": "x-ylecun--da184359",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ylecun/status/2064030283737727246": {
+    "article_id": "x-ylecun--d0ff6598",
+    "first_seen_date": "2026-06-09"
+  },
+  "https://x.com/ylecun/status/2064039913843286318": {
+    "article_id": "x-ylecun--2a845acc",
+    "first_seen_date": "2026-06-09"
   }
 }

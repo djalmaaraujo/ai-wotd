@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c0891958",
+  "author": "Hugging Face Blog",
+  "content_chars": 20991,
+  "content_sha256": "900b35edf270a71832cd07842a029d4ee218670a056e0c2d5acd1f4eb4c2eb60",
+  "content_tokens": 5247,
+  "fetched_at": "2026-06-09T07:32:35Z",
+  "kind": "article",
+  "published_at": "2024-06-12T00:00:00+00:00",
+  "snippet": "Putting RL back in RLHF Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Putting RL back in RLHF",
+  "top_terms": [
+    [
+      "reward",
+      59
+    ],
+    [
+      "rloo",
+      52
+    ],
+    [
+      "tensor",
+      46
+    ],
+    [
+      "token",
+      39
+    ],
+    [
+      "rlhf",
+      31
+    ],
+    [
+      "per token",
+      28
+    ],
+    [
+      "action",
+      26
+    ],
+    [
+      "model",
+      25
+    ],
+    [
+      "ppo",
+      25
+    ],
+    [
+      "ratio",
+      25
+    ],
+    [
+      "print",
+      23
+    ],
+    [
+      "loss",
+      20
+    ],
+    [
+      "logprob",
+      19
+    ],
+    [
+      "entire",
+      18
+    ],
+    [
+      "reinforce",
+      17
+    ],
+    [
+      "trainer",
+      17
+    ],
+    [
+      "training",
+      17
+    ],
+    [
+      "trl",
+      17
+    ],
+    [
+      "rlhf reward",
+      16
+    ],
+    [
+      "torch",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo",
+  "url_canonical": "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo",
+  "via_source_id": null
+}

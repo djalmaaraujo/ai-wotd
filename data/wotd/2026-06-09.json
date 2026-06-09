@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "chatgpt into",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "valuable",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 14.3077,
+      "df_today": 2,
+      "score": 9.884643,
+      "term": "agent",
+      "tf_today": 28
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 2.3333,
+      "df_today": 2,
+      "score": 8.8814,
+      "term": "mode",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "autonomously for",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "blocks",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "can't",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "codenewsletter--d0d29b2d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "creates",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "x-claudeai--80f34d80"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "directly from",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--ff17f7d7",
+        "x-claudeai--80f34d80"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "final",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-09",
+  "evidence_article_ids": [
+    "aibreakfast--ff17f7d7",
+    "codenewsletter--d0d29b2d"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "autonomous agents",
+      "prompt injection",
+      "agent",
+      "chatgpt",
+      "opus autonomously"
+    ]
+  },
+  "score": 4.394449,
+  "word": "autonomous agents"
+}
