@@ -1,0 +1,133 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "one-useful-thing--422d26c4",
+        "x-simonw--3c28e12d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 102.454044,
+      "term": "fable",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4",
+        "x-simonw--3c28e12d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 14.163054,
+      "term": "expensive",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "ambitious",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "one-useful-thing--422d26c4",
+        "x-simonw--3c28e12d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "claude fable",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "feels like",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "it feels",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "it feels like",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4"
+      ],
+      "avg_tf_baseline": 6.1176,
+      "df_today": 2,
+      "score": 9.549538,
+      "term": "work",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "codenewsletter--18b6d3ae",
+        "one-useful-thing--422d26c4"
+      ],
+      "avg_tf_baseline": 2.4,
+      "df_today": 2,
+      "score": 7.771225,
+      "term": "results",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "one-useful-thing--422d26c4",
+        "x-simonw--3c28e12d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "capable",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-10",
+  "evidence_article_ids": [
+    "one-useful-thing--422d26c4",
+    "x-simonw--3c28e12d"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude fable",
+      "prompt",
+      "model",
+      "research",
+      "software"
+    ]
+  },
+  "score": 11.587953,
+  "word": "claude fable"
+}

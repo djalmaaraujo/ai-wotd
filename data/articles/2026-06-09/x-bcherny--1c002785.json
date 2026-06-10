@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--1c002785",
+  "author": "Boris Cherny",
+  "content_chars": 222,
+  "content_sha256": "b87b970abee9f81def64f5c10c8006e92f089a53766342c4b06ca8c747d2b852",
+  "content_tokens": 55,
+  "fetched_at": "2026-06-10T07:48:11Z",
+  "kind": "tweet",
+  "published_at": "2026-06-09T12:42:18+00:00",
+  "snippet": "Just landed nested subagent support in Claude Code Starting to experiment more with agents kicking off agents as a way to better manage context. Capped at depth=5 to start, going out in today’s release. Lmk what you think!",
+  "source_id": "x-bcherny",
+  "title": "Just landed nested subagent support in Claude Code Starting to experiment more w",
+  "top_terms": [
+    [
+      "agents",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "claude code starting",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code starting",
+      2
+    ],
+    [
+      "code starting to",
+      2
+    ],
+    [
+      "experiment",
+      2
+    ],
+    [
+      "experiment more",
+      2
+    ],
+    [
+      "in claude",
+      2
+    ],
+    [
+      "in claude code",
+      2
+    ],
+    [
+      "just landed",
+      2
+    ],
+    [
+      "just landed nested",
+      2
+    ],
+    [
+      "landed",
+      2
+    ],
+    [
+      "landed nested",
+      2
+    ],
+    [
+      "landed nested subagent",
+      2
+    ],
+    [
+      "nested",
+      2
+    ],
+    [
+      "nested subagent",
+      2
+    ],
+    [
+      "nested subagent support",
+      2
+    ],
+    [
+      "starting",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2064327225504403752",
+  "url_canonical": "https://x.com/bcherny/status/2064327225504403752",
+  "via_source_id": null
+}

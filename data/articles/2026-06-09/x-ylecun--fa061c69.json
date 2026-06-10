@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--fa061c69",
+  "author": "Yann LeCun",
+  "content_chars": 220,
+  "content_sha256": "63e48464027d6e4fdf37d826a8717c9783e0f39e731ccbdc6f3b3ab6c56a8cb3",
+  "content_tokens": 55,
+  "fetched_at": "2026-06-10T07:48:15Z",
+  "kind": "tweet",
+  "published_at": "2026-06-09T14:56:33+00:00",
+  "snippet": "We trained language models that compress massive contexts into tiny latent representations. Latent Context Language Models (LCLMs) outperform existing KV cache compression methods on the latency/accuracy frontier. 🧵1/10",
+  "source_id": "x-ylecun",
+  "title": "We trained language models that compress massive contexts into tiny latent repre",
+  "top_terms": [
+    [
+      "language",
+      3
+    ],
+    [
+      "language models",
+      3
+    ],
+    [
+      "latent",
+      3
+    ],
+    [
+      "models",
+      3
+    ],
+    [
+      "compress",
+      2
+    ],
+    [
+      "compress massive",
+      2
+    ],
+    [
+      "compress massive contexts",
+      2
+    ],
+    [
+      "contexts",
+      2
+    ],
+    [
+      "contexts into",
+      2
+    ],
+    [
+      "contexts into tiny",
+      2
+    ],
+    [
+      "into tiny",
+      2
+    ],
+    [
+      "into tiny latent",
+      2
+    ],
+    [
+      "language models that",
+      2
+    ],
+    [
+      "massive",
+      2
+    ],
+    [
+      "massive contexts",
+      2
+    ],
+    [
+      "massive contexts into",
+      2
+    ],
+    [
+      "models that",
+      2
+    ],
+    [
+      "models that compress",
+      2
+    ],
+    [
+      "that compress",
+      2
+    ],
+    [
+      "that compress massive",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2064361011994337772",
+  "url_canonical": "https://x.com/ylecun/status/2064361011994337772",
+  "via_source_id": null
+}

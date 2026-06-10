@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--67dc78fb",
+  "author": "Claude Devs",
+  "content_chars": 295,
+  "content_sha256": "bffe32bdc2d3d583307ac29b012d207db7e31e3e6912609cbd3239a14a7c4d8d",
+  "content_tokens": 73,
+  "fetched_at": "2026-06-10T07:48:16Z",
+  "kind": "tweet",
+  "published_at": "2026-06-09T19:24:08+00:00",
+  "snippet": "We've also added refusal-fallback middleware to the Python, TypeScript, Go, Java, and C# SDKs for client-side retries. Middleware is useful for Claude API providers without support for server-side fallbacks. It detects the refusal, retries on Claude Opus 4.8, and keeps using it…",
+  "source_id": "x-demishassabis",
+  "title": "We've also added refusal-fallback middleware to the Python, TypeScript, Go, Java",
+  "top_terms": [
+    [
+      "middleware",
+      3
+    ],
+    [
+      "added",
+      2
+    ],
+    [
+      "added refusal-fallback",
+      2
+    ],
+    [
+      "added refusal-fallback middleware",
+      2
+    ],
+    [
+      "also added",
+      2
+    ],
+    [
+      "also added refusal-fallback",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "go java",
+      2
+    ],
+    [
+      "java",
+      2
+    ],
+    [
+      "middleware to",
+      2
+    ],
+    [
+      "middleware to the",
+      2
+    ],
+    [
+      "python",
+      2
+    ],
+    [
+      "python typescript",
+      2
+    ],
+    [
+      "python typescript go",
+      2
+    ],
+    [
+      "refusal-fallback",
+      2
+    ],
+    [
+      "refusal-fallback middleware",
+      2
+    ],
+    [
+      "refusal-fallback middleware to",
+      2
+    ],
+    [
+      "retries",
+      2
+    ],
+    [
+      "the python",
+      2
+    ],
+    [
+      "the python typescript",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2064428351029449214",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2064428351029449214",
+  "via_source_id": null
+}
