@@ -1,0 +1,143 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 75.937949,
+      "term": "safeguards",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 32.026865,
+      "term": "safeguards for",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 27.165686,
+      "term": "flagged",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 27.165686,
+      "term": "visible",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 22.495777,
+      "term": "classifiers",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.849215,
+      "term": "cohere",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 18.043894,
+      "term": "fallback",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 13.845414,
+      "term": "false",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 13.845414,
+      "term": "invisible",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 4,
+      "score": 11.803307,
+      "term": "requests",
+      "tf_today": 11
+    }
+  ],
+  "date": "2026-06-11",
+  "evidence_article_ids": [
+    "codenewsletter--f81501e3",
+    "x-demishassabis--d53260f6",
+    "x-simonw--c5d3eaeb"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "classifiers",
+      "false positives",
+      "frontier llm",
+      "safeguards for frontier",
+      "flagged requests"
+    ]
+  },
+  "score": 22.495777,
+  "word": "classifiers"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--d53260f6",
+  "author": "Claude Devs",
+  "content_chars": 1509,
+  "content_sha256": "943fd2df48077323d2d0c323a20cad4c8021624daacf8d2bbb9713439b4a756c",
+  "content_tokens": 377,
+  "fetched_at": "2026-06-11T08:00:56Z",
+  "kind": "tweet",
+  "published_at": "2026-06-11T05:56:30+00:00",
+  "snippet": "We’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and bio. You will see this every time it happens. On the API, any flagged…",
+  "source_id": "x-demishassabis",
+  "title": "We’re rolling out changes to make Fable 5’s safeguards for frontier LLM developm",
+  "top_terms": [
+    [
+      "safeguards",
+      8
+    ],
+    [
+      "requests",
+      4
+    ],
+    [
+      "safeguards for",
+      4
+    ],
+    [
+      "classifiers",
+      3
+    ],
+    [
+      "claude",
+      3
+    ],
+    [
+      "fable",
+      3
+    ],
+    [
+      "flagged",
+      3
+    ],
+    [
+      "visible",
+      3
+    ],
+    [
+      "api",
+      2
+    ],
+    [
+      "bio",
+      2
+    ],
+    [
+      "changes",
+      2
+    ],
+    [
+      "changes to",
+      2
+    ],
+    [
+      "changes to make",
+      2
+    ],
+    [
+      "cyber",
+      2
+    ],
+    [
+      "fallback",
+      2
+    ],
+    [
+      "fallback in",
+      2
+    ],
+    [
+      "false",
+      2
+    ],
+    [
+      "false positives",
+      2
+    ],
+    [
+      "feedback",
+      2
+    ],
+    [
+      "flagged requests",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2064949876463645026",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2064949876463645026",
+  "via_source_id": null
+}

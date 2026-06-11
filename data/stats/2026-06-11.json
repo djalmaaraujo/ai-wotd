@@ -1,0 +1,8982 @@
+{
+  "article_ids": [
+    "aibreakfast--0eb7351f",
+    "codenewsletter--f81501e3",
+    "openai-blog--0505abb1",
+    "openai-blog--3b24546d",
+    "x-bcherny--a0780243",
+    "x-bcherny--ae313b64",
+    "x-demishassabis--66adb5ab",
+    "x-demishassabis--d53260f6",
+    "x-simonw--5176977d",
+    "x-simonw--93ad63a7",
+    "x-simonw--c5d3eaeb"
+  ],
+  "date": "2026-06-11",
+  "document_count": 11,
+  "terms": {
+    "access": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "across": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "acts": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "add": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "advanced": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "agent": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "agentic": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "agents": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "ai coding": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "ai or cowork": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "allowing": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "allowing us": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "allowing us to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "already": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "also tuning": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "also tuning our": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and bio": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and bio you": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and cyber": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and cyber classifiers": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and safely": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and safely visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and we appreciate": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "anthropic": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 20
+    },
+    "anthropic's": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "any flagged": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "any flagged requests": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "api": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "api any": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "api any flagged": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "api requests": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "api requests your": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "app": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "appeal": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "appeal form": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "appeal form for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "apple": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "appreciate": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "appreciate your": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "appreciate your feedback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "architecture": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "around": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "around so": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "around so keeping": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "articl": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "as our safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "as possible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "as possible if": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "as short": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "as short as": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "at wwdc": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "automated": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "autonomous": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "available": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "average": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64",
+        "x-demishassabis--d53260f6",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 7
+    },
+    "back to": {
+      "articles": [
+        "x-bcherny--ae313b64",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "back to opus": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "balance": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "balance right": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "balance right making": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be probed": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be probed so": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be robust": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be robust which": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be targeted": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be targeted more": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "been mistakenly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "been mistakenly flagged": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "behind": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "benchmark": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "best": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "best to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "best to keep": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "billion": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "bio": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "bio and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "bio and cyber": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "bio you": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "bio you will": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "breaking": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "budget": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "build": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "openai-blog--0505abb1",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Demis Hassabis",
+        "OpenAI Blog"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "builds": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "built": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "built for": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "can be probed": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "can be targeted": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "can run": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "caret-right": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "changes": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "changes to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "changes to make": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cheaper": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "chip": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "classifiers": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "classifiers and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "classifiers and we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "classifiers to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "classifiers to trigger": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "classifiers we're": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "classifiers we're also": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-bcherny--a0780243",
+        "x-bcherny--ae313b64",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 27
+    },
+    "claude ai": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude ai or": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "claude code click": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude com": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude com en": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude fable": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Boris Cherny",
+        "Code Newsletter"
+      ],
+      "df": 3,
+      "tf": 13
+    },
+    "clean": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "clear": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "click": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "click thumbs-down": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "click thumbs-down on": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "openai-blog--3b24546d",
+        "x-bcherny--a0780243",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter",
+        "OpenAI Blog",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 30
+    },
+    "code click": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code click thumbs-down": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "codex": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "openai-blog--0505abb1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "codex to": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "openai-blog--0505abb1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "coding": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 17
+    },
+    "coding model": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cohere": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "com": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "com en": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "com en articl": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "coming": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "coming to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "coming to server-side": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "companies": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "complex": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "complex reasoning": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "content": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "openai-blog--3b24546d"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "context": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cowork": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cowork or": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cowork or file": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cursor": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cyber": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "cyber and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cyber and bio": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cyber classifiers": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cyber classifiers to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "data": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "days": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "days we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "days we wanted": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "degrade": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deploy": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "deploy fable": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deploy fable to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "design": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "desktop": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "developer": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "development": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "development visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "development visible starting": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "directly": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "directly from": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "directly to": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "do our best": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "don't": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--5176977d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "easier": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "easier to": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "easier to work": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "email": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "email and": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "en": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "en articl": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engineer": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "engineering": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engineers": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "entire": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "entirely": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "every": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "every time": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "every time it": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "execute": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "explores": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "external": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64",
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Boris Cherny",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 32
+    },
+    "fable to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable to our": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall back": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall back to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fallback": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "fallback in": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "fallback in claude": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fallback in the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "false": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "false positives": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "false positives we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "false positives while": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fast": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "faster": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "features": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "feedback": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "feedback in": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "feedback in claude": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "feedback support": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "feedback support claude": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "few days": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "few days we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "few false": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "few false positives": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "file": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "file the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "file the safeguard": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "filters": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "first": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "five": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fixes": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "flagged": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "flagged requests": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "flagged requests will": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "flagged run": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "flagged run feedback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for api": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for api requests": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for cyber": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for cyber and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for frontier": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "for frontier llm": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "for not getting": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for their refusal": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for this reason": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "form": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "form for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "form for api": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "from google": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "frontier": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "frontier llm": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "frontier llm development": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "frustrating": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "frustrating and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "frustrating and we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fully": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gemini": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "generation": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "get right": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "get right invisible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "getting": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "getting the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "getting the balance": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "github": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 3,
+      "tf": 19
+    },
+    "gpu": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "happening": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "happens": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "happens on": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "happens on the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hardware": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "harmless": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "harmless requests": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "harmless requests we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "has been mistakenly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "have in place": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "have visibility": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "have visibility into": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "help": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "openai-blog--0505abb1",
+        "openai-blog--3b24546d",
+        "x-demishassabis--d53260f6",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "OpenAI Blog",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 9
+    },
+    "help us": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "help us tune": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "home": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "home posts": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "https": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "https nitter": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "https nitter net": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "humans": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "image": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "imessage": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "improve": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "improve the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "improve the classifiers": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in claude": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "in claude ai": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in claude code": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in place": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in place and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in the next": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "including": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "inside": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "instead": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "interesting": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "into the safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "invisible": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "invisible safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "invisible safeguards can": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "invisible safeguards for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ios": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "iphone": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "is frustrating": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is frustrating and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it happens": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "it happens on": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it's": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "its first": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jailbreaks": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jailbreaks will": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jailbreaks will unfortunately": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jun": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "keep": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "keep reading": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep reading view": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep this": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep this period": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keeping": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "keeping them": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keeping them robust": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "kimi": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lab": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "laid": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "laid out": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "later": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "latest": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "launch": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "layer": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "learning": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "less": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "less often": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "less often on": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "live": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "llm": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "llm development": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llm development visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "locally": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "login": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "long": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "loops": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "mac": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "make fable": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "makes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "makes them": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "makes them easier": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "making": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "making the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "making the safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mean": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mean more": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mean more false": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--5176977d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mistakenly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mistakenly flagged": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mistakenly flagged run": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ml": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "model": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64",
+        "x-demishassabis--66adb5ab",
+        "x-simonw--5176977d",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Boris Cherny",
+        "Code Newsletter",
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 25
+    },
+    "model in": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model that": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "model's": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "models": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 3,
+      "tf": 17
+    },
+    "more caret-right": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "more false": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "more false positives": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "more narrowly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "more narrowly allowing": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "moving": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mythos": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "mythos-class": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "mythos-class model": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "narrowly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "narrowly allowing": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "narrowly allowing us": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "net": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "news": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "next": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "next few": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "next few days": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nitter": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "nitter net": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "not getting": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "not getting the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "noted": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "often": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "often on": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "often on harmless": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on harmless": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on harmless requests": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on the api": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on the fallback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open-source": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "openai": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "openai-blog--3b24546d"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "opus": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "opus the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "opus the same": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "or cowork": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "or cowork or": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "or file": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "or file the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our best": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our best to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our bio": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our bio and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our safeguards for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our users": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our users quickly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "out changes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "out changes to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "output": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "parallel": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "parameters": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "people": {
+      "articles": [
+        "openai-blog--3b24546d",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "performance": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "period": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "period as": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "period as short": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "place": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "place and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "place and why": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "policy": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "positives": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "positives we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "positives we went": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "positives while": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "positives while we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "possible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "possible if": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "possible if you": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "power": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "private": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "probed": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "probed so": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "probed so they": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "product": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "programming": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "prompt": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "public": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "quickly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "quickly and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quickly and safely": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quickly with": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quickly with very": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "re rolling": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "re rolling out": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "re sorry": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "re sorry for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reading": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "reading view": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reading view more": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reason": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reason and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reason and that": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reason for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reason for their": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reasoning": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "refusal": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "refusal coming": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "refusal coming to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reply": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reports": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "reports help": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reports help us": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "repos": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "request": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "request has": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "request has been": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requests": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 11
+    },
+    "requests we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requests we know": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requests will": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "requests will return": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requests will visibly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requests your": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requests your reports": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "research": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "return": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "right": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "right invisible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "right invisible safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "right making": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "right making the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "robust": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "robust to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "robust to jailbreaks": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "robust which": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "robust which takes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rolling": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rolling out": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rolling out changes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "routing": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rules": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "run": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 10
+    },
+    "run feedback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "run feedback in": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "running": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "running on": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "runs": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "safeguard": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguard appeal": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguard appeal form": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 17
+    },
+    "safeguards can": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "safeguards can be": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "safeguards for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "safeguards for cyber": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguards for frontier": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "safeguards for this": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguards visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguards visible makes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguards we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safeguards we have": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safely": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safely visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safely visible safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safety": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "search": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "secretly": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "see this every": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "server-side": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "server-side fallback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "server-side fallback in": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ship": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ship quickly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ship quickly with": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "short": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "short as": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "short as possible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "should have visibility": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sign": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign up": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "simon": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "simon willison": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "simply": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "skill": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "skills": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "small": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "smart": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "so keeping": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "so keeping them": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "software": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sorry": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sorry for": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sorry for not": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "specific": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "starting": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "starting this": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "starting this week": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "startup": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "status": {
+      "articles": [
+        "x-demishassabis--66adb5ab",
+        "x-simonw--93ad63a7",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "still": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--5176977d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "structured": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscribe": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "support": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "support claude": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "support claude com": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "surfaces": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "system": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "systems": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "takes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "takes time": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "takes time to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "targeted": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "targeted more": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "targeted more narrowly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tasks": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "team": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "teams": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "tell": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "text": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--66adb5ab",
+        "x-simonw--5176977d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Demis Hassabis",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "the api": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "the api any": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the balance": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the balance right": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the classifiers": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the classifiers we're": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the fallback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the fallback in": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the iphone": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the model": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-simonw--5176977d"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "the next": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the next few": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the safeguard": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the safeguard appeal": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the safeguards visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the safeguards we": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the team": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Demis Hassabis"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the weights": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the wrong": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the wrong tradeoff": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "their refusal": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "their refusal coming": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "them easier": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "them easier to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "them robust": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "them robust to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "these classifiers": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "these classifiers and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thinking": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thinks": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this email": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "this every": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this every time": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this is frustrating": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this period": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this period as": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this reason": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this reason and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this week flagged": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thumbs-down": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thumbs-down on": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thumbs-down on the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "time it happens": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to be robust": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to build": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "openai-blog--0505abb1"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "to deploy": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to deploy fable": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to design": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to get right": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to help": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "openai-blog--0505abb1",
+        "openai-blog--3b24546d"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "to jailbreaks": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to jailbreaks will": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to keep": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "to keep this": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to make fable": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "to opus": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to opus the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to our users": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to run": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "to server-side": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to server-side fallback": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to ship": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to ship quickly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to this email": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "to trigger": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "to trigger less": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to work": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to work around": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tokens": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "tools": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "openai-blog--3b24546d"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "track": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tradeoff": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tradeoff you": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tradeoff you should": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "training": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trigger": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "trigger less": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trigger less often": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tune": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tune these": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tune these classifiers": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tuning": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tuning our": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tuning our bio": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "turns": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ui": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "understand": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "openai-blog--3b24546d"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "unfortunately": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "unfortunately mean": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "unfortunately mean more": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 10
+    },
+    "us to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us to ship": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us tune": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us tune these": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "users quickly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users quickly and": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "uses": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "openai-blog--0505abb1"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "very few false": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "video": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64",
+        "x-demishassabis--66adb5ab"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Boris Cherny",
+        "Code Newsletter",
+        "Demis Hassabis"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "view": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "view more": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "view more caret-right": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visibility": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visibility into": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visibility into the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--5176977d",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "visible makes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible makes them": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible safeguards can": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible starting": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible starting this": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visibly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visibly fall": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visibly fall back": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wanted": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wanted to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wanted to deploy": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "was the wrong": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "watch": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "we appreciate": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we appreciate your": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we improve": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we improve the": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we re rolling": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "we re sorry": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we wanted": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we wanted to": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we went": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we went with": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we're": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we're also": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we're also tuning": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "week flagged": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "week flagged requests": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "weights": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "went": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "went with": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "went with invisible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "which takes": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "which takes time": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "while we improve": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will return": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will unfortunately": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will unfortunately mean": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will visibly": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will visibly fall": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "willison": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with fable": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with invisible": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with invisible safeguards": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "without": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "won't": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-simonw--93ad63a7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "work": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "openai-blog--3b24546d",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "OpenAI Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "work around": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "work around so": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "workflows": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "working": {
+      "articles": [
+        "codenewsletter--f81501e3",
+        "x-bcherny--ae313b64"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wrong": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wrong tradeoff": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wrong tradeoff you": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wwdc": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your feedback": {
+      "articles": [
+        "aibreakfast--0eb7351f",
+        "codenewsletter--f81501e3",
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "your feedback support": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your reports": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your reports help": {
+      "articles": [
+        "x-demishassabis--d53260f6",
+        "x-simonw--c5d3eaeb"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}
