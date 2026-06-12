@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1869933c",
+  "author": "Hugging Face Blog",
+  "content_chars": 9093,
+  "content_sha256": "0a262116e00796b9b101ad9c3b3b09525a9612e151df04611dda48299c5eaedb",
+  "content_tokens": 2273,
+  "fetched_at": "2026-06-12T07:56:17Z",
+  "kind": "article",
+  "published_at": "2024-03-18T00:00:00+00:00",
+  "snippet": "Quanto: a PyTorch quantization backend for Optimum Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Quanto: a PyTorch quantization backend for Optimum",
+  "top_terms": [
+    [
+      "model",
+      44
+    ],
+    [
+      "quantization",
+      34
+    ],
+    [
+      "quanto",
+      28
+    ],
+    [
+      "quantized",
+      18
+    ],
+    [
+      "torch",
+      13
+    ],
+    [
+      "weights",
+      13
+    ],
+    [
+      "quantize",
+      12
+    ],
+    [
+      "import",
+      11
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "activations",
+      10
+    ],
+    [
+      "int8",
+      9
+    ],
+    [
+      "map",
+      9
+    ],
+    [
+      "device",
+      8
+    ],
+    [
+      "float8",
+      8
+    ],
+    [
+      "optimum",
+      8
+    ],
+    [
+      "quantization map",
+      8
+    ],
+    [
+      "transformers",
+      8
+    ],
+    [
+      "quantized model",
+      7
+    ],
+    [
+      "config",
+      6
+    ],
+    [
+      "data",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/quanto-introduction",
+  "url_canonical": "https://huggingface.co/blog/quanto-introduction",
+  "via_source_id": null
+}

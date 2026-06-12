@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1dd6a79f",
+  "author": "Hugging Face Blog",
+  "content_chars": 13602,
+  "content_sha256": "1f392db11927837b7d4ef9af04f48032b8fb73ca8ea77ee5b1f806fe7c8439db",
+  "content_tokens": 3400,
+  "fetched_at": "2026-06-12T07:56:23Z",
+  "kind": "article",
+  "published_at": "2024-01-30T00:00:00+00:00",
+  "snippet": "Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding",
+  "top_terms": [
+    [
+      "model",
+      52
+    ],
+    [
+      "quantization",
+      31
+    ],
+    [
+      "bit",
+      30
+    ],
+    [
+      "starcoder",
+      20
+    ],
+    [
+      "intel",
+      17
+    ],
+    [
+      "generation",
+      16
+    ],
+    [
+      "memory",
+      14
+    ],
+    [
+      "figure",
+      12
+    ],
+    [
+      "int8",
+      12
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "step",
+      12
+    ],
+    [
+      "tokens",
+      12
+    ],
+    [
+      "follow",
+      11
+    ],
+    [
+      "quantized",
+      11
+    ],
+    [
+      "speedup",
+      11
+    ],
+    [
+      "target",
+      11
+    ],
+    [
+      "baseline",
+      10
+    ],
+    [
+      "code",
+      10
+    ],
+    [
+      "follow guest",
+      10
+    ],
+    [
+      "guest",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/intel-starcoder-quantization",
+  "url_canonical": "https://huggingface.co/blog/intel-starcoder-quantization",
+  "via_source_id": null
+}

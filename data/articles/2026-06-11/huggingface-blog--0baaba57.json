@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0baaba57",
+  "author": "Hugging Face Blog",
+  "content_chars": 22926,
+  "content_sha256": "24a4c4c27e83c94b1c753adf95f19872032a59427789a278b7f1e455fb1ae597",
+  "content_tokens": 5731,
+  "fetched_at": "2026-06-12T07:56:13Z",
+  "kind": "article",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "snippet": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "top_terms": [
+    [
+      "kernel",
+      61
+    ],
+    [
+      "linear",
+      50
+    ],
+    [
+      "aten",
+      45
+    ],
+    [
+      "kernels",
+      33
+    ],
+    [
+      "figure",
+      29
+    ],
+    [
+      "compile",
+      28
+    ],
+    [
+      "mlp",
+      24
+    ],
+    [
+      "nn",
+      22
+    ],
+    [
+      "gpu",
+      20
+    ],
+    [
+      "trace",
+      19
+    ],
+    [
+      "nn linear",
+      18
+    ],
+    [
+      "torch",
+      18
+    ],
+    [
+      "traces",
+      17
+    ],
+    [
+      "cpu",
+      16
+    ],
+    [
+      "proj",
+      16
+    ],
+    [
+      "bias",
+      15
+    ],
+    [
+      "dim",
+      15
+    ],
+    [
+      "gelu",
+      15
+    ],
+    [
+      "eager",
+      13
+    ],
+    [
+      "forward",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "url_canonical": "https://huggingface.co/blog/torch-mlp-fusion",
+  "via_source_id": null
+}

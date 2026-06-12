@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--85eaaad3",
+  "author": "Claude Devs",
+  "content_chars": 273,
+  "content_sha256": "1d96c022002c50f9b05d92a0064dc59cf20930e3d1bec9690a91f180a74e5ebb",
+  "content_tokens": 68,
+  "fetched_at": "2026-06-12T07:56:34Z",
+  "kind": "tweet",
+  "published_at": "2026-06-11T14:33:36+00:00",
+  "snippet": "With the new environment variable credential type, Claude Managed Agents can securely use CLIs, SDKs, or direct API calls to services that authenticate with environment variables. Claude never has access to secrets. Credentials are swapped in at the network boundary. Video",
+  "source_id": "x-demishassabis",
+  "title": "With the new environment variable credential type, Claude Managed Agents can sec",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "environment",
+      3
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "agents can",
+      2
+    ],
+    [
+      "claude managed",
+      2
+    ],
+    [
+      "claude managed agents",
+      2
+    ],
+    [
+      "credential",
+      2
+    ],
+    [
+      "credential type",
+      2
+    ],
+    [
+      "credential type claude",
+      2
+    ],
+    [
+      "environment variable",
+      2
+    ],
+    [
+      "environment variable credential",
+      2
+    ],
+    [
+      "managed",
+      2
+    ],
+    [
+      "managed agents",
+      2
+    ],
+    [
+      "managed agents can",
+      2
+    ],
+    [
+      "new environment",
+      2
+    ],
+    [
+      "new environment variable",
+      2
+    ],
+    [
+      "the new environment",
+      2
+    ],
+    [
+      "type",
+      2
+    ],
+    [
+      "type claude",
+      2
+    ],
+    [
+      "type claude managed",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2065080009203892302",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2065080009203892302",
+  "via_source_id": null
+}

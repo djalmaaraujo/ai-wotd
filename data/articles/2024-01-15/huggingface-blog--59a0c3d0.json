@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--59a0c3d0",
+  "author": "Hugging Face Blog",
+  "content_chars": 12351,
+  "content_sha256": "815b4f080c2f4016435fcc5fd903b352337ecfeb5d96d486984a60cfffdae094",
+  "content_tokens": 3087,
+  "fetched_at": "2026-06-12T07:56:25Z",
+  "kind": "article",
+  "published_at": "2024-01-15T00:00:00+00:00",
+  "snippet": "Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive",
+  "top_terms": [
+    [
+      "turbo",
+      61
+    ],
+    [
+      "onnx",
+      35
+    ],
+    [
+      "sdxl",
+      34
+    ],
+    [
+      "onnx runtime",
+      33
+    ],
+    [
+      "runtime",
+      33
+    ],
+    [
+      "sd",
+      32
+    ],
+    [
+      "sdxl turbo",
+      32
+    ],
+    [
+      "sd turbo",
+      29
+    ],
+    [
+      "diffusion",
+      24
+    ],
+    [
+      "stable",
+      24
+    ],
+    [
+      "stable diffusion",
+      23
+    ],
+    [
+      "and sdxl",
+      22
+    ],
+    [
+      "and sdxl turbo",
+      21
+    ],
+    [
+      "sd turbo and",
+      20
+    ],
+    [
+      "turbo and",
+      20
+    ],
+    [
+      "turbo and sdxl",
+      20
+    ],
+    [
+      "batch",
+      18
+    ],
+    [
+      "models",
+      18
+    ],
+    [
+      "shape",
+      18
+    ],
+    [
+      "size",
+      18
+    ]
+  ],
+  "url": "https://huggingface.co/blog/sdxl_ort_inference",
+  "url_canonical": "https://huggingface.co/blog/sdxl_ort_inference",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--6de49034",
+  "author": "Hugging Face Blog",
+  "content_chars": 22955,
+  "content_sha256": "0b9e3068595b63697056f389f57450102396e4f1641305aabc95642e9db17134",
+  "content_tokens": 5738,
+  "fetched_at": "2026-06-12T07:56:20Z",
+  "kind": "article",
+  "published_at": "2024-02-19T00:00:00+00:00",
+  "snippet": "🤗 PEFT welcomes new merging methods Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "🤗 PEFT welcomes new merging methods",
+  "top_terms": [
+    [
+      "adapters",
+      50
+    ],
+    [
+      "lora",
+      44
+    ],
+    [
+      "merging",
+      38
+    ],
+    [
+      "model",
+      38
+    ],
+    [
+      "task",
+      30
+    ],
+    [
+      "ties",
+      30
+    ],
+    [
+      "adapter",
+      29
+    ],
+    [
+      "svd",
+      29
+    ],
+    [
+      "weights",
+      29
+    ],
+    [
+      "peft",
+      28
+    ],
+    [
+      "dare",
+      25
+    ],
+    [
+      "linear",
+      25
+    ],
+    [
+      "merged",
+      25
+    ],
+    [
+      "weight",
+      25
+    ],
+    [
+      "models",
+      24
+    ],
+    [
+      "lora adapters",
+      22
+    ],
+    [
+      "method",
+      22
+    ],
+    [
+      "toy",
+      20
+    ],
+    [
+      "unet",
+      20
+    ],
+    [
+      "methods",
+      18
+    ]
+  ],
+  "url": "https://huggingface.co/blog/peft_merging",
+  "url_canonical": "https://huggingface.co/blog/peft_merging",
+  "via_source_id": null
+}

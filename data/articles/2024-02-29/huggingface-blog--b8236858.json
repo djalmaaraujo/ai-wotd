@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b8236858",
+  "author": "Hugging Face Blog",
+  "content_chars": 10315,
+  "content_sha256": "5908885e9f1bb751ccc3fe73a5b612365ad3c855af6597962a14d6da8bb9a7be",
+  "content_tokens": 2578,
+  "fetched_at": "2026-06-12T07:56:18Z",
+  "kind": "article",
+  "published_at": "2024-02-29T00:00:00+00:00",
+  "snippet": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+  "top_terms": [
+    [
+      "pipeline",
+      32
+    ],
+    [
+      "args",
+      19
+    ],
+    [
+      "model",
+      17
+    ],
+    [
+      "langchain",
+      16
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "name",
+      16
+    ],
+    [
+      "prompt",
+      15
+    ],
+    [
+      "the pipeline",
+      14
+    ],
+    [
+      "question",
+      13
+    ],
+    [
+      "run",
+      13
+    ],
+    [
+      "import",
+      11
+    ],
+    [
+      "model name",
+      11
+    ],
+    [
+      "text-generation",
+      11
+    ],
+    [
+      "parser",
+      10
+    ],
+    [
+      "text",
+      10
+    ],
+    [
+      "model name or",
+      9
+    ],
+    [
+      "name or",
+      9
+    ],
+    [
+      "name or path",
+      9
+    ],
+    [
+      "or path",
+      9
+    ],
+    [
+      "path",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/textgen-pipe-gaudi",
+  "url_canonical": "https://huggingface.co/blog/textgen-pipe-gaudi",
+  "via_source_id": null
+}

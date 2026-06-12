@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--43d03b55",
+  "author": "Hugging Face Blog",
+  "content_chars": 11064,
+  "content_sha256": "3e02ce3bc107b689f5a452b2a996911c875e0be6f740ccae8c485edcb1da580b",
+  "content_tokens": 2766,
+  "fetched_at": "2026-06-12T07:56:14Z",
+  "kind": "article",
+  "published_at": "2024-04-03T00:00:00+00:00",
+  "snippet": "Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon",
+  "top_terms": [
+    [
+      "model",
+      64
+    ],
+    [
+      "setfit",
+      41
+    ],
+    [
+      "intel",
+      39
+    ],
+    [
+      "optimum",
+      30
+    ],
+    [
+      "body",
+      21
+    ],
+    [
+      "quantization",
+      20
+    ],
+    [
+      "dataset",
+      19
+    ],
+    [
+      "optimum intel",
+      19
+    ],
+    [
+      "setfit model",
+      19
+    ],
+    [
+      "inference",
+      15
+    ],
+    [
+      "model body",
+      15
+    ],
+    [
+      "calibration",
+      11
+    ],
+    [
+      "run",
+      10
+    ],
+    [
+      "tokenizer",
+      10
+    ],
+    [
+      "benchmark",
+      9
+    ],
+    [
+      "ipex",
+      9
+    ],
+    [
+      "model model",
+      9
+    ],
+    [
+      "models",
+      9
+    ],
+    [
+      "setfit model model",
+      9
+    ],
+    [
+      "size",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/setfit-optimum-intel",
+  "url_canonical": "https://huggingface.co/blog/setfit-optimum-intel",
+  "via_source_id": null
+}

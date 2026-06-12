@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "diffusiongemma",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "supermemory",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "apple's",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "diffusiongemma supermemory",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "diffusiongemma supermemory now",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "drops diffusiongemma",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "drops diffusiongemma supermemory",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "google drops",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "google drops diffusiongemma",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--6a9ecfc5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "now runs",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-06-12",
+  "evidence_article_ids": [
+    "codenewsletter--6a9ecfc5"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "diffusiongemma supermemory",
+      "agentic coding workflow",
+      "codex review uncommitted",
+      "diffusiongemma",
+      "supermemory"
+    ]
+  },
+  "score": 19.313255,
+  "word": "diffusiongemma supermemory"
+}

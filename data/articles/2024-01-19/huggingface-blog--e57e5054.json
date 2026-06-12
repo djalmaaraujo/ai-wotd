@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e57e5054",
+  "author": "Hugging Face Blog",
+  "content_chars": 43660,
+  "content_sha256": "100e86b9c43f6161cbc0ceb0651ea8f29b711d044ba1efde46f3cf58709bbbcf",
+  "content_tokens": 10915,
+  "fetched_at": "2026-06-12T07:56:24Z",
+  "kind": "article",
+  "published_at": "2024-01-19T00:00:00+00:00",
+  "snippet": "Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers",
+  "top_terms": [
+    [
+      "common",
+      68
+    ],
+    [
+      "voice",
+      64
+    ],
+    [
+      "common voice",
+      63
+    ],
+    [
+      "audio",
+      55
+    ],
+    [
+      "model",
+      54
+    ],
+    [
+      "training",
+      54
+    ],
+    [
+      "data",
+      46
+    ],
+    [
+      "train",
+      46
+    ],
+    [
+      "dataset",
+      37
+    ],
+    [
+      "vocab",
+      37
+    ],
+    [
+      "batch",
+      35
+    ],
+    [
+      "test",
+      31
+    ],
+    [
+      "input",
+      30
+    ],
+    [
+      "rate",
+      30
+    ],
+    [
+      "token",
+      30
+    ],
+    [
+      "common voice train",
+      29
+    ],
+    [
+      "voice train",
+      29
+    ],
+    [
+      "speech",
+      28
+    ],
+    [
+      "asr",
+      25
+    ],
+    [
+      "remove",
+      25
+    ]
+  ],
+  "url": "https://huggingface.co/blog/fine-tune-w2v2-bert",
+  "url_canonical": "https://huggingface.co/blog/fine-tune-w2v2-bert",
+  "via_source_id": null
+}
