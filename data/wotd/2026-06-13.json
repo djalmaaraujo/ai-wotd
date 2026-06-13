@@ -1,0 +1,165 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 90.083253,
+      "term": "national",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 62.897533,
+      "term": "government",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 62.897533,
+      "term": "us government",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "aibreakfast--decf9462",
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 54.667946,
+      "term": "fable and",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 50.112284,
+      "term": "claude models",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 50.112284,
+      "term": "directive",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 50.112284,
+      "term": "other claude",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 50.112284,
+      "term": "other claude models",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 43.961413,
+      "term": "and mythos",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "x-claudeai--a1fcae19",
+        "x-demishassabis--4940cabb",
+        "x-simonw--de28f203",
+        "x-trq212--31b6368b",
+        "x-trq212--88de3b0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 43.961413,
+      "term": "fable and mythos",
+      "tf_today": 10
+    }
+  ],
+  "date": "2026-06-13",
+  "evidence_article_ids": [
+    "x-claudeai--a1fcae19",
+    "x-demishassabis--4940cabb",
+    "x-simonw--de28f203",
+    "x-trq212--31b6368b",
+    "x-trq212--88de3b0a"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "citing national security",
+      "claude models",
+      "other claude models",
+      "fable and mythos"
+    ]
+  },
+  "score": 26.686166,
+  "word": "citing national security"
+}
