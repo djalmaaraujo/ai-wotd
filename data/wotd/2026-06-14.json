@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "compile python",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "compile python extensions",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "etc",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "etc to",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "etc to webassembly",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "extensions",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "it's now",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "it's now possible",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "now possible",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--fe4bc029"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "now possible to",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-06-14",
+  "evidence_article_ids": [
+    "x-simonw--fe4bc029"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "compile python extensions",
+      "etc to webassembly",
+      "to compile python",
+      "pyodide can install",
+      "webassembly"
+    ]
+  },
+  "score": 6.591674,
+  "word": "compile python extensions"
+}
