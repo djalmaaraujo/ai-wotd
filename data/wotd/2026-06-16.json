@@ -1,0 +1,134 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 37.301879,
+      "term": "house",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 37.301879,
+      "term": "white",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 37.301879,
+      "term": "white house",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 31.640034,
+      "term": "nadella",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 21.01583,
+      "term": "capital",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 21.01583,
+      "term": "moonshot",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 21.01583,
+      "term": "on anthropic",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 21.01583,
+      "term": "token capital",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 19.709354,
+      "term": "jailbreak",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 19.709354,
+      "term": "way to",
+      "tf_today": 5
+    }
+  ],
+  "date": "2026-06-16",
+  "evidence_article_ids": [
+    "aibreakfast--1e49c10e",
+    "codenewsletter--9550cddf"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "anthropic",
+      "token capital",
+      "on anthropic",
+      "ai model",
+      "moonshot"
+    ]
+  },
+  "score": 6.407699,
+  "word": "anthropic"
+}

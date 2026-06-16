@@ -1,0 +1,3043 @@
+{
+  "article_ids": [
+    "aibreakfast--1e49c10e",
+    "codenewsletter--9550cddf",
+    "x-simonw--335198fd",
+    "x-simonw--ce67b057",
+    "x-simonw--e2b5d330"
+  ],
+  "date": "2026-06-16",
+  "document_count": 5,
+  "terms": {
+    "aaron": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "access for": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access for all": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "across": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "actually": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "add": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "agent": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "agentic": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "agents": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "agents that": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai agents": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "ai model": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and mythos": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "and private": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "answer": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "anthropic": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 23
+    },
+    "api": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "argues": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "automation": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "ban": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "based": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "based on": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "become": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "behind": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "benchmark": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "best": {
+      "articles": [
+        "codenewsletter--9550cddf",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "bigger": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "browser": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "build": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "building": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "built": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "built on": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "calls": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "can't": {
+      "articles": [
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "capital": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "caret-right": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "case": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ceo": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "claims": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "claude": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "claude fable": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "claude opus": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "clear": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cloud": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "code": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 20
+    },
+    "collective": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "com": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "companies": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "company": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "control": {
+      "articles": [
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "customers": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cyber": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "data": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "data and": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "designed": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "developers": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "directive": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "directly": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "dropped": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficiency": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "email": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "engineers": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "errors": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "every": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "exact": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "exactly": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "exactly what": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "exactly what it": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "export": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "export control": {
+      "articles": [
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fable": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 19
+    },
+    "fable and": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fable and mythos": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "feedback": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fix": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "folder": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for every": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "forces": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "foreign": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "foreign nationals": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "free": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fusion": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "goal": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "goal is": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "google": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "government": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "heading": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "heading to": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "heavy": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "home": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "home posts": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "house": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "https": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https nitter": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https nitter net": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "human": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "in the world": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "includes": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "including": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "infrastructure": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instead": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "instead of": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "ip": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is heading": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jailbreak": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "judgment": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jun": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--335198fd"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "keep": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "keep reading": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep reading view": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keeps": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "kubernetes": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lab": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "latest": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "launch": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "leaner": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "learning": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "llms": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "login": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "loop": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "machine": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "maps": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "markdown": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "memory": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "microsoft": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "mistakes": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "moat": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 18
+    },
+    "models": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 18
+    },
+    "models to": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "moonshot": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "more caret-right": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "move": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "multiple": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "multiple ai": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mythos": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "nadella": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "nadella says": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nationals": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nearly": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "net": {
+      "articles": [
+        "x-simonw--335198fd",
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "next": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "nitter": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nitter net": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on anthropic": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "on top": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on top of": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "openai": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "openrouter": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "opus": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "opus the": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "paper": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "part": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "path": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "picture": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "platform": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plug": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plug on": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "portability": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "powerful": {
+      "articles": [
+        "codenewsletter--9550cddf",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "private": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "product": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "production": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "projects": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "prompt": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pulled": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pulled the": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pulled the plug": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pulling": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reading": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reading view": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reading view more": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "real": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "reasoning": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reduce": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reply": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "research": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "run": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "runs": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "satya": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "satya nadella": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "scraping": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "search": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "security": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sell": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "show": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sign": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign up": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "simple": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "single answer": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "software": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "something": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "status": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "straight": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "straight to": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "structured": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscribe": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "system": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "task": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "team": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "tell": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the goal": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the goal is": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the government": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the heavy": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the jailbreak": {
+      "articles": [
+        "x-simonw--ce67b057",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the model": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the models": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the next": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the plug": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the plug on": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the white": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the white house": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the world": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "this email": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "to become": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to build": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "to this email": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "to washington": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to write": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "token": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "token capital": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "tools": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "top": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "top of": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "training": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "turn": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "underneath": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "us export": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "uses": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "valuable": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "view": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "view more": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "view more caret-right": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "views": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "washington": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "way": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "way to": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "white": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "white house": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "work": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "world": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "x-simonw--ce67b057"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "write": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "wrote": {
+      "articles": [
+        "codenewsletter--9550cddf",
+        "x-simonw--e2b5d330"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your feedback": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your product": {
+      "articles": [
+        "aibreakfast--1e49c10e",
+        "codenewsletter--9550cddf"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}
