@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 52.73339,
+      "term": "spec",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 43.668272,
+      "term": "factory",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "cartesia",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "cartesia ships",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "sonic-3",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "agents cartesia",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "agents cartesia ships",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "cartesia ships sonic-3",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "coding agents cartesia",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--2432f66c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "drops next",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-06-17",
+  "evidence_article_ids": [
+    "codenewsletter--2432f66c"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "agents cartesia ships",
+      "cartesia ships sonic-3",
+      "coding agents cartesia",
+      "mcp servers",
+      "agent sdk"
+    ]
+  },
+  "score": 19.313255,
+  "word": "agents cartesia ships"
+}

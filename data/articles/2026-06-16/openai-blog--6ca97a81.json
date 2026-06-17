@@ -1,0 +1,98 @@
+{
+  "article_id": "openai-blog--6ca97a81",
+  "author": "OpenAI Blog",
+  "content_chars": 168,
+  "content_sha256": "a165239ecb6e25c5137cb2209ba0c02ef6c684457e7a7feab2aae0ca408396e9",
+  "content_tokens": 42,
+  "fetched_at": "2026-06-17T08:12:05Z",
+  "kind": "article",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "snippet": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+  "source_id": "openai-blog",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "top_terms": [
+    [
+      "deployment",
+      3
+    ],
+    [
+      "behavior",
+      2
+    ],
+    [
+      "behavior before",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "model behavior",
+      2
+    ],
+    [
+      "model behavior before",
+      2
+    ],
+    [
+      "accuracy",
+      1
+    ],
+    [
+      "ai model",
+      1
+    ],
+    [
+      "ai model behavior",
+      1
+    ],
+    [
+      "and evaluation",
+      1
+    ],
+    [
+      "and evaluation accuracy",
+      1
+    ],
+    [
+      "before deployment",
+      1
+    ],
+    [
+      "before deployment using",
+      1
+    ],
+    [
+      "before release",
+      1
+    ],
+    [
+      "before release by",
+      1
+    ],
+    [
+      "behavior before deployment",
+      1
+    ],
+    [
+      "behavior before release",
+      1
+    ],
+    [
+      "by simulating",
+      1
+    ],
+    [
+      "by simulating deployment",
+      1
+    ],
+    [
+      "conversation",
+      1
+    ]
+  ],
+  "url": "https://openai.com/index/deployment-simulation",
+  "url_canonical": "https://openai.com/index/deployment-simulation",
+  "via_source_id": null
+}
