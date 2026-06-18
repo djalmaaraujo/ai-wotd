@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 29.112182,
+      "term": "copilot",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 29.112182,
+      "term": "glm-5",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.350922,
+      "term": "copilot cowork",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.350922,
+      "term": "pricing",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.350922,
+      "term": "usage-based",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "spacex",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "chinese",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--466f9a80",
+        "codenewsletter--a5e2fa55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "musk",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--197f16e9",
+        "x-sama--935d7ac3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "noam",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--a5e2fa55",
+        "x-sama--197f16e9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "work with",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-06-18",
+  "evidence_article_ids": [
+    "aibreakfast--466f9a80",
+    "codenewsletter--a5e2fa55"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "glm-5",
+      "copilot",
+      "deepseek v4",
+      "reasoning from",
+      "open-source coding"
+    ]
+  },
+  "score": 29.112182,
+  "word": "glm-5"
+}

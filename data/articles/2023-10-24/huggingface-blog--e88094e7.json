@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e88094e7",
+  "author": "Hugging Face Blog",
+  "content_chars": 14483,
+  "content_sha256": "6af92289df5027818f9398cad79397a08b18150abda4c4bb43ab9dacea895cd6",
+  "content_tokens": 3620,
+  "fetched_at": "2026-06-18T08:01:16Z",
+  "kind": "article",
+  "published_at": "2023-10-24T00:00:00+00:00",
+  "snippet": "Exploring simple optimizations for SDXL Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "Exploring simple optimizations for SDXL",
+  "top_terms": [
+    [
+      "memory",
+      33
+    ],
+    [
+      "inference",
+      28
+    ],
+    [
+      "torch",
+      28
+    ],
+    [
+      "model",
+      21
+    ],
+    [
+      "prompt",
+      20
+    ],
+    [
+      "pipe",
+      19
+    ],
+    [
+      "sdxl",
+      19
+    ],
+    [
+      "text",
+      18
+    ],
+    [
+      "images",
+      16
+    ],
+    [
+      "stablediffusionxlpipeline",
+      16
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "diffusers",
+      14
+    ],
+    [
+      "attention",
+      12
+    ],
+    [
+      "default",
+      12
+    ],
+    [
+      "embeds",
+      12
+    ],
+    [
+      "offloading",
+      12
+    ],
+    [
+      "prompt embeds",
+      12
+    ],
+    [
+      "gb",
+      11
+    ],
+    [
+      "unet",
+      11
+    ],
+    [
+      "compile",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/simple_sdxl_optimizations",
+  "url_canonical": "https://huggingface.co/blog/simple_sdxl_optimizations",
+  "via_source_id": null
+}

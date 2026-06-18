@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--54222a29",
+  "author": "Hugging Face Blog",
+  "content_chars": 49531,
+  "content_sha256": "3cff815a07083eb114be9e3f53b0ab5edbf846e33432e82c9d93ecce405798cb",
+  "content_tokens": 12382,
+  "fetched_at": "2026-06-18T08:01:19Z",
+  "kind": "article",
+  "published_at": "2023-09-15T00:00:00+00:00",
+  "snippet": "Optimizing your LLM in production Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "Optimizing your LLM in production",
+  "top_terms": [
+    [
+      "input",
+      74
+    ],
+    [
+      "mathbf",
+      71
+    ],
+    [
+      "memory",
+      69
+    ],
+    [
+      "model",
+      67
+    ],
+    [
+      "text",
+      65
+    ],
+    [
+      "bytes",
+      44
+    ],
+    [
+      "attention",
+      43
+    ],
+    [
+      "key-value",
+      39
+    ],
+    [
+      "llm",
+      35
+    ],
+    [
+      "tokens",
+      33
+    ],
+    [
+      "cache",
+      31
+    ],
+    [
+      "torch",
+      31
+    ],
+    [
+      "qk",
+      29
+    ],
+    [
+      "gb",
+      28
+    ],
+    [
+      "prompt",
+      27
+    ],
+    [
+      "precision",
+      26
+    ],
+    [
+      "the model",
+      26
+    ],
+    [
+      "token",
+      26
+    ],
+    [
+      "bit",
+      25
+    ],
+    [
+      "key-value cache",
+      25
+    ]
+  ],
+  "url": "https://huggingface.co/blog/optimize-llm",
+  "url_canonical": "https://huggingface.co/blog/optimize-llm",
+  "via_source_id": null
+}

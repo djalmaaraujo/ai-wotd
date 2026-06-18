@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fadf987b",
+  "author": "Hugging Face Blog",
+  "content_chars": 43306,
+  "content_sha256": "35be42769c2c5f8fb62be846bdd977f9f8be01ce9641b142749fe9eedb7f2b78",
+  "content_tokens": 10826,
+  "fetched_at": "2026-06-18T08:01:16Z",
+  "kind": "article",
+  "published_at": "2023-10-24T00:00:00+00:00",
+  "snippet": "The N Implementation Details of RLHF with PPO Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "source_id": "huggingface-blog",
+  "title": "The N Implementation Details of RLHF with PPO",
+  "top_terms": [
+    [
+      "reward",
+      59
+    ],
+    [
+      "batch",
+      51
+    ],
+    [
+      "py",
+      51
+    ],
+    [
+      "model",
+      50
+    ],
+    [
+      "human",
+      46
+    ],
+    [
+      "token",
+      46
+    ],
+    [
+      "lm",
+      45
+    ],
+    [
+      "mean",
+      45
+    ],
+    [
+      "lm human",
+      44
+    ],
+    [
+      "adam",
+      43
+    ],
+    [
+      "human preferences",
+      42
+    ],
+    [
+      "lm human preferences",
+      42
+    ],
+    [
+      "preferences",
+      42
+    ],
+    [
+      "policy",
+      40
+    ],
+    [
+      "details",
+      33
+    ],
+    [
+      "pass",
+      33
+    ],
+    [
+      "query",
+      32
+    ],
+    [
+      "response",
+      32
+    ],
+    [
+      "torch",
+      31
+    ],
+    [
+      "implementation",
+      29
+    ]
+  ],
+  "url": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
+  "url_canonical": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
+  "via_source_id": null
+}

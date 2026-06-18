@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--70315139",
+  "author": "Hugging Face Blog",
+  "content_chars": 9302,
+  "content_sha256": "7c986463f27a77ff2de303ccf4a8c3fc8ceac2a86b1cef609b0f61dbb5f3c13b",
+  "content_tokens": 2325,
+  "fetched_at": "2026-06-18T08:01:19Z",
+  "kind": "article",
+  "published_at": "2023-09-13T00:00:00+00:00",
+  "snippet": "Introducing Würstchen: Fast Diffusion for Image Generation Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing Würstchen: Fast Diffusion for Image Generation",
+  "top_terms": [
+    [
+      "rstchen",
+      18
+    ],
+    [
+      "images",
+      16
+    ],
+    [
+      "prior",
+      14
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "diffusers",
+      12
+    ],
+    [
+      "stage",
+      12
+    ],
+    [
+      "attention",
+      11
+    ],
+    [
+      "torch",
+      11
+    ],
+    [
+      "diffusion",
+      9
+    ],
+    [
+      "inference",
+      9
+    ],
+    [
+      "models",
+      9
+    ],
+    [
+      "pipeline",
+      9
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "timesteps",
+      7
+    ],
+    [
+      "training",
+      7
+    ],
+    [
+      "compile",
+      6
+    ],
+    [
+      "fast",
+      6
+    ],
+    [
+      "memory",
+      6
+    ],
+    [
+      "torch compile",
+      6
+    ],
+    [
+      "checkpoints",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/wuerstchen",
+  "url_canonical": "https://huggingface.co/blog/wuerstchen",
+  "via_source_id": null
+}

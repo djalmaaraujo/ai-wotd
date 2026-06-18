@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--dd3d8b44",
+  "author": "Hugging Face Blog",
+  "content_chars": 22224,
+  "content_sha256": "70a1505858a72eb9815f42c98c33305630adb20f18838d3b37ec3409b2b99a6d",
+  "content_tokens": 5556,
+  "fetched_at": "2026-06-18T08:01:12Z",
+  "kind": "article",
+  "published_at": "2023-12-20T00:00:00+00:00",
+  "snippet": "Speculative Decoding for 2x Faster Whisper Inference Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Speculative Decoding for 2x Faster Whisper Inference",
+  "top_terms": [
+    [
+      "model",
+      97
+    ],
+    [
+      "assistant",
+      41
+    ],
+    [
+      "decoding",
+      37
+    ],
+    [
+      "assistant model",
+      36
+    ],
+    [
+      "speculative",
+      36
+    ],
+    [
+      "speculative decoding",
+      36
+    ],
+    [
+      "whisper",
+      36
+    ],
+    [
+      "tokens",
+      28
+    ],
+    [
+      "main",
+      27
+    ],
+    [
+      "speech",
+      26
+    ],
+    [
+      "main model",
+      25
+    ],
+    [
+      "audio",
+      24
+    ],
+    [
+      "wer",
+      24
+    ],
+    [
+      "the main",
+      23
+    ],
+    [
+      "the main model",
+      21
+    ],
+    [
+      "inputs",
+      20
+    ],
+    [
+      "dataset",
+      19
+    ],
+    [
+      "inference",
+      19
+    ],
+    [
+      "predictions",
+      18
+    ],
+    [
+      "torch",
+      18
+    ]
+  ],
+  "url": "https://huggingface.co/blog/whisper-speculative-decoding",
+  "url_canonical": "https://huggingface.co/blog/whisper-speculative-decoding",
+  "via_source_id": null
+}

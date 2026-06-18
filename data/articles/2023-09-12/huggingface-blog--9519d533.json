@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9519d533",
+  "author": "Hugging Face Blog",
+  "content_chars": 13377,
+  "content_sha256": "eea888760494b523e5be6fdc842c9a6fc97c22da2065d681037633eb9af151b9",
+  "content_tokens": 3344,
+  "fetched_at": "2026-06-18T08:01:19Z",
+  "kind": "article",
+  "published_at": "2023-09-12T00:00:00+00:00",
+  "snippet": "Overview of natively supported quantization schemes in 🤗 Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team…",
+  "source_id": "huggingface-blog",
+  "title": "Overview of natively supported quantization schemes in 🤗 Transformers",
+  "top_terms": [
+    [
+      "model",
+      35
+    ],
+    [
+      "bitsandbytes",
+      30
+    ],
+    [
+      "gptq",
+      28
+    ],
+    [
+      "quantization",
+      26
+    ],
+    [
+      "models",
+      22
+    ],
+    [
+      "bit",
+      16
+    ],
+    [
+      "none",
+      14
+    ],
+    [
+      "adapters",
+      13
+    ],
+    [
+      "fine-tuning",
+      13
+    ],
+    [
+      "inference",
+      12
+    ],
+    [
+      "benchmark",
+      11
+    ],
+    [
+      "blogpost",
+      11
+    ],
+    [
+      "speed",
+      11
+    ],
+    [
+      "supported",
+      11
+    ],
+    [
+      "generation",
+      10
+    ],
+    [
+      "none none",
+      10
+    ],
+    [
+      "quantized",
+      10
+    ],
+    [
+      "auto-gptq",
+      9
+    ],
+    [
+      "degradation",
+      9
+    ],
+    [
+      "meta-llama",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/overview-quantization-transformers",
+  "url_canonical": "https://huggingface.co/blog/overview-quantization-transformers",
+  "via_source_id": null
+}

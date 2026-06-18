@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--831b012f",
+  "author": "Hugging Face Blog",
+  "content_chars": 13901,
+  "content_sha256": "8753b4756abb3160d58df7dd4c18b46a7a6d2dcfe205f3ddbaad026d19ffe454",
+  "content_tokens": 3475,
+  "fetched_at": "2026-06-18T08:01:13Z",
+  "kind": "article",
+  "published_at": "2023-12-05T00:00:00+00:00",
+  "snippet": "Goodbye cold boot - how we made LoRA Inference 300% faster Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Goodbye cold boot - how we made LoRA Inference 300% faster",
+  "top_terms": [
+    [
+      "lora",
+      52
+    ],
+    [
+      "model",
+      45
+    ],
+    [
+      "inference",
+      40
+    ],
+    [
+      "base",
+      25
+    ],
+    [
+      "base model",
+      20
+    ],
+    [
+      "adapter",
+      17
+    ],
+    [
+      "loading",
+      16
+    ],
+    [
+      "weights",
+      14
+    ],
+    [
+      "diffusers",
+      12
+    ],
+    [
+      "distinct",
+      12
+    ],
+    [
+      "elapsed",
+      12
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "request",
+      11
+    ],
+    [
+      "requests",
+      11
+    ],
+    [
+      "serve",
+      11
+    ],
+    [
+      "lora weights",
+      9
+    ],
+    [
+      "loras",
+      9
+    ],
+    [
+      "adapters",
+      8
+    ],
+    [
+      "blue",
+      8
+    ],
+    [
+      "hub",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/lora-adapters-dynamic-loading",
+  "url_canonical": "https://huggingface.co/blog/lora-adapters-dynamic-loading",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e1f58758",
+  "author": "Hugging Face Blog",
+  "content_chars": 21944,
+  "content_sha256": "76a0b36f1f929464cfcd1256640752193be29a27a2a387e7e8c62cc8bd745a70",
+  "content_tokens": 5486,
+  "fetched_at": "2026-06-18T08:01:21Z",
+  "kind": "article",
+  "published_at": "2023-08-30T00:00:00+00:00",
+  "snippet": "AudioLDM 2, but faster ⚡️ Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "AudioLDM 2, but faster ⚡️",
+  "top_terms": [
+    [
+      "audio",
+      59
+    ],
+    [
+      "prompt",
+      43
+    ],
+    [
+      "boldsymbol",
+      32
+    ],
+    [
+      "diffusers",
+      29
+    ],
+    [
+      "text",
+      29
+    ],
+    [
+      "inference",
+      27
+    ],
+    [
+      "negative",
+      24
+    ],
+    [
+      "generator",
+      23
+    ],
+    [
+      "model",
+      23
+    ],
+    [
+      "pipe",
+      23
+    ],
+    [
+      "negative prompt",
+      22
+    ],
+    [
+      "torch",
+      22
+    ],
+    [
+      "prompt negative",
+      18
+    ],
+    [
+      "prompt negative prompt",
+      18
+    ],
+    [
+      "schedulers",
+      18
+    ],
+    [
+      "audioldm",
+      17
+    ],
+    [
+      "generation",
+      17
+    ],
+    [
+      "memory",
+      17
+    ],
+    [
+      "pipeline",
+      17
+    ],
+    [
+      "output",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/blog/audioldm2",
+  "url_canonical": "https://huggingface.co/blog/audioldm2",
+  "via_source_id": null
+}

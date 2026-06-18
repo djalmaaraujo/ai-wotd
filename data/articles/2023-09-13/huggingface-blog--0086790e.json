@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0086790e",
+  "author": "Hugging Face Blog",
+  "content_chars": 16525,
+  "content_sha256": "ef63df5f2bdcde9261f7e900127cf8e97c537a7bf7f1556cdecc08a547633a3d",
+  "content_tokens": 4131,
+  "fetched_at": "2026-06-18T08:01:19Z",
+  "kind": "article",
+  "published_at": "2023-09-13T00:00:00+00:00",
+  "snippet": "Fine-tuning Llama 2 70B using PyTorch FSDP Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tuning Llama 2 70B using PyTorch FSDP",
+  "top_terms": [
+    [
+      "memory",
+      26
+    ],
+    [
+      "fsdp",
+      24
+    ],
+    [
+      "process",
+      24
+    ],
+    [
+      "model",
+      21
+    ],
+    [
+      "loading",
+      20
+    ],
+    [
+      "accelerator",
+      17
+    ],
+    [
+      "accelerator process",
+      16
+    ],
+    [
+      "accelerator process index",
+      16
+    ],
+    [
+      "cpu",
+      16
+    ],
+    [
+      "index",
+      16
+    ],
+    [
+      "process index",
+      16
+    ],
+    [
+      "the loading",
+      16
+    ],
+    [
+      "state",
+      15
+    ],
+    [
+      "training",
+      15
+    ],
+    [
+      "dict",
+      14
+    ],
+    [
+      "state dict",
+      14
+    ],
+    [
+      "config",
+      13
+    ],
+    [
+      "consumed",
+      13
+    ],
+    [
+      "memory consumed",
+      13
+    ],
+    [
+      "rank",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ram-efficient-pytorch-fsdp",
+  "url_canonical": "https://huggingface.co/blog/ram-efficient-pytorch-fsdp",
+  "via_source_id": null
+}

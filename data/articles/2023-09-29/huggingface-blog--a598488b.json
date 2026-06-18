@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a598488b",
+  "author": "Hugging Face Blog",
+  "content_chars": 13424,
+  "content_sha256": "8283f64e151d3617fca1e01d34c88ff4684fb5c541c05707b273e2e6005ed8c1",
+  "content_tokens": 3356,
+  "fetched_at": "2026-06-18T08:01:17Z",
+  "kind": "article",
+  "published_at": "2023-09-29T00:00:00+00:00",
+  "snippet": "Finetune Stable Diffusion Models with DDPO via TRL Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Finetune Stable Diffusion Models with DDPO via TRL",
+  "top_terms": [
+    [
+      "ddpo",
+      33
+    ],
+    [
+      "diffusion",
+      24
+    ],
+    [
+      "model",
+      23
+    ],
+    [
+      "models",
+      23
+    ],
+    [
+      "training",
+      18
+    ],
+    [
+      "diffusion models",
+      12
+    ],
+    [
+      "learning",
+      12
+    ],
+    [
+      "stable",
+      12
+    ],
+    [
+      "stable diffusion",
+      11
+    ],
+    [
+      "trl",
+      11
+    ],
+    [
+      "human",
+      10
+    ],
+    [
+      "reward",
+      10
+    ],
+    [
+      "rlhf",
+      9
+    ],
+    [
+      "steps",
+      9
+    ],
+    [
+      "prompt",
+      8
+    ],
+    [
+      "size",
+      8
+    ],
+    [
+      "data",
+      7
+    ],
+    [
+      "denoising",
+      7
+    ],
+    [
+      "following",
+      7
+    ],
+    [
+      "function",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/trl-ddpo",
+  "url_canonical": "https://huggingface.co/blog/trl-ddpo",
+  "via_source_id": null
+}

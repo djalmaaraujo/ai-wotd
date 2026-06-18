@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--4f82d19b",
+  "author": "Hugging Face Blog",
+  "content_chars": 17420,
+  "content_sha256": "25afefea37c5b5ef65a442fb5ffb2e49e6a3af5c436950b814f7f2828c13c191",
+  "content_tokens": 4355,
+  "fetched_at": "2026-06-18T08:01:14Z",
+  "kind": "article",
+  "published_at": "2023-11-09T00:00:00+00:00",
+  "snippet": "SDXL in 4 steps with Latent Consistency LoRAs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "source_id": "huggingface-blog",
+  "title": "SDXL in 4 steps with Latent Consistency LoRAs",
+  "top_terms": [
+    [
+      "lcm",
+      49
+    ],
+    [
+      "sdxl",
+      43
+    ],
+    [
+      "loras",
+      36
+    ],
+    [
+      "lora",
+      34
+    ],
+    [
+      "steps",
+      34
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "pipe",
+      28
+    ],
+    [
+      "images",
+      25
+    ],
+    [
+      "models",
+      24
+    ],
+    [
+      "inference",
+      23
+    ],
+    [
+      "consistency",
+      20
+    ],
+    [
+      "updated",
+      20
+    ],
+    [
+      "diffusion",
+      19
+    ],
+    [
+      "prompt",
+      19
+    ],
+    [
+      "latent",
+      18
+    ],
+    [
+      "latent consistency",
+      18
+    ],
+    [
+      "latent-consistency",
+      18
+    ],
+    [
+      "lcm lora",
+      18
+    ],
+    [
+      "lcm loras",
+      18
+    ],
+    [
+      "stable",
+      17
+    ]
+  ],
+  "url": "https://huggingface.co/blog/lcm_lora",
+  "url_canonical": "https://huggingface.co/blog/lcm_lora",
+  "via_source_id": null
+}
