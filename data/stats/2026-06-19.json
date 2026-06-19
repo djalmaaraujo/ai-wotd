@@ -1,0 +1,385 @@
+{
+  "article_ids": [
+    "codenewsletter--aee1a640",
+    "x-demishassabis--c60fd545",
+    "x-simonw--318b356b",
+    "x-simonw--57646a7f",
+    "x-simonw--7fcebbab",
+    "x-simonw--c1995e55"
+  ],
+  "date": "2026-06-19",
+  "document_count": 6,
+  "terms": {
+    "apps": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "blocked": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 13
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 24
+    },
+    "custom": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "data": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "database": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "datasette": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f",
+        "x-simonw--c1995e55"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "demo": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--c1995e55"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fast": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for datasette": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "full": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "html": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "html js": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "html js apps": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it's": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "js": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "js apps": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "jun": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lets": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "lets you": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "long": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "machine": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--c1995e55"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "net": {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "never": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of claude": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "of claude code": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "authors": [
+        "Claude Devs",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "open": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "still": {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--7fcebbab"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}

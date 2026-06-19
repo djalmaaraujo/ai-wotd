@@ -1,0 +1,135 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 17.917595,
+      "term": "html",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "for datasette",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "of claude code",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 2.8571,
+      "df_today": 3,
+      "score": 4.086411,
+      "term": "apps",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-demishassabis--c60fd545"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.662041,
+      "term": "blocked",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--aee1a640",
+        "x-simonw--c1995e55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.662041,
+      "term": "demo",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.662041,
+      "term": "html js",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.662041,
+      "term": "html js apps",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.662041,
+      "term": "js",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--318b356b",
+        "x-simonw--57646a7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 3.662041,
+      "term": "js apps",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-06-19",
+  "evidence_article_ids": [
+    "x-simonw--318b356b",
+    "x-simonw--57646a7f",
+    "x-simonw--c1995e55"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "datasette",
+      "claude code",
+      "claude",
+      "machine",
+      "model"
+    ]
+  },
+  "score": 2.960467,
+  "word": "datasette"
+}
