@@ -1,0 +1,134 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 41.014859,
+      "term": "artifacts",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78",
+        "x-demishassabis--a0da4040"
+      ],
+      "avg_tf_baseline": 6.7059,
+      "df_today": 3,
+      "score": 10.991019,
+      "term": "claude code",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "agents are",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--0c762b78",
+        "x-demishassabis--a0da4040"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "ahead",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "async",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "autonomous ai",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "dashboards",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "era",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "history",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--8524b9af",
+        "codenewsletter--0c762b78"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "into live",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-20",
+  "evidence_article_ids": [
+    "aibreakfast--8524b9af",
+    "codenewsletter--0c762b78",
+    "x-demishassabis--a0da4040"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude code",
+      "autonomous ai",
+      "agent loops",
+      "codex",
+      "claude code and"
+    ]
+  },
+  "score": 10.991019,
+  "word": "claude code"
+}
