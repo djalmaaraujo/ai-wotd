@@ -1,0 +1,131 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--d48b163f",
+        "codenewsletter--d7475104"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 31.640034,
+      "term": "sakana",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "happy-pelicans",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "happy-pelicans printify",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "happy-pelicans printify me",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "pamela",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "pamelafox",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "printify",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "printify me",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 16.125835,
+      "term": "proceeds",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--982236d8",
+        "x-simonw--d88eef2a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "birdrescue",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-06-23",
+  "evidence_article_ids": [
+    "aibreakfast--d48b163f",
+    "codenewsletter--d7475104"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "long-horizon",
+      "open-weight",
+      "pelican benchmark",
+      "sakana"
+    ]
+  },
+  "score": 7.48599,
+  "word": "long-horizon"
+}
