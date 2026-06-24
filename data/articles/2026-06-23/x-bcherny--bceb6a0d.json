@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--bceb6a0d",
+  "author": "Boris Cherny",
+  "content_chars": 267,
+  "content_sha256": "e5a42cf9fc1e6fd864b646032a56b4d08d7b1bd6dded392a2b33c69af41754f2",
+  "content_tokens": 66,
+  "fetched_at": "2026-06-24T07:28:18Z",
+  "kind": "tweet",
+  "published_at": "2026-06-23T17:36:29+00:00",
+  "snippet": "Tag Claude in a channel, it spins up an instance with its own sandbox. It clones repos, writes code, tests, compiles all in that isolated environment and the sandbox gets thrown away when it's done. One instance per thread, its own memory and permissions per channel.",
+  "source_id": "x-bcherny",
+  "title": "Tag Claude in a channel, it spins up an instance with its own sandbox. It clones",
+  "top_terms": [
+    [
+      "channel",
+      3
+    ],
+    [
+      "instance",
+      3
+    ],
+    [
+      "sandbox",
+      3
+    ],
+    [
+      "an instance",
+      2
+    ],
+    [
+      "an instance with",
+      2
+    ],
+    [
+      "channel it",
+      2
+    ],
+    [
+      "channel it spins",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude in",
+      2
+    ],
+    [
+      "clones",
+      2
+    ],
+    [
+      "instance with",
+      2
+    ],
+    [
+      "instance with its",
+      2
+    ],
+    [
+      "it clones",
+      2
+    ],
+    [
+      "it spins",
+      2
+    ],
+    [
+      "it spins up",
+      2
+    ],
+    [
+      "its own sandbox",
+      2
+    ],
+    [
+      "own sandbox",
+      2
+    ],
+    [
+      "own sandbox it",
+      2
+    ],
+    [
+      "sandbox it",
+      2
+    ],
+    [
+      "sandbox it clones",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2069474689819480394",
+  "url_canonical": "https://x.com/bcherny/status/2069474689819480394",
+  "via_source_id": null
+}

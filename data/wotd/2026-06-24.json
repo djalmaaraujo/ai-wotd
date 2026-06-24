@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "daybreak",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "directory",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "expanded",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "expanded daybreak",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "just expanded",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "just expanded daybreak",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "stripe",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "stripe debuts",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "daybreak stripe",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--07d9a51c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "daybreak stripe debuts",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-06-24",
+  "evidence_article_ids": [
+    "codenewsletter--07d9a51c"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "ai security",
+      "complete ai security",
+      "ai security course",
+      "define an agent",
+      "openai just expanded"
+    ]
+  },
+  "score": 6.591674,
+  "word": "ai security"
+}
