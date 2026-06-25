@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--05e502a4",
+  "author": "Claude Devs",
+  "content_chars": 274,
+  "content_sha256": "e10bb051ac7b962ac36eb1eed36a7648d079edfd1e59ecd241e8b1ee44590aae",
+  "content_tokens": 68,
+  "fetched_at": "2026-06-25T07:29:12Z",
+  "kind": "tweet",
+  "published_at": "2026-06-24T21:28:09+00:00",
+  "snippet": "When Claude is working in a channel with four people, whose credentials does it use? The answer: its own. When tagging Claude, Claude gets provisioned like any other teammate, with its own credentials. We call this access model \"agent identity\". Here's how it works: 🧵 Video",
+  "source_id": "x-demishassabis",
+  "title": "When Claude is working in a channel with four people, whose credentials does it ",
+  "top_terms": [
+    [
+      "claude",
+      4
+    ],
+    [
+      "credentials",
+      3
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "channel with",
+      2
+    ],
+    [
+      "channel with four",
+      2
+    ],
+    [
+      "claude is",
+      2
+    ],
+    [
+      "claude is working",
+      2
+    ],
+    [
+      "credentials does",
+      2
+    ],
+    [
+      "credentials does it",
+      2
+    ],
+    [
+      "four",
+      2
+    ],
+    [
+      "four people",
+      2
+    ],
+    [
+      "four people whose",
+      2
+    ],
+    [
+      "is working",
+      2
+    ],
+    [
+      "is working in",
+      2
+    ],
+    [
+      "people",
+      2
+    ],
+    [
+      "people whose",
+      2
+    ],
+    [
+      "people whose credentials",
+      2
+    ],
+    [
+      "when claude",
+      2
+    ],
+    [
+      "when claude is",
+      2
+    ],
+    [
+      "whose",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2069895377080443271",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2069895377080443271",
+  "via_source_id": null
+}

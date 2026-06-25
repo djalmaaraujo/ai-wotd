@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--90e85b42",
+  "author": "Hugging Face Blog",
+  "content_chars": 16674,
+  "content_sha256": "a64e50a07e570d1ee69f8ba82cccf1d3754f4074d9f9d5f1267a28cd51602c35",
+  "content_tokens": 4168,
+  "fetched_at": "2026-06-25T07:29:03Z",
+  "kind": "article",
+  "published_at": "2026-06-24T16:00:13+00:00",
+  "snippet": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "top_terms": [
+    [
+      "automodel",
+      44
+    ],
+    [
+      "expert",
+      44
+    ],
+    [
+      "nemo",
+      42
+    ],
+    [
+      "nemo automodel",
+      40
+    ],
+    [
+      "v5",
+      37
+    ],
+    [
+      "moe",
+      24
+    ],
+    [
+      "transformers",
+      23
+    ],
+    [
+      "nvidia",
+      19
+    ],
+    [
+      "parallelism",
+      18
+    ],
+    [
+      "models",
+      17
+    ],
+    [
+      "ep",
+      16
+    ],
+    [
+      "experts",
+      16
+    ],
+    [
+      "transformers v5",
+      16
+    ],
+    [
+      "deepep",
+      15
+    ],
+    [
+      "expert parallelism",
+      15
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "nemotron",
+      14
+    ],
+    [
+      "across",
+      13
+    ],
+    [
+      "gib",
+      13
+    ],
+    [
+      "grouped",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "url_canonical": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "via_source_id": null
+}

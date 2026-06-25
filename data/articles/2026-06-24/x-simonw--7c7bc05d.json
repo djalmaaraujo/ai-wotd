@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--7c7bc05d",
+  "author": "Simon Willison",
+  "content_chars": 277,
+  "content_sha256": "9030959f5fcbb0e7b74c80510418979ee57e8dff3be804f4ebf32622ef7326d6",
+  "content_tokens": 69,
+  "fetched_at": "2026-06-25T07:29:10Z",
+  "kind": "tweet",
+  "published_at": "2026-06-24T18:53:00+00:00",
+  "snippet": "Claude Code for web just started saying \"GitHub is blocked by egress policy\", which is a big problem for me because most of my prompts there start with things like \"clone simonw/sqlite-utils to /tmp to see the docs in /tmp/sqlite-utils/docs\" @ClaudeDevs @claudeai known issue?",
+  "source_id": "x-simonw",
+  "title": "Claude Code for web just started saying  \"GitHub is blocked by egress policy\", w",
+  "top_terms": [
+    [
+      "blocked",
+      2
+    ],
+    [
+      "blocked by",
+      2
+    ],
+    [
+      "blocked by egress",
+      2
+    ],
+    [
+      "by egress",
+      2
+    ],
+    [
+      "by egress policy",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "claude code for",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code for",
+      2
+    ],
+    [
+      "code for web",
+      2
+    ],
+    [
+      "docs",
+      2
+    ],
+    [
+      "egress",
+      2
+    ],
+    [
+      "egress policy",
+      2
+    ],
+    [
+      "for web",
+      2
+    ],
+    [
+      "for web just",
+      2
+    ],
+    [
+      "github",
+      2
+    ],
+    [
+      "github is",
+      2
+    ],
+    [
+      "github is blocked",
+      2
+    ],
+    [
+      "is blocked",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2069856334305230902",
+  "url_canonical": "https://x.com/simonw/status/2069856334305230902",
+  "via_source_id": null
+}

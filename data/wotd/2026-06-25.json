@@ -1,0 +1,136 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453",
+        "x-trq212--a24f2bae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 92.338177,
+      "term": "tag",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453",
+        "x-trq212--a24f2bae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 71.936858,
+      "term": "claude tag",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 13.621371,
+      "term": "baseten",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 13.621371,
+      "term": "coworker",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453",
+        "x-trq212--a24f2bae"
+      ],
+      "avg_tf_baseline": 16.619,
+      "df_today": 3,
+      "score": 10.098795,
+      "term": "claude",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "codenewsletter--5e8ce453",
+        "x-trq212--a24f2bae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "friday",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "ocr",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--5e8ce453",
+        "x-trq212--a24f2bae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "on friday",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--5e8ce453",
+        "x-trq212--a24f2bae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "practices",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--6ce9af62",
+        "codenewsletter--5e8ce453"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 2,
+      "score": 9.080914,
+      "term": "step",
+      "tf_today": 6
+    }
+  ],
+  "date": "2026-06-25",
+  "evidence_article_ids": [
+    "aibreakfast--6ce9af62",
+    "codenewsletter--5e8ce453",
+    "x-trq212--a24f2bae"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude tag",
+      "glm-5",
+      "anthropic",
+      "ocr",
+      "claude"
+    ]
+  },
+  "score": 71.936858,
+  "word": "claude tag"
+}
