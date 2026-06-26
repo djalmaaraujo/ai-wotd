@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 335.664726,
+      "term": "jobs",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 123.002879,
+      "term": "inference",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 1.6,
+      "df_today": 2,
+      "score": 64.669568,
+      "term": "job",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 62.169798,
+      "term": "qwen",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "messages",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "auth",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 26.366695,
+      "term": "role",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 3.1667,
+      "df_today": 2,
+      "score": 19.699973,
+      "term": "token",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "jobs or",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--1ba5b900",
+        "huggingface-blog--f8702166"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 17.513191,
+      "term": "flags",
+      "tf_today": 6
+    }
+  ],
+  "date": "2026-06-26",
+  "evidence_article_ids": [
+    "codenewsletter--1ba5b900",
+    "huggingface-blog--f8702166"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "inference",
+      "agent",
+      "token",
+      "model",
+      "attention"
+    ]
+  },
+  "score": 123.002879,
+  "word": "inference"
+}

@@ -2424,6 +2424,10 @@
     "article_id": "codenewsletter--b2549080",
     "first_seen_date": "2026-04-14"
   },
+  "https://codenewsletter.ai/p/google-brings-computer-use-to-gemini-3-5-flash-notion-drops-external-agents": {
+    "article_id": "codenewsletter--1ba5b900",
+    "first_seen_date": "2026-06-26"
+  },
   "https://codenewsletter.ai/p/google-drops-diffusiongemma-supermemory-now-runs-locally": {
     "article_id": "codenewsletter--6a9ecfc5",
     "first_seen_date": "2026-06-12"
@@ -3346,6 +3350,10 @@
   "https://huggingface.co/blog/allenai/emo": {
     "article_id": "huggingface-blog--640e93c2",
     "first_seen_date": "2026-05-09"
+  },
+  "https://huggingface.co/blog/allenai/hybrid-token-prediction": {
+    "article_id": "huggingface-blog--ab1d8cb7",
+    "first_seen_date": "2026-06-26"
   },
   "https://huggingface.co/blog/allenai/molmomotion": {
     "article_id": "huggingface-blog--bf74fa17",
@@ -5283,6 +5291,10 @@
     "article_id": "huggingface-blog--60e41824",
     "first_seen_date": "2026-05-06"
   },
+  "https://huggingface.co/blog/vllm-jobs": {
+    "article_id": "huggingface-blog--f8702166",
+    "first_seen_date": "2026-06-26"
+  },
   "https://huggingface.co/blog/vlms": {
     "article_id": "huggingface-blog--5bfe0fac",
     "first_seen_date": "2026-06-09"
@@ -5790,6 +5802,10 @@
   "https://openai.com/index/helping-disaster-response-teams-asia": {
     "article_id": "openai-blog--2c9efb6d",
     "first_seen_date": "2026-04-13"
+  },
+  "https://openai.com/index/how-agents-are-transforming-work": {
+    "article_id": "openai-blog--2a293660",
+    "first_seen_date": "2026-06-26"
   },
   "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment": {
     "article_id": "openai-blog--f74924e8",
@@ -7943,6 +7959,18 @@
     "article_id": "x-demishassabis--05e502a4",
     "first_seen_date": "2026-06-25"
   },
+  "https://x.com/ClaudeDevs/status/2069895378544267619": {
+    "article_id": "x-demishassabis--5b5b6993",
+    "first_seen_date": "2026-06-26"
+  },
+  "https://x.com/ClaudeDevs/status/2069895380154884155": {
+    "article_id": "x-demishassabis--a545666f",
+    "first_seen_date": "2026-06-26"
+  },
+  "https://x.com/ClaudeDevs/status/2069895387784380833": {
+    "article_id": "x-demishassabis--af449d24",
+    "first_seen_date": "2026-06-26"
+  },
   "https://x.com/ClaudeDevs/status/2069895389415874907": {
     "article_id": "x-demishassabis--2f676386",
     "first_seen_date": "2026-06-25"
@@ -7950,6 +7978,10 @@
   "https://x.com/ClaudeDevs/status/2069895390716104988": {
     "article_id": "x-demishassabis--5d2e932f",
     "first_seen_date": "2026-06-25"
+  },
+  "https://x.com/ClaudeDevs/status/2070235730295865661": {
+    "article_id": "x-demishassabis--c3d707b6",
+    "first_seen_date": "2026-06-26"
   },
   "https://x.com/DrJimFan/status/2019112603637920237": {
     "article_id": "x-drjimfan--594658a3",
@@ -9851,6 +9883,10 @@
     "article_id": "x-demishassabis--017a37aa",
     "first_seen_date": "2026-06-24"
   },
+  "https://x.com/demishassabis/status/2070180154069176399": {
+    "article_id": "x-demishassabis--cc7eaa22",
+    "first_seen_date": "2026-06-26"
+  },
   "https://x.com/karpathy/status/2034321875506196585": {
     "article_id": "x-karpathy--107688fb",
     "first_seen_date": "2026-04-14"
@@ -11599,6 +11635,10 @@
     "article_id": "x-simonw--9b91dacc",
     "first_seen_date": "2026-06-25"
   },
+  "https://x.com/simonw/status/2070212662903099536": {
+    "article_id": "x-simonw--490bb2bf",
+    "first_seen_date": "2026-06-26"
+  },
   "https://x.com/trq212/status/2041654973491245509": {
     "article_id": "x-trq212--3f691ebd",
     "first_seen_date": "2026-04-14"
@@ -12122,6 +12162,14 @@
   "https://x.com/trq212/status/2069956492900610435": {
     "article_id": "x-trq212--a24f2bae",
     "first_seen_date": "2026-06-25"
+  },
+  "https://x.com/trq212/status/2070238581147455842": {
+    "article_id": "x-trq212--ad8b0078",
+    "first_seen_date": "2026-06-26"
+  },
+  "https://x.com/trq212/status/2070238932621811713": {
+    "article_id": "x-trq212--61eb2780",
+    "first_seen_date": "2026-06-26"
   },
   "https://x.com/ylecun/status/1675582041596006400": {
     "article_id": "x-ylecun--9c80d66f",
@@ -13795,8 +13843,16 @@
     "article_id": "x-ylecun--7aba00dd",
     "first_seen_date": "2026-06-25"
   },
+  "https://x.com/ylecun/status/2069827998271099365": {
+    "article_id": "x-ylecun--bb4218a8",
+    "first_seen_date": "2026-06-26"
+  },
   "https://x.com/ylecun/status/2069830476332712013": {
     "article_id": "x-ylecun--628cd45a",
     "first_seen_date": "2026-06-25"
+  },
+  "https://x.com/ylecun/status/2070170580947497042": {
+    "article_id": "x-ylecun--c8ad13f0",
+    "first_seen_date": "2026-06-26"
   }
 }
