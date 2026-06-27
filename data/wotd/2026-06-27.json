@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 62.169798,
+      "term": "alibaba",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "distillation",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "fake",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "former",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "operators",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 12.1579,
+      "df_today": 2,
+      "score": 14.296825,
+      "term": "agents",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 2.8333,
+      "df_today": 2,
+      "score": 12.69474,
+      "term": "custom",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "accounts to",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "claude's",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--29cd71b7",
+        "codenewsletter--18c455ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "deploying",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-06-27",
+  "evidence_article_ids": [
+    "aibreakfast--29cd71b7",
+    "codenewsletter--18c455ec"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "ai agents",
+      "anthropic claims",
+      "conversational",
+      "distillation",
+      "agents for"
+    ]
+  },
+  "score": 7.292916,
+  "word": "ai agents"
+}
