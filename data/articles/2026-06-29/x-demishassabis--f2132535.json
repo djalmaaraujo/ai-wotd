@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--f2132535",
+  "author": "Claude Devs",
+  "content_chars": 221,
+  "content_sha256": "bc0b10d985366849bb7164e8021ed56d1bdc101204ff0ab65d5df479d67c372f",
+  "content_tokens": 55,
+  "fetched_at": "2026-06-30T07:35:48Z",
+  "kind": "tweet",
+  "published_at": "2026-06-29T19:05:30+00:00",
+  "snippet": "Niklas keeps 5 to 10 Claude sessions running in tmux, one per git worktree, agents working in the background. All of it inside a 20M+ line monorepo. He expected agents to struggle at that size, but it's worked well. Video",
+  "source_id": "x-demishassabis",
+  "title": "Niklas keeps 5 to 10 Claude sessions running in tmux, one per git worktree, agen",
+  "top_terms": [
+    [
+      "agents",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude sessions",
+      2
+    ],
+    [
+      "claude sessions running",
+      2
+    ],
+    [
+      "git",
+      2
+    ],
+    [
+      "git worktree",
+      2
+    ],
+    [
+      "in tmux",
+      2
+    ],
+    [
+      "in tmux one",
+      2
+    ],
+    [
+      "keeps",
+      2
+    ],
+    [
+      "keeps to",
+      2
+    ],
+    [
+      "keeps to claude",
+      2
+    ],
+    [
+      "niklas",
+      2
+    ],
+    [
+      "niklas keeps",
+      2
+    ],
+    [
+      "niklas keeps to",
+      2
+    ],
+    [
+      "one per git",
+      2
+    ],
+    [
+      "per git",
+      2
+    ],
+    [
+      "per git worktree",
+      2
+    ],
+    [
+      "running",
+      2
+    ],
+    [
+      "running in",
+      2
+    ],
+    [
+      "running in tmux",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2071671419893883099",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2071671419893883099",
+  "via_source_id": null
+}

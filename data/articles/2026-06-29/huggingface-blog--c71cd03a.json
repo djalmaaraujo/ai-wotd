@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c71cd03a",
+  "author": "Hugging Face Blog",
+  "content_chars": 6234,
+  "content_sha256": "d6030957ea3037e078d4da418ee6a1bbee57c9fac4d5e3d93b101a3ed48ec4d1",
+  "content_tokens": 1558,
+  "fetched_at": "2026-06-30T07:35:42Z",
+  "kind": "article",
+  "published_at": "2026-06-29T18:02:48+00:00",
+  "snippet": "DiScoFormer: One transformer for density and score, across distributions Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "top_terms": [
+    [
+      "density",
+      27
+    ],
+    [
+      "score",
+      27
+    ],
+    [
+      "density and",
+      15
+    ],
+    [
+      "and score",
+      12
+    ],
+    [
+      "density and score",
+      12
+    ],
+    [
+      "discoformer",
+      10
+    ],
+    [
+      "data",
+      8
+    ],
+    [
+      "the density",
+      8
+    ],
+    [
+      "transformer",
+      8
+    ],
+    [
+      "distribution",
+      7
+    ],
+    [
+      "model",
+      7
+    ],
+    [
+      "the score",
+      7
+    ],
+    [
+      "across",
+      6
+    ],
+    [
+      "estimation",
+      6
+    ],
+    [
+      "kde",
+      6
+    ],
+    [
+      "for density",
+      5
+    ],
+    [
+      "for density and",
+      5
+    ],
+    [
+      "models",
+      5
+    ],
+    [
+      "points",
+      5
+    ],
+    [
+      "training",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/discoformer",
+  "url_canonical": "https://huggingface.co/blog/allenai/discoformer",
+  "via_source_id": null
+}
