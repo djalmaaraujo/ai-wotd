@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--41e402ea",
+  "author": "Yann LeCun",
+  "content_chars": 1267,
+  "content_sha256": "b25f60f4fd1a82bd05065c77bf345034a613415638f75701cbe34faa977b4463",
+  "content_tokens": 316,
+  "fetched_at": "2026-07-01T07:48:47Z",
+  "kind": "tweet",
+  "published_at": "2026-06-30T22:44:30+00:00",
+  "snippet": "Can regularization based JEPA (e.g. SIGReg) scale and compete with SOTA foundation models (DINO)? Here is the answer: yes and with 10x less data. VISReg (slight variation of SIGReg) competes with DINOv2-LVD142M while only training on inet22k. Try it out…",
+  "source_id": "x-ylecun",
+  "title": "Can regularization based JEPA (e.g. SIGReg) scale and compete with SOTA foundati",
+  "top_terms": [
+    [
+      "scale",
+      4
+    ],
+    [
+      "sigreg",
+      4
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "datasets",
+      3
+    ],
+    [
+      "jepa",
+      3
+    ],
+    [
+      "ood",
+      3
+    ],
+    [
+      "accuracy",
+      2
+    ],
+    [
+      "achieving",
+      2
+    ],
+    [
+      "and compete",
+      2
+    ],
+    [
+      "and compete with",
+      2
+    ],
+    [
+      "based",
+      2
+    ],
+    [
+      "based jepa",
+      2
+    ],
+    [
+      "best",
+      2
+    ],
+    [
+      "can regularization",
+      2
+    ],
+    [
+      "can regularization based",
+      2
+    ],
+    [
+      "collapse",
+      2
+    ],
+    [
+      "compete",
+      2
+    ],
+    [
+      "compete with",
+      2
+    ],
+    [
+      "compete with sota",
+      2
+    ],
+    [
+      "haiyuwu1",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2072088917348630648",
+  "url_canonical": "https://x.com/ylecun/status/2072088917348630648",
+  "via_source_id": null
+}

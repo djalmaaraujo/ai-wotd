@@ -1,0 +1,136 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--30828d94",
+        "one-useful-thing--34cef4a7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "approach",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-trq212--7c12f6d1",
+        "x-trq212--84b2de18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "redeploying",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--30828d94",
+        "one-useful-thing--34cef4a7",
+        "x-trq212--7c12f6d1",
+        "x-trq212--84b2de18"
+      ],
+      "avg_tf_baseline": 10.7222,
+      "df_today": 4,
+      "score": 9.78943,
+      "term": "models",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "codenewsletter--30828d94",
+        "one-useful-thing--34cef4a7"
+      ],
+      "avg_tf_baseline": 6.5556,
+      "df_today": 2,
+      "score": 7.740311,
+      "term": "work",
+      "tf_today": 20
+    },
+    {
+      "articles": [
+        "codenewsletter--30828d94",
+        "one-useful-thing--34cef4a7"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 7.59277,
+      "term": "frontier",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "codenewsletter--30828d94",
+        "one-useful-thing--34cef4a7",
+        "x-trq212--7c12f6d1",
+        "x-trq212--93b47c91"
+      ],
+      "avg_tf_baseline": 3.8,
+      "df_today": 4,
+      "score": 7.361959,
+      "term": "better",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "x-trq212--7c12f6d1",
+        "x-trq212--84b2de18"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "excited",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--30828d94",
+        "one-useful-thing--34cef4a7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "is changing",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-trq212--7c12f6d1",
+        "x-trq212--93b47c91"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "misuse",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-trq212--7c12f6d1",
+        "x-trq212--93b47c91"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "refine",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-07-01",
+  "evidence_article_ids": [
+    "x-trq212--7c12f6d1",
+    "x-trq212--93b47c91"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "distinguish genuine misuse",
+      "export controls",
+      "chinese models",
+      "around ai",
+      "agents"
+    ]
+  },
+  "score": 3.662041,
+  "word": "distinguish genuine misuse"
+}

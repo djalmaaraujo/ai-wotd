@@ -1,0 +1,98 @@
+{
+  "article_id": "openai-blog--c3a64a98",
+  "author": "OpenAI Blog",
+  "content_chars": 157,
+  "content_sha256": "3faffbe8499ba311861cd2afb9b3ce5b6886e1b8939aad758928536968d5d0cb",
+  "content_tokens": 39,
+  "fetched_at": "2026-07-01T07:48:40Z",
+  "kind": "article",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "snippet": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+  "source_id": "openai-blog",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "top_terms": [
+    [
+      "bug",
+      2
+    ],
+    [
+      "core",
+      2
+    ],
+    [
+      "core dump",
+      2
+    ],
+    [
+      "dump",
+      2
+    ],
+    [
+      "an year-old",
+      1
+    ],
+    [
+      "an year-old bug",
+      1
+    ],
+    [
+      "analysis",
+      1
+    ],
+    [
+      "analysis to",
+      1
+    ],
+    [
+      "analysis to debug",
+      1
+    ],
+    [
+      "bug openai",
+      1
+    ],
+    [
+      "bug openai engineers",
+      1
+    ],
+    [
+      "core dump analysis",
+      1
+    ],
+    [
+      "core dump epidemiology",
+      1
+    ],
+    [
+      "crashes",
+      1
+    ],
+    [
+      "crashes uncovering",
+      1
+    ],
+    [
+      "crashes uncovering both",
+      1
+    ],
+    [
+      "debug",
+      1
+    ],
+    [
+      "debug rare",
+      1
+    ],
+    [
+      "debug rare infrastructure",
+      1
+    ],
+    [
+      "dump analysis",
+      1
+    ]
+  ],
+  "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "url_canonical": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "via_source_id": null
+}
