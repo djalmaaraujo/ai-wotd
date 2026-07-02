@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.350922,
+      "term": "chips",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "claude sonnet",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 10.361633,
+      "term": "nvidia",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "andrew",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "andrew ng",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "core",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "gemini pro",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "identity",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "meituan",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "aibreakfast--83715d06",
+        "codenewsletter--8f3597f9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "ng",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-07-02",
+  "evidence_article_ids": [
+    "aibreakfast--83715d06",
+    "codenewsletter--8f3597f9"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "trillion-parameter",
+      "claude sonnet",
+      "gemini pro",
+      "dropped claude sonnet",
+      "agents"
+    ]
+  },
+  "score": 8.317766,
+  "word": "trillion-parameter"
+}
