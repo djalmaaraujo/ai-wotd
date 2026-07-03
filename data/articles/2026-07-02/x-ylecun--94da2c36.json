@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--94da2c36",
+  "author": "Yann LeCun",
+  "content_chars": 766,
+  "content_sha256": "af1a3f2fbdb31f38536b3b2500aced261f90348be9adddc1b0b3e5afd16049e6",
+  "content_tokens": 191,
+  "fetched_at": "2026-07-03T07:23:00Z",
+  "kind": "tweet",
+  "published_at": "2026-07-02T15:09:07+00:00",
+  "snippet": "Oops, SIGReg did it again! Large scale (CC12M->Datacomp-L) vision-language JEPA pretraining beats CLIP and SigLIP objectives! Thanks to SIGReg, our LeVLJEPA has no collapse, no EMA, no stop-gradient, no negatives, no problem! Checkpoints/demo are live: levljepa.github.io Lukas…",
+  "source_id": "x-ylecun",
+  "title": "Oops, SIGReg did it again! Large scale (CC12M->Datacomp-L) vision-language JEPA ",
+  "top_terms": [
+    [
+      "levljepa",
+      4
+    ],
+    [
+      "sigreg",
+      4
+    ],
+    [
+      "vision-language",
+      3
+    ],
+    [
+      "again large",
+      2
+    ],
+    [
+      "again large scale",
+      2
+    ],
+    [
+      "cc12m",
+      2
+    ],
+    [
+      "cc12m datacomp-l",
+      2
+    ],
+    [
+      "cc12m datacomp-l vision-language",
+      2
+    ],
+    [
+      "clip",
+      2
+    ],
+    [
+      "datacomp-l",
+      2
+    ],
+    [
+      "datacomp-l vision-language",
+      2
+    ],
+    [
+      "datacomp-l vision-language jepa",
+      2
+    ],
+    [
+      "embedding",
+      2
+    ],
+    [
+      "it again large",
+      2
+    ],
+    [
+      "jepa",
+      2
+    ],
+    [
+      "large",
+      2
+    ],
+    [
+      "large scale",
+      2
+    ],
+    [
+      "large scale cc12m",
+      2
+    ],
+    [
+      "lukaskuhn77",
+      2
+    ],
+    [
+      "negatives",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2072699094040998064",
+  "url_canonical": "https://x.com/ylecun/status/2072699094040998064",
+  "via_source_id": null
+}

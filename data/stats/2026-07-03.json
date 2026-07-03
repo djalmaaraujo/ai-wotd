@@ -1,0 +1,70 @@
+{
+  "article_ids": [
+    "codenewsletter--4bc5b929",
+    "x-simonw--82b4d6da"
+  ],
+  "date": "2026-07-03",
+  "document_count": 2,
+  "terms": {
+    "question": {
+      "articles": [
+        "codenewsletter--4bc5b929",
+        "x-simonw--82b4d6da"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reply": {
+      "articles": [
+        "codenewsletter--4bc5b929",
+        "x-simonw--82b4d6da"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "running": {
+      "articles": [
+        "codenewsletter--4bc5b929",
+        "x-simonw--82b4d6da"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "stop": {
+      "articles": [
+        "codenewsletter--4bc5b929",
+        "x-simonw--82b4d6da"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "you're": {
+      "articles": [
+        "codenewsletter--4bc5b929",
+        "x-simonw--82b4d6da"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}
