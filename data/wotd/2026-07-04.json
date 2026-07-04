@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 52.73339,
+      "term": "ai breakfast",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 52.73339,
+      "term": "breakfast",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "grok",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "stake",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "citizen",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "citizen payouts",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "fund citizen",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "fund citizen payouts",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "give the us",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--5a4e3bbc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "might give",
+      "tf_today": 5
+    }
+  ],
+  "date": "2026-07-04",
+  "evidence_article_ids": [
+    "aibreakfast--5a4e3bbc"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "citizen payouts openai",
+      "citizen payouts ai",
+      "citizen payouts",
+      "stake to fund",
+      "fund citizen payouts"
+    ]
+  },
+  "score": 12.476649,
+  "word": "citizen payouts openai"
+}
