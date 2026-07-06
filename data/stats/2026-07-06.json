@@ -1,0 +1,46 @@
+{
+  "article_ids": [
+    "huggingface-blog--28456422",
+    "x-trq212--cd4b4ebe"
+  ],
+  "date": "2026-07-06",
+  "document_count": 2,
+  "terms": {
+    "end": {
+      "articles": [
+        "huggingface-blog--28456422",
+        "x-trq212--cd4b4ebe"
+      ],
+      "authors": [
+        "@trq212",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mean": {
+      "articles": [
+        "huggingface-blog--28456422",
+        "x-trq212--cd4b4ebe"
+      ],
+      "authors": [
+        "@trq212",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign": {
+      "articles": [
+        "huggingface-blog--28456422",
+        "x-trq212--cd4b4ebe"
+      ],
+      "authors": [
+        "@trq212",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    }
+  }
+}

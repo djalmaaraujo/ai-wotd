@@ -1,0 +1,44 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--28456422",
+        "x-trq212--cd4b4ebe"
+      ],
+      "avg_tf_baseline": 2.9474,
+      "df_today": 2,
+      "score": 5.941976,
+      "term": "sign",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "huggingface-blog--28456422",
+        "x-trq212--cd4b4ebe"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 3.119162,
+      "term": "mean",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "huggingface-blog--28456422",
+        "x-trq212--cd4b4ebe"
+      ],
+      "avg_tf_baseline": 2.75,
+      "df_today": 2,
+      "score": 1.198486,
+      "term": "end",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-06",
+  "evidence_article_ids": [
+    "huggingface-blog--28456422",
+    "x-trq212--cd4b4ebe"
+  ],
+  "score": 5.941976,
+  "word": "sign"
+}
