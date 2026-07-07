@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 459.733363,
+      "term": "lerobot",
+      "tf_today": 41
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 194.735675,
+      "term": "dataset",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 135.994241,
+      "term": "hf",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 82.001919,
+      "term": "datasets",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 82.001919,
+      "term": "documentation",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 82.001919,
+      "term": "reward",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 82.001919,
+      "term": "v0",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 71.936858,
+      "term": "deployment",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 71.936858,
+      "term": "imagine",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "huggingface-blog--5203a855"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 71.936858,
+      "term": "type",
+      "tf_today": 10
+    }
+  ],
+  "date": "2026-07-07",
+  "evidence_article_ids": [
+    "huggingface-blog--5203a855"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "policy",
+      "reward models",
+      "robotics",
+      "training",
+      "hf user"
+    ]
+  },
+  "score": 45.816983,
+  "word": "policy"
+}
