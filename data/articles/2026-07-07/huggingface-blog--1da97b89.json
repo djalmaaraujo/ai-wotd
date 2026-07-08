@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1da97b89",
+  "author": "Hugging Face Blog",
+  "content_chars": 11879,
+  "content_sha256": "98839c4a1db63fc045fc5b1936a17623fa0c06b9a06bd74363fe9c9a06e6f21d",
+  "content_tokens": 2969,
+  "fetched_at": "2026-07-08T07:06:24Z",
+  "kind": "article",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "snippet": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Learn Discord Forum…",
+  "source_id": "huggingface-blog",
+  "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+  "top_terms": [
+    [
+      "hugging",
+      28
+    ],
+    [
+      "hf",
+      26
+    ],
+    [
+      "face",
+      25
+    ],
+    [
+      "hugging face",
+      25
+    ],
+    [
+      "skypilot",
+      25
+    ],
+    [
+      "storage",
+      19
+    ],
+    [
+      "bucket",
+      17
+    ],
+    [
+      "cloud",
+      16
+    ],
+    [
+      "mount",
+      16
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "store",
+      15
+    ],
+    [
+      "data",
+      14
+    ],
+    [
+      "run",
+      13
+    ],
+    [
+      "egress",
+      12
+    ],
+    [
+      "checkpoints",
+      11
+    ],
+    [
+      "datasets",
+      10
+    ],
+    [
+      "buckets",
+      9
+    ],
+    [
+      "models",
+      9
+    ],
+    [
+      "already",
+      8
+    ],
+    [
+      "every",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/skypilot-hf-storage",
+  "url_canonical": "https://huggingface.co/blog/skypilot-hf-storage",
+  "via_source_id": null
+}

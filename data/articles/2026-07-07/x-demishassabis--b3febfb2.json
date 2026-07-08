@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--b3febfb2",
+  "author": "Claude Devs",
+  "content_chars": 277,
+  "content_sha256": "dce6b6d7d2214fe3a482572a6000791f68eaf5040f76c1f7d299fb2ed4c0d491",
+  "content_tokens": 69,
+  "fetched_at": "2026-07-08T07:06:32Z",
+  "kind": "tweet",
+  "published_at": "2026-07-07T21:26:44+00:00",
+  "snippet": "On BrowseComp, we tested Claude Managed Agents w/ Fable 5 orchestrator + Sonnet 5 worker sub-agents. The Fable 5 orchestrator achieves 96% of Fable 5 performance at 46% of the price. Token-heavy research is delegated to Sonnet 5. See our cookbook: github.com/anthropics/claude…",
+  "source_id": "x-demishassabis",
+  "title": "On BrowseComp, we tested Claude Managed Agents w/ Fable 5 orchestrator + Sonnet ",
+  "top_terms": [
+    [
+      "fable",
+      4
+    ],
+    [
+      "claude",
+      3
+    ],
+    [
+      "fable orchestrator",
+      3
+    ],
+    [
+      "orchestrator",
+      3
+    ],
+    [
+      "sonnet",
+      3
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "browsecomp",
+      2
+    ],
+    [
+      "browsecomp we",
+      2
+    ],
+    [
+      "browsecomp we tested",
+      2
+    ],
+    [
+      "claude managed",
+      2
+    ],
+    [
+      "claude managed agents",
+      2
+    ],
+    [
+      "fable orchestrator sonnet",
+      2
+    ],
+    [
+      "managed",
+      2
+    ],
+    [
+      "managed agents",
+      2
+    ],
+    [
+      "on browsecomp",
+      2
+    ],
+    [
+      "on browsecomp we",
+      2
+    ],
+    [
+      "orchestrator sonnet",
+      2
+    ],
+    [
+      "tested",
+      2
+    ],
+    [
+      "tested claude",
+      2
+    ],
+    [
+      "tested claude managed",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2074606063509528855",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2074606063509528855",
+  "via_source_id": null
+}

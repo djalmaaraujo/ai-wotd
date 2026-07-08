@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "gpt-5 sol",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "gpt-5 sol launches",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "happy",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "happy building",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "launches thursday",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "launches thursday happy",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "sol launches",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "sol launches thursday",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "thursday happy",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-sama--3241840d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "thursday happy building",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-08",
+  "evidence_article_ids": [
+    "x-sama--3241840d"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gpt-5 sol",
+      "gpt-5 sol launches",
+      "building gpt-5 sol",
+      "happy building gpt-5",
+      "gpt-5"
+    ]
+  },
+  "score": 6.591674,
+  "word": "gpt-5 sol"
+}
