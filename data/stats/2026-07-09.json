@@ -1,0 +1,501 @@
+{
+  "article_ids": [
+    "x-sama--29c3f952",
+    "x-sama--80d417a3",
+    "x-sama--b5786bfc",
+    "x-sama--b7880404",
+    "x-sama--b8748f84",
+    "x-ylecun--0bb7a464"
+  ],
+  "date": "2026-07-09",
+  "document_count": 6,
+  "terms": {
+    "better": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "category": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "clear": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "experience": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 24
+    },
+    "fable is": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "fable or": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "faster": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "generation": {
+      "articles": [
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "give": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "give it": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "good": {
+      "articles": [
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "gpt-5": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 12
+    },
+    "hard": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "hard to": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "https nitter": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "https nitter net": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "is better": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "massive": {
+      "articles": [
+        "x-sama--b8748f84",
+        "x-ylecun--0bb7a464"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "model": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "models": {
+      "articles": [
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "never": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "nitter": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "nitter net": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "of fable": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "overall": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "shot": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "smarter": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sol": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 19
+    },
+    "sol for": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sol is": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "status": {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 5,
+      "tf": 5
+    },
+    "still": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "than fable": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "things": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "video": {
+      "articles": [
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "vs": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "way": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "work": {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 5
+    }
+  }
+}

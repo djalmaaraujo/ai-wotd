@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--062c5539",
+  "author": "Yann LeCun",
+  "content_chars": 611,
+  "content_sha256": "3baf6811a30ed7a8fe96a50141d3c290b9eb726fcdedaf5fd6f91d3f931f9195",
+  "content_tokens": 152,
+  "fetched_at": "2026-07-09T07:25:50Z",
+  "kind": "tweet",
+  "published_at": "2026-07-08T08:26:21+00:00",
+  "snippet": "We're releasing ZML/LLMD, our homegrown LLM server built on top of our homegrown high performance heterogeneous inference stack. It ships with 5 architectures out of the box: NVIDIA, AMD, Metal, Intel and TPU. All transparent. It supports DFlash, continuous batching, prefix…",
+  "source_id": "x-ylecun",
+  "title": "We're releasing ZML/LLMD, our homegrown LLM server built on top of our homegrown",
+  "top_terms": [
+    [
+      "zml",
+      7
+    ],
+    [
+      "homegrown",
+      4
+    ],
+    [
+      "llmd",
+      4
+    ],
+    [
+      "our homegrown",
+      4
+    ],
+    [
+      "zml llmd",
+      4
+    ],
+    [
+      "releasing",
+      3
+    ],
+    [
+      "releasing zml",
+      3
+    ],
+    [
+      "releasing zml llmd",
+      3
+    ],
+    [
+      "server",
+      3
+    ],
+    [
+      "amd",
+      2
+    ],
+    [
+      "architectures",
+      2
+    ],
+    [
+      "built",
+      2
+    ],
+    [
+      "built on",
+      2
+    ],
+    [
+      "built on top",
+      2
+    ],
+    [
+      "homegrown llm",
+      2
+    ],
+    [
+      "homegrown llm server",
+      2
+    ],
+    [
+      "inference",
+      2
+    ],
+    [
+      "intel",
+      2
+    ],
+    [
+      "llm",
+      2
+    ],
+    [
+      "llm server",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2074772062023950814",
+  "url_canonical": "https://x.com/ylecun/status/2074772062023950814",
+  "via_source_id": null
+}

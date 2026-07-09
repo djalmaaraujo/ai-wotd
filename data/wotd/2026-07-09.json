@@ -1,0 +1,138 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "avg_tf_baseline": 2.3333,
+      "df_today": 2,
+      "score": 20.328183,
+      "term": "sol",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "sol is",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 9.729551,
+      "term": "fable is",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "hard",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "of fable",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "overall",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b8748f84"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "than fable",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "avg_tf_baseline": 11.9091,
+      "df_today": 3,
+      "score": 6.486895,
+      "term": "fable",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "avg_tf_baseline": 2.5714,
+      "df_today": 5,
+      "score": 6.053943,
+      "term": "https nitter",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-sama--29c3f952",
+        "x-sama--80d417a3",
+        "x-sama--b5786bfc",
+        "x-sama--b7880404",
+        "x-sama--b8748f84"
+      ],
+      "avg_tf_baseline": 2.5714,
+      "df_today": 5,
+      "score": 6.053943,
+      "term": "https nitter net",
+      "tf_today": 6
+    }
+  ],
+  "date": "2026-07-09",
+  "evidence_article_ids": [
+    "x-sama--b5786bfc",
+    "x-sama--b8748f84"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gpt-5",
+      "fable",
+      "generation",
+      "efficient"
+    ]
+  },
+  "score": 5.280778,
+  "word": "gpt-5"
+}
