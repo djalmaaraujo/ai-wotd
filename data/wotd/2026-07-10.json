@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--357e6d98",
+        "x-simonw--94c369d4"
+      ],
+      "avg_tf_baseline": 4.3333,
+      "df_today": 2,
+      "score": 4.041506,
+      "term": "help",
+      "tf_today": 6
+    }
+  ],
+  "date": "2026-07-10",
+  "evidence_article_ids": [
+    "x-simonw--357e6d98",
+    "x-simonw--94c369d4"
+  ],
+  "score": 4.041506,
+  "word": "help"
+}
