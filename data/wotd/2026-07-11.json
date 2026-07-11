@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "modes",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and work",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and work modes",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "between chat",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "between chat and",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "chat and",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "chat and work",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "difference",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "difference between",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d5629d34"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "difference between chat",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-11",
+  "evidence_article_ids": [
+    "x-simonw--d5629d34"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "chatgpt mobile app",
+      "difference between chat",
+      "work modes in",
+      "chat and work",
+      "chatgpt mobile"
+    ]
+  },
+  "score": 2.079442,
+  "word": "chatgpt mobile app"
+}

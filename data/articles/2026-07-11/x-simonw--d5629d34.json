@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--d5629d34",
+  "author": "Simon Willison",
+  "content_chars": 277,
+  "content_sha256": "bde8c2b9945194bc5f6aaf8abc76b43b5186f47ea08653bf61705e5dcefb5ccf",
+  "content_tokens": 69,
+  "fetched_at": "2026-07-11T06:59:39Z",
+  "kind": "tweet",
+  "published_at": "2026-07-11T00:34:15+00:00",
+  "snippet": "More interesting is the difference between \"Chat\" and \"Work\" modes in the ChatGPT mobile app It looks like Work mode can run code that talks to the Internet! I just tried having both modes use yt-dlp to extract subtitles from a YouTube video - it failed in Chat, worked in Work",
+  "source_id": "x-simonw",
+  "title": "More interesting is the difference between \"Chat\" and \"Work\" modes in the ChatGP",
+  "top_terms": [
+    [
+      "work",
+      4
+    ],
+    [
+      "chat",
+      3
+    ],
+    [
+      "modes",
+      3
+    ],
+    [
+      "and work",
+      2
+    ],
+    [
+      "and work modes",
+      2
+    ],
+    [
+      "between chat",
+      2
+    ],
+    [
+      "between chat and",
+      2
+    ],
+    [
+      "chat and",
+      2
+    ],
+    [
+      "chat and work",
+      2
+    ],
+    [
+      "difference",
+      2
+    ],
+    [
+      "difference between",
+      2
+    ],
+    [
+      "difference between chat",
+      2
+    ],
+    [
+      "interesting",
+      2
+    ],
+    [
+      "interesting is",
+      2
+    ],
+    [
+      "interesting is the",
+      2
+    ],
+    [
+      "is the difference",
+      2
+    ],
+    [
+      "modes in",
+      2
+    ],
+    [
+      "modes in the",
+      2
+    ],
+    [
+      "more interesting",
+      2
+    ],
+    [
+      "more interesting is",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2075740417220616394",
+  "url_canonical": "https://x.com/simonw/status/2075740417220616394",
+  "via_source_id": null
+}
