@@ -1,0 +1,120 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "convention",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "convention makes",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "convention makes perfect",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "luna naming",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "luna naming convention",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "makes perfect",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "makes perfect sense",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "meanwhile openai's",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "meanwhile openai's new",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--ab92cc6e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "naming",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-13",
+  "evidence_article_ids": [
+    "x-simonw--ab92cc6e"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "luna naming convention",
+      "naming convention",
+      "sol terra luna",
+      "terra luna naming"
+    ]
+  },
+  "score": 6.591674,
+  "word": "luna naming convention"
+}
