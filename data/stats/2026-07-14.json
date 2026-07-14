@@ -1,0 +1,69 @@
+{
+  "article_ids": [
+    "x-sama--36d06b40",
+    "x-sama--673d20af",
+    "x-sama--a27ead4e",
+    "x-simonw--ceb0f2b4"
+  ],
+  "date": "2026-07-14",
+  "document_count": 4,
+  "terms": {
+    "finally": {
+      "articles": [
+        "x-sama--673d20af",
+        "x-simonw--ceb0f2b4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "hard": {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-sama--a27ead4e"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "hard questions": {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-sama--a27ead4e"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net": {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-simonw--ceb0f2b4"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "questions": {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-sama--a27ead4e"
+      ],
+      "authors": [
+        "Sam Altman"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

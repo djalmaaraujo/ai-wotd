@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-sama--a27ead4e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "hard questions",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--673d20af",
+        "x-simonw--ceb0f2b4"
+      ],
+      "avg_tf_baseline": 1.25,
+      "df_today": 2,
+      "score": 5.150201,
+      "term": "finally",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-sama--a27ead4e"
+      ],
+      "avg_tf_baseline": 1.75,
+      "df_today": 2,
+      "score": 2.376505,
+      "term": "questions",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-simonw--ceb0f2b4"
+      ],
+      "avg_tf_baseline": 2.75,
+      "df_today": 2,
+      "score": 1.512321,
+      "term": "net",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--36d06b40",
+        "x-sama--a27ead4e"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 1.386294,
+      "term": "hard",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-07-14",
+  "evidence_article_ids": [
+    "x-sama--36d06b40",
+    "x-sama--a27ead4e"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "hard questions",
+      "net",
+      "questions",
+      "hard",
+      "finally"
+    ]
+  },
+  "score": 8.317766,
+  "word": "hard questions"
+}

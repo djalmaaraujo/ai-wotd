@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--ceb0f2b4",
+  "author": "Simon Willison",
+  "content_chars": 512,
+  "content_sha256": "7b883c836363116c858356f1400dd1bc7c3daaa6d93530c0a8149bfd5bb8506d",
+  "content_tokens": 128,
+  "fetched_at": "2026-07-14T06:58:32Z",
+  "kind": "tweet",
+  "published_at": "2026-07-14T01:08:06+00:00",
+  "snippet": "New TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a recipe that I like for running `uvx tool-name` in GitHub Actions without downloading a fresh copy of the package every time til.simonwillison.net/github… Link Using uvx in GitHub Actions in a…",
+  "source_id": "x-simonw",
+  "title": "New TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a r",
+  "top_terms": [
+    [
+      "github",
+      6
+    ],
+    [
+      "actions",
+      5
+    ],
+    [
+      "github actions",
+      5
+    ],
+    [
+      "uvx",
+      5
+    ],
+    [
+      "in github",
+      4
+    ],
+    [
+      "in github actions",
+      4
+    ],
+    [
+      "til",
+      4
+    ],
+    [
+      "using uvx",
+      4
+    ],
+    [
+      "actions in",
+      3
+    ],
+    [
+      "cache-friendly",
+      3
+    ],
+    [
+      "cache-friendly way",
+      3
+    ],
+    [
+      "github actions in",
+      3
+    ],
+    [
+      "using uvx in",
+      3
+    ],
+    [
+      "uvx in",
+      3
+    ],
+    [
+      "uvx in github",
+      3
+    ],
+    [
+      "way",
+      3
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "every time",
+      2
+    ],
+    [
+      "finally",
+      2
+    ],
+    [
+      "finally found",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2076836099910193484",
+  "url_canonical": "https://x.com/simonw/status/2076836099910193484",
+  "via_source_id": null
+}

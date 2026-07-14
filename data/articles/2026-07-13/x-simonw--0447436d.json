@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--0447436d",
+  "author": "Simon Willison",
+  "content_chars": 855,
+  "content_sha256": "ba021fd938af656c5eba324589943449ba925396b732db88c07cb9bb3a69516f",
+  "content_tokens": 213,
+  "fetched_at": "2026-07-14T06:58:32Z",
+  "kind": "tweet",
+  "published_at": "2026-07-13T22:36:37+00:00",
+  "snippet": "This is really cool! It renders frames using a ray tracer implemented as a SQLite recursive CTE Since state is stored in a SQLite database on-disk you can have other tools query it while you are playing - I rolled this custom HTML+JS view that adds a minimap Peter Gostev…",
+  "source_id": "x-simonw",
+  "title": "This is really cool! It renders frames using a ray tracer implemented as a SQLit",
+  "top_terms": [
+    [
+      "sql",
+      5
+    ],
+    [
+      "game",
+      4
+    ],
+    [
+      "terminal",
+      4
+    ],
+    [
+      "implemented",
+      3
+    ],
+    [
+      "sqlite",
+      3
+    ],
+    [
+      "cool",
+      2
+    ],
+    [
+      "cool it",
+      2
+    ],
+    [
+      "cool it renders",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "frames",
+      2
+    ],
+    [
+      "frames using",
+      2
+    ],
+    [
+      "game in",
+      2
+    ],
+    [
+      "implemented as",
+      2
+    ],
+    [
+      "in the terminal",
+      2
+    ],
+    [
+      "is really cool",
+      2
+    ],
+    [
+      "it renders",
+      2
+    ],
+    [
+      "it renders frames",
+      2
+    ],
+    [
+      "petergostev",
+      2
+    ],
+    [
+      "ray",
+      2
+    ],
+    [
+      "ray tracer",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2076797976027210174",
+  "url_canonical": "https://x.com/simonw/status/2076797976027210174",
+  "via_source_id": null
+}
