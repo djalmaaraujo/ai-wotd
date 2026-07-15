@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "how to write",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "code it's",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "people saying",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "people saying if",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "saying",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "saying if",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "saying if you",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "see people",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "see people saying",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--9ea89299"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "sometimes",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-15",
+  "evidence_article_ids": [
+    "x-simonw--9ea89299"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "faster to write",
+      "write the code",
+      "doing the typing",
+      "exact opposite",
+      "i'd argue the"
+    ]
+  },
+  "score": 2.079442,
+  "word": "faster to write"
+}
