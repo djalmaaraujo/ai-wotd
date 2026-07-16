@@ -1,0 +1,98 @@
+{
+  "article_id": "x-drjimfan--649369af",
+  "author": "Jim Fan",
+  "content_chars": 1664,
+  "content_sha256": "e3405797d6d355c0203a7bc5977160871da6a58589cdf96ba59d91c81ab6a64d",
+  "content_tokens": 416,
+  "fetched_at": "2026-07-16T07:05:13Z",
+  "kind": "tweet",
+  "published_at": "2026-07-15T15:25:02+00:00",
+  "snippet": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude…",
+  "source_id": "x-drjimfan",
+  "title": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth ",
+  "top_terms": [
+    [
+      "context",
+      6
+    ],
+    [
+      "robot",
+      6
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "robottt",
+      3
+    ],
+    [
+      "the robot",
+      3
+    ],
+    [
+      "timesteps",
+      3
+    ],
+    [
+      "video",
+      3
+    ],
+    [
+      "context minutes",
+      2
+    ],
+    [
+      "context minutes worth",
+      2
+    ],
+    [
+      "core",
+      2
+    ],
+    [
+      "fix",
+      2
+    ],
+    [
+      "human",
+      2
+    ],
+    [
+      "learning",
+      2
+    ],
+    [
+      "minutes",
+      2
+    ],
+    [
+      "minutes worth",
+      2
+    ],
+    [
+      "model natively",
+      2
+    ],
+    [
+      "model natively to",
+      2
+    ],
+    [
+      "natively",
+      2
+    ],
+    [
+      "natively to",
+      2
+    ],
+    [
+      "natively to timesteps",
+      2
+    ]
+  ],
+  "url": "https://x.com/DrJimFan/status/2077414142340988962",
+  "url_canonical": "https://x.com/DrJimFan/status/2077414142340988962",
+  "via_source_id": null
+}

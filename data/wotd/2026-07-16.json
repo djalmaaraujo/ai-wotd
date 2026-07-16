@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "all users",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "and weekly",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "and weekly rate",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "for all users",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "hour",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "hour and",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "hour and weekly",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "limits for",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "limits for all",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "rate limits",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-07-16",
+  "evidence_article_ids": [
+    "x-demishassabis--27f680dc",
+    "x-trq212--3058f0fd"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "weekly rate limits",
+      "rate limits for",
+      "reset hour and",
+      "mermaid",
+      "grok"
+    ]
+  },
+  "score": 12.875503,
+  "word": "weekly rate limits"
+}

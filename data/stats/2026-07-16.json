@@ -1,0 +1,401 @@
+{
+  "article_ids": [
+    "x-demishassabis--27f680dc",
+    "x-simonw--8f2fdcd4",
+    "x-simonw--c3b70c1c",
+    "x-trq212--3058f0fd"
+  ],
+  "date": "2026-07-16",
+  "document_count": 4,
+  "terms": {
+    "all users": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "all users we've": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and weekly": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "and weekly rate": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "code": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "for all users": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "grok": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "hour": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "hour and": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "hour and weekly": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "limits": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "limits for": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "limits for all": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "mermaid": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "rate": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rate limits": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rate limits for": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reset": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reset hour": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reset hour and": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rust": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "simonwillison": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "simonwillison net": {
+      "articles": [
+        "x-simonw--8f2fdcd4",
+        "x-simonw--c3b70c1c"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "users": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "users we've": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users we've reset": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we've": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "we've reset": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "we've reset hour": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "weekly": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "weekly rate": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "weekly rate limits": {
+      "articles": [
+        "x-demishassabis--27f680dc",
+        "x-trq212--3058f0fd"
+      ],
+      "authors": [
+        "@trq212",
+        "Claude Devs"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}
