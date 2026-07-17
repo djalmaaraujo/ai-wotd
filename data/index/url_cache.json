@@ -2748,6 +2748,10 @@
     "article_id": "codenewsletter--ed15082c",
     "first_seen_date": "2026-05-22"
   },
+  "https://codenewsletter.ai/p/thinking-machines-drops-inkling-spacexai-open-sources-grok-build": {
+    "article_id": "codenewsletter--17fb4191",
+    "first_seen_date": "2026-07-17"
+  },
   "https://codenewsletter.ai/p/thinking-machines-unveils-tml-interaction-small-openai-ships-daybreak": {
     "article_id": "codenewsletter--f4fd0f62",
     "first_seen_date": "2026-05-13"
@@ -3049,6 +3053,10 @@
     "article_id": "google-deepmind--e81beb1b",
     "first_seen_date": "2026-05-20"
   },
+  "https://deepmind.google/blog/our-approach-to-bioresilience": {
+    "article_id": "google-deepmind--c8e37020",
+    "first_seen_date": "2026-07-17"
+  },
   "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation": {
     "article_id": "google-deepmind--0b24dc83",
     "first_seen_date": "2026-04-23"
@@ -3278,6 +3286,10 @@
   "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots": {
     "article_id": "huggingface-blog--14398bc5",
     "first_seen_date": "2026-06-04"
+  },
+  "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": {
+    "article_id": "huggingface-blog--857fab7a",
+    "first_seen_date": "2026-07-17"
   },
   "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": {
     "article_id": "huggingface-blog--b02e711f",
@@ -4711,6 +4723,10 @@
     "article_id": "huggingface-blog--b3c5589c",
     "first_seen_date": "2026-06-05"
   },
+  "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb": {
+    "article_id": "huggingface-blog--e84d8b25",
+    "first_seen_date": "2026-07-17"
+  },
   "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe": {
     "article_id": "huggingface-blog--d32ce8fa",
     "first_seen_date": "2026-04-21"
@@ -5074,6 +5090,10 @@
   "https://huggingface.co/blog/sdxl_ort_inference": {
     "article_id": "huggingface-blog--59a0c3d0",
     "first_seen_date": "2026-06-12"
+  },
+  "https://huggingface.co/blog/security-incident-july-2026": {
+    "article_id": "huggingface-blog--29fcd6f3",
+    "first_seen_date": "2026-07-17"
   },
   "https://huggingface.co/blog/segmoe": {
     "article_id": "huggingface-blog--4736d149",
@@ -5839,6 +5859,10 @@
     "article_id": "openai-blog--e139b91f",
     "first_seen_date": "2026-06-09"
   },
+  "https://openai.com/index/cars24": {
+    "article_id": "openai-blog--48468501",
+    "first_seen_date": "2026-07-17"
+  },
   "https://openai.com/index/chatgpt-enterprise-spend-controls": {
     "article_id": "openai-blog--33900c37",
     "first_seen_date": "2026-06-19"
@@ -6435,6 +6459,10 @@
   "https://openai.com/index/why-codex-security-doesnt-include-sast": {
     "article_id": "openai-blog--28cc9fc2",
     "first_seen_date": "2026-04-13"
+  },
+  "https://openai.com/index/why-teens-deserve-access-safe-ai": {
+    "article_id": "openai-blog--22c64575",
+    "first_seen_date": "2026-07-17"
   },
   "https://openai.com/index/work-with-codex-from-anywhere": {
     "article_id": "openai-blog--cdb911a2",
@@ -8463,6 +8491,30 @@
     "article_id": "x-demishassabis--27f680dc",
     "first_seen_date": "2026-07-16"
   },
+  "https://x.com/ClaudeDevs/status/2077840057130692886": {
+    "article_id": "x-demishassabis--d1135bdf",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ClaudeDevs/status/2077840058896515437": {
+    "article_id": "x-demishassabis--eec438c7",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ClaudeDevs/status/2077840060003852346": {
+    "article_id": "x-demishassabis--aa212972",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ClaudeDevs/status/2077840061127922080": {
+    "article_id": "x-demishassabis--79b14742",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ClaudeDevs/status/2077840062163869888": {
+    "article_id": "x-demishassabis--5580b965",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ClaudeDevs/status/2077840063342506351": {
+    "article_id": "x-demishassabis--5527aae9",
+    "first_seen_date": "2026-07-17"
+  },
   "https://x.com/DrJimFan/status/2019112603637920237": {
     "article_id": "x-drjimfan--594658a3",
     "first_seen_date": "2026-04-14"
@@ -9326,6 +9378,26 @@
   "https://x.com/bcherny/status/2077489907350856038": {
     "article_id": "x-bcherny--2cda957c",
     "first_seen_date": "2026-07-16"
+  },
+  "https://x.com/bcherny/status/2077929379661844559": {
+    "article_id": "x-bcherny--c5a533e0",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/bcherny/status/2077929386146169269": {
+    "article_id": "x-bcherny--880570fb",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/bcherny/status/2077929390806073807": {
+    "article_id": "x-bcherny--f0e37f5a",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/bcherny/status/2077929397495959693": {
+    "article_id": "x-bcherny--d8e98a3e",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/bcherny/status/2077929404219474148": {
+    "article_id": "x-bcherny--28a20fd8",
+    "first_seen_date": "2026-07-17"
   },
   "https://x.com/claudeai/status/2039836891508261106": {
     "article_id": "x-claudeai--8e2be9fa",
@@ -10627,6 +10699,10 @@
     "article_id": "x-demishassabis--9be2745f",
     "first_seen_date": "2026-07-15"
   },
+  "https://x.com/demishassabis/status/2077721122116640969": {
+    "article_id": "x-demishassabis--8471c958",
+    "first_seen_date": "2026-07-17"
+  },
   "https://x.com/karpathy/status/2034321875506196585": {
     "article_id": "x-karpathy--107688fb",
     "first_seen_date": "2026-04-14"
@@ -11767,6 +11843,22 @@
     "article_id": "x-sama--c5bd1e85",
     "first_seen_date": "2026-07-16"
   },
+  "https://x.com/sama/status/2077630111499882637": {
+    "article_id": "x-sama--a66fdd15",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/sama/status/2077794137428922833": {
+    "article_id": "x-sama--eca72f0a",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/sama/status/2077817060068057493": {
+    "article_id": "x-sama--71d3f4a1",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/sama/status/2077842579232895286": {
+    "article_id": "x-sama--45cbd23c",
+    "first_seen_date": "2026-07-17"
+  },
   "https://x.com/simonw/status/2040213120992596388": {
     "article_id": "x-simonw--7c4c4f0f",
     "first_seen_date": "2026-04-14"
@@ -12831,6 +12923,34 @@
     "article_id": "x-simonw--c3b70c1c",
     "first_seen_date": "2026-07-16"
   },
+  "https://x.com/simonw/status/2077770800925749388": {
+    "article_id": "x-simonw--a9a3f540",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/simonw/status/2077852005129933247": {
+    "article_id": "x-simonw--670fcccf",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/simonw/status/2077859343974711470": {
+    "article_id": "x-simonw--1d178393",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/simonw/status/2077880571150389751": {
+    "article_id": "x-simonw--4bbb1530",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/simonw/status/2077892349372649496": {
+    "article_id": "x-simonw--c1b8ca0d",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/simonw/status/2077943635765841993": {
+    "article_id": "x-simonw--099817cc",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/simonw/status/2077948686139822247": {
+    "article_id": "x-simonw--e54e8bad",
+    "first_seen_date": "2026-07-17"
+  },
   "https://x.com/trq212/status/2035372716820218141": {
     "article_id": "x-trq212--fdcc2d85",
     "first_seen_date": "2026-07-10"
@@ -13594,6 +13714,18 @@
   "https://x.com/trq212/status/2077603834453770467": {
     "article_id": "x-trq212--3058f0fd",
     "first_seen_date": "2026-07-16"
+  },
+  "https://x.com/trq212/status/2077743858239094854": {
+    "article_id": "x-trq212--9708c856",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/trq212/status/2077783840441909265": {
+    "article_id": "x-trq212--d6e926c9",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/trq212/status/2077929379661844559": {
+    "article_id": "x-trq212--5963da31",
+    "first_seen_date": "2026-07-17"
   },
   "https://x.com/ylecun/status/1675582041596006400": {
     "article_id": "x-ylecun--9c80d66f",
@@ -15918,5 +16050,17 @@
   "https://x.com/ylecun/status/2077415413256794213": {
     "article_id": "x-ylecun--7014116d",
     "first_seen_date": "2026-07-16"
+  },
+  "https://x.com/ylecun/status/2077566845431779766": {
+    "article_id": "x-ylecun--5d37e1d0",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ylecun/status/2077641797363237328": {
+    "article_id": "x-ylecun--73dd764b",
+    "first_seen_date": "2026-07-17"
+  },
+  "https://x.com/ylecun/status/2077661998972604876": {
+    "article_id": "x-ylecun--e977f52c",
+    "first_seen_date": "2026-07-17"
   }
 }

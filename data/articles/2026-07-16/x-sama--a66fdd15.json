@@ -1,0 +1,98 @@
+{
+  "article_id": "x-sama--a66fdd15",
+  "author": "Sam Altman",
+  "content_chars": 1043,
+  "content_sha256": "366a860db7a0703ec44689bc6de9afcf3a12696dcac994b2f6d436cfe77e9082",
+  "content_tokens": 260,
+  "fetched_at": "2026-07-17T07:02:08Z",
+  "kind": "tweet",
+  "published_at": "2026-07-16T05:43:13+00:00",
+  "snippet": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being…",
+  "source_id": "x-sama",
+  "title": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpec",
+  "top_terms": [
+    [
+      "without",
+      4
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "the model",
+      3
+    ],
+    [
+      "auto",
+      2
+    ],
+    [
+      "auto review",
+      2
+    ],
+    [
+      "deletions",
+      2
+    ],
+    [
+      "deletions we",
+      2
+    ],
+    [
+      "deletions we ve",
+      2
+    ],
+    [
+      "enabled",
+      2
+    ],
+    [
+      "file",
+      2
+    ],
+    [
+      "file deletions",
+      2
+    ],
+    [
+      "file deletions we",
+      2
+    ],
+    [
+      "gpt-5",
+      2
+    ],
+    [
+      "handful",
+      2
+    ],
+    [
+      "handful of",
+      2
+    ],
+    [
+      "handful of reports",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "including",
+      2
+    ],
+    [
+      "investigated",
+      2
+    ],
+    [
+      "mode",
+      2
+    ]
+  ],
+  "url": "https://x.com/sama/status/2077630111499882637",
+  "url_canonical": "https://x.com/sama/status/2077630111499882637",
+  "via_source_id": null
+}

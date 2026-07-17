@@ -1,0 +1,134 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-bcherny--880570fb",
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 3,
+      "score": 20.981584,
+      "term": "steps",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.513191,
+      "term": "of ai adoption",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.513191,
+      "term": "steps of",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.513191,
+      "term": "steps of ai",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-bcherny--d8e98a3e",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 11.266065,
+      "term": "watching",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.656627,
+      "term": "adoption claude",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.656627,
+      "term": "adoption claude ai",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.656627,
+      "term": "ai adoption claude",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.656627,
+      "term": "and hear",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-bcherny--c5a533e0",
+        "x-trq212--5963da31"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.656627,
+      "term": "and hear the",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-07-17",
+  "evidence_article_ids": [
+    "x-bcherny--c5a533e0",
+    "x-trq212--5963da31"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "ai adoption",
+      "adoption steps",
+      "steps of ai",
+      "adoption claude ai",
+      "claude ai"
+    ]
+  },
+  "score": 8.756596,
+  "word": "ai adoption"
+}

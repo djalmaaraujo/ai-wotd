@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--aa212972",
+  "author": "Claude Devs",
+  "content_chars": 246,
+  "content_sha256": "b08d0ee70132d275793f0c4c8e7b1c645c1fdef5ec0af7d3383560bfa462faea",
+  "content_tokens": 61,
+  "fetched_at": "2026-07-17T07:02:14Z",
+  "kind": "tweet",
+  "published_at": "2026-07-16T19:37:29+00:00",
+  "snippet": "Low effort runs a single pass over the diff. It's fast and cheap enough to run before every push. Medium effort reads the changed code in context, runs multiple finder passes from different angles, then verifies every finding before surfacing it.",
+  "source_id": "x-demishassabis",
+  "title": "Low effort runs a single pass over the diff. It's fast and cheap enough to run b",
+  "top_terms": [
+    [
+      "effort",
+      3
+    ],
+    [
+      "runs",
+      3
+    ],
+    [
+      "and cheap",
+      2
+    ],
+    [
+      "and cheap enough",
+      2
+    ],
+    [
+      "cheap",
+      2
+    ],
+    [
+      "cheap enough",
+      2
+    ],
+    [
+      "cheap enough to",
+      2
+    ],
+    [
+      "diff",
+      2
+    ],
+    [
+      "diff it's",
+      2
+    ],
+    [
+      "diff it's fast",
+      2
+    ],
+    [
+      "effort runs",
+      2
+    ],
+    [
+      "enough",
+      2
+    ],
+    [
+      "enough to",
+      2
+    ],
+    [
+      "enough to run",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "fast",
+      2
+    ],
+    [
+      "fast and",
+      2
+    ],
+    [
+      "fast and cheap",
+      2
+    ],
+    [
+      "it's",
+      2
+    ],
+    [
+      "it's fast",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2077840060003852346",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2077840060003852346",
+  "via_source_id": null
+}
