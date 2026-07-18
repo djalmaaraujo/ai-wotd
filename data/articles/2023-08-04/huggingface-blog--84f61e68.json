@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--84f61e68",
+  "author": "Hugging Face Blog",
+  "content_chars": 8966,
+  "content_sha256": "7870b8027687234977325e49fe78fe8548ca68862bdeadef58e153f8297a5049",
+  "content_tokens": 2241,
+  "fetched_at": "2026-07-18T06:54:51Z",
+  "kind": "article",
+  "published_at": "2023-08-04T00:00:00+00:00",
+  "snippet": "Deploy MusicGen in no time with Inference Endpoints Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Deploy MusicGen in no time with Inference Endpoints",
+  "top_terms": [
+    [
+      "inference",
+      22
+    ],
+    [
+      "audio",
+      19
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "inputs",
+      13
+    ],
+    [
+      "musicgen",
+      13
+    ],
+    [
+      "endpoints",
+      12
+    ],
+    [
+      "inference endpoints",
+      12
+    ],
+    [
+      "custom",
+      11
+    ],
+    [
+      "handler",
+      11
+    ],
+    [
+      "repository",
+      11
+    ],
+    [
+      "deploy",
+      10
+    ],
+    [
+      "endpoint",
+      10
+    ],
+    [
+      "text",
+      10
+    ],
+    [
+      "import",
+      9
+    ],
+    [
+      "sample",
+      9
+    ],
+    [
+      "data",
+      8
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "musicgen-large",
+      8
+    ],
+    [
+      "processor",
+      8
+    ],
+    [
+      "facebook",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/run-musicgen-as-an-api",
+  "url_canonical": "https://huggingface.co/blog/run-musicgen-as-an-api",
+  "via_source_id": null
+}

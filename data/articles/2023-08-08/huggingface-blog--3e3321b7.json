@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--3e3321b7",
+  "author": "Hugging Face Blog",
+  "content_chars": 11865,
+  "content_sha256": "33f0c40cf22853321d0a4083dddec832cf83ce29471c2ba30a4ccceffec9ad7b",
+  "content_tokens": 2966,
+  "fetched_at": "2026-07-18T06:54:50Z",
+  "kind": "article",
+  "published_at": "2023-08-08T00:00:00+00:00",
+  "snippet": "Fine-tune Llama 2 with DPO Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tune Llama 2 with DPO",
+  "top_terms": [
+    [
+      "model",
+      58
+    ],
+    [
+      "dpo",
+      26
+    ],
+    [
+      "dataset",
+      22
+    ],
+    [
+      "reward",
+      18
+    ],
+    [
+      "train",
+      17
+    ],
+    [
+      "training",
+      17
+    ],
+    [
+      "args",
+      14
+    ],
+    [
+      "preference",
+      13
+    ],
+    [
+      "reference",
+      12
+    ],
+    [
+      "reference model",
+      11
+    ],
+    [
+      "rl",
+      11
+    ],
+    [
+      "trainer",
+      11
+    ],
+    [
+      "config",
+      10
+    ],
+    [
+      "data",
+      10
+    ],
+    [
+      "llama",
+      10
+    ],
+    [
+      "true",
+      10
+    ],
+    [
+      "base",
+      9
+    ],
+    [
+      "base model",
+      9
+    ],
+    [
+      "the dpo",
+      9
+    ],
+    [
+      "loss",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/dpo-trl",
+  "url_canonical": "https://huggingface.co/blog/dpo-trl",
+  "via_source_id": null
+}

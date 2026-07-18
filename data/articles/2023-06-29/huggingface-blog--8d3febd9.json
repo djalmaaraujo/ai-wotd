@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8d3febd9",
+  "author": "Hugging Face Blog",
+  "content_chars": 15954,
+  "content_sha256": "fe415cd552d7dac220c118ee6b0a319b048bc17596f53f4ae1868df276fe418f",
+  "content_tokens": 3988,
+  "fetched_at": "2026-07-18T06:54:55Z",
+  "kind": "article",
+  "published_at": "2023-06-29T00:00:00+00:00",
+  "snippet": "Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2 Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2",
+  "top_terms": [
+    [
+      "dataloader",
+      32
+    ],
+    [
+      "num",
+      26
+    ],
+    [
+      "workers",
+      26
+    ],
+    [
+      "dataloader num",
+      25
+    ],
+    [
+      "dataloader num workers",
+      25
+    ],
+    [
+      "gaudi2",
+      25
+    ],
+    [
+      "num workers",
+      25
+    ],
+    [
+      "bridgetower",
+      23
+    ],
+    [
+      "habana",
+      22
+    ],
+    [
+      "data",
+      19
+    ],
+    [
+      "images",
+      19
+    ],
+    [
+      "devices",
+      18
+    ],
+    [
+      "a100",
+      17
+    ],
+    [
+      "samples",
+      17
+    ],
+    [
+      "h100",
+      16
+    ],
+    [
+      "loading",
+      16
+    ],
+    [
+      "data loading",
+      15
+    ],
+    [
+      "faster",
+      15
+    ],
+    [
+      "models",
+      15
+    ],
+    [
+      "run",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/bridgetower",
+  "url_canonical": "https://huggingface.co/blog/bridgetower",
+  "via_source_id": null
+}

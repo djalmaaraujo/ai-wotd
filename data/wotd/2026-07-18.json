@@ -1,0 +1,135 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee",
+        "x-ylecun--162a503d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 15.021421,
+      "term": "several",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.931329,
+      "term": "and team",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 8.317766,
+      "term": "capacity",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "all max",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "all max and",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "and team premium",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "be included",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "be included in",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "beginning",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "beginning july",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-07-18",
+  "evidence_article_ids": [
+    "x-claudeai--3c6507b5",
+    "x-simonw--f4dfbdee"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "additional capacity",
+      "access to fable",
+      "challenging to predict",
+      "beginning july claude",
+      "and team premium"
+    ]
+  },
+  "score": 3.662041,
+  "word": "additional capacity"
+}

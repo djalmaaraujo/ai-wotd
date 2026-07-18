@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--35c705f3",
+  "author": "Hugging Face Blog",
+  "content_chars": 16874,
+  "content_sha256": "0ccf5a644a5049def980457d1c4ab265b254be26b7b5cbc46034ce63cbff150c",
+  "content_tokens": 4218,
+  "fetched_at": "2026-07-18T06:54:49Z",
+  "kind": "article",
+  "published_at": "2026-07-17T15:57:54+00:00",
+  "snippet": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+  "top_terms": [
+    [
+      "flux",
+      34
+    ],
+    [
+      "diffusion",
+      25
+    ],
+    [
+      "training",
+      22
+    ],
+    [
+      "automodel",
+      21
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "nemo",
+      19
+    ],
+    [
+      "models",
+      18
+    ],
+    [
+      "nemo automodel",
+      18
+    ],
+    [
+      "updated",
+      18
+    ],
+    [
+      "full",
+      17
+    ],
+    [
+      "checkpoint",
+      16
+    ],
+    [
+      "nvidia",
+      16
+    ],
+    [
+      "dev",
+      15
+    ],
+    [
+      "fine-tuning",
+      15
+    ],
+    [
+      "flux dev",
+      15
+    ],
+    [
+      "lora",
+      15
+    ],
+    [
+      "step",
+      15
+    ],
+    [
+      "dataset",
+      13
+    ],
+    [
+      "examples",
+      13
+    ],
+    [
+      "diffusers",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "url_canonical": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "via_source_id": null
+}

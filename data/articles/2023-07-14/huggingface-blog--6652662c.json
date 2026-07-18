@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--6652662c",
+  "author": "Hugging Face Blog",
+  "content_chars": 13643,
+  "content_sha256": "71cc856a280ce3d14275f0cf745974bdf36f78fb353f358bc36c3733c0f71b9e",
+  "content_tokens": 3410,
+  "fetched_at": "2026-07-18T06:54:54Z",
+  "kind": "article",
+  "published_at": "2023-07-14T00:00:00+00:00",
+  "snippet": "Fine-tuning Stable Diffusion models on Intel CPUs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tuning Stable Diffusion models on Intel CPUs",
+  "top_terms": [
+    [
+      "intel",
+      31
+    ],
+    [
+      "images",
+      23
+    ],
+    [
+      "model",
+      23
+    ],
+    [
+      "inversion",
+      19
+    ],
+    [
+      "textual",
+      19
+    ],
+    [
+      "textual inversion",
+      19
+    ],
+    [
+      "dicoo",
+      14
+    ],
+    [
+      "models",
+      14
+    ],
+    [
+      "fine-tuning",
+      13
+    ],
+    [
+      "node",
+      13
+    ],
+    [
+      "training",
+      13
+    ],
+    [
+      "steps",
+      12
+    ],
+    [
+      "install",
+      11
+    ],
+    [
+      "cpu",
+      10
+    ],
+    [
+      "diffusers",
+      9
+    ],
+    [
+      "pytorch",
+      9
+    ],
+    [
+      "train",
+      9
+    ],
+    [
+      "dtype",
+      8
+    ],
+    [
+      "export",
+      8
+    ],
+    [
+      "https",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
+  "url_canonical": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
+  "via_source_id": null
+}

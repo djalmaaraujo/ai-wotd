@@ -1,0 +1,1864 @@
+{
+  "article_ids": [
+    "x-claudeai--3c6507b5",
+    "x-claudeai--aac66f2e",
+    "x-simonw--2a188ebf",
+    "x-simonw--81c1fd61",
+    "x-simonw--f4dfbdee",
+    "x-ylecun--162a503d"
+  ],
+  "date": "2026-07-18",
+  "document_count": 6,
+  "terms": {
+    "access": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "access several": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access several times": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access to": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access to fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "additional": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "additional capacity": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "all max": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "all max and": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "and team": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "and team premium": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "and team standard": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and will receive": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "as we secured": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "at of limits": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "be included": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "be included in": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "been challenging": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "been challenging to": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "beginning": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "beginning july": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "beginning july claude": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "capacity": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "challenging": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "challenging to": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "challenging to predict": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "claude code": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude code on": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "claude fable will": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "code": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code on": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code on the": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "continue": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "continue to": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "continue to have": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "credit": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "credit demand": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "credit demand for": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "credits": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "credits and": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "credits and will": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "demand": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "demand for": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "demand for fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "extending": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "extending access": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "extending access several": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "fable has": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable has been": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable via": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable via usage": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fable will": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fable will be": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "for fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for fable has": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "has been challenging": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "have access": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "have access to": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in all max": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "in stages": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in stages extending": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "included": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "included in": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "included in all": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "july": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "july claude": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "july claude fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "limits": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "limits pro": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "limits pro and": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "max": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "max and": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "max and team": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "never": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-ylecun--162a503d"
+      ],
+      "authors": [
+        "Simon Willison",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of limits": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of limits pro": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on the web": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "one-time": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "one-time credit": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "one-time credit demand": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "out to subscription": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plan": {
+      "articles": [
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plans": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "plans at": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plans at of": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plans in": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "plans in stages": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "please": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "predict": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "predict which": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "predict which is": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "premium": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "premium plans": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "premium plans at": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pro": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pro and": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pro and team": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "receive": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rolled": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rolled it": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rolled it out": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "secured": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "secured additional": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "secured additional capacity": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "several": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee",
+        "x-ylecun--162a503d"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison",
+        "Yann LeCun"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "several times": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "several times as": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stages": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stages extending": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stages extending access": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "standard": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "standard users": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "standard users will": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscription": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscription plans": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscription plans in": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "team": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "team premium": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "team premium plans": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "team standard": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "team standard users": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the web": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "times": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "times as": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "times as we": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to fable": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to fable via": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to have access": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to predict": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to predict which": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to subscription": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to subscription plans": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "usage": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "usage credits": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "usage credits and": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users will": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users will continue": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "via usage": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "via usage credits": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we rolled": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we rolled it": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we secured": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we secured additional": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "web": {
+      "articles": [
+        "x-simonw--2a188ebf",
+        "x-simonw--81c1fd61"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "why we rolled": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will be included": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "will continue": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will continue to": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will receive": {
+      "articles": [
+        "x-claudeai--3c6507b5",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your plan": {
+      "articles": [
+        "x-claudeai--aac66f2e",
+        "x-simonw--f4dfbdee"
+      ],
+      "authors": [
+        "Claude (Anthropic)",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}

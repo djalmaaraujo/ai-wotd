@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0cf158a9",
+  "author": "Hugging Face Blog",
+  "content_chars": 20739,
+  "content_sha256": "31eded71e05492d19ea755509c1cea015cab3b19b3af62f285d777c87858214f",
+  "content_tokens": 5184,
+  "fetched_at": "2026-07-18T06:55:00Z",
+  "kind": "article",
+  "published_at": "2023-05-24T00:00:00+00:00",
+  "snippet": "Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum…",
+  "source_id": "huggingface-blog",
+  "title": "Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA",
+  "top_terms": [
+    [
+      "bit",
+      81
+    ],
+    [
+      "gb",
+      37
+    ],
+    [
+      "model",
+      34
+    ],
+    [
+      "models",
+      32
+    ],
+    [
+      "quantization",
+      29
+    ],
+    [
+      "qlora",
+      24
+    ],
+    [
+      "nf4",
+      16
+    ],
+    [
+      "gc",
+      15
+    ],
+    [
+      "transformers",
+      15
+    ],
+    [
+      "adamw",
+      14
+    ],
+    [
+      "decapoda-research",
+      14
+    ],
+    [
+      "dtype",
+      14
+    ],
+    [
+      "finetuning",
+      14
+    ],
+    [
+      "gb xnvidia-t4",
+      14
+    ],
+    [
+      "gb xnvidia-t4 gb",
+      14
+    ],
+    [
+      "in bit",
+      14
+    ],
+    [
+      "oom",
+      14
+    ],
+    [
+      "paper",
+      14
+    ],
+    [
+      "xnvidia-t4",
+      14
+    ],
+    [
+      "xnvidia-t4 gb",
+      14
+    ]
+  ],
+  "url": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
+  "url_canonical": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--36405f4a",
+  "author": "Hugging Face Blog",
+  "content_chars": 15444,
+  "content_sha256": "9ee504be01488c23a46b9233db70a88e7d5b88e558404d2ffa0c8ccbbe50b70c",
+  "content_tokens": 3861,
+  "fetched_at": "2026-07-18T06:54:49Z",
+  "kind": "article",
+  "published_at": "2023-08-23T00:00:00+00:00",
+  "snippet": "Making LLMs lighter with AutoGPTQ and transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Making LLMs lighter with AutoGPTQ and transformers",
+  "top_terms": [
+    [
+      "gptq",
+      38
+    ],
+    [
+      "models",
+      36
+    ],
+    [
+      "autogptq",
+      26
+    ],
+    [
+      "quantization",
+      25
+    ],
+    [
+      "transformers",
+      24
+    ],
+    [
+      "model",
+      23
+    ],
+    [
+      "library",
+      21
+    ],
+    [
+      "integration",
+      18
+    ],
+    [
+      "quantized",
+      14
+    ],
+    [
+      "quantize",
+      13
+    ],
+    [
+      "llms",
+      12
+    ],
+    [
+      "autogptq library",
+      11
+    ],
+    [
+      "gptq models",
+      10
+    ],
+    [
+      "models with",
+      10
+    ],
+    [
+      "optimum",
+      10
+    ],
+    [
+      "inference",
+      9
+    ],
+    [
+      "the gptq",
+      9
+    ],
+    [
+      "to quantize",
+      9
+    ],
+    [
+      "available",
+      8
+    ],
+    [
+      "in transformers",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/gptq-integration",
+  "url_canonical": "https://huggingface.co/blog/gptq-integration",
+  "via_source_id": null
+}

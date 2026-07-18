@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--ffc36058",
+  "author": "Hugging Face Blog",
+  "content_chars": 46257,
+  "content_sha256": "a8ad3215d01abcb6b7b88a6155303b3cd0c8f3b6e8a074d201cb59521e7fddef",
+  "content_tokens": 11564,
+  "fetched_at": "2026-07-18T06:54:56Z",
+  "kind": "article",
+  "published_at": "2023-06-19T00:00:00+00:00",
+  "snippet": "Fine-Tune MMS Adapter Models for low-resource ASR Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-Tune MMS Adapter Models for low-resource ASR",
+  "top_terms": [
+    [
+      "model",
+      72
+    ],
+    [
+      "common",
+      68
+    ],
+    [
+      "common voice",
+      62
+    ],
+    [
+      "voice",
+      62
+    ],
+    [
+      "adapter",
+      57
+    ],
+    [
+      "training",
+      54
+    ],
+    [
+      "audio",
+      48
+    ],
+    [
+      "data",
+      44
+    ],
+    [
+      "batch",
+      40
+    ],
+    [
+      "speech",
+      40
+    ],
+    [
+      "train",
+      38
+    ],
+    [
+      "input",
+      36
+    ],
+    [
+      "test",
+      36
+    ],
+    [
+      "vocab",
+      35
+    ],
+    [
+      "the model",
+      33
+    ],
+    [
+      "dataset",
+      32
+    ],
+    [
+      "rate",
+      31
+    ],
+    [
+      "mms",
+      30
+    ],
+    [
+      "weights",
+      30
+    ],
+    [
+      "sampling",
+      28
+    ]
+  ],
+  "url": "https://huggingface.co/blog/mms_adapters",
+  "url_canonical": "https://huggingface.co/blog/mms_adapters",
+  "via_source_id": null
+}

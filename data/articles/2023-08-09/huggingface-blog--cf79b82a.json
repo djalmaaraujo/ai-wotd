@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--cf79b82a",
+  "author": "Hugging Face Blog",
+  "content_chars": 17763,
+  "content_sha256": "cb863f0af2a7c67de8ae612b46aaabb46880f1ed958d83e165dd0330f2bbfbcf",
+  "content_tokens": 4440,
+  "fetched_at": "2026-07-18T06:54:50Z",
+  "kind": "article",
+  "published_at": "2023-08-09T00:00:00+00:00",
+  "snippet": "Optimizing Bark using 🤗 Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "source_id": "huggingface-blog",
+  "title": "Optimizing Bark using 🤗 Transformers",
+  "top_terms": [
+    [
+      "model",
+      47
+    ],
+    [
+      "memory",
+      42
+    ],
+    [
+      "bark",
+      26
+    ],
+    [
+      "output",
+      24
+    ],
+    [
+      "audio",
+      22
+    ],
+    [
+      "torch",
+      22
+    ],
+    [
+      "footprint",
+      21
+    ],
+    [
+      "latency",
+      21
+    ],
+    [
+      "offload",
+      20
+    ],
+    [
+      "memory footprint",
+      18
+    ],
+    [
+      "transformers",
+      15
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "inference",
+      14
+    ],
+    [
+      "optimization",
+      14
+    ],
+    [
+      "bettertransformer",
+      13
+    ],
+    [
+      "measure",
+      13
+    ],
+    [
+      "better",
+      12
+    ],
+    [
+      "cpu offload",
+      12
+    ],
+    [
+      "fp16",
+      12
+    ],
+    [
+      "gb",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/optimizing-bark",
+  "url_canonical": "https://huggingface.co/blog/optimizing-bark",
+  "via_source_id": null
+}

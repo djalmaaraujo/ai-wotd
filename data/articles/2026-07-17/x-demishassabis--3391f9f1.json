@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--3391f9f1",
+  "author": "Claude Devs",
+  "content_chars": 241,
+  "content_sha256": "0ae52e26d45f4d2ee691bfe63e34e50ee5201ac7f1dbefcd84be0a1fe7ba1b84",
+  "content_tokens": 60,
+  "fetched_at": "2026-07-18T06:55:11Z",
+  "kind": "tweet",
+  "published_at": "2026-07-17T20:11:44+00:00",
+  "snippet": "We've resolved an issue where Fable was not selectable as a model within Claude.ai or Claude Code for a 30 minute period. You may need to restart Claude Code. If Fable is not your default model afterwards, you should reselect it with /model.",
+  "source_id": "x-demishassabis",
+  "title": "We've resolved an issue where Fable was not selectable as a model within Claude.",
+  "top_terms": [
+    [
+      "claude",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "fable",
+      3
+    ],
+    [
+      "an issue",
+      2
+    ],
+    [
+      "an issue where",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "fable was",
+      2
+    ],
+    [
+      "fable was not",
+      2
+    ],
+    [
+      "issue",
+      2
+    ],
+    [
+      "issue where",
+      2
+    ],
+    [
+      "issue where fable",
+      2
+    ],
+    [
+      "model within",
+      2
+    ],
+    [
+      "model within claude",
+      2
+    ],
+    [
+      "not selectable",
+      2
+    ],
+    [
+      "not selectable as",
+      2
+    ],
+    [
+      "resolved",
+      2
+    ],
+    [
+      "resolved an",
+      2
+    ],
+    [
+      "resolved an issue",
+      2
+    ],
+    [
+      "selectable",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2078211065868091768",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2078211065868091768",
+  "via_source_id": null
+}
