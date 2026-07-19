@@ -1,0 +1,98 @@
+{
+  "article_ids": [
+    "x-simonw--904db8af",
+    "x-simonw--b51bce59"
+  ],
+  "date": "2026-07-19",
+  "document_count": 2,
+  "terms": {
+    "bun": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "claude": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "claude code": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "code": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "in rust": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "of bun": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rust": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "uses": {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}

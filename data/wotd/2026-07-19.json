@@ -1,0 +1,109 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.876392,
+      "term": "bun",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.476649,
+      "term": "in rust",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "of bun",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 2.75,
+      "df_today": 2,
+      "score": 3.511501,
+      "term": "uses",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 3.218876,
+      "term": "rust",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 7.25,
+      "df_today": 2,
+      "score": 1.853544,
+      "term": "claude code",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 12.0,
+      "df_today": 2,
+      "score": 1.11985,
+      "term": "code",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--904db8af",
+        "x-simonw--b51bce59"
+      ],
+      "avg_tf_baseline": 15.5833,
+      "df_today": 2,
+      "score": 0.862344,
+      "term": "claude",
+      "tf_today": 5
+    }
+  ],
+  "date": "2026-07-19",
+  "evidence_article_ids": [
+    "x-simonw--904db8af",
+    "x-simonw--b51bce59"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude code",
+      "in rust",
+      "rust",
+      "bun"
+    ]
+  },
+  "score": 1.853544,
+  "word": "claude code"
+}
