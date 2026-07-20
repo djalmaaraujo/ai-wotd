@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--74d7ec3a",
+  "author": "Yann LeCun",
+  "content_chars": 1854,
+  "content_sha256": "395c6ad2bd16df3b6c6754edcc8c44573ce45bce439d5954ced8d23e4530dfc3",
+  "content_tokens": 463,
+  "fetched_at": "2026-07-20T07:20:44Z",
+  "kind": "tweet",
+  "published_at": "2026-07-18T21:24:00+00:00",
+  "snippet": "latent actions are having a moment, especially in robotics: instead of predicting a robot's actual joint commands or game controller inputs, you learn a compact latent code that just explains what changed between two frames, no action labels needed anywhere in training Genie…",
+  "source_id": "x-ylecun",
+  "title": "latent actions are having a moment, especially in robotics: instead of predictin",
+  "top_terms": [
+    [
+      "latent",
+      10
+    ],
+    [
+      "action",
+      8
+    ],
+    [
+      "video",
+      5
+    ],
+    [
+      "actions",
+      4
+    ],
+    [
+      "latent action",
+      4
+    ],
+    [
+      "latent actions",
+      4
+    ],
+    [
+      "abs",
+      3
+    ],
+    [
+      "arxiv",
+      3
+    ],
+    [
+      "arxiv org",
+      3
+    ],
+    [
+      "arxiv org abs",
+      3
+    ],
+    [
+      "instead",
+      3
+    ],
+    [
+      "instead of",
+      3
+    ],
+    [
+      "org",
+      3
+    ],
+    [
+      "org abs",
+      3
+    ],
+    [
+      "robotics",
+      3
+    ],
+    [
+      "space",
+      3
+    ],
+    [
+      "action labels",
+      2
+    ],
+    [
+      "action space",
+      2
+    ],
+    [
+      "actions are",
+      2
+    ],
+    [
+      "actions are having",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2078591641502580745",
+  "url_canonical": "https://x.com/ylecun/status/2078591641502580745",
+  "via_source_id": null
+}

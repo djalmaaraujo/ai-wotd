@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--74f65ff0",
+  "author": "Simon Willison",
+  "content_chars": 471,
+  "content_sha256": "7dc9212cf7da49cb791b06b9a736e8c5eaddedf469e4e0a4eb9743932438b48d",
+  "content_tokens": 117,
+  "fetched_at": "2026-07-20T07:20:43Z",
+  "kind": "tweet",
+  "published_at": "2026-07-19T13:05:21+00:00",
+  "snippet": "Here's a better way of confirming the Bun version that's used by the \"claude\" binary: AjanRaj (@ajanraj25) you can also just preload a tiny script to print the bundled Bun version: cat > /tmp/bun-version.ts <<'EOF' console.log(\"embedded bun:\", Bun.version); process.exit(0); EOF…",
+  "source_id": "x-simonw",
+  "title": "Here's a better way of confirming the Bun version that's used by the \"claude\" bi",
+  "top_terms": [
+    [
+      "bun",
+      7
+    ],
+    [
+      "version",
+      6
+    ],
+    [
+      "bun version",
+      4
+    ],
+    [
+      "claude",
+      3
+    ],
+    [
+      "ajanraj25",
+      2
+    ],
+    [
+      "better",
+      2
+    ],
+    [
+      "better way",
+      2
+    ],
+    [
+      "better way of",
+      2
+    ],
+    [
+      "bun version that's",
+      2
+    ],
+    [
+      "bun-version",
+      2
+    ],
+    [
+      "bun-version ts",
+      2
+    ],
+    [
+      "by the claude",
+      2
+    ],
+    [
+      "confirming",
+      2
+    ],
+    [
+      "confirming the",
+      2
+    ],
+    [
+      "confirming the bun",
+      2
+    ],
+    [
+      "eof",
+      2
+    ],
+    [
+      "here's",
+      2
+    ],
+    [
+      "of confirming",
+      2
+    ],
+    [
+      "of confirming the",
+      2
+    ],
+    [
+      "preload",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2078828540917940718",
+  "url_canonical": "https://x.com/simonw/status/2078828540917940718",
+  "via_source_id": null
+}
