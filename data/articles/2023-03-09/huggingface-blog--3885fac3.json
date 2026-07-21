@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--3885fac3",
+  "author": "Hugging Face Blog",
+  "content_chars": 16795,
+  "content_sha256": "c13e2cb06a9d79751e016e379e4cd84aebe36e0f9da81a61f5c43f6557488f85",
+  "content_tokens": 4198,
+  "fetched_at": "2026-07-21T07:07:56Z",
+  "kind": "article",
+  "published_at": "2023-03-09T00:00:00+00:00",
+  "snippet": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+  "top_terms": [
+    [
+      "model",
+      55
+    ],
+    [
+      "training",
+      24
+    ],
+    [
+      "bit",
+      21
+    ],
+    [
+      "models",
+      21
+    ],
+    [
+      "gb",
+      17
+    ],
+    [
+      "gpu",
+      17
+    ],
+    [
+      "fine-tuning",
+      16
+    ],
+    [
+      "peft",
+      16
+    ],
+    [
+      "step",
+      15
+    ],
+    [
+      "parallelism",
+      14
+    ],
+    [
+      "updated",
+      14
+    ],
+    [
+      "adapters",
+      13
+    ],
+    [
+      "llm",
+      13
+    ],
+    [
+      "rl",
+      12
+    ],
+    [
+      "rlhf",
+      12
+    ],
+    [
+      "active",
+      11
+    ],
+    [
+      "low",
+      11
+    ],
+    [
+      "low rank",
+      11
+    ],
+    [
+      "rank",
+      11
+    ],
+    [
+      "text",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/trl-peft",
+  "url_canonical": "https://huggingface.co/blog/trl-peft",
+  "via_source_id": null
+}

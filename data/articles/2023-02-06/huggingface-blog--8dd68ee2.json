@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8dd68ee2",
+  "author": "Hugging Face Blog",
+  "content_chars": 9766,
+  "content_sha256": "1cf91120a4bef4b9e9321bbbadee4188dae9568f3962a8a686624cfc28b6d830",
+  "content_tokens": 2441,
+  "fetched_at": "2026-07-21T07:07:59Z",
+  "kind": "article",
+  "published_at": "2023-02-06T00:00:00+00:00",
+  "snippet": "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2 Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2",
+  "top_terms": [
+    [
+      "intel",
+      25
+    ],
+    [
+      "sentence",
+      22
+    ],
+    [
+      "pipeline",
+      18
+    ],
+    [
+      "result",
+      18
+    ],
+    [
+      "inference",
+      17
+    ],
+    [
+      "optimum",
+      15
+    ],
+    [
+      "transformers",
+      14
+    ],
+    [
+      "long",
+      13
+    ],
+    [
+      "short",
+      13
+    ],
+    [
+      "pytorch",
+      12
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "pipe",
+      11
+    ],
+    [
+      "array",
+      10
+    ],
+    [
+      "benchmark",
+      10
+    ],
+    [
+      "rapids",
+      10
+    ],
+    [
+      "sapphire",
+      10
+    ],
+    [
+      "sapphire rapids",
+      10
+    ],
+    [
+      "print",
+      9
+    ],
+    [
+      "install",
+      8
+    ],
+    [
+      "model",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/intel-sapphire-rapids-inference",
+  "url_canonical": "https://huggingface.co/blog/intel-sapphire-rapids-inference",
+  "via_source_id": null
+}

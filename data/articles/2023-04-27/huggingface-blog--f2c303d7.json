@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--f2c303d7",
+  "author": "Hugging Face Blog",
+  "content_chars": 12722,
+  "content_sha256": "ed1bb6550b2b8a30c7ef4bc7dbd506eb3fcdd3611cb7293607982f1a31158a2a",
+  "content_tokens": 3180,
+  "fetched_at": "2026-07-21T07:07:53Z",
+  "kind": "article",
+  "published_at": "2023-04-27T00:00:00+00:00",
+  "snippet": "Training a language model with 🤗 Transformers using TensorFlow and TPUs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Training a language model with 🤗 Transformers using TensorFlow and TPUs",
+  "top_terms": [
+    [
+      "training",
+      30
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "tpu",
+      25
+    ],
+    [
+      "data",
+      16
+    ],
+    [
+      "tensorflow",
+      14
+    ],
+    [
+      "tokenizer",
+      13
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "train",
+      12
+    ],
+    [
+      "dataset",
+      11
+    ],
+    [
+      "datasets",
+      10
+    ],
+    [
+      "tf-tpu",
+      10
+    ],
+    [
+      "token",
+      10
+    ],
+    [
+      "transformers",
+      10
+    ],
+    [
+      "code",
+      9
+    ],
+    [
+      "example",
+      9
+    ],
+    [
+      "tf",
+      9
+    ],
+    [
+      "config",
+      8
+    ],
+    [
+      "the data",
+      8
+    ],
+    [
+      "to train",
+      8
+    ],
+    [
+      "gcs",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tf_tpu",
+  "url_canonical": "https://huggingface.co/blog/tf_tpu",
+  "via_source_id": null
+}

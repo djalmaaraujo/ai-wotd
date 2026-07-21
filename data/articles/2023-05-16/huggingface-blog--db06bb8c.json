@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--db06bb8c",
+  "author": "Hugging Face Blog",
+  "content_chars": 9693,
+  "content_sha256": "6ed7d7da08726ea74500ad6783823fe4651027e6e91b68dfe3cbf2e966ef4bf3",
+  "content_tokens": 2423,
+  "fetched_at": "2026-07-21T07:07:51Z",
+  "kind": "article",
+  "published_at": "2023-05-16T00:00:00+00:00",
+  "snippet": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+  "top_terms": [
+    [
+      "text",
+      19
+    ],
+    [
+      "generation",
+      17
+    ],
+    [
+      "models",
+      17
+    ],
+    [
+      "quantization",
+      17
+    ],
+    [
+      "llms",
+      16
+    ],
+    [
+      "model",
+      16
+    ],
+    [
+      "intel",
+      15
+    ],
+    [
+      "text generation",
+      15
+    ],
+    [
+      "updated",
+      14
+    ],
+    [
+      "smaller",
+      9
+    ],
+    [
+      "generation updated",
+      8
+    ],
+    [
+      "smoothquant",
+      8
+    ],
+    [
+      "text generation updated",
+      8
+    ],
+    [
+      "bigscience",
+      6
+    ],
+    [
+      "bit",
+      6
+    ],
+    [
+      "chat",
+      6
+    ],
+    [
+      "experience",
+      6
+    ],
+    [
+      "face",
+      6
+    ],
+    [
+      "hugging",
+      6
+    ],
+    [
+      "hugging face",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+  "url_canonical": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+  "via_source_id": null
+}

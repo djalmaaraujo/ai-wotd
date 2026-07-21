@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0b66f1c4",
+  "author": "Hugging Face Blog",
+  "content_chars": 9068,
+  "content_sha256": "a45a9b29a147a85b6522eb1612ce220538d0ae0245f63b85f0fb7249a8c8a644",
+  "content_tokens": 2267,
+  "fetched_at": "2026-07-21T07:07:58Z",
+  "kind": "article",
+  "published_at": "2023-02-10T00:00:00+00:00",
+  "snippet": "Parameter-Efficient Fine-Tuning using 🤗 PEFT Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Parameter-Efficient Fine-Tuning using 🤗 PEFT",
+  "top_terms": [
+    [
+      "peft",
+      38
+    ],
+    [
+      "model",
+      35
+    ],
+    [
+      "fine-tuning",
+      18
+    ],
+    [
+      "lora",
+      15
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "pretrained",
+      11
+    ],
+    [
+      "tuning",
+      11
+    ],
+    [
+      "bigscience",
+      10
+    ],
+    [
+      "using peft",
+      10
+    ],
+    [
+      "config",
+      7
+    ],
+    [
+      "full",
+      7
+    ],
+    [
+      "llms",
+      7
+    ],
+    [
+      "parameter-efficient",
+      7
+    ],
+    [
+      "peft model",
+      7
+    ],
+    [
+      "tasks",
+      7
+    ],
+    [
+      "approaches",
+      6
+    ],
+    [
+      "downstream",
+      6
+    ],
+    [
+      "inference",
+      6
+    ],
+    [
+      "parameter-efficient fine-tuning",
+      6
+    ],
+    [
+      "parameters",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/peft",
+  "url_canonical": "https://huggingface.co/blog/peft",
+  "via_source_id": null
+}

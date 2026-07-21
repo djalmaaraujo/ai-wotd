@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--e4e0a65d",
+  "author": "Claude Devs",
+  "content_chars": 270,
+  "content_sha256": "8851bbb5adf726b12b7050be8731a94d4b5fa68ec6951a07fb5cebc151bdb2a6",
+  "content_tokens": 67,
+  "fetched_at": "2026-07-21T07:08:07Z",
+  "kind": "tweet",
+  "published_at": "2026-07-20T21:20:33+00:00",
+  "snippet": "It also adds labeled lines (you:, claude:, tool:), numbered menus you answer with a digit, and a bell when Claude needs you. You can keep it on by adding \"axScreenReader\": true to ~/.claude/settings.json, or by setting the CLAUDE_AX_SCREEN_READER=1 environment variable.",
+  "source_id": "x-demishassabis",
+  "title": "It also adds labeled lines (you:, claude:, tool:), numbered menus you answer wit",
+  "top_terms": [
+    [
+      "claude",
+      5
+    ],
+    [
+      "adds",
+      2
+    ],
+    [
+      "adds labeled",
+      2
+    ],
+    [
+      "adds labeled lines",
+      2
+    ],
+    [
+      "also adds",
+      2
+    ],
+    [
+      "also adds labeled",
+      2
+    ],
+    [
+      "answer",
+      2
+    ],
+    [
+      "claude tool",
+      2
+    ],
+    [
+      "claude tool numbered",
+      2
+    ],
+    [
+      "it also adds",
+      2
+    ],
+    [
+      "labeled",
+      2
+    ],
+    [
+      "labeled lines",
+      2
+    ],
+    [
+      "labeled lines you",
+      2
+    ],
+    [
+      "lines",
+      2
+    ],
+    [
+      "lines you",
+      2
+    ],
+    [
+      "lines you claude",
+      2
+    ],
+    [
+      "menus",
+      2
+    ],
+    [
+      "menus you",
+      2
+    ],
+    [
+      "menus you answer",
+      2
+    ],
+    [
+      "numbered",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2079315550182985779",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2079315550182985779",
+  "via_source_id": null
+}

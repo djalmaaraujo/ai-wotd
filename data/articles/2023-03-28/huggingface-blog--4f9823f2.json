@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--4f9823f2",
+  "author": "Hugging Face Blog",
+  "content_chars": 11042,
+  "content_sha256": "b88a70872eb59e74cf51542e0938f24590f3bd4413fa80dc9fcafe7051646fad",
+  "content_tokens": 2760,
+  "fetched_at": "2026-07-21T07:07:55Z",
+  "kind": "article",
+  "published_at": "2023-03-28T00:00:00+00:00",
+  "snippet": "Accelerating Stable Diffusion Inference on Intel CPUs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating Stable Diffusion Inference on Intel CPUs",
+  "top_terms": [
+    [
+      "intel",
+      28
+    ],
+    [
+      "pipe",
+      27
+    ],
+    [
+      "inference",
+      19
+    ],
+    [
+      "torch",
+      15
+    ],
+    [
+      "latency",
+      14
+    ],
+    [
+      "diffusers",
+      12
+    ],
+    [
+      "ipex",
+      12
+    ],
+    [
+      "openvino",
+      12
+    ],
+    [
+      "code",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "pytorch",
+      10
+    ],
+    [
+      "seconds",
+      10
+    ],
+    [
+      "cpus",
+      9
+    ],
+    [
+      "diffusion",
+      9
+    ],
+    [
+      "install",
+      9
+    ],
+    [
+      "optimum",
+      9
+    ],
+    [
+      "prompt",
+      9
+    ],
+    [
+      "stable",
+      9
+    ],
+    [
+      "stable diffusion",
+      9
+    ],
+    [
+      "format",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/stable-diffusion-inference-intel",
+  "url_canonical": "https://huggingface.co/blog/stable-diffusion-inference-intel",
+  "via_source_id": null
+}

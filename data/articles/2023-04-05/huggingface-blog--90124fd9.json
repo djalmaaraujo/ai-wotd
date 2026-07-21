@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--90124fd9",
+  "author": "Hugging Face Blog",
+  "content_chars": 21931,
+  "content_sha256": "f3f468aaa18e7cc313267a0394c65c52524191cd5365b9063219820998addc80",
+  "content_tokens": 5482,
+  "fetched_at": "2026-07-21T07:07:55Z",
+  "kind": "article",
+  "published_at": "2023-04-05T00:00:00+00:00",
+  "snippet": "StackLLaMA: A hands-on guide to train LLaMA with RLHF Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "StackLLaMA: A hands-on guide to train LLaMA with RLHF",
+  "top_terms": [
+    [
+      "model",
+      91
+    ],
+    [
+      "training",
+      35
+    ],
+    [
+      "the model",
+      31
+    ],
+    [
+      "reward",
+      30
+    ],
+    [
+      "rlhf",
+      17
+    ],
+    [
+      "kl",
+      16
+    ],
+    [
+      "llama",
+      16
+    ],
+    [
+      "human",
+      15
+    ],
+    [
+      "models",
+      15
+    ],
+    [
+      "reward model",
+      15
+    ],
+    [
+      "lora",
+      13
+    ],
+    [
+      "the reward",
+      13
+    ],
+    [
+      "batch",
+      12
+    ],
+    [
+      "loss",
+      12
+    ],
+    [
+      "rewards",
+      12
+    ],
+    [
+      "rl",
+      12
+    ],
+    [
+      "train",
+      12
+    ],
+    [
+      "language",
+      11
+    ],
+    [
+      "dataset",
+      10
+    ],
+    [
+      "fine-tuning",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/stackllama",
+  "url_canonical": "https://huggingface.co/blog/stackllama",
+  "via_source_id": null
+}

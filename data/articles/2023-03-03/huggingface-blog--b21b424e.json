@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b21b424e",
+  "author": "Hugging Face Blog",
+  "content_chars": 20515,
+  "content_sha256": "8c19a45ae066da66a241da04468a1331d2985d99c5dfc6e5671bf5c121ae4201",
+  "content_tokens": 5128,
+  "fetched_at": "2026-07-21T07:07:57Z",
+  "kind": "article",
+  "published_at": "2023-03-03T00:00:00+00:00",
+  "snippet": "ControlNet in 🧨 Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "ControlNet in 🧨 Diffusers",
+  "top_terms": [
+    [
+      "image",
+      76
+    ],
+    [
+      "controlnet",
+      67
+    ],
+    [
+      "canny",
+      31
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "lllyasviel",
+      27
+    ],
+    [
+      "diffusers",
+      24
+    ],
+    [
+      "pipe",
+      23
+    ],
+    [
+      "torch",
+      23
+    ],
+    [
+      "canny image",
+      22
+    ],
+    [
+      "prompt",
+      21
+    ],
+    [
+      "diffusion",
+      20
+    ],
+    [
+      "import",
+      17
+    ],
+    [
+      "updated",
+      16
+    ],
+    [
+      "generator",
+      15
+    ],
+    [
+      "image-to-image",
+      15
+    ],
+    [
+      "conditioning",
+      14
+    ],
+    [
+      "images",
+      14
+    ],
+    [
+      "stablediffusioncontrolnetpipeline",
+      14
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "quality",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/controlnet",
+  "url_canonical": "https://huggingface.co/blog/controlnet",
+  "via_source_id": null
+}

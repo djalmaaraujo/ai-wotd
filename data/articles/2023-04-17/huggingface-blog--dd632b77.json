@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--dd632b77",
+  "author": "Hugging Face Blog",
+  "content_chars": 8884,
+  "content_sha256": "4657255c07b82aa156df63f80318548a9ce2b5d5021141b2160d385ca05f52c8",
+  "content_tokens": 2221,
+  "fetched_at": "2026-07-21T07:07:54Z",
+  "kind": "article",
+  "published_at": "2023-04-17T00:00:00+00:00",
+  "snippet": "Accelerating Hugging Face Transformers with AWS Inferentia2 Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating Hugging Face Transformers with AWS Inferentia2",
+  "top_terms": [
+    [
+      "models",
+      25
+    ],
+    [
+      "inferentia2",
+      19
+    ],
+    [
+      "latency",
+      19
+    ],
+    [
+      "aws",
+      18
+    ],
+    [
+      "face",
+      14
+    ],
+    [
+      "hugging",
+      14
+    ],
+    [
+      "hugging face",
+      14
+    ],
+    [
+      "inferentia",
+      13
+    ],
+    [
+      "aws inferentia2",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "transformers",
+      8
+    ],
+    [
+      "updated",
+      8
+    ],
+    [
+      "benchmark",
+      7
+    ],
+    [
+      "inference",
+      7
+    ],
+    [
+      "throughput",
+      7
+    ],
+    [
+      "transformer",
+      7
+    ],
+    [
+      "a10g",
+      6
+    ],
+    [
+      "instances",
+      6
+    ],
+    [
+      "nvidia",
+      6
+    ],
+    [
+      "nvidia a10g",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/accelerate-transformers-with-inferentia2",
+  "url_canonical": "https://huggingface.co/blog/accelerate-transformers-with-inferentia2",
+  "via_source_id": null
+}

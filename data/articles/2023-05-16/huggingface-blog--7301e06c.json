@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--7301e06c",
+  "author": "Hugging Face Blog",
+  "content_chars": 25825,
+  "content_sha256": "84d5d292a658e395b041aff78843af8264d3e75338250c7548ec160c6cb38dd1",
+  "content_tokens": 6456,
+  "fetched_at": "2026-07-21T07:07:51Z",
+  "kind": "article",
+  "published_at": "2023-05-16T00:00:00+00:00",
+  "snippet": "Large-scale Near-deduplication Behind BigCode Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Large-scale Near-deduplication Behind BigCode",
+  "top_terms": [
+    [
+      "deduplication",
+      26
+    ],
+    [
+      "document",
+      26
+    ],
+    [
+      "minhash",
+      24
+    ],
+    [
+      "data",
+      19
+    ],
+    [
+      "dataset",
+      18
+    ],
+    [
+      "al",
+      17
+    ],
+    [
+      "et",
+      17
+    ],
+    [
+      "et al",
+      17
+    ],
+    [
+      "size",
+      17
+    ],
+    [
+      "bigcode",
+      15
+    ],
+    [
+      "models",
+      15
+    ],
+    [
+      "datasets",
+      14
+    ],
+    [
+      "language",
+      14
+    ],
+    [
+      "documents",
+      13
+    ],
+    [
+      "bigscience",
+      11
+    ],
+    [
+      "code",
+      11
+    ],
+    [
+      "hash",
+      11
+    ],
+    [
+      "lsh",
+      11
+    ],
+    [
+      "c4",
+      10
+    ],
+    [
+      "cluster",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/dedup",
+  "url_canonical": "https://huggingface.co/blog/dedup",
+  "via_source_id": null
+}
