@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fd193246",
+  "author": "Hugging Face Blog",
+  "content_chars": 31100,
+  "content_sha256": "d69c66cd595ba864eb58e6e66773e55a2c99e64337100670b70c76c2d4a708ad",
+  "content_tokens": 7775,
+  "fetched_at": "2026-07-22T07:08:55Z",
+  "kind": "article",
+  "published_at": "2022-10-12T00:00:00+00:00",
+  "snippet": "Optimization story: Bloom inference Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "source_id": "huggingface-blog",
+  "title": "Optimization story: Bloom inference",
+  "top_terms": [
+    [
+      "latency",
+      25
+    ],
+    [
+      "code",
+      24
+    ],
+    [
+      "gpu",
+      19
+    ],
+    [
+      "different",
+      18
+    ],
+    [
+      "inference",
+      18
+    ],
+    [
+      "it's",
+      18
+    ],
+    [
+      "bloom",
+      16
+    ],
+    [
+      "pytorch",
+      16
+    ],
+    [
+      "first",
+      15
+    ],
+    [
+      "ms",
+      15
+    ],
+    [
+      "since",
+      15
+    ],
+    [
+      "token",
+      15
+    ],
+    [
+      "ms token",
+      14
+    ],
+    [
+      "results",
+      14
+    ],
+    [
+      "torch",
+      14
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "work",
+      13
+    ],
+    [
+      "part",
+      12
+    ],
+    [
+      "running",
+      12
+    ],
+    [
+      "throughput",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/bloom-inference-optimization",
+  "url_canonical": "https://huggingface.co/blog/bloom-inference-optimization",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9051bfef",
+  "author": "Hugging Face Blog",
+  "content_chars": 16378,
+  "content_sha256": "f608eb1e96882e385b5b660a5b6ffc3c966b2af8ff86e564d310702e4d044a06",
+  "content_tokens": 4094,
+  "fetched_at": "2026-07-22T07:08:50Z",
+  "kind": "article",
+  "published_at": "2022-12-21T00:00:00+00:00",
+  "snippet": "Zero-shot image segmentation with CLIPSeg Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Zero-shot image segmentation with CLIPSeg",
+  "top_terms": [
+    [
+      "image",
+      70
+    ],
+    [
+      "clipseg",
+      33
+    ],
+    [
+      "segmentation",
+      33
+    ],
+    [
+      "model",
+      31
+    ],
+    [
+      "clip",
+      26
+    ],
+    [
+      "preds",
+      24
+    ],
+    [
+      "segments",
+      19
+    ],
+    [
+      "ax",
+      18
+    ],
+    [
+      "category",
+      18
+    ],
+    [
+      "images",
+      16
+    ],
+    [
+      "prompt",
+      16
+    ],
+    [
+      "segment",
+      15
+    ],
+    [
+      "torch",
+      15
+    ],
+    [
+      "dataset",
+      14
+    ],
+    [
+      "text",
+      14
+    ],
+    [
+      "image segmentation",
+      13
+    ],
+    [
+      "the image",
+      12
+    ],
+    [
+      "to segment",
+      12
+    ],
+    [
+      "we'll",
+      12
+    ],
+    [
+      "input",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/clipseg-zero-shot",
+  "url_canonical": "https://huggingface.co/blog/clipseg-zero-shot",
+  "via_source_id": null
+}

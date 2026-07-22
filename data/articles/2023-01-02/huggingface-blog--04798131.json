@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--04798131",
+  "author": "Hugging Face Blog",
+  "content_chars": 12315,
+  "content_sha256": "26a1aa6fe5866bcdf986538238e3b8348a262e27ed21d573649db41a5bf28493",
+  "content_tokens": 3078,
+  "fetched_at": "2026-07-22T07:08:50Z",
+  "kind": "article",
+  "published_at": "2023-01-02T00:00:00+00:00",
+  "snippet": "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1 Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1",
+  "top_terms": [
+    [
+      "training",
+      30
+    ],
+    [
+      "cluster",
+      22
+    ],
+    [
+      "intel",
+      19
+    ],
+    [
+      "cpus",
+      16
+    ],
+    [
+      "node",
+      16
+    ],
+    [
+      "master",
+      14
+    ],
+    [
+      "ssh",
+      14
+    ],
+    [
+      "instances",
+      13
+    ],
+    [
+      "pytorch",
+      13
+    ],
+    [
+      "rapids",
+      13
+    ],
+    [
+      "sapphire",
+      13
+    ],
+    [
+      "sapphire rapids",
+      13
+    ],
+    [
+      "transformers",
+      13
+    ],
+    [
+      "install",
+      12
+    ],
+    [
+      "the master",
+      12
+    ],
+    [
+      "job",
+      11
+    ],
+    [
+      "amx",
+      10
+    ],
+    [
+      "num",
+      10
+    ],
+    [
+      "master node",
+      9
+    ],
+    [
+      "processes",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/intel-sapphire-rapids",
+  "url_canonical": "https://huggingface.co/blog/intel-sapphire-rapids",
+  "via_source_id": null
+}

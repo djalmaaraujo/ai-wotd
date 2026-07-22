@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5a2910d3",
+  "author": "Hugging Face Blog",
+  "content_chars": 17009,
+  "content_sha256": "07bf9dc4e1b20c1ca0d5adbe8d188d0d599a43a35347e08057697ea0789c18eb",
+  "content_tokens": 4252,
+  "fetched_at": "2026-07-22T07:08:55Z",
+  "kind": "article",
+  "published_at": "2022-10-21T00:00:00+00:00",
+  "snippet": "From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord…",
+  "source_id": "huggingface-blog",
+  "title": "From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease",
+  "top_terms": [
+    [
+      "model",
+      50
+    ],
+    [
+      "data",
+      48
+    ],
+    [
+      "train",
+      48
+    ],
+    [
+      "target",
+      30
+    ],
+    [
+      "training",
+      30
+    ],
+    [
+      "distributed",
+      27
+    ],
+    [
+      "loss",
+      26
+    ],
+    [
+      "ddp",
+      24
+    ],
+    [
+      "torch",
+      22
+    ],
+    [
+      "code",
+      20
+    ],
+    [
+      "device",
+      20
+    ],
+    [
+      "loader",
+      20
+    ],
+    [
+      "rank",
+      20
+    ],
+    [
+      "self",
+      20
+    ],
+    [
+      "test",
+      20
+    ],
+    [
+      "trainer",
+      20
+    ],
+    [
+      "accelerate",
+      19
+    ],
+    [
+      "optimizer",
+      19
+    ],
+    [
+      "pytorch",
+      19
+    ],
+    [
+      "size",
+      19
+    ]
+  ],
+  "url": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+  "url_canonical": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+  "via_source_id": null
+}

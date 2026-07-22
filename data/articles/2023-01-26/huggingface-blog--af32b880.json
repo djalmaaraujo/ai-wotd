@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--af32b880",
+  "author": "Hugging Face Blog",
+  "content_chars": 11647,
+  "content_sha256": "cec1b2fe9931e2f70d5611f7df053b66639a7a56cbab1f3af56a7f9c4e166cb0",
+  "content_tokens": 2911,
+  "fetched_at": "2026-07-22T07:08:48Z",
+  "kind": "article",
+  "published_at": "2023-01-26T00:00:00+00:00",
+  "snippet": "Using LoRA for Efficient Stable Diffusion Fine-Tuning Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Using LoRA for Efficient Stable Diffusion Fine-Tuning",
+  "top_terms": [
+    [
+      "lora",
+      43
+    ],
+    [
+      "model",
+      42
+    ],
+    [
+      "fine-tuning",
+      18
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "dreambooth",
+      15
+    ],
+    [
+      "diffusion",
+      14
+    ],
+    [
+      "stable",
+      14
+    ],
+    [
+      "stable diffusion",
+      14
+    ],
+    [
+      "diffusers",
+      12
+    ],
+    [
+      "weights",
+      12
+    ],
+    [
+      "train",
+      10
+    ],
+    [
+      "with lora",
+      10
+    ],
+    [
+      "training",
+      9
+    ],
+    [
+      "hub",
+      8
+    ],
+    [
+      "inference",
+      8
+    ],
+    [
+      "base",
+      7
+    ],
+    [
+      "layers",
+      7
+    ],
+    [
+      "fine-tune",
+      6
+    ],
+    [
+      "name",
+      6
+    ],
+    [
+      "pipe",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/lora",
+  "url_canonical": "https://huggingface.co/blog/lora",
+  "via_source_id": null
+}

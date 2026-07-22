@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9da6e653",
+  "author": "Hugging Face Blog",
+  "content_chars": 10750,
+  "content_sha256": "2393820a13d34097a5b283da26eda836d5c569d93b1e01e53a33df9737692f84",
+  "content_tokens": 2687,
+  "fetched_at": "2026-07-22T07:08:51Z",
+  "kind": "article",
+  "published_at": "2022-12-14T00:00:00+00:00",
+  "snippet": "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB",
+  "top_terms": [
+    [
+      "gaudi2",
+      37
+    ],
+    [
+      "gaudi",
+      30
+    ],
+    [
+      "habana",
+      27
+    ],
+    [
+      "a100",
+      19
+    ],
+    [
+      "first-gen",
+      15
+    ],
+    [
+      "first-gen gaudi",
+      15
+    ],
+    [
+      "training",
+      15
+    ],
+    [
+      "gb",
+      14
+    ],
+    [
+      "bs",
+      13
+    ],
+    [
+      "inference",
+      13
+    ],
+    [
+      "batch",
+      12
+    ],
+    [
+      "runs",
+      12
+    ],
+    [
+      "batch size",
+      11
+    ],
+    [
+      "size",
+      11
+    ],
+    [
+      "updated",
+      11
+    ],
+    [
+      "a100 gb",
+      10
+    ],
+    [
+      "and inference",
+      8
+    ],
+    [
+      "first",
+      8
+    ],
+    [
+      "instance",
+      8
+    ],
+    [
+      "intel",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/habana-gaudi-2-benchmark",
+  "url_canonical": "https://huggingface.co/blog/habana-gaudi-2-benchmark",
+  "via_source_id": null
+}

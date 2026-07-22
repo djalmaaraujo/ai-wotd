@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b6139951",
+  "author": "Hugging Face Blog",
+  "content_chars": 13037,
+  "content_sha256": "3e4e6ea607bd2e38c354a7c2da98ff2c60bb53315c89f7b2b9ba0a37b0fe62a9",
+  "content_tokens": 3259,
+  "fetched_at": "2026-07-22T07:08:55Z",
+  "kind": "article",
+  "published_at": "2022-10-13T00:00:00+00:00",
+  "snippet": "🧨 Stable Diffusion in JAX / Flax ! Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face…",
+  "source_id": "huggingface-blog",
+  "title": "🧨 Stable Diffusion  in JAX / Flax !",
+  "top_terms": [
+    [
+      "images",
+      29
+    ],
+    [
+      "jax",
+      27
+    ],
+    [
+      "prompt",
+      19
+    ],
+    [
+      "devices",
+      16
+    ],
+    [
+      "pipeline",
+      16
+    ],
+    [
+      "generate",
+      15
+    ],
+    [
+      "shape",
+      15
+    ],
+    [
+      "flax",
+      14
+    ],
+    [
+      "device",
+      13
+    ],
+    [
+      "ids",
+      13
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "import",
+      12
+    ],
+    [
+      "prompt ids",
+      12
+    ],
+    [
+      "code",
+      11
+    ],
+    [
+      "diffusion",
+      10
+    ],
+    [
+      "license",
+      10
+    ],
+    [
+      "tpu",
+      10
+    ],
+    [
+      "different",
+      9
+    ],
+    [
+      "function",
+      9
+    ],
+    [
+      "inference",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/stable_diffusion_jax",
+  "url_canonical": "https://huggingface.co/blog/stable_diffusion_jax",
+  "via_source_id": null
+}

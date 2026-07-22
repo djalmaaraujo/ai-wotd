@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--32598350",
+  "author": "Hugging Face Blog",
+  "content_chars": 17995,
+  "content_sha256": "4b576636a488060cb95ffd63a47199da8b44b36af55acc29119c3860123ed52e",
+  "content_tokens": 4498,
+  "fetched_at": "2026-07-22T07:08:56Z",
+  "kind": "article",
+  "published_at": "2022-09-27T00:00:00+00:00",
+  "snippet": "How 🤗 Accelerate runs very large models thanks to PyTorch Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "How 🤗 Accelerate runs very large models thanks to PyTorch",
+  "top_terms": [
+    [
+      "model",
+      109
+    ],
+    [
+      "device",
+      50
+    ],
+    [
+      "decoder",
+      45
+    ],
+    [
+      "model decoder",
+      44
+    ],
+    [
+      "layers",
+      37
+    ],
+    [
+      "decoder layers",
+      35
+    ],
+    [
+      "model decoder layers",
+      35
+    ],
+    [
+      "weights",
+      35
+    ],
+    [
+      "map",
+      28
+    ],
+    [
+      "cpu",
+      27
+    ],
+    [
+      "disk",
+      27
+    ],
+    [
+      "device map",
+      25
+    ],
+    [
+      "ram",
+      24
+    ],
+    [
+      "models",
+      22
+    ],
+    [
+      "torch",
+      22
+    ],
+    [
+      "large",
+      18
+    ],
+    [
+      "load",
+      18
+    ],
+    [
+      "the model",
+      17
+    ],
+    [
+      "accelerate",
+      16
+    ],
+    [
+      "import",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/blog/accelerate-large-models",
+  "url_canonical": "https://huggingface.co/blog/accelerate-large-models",
+  "via_source_id": null
+}

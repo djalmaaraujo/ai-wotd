@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--85b4d9c7",
+  "author": "Hugging Face Blog",
+  "content_chars": 10779,
+  "content_sha256": "cfe4d3817e91e72fedf41ba93e5a03a712ffcc6fa6fba6bb631686e33ba113d1",
+  "content_tokens": 2694,
+  "fetched_at": "2026-07-22T07:08:54Z",
+  "kind": "article",
+  "published_at": "2022-11-07T00:00:00+00:00",
+  "snippet": "Training Stable Diffusion with Dreambooth using Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Training Stable Diffusion with Dreambooth using Diffusers",
+  "top_terms": [
+    [
+      "steps",
+      26
+    ],
+    [
+      "training",
+      24
+    ],
+    [
+      "dreambooth",
+      23
+    ],
+    [
+      "learning",
+      23
+    ],
+    [
+      "learning rate",
+      20
+    ],
+    [
+      "rate",
+      20
+    ],
+    [
+      "results",
+      18
+    ],
+    [
+      "e-6",
+      17
+    ],
+    [
+      "images",
+      13
+    ],
+    [
+      "preservation",
+      13
+    ],
+    [
+      "prior",
+      13
+    ],
+    [
+      "prior preservation",
+      13
+    ],
+    [
+      "fine-tuning",
+      12
+    ],
+    [
+      "diffusion",
+      11
+    ],
+    [
+      "encoder",
+      11
+    ],
+    [
+      "experiments",
+      11
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "stable",
+      11
+    ],
+    [
+      "stable diffusion",
+      11
+    ],
+    [
+      "text",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/dreambooth",
+  "url_canonical": "https://huggingface.co/blog/dreambooth",
+  "via_source_id": null
+}
