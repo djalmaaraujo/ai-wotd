@@ -1,0 +1,132 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--d36a8cbe",
+        "x-trq212--901e545c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "working on",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--d36a8cbe",
+        "x-trq212--901e545c"
+      ],
+      "avg_tf_baseline": 2.5,
+      "df_today": 2,
+      "score": 1.940812,
+      "term": "long",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--d36a8cbe",
+        "x-trq212--901e545c"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 1.617343,
+      "term": "working",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.1667,
+      "df_today": 2,
+      "score": 0.809504,
+      "term": "net",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.25,
+      "df_today": 2,
+      "score": 0.788747,
+      "term": "https nitter",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.25,
+      "df_today": 2,
+      "score": 0.788747,
+      "term": "https nitter net",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.25,
+      "df_today": 2,
+      "score": 0.788747,
+      "term": "nitter",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.25,
+      "df_today": 2,
+      "score": 0.788747,
+      "term": "nitter net",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 2,
+      "score": 0.699117,
+      "term": "status",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "avg_tf_baseline": 3.8,
+      "df_today": 2,
+      "score": 0.674586,
+      "term": "https",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-23",
+  "evidence_article_ids": [
+    "x-simonw--426263a1",
+    "x-simonw--d36a8cbe"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "nitter net",
+      "https nitter net",
+      "https nitter",
+      "nitter",
+      "status"
+    ]
+  },
+  "score": 0.788747,
+  "word": "nitter net"
+}

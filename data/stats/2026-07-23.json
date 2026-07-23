@@ -1,0 +1,124 @@
+{
+  "article_ids": [
+    "x-simonw--426263a1",
+    "x-simonw--d36a8cbe",
+    "x-trq212--901e545c"
+  ],
+  "date": "2026-07-23",
+  "document_count": 3,
+  "terms": {
+    "https": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https nitter": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https nitter net": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "long": {
+      "articles": [
+        "x-simonw--d36a8cbe",
+        "x-trq212--901e545c"
+      ],
+      "authors": [
+        "@trq212",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "net": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nitter": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nitter net": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "status": {
+      "articles": [
+        "x-simonw--426263a1",
+        "x-simonw--d36a8cbe"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "working": {
+      "articles": [
+        "x-simonw--d36a8cbe",
+        "x-trq212--901e545c"
+      ],
+      "authors": [
+        "@trq212",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "working on": {
+      "articles": [
+        "x-simonw--d36a8cbe",
+        "x-trq212--901e545c"
+      ],
+      "authors": [
+        "@trq212",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

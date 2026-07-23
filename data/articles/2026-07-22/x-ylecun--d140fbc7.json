@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--d140fbc7",
+  "author": "Yann LeCun",
+  "content_chars": 414,
+  "content_sha256": "26dca5f37df3279930d7cad32fa36defed6b804df0e07ef887afe21b8d160c6c",
+  "content_tokens": 103,
+  "fetched_at": "2026-07-23T07:07:23Z",
+  "kind": "tweet",
+  "published_at": "2026-07-22T19:49:45+00:00",
+  "snippet": "Pretrained ViTs see the world in rich, dense detail. Most policies pool it to a single vector before acting, discarding most of it. We introduce Patch Policy: a minimal architectural extension that enables transformer-based policies to consume dense tokens directly, no…",
+  "source_id": "x-ylecun",
+  "title": "Pretrained ViTs see the world in rich, dense detail. Most policies pool it to a ",
+  "top_terms": [
+    [
+      "dense",
+      3
+    ],
+    [
+      "policies",
+      3
+    ],
+    [
+      "dense detail",
+      2
+    ],
+    [
+      "dense detail most",
+      2
+    ],
+    [
+      "detail",
+      2
+    ],
+    [
+      "detail most",
+      2
+    ],
+    [
+      "detail most policies",
+      2
+    ],
+    [
+      "in rich",
+      2
+    ],
+    [
+      "in rich dense",
+      2
+    ],
+    [
+      "most policies",
+      2
+    ],
+    [
+      "most policies pool",
+      2
+    ],
+    [
+      "policies pool",
+      2
+    ],
+    [
+      "policies pool it",
+      2
+    ],
+    [
+      "pool",
+      2
+    ],
+    [
+      "pool it",
+      2
+    ],
+    [
+      "pool it to",
+      2
+    ],
+    [
+      "pretrained",
+      2
+    ],
+    [
+      "pretrained vits",
+      2
+    ],
+    [
+      "pretrained vits see",
+      2
+    ],
+    [
+      "rich",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2080017474943091067",
+  "url_canonical": "https://x.com/ylecun/status/2080017474943091067",
+  "via_source_id": null
+}
