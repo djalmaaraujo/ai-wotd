@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--59bacb75",
+  "author": "Yann LeCun",
+  "content_chars": 2189,
+  "content_sha256": "88c0cfdbb421ace3534fb00b55487819ee89d48a4abb4030e876c47e1adcc5fa",
+  "content_tokens": 547,
+  "fetched_at": "2026-07-24T07:08:11Z",
+  "kind": "tweet",
+  "published_at": "2026-07-23T14:00:33+00:00",
+  "snippet": "World Modeling with JEPA has recently gained traction thanks to a novel anti-collapse mechanism called \"SIGReg\" (by @ylecun and @randall_balestr ). The math is clean, but it is rarely explained from first principles, so I broke it down in a detailed blog post 📰 Here is the…",
+  "source_id": "x-ylecun",
+  "title": "World Modeling with JEPA has recently gained traction thanks to a novel anti-col",
+  "top_terms": [
+    [
+      "sigreg",
+      4
+    ],
+    [
+      "encoder",
+      3
+    ],
+    [
+      "it's",
+      3
+    ],
+    [
+      "jepa",
+      3
+    ],
+    [
+      "loss",
+      3
+    ],
+    [
+      "prediction",
+      3
+    ],
+    [
+      "single",
+      3
+    ],
+    [
+      "batch",
+      2
+    ],
+    [
+      "distribution",
+      2
+    ],
+    [
+      "each step",
+      2
+    ],
+    [
+      "embeddings",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "gained",
+      2
+    ],
+    [
+      "gained traction",
+      2
+    ],
+    [
+      "gained traction thanks",
+      2
+    ],
+    [
+      "gaussian",
+      2
+    ],
+    [
+      "gets",
+      2
+    ],
+    [
+      "gets gradients",
+      2
+    ],
+    [
+      "gets gradients from",
+      2
+    ],
+    [
+      "gradients",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2080291982115479668",
+  "url_canonical": "https://x.com/ylecun/status/2080291982115479668",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0ffbef04",
+  "author": "Hugging Face Blog",
+  "content_chars": 18206,
+  "content_sha256": "b22c64b7042a3e1a0a3639851ffbb40a100eda67ad86ed64dd015985b8057036",
+  "content_tokens": 4551,
+  "fetched_at": "2026-07-24T07:08:01Z",
+  "kind": "article",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "snippet": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "top_terms": [
+    [
+      "nunchaku",
+      48
+    ],
+    [
+      "diffusers",
+      46
+    ],
+    [
+      "lite",
+      26
+    ],
+    [
+      "nunchaku lite",
+      26
+    ],
+    [
+      "quantization",
+      17
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "nvfp4",
+      15
+    ],
+    [
+      "bit",
+      14
+    ],
+    [
+      "image",
+      13
+    ],
+    [
+      "inference",
+      13
+    ],
+    [
+      "memory",
+      13
+    ],
+    [
+      "qkv",
+      13
+    ],
+    [
+      "svdquant",
+      13
+    ],
+    [
+      "text",
+      13
+    ],
+    [
+      "torch",
+      13
+    ],
+    [
+      "flux",
+      12
+    ],
+    [
+      "fused",
+      12
+    ],
+    [
+      "kernels",
+      12
+    ],
+    [
+      "attn",
+      11
+    ],
+    [
+      "checkpoint",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "url_canonical": "https://huggingface.co/blog/nunchaku-diffusers",
+  "via_source_id": null
+}
