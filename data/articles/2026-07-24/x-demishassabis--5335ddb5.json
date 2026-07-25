@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--5335ddb5",
+  "author": "Claude Devs",
+  "content_chars": 391,
+  "content_sha256": "e4595410625a1a24dbe7549de7de45a76e9a95567f4cde0d588e445ec589c888",
+  "content_tokens": 97,
+  "fetched_at": "2026-07-25T07:02:10Z",
+  "kind": "tweet",
+  "published_at": "2026-07-24T17:14:47+00:00",
+  "snippet": "On Claude Platform, Opus 5 supports mid-conversation tool changes: add or remove tools without invalidating your prompt cache. We also added fallback routing: classifier-blocked requests are routed to our recommended model based on the request. platform.claude.com/docs/en/… Link…",
+  "source_id": "x-demishassabis",
+  "title": "On Claude Platform, Opus 5 supports mid-conversation tool changes: add or remove",
+  "top_terms": [
+    [
+      "claude",
+      6
+    ],
+    [
+      "opus",
+      4
+    ],
+    [
+      "platform",
+      4
+    ],
+    [
+      "changes",
+      3
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "add or",
+      2
+    ],
+    [
+      "add or remove",
+      2
+    ],
+    [
+      "changes add",
+      2
+    ],
+    [
+      "changes add or",
+      2
+    ],
+    [
+      "claude com",
+      2
+    ],
+    [
+      "claude opus",
+      2
+    ],
+    [
+      "claude platform",
+      2
+    ],
+    [
+      "claude platform opus",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "in claude",
+      2
+    ],
+    [
+      "in claude opus",
+      2
+    ],
+    [
+      "mid-conversation",
+      2
+    ],
+    [
+      "mid-conversation tool",
+      2
+    ],
+    [
+      "mid-conversation tool changes",
+      2
+    ],
+    [
+      "on claude",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2080703250131722399",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2080703250131722399",
+  "via_source_id": null
+}
