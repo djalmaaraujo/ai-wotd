@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--6121193b",
+  "author": "Yann LeCun",
+  "content_chars": 754,
+  "content_sha256": "053fa6dde75d176f51611bc975a80a9ab598a209420773fd0e1c720998fd2670",
+  "content_tokens": 188,
+  "fetched_at": "2026-07-26T07:11:09Z",
+  "kind": "tweet",
+  "published_at": "2026-07-24T16:34:11+00:00",
+  "snippet": "Learning causality from internet videos in latent space first, and then using RL to teach the foundation model how to act. This approach is 30× cheaper than Gemini 3.1 Flash on pretraining and achieves a better result. JEPA is all you need! However, actions are still learned…",
+  "source_id": "x-ylecun",
+  "title": "Learning causality from internet videos in latent space first, and then using RL",
+  "top_terms": [
+    [
+      "first",
+      3
+    ],
+    [
+      "induction",
+      3
+    ],
+    [
+      "induction labs",
+      3
+    ],
+    [
+      "labs",
+      3
+    ],
+    [
+      "learning",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "video",
+      3
+    ],
+    [
+      "action",
+      2
+    ],
+    [
+      "action labels",
+      2
+    ],
+    [
+      "actions",
+      2
+    ],
+    [
+      "causality",
+      2
+    ],
+    [
+      "causality from",
+      2
+    ],
+    [
+      "causality from internet",
+      2
+    ],
+    [
+      "first and",
+      2
+    ],
+    [
+      "first and then",
+      2
+    ],
+    [
+      "foundation",
+      2
+    ],
+    [
+      "foundation model",
+      2
+    ],
+    [
+      "from internet",
+      2
+    ],
+    [
+      "from internet videos",
+      2
+    ],
+    [
+      "imagination",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2080693034354933814",
+  "url_canonical": "https://x.com/ylecun/status/2080693034354933814",
+  "via_source_id": null
+}
