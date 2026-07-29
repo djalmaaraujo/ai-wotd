@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "til",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 9.887511,
+      "term": "mcp",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "adding custom",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "adding custom mcp",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and claude",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and claude regular",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "both the chatgpt",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "chatgpt and",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "chatgpt and claude",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--e73d74b5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "claude regular",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-07-29",
+  "evidence_article_ids": [
+    "x-simonw--e73d74b5"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "custom mcp servers",
+      "adding custom mcp",
+      "chatgpt and claude",
+      "mcp servers",
+      "llms"
+    ]
+  },
+  "score": 6.591674,
+  "word": "custom mcp servers"
+}
