@@ -1,0 +1,127 @@
+{
+  "article_ids": [
+    "x-sama--2b3675a4",
+    "x-sama--31385911",
+    "x-simonw--aa466725"
+  ],
+  "date": "2026-07-30",
+  "document_count": 3,
+  "terms": {
+    "gpt-5": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "https": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "https nitter": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "https nitter net": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "net": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "nitter": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "nitter net": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "openai": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "status": {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "authors": [
+        "Sam Altman",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    }
+  }
+}

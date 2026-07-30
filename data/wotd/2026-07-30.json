@@ -1,0 +1,129 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 3,
+      "score": 2.079442,
+      "term": "net",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.3333,
+      "df_today": 3,
+      "score": 1.871497,
+      "term": "status",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 3,
+      "score": 1.701361,
+      "term": "https",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 3,
+      "score": 1.701361,
+      "term": "https nitter",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 3,
+      "score": 1.701361,
+      "term": "https nitter net",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 3,
+      "score": 1.701361,
+      "term": "nitter",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 3,
+      "score": 1.701361,
+      "term": "nitter net",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 7.0,
+      "df_today": 2,
+      "score": 1.072959,
+      "term": "gpt-5",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-sama--2b3675a4",
+        "x-sama--31385911",
+        "x-simonw--aa466725"
+      ],
+      "avg_tf_baseline": 14.0,
+      "df_today": 3,
+      "score": 0.959871,
+      "term": "openai",
+      "tf_today": 5
+    }
+  ],
+  "date": "2026-07-30",
+  "evidence_article_ids": [
+    "x-sama--2b3675a4",
+    "x-simonw--aa466725"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "gpt-5",
+      "https nitter net",
+      "nitter net",
+      "https nitter",
+      "nitter"
+    ]
+  },
+  "score": 1.072959,
+  "word": "gpt-5"
+}
