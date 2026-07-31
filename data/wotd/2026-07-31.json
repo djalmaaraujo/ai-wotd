@@ -1,0 +1,110 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 15.021421,
+      "term": "datasette",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "luna is",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 2,
+      "score": 6.967953,
+      "term": "luna",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "to try",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "to try it",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 2.563429,
+      "term": "try",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 2.563429,
+      "term": "try it",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--03a0fa44",
+        "x-simonw--5f5b58b3"
+      ],
+      "avg_tf_baseline": 4.0,
+      "df_today": 2,
+      "score": 1.819511,
+      "term": "agent",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-07-31",
+  "evidence_article_ids": [
+    "x-simonw--03a0fa44",
+    "x-simonw--5f5b58b3"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "datasette",
+      "luna",
+      "agent",
+      "luna is",
+      "try it"
+    ]
+  },
+  "score": 15.021421,
+  "word": "datasette"
+}
