@@ -1,0 +1,98 @@
+{
+  "article_id": "x-ylecun--4d1c4c94",
+  "author": "Yann LeCun",
+  "content_chars": 261,
+  "content_sha256": "f291ab38ad9a4eaa5ae8d8ad4e06ed6ca62d7c4576fa2301749ce0cee8cec149",
+  "content_tokens": 65,
+  "fetched_at": "2026-08-01T07:05:46Z",
+  "kind": "tweet",
+  "published_at": "2026-07-29T20:18:57+00:00",
+  "snippet": "1/ SSL models like DINOv2 are engineering marvels, but they rely on fragile hacks like EMA, stop-gradients, and custom centering to avoid representation collapse. What if we could replace all these heuristics with pure, mathematically sound optimal transport? 🧵",
+  "source_id": "x-ylecun",
+  "title": "1/ SSL models like DINOv2 are engineering marvels, but they rely on fragile hack",
+  "top_terms": [
+    [
+      "are engineering",
+      2
+    ],
+    [
+      "are engineering marvels",
+      2
+    ],
+    [
+      "but they rely",
+      2
+    ],
+    [
+      "dinov2",
+      2
+    ],
+    [
+      "dinov2 are",
+      2
+    ],
+    [
+      "dinov2 are engineering",
+      2
+    ],
+    [
+      "engineering",
+      2
+    ],
+    [
+      "engineering marvels",
+      2
+    ],
+    [
+      "engineering marvels but",
+      2
+    ],
+    [
+      "fragile",
+      2
+    ],
+    [
+      "like dinov2",
+      2
+    ],
+    [
+      "like dinov2 are",
+      2
+    ],
+    [
+      "marvels",
+      2
+    ],
+    [
+      "marvels but",
+      2
+    ],
+    [
+      "marvels but they",
+      2
+    ],
+    [
+      "models",
+      2
+    ],
+    [
+      "models like",
+      2
+    ],
+    [
+      "models like dinov2",
+      2
+    ],
+    [
+      "on fragile",
+      2
+    ],
+    [
+      "rely",
+      2
+    ]
+  ],
+  "url": "https://x.com/ylecun/status/2082561539819618472",
+  "url_canonical": "https://x.com/ylecun/status/2082561539819618472",
+  "via_source_id": null
+}
