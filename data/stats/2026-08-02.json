@@ -1,0 +1,128 @@
+{
+  "article_ids": [
+    "x-karpathy--731c40a0",
+    "x-simonw--25f70608",
+    "x-simonw--2ad04c3f",
+    "x-simonw--6aeeb59b"
+  ],
+  "date": "2026-08-02",
+  "document_count": 4,
+  "terms": {
+    "chatgpt": {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--6aeeb59b"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "descriptions": {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it's": {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--25f70608"
+      ],
+      "authors": [
+        "Andrej Karpathy",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "prompts": {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "right": {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--25f70608"
+      ],
+      "authors": [
+        "Andrej Karpathy",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "screenshots": {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--6aeeb59b"
+      ],
+      "authors": [
+        "Andrej Karpathy",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "take screenshots": {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--6aeeb59b"
+      ],
+      "authors": [
+        "Andrej Karpathy",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tool": {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tool descriptions": {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "work": {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--2ad04c3f",
+        "x-simonw--6aeeb59b"
+      ],
+      "authors": [
+        "Andrej Karpathy",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    }
+  }
+}

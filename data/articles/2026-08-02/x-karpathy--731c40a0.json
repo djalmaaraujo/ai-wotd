@@ -1,0 +1,98 @@
+{
+  "article_id": "x-karpathy--731c40a0",
+  "author": "Andrej Karpathy",
+  "content_chars": 1609,
+  "content_sha256": "7890906c2fa64b08bd5a64b83c8cb71991baaf77511df342ff4606fa4df8bfaf",
+  "content_tokens": 402,
+  "fetched_at": "2026-08-02T07:07:27Z",
+  "kind": "tweet",
+  "published_at": "2026-08-02T03:00:09+00:00",
+  "snippet": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for…",
+  "source_id": "x-karpathy",
+  "title": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an",
+  "top_terms": [
+    [
+      "it's",
+      4
+    ],
+    [
+      "llm",
+      3
+    ],
+    [
+      "opus",
+      3
+    ],
+    [
+      "an example",
+      2
+    ],
+    [
+      "an llm",
+      2
+    ],
+    [
+      "an llm by",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "code that",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "create an",
+      2
+    ],
+    [
+      "custom",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "example",
+      2
+    ],
+    [
+      "games",
+      2
+    ],
+    [
+      "kind",
+      2
+    ],
+    [
+      "kind of",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "leave the",
+      2
+    ],
+    [
+      "leave the territory",
+      2
+    ],
+    [
+      "llm by",
+      2
+    ]
+  ],
+  "url": "https://x.com/karpathy/status/2083749667410727319",
+  "url_canonical": "https://x.com/karpathy/status/2083749667410727319",
+  "via_source_id": null
+}

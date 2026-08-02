@@ -1,0 +1,133 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "prompts",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--25f70608"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 2,
+      "score": 7.783641,
+      "term": "it's",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "descriptions",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--6aeeb59b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "screenshots",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--6aeeb59b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "take screenshots",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4.394449,
+      "term": "tool descriptions",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--6aeeb59b"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 2,
+      "score": 4.291834,
+      "term": "chatgpt",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--2ad04c3f",
+        "x-simonw--6aeeb59b"
+      ],
+      "avg_tf_baseline": 3.5,
+      "df_today": 3,
+      "score": 2.299197,
+      "term": "work",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--25f70608",
+        "x-simonw--2ad04c3f"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 2.197225,
+      "term": "tool",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-karpathy--731c40a0",
+        "x-simonw--25f70608"
+      ],
+      "avg_tf_baseline": 2.5,
+      "df_today": 2,
+      "score": 1.663553,
+      "term": "right",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-08-02",
+  "evidence_article_ids": [
+    "x-simonw--25f70608",
+    "x-simonw--6aeeb59b"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "chatgpt",
+      "tool descriptions",
+      "take screenshots",
+      "prompts",
+      "descriptions"
+    ]
+  },
+  "score": 4.291834,
+  "word": "chatgpt"
+}
