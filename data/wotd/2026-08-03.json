@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "minimax",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "minimax-h3",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and minimax-h3",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and minimax-h3 within",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "each other minimax",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "hours of",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "hours of each",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "max and minimax-h3",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "minimax ai",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--d904df76"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "minimax official",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-08-03",
+  "evidence_article_ids": [
+    "x-simonw--d904df76"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "minimax-h3",
+      "minimax",
+      "minimax ai",
+      "ai minimax-h3",
+      "minimax-h3 within"
+    ]
+  },
+  "score": 12.476649,
+  "word": "minimax-h3"
+}

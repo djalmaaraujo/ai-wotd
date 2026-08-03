@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-08-02T07:07:31+00:00</lastBuildDate>
+    <lastBuildDate>2026-08-03T07:23:39+00:00</lastBuildDate>
+    <item>
+      <title>minimax-h3 (2026-08-03)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-03/</link>
+      <guid isPermaLink="false">wotd-2026-08-03</guid>
+      <pubDate>2026-08-03</pubDate>
+      <description>Word of the day: minimax-h3</description>
+    </item>
     <item>
       <title>chatgpt (2026-08-02)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-02/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-05-29</guid>
       <pubDate>2026-05-29</pubDate>
       <description>Word of the day: claude</description>
-    </item>
-    <item>
-      <title>deepswe benchmark (2026-05-28)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-05-28/</link>
-      <guid isPermaLink="false">wotd-2026-05-28</guid>
-      <pubDate>2026-05-28</pubDate>
-      <description>Word of the day: deepswe benchmark</description>
     </item>
   </channel>
 </rss>
