@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 40.314588,
+      "term": "llm",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "new release of",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "reasoning traces",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "release of",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "server-side",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "traces",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 1,
+      "score": 9.357487,
+      "term": "reasoning",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and python",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and python library",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--83487281"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "big new",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-08-05",
+  "evidence_article_ids": [
+    "x-simonw--83487281"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "reasoning traces",
+      "llm cli tool",
+      "reasoning traces openai",
+      "server-side tools",
+      "llm"
+    ]
+  },
+  "score": 12.476649,
+  "word": "reasoning traces"
+}
