@@ -1,0 +1,44 @@
+{
+  "article_ids": [
+    "x-simonw--22a078a9",
+    "x-simonw--3ec32154",
+    "x-simonw--fa8eb164"
+  ],
+  "date": "2026-08-06",
+  "document_count": 3,
+  "terms": {
+    "companies": {
+      "articles": [
+        "x-simonw--22a078a9",
+        "x-simonw--fa8eb164"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "meta": {
+      "articles": [
+        "x-simonw--3ec32154",
+        "x-simonw--fa8eb164"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "model": {
+      "articles": [
+        "x-simonw--3ec32154",
+        "x-simonw--fa8eb164"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}

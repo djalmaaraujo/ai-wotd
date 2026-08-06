@@ -1,0 +1,52 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--3ec32154",
+        "x-simonw--fa8eb164"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.964212,
+      "term": "meta",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "x-simonw--3ec32154",
+        "x-simonw--fa8eb164"
+      ],
+      "avg_tf_baseline": 9.0,
+      "df_today": 2,
+      "score": 0.834523,
+      "term": "model",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--22a078a9",
+        "x-simonw--fa8eb164"
+      ],
+      "avg_tf_baseline": 4.0,
+      "df_today": 2,
+      "score": 0.640857,
+      "term": "companies",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-08-06",
+  "evidence_article_ids": [
+    "x-simonw--3ec32154",
+    "x-simonw--fa8eb164"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "meta",
+      "model"
+    ]
+  },
+  "score": 33.964212,
+  "word": "meta"
+}
