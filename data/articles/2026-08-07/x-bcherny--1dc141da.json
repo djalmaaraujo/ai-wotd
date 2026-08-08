@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--1dc141da",
+  "author": "Boris Cherny",
+  "content_chars": 275,
+  "content_sha256": "498799366245107394f4abe161abc5b55256fc9480dd869afb1a11f9722b1211",
+  "content_tokens": 68,
+  "fetched_at": "2026-08-08T07:12:45Z",
+  "kind": "tweet",
+  "published_at": "2026-08-07T22:48:33+00:00",
+  "snippet": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in claude code as of next week claude.com/blog/auto-mode-de…",
+  "source_id": "x-bcherny",
+  "title": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you s",
+  "top_terms": [
+    [
+      "attacks",
+      2
+    ],
+    [
+      "attacks if",
+      2
+    ],
+    [
+      "attacks if you",
+      2
+    ],
+    [
+      "can get indirect",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "get indirect",
+      2
+    ],
+    [
+      "get indirect prompt",
+      2
+    ],
+    [
+      "indirect",
+      2
+    ],
+    [
+      "indirect prompt",
+      2
+    ],
+    [
+      "indirect prompt injection",
+      2
+    ],
+    [
+      "injection",
+      2
+    ],
+    [
+      "injection to",
+      2
+    ],
+    [
+      "injection to on",
+      2
+    ],
+    [
+      "on unseen",
+      2
+    ],
+    [
+      "on unseen attacks",
+      2
+    ],
+    [
+      "prompt",
+      2
+    ],
+    [
+      "prompt injection",
+      2
+    ],
+    [
+      "prompt injection to",
+      2
+    ],
+    [
+      "to on unseen",
+      2
+    ],
+    [
+      "turns",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2085860677990883454",
+  "url_canonical": "https://x.com/bcherny/status/2085860677990883454",
+  "via_source_id": null
+}

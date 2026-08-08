@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--398913fb",
+  "author": "Claude Devs",
+  "content_chars": 236,
+  "content_sha256": "9fa3433e81f2fe157a7617ca20aff4b7b635acc5212a9d93bd6675e9eb90f95d",
+  "content_tokens": 59,
+  "fetched_at": "2026-08-08T07:12:50Z",
+  "kind": "tweet",
+  "published_at": "2026-08-07T22:18:43+00:00",
+  "snippet": "We shipped four updates to Claude Managed Agents this week. First, you can now set a budget for sessions to keep spend predictable. Sessions that hit the limit pause with a budget_reached event, you can raise the budget to resume. Video",
+  "source_id": "x-demishassabis",
+  "title": "We shipped four updates to Claude Managed Agents this week. First, you can now s",
+  "top_terms": [
+    [
+      "budget",
+      3
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "agents this",
+      2
+    ],
+    [
+      "agents this week",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude managed",
+      2
+    ],
+    [
+      "claude managed agents",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "first you",
+      2
+    ],
+    [
+      "first you can",
+      2
+    ],
+    [
+      "four",
+      2
+    ],
+    [
+      "four updates",
+      2
+    ],
+    [
+      "four updates to",
+      2
+    ],
+    [
+      "managed",
+      2
+    ],
+    [
+      "managed agents",
+      2
+    ],
+    [
+      "managed agents this",
+      2
+    ],
+    [
+      "sessions",
+      2
+    ],
+    [
+      "shipped",
+      2
+    ],
+    [
+      "shipped four",
+      2
+    ],
+    [
+      "shipped four updates",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2085853169930957158",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2085853169930957158",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--f8522a1e",
+  "author": "Claude Devs",
+  "content_chars": 307,
+  "content_sha256": "ea91feebad31d97a8c11323482d7bc077819d960dffe89c9be5e46f221b6aa2d",
+  "content_tokens": 76,
+  "fetched_at": "2026-08-08T07:12:50Z",
+  "kind": "tweet",
+  "published_at": "2026-08-07T18:27:03+00:00",
+  "snippet": "Auto mode runs a classifier on every tool call, which uses a small number of extra tokens. As of today, that classifier overhead no longer counts toward your usage limits on Pro, Max, and Team plans. This change will come to Enterprise plans and API users once auto mode is the…",
+  "source_id": "x-demishassabis",
+  "title": "Auto mode runs a classifier on every tool call, which uses a small number of ext",
+  "top_terms": [
+    [
+      "auto",
+      3
+    ],
+    [
+      "auto mode",
+      3
+    ],
+    [
+      "classifier",
+      3
+    ],
+    [
+      "mode",
+      3
+    ],
+    [
+      "auto mode runs",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "call which",
+      2
+    ],
+    [
+      "call which uses",
+      2
+    ],
+    [
+      "classifier on",
+      2
+    ],
+    [
+      "classifier on every",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "every tool",
+      2
+    ],
+    [
+      "every tool call",
+      2
+    ],
+    [
+      "mode runs",
+      2
+    ],
+    [
+      "number",
+      2
+    ],
+    [
+      "number of",
+      2
+    ],
+    [
+      "on every",
+      2
+    ],
+    [
+      "on every tool",
+      2
+    ],
+    [
+      "plans",
+      2
+    ],
+    [
+      "runs",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2085794868102889473",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2085794868102889473",
+  "via_source_id": null
+}
