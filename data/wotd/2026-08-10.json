@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 9.887511,
+      "term": "prompt",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "claude opus",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "claude opus system",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "details",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "details of",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "details of the",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "includes details",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "includes details of",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "just noticed",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-simonw--0b66e356"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "just noticed the",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-08-10",
+  "evidence_article_ids": [
+    "x-simonw--0b66e356"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "claude opus system",
+      "opus system prompt",
+      "claude opus",
+      "system prompt includes",
+      "prompt includes details"
+    ]
+  },
+  "score": 6.591674,
+  "word": "claude opus system"
+}
