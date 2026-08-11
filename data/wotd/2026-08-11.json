@@ -1,0 +1,41 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-simonw--753afcf0",
+        "x-simonw--7bc5dab7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 15.021421,
+      "term": "vision",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "x-simonw--753afcf0",
+        "x-simonw--7bc5dab7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "laptop",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-08-11",
+  "evidence_article_ids": [
+    "x-simonw--753afcf0",
+    "x-simonw--7bc5dab7"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "vision",
+      "laptop"
+    ]
+  },
+  "score": 15.021421,
+  "word": "vision"
+}

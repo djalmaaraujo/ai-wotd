@@ -1,0 +1,33 @@
+{
+  "article_ids": [
+    "x-simonw--753afcf0",
+    "x-simonw--7bc5dab7",
+    "x-simonw--92ef3e4d"
+  ],
+  "date": "2026-08-11",
+  "document_count": 3,
+  "terms": {
+    "laptop": {
+      "articles": [
+        "x-simonw--753afcf0",
+        "x-simonw--7bc5dab7"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vision": {
+      "articles": [
+        "x-simonw--753afcf0",
+        "x-simonw--7bc5dab7"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}
