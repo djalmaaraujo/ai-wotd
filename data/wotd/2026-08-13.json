@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-bcherny--21518499",
+        "x-ylecun--1d198373"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 6.238325,
+      "term": "video",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-08-13",
+  "evidence_article_ids": [
+    "x-bcherny--21518499",
+    "x-ylecun--1d198373"
+  ],
+  "score": 6.238325,
+  "word": "video"
+}

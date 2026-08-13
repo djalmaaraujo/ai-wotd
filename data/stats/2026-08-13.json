@@ -1,0 +1,22 @@
+{
+  "article_ids": [
+    "x-bcherny--21518499",
+    "x-ylecun--1d198373"
+  ],
+  "date": "2026-08-13",
+  "document_count": 2,
+  "terms": {
+    "video": {
+      "articles": [
+        "x-bcherny--21518499",
+        "x-ylecun--1d198373"
+      ],
+      "authors": [
+        "Boris Cherny",
+        "Yann LeCun"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}
