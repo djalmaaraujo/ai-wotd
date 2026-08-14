@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--d1d35f82",
+  "author": "Simon Willison",
+  "content_chars": 247,
+  "content_sha256": "d6ad16eb21aa334c64e30971d8c26dd0a1389f8f3820c9e232e03a6c4612c789",
+  "content_tokens": 61,
+  "fetched_at": "2026-08-14T07:48:32Z",
+  "kind": "tweet",
+  "published_at": "2026-08-13T19:43:13+00:00",
+  "snippet": "... turns out Firefox and Chrome render these differently from Safari - Safari looks good to me, Firefox and Chrome are missing important pieces I think it's because there's an SVG bug which Safari ignores, while Firefox and Chrome follow the spec",
+  "source_id": "x-simonw",
+  "title": "... turns out Firefox and Chrome render these differently from Safari - Safari l",
+  "top_terms": [
+    [
+      "safari",
+      5
+    ],
+    [
+      "and chrome",
+      4
+    ],
+    [
+      "chrome",
+      4
+    ],
+    [
+      "firefox",
+      4
+    ],
+    [
+      "firefox and",
+      4
+    ],
+    [
+      "firefox and chrome",
+      4
+    ],
+    [
+      "and chrome render",
+      2
+    ],
+    [
+      "chrome render",
+      2
+    ],
+    [
+      "chrome render these",
+      2
+    ],
+    [
+      "differently",
+      2
+    ],
+    [
+      "differently from",
+      2
+    ],
+    [
+      "differently from safari",
+      2
+    ],
+    [
+      "from safari",
+      2
+    ],
+    [
+      "from safari safari",
+      2
+    ],
+    [
+      "out firefox",
+      2
+    ],
+    [
+      "out firefox and",
+      2
+    ],
+    [
+      "render",
+      2
+    ],
+    [
+      "render these",
+      2
+    ],
+    [
+      "render these differently",
+      2
+    ],
+    [
+      "safari safari",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2087988362401742956",
+  "url_canonical": "https://x.com/simonw/status/2087988362401742956",
+  "via_source_id": null
+}
