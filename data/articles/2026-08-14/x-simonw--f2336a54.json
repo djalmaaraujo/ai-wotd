@@ -1,0 +1,98 @@
+{
+  "article_id": "x-simonw--f2336a54",
+  "author": "Simon Willison",
+  "content_chars": 315,
+  "content_sha256": "92b4b05747d4b7926c524e506a1f4baeb904fac72258bb58c5847454ec16b9e4",
+  "content_tokens": 78,
+  "fetched_at": "2026-08-15T06:55:59Z",
+  "kind": "tweet",
+  "published_at": "2026-08-14T20:30:54+00:00",
+  "snippet": "Important correction: this was entirely my bug, it was NOT a bug in the SVG output by Gemini 3.7 Flash My own software was stripping some \"unsafe\" attributes in a way that broke the SVG in Firefox and Chrome - I've fixed that bug now, so this renders as it should in all three…",
+  "source_id": "x-simonw",
+  "title": "Important correction: this was entirely my bug, it was NOT a bug in the SVG outp",
+  "top_terms": [
+    [
+      "bug",
+      5
+    ],
+    [
+      "svg",
+      3
+    ],
+    [
+      "the svg",
+      3
+    ],
+    [
+      "bug in",
+      2
+    ],
+    [
+      "bug in the",
+      2
+    ],
+    [
+      "bug it",
+      2
+    ],
+    [
+      "bug it was",
+      2
+    ],
+    [
+      "correction",
+      2
+    ],
+    [
+      "correction this",
+      2
+    ],
+    [
+      "correction this was",
+      2
+    ],
+    [
+      "entirely",
+      2
+    ],
+    [
+      "entirely my",
+      2
+    ],
+    [
+      "entirely my bug",
+      2
+    ],
+    [
+      "important",
+      2
+    ],
+    [
+      "important correction",
+      2
+    ],
+    [
+      "important correction this",
+      2
+    ],
+    [
+      "in the svg",
+      2
+    ],
+    [
+      "my bug",
+      2
+    ],
+    [
+      "my bug it",
+      2
+    ],
+    [
+      "this was entirely",
+      2
+    ]
+  ],
+  "url": "https://x.com/simonw/status/2088362752536678762",
+  "url_canonical": "https://x.com/simonw/status/2088362752536678762",
+  "via_source_id": null
+}
