@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "systems",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "forward",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "power",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "ai systems",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "ais",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "argued",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "argued that",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "argued that the",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "biases",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "x-ylecun--adb7bc0e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "diverse",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-08-16",
+  "evidence_article_ids": [
+    "x-ylecun--adb7bc0e"
+  ],
+  "rerank": {
+    "by": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "top": [
+      "ai systems",
+      "value systems",
+      "biases",
+      "safety",
+      "expertise"
+    ]
+  },
+  "score": 6.591674,
+  "word": "ai systems"
+}
