@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--27b289d5",
+  "author": "Hugging Face Blog",
+  "content_chars": 19487,
+  "content_sha256": "5e74f218af058adb3ce9268ed9d029593e94ce0aea4367753be46da834cb27dd",
+  "content_tokens": 4871,
+  "fetched_at": "2026-08-18T07:02:23Z",
+  "kind": "article",
+  "published_at": "2026-08-17T19:46:21+00:00",
+  "snippet": "Same Cluster, 33 Points More Utilization: What Changed Was the Order Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "top_terms": [
+    [
+      "gpus",
+      27
+    ],
+    [
+      "job",
+      24
+    ],
+    [
+      "jobs",
+      21
+    ],
+    [
+      "utilization",
+      19
+    ],
+    [
+      "every",
+      18
+    ],
+    [
+      "gpu",
+      18
+    ],
+    [
+      "real-time",
+      18
+    ],
+    [
+      "demand",
+      15
+    ],
+    [
+      "order",
+      15
+    ],
+    [
+      "two",
+      14
+    ],
+    [
+      "allocator",
+      13
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "priority",
+      13
+    ],
+    [
+      "allocation",
+      11
+    ],
+    [
+      "horizon",
+      11
+    ],
+    [
+      "scheduler",
+      11
+    ],
+    [
+      "value",
+      11
+    ],
+    [
+      "work",
+      11
+    ],
+    [
+      "across",
+      10
+    ],
+    [
+      "capacity",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "url_canonical": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "via_source_id": null
+}

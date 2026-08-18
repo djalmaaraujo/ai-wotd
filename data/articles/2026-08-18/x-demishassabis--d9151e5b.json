@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--d9151e5b",
+  "author": "Claude Devs",
+  "content_chars": 238,
+  "content_sha256": "6858b17c465dbb56652c5f92f84c3f134df8a5c3e6ff125d7bbca97d316b59d4",
+  "content_tokens": 59,
+  "fetched_at": "2026-08-18T07:02:51Z",
+  "kind": "tweet",
+  "published_at": "2026-08-18T00:28:18+00:00",
+  "snippet": "Perf win of the day: Claude Code CLI now uses 2x less CPU at p99. Bun's garbage collector was running on a fixed timer, so it would kick in mid-turn and steal CPU right when Claude Code was busiest. Now it waits until the process is idle.",
+  "source_id": "x-demishassabis",
+  "title": "Perf win of the day: Claude Code CLI now uses 2x less CPU at p99. Bun's garbage ",
+  "top_terms": [
+    [
+      "claude",
+      3
+    ],
+    [
+      "claude code",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "cpu",
+      3
+    ],
+    [
+      "at p99",
+      2
+    ],
+    [
+      "at p99 bun's",
+      2
+    ],
+    [
+      "bun's",
+      2
+    ],
+    [
+      "bun's garbage",
+      2
+    ],
+    [
+      "claude code cli",
+      2
+    ],
+    [
+      "cli",
+      2
+    ],
+    [
+      "cli now",
+      2
+    ],
+    [
+      "cli now uses",
+      2
+    ],
+    [
+      "code cli",
+      2
+    ],
+    [
+      "code cli now",
+      2
+    ],
+    [
+      "cpu at",
+      2
+    ],
+    [
+      "cpu at p99",
+      2
+    ],
+    [
+      "day claude",
+      2
+    ],
+    [
+      "day claude code",
+      2
+    ],
+    [
+      "garbage",
+      2
+    ],
+    [
+      "less",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2089509659090780193",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2089509659090780193",
+  "via_source_id": null
+}

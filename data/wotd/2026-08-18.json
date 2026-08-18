@@ -1,0 +1,123 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "x-bcherny--b24d4559",
+        "x-trq212--5646e370"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 47.957905,
+      "term": "design",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-bcherny--b24d4559"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 41.446532,
+      "term": "claudedevs",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-demishassabis--d9151e5b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "cpu",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-bcherny--b24d4559",
+        "x-demishassabis--d9151e5b",
+        "x-trq212--5646e370"
+      ],
+      "avg_tf_baseline": 3.3333,
+      "df_today": 4,
+      "score": 10.790529,
+      "term": "claude",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-demishassabis--d9151e5b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "at p99",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-demishassabis--d9151e5b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "at p99 bun's",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-demishassabis--d9151e5b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "bun's",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-demishassabis--d9151e5b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "bun's garbage",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-demishassabis--d9151e5b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "claude code cli",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "x-bcherny--ab06c35c",
+        "x-bcherny--b24d4559"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 8.317766,
+      "term": "claudedevs claudedevs",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-08-18",
+  "evidence_article_ids": [
+    "x-bcherny--b24d4559",
+    "x-trq212--5646e370"
+  ],
+  "score": 47.957905,
+  "word": "design"
+}

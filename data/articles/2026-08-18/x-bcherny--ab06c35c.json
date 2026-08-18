@@ -1,0 +1,98 @@
+{
+  "article_id": "x-bcherny--ab06c35c",
+  "author": "Boris Cherny",
+  "content_chars": 393,
+  "content_sha256": "54968009586847c9e700ea16df7cbfa7b48d80eb0c8cd0987ddc7c8d545d3c12",
+  "content_tokens": 98,
+  "fetched_at": "2026-08-18T07:02:30Z",
+  "kind": "tweet",
+  "published_at": "2026-08-18T02:24:02+00:00",
+  "snippet": "Small quality of life improvements like this add up. More on the way ClaudeDevs (@ClaudeDevs) Perf win of the day: Claude Code CLI now uses 2x less CPU at p99. Bun's garbage collector was running on a fixed timer, so it would kick in mid-turn and steal CPU right when Claude Code…",
+  "source_id": "x-bcherny",
+  "title": "Small quality of life improvements like this add up. More on the way ClaudeDevs ",
+  "top_terms": [
+    [
+      "claudedevs",
+      4
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "add up",
+      2
+    ],
+    [
+      "add up more",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude code",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "cpu",
+      2
+    ],
+    [
+      "improvements",
+      2
+    ],
+    [
+      "improvements like",
+      2
+    ],
+    [
+      "improvements like this",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "life improvements",
+      2
+    ],
+    [
+      "life improvements like",
+      2
+    ],
+    [
+      "like this add",
+      2
+    ],
+    [
+      "of life",
+      2
+    ],
+    [
+      "of life improvements",
+      2
+    ],
+    [
+      "on the way",
+      2
+    ],
+    [
+      "quality",
+      2
+    ],
+    [
+      "quality of",
+      2
+    ]
+  ],
+  "url": "https://x.com/bcherny/status/2089538781909332210",
+  "url_canonical": "https://x.com/bcherny/status/2089538781909332210",
+  "via_source_id": null
+}
