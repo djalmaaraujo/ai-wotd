@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--c84089cd",
+  "author": "Claude Devs",
+  "content_chars": 276,
+  "content_sha256": "5edf39ca94f7ad18d07b6b478d14ddf3455fc442b3293e86fd3a33edb1ad35db",
+  "content_tokens": 69,
+  "fetched_at": "2026-08-19T07:04:10Z",
+  "kind": "tweet",
+  "published_at": "2026-08-18T23:44:14+00:00",
+  "snippet": "Claude Desktop now starts ~2x faster than it did a month ago. When the app started in the background, its timers got throttled and the JS engine dropped into power-saving mode. We now boot at full speed even while the window's still hidden, along with some smaller perf fixes!",
+  "source_id": "x-demishassabis",
+  "title": "Claude Desktop now starts ~2x faster than it did a month ago. When the app start",
+  "top_terms": [
+    [
+      "ago",
+      2
+    ],
+    [
+      "ago when",
+      2
+    ],
+    [
+      "ago when the",
+      2
+    ],
+    [
+      "app",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "claude desktop",
+      2
+    ],
+    [
+      "claude desktop now",
+      2
+    ],
+    [
+      "desktop",
+      2
+    ],
+    [
+      "desktop now",
+      2
+    ],
+    [
+      "desktop now starts",
+      2
+    ],
+    [
+      "faster",
+      2
+    ],
+    [
+      "faster than",
+      2
+    ],
+    [
+      "faster than it",
+      2
+    ],
+    [
+      "month ago",
+      2
+    ],
+    [
+      "month ago when",
+      2
+    ],
+    [
+      "now starts",
+      2
+    ],
+    [
+      "starts",
+      2
+    ],
+    [
+      "the app",
+      2
+    ],
+    [
+      "when the app",
+      2
+    ],
+    [
+      "along",
+      1
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2089860955266228548",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2089860955266228548",
+  "via_source_id": null
+}
