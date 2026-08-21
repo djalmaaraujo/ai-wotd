@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--88926e68",
+  "author": "Hugging Face Blog",
+  "content_chars": 23458,
+  "content_sha256": "1de55b2b6d35e06f05bbe3e3250268d324c17bb037451229c00b9bc23d352fe7",
+  "content_tokens": 5864,
+  "fetched_at": "2026-08-21T07:05:28Z",
+  "kind": "article",
+  "published_at": "2022-08-22T00:00:00+00:00",
+  "snippet": "Stable Diffusion with 🧨 Diffusers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face…",
+  "source_id": "huggingface-blog",
+  "title": "Stable Diffusion with 🧨 Diffusers",
+  "top_terms": [
+    [
+      "image",
+      63
+    ],
+    [
+      "diffusion",
+      62
+    ],
+    [
+      "images",
+      35
+    ],
+    [
+      "latent",
+      33
+    ],
+    [
+      "model",
+      33
+    ],
+    [
+      "text",
+      33
+    ],
+    [
+      "stable",
+      31
+    ],
+    [
+      "stable diffusion",
+      31
+    ],
+    [
+      "prompt",
+      23
+    ],
+    [
+      "diffusers",
+      21
+    ],
+    [
+      "inference",
+      21
+    ],
+    [
+      "input",
+      21
+    ],
+    [
+      "noise",
+      21
+    ],
+    [
+      "scheduler",
+      21
+    ],
+    [
+      "torch",
+      21
+    ],
+    [
+      "encoder",
+      20
+    ],
+    [
+      "latents",
+      20
+    ],
+    [
+      "models",
+      18
+    ],
+    [
+      "guidance",
+      17
+    ],
+    [
+      "steps",
+      17
+    ]
+  ],
+  "url": "https://huggingface.co/blog/stable_diffusion",
+  "url_canonical": "https://huggingface.co/blog/stable_diffusion",
+  "via_source_id": null
+}

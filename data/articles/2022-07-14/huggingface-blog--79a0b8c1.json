@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--79a0b8c1",
+  "author": "Hugging Face Blog",
+  "content_chars": 33846,
+  "content_sha256": "c570da743fa3bece75b3dcc4ba98b9ddc6c2d23525dc69d6715125427a37b588",
+  "content_tokens": 8461,
+  "fetched_at": "2026-08-21T07:05:30Z",
+  "kind": "article",
+  "published_at": "2022-07-14T00:00:00+00:00",
+  "snippet": "The Technology Behind BLOOM Training Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "source_id": "huggingface-blog",
+  "title": "The Technology Behind BLOOM Training",
+  "top_terms": [
+    [
+      "training",
+      68
+    ],
+    [
+      "gpus",
+      35
+    ],
+    [
+      "model",
+      35
+    ],
+    [
+      "parallelism",
+      34
+    ],
+    [
+      "gpu",
+      32
+    ],
+    [
+      "pp",
+      29
+    ],
+    [
+      "data",
+      27
+    ],
+    [
+      "the training",
+      24
+    ],
+    [
+      "memory",
+      22
+    ],
+    [
+      "models",
+      21
+    ],
+    [
+      "deepspeed",
+      20
+    ],
+    [
+      "dp",
+      18
+    ],
+    [
+      "megatron-lm",
+      18
+    ],
+    [
+      "pipeline",
+      18
+    ],
+    [
+      "zero",
+      17
+    ],
+    [
+      "bloom",
+      15
+    ],
+    [
+      "tp",
+      15
+    ],
+    [
+      "the model",
+      14
+    ],
+    [
+      "layer",
+      13
+    ],
+    [
+      "main",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/bloom-megatron-deepspeed",
+  "url_canonical": "https://huggingface.co/blog/bloom-megatron-deepspeed",
+  "via_source_id": null
+}

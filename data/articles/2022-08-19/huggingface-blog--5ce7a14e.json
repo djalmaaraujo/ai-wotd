@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5ce7a14e",
+  "author": "Hugging Face Blog",
+  "content_chars": 16557,
+  "content_sha256": "5df54fdf8efcc6a1c095bf336c467e0d7d4cb1ee7503103de46d2b9dc130fc92",
+  "content_tokens": 4139,
+  "fetched_at": "2026-08-21T07:05:28Z",
+  "kind": "article",
+  "published_at": "2022-08-19T00:00:00+00:00",
+  "snippet": "Deploying 🤗 ViT on Vertex AI Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "Deploying 🤗 ViT on Vertex AI",
+  "top_terms": [
+    [
+      "model",
+      77
+    ],
+    [
+      "vertex",
+      47
+    ],
+    [
+      "vertex ai",
+      46
+    ],
+    [
+      "endpoint",
+      38
+    ],
+    [
+      "deployment",
+      23
+    ],
+    [
+      "gpu",
+      21
+    ],
+    [
+      "tf28",
+      16
+    ],
+    [
+      "tf28 gpu",
+      16
+    ],
+    [
+      "deployed",
+      14
+    ],
+    [
+      "image",
+      14
+    ],
+    [
+      "input",
+      14
+    ],
+    [
+      "machine",
+      13
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "the model",
+      13
+    ],
+    [
+      "tensorflow",
+      12
+    ],
+    [
+      "model registry",
+      11
+    ],
+    [
+      "registry",
+      11
+    ],
+    [
+      "serving",
+      11
+    ],
+    [
+      "deploy",
+      10
+    ],
+    [
+      "deployed model",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/deploy-vertex-ai",
+  "url_canonical": "https://huggingface.co/blog/deploy-vertex-ai",
+  "via_source_id": null
+}

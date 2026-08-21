@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--f5f43cf2",
+  "author": "Hugging Face Blog",
+  "content_chars": 13759,
+  "content_sha256": "c7c64b1118c3fb4b45c7d4ff551c805ab6766aeeb43e87f54cbcf170c5a8409b",
+  "content_tokens": 3439,
+  "fetched_at": "2026-08-21T07:05:27Z",
+  "kind": "article",
+  "published_at": "2022-09-16T00:00:00+00:00",
+  "snippet": "Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate",
+  "top_terms": [
+    [
+      "gpus",
+      33
+    ],
+    [
+      "accelerate",
+      19
+    ],
+    [
+      "throughput",
+      19
+    ],
+    [
+      "bloom",
+      18
+    ],
+    [
+      "gpu",
+      18
+    ],
+    [
+      "run",
+      16
+    ],
+    [
+      "batch",
+      15
+    ],
+    [
+      "deepspeed",
+      15
+    ],
+    [
+      "size",
+      15
+    ],
+    [
+      "solutions",
+      15
+    ],
+    [
+      "batch size",
+      14
+    ],
+    [
+      "inference",
+      13
+    ],
+    [
+      "deepspeed-inference",
+      12
+    ],
+    [
+      "bloom-inference-scripts",
+      11
+    ],
+    [
+      "memory",
+      11
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "int8",
+      10
+    ],
+    [
+      "name",
+      10
+    ],
+    [
+      "oom",
+      10
+    ],
+    [
+      "py",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+  "url_canonical": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+  "via_source_id": null
+}

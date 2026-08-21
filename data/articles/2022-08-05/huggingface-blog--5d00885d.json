@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5d00885d",
+  "author": "Hugging Face Blog",
+  "content_chars": 15433,
+  "content_sha256": "bbcd123ec1fe7d561ae99fb60b9945a425554c306d0b3dcbc464a7bf8ad20bc1",
+  "content_tokens": 3858,
+  "fetched_at": "2026-08-21T07:05:29Z",
+  "kind": "article",
+  "published_at": "2022-08-05T00:00:00+00:00",
+  "snippet": "Proximal Policy Optimization (PPO) Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face…",
+  "source_id": "huggingface-blog",
+  "title": "Proximal Policy Optimization (PPO)",
+  "top_terms": [
+    [
+      "policy",
+      56
+    ],
+    [
+      "ratio",
+      39
+    ],
+    [
+      "objective",
+      36
+    ],
+    [
+      "clipped",
+      32
+    ],
+    [
+      "function",
+      27
+    ],
+    [
+      "the clipped",
+      23
+    ],
+    [
+      "the ratio",
+      23
+    ],
+    [
+      "epsilon",
+      20
+    ],
+    [
+      "objective function",
+      20
+    ],
+    [
+      "ratio is",
+      20
+    ],
+    [
+      "clipped surrogate",
+      19
+    ],
+    [
+      "clipped surrogate objective",
+      19
+    ],
+    [
+      "range",
+      19
+    ],
+    [
+      "surrogate",
+      19
+    ],
+    [
+      "surrogate objective",
+      19
+    ],
+    [
+      "ppo",
+      18
+    ],
+    [
+      "probability",
+      18
+    ],
+    [
+      "action",
+      17
+    ],
+    [
+      "current",
+      15
+    ],
+    [
+      "part",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/deep-rl-ppo",
+  "url_canonical": "https://huggingface.co/blog/deep-rl-ppo",
+  "via_source_id": null
+}

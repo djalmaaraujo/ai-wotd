@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--2dde908d",
+  "author": "Hugging Face Blog",
+  "content_chars": 18899,
+  "content_sha256": "2f5917767ba5a0acd155e85987e365f2f6df9e1a0e736e232a2cb5f927577d09",
+  "content_tokens": 4724,
+  "fetched_at": "2026-08-21T07:05:30Z",
+  "kind": "article",
+  "published_at": "2022-07-27T00:00:00+00:00",
+  "snippet": "Faster Text Generation with TensorFlow and XLA Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Faster Text Generation with TensorFlow and XLA",
+  "top_terms": [
+    [
+      "tensorflow",
+      46
+    ],
+    [
+      "xla",
+      45
+    ],
+    [
+      "generation",
+      41
+    ],
+    [
+      "input",
+      40
+    ],
+    [
+      "model",
+      29
+    ],
+    [
+      "print",
+      29
+    ],
+    [
+      "text",
+      27
+    ],
+    [
+      "tf",
+      27
+    ],
+    [
+      "text generation",
+      26
+    ],
+    [
+      "execution",
+      24
+    ],
+    [
+      "function",
+      24
+    ],
+    [
+      "generate",
+      21
+    ],
+    [
+      "tokenized",
+      21
+    ],
+    [
+      "tokenized input",
+      21
+    ],
+    [
+      "padding",
+      20
+    ],
+    [
+      "execution time",
+      18
+    ],
+    [
+      "ms",
+      18
+    ],
+    [
+      "generated",
+      17
+    ],
+    [
+      "models",
+      17
+    ],
+    [
+      "tokenizer",
+      17
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tf-xla-generate",
+  "url_canonical": "https://huggingface.co/blog/tf-xla-generate",
+  "via_source_id": null
+}

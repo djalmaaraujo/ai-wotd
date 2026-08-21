@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--7cfa9125",
+  "author": "Hugging Face Blog",
+  "content_chars": 30958,
+  "content_sha256": "d9aa2bdee4ef062683344355c1c9b31e8f5dad6b56d0f9c8bab3b882ff4f3c50",
+  "content_tokens": 7739,
+  "fetched_at": "2026-08-21T07:05:28Z",
+  "kind": "article",
+  "published_at": "2022-08-17T00:00:00+00:00",
+  "snippet": "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog…",
+  "source_id": "huggingface-blog",
+  "title": "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes",
+  "top_terms": [
+    [
+      "model",
+      59
+    ],
+    [
+      "int8",
+      49
+    ],
+    [
+      "models",
+      45
+    ],
+    [
+      "fp16",
+      38
+    ],
+    [
+      "quantization",
+      38
+    ],
+    [
+      "bit",
+      30
+    ],
+    [
+      "module",
+      26
+    ],
+    [
+      "weights",
+      23
+    ],
+    [
+      "nn",
+      22
+    ],
+    [
+      "precision",
+      21
+    ],
+    [
+      "transformers",
+      21
+    ],
+    [
+      "parameters",
+      18
+    ],
+    [
+      "value",
+      18
+    ],
+    [
+      "gpus",
+      17
+    ],
+    [
+      "data",
+      16
+    ],
+    [
+      "fp32",
+      16
+    ],
+    [
+      "inference",
+      16
+    ],
+    [
+      "llm",
+      16
+    ],
+    [
+      "accelerate",
+      15
+    ],
+    [
+      "large",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/hf-bitsandbytes-integration",
+  "url_canonical": "https://huggingface.co/blog/hf-bitsandbytes-integration",
+  "via_source_id": null
+}

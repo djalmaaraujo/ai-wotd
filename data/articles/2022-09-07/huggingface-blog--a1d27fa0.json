@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a1d27fa0",
+  "author": "Hugging Face Blog",
+  "content_chars": 12907,
+  "content_sha256": "d8b5b7c1f2bfd03f7e5c6a0512206c9c362dd593775785be027e9f8b1c02918c",
+  "content_tokens": 3226,
+  "fetched_at": "2026-08-21T07:05:27Z",
+  "kind": "article",
+  "published_at": "2022-09-07T00:00:00+00:00",
+  "snippet": "How to train a Language Model with Megatron-LM Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "How to train a Language Model with Megatron-LM",
+  "top_terms": [
+    [
+      "model",
+      33
+    ],
+    [
+      "training",
+      28
+    ],
+    [
+      "megatron-lm",
+      26
+    ],
+    [
+      "data",
+      20
+    ],
+    [
+      "transformers",
+      18
+    ],
+    [
+      "nvidia",
+      13
+    ],
+    [
+      "codeparrot",
+      12
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "train",
+      12
+    ],
+    [
+      "gpus",
+      11
+    ],
+    [
+      "the training",
+      11
+    ],
+    [
+      "container",
+      10
+    ],
+    [
+      "json",
+      9
+    ],
+    [
+      "the model",
+      9
+    ],
+    [
+      "file",
+      8
+    ],
+    [
+      "pytorch",
+      8
+    ],
+    [
+      "to train",
+      8
+    ],
+    [
+      "codeparrot-small",
+      7
+    ],
+    [
+      "fused",
+      7
+    ],
+    [
+      "how to train",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/megatron-training",
+  "url_canonical": "https://huggingface.co/blog/megatron-training",
+  "via_source_id": null
+}

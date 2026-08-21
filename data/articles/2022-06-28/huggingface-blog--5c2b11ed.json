@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5c2b11ed",
+  "author": "Hugging Face Blog",
+  "content_chars": 15137,
+  "content_sha256": "44b444b6dec3e012a9456b4e66053ec1bf11b1f6ad1dba7247c0a2adb8c559e6",
+  "content_tokens": 3784,
+  "fetched_at": "2026-08-21T07:05:31Z",
+  "kind": "article",
+  "published_at": "2022-06-28T00:00:00+00:00",
+  "snippet": "Accelerate Large Model Training using DeepSpeed Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerate Large Model Training using DeepSpeed",
+  "top_terms": [
+    [
+      "deepspeed",
+      53
+    ],
+    [
+      "zero",
+      34
+    ],
+    [
+      "accelerate",
+      32
+    ],
+    [
+      "config",
+      31
+    ],
+    [
+      "size",
+      29
+    ],
+    [
+      "train",
+      27
+    ],
+    [
+      "training",
+      24
+    ],
+    [
+      "auto",
+      21
+    ],
+    [
+      "batch",
+      21
+    ],
+    [
+      "num",
+      21
+    ],
+    [
+      "batch size",
+      20
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "steps",
+      20
+    ],
+    [
+      "optimizer",
+      19
+    ],
+    [
+      "data",
+      17
+    ],
+    [
+      "deepspeed zero",
+      17
+    ],
+    [
+      "max",
+      15
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "true",
+      14
+    ],
+    [
+      "deepspeed config",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/accelerate-deepspeed",
+  "url_canonical": "https://huggingface.co/blog/accelerate-deepspeed",
+  "via_source_id": null
+}

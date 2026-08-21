@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0565426b",
+  "author": "Hugging Face Blog",
+  "content_chars": 12615,
+  "content_sha256": "dc7993b7edbc27caa12ce9039b5684a68a27bc43a3d534ea3abcd6a0be1e6164",
+  "content_tokens": 3153,
+  "fetched_at": "2026-08-21T07:05:29Z",
+  "kind": "article",
+  "published_at": "2022-08-02T00:00:00+00:00",
+  "snippet": "Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn…",
+  "source_id": "huggingface-blog",
+  "title": "Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method",
+  "top_terms": [
+    [
+      "nystr",
+      39
+    ],
+    [
+      "tilde",
+      35
+    ],
+    [
+      "landmarks",
+      19
+    ],
+    [
+      "self-attention",
+      19
+    ],
+    [
+      "the nystr",
+      19
+    ],
+    [
+      "self",
+      17
+    ],
+    [
+      "method",
+      16
+    ],
+    [
+      "softmax",
+      16
+    ],
+    [
+      "mformer",
+      15
+    ],
+    [
+      "nystr mformer",
+      15
+    ],
+    [
+      "token",
+      15
+    ],
+    [
+      "approximation",
+      12
+    ],
+    [
+      "layer",
+      12
+    ],
+    [
+      "attention",
+      11
+    ],
+    [
+      "matrix",
+      11
+    ],
+    [
+      "uw-madison",
+      11
+    ],
+    [
+      "torch",
+      10
+    ],
+    [
+      "approximate",
+      9
+    ],
+    [
+      "fill-mask",
+      9
+    ],
+    [
+      "fill-mask updated",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nystromformer",
+  "url_canonical": "https://huggingface.co/blog/nystromformer",
+  "via_source_id": null
+}

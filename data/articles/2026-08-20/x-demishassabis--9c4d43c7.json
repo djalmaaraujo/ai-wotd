@@ -1,0 +1,98 @@
+{
+  "article_id": "x-demishassabis--9c4d43c7",
+  "author": "Claude Devs",
+  "content_chars": 521,
+  "content_sha256": "e2fd59abcf2ab07fa5703c88b82c941570a1572973538250f1c74ebe077880fa",
+  "content_tokens": 130,
+  "fetched_at": "2026-08-21T07:08:15Z",
+  "kind": "tweet",
+  "published_at": "2026-08-20T20:43:36+00:00",
+  "snippet": "The Files API lets you upload once and reuse the `file_id` across requests. Today’s update adds - `expires_in_seconds` - 5x higher rate limits (500 RPM) - 1 TB per org. Blog: claude.com/blog/computer-use… Link Build production agents with computer use, the Skills API, and the…",
+  "source_id": "x-demishassabis",
+  "title": "The Files API lets you upload once and reuse the `file_id` across requests. Toda",
+  "top_terms": [
+    [
+      "api",
+      6
+    ],
+    [
+      "claude",
+      4
+    ],
+    [
+      "files",
+      4
+    ],
+    [
+      "files api",
+      4
+    ],
+    [
+      "the files",
+      4
+    ],
+    [
+      "the files api",
+      4
+    ],
+    [
+      "computer",
+      3
+    ],
+    [
+      "computer use",
+      3
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "across requests",
+      2
+    ],
+    [
+      "adds",
+      2
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "and reuse",
+      2
+    ],
+    [
+      "and reuse the",
+      2
+    ],
+    [
+      "and the files",
+      2
+    ],
+    [
+      "api and",
+      2
+    ],
+    [
+      "api and the",
+      2
+    ],
+    [
+      "api lets",
+      2
+    ],
+    [
+      "api lets you",
+      2
+    ],
+    [
+      "blog",
+      2
+    ]
+  ],
+  "url": "https://x.com/ClaudeDevs/status/2090540275357606263",
+  "url_canonical": "https://x.com/ClaudeDevs/status/2090540275357606263",
+  "via_source_id": null
+}

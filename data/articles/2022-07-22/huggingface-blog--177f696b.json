@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--177f696b",
+  "author": "Hugging Face Blog",
+  "content_chars": 10769,
+  "content_sha256": "cb93bbc868ef684100e0db7e0bb190e1dcfba2f8ba6c2c1ba57b7dcf3bc1c71c",
+  "content_tokens": 2692,
+  "fetched_at": "2026-08-21T07:05:30Z",
+  "kind": "article",
+  "published_at": "2022-07-22T00:00:00+00:00",
+  "snippet": "Advantage Actor Critic (A2C) Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "source_id": "huggingface-blog",
+  "title": "Advantage Actor Critic (A2C)",
+  "top_terms": [
+    [
+      "critic",
+      25
+    ],
+    [
+      "actor",
+      23
+    ],
+    [
+      "advantage",
+      19
+    ],
+    [
+      "variance",
+      18
+    ],
+    [
+      "state",
+      17
+    ],
+    [
+      "action",
+      16
+    ],
+    [
+      "a2c",
+      14
+    ],
+    [
+      "actor critic",
+      14
+    ],
+    [
+      "advantage actor",
+      14
+    ],
+    [
+      "advantage actor critic",
+      14
+    ],
+    [
+      "policy",
+      14
+    ],
+    [
+      "actor critic a2c",
+      13
+    ],
+    [
+      "critic a2c",
+      13
+    ],
+    [
+      "learning",
+      13
+    ],
+    [
+      "return",
+      13
+    ],
+    [
+      "actor-critic",
+      12
+    ],
+    [
+      "function",
+      12
+    ],
+    [
+      "methods",
+      12
+    ],
+    [
+      "value",
+      12
+    ],
+    [
+      "reinforcement",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/deep-rl-a2c",
+  "url_canonical": "https://huggingface.co/blog/deep-rl-a2c",
+  "via_source_id": null
+}

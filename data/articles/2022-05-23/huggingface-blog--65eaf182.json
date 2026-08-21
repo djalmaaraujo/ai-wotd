@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--65eaf182",
+  "author": "Hugging Face Blog",
+  "content_chars": 9468,
+  "content_sha256": "5615b774c8c721354f5f4ebd9b5e5cb87780fd797cdd942385974337c837476e",
+  "content_tokens": 2367,
+  "fetched_at": "2026-08-21T07:05:33Z",
+  "kind": "article",
+  "published_at": "2022-05-23T00:00:00+00:00",
+  "snippet": "Efficient Table Pre-training without Real Data: An Introduction to TAPEX Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Efficient Table Pre-training without Real Data: An Introduction to TAPEX",
+  "top_terms": [
+    [
+      "pre-training",
+      36
+    ],
+    [
+      "table",
+      31
+    ],
+    [
+      "sql",
+      20
+    ],
+    [
+      "tapex",
+      19
+    ],
+    [
+      "language",
+      15
+    ],
+    [
+      "table pre-training",
+      14
+    ],
+    [
+      "data",
+      11
+    ],
+    [
+      "corpus",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "execution",
+      9
+    ],
+    [
+      "natural",
+      8
+    ],
+    [
+      "query",
+      8
+    ],
+    [
+      "question",
+      8
+    ],
+    [
+      "bart",
+      7
+    ],
+    [
+      "datasets",
+      7
+    ],
+    [
+      "downstream",
+      7
+    ],
+    [
+      "natural language",
+      7
+    ],
+    [
+      "previous",
+      7
+    ],
+    [
+      "results",
+      7
+    ],
+    [
+      "efficient",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tapex",
+  "url_canonical": "https://huggingface.co/blog/tapex",
+  "via_source_id": null
+}

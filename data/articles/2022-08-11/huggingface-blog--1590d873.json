@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1590d873",
+  "author": "Hugging Face Blog",
+  "content_chars": 19912,
+  "content_sha256": "b6e962df20295d855b49882e7cc8cdf4d1e1889cfa118abdee85e8a153dae77b",
+  "content_tokens": 4978,
+  "fetched_at": "2026-08-21T07:05:29Z",
+  "kind": "article",
+  "published_at": "2022-08-11T00:00:00+00:00",
+  "snippet": "Deploying 🤗 ViT on Kubernetes with TF Serving Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "source_id": "huggingface-blog",
+  "title": "Deploying 🤗 ViT on Kubernetes with TF Serving",
+  "top_terms": [
+    [
+      "deployment",
+      37
+    ],
+    [
+      "docker",
+      36
+    ],
+    [
+      "image",
+      36
+    ],
+    [
+      "kubernetes",
+      35
+    ],
+    [
+      "model",
+      34
+    ],
+    [
+      "name",
+      28
+    ],
+    [
+      "models",
+      26
+    ],
+    [
+      "serving",
+      25
+    ],
+    [
+      "cluster",
+      23
+    ],
+    [
+      "tensorflow",
+      21
+    ],
+    [
+      "hf-vit",
+      19
+    ],
+    [
+      "docker image",
+      17
+    ],
+    [
+      "the docker",
+      17
+    ],
+    [
+      "gcp",
+      15
+    ],
+    [
+      "gke",
+      15
+    ],
+    [
+      "tensorflow serving",
+      15
+    ],
+    [
+      "the deployment",
+      15
+    ],
+    [
+      "yaml",
+      15
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "kubernetes cluster",
+      14
+    ]
+  ],
+  "url": "https://huggingface.co/blog/deploy-tfserving-kubernetes",
+  "url_canonical": "https://huggingface.co/blog/deploy-tfserving-kubernetes",
+  "via_source_id": null
+}

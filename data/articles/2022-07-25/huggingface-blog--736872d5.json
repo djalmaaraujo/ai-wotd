@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--736872d5",
+  "author": "Hugging Face Blog",
+  "content_chars": 14565,
+  "content_sha256": "63d6b3e15b5480a5f38c4021a8a487526bb8c3a22c64b990ce8a6fddc8f83288",
+  "content_tokens": 3641,
+  "fetched_at": "2026-08-21T07:05:30Z",
+  "kind": "article",
+  "published_at": "2022-07-25T00:00:00+00:00",
+  "snippet": "Deploying TensorFlow Vision Models in Hugging Face with TF Serving Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Deploying TensorFlow Vision Models in Hugging Face with TF Serving",
+  "top_terms": [
+    [
+      "model",
+      76
+    ],
+    [
+      "tf",
+      43
+    ],
+    [
+      "serving",
+      36
+    ],
+    [
+      "input",
+      27
+    ],
+    [
+      "string",
+      21
+    ],
+    [
+      "the model",
+      20
+    ],
+    [
+      "image",
+      19
+    ],
+    [
+      "grpc",
+      17
+    ],
+    [
+      "tensorflow",
+      17
+    ],
+    [
+      "name",
+      16
+    ],
+    [
+      "models",
+      14
+    ],
+    [
+      "dir",
+      13
+    ],
+    [
+      "default",
+      12
+    ],
+    [
+      "size",
+      12
+    ],
+    [
+      "img",
+      11
+    ],
+    [
+      "inputs",
+      11
+    ],
+    [
+      "mean",
+      11
+    ],
+    [
+      "model dir",
+      11
+    ],
+    [
+      "request",
+      11
+    ],
+    [
+      "rest",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tf-serving-vision",
+  "url_canonical": "https://huggingface.co/blog/tf-serving-vision",
+  "via_source_id": null
+}
