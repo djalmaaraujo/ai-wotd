@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--368b4c3d",
+  "author": "Hugging Face Blog",
+  "content_chars": 14739,
+  "content_sha256": "b1e8256117bb2c097afe3d986db5ac7d123f509f8caec928b6599a1e3ab72c1c",
+  "content_tokens": 3684,
+  "fetched_at": "2026-08-26T07:07:00Z",
+  "kind": "article",
+  "published_at": "2026-08-25T11:39:24+00:00",
+  "snippet": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware…",
+  "source_id": "huggingface-blog",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "top_terms": [
+    [
+      "model",
+      40
+    ],
+    [
+      "qah",
+      24
+    ],
+    [
+      "healing",
+      20
+    ],
+    [
+      "bit",
+      18
+    ],
+    [
+      "teacher",
+      16
+    ],
+    [
+      "compressed",
+      13
+    ],
+    [
+      "full-precision",
+      12
+    ],
+    [
+      "student",
+      11
+    ],
+    [
+      "bit model",
+      10
+    ],
+    [
+      "compression",
+      10
+    ],
+    [
+      "loss",
+      10
+    ],
+    [
+      "quantization-aware",
+      10
+    ],
+    [
+      "bfloat16",
+      9
+    ],
+    [
+      "original",
+      9
+    ],
+    [
+      "qat",
+      9
+    ],
+    [
+      "smaller",
+      9
+    ],
+    [
+      "checkpoint",
+      8
+    ],
+    [
+      "compressed bit",
+      8
+    ],
+    [
+      "paper",
+      8
+    ],
+    [
+      "quantization",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "url_canonical": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "via_source_id": null
+}
