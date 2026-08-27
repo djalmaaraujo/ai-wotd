@@ -1,0 +1,3575 @@
+{
+  "article_ids": [
+    "codenewsletter--af125a62",
+    "google-deepmind--9b903d83",
+    "google-deepmind--db74d8f7",
+    "openai-blog--520845d2",
+    "openai-blog--62ef0783"
+  ],
+  "date": "2026-08-27",
+  "document_count": 5,
+  "terms": {
+    "ability": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access to": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "accordance": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "accordance with": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "accordance with google's": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "accuracy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "across": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "openai-blog--520845d2"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "across the": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "openai-blog--520845d2"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "actually": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "agent": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "agent that": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "agentic": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "agents": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 12
+    },
+    "ai models": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "ai studio": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "ai studio build": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "air": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "already": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "an agent": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "and edit": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "another": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "antigravity": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "anything": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "api": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "app": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "applications": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "apps": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "at google": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "audio": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "aug": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "becomes": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "benchmark": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "benchmarks": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "better": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "big": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "box": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "broader": {
+      "articles": [
+        "google-deepmind--db74d8f7",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 31
+    },
+    "build ai": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "build with": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "build with gemini": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "building": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "capabilities": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "capable": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "ceo": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "chatgpt": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "check": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "check out": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cinematic": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "clean": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "clips": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cloud": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "computing": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "content": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "context": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "context and": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "control": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "controls": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cookbook": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "copy": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "cost": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "create": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "create and": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "create and edit": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "critical": {
+      "articles": [
+        "google-deepmind--db74d8f7",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "custom": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "customers": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "cuts": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "cybersecurity": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "data": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "deepmind": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "deepmind google": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "deployment": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "developers": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "openai-blog--520845d2"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "development": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "directly": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "done": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "edit": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "education": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "email": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "enterprises": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "entire": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "environments": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "era": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "essential": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "evaluation": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "every": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "exact": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "experimental": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "explore": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 19
+    },
+    "explore the": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fast": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "faster": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "first": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "first and": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "flash": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 22
+    },
+    "follow": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "forward": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "frontier": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "gemini": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 64
+    },
+    "gemini api": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "gemini app": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "gemini flash": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gemini omni": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 20
+    },
+    "gemini transcribe": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gemma": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "generate": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 17
+    },
+    "generation": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "gives": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "good": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 72
+    },
+    "google ai": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "google ai studio": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "google cloud": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "google deepmind": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "google deepmind google": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "google google": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google google products": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google just": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google labs": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "google products": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google research": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "google's": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "google's privacy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google's privacy policy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "helps": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "high-quality": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "home": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "images": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "in accordance": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in accordance with": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in production": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "inbox": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "including": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "industry": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "information": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "information will": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "information will be": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inside": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "intelligent": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "introducing": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "it's": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "keeping": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "knowledge": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lab": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "labs": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "large": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "last": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "latest": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "learn": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 19
+    },
+    "learn more": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 14
+    },
+    "learning": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "leaves": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "linkedin": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "long": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "main": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "main content": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "major": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "making": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "making it": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "map": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "maps": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "marketing": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mastering": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "math": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "mean": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 35
+    },
+    "models": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 34
+    },
+    "models research": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "move": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "multimodal": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "music": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "news": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "newsletters": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "next": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "of us": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "official": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "omni": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 34
+    },
+    "open": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "openai": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "openai-blog--520845d2"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "output": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "outputs": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "people": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "perfect": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "performance": {
+      "articles": [
+        "google-deepmind--db74d8f7",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "performs": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pillars": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "platform": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "plus": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "policy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "privacy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "privacy policy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "privacy terms": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "private": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "product": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "production": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "products": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 14
+    },
+    "projects": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "prompt": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 24
+    },
+    "public": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "questions": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "questions until": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "re introducing": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ready": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "real": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "real-world": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reference": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rely": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rely on": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "research": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 14
+    },
+    "result": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "results": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "right": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "safety": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "scale": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "score": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "security": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "set": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "share": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "sign": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign up": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sign up for": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "skills": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "skip": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "skip to": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "skip to main": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "software": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "something": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "space": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "speed": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "start": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "start with": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "step": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "step forward": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "story": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "structured": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "structures": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "student": {
+      "articles": [
+        "google-deepmind--db74d8f7",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "studio": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "studio build": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscribe": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "support": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "openai-blog--520845d2"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "system": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "systems": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "teams": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "terms": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "test": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "text": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "the ability": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the air": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the exact": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the gemini": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "the gemini api": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the lab": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the model": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "the result": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the results": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the world": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "they've": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "things": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "three": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "throughout": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tiny": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to build": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "to building": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to learn": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to main": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to main content": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to support": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "openai-blog--520845d2"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to test": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to three": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to truly": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tools": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 17
+    },
+    "tools and": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "training": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "openai-blog--62ef0783"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "transcribe": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "truly": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trust": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "try": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "unique": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "up to three": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updates": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "us": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "used in accordance": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "users": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "via the gemini": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "video": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 3,
+      "tf": 28
+    },
+    "video clips": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "videos": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "videos with": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "view": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "voice": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "we re introducing": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with gemini": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "with google's": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with google's privacy": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "within": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "without": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "work": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "workflows": {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "world": {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "authors": [
+        "Google DeepMind Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    }
+  }
+}

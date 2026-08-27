@@ -1,0 +1,126 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 679.608775,
+      "term": "google",
+      "tf_today": 72
+    },
+    {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 587.753728,
+      "term": "gemini",
+      "tf_today": 64
+    },
+    {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 217.587301,
+      "term": "omni",
+      "tf_today": 34
+    },
+    {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 151.75792,
+      "term": "flash",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 109.602808,
+      "term": "gemini omni",
+      "tf_today": 20
+    },
+    {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 68.242865,
+      "term": "learn more",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 68.242865,
+      "term": "products",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 68.242865,
+      "term": "research",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "codenewsletter--af125a62",
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 3,
+      "score": 62.610805,
+      "term": "learn",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "google-deepmind--9b903d83",
+        "google-deepmind--db74d8f7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 61.753942,
+      "term": "google ai",
+      "tf_today": 13
+    }
+  ],
+  "date": "2026-08-27",
+  "evidence_article_ids": [
+    "codenewsletter--af125a62",
+    "google-deepmind--9b903d83",
+    "google-deepmind--db74d8f7"
+  ],
+  "score": 679.608775,
+  "word": "google"
+}

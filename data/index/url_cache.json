@@ -1451,6 +1451,10 @@
     "article_id": "aibreakfast--01d64c49",
     "first_seen_date": "2026-04-19"
   },
+  "https://aibreakfast.beehiiv.com/p/openai-finishes-bel-model-to-anchor-gpt-6": {
+    "article_id": "aibreakfast--9cd88673",
+    "first_seen_date": "2026-08-27"
+  },
   "https://aibreakfast.beehiiv.com/p/openai-forced-to-delay-gpt-5": {
     "article_id": "aibreakfast--7aabd9aa",
     "first_seen_date": "2026-04-17"
@@ -2460,6 +2464,10 @@
     "article_id": "codenewsletter--35bede95",
     "first_seen_date": "2026-05-26"
   },
+  "https://codenewsletter.ai/p/apple-s-new-macs-are-local-ai-powerhouses": {
+    "article_id": "codenewsletter--ea2a8e9c",
+    "first_seen_date": "2026-08-27"
+  },
   "https://codenewsletter.ai/p/castform-drops-its-rl-training-platform-openai-unveils-dev-mode-in-codex": {
     "article_id": "codenewsletter--d5e85391",
     "first_seen_date": "2026-06-13"
@@ -2916,6 +2924,10 @@
     "article_id": "codenewsletter--ed15082c",
     "first_seen_date": "2026-05-22"
   },
+  "https://codenewsletter.ai/p/the-anonymous-model-devs-loved-just-got-a-name": {
+    "article_id": "codenewsletter--af125a62",
+    "first_seen_date": "2026-08-27"
+  },
   "https://codenewsletter.ai/p/thinking-machines-drops-inkling-spacexai-open-sources-grok-build": {
     "article_id": "codenewsletter--17fb4191",
     "first_seen_date": "2026-07-17"
@@ -3137,6 +3149,10 @@
     "article_id": "google-deepmind--7b903343",
     "first_seen_date": "2026-05-20"
   },
+  "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control": {
+    "article_id": "google-deepmind--9b903d83",
+    "first_seen_date": "2026-08-27"
+  },
   "https://deepmind.google/blog/gemini-robotics-er-1-6": {
     "article_id": "google-deepmind--e1bdb92d",
     "first_seen_date": "2026-04-15"
@@ -3184,6 +3200,10 @@
   "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences": {
     "article_id": "google-deepmind--45a1ae87",
     "first_seen_date": "2026-04-13"
+  },
+  "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe": {
+    "article_id": "google-deepmind--e3644d73",
+    "first_seen_date": "2026-08-27"
   },
   "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash": {
     "article_id": "google-deepmind--26139fd3",
@@ -3264,6 +3284,10 @@
   "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation": {
     "article_id": "google-deepmind--0b24dc83",
     "first_seen_date": "2026-04-23"
+  },
+  "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations": {
+    "article_id": "google-deepmind--db74d8f7",
+    "first_seen_date": "2026-08-27"
   },
   "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe": {
     "article_id": "google-deepmind--95e65df0",
@@ -6407,6 +6431,10 @@
     "article_id": "huggingface-blog--edafde5f",
     "first_seen_date": "2026-06-12"
   },
+  "https://huggingface.co/blog/train-multi-vector-encoder": {
+    "article_id": "huggingface-blog--5f601290",
+    "first_seen_date": "2026-08-27"
+  },
   "https://huggingface.co/blog/train-multimodal-sentence-transformers": {
     "article_id": "huggingface-blog--8bba1627",
     "first_seen_date": "2026-04-17"
@@ -6987,6 +7015,10 @@
     "article_id": "openai-blog--e5cd54d5",
     "first_seen_date": "2026-05-30"
   },
+  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+    "article_id": "openai-blog--bb7af634",
+    "first_seen_date": "2026-08-27"
+  },
   "https://openai.com/index/builders-guide-to-gpt-5-6": {
     "article_id": "openai-blog--af5b983a",
     "first_seen_date": "2026-08-14"
@@ -7179,6 +7211,10 @@
     "article_id": "openai-blog--a67729f3",
     "first_seen_date": "2026-08-11"
   },
+  "https://openai.com/index/expanding-our-presence-in-brazil": {
+    "article_id": "openai-blog--520845d2",
+    "first_seen_date": "2026-08-27"
+  },
   "https://openai.com/index/frontier-safety-blueprint": {
     "article_id": "openai-blog--fce84d55",
     "first_seen_date": "2026-06-04"
@@ -7298,6 +7334,10 @@
   "https://openai.com/index/hsp-gruppe": {
     "article_id": "openai-blog--6ed6480d",
     "first_seen_date": "2026-08-08"
+  },
+  "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+    "article_id": "openai-blog--adcaa69a",
+    "first_seen_date": "2026-08-27"
   },
   "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
     "article_id": "openai-blog--ce9ace34",
@@ -7429,10 +7469,18 @@
     "article_id": "openai-blog--da3b3953",
     "first_seen_date": "2026-08-05"
   },
+  "https://openai.com/index/learning-never-stops": {
+    "article_id": "openai-blog--8ccaf998",
+    "first_seen_date": "2026-08-27"
+  },
   "https://openai.com/index/learning-to-reason-with-llms": {
     "article_id": null,
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
+  },
+  "https://openai.com/index/loveholidays": {
+    "article_id": "openai-blog--f2ed2a48",
+    "first_seen_date": "2026-08-27"
   },
   "https://openai.com/index/lseg": {
     "article_id": "openai-blog--67ad7ac7",
@@ -7827,6 +7875,10 @@
   "https://openai.com/index/what-parameter-golf-taught-us": {
     "article_id": "openai-blog--56ac43a4",
     "first_seen_date": "2026-05-13"
+  },
+  "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+    "article_id": "openai-blog--62ef0783",
+    "first_seen_date": "2026-08-27"
   },
   "https://openai.com/index/where-the-goblins-came-from": {
     "article_id": "openai-blog--ff1f0ce2",
