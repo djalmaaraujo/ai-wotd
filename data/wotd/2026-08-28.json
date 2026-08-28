@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 88.462973,
+      "term": "anthropic",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 71.818582,
+      "term": "coding",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 63.779271,
+      "term": "robot",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 36.265715,
+      "term": "open-source",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.964212,
+      "term": "duck",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 27.242742,
+      "term": "anthropic just",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 27.242742,
+      "term": "how to run",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 27.242742,
+      "term": "staff",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 27.242742,
+      "term": "to run",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--39d426c9",
+        "codenewsletter--40bcdb53"
+      ],
+      "avg_tf_baseline": 3.4,
+      "df_today": 2,
+      "score": 25.081699,
+      "term": "claude",
+      "tf_today": 23
+    }
+  ],
+  "date": "2026-08-28",
+  "evidence_article_ids": [
+    "aibreakfast--39d426c9",
+    "codenewsletter--40bcdb53"
+  ],
+  "score": 88.462973,
+  "word": "anthropic"
+}
