@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 67.99712,
+      "term": "human",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 51.461618,
+      "term": "humans",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "fix",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "problem",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 43.668272,
+      "term": "the work",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "the code",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "useful",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 13.6667,
+      "df_today": 2,
+      "score": 32.365638,
+      "term": "agents",
+      "tf_today": 50
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 31.084899,
+      "term": "write",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "codenewsletter--8af1cc9b",
+        "one-useful-thing--1e358a79"
+      ],
+      "avg_tf_baseline": 3.25,
+      "df_today": 2,
+      "score": 29.959335,
+      "term": "work",
+      "tf_today": 21
+    }
+  ],
+  "date": "2026-08-31",
+  "evidence_article_ids": [
+    "codenewsletter--8af1cc9b",
+    "one-useful-thing--1e358a79"
+  ],
+  "score": 67.99712,
+  "word": "human"
+}
