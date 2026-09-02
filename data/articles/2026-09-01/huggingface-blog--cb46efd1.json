@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--cb46efd1",
+  "author": "Hugging Face Blog",
+  "content_chars": 12684,
+  "content_sha256": "1b2b989b0de71d25f4de76b09a5dd2ca6b8df82bf318ab9014c1288f5ecacf33",
+  "content_tokens": 3171,
+  "fetched_at": "2026-09-02T11:14:54Z",
+  "kind": "article",
+  "published_at": "2026-09-01T00:00:00+00:00",
+  "snippet": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "top_terms": [
+    [
+      "kernels",
+      44
+    ],
+    [
+      "kernel",
+      22
+    ],
+    [
+      "webgpu",
+      18
+    ],
+    [
+      "operations",
+      14
+    ],
+    [
+      "cases",
+      13
+    ],
+    [
+      "across",
+      12
+    ],
+    [
+      "huggingface",
+      12
+    ],
+    [
+      "ms",
+      12
+    ],
+    [
+      "huggingface kernels",
+      11
+    ],
+    [
+      "browser",
+      9
+    ],
+    [
+      "correctness",
+      9
+    ],
+    [
+      "fleet",
+      9
+    ],
+    [
+      "gpu",
+      9
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "hub",
+      8
+    ],
+    [
+      "onnx",
+      8
+    ],
+    [
+      "repository",
+      8
+    ],
+    [
+      "webgpu kernels",
+      8
+    ],
+    [
+      "add",
+      7
+    ],
+    [
+      "data",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "url_canonical": "https://huggingface.co/blog/webgpu-kernels",
+  "via_source_id": null
+}
