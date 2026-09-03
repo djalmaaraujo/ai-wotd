@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 158.999705,
+      "term": "about hours",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 158.999705,
+      "term": "about hours ago",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 158.999705,
+      "term": "hours ago",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 158.999705,
+      "term": "updated about",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 158.999705,
+      "term": "updated about hours",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 147.40896,
+      "term": "rl",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 115.87953,
+      "term": "ago",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 62.169798,
+      "term": "behind",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 62.169798,
+      "term": "original",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "huggingface-blog--33669687",
+        "huggingface-blog--fb781945"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 56.869054,
+      "term": "project",
+      "tf_today": 14
+    }
+  ],
+  "date": "2026-09-03",
+  "evidence_article_ids": [
+    "huggingface-blog--33669687",
+    "huggingface-blog--fb781945"
+  ],
+  "score": 158.999705,
+  "word": "about hours"
+}
