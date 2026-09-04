@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--49b58d89",
+  "author": "Hugging Face Blog",
+  "content_chars": 15642,
+  "content_sha256": "adfefce047d97891e605b1ec192f1cf3789e4a93d232bddcbbcb8ec6ac2384ce",
+  "content_tokens": 3910,
+  "fetched_at": "2026-09-04T11:15:06Z",
+  "kind": "article",
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "snippet": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "top_terms": [
+    [
+      "passed",
+      58
+    ],
+    [
+      "test",
+      50
+    ],
+    [
+      "passed test",
+      46
+    ],
+    [
+      "model",
+      32
+    ],
+    [
+      "escaping",
+      24
+    ],
+    [
+      "passed test escaping",
+      24
+    ],
+    [
+      "test escaping",
+      24
+    ],
+    [
+      "ifstruct",
+      23
+    ],
+    [
+      "lfm2",
+      19
+    ],
+    [
+      "liquidai",
+      15
+    ],
+    [
+      "steps",
+      14
+    ],
+    [
+      "field",
+      13
+    ],
+    [
+      "cpp",
+      12
+    ],
+    [
+      "json",
+      12
+    ],
+    [
+      "llama",
+      12
+    ],
+    [
+      "llama cpp",
+      12
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "benchmark",
+      11
+    ],
+    [
+      "training",
+      11
+    ],
+    [
+      "fine-tuning",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "url_canonical": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "via_source_id": null
+}
