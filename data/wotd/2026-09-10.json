@@ -1,0 +1,110 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 113.738108,
+      "term": "workflow1111",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 62.169798,
+      "term": "the canvas",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 43.668272,
+      "term": "info",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 43.668272,
+      "term": "png",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 43.668272,
+      "term": "png info",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 40.314588,
+      "term": "diffusion",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 1,
+      "score": 39.749926,
+      "term": "canvas",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "comfyui",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "detection",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "huggingface-blog--50d826e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "on the canvas",
+      "tf_today": 6
+    }
+  ],
+  "date": "2026-09-10",
+  "evidence_article_ids": [
+    "huggingface-blog--50d826e2"
+  ],
+  "score": 113.738108,
+  "word": "workflow1111"
+}
