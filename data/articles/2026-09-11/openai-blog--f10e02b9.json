@@ -1,0 +1,98 @@
+{
+  "article_id": "openai-blog--f10e02b9",
+  "author": "OpenAI Blog",
+  "content_chars": 160,
+  "content_sha256": "6088f4ea402783e64d6b87f81ec3f492eef9ec1ac39df0eefe939a28f93c5c4a",
+  "content_tokens": 40,
+  "fetched_at": "2026-09-12T10:42:43Z",
+  "kind": "article",
+  "published_at": "2026-09-11T10:00:00+00:00",
+  "snippet": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+  "source_id": "openai-blog",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "top_terms": [
+    [
+      "billion",
+      2
+    ],
+    [
+      "billion chatgpt",
+      2
+    ],
+    [
+      "billion chatgpt users",
+      2
+    ],
+    [
+      "chatgpt",
+      2
+    ],
+    [
+      "chatgpt users",
+      2
+    ],
+    [
+      "storage",
+      2
+    ],
+    [
+      "users",
+      2
+    ],
+    [
+      "chatgpt users and",
+      1
+    ],
+    [
+      "chatgpt users learn",
+      1
+    ],
+    [
+      "distributed",
+      1
+    ],
+    [
+      "distributed storage",
+      1
+    ],
+    [
+      "distributed storage platform",
+      1
+    ],
+    [
+      "evolved",
+      1
+    ],
+    [
+      "evolved habitat",
+      1
+    ],
+    [
+      "evolved habitat from",
+      1
+    ],
+    [
+      "globally",
+      1
+    ],
+    [
+      "globally distributed",
+      1
+    ],
+    [
+      "globally distributed storage",
+      1
+    ],
+    [
+      "habitat",
+      1
+    ],
+    [
+      "habitat from",
+      1
+    ]
+  ],
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "url_canonical": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "via_source_id": null
+}
