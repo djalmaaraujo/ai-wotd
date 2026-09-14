@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--73a0703d",
+  "author": "Hugging Face Blog",
+  "content_chars": 39431,
+  "content_sha256": "dcf95f5a373348315de6d2ec22f29dac6fa0f3dcf07abece5ee4943ae6300560",
+  "content_tokens": 9857,
+  "fetched_at": "2026-09-14T12:42:07Z",
+  "kind": "article",
+  "published_at": "2026-09-10T00:00:00+00:00",
+  "snippet": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "top_terms": [
+    [
+      "adapter",
+      49
+    ],
+    [
+      "vllm",
+      48
+    ],
+    [
+      "lora",
+      47
+    ],
+    [
+      "rollout",
+      44
+    ],
+    [
+      "replica",
+      41
+    ],
+    [
+      "trainer",
+      40
+    ],
+    [
+      "run",
+      39
+    ],
+    [
+      "every",
+      35
+    ],
+    [
+      "step",
+      32
+    ],
+    [
+      "the trainer",
+      31
+    ],
+    [
+      "blocks",
+      28
+    ],
+    [
+      "replicas",
+      28
+    ],
+    [
+      "perf",
+      27
+    ],
+    [
+      "prompt",
+      27
+    ],
+    [
+      "steps",
+      27
+    ],
+    [
+      "sync",
+      26
+    ],
+    [
+      "jobs",
+      25
+    ],
+    [
+      "block",
+      24
+    ],
+    [
+      "request",
+      24
+    ],
+    [
+      "proxy",
+      22
+    ]
+  ],
+  "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "url_canonical": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "via_source_id": null
+}
