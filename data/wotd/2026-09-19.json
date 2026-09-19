@@ -1,0 +1,110 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 52.73339,
+      "term": "huawei",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "arxiv",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "government",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "act",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 26.876392,
+      "term": "reportedly",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "act pushed",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "act pushed to",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "ai act",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "ai act pushed",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--371122c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "ascend",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-09-19",
+  "evidence_article_ids": [
+    "aibreakfast--371122c7"
+  ],
+  "score": 52.73339,
+  "word": "huawei"
+}
