@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 459.733363,
+      "term": "transformers",
+      "tf_today": 41
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 135.994241,
+      "term": "mlx",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "for local",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "implementation",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.026383,
+      "term": "serve",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 2.5,
+      "df_today": 2,
+      "score": 29.481792,
+      "term": "local",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 5.4,
+      "df_today": 2,
+      "score": 28.74203,
+      "term": "inference",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 26.876392,
+      "term": "lysandre",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 25.730809,
+      "term": "support",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "huggingface-blog--b55bf825",
+        "huggingface-blog--f931c5c5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.313255,
+      "term": "apple silicon",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-09-22",
+  "evidence_article_ids": [
+    "huggingface-blog--b55bf825",
+    "huggingface-blog--f931c5c5"
+  ],
+  "score": 459.733363,
+  "word": "transformers"
+}

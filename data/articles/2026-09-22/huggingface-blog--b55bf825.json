@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b55bf825",
+  "author": "Hugging Face Blog",
+  "content_chars": 17659,
+  "content_sha256": "19dfce184c3cf23b5b67a679dd083f11f3f4d5d070e2e03828ef938d12f0c3a4",
+  "content_tokens": 4414,
+  "fetched_at": "2026-09-22T11:34:44Z",
+  "kind": "article",
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "snippet": "Transformers now runs llama.cpp quants Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "source_id": "huggingface-blog",
+  "title": "Transformers now runs llama.cpp quants",
+  "top_terms": [
+    [
+      "gguf",
+      47
+    ],
+    [
+      "model",
+      39
+    ],
+    [
+      "transformers",
+      38
+    ],
+    [
+      "kernels",
+      25
+    ],
+    [
+      "qwen3",
+      24
+    ],
+    [
+      "cpp",
+      22
+    ],
+    [
+      "llama",
+      22
+    ],
+    [
+      "llama cpp",
+      22
+    ],
+    [
+      "models",
+      21
+    ],
+    [
+      "inference",
+      18
+    ],
+    [
+      "file",
+      15
+    ],
+    [
+      "work",
+      13
+    ],
+    [
+      "local",
+      12
+    ],
+    [
+      "pytorch",
+      12
+    ],
+    [
+      "generate",
+      11
+    ],
+    [
+      "generation",
+      10
+    ],
+    [
+      "gpu",
+      10
+    ],
+    [
+      "kernel",
+      10
+    ],
+    [
+      "local inference",
+      10
+    ],
+    [
+      "quantization",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "url_canonical": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "via_source_id": null
+}

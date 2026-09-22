@@ -223,6 +223,10 @@
     "article_id": "aibreakfast--a6ef6534",
     "first_seen_date": "2026-05-09"
   },
+  "https://aibreakfast.beehiiv.com/p/anthropic-appoints-customer-as-watchdog": {
+    "article_id": "aibreakfast--eb82bee1",
+    "first_seen_date": "2026-09-22"
+  },
   "https://aibreakfast.beehiiv.com/p/anthropic-caught-secretly-nerfing-claude-fable-5": {
     "article_id": "aibreakfast--decf9462",
     "first_seen_date": "2026-06-13"
@@ -2800,6 +2804,10 @@
     "article_id": "codenewsletter--a6d50441",
     "first_seen_date": "2026-07-29"
   },
+  "https://codenewsletter.ai/p/new-experiment-pushed-frontier-models-into-executing-dangerous-commands": {
+    "article_id": "codenewsletter--406a5176",
+    "first_seen_date": "2026-09-22"
+  },
   "https://codenewsletter.ai/p/no-more-juggling-sessions-on-claude-code": {
     "article_id": "codenewsletter--266578a2",
     "first_seen_date": "2026-09-19"
@@ -3758,6 +3766,10 @@
   "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
     "article_id": "huggingface-blog--0c2ea1a3",
     "first_seen_date": "2026-08-11"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
+    "article_id": "huggingface-blog--1ff2bf45",
+    "first_seen_date": "2026-09-22"
   },
   "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
     "article_id": "huggingface-blog--368b4c3d",
@@ -5827,6 +5839,10 @@
     "article_id": "huggingface-blog--cc374ca9",
     "first_seen_date": "2026-05-10"
   },
+  "https://huggingface.co/blog/omlx": {
+    "article_id": "huggingface-blog--f931c5c5",
+    "first_seen_date": "2026-09-22"
+  },
   "https://huggingface.co/blog/open-asr-leaderboard": {
     "article_id": "huggingface-blog--07f0ca6c",
     "first_seen_date": "2026-04-21"
@@ -6579,6 +6595,10 @@
     "article_id": "huggingface-blog--ae0ecaf7",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/tokenizers-v1": {
+    "article_id": "huggingface-blog--66ffa21a",
+    "first_seen_date": "2026-09-22"
+  },
   "https://huggingface.co/blog/torch-attention-profile": {
     "article_id": "huggingface-blog--a8632836",
     "first_seen_date": "2026-07-11"
@@ -6650,6 +6670,10 @@
   "https://huggingface.co/blog/transformers-docs-redesign": {
     "article_id": "huggingface-blog--ee873901",
     "first_seen_date": "2026-06-09"
+  },
+  "https://huggingface.co/blog/transformers-llama-cpp-quants": {
+    "article_id": "huggingface-blog--b55bf825",
+    "first_seen_date": "2026-09-22"
   },
   "https://huggingface.co/blog/transformers-model-definition": {
     "article_id": "huggingface-blog--8749711e",
@@ -7155,6 +7179,10 @@
     "article_id": "openai-blog--5904731d",
     "first_seen_date": "2026-05-22"
   },
+  "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+    "article_id": "openai-blog--6bf1c8b0",
+    "first_seen_date": "2026-09-22"
+  },
   "https://openai.com/index/ai-chemist-improves-reaction": {
     "article_id": "openai-blog--03ff0472",
     "first_seen_date": "2026-06-18"
@@ -7254,6 +7282,10 @@
   "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
     "article_id": "openai-blog--fc09d249",
     "first_seen_date": "2026-05-28"
+  },
+  "https://openai.com/index/building-standards-next-phase-ai": {
+    "article_id": "openai-blog--126ae7cf",
+    "first_seen_date": "2026-09-22"
   },
   "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age": {
     "article_id": "openai-blog--e8cd95cd",
@@ -7451,6 +7483,10 @@
     "article_id": "openai-blog--a67729f3",
     "first_seen_date": "2026-08-11"
   },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+    "article_id": "openai-blog--ce1b5acb",
+    "first_seen_date": "2026-09-22"
+  },
   "https://openai.com/index/expanding-our-presence-in-brazil": {
     "article_id": "openai-blog--520845d2",
     "first_seen_date": "2026-08-27"
@@ -7550,6 +7586,10 @@
   "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
     "article_id": "openai-blog--3676fddb",
     "first_seen_date": "2026-09-17"
+  },
+  "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+    "article_id": "openai-blog--b323f32d",
+    "first_seen_date": "2026-09-22"
   },
   "https://openai.com/index/how-agents-are-transforming-work": {
     "article_id": "openai-blog--2a293660",
@@ -8219,6 +8259,10 @@
   "https://openai.com/index/using-codex-to-simulate-black-holes": {
     "article_id": "openai-blog--0505abb1",
     "first_seen_date": "2026-06-11"
+  },
+  "https://openai.com/index/v7": {
+    "article_id": "openai-blog--94193945",
+    "first_seen_date": "2026-09-22"
   },
   "https://openai.com/index/virgin-atlantic": {
     "article_id": "openai-blog--cc27621e",

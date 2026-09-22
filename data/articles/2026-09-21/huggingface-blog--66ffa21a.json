@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--66ffa21a",
+  "author": "Hugging Face Blog",
+  "content_chars": 15366,
+  "content_sha256": "6cfced6f2afd9ffedc8357183b27f0b64933c6ca9566e68edecfc7a4763d3648",
+  "content_tokens": 3841,
+  "fetched_at": "2026-09-22T11:34:45Z",
+  "kind": "article",
+  "published_at": "2026-09-21T00:00:00+00:00",
+  "snippet": "tokenizers v1: encode, decode and scaling, measured Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "tokenizers v1: encode, decode and scaling, measured",
+  "top_terms": [
+    [
+      "tokenizer",
+      18
+    ],
+    [
+      "model",
+      17
+    ],
+    [
+      "v1",
+      15
+    ],
+    [
+      "tokenizers",
+      14
+    ],
+    [
+      "merge",
+      13
+    ],
+    [
+      "ids",
+      12
+    ],
+    [
+      "text",
+      11
+    ],
+    [
+      "encode",
+      10
+    ],
+    [
+      "encoding",
+      10
+    ],
+    [
+      "loop",
+      10
+    ],
+    [
+      "pre-token",
+      10
+    ],
+    [
+      "across",
+      9
+    ],
+    [
+      "call",
+      9
+    ],
+    [
+      "token",
+      9
+    ],
+    [
+      "tokenization",
+      9
+    ],
+    [
+      "work",
+      9
+    ],
+    [
+      "bpe",
+      8
+    ],
+    [
+      "bytes",
+      8
+    ],
+    [
+      "cache",
+      8
+    ],
+    [
+      "never",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tokenizers-v1",
+  "url_canonical": "https://huggingface.co/blog/tokenizers-v1",
+  "via_source_id": null
+}

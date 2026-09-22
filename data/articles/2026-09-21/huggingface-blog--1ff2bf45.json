@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1ff2bf45",
+  "author": "Hugging Face Blog",
+  "content_chars": 12950,
+  "content_sha256": "73c1ab41d3b60c53e81f8f37021b652747175871da4f12765eee1afba8c2a287",
+  "content_tokens": 3237,
+  "fetched_at": "2026-09-22T11:34:44Z",
+  "kind": "article",
+  "published_at": "2026-09-21T13:44:34+00:00",
+  "snippet": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum…",
+  "source_id": "huggingface-blog",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "top_terms": [
+    [
+      "block",
+      31
+    ],
+    [
+      "blocks",
+      21
+    ],
+    [
+      "problem",
+      16
+    ],
+    [
+      "optimization",
+      13
+    ],
+    [
+      "state",
+      13
+    ],
+    [
+      "model",
+      12
+    ],
+    [
+      "compression",
+      11
+    ],
+    [
+      "removal",
+      11
+    ],
+    [
+      "block removal",
+      10
+    ],
+    [
+      "binary",
+      9
+    ],
+    [
+      "cbo",
+      9
+    ],
+    [
+      "ising",
+      9
+    ],
+    [
+      "models",
+      9
+    ],
+    [
+      "an ising",
+      8
+    ],
+    [
+      "ground",
+      8
+    ],
+    [
+      "ground state",
+      8
+    ],
+    [
+      "spin",
+      8
+    ],
+    [
+      "states",
+      8
+    ],
+    [
+      "binary optimization",
+      7
+    ],
+    [
+      "constrained",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "url_canonical": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "via_source_id": null
+}
