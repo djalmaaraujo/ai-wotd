@@ -32,7 +32,7 @@ RETRYABLE_STATUS = frozenset({429, 500, 502, 503, 504, 529})
 MAX_ARTICLES = 60
 MAX_RECENT_TITLES = 60
 
-SPECIFICITY_MIN = 1.5
+SPECIFICITY_MIN = 1.85
 FORM_MIN = 0.8
 DOMINANCE_MIN = 1.5
 EVENT_MIN = 0.5
@@ -248,6 +248,11 @@ def _newsworthiness(verdict: Verdict) -> float:
     return NOVELTY_WEIGHT * verdict.novelty + verdict.dominance / DOMINANCE_LEVELS
 
 
+def newsworthiness(verdict: Verdict) -> float:
+    """How much today's news is about this term, and how new it is."""
+    return _newsworthiness(verdict)
+
+
 def rank(
     verdicts: dict[str, Verdict],
     *,
@@ -272,12 +277,10 @@ def rank(
         and v.dominance >= dominance_min
         and v.event >= event_min
     ]
-    survivors.sort(
-        key=lambda term: (
-            -round(_newsworthiness(verdicts[term]) / TIE_MARGIN),
-            -len(term.split()),
-            -verdicts[term].specificity,
-            term,
-        )
-    )
-    return survivors
+    if not survivors:
+        return []
+    survivors.sort(key=lambda term: (-_newsworthiness(verdicts[term]), term))
+    best = _newsworthiness(verdicts[survivors[0]])
+    tied = [t for t in survivors if best - _newsworthiness(verdicts[t]) <= TIE_MARGIN]
+    tied.sort(key=lambda t: (-len(t.split()), -verdicts[t].specificity, t))
+    return tied + [t for t in survivors if t not in tied]

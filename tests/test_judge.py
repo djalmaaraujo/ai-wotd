@@ -113,6 +113,15 @@ def test_rank_drops_a_real_term_the_day_does_not_cover():
     assert rank(verdicts) == []
 
 
+def test_rank_drops_vague_ai_vocabulary():
+    """'agents' is a word about AI; it is not a word of the day."""
+    verdicts = {
+        "agents": Verdict(0.9, 1.73, 0.9, 0.5, 2.9),
+        "kimi k3": Verdict(0.9, 2.0, 0.9, 0.8, 2.4),
+    }
+    assert rank(verdicts) == ["kimi k3"]
+
+
 def test_judge_raises_without_a_key(monkeypatch):
     monkeypatch.delenv("TYPESAFE_API_KEY", raising=False)
     with pytest.raises(JudgeError, match="TYPESAFE_API_KEY"):
@@ -223,3 +232,12 @@ def test_judge_returns_nothing_for_an_empty_pool(monkeypatch):
     )
     assert result.verdicts == {}
     assert result.input_tokens == 0
+
+
+def test_rank_uses_a_real_tie_window_not_buckets():
+    """0.002 apart must count as a tie, whatever side of a bucket edge it lands on."""
+    verdicts = {
+        "claude": Verdict(0.9, 1.9, 0.9, 0.802, 2.4),
+        "claude tag": Verdict(0.9, 2.0, 0.9, 0.798, 2.4),
+    }
+    assert rank(verdicts)[0] == "claude tag"

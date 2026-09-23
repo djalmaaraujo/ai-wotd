@@ -22,15 +22,20 @@ def _load_day(path: Path) -> dict:
 
 
 def _iter_days(wotd_dir: Path) -> list[dict]:
+    """Every day worth a page: an elected word, or an explained abstention."""
     if not wotd_dir.exists():
         return []
     out = []
     for p in sorted(wotd_dir.glob("*.json")):
         d = _load_day(p)
-        if d.get("word"):
+        if d.get("word") or d.get("status") == "quiet_day":
             out.append(d)
     out.sort(key=lambda d: d.get("date", ""), reverse=True)
     return out
+
+
+def _template_for(day: dict) -> str:
+    return "quiet.html" if not day.get("word") else "day.html"
 
 
 def _articles_index(articles_dir: Path) -> dict[str, dict]:
@@ -104,7 +109,7 @@ def render_site(
         latest = days[0]
         evidence = [articles[a] for a in latest.get("evidence_article_ids", []) if a in articles]
         all_day_articles = _articles_for_date(articles_dir, latest["date"])
-        html = env.get_template("day.html").render(
+        html = env.get_template(_template_for(latest)).render(
             day=latest,
             evidence=evidence,
             all_day_articles=all_day_articles,
@@ -126,7 +131,7 @@ def render_site(
         all_day_arts = _articles_for_date(articles_dir, day["date"])
         prev_day = days[i + 1] if i + 1 < len(days) else None
         next_day = days[i - 1] if i > 0 else None
-        html = env.get_template("day.html").render(
+        html = env.get_template(_template_for(day)).render(
             day=day,
             evidence=ev,
             all_day_articles=all_day_arts,

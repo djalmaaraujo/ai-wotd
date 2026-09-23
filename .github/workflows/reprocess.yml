@@ -3,6 +3,11 @@ name: Reprocess WOTD
 on:
   workflow_dispatch:
     inputs:
+      judge:
+        description: "Judge mode for the re-election (off keeps it free and fast)"
+        type: choice
+        options: ["off", "on", "shadow"]
+        default: "off"
       from:
         description: "From date (YYYY-MM-DD)"
         required: true
@@ -51,6 +56,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+          WOTD_JUDGE: ${{ inputs.judge || 'off' }}
         run: |
           wotd reprocess --from "${{ inputs.from }}" --to "${{ inputs.to }}" --steps "${{ inputs.steps }}"
           wotd export

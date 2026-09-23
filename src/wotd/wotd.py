@@ -10,14 +10,14 @@ from datetime import date, timedelta
 from pathlib import Path
 from typing import Iterable
 
-from .judge import JudgeError, judge_candidates, rank
+from .judge import JudgeError, judge_candidates, newsworthiness, rank
 from .terms import build_candidate_pool, load_allowlist
 
 logger = logging.getLogger(__name__)
 
 BODY_CANDIDATES = 40
 RECENT_DAYS = 7
-MAX_RECENT_PER_DAY = 12
+MAX_RECENT_PER_DAY = 8
 MAX_TITLE_CHARS = 110
 MAX_SIGNALS = 15
 
@@ -191,6 +191,12 @@ def _judge_payload(
         return {"status": "error", "error": str(exc)}, []
 
     survivors = rank(judgment.verdicts)
+    # Record the strongest of the whole pool, not just the survivors: an
+    # abstention is the day whose near-misses you most want to read back.
+    loudest = sorted(
+        judgment.verdicts,
+        key=lambda term: -newsworthiness(judgment.verdicts[term]),
+    )[:MAX_SIGNALS]
     meta = {
         "status": "ok",
         "model": judgment.model,
@@ -198,7 +204,8 @@ def _judge_payload(
         "pool_size": len(pool),
         "survivors": survivors[:10],
         "signals": {
-            term: judgment.verdicts[term].to_dict() for term in survivors[:MAX_SIGNALS]
+            term: judgment.verdicts[term].to_dict()
+            for term in dict.fromkeys(survivors[:MAX_SIGNALS] + loudest)
         },
     }
     return meta, survivors
@@ -233,7 +240,7 @@ def pick_wotd(
         "score": 0.0,
         "candidates": [c.to_dict() for c in candidates[:10]],
         "evidence_article_ids": [],
-        "judge": {"status": "off"},
+        "judge": {"status": "off" if mode == "off" else "nothing_to_judge"},
     }
 
     if candidates:
@@ -266,7 +273,7 @@ def pick_wotd(
         else:
             scored = next((c for c in candidates if c.term == chosen_term), None)
             payload["word"] = chosen_term
-            payload["score"] = round(scored.score, 6) if scored else 0.0
+            payload["score"] = round(scored.score, 6) if scored else None
             payload["evidence_article_ids"] = _evidence_for(
                 chosen_term, today_stats, articles
             )

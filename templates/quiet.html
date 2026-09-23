@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}No word — {{ day.date }} · AI WOTD{% endblock %}
+{% block content %}
+<article class="day quiet">
+  <p class="date">{{ day.date }}</p>
+  <h1>no word today</h1>
+
+  <p class="why">
+    Nothing in today&rsquo;s corpus held up as a word of the day. The trending score
+    had {{ day.candidates|length }} candidate{{ "" if day.candidates|length == 1 else "s" }},
+    and none of them was a specific AI term the day&rsquo;s coverage was actually about.
+    Rather than print the top of a bad list, this day stays empty.
+  </p>
+
+  {% if day.judge and day.judge.signals %}
+  <section class="candidates">
+    <h2>Closest calls</h2>
+    <ol>
+      {% for term, s in day.judge.signals.items() %}
+      <li>{{ term }}
+        <span class="meta">specificity={{ "%.2f"|format(s.specificity) }},
+          coverage={{ "%.2f"|format(s.dominance) }},
+          new={{ "%.2f"|format(s.novelty) }}</span>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+
+  {% if all_day_articles %}
+  <section class="queried-links">
+    <details>
+      <summary>All queried links ({{ all_day_articles|length }})</summary>
+      <ul>
+        {% for a in all_day_articles %}
+        <li>
+          <a href="{{ a.url_canonical or a.url }}" rel="noreferrer">{{ a.title or a.url }}</a>
+          <span class="meta">{{ a.source_id }}{% if a.author %} · {{ a.author }}{% endif %}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
+  </section>
+  {% endif %}
+
+  <nav class="pager">
+    {% if prev_day %}<a href="{{ base }}/d/{{ prev_day.date }}/">← {{ prev_day.date }}</a>{% endif %}
+    {% if next_day %}<a href="{{ base }}/d/{{ next_day.date }}/">{{ next_day.date }} →</a>{% endif %}
+  </nav>
+</article>
+{% endblock %}

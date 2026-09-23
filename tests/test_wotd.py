@@ -239,3 +239,43 @@ def test_settings_read_the_judge_mode_from_the_environment(monkeypatch):
     assert Settings.from_env().judge_mode == "shadow"
     monkeypatch.delenv("WOTD_JUDGE")
     assert Settings.from_env().judge_mode == "on"
+
+
+def test_pick_wotd_records_signals_for_near_misses_on_a_quiet_day(tmp_path):
+    """The abstained day is the one whose numbers you most want to read back."""
+    from wotd.judge import Verdict
+
+    stats, wotd_dir, articles = (tmp_path / p for p in ("stats", "wotd", "articles"))
+    today = date(2026, 4, 22)
+    _write_stats(stats, today, {"nitter net": (8, 2), "claude": (3, 2)})
+    _write_articles(articles, today, ["nitter net status", "claude mentioned once"])
+
+    judge = _judge_stub(
+        {
+            "nitter net": Verdict(0.3, 0.1, 0.1, 0.9, 0.2),
+            "claude": Verdict(0.9, 1.4, 0.8, 0.5, 2.1),
+        }
+    )
+    payload = pick_wotd(
+        stats, wotd_dir, today, articles_dir=articles, mode="on", judge_fn=judge
+    )
+
+    assert payload["word"] is None
+    assert payload["judge"]["survivors"] == []
+    assert "claude" in payload["judge"]["signals"]
+
+
+def test_pick_wotd_says_nothing_to_judge_when_no_term_is_eligible(tmp_path):
+    stats, wotd_dir, articles = (tmp_path / p for p in ("stats", "wotd", "articles"))
+    today = date(2026, 7, 17)
+    _write_stats(stats, today, {"mcp": (5, 1)}, doc_count=3)
+    _write_articles(articles, today, ["something"])
+
+    judge = _judge_stub({})
+    payload = pick_wotd(
+        stats, wotd_dir, today, articles_dir=articles, mode="on", judge_fn=judge
+    )
+
+    assert payload["candidates"] == []
+    assert payload["judge"]["status"] == "nothing_to_judge"
+    assert judge.calls == []

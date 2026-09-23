@@ -9,9 +9,9 @@ from pathlib import Path
 from typing import Iterable
 
 
-# The dot keeps model versions whole ("gpt-5.6"); without it they collapse to
-# their major number and can never be elected.
-_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'\-\.]*[A-Za-z0-9]|[A-Za-z]")
+# The dot is allowed only before digits, so model versions stay whole
+# ("gpt-5.6") while domains still split into their parts.
+_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'\-]*(?:\.[0-9]+)*|[A-Za-z]")
 
 
 def _read_resource(name: str) -> list[str]:
@@ -171,28 +171,41 @@ def top_terms(counter: Counter, n: int = 20) -> list[tuple[str, int]]:
 
 EDGE_WORDS = frozenset(
     {
-        "ai", "new", "how", "why", "what", "this", "that", "it", "its",
+        "how", "why", "what", "this", "that", "it", "its",
         "the", "a", "an", "to", "of", "in", "is", "and", "for", "with", "on", "at",
     }
 )
+
+# "ai safety" and "new relic" are terms; "safety" and "relic" are not. These
+# only come off when something more than a single word is left behind.
+WEAK_EDGE_WORDS = frozenset({"ai", "new"})
 
 POOL_CAP = 60
 TITLE_MIN_COUNT = 2
 
 
-def _has_interior_filler(term: str, edges: frozenset[str]) -> bool:
-    parts = term.split()
-    return any(part in edges for part in parts[1:-1])
+def _qualifies(short: str, long: str) -> bool:
+    """True when `long` is `short` with qualifying words after it.
+
+    "claude tag" is a fuller name for "claude", so the bare name can go. A
+    phrase that only ends in the name, such as "adoption claude", is a
+    different thing and must not delete the name it swallowed.
+    """
+    return long.startswith(f"{short} ")
 
 
 def trim_edges(term: str, stopwords: frozenset[str] | None = None) -> str:
     """Strip filler words from both ends of a candidate term."""
     stopwords = stopwords if stopwords is not None else load_stopwords()
-    edges = stopwords | EDGE_WORDS
+    edges = (stopwords | EDGE_WORDS) - WEAK_EDGE_WORDS
     parts = term.split()
     while parts and parts[0] in edges:
         parts = parts[1:]
     while parts and parts[-1] in edges:
+        parts = parts[:-1]
+    while len(parts) > 2 and parts[0] in WEAK_EDGE_WORDS:
+        parts = parts[1:]
+    while len(parts) > 2 and parts[-1] in WEAK_EDGE_WORDS:
         parts = parts[:-1]
     return " ".join(parts)
 
@@ -215,7 +228,7 @@ def title_terms(
     for title in titles:
         if title:
             counts.update(
-                extract_terms(title, stopwords=stopwords, allowlist=allowlist)
+                set(extract_terms(title, stopwords=stopwords, allowlist=allowlist))
             )
     return [term for term, count in top_terms(counts, n=300) if count >= min_count]
 
@@ -245,13 +258,13 @@ def build_candidate_pool(
         ordered.setdefault(trimmed, None)
 
     kept = list(ordered)
-    edges = stopwords | EDGE_WORDS
+    edges = (stopwords | EDGE_WORDS) - WEAK_EDGE_WORDS
     redundant = {
         short
         for short in kept
         for long in kept
         if short != long
-        and f" {short} " in f" {long} "
-        and not _has_interior_filler(long, edges)
+        and _qualifies(short, long)
+        and not any(part in edges for part in long.split())
     }
     return [term for term in kept if term not in redundant][:cap]

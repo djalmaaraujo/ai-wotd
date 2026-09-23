@@ -88,6 +88,15 @@ def test_tokenize_keeps_version_numbers():
     assert "swe-bench" in toks
 
 
+def test_tokenize_splits_domains_instead_of_swallowing_them():
+    """The dot is for versions; a domain must not become one token."""
+    toks = tokenize("Read claude.com and simonwillison.net today.Tomorrow too")
+    assert "claude.com" not in toks
+    assert "claude" in toks and "com" in toks
+    assert "simonwillison.net" not in toks
+    assert "today.tomorrow" not in toks
+
+
 def test_trim_edges_drops_leading_and_trailing_filler():
     assert trim_edges("the gemini") == "gemini"
     assert trim_edges("ai deepseek-v4 preview") == "deepseek-v4 preview"
@@ -95,11 +104,22 @@ def test_trim_edges_drops_leading_and_trailing_filler():
     assert trim_edges("of the") == ""
 
 
+def test_trim_edges_keeps_ai_when_stripping_it_leaves_one_word():
+    """'ai safety' is a term; 'safety' is not the same thing."""
+    assert trim_edges("ai safety") == "ai safety"
+    assert trim_edges("ai act") == "ai act"
+    assert trim_edges("new relic") == "new relic"
+
+
 def test_title_terms_needs_two_titles():
     titles = ["Claude Tag ships today", "Claude Tag lands in Slack", "Gemini ships"]
     found = title_terms(titles)
     assert "claude tag" in found
     assert "gemini" not in found  # only one title mentions it
+
+
+def test_title_terms_counts_headlines_not_repetitions():
+    assert title_terms(["Sora 2 beats Sora 1 in the Sora era"]) == []
 
 
 def test_build_candidate_pool_merges_trims_and_drops_subphrases():
@@ -118,6 +138,12 @@ def test_build_candidate_pool_keeps_a_name_hidden_inside_a_fragment():
     pool = build_candidate_pool(["access to fable", "fable"], [])
     assert "fable" in pool
     assert "access to fable" in pool
+
+
+def test_build_candidate_pool_keeps_a_name_a_noisy_bigram_contains():
+    """'adoption claude' must not delete 'claude' before the judge sees it."""
+    pool = build_candidate_pool(["adoption claude", "claude"], [])
+    assert "claude" in pool
 
 
 def test_build_candidate_pool_respects_the_cap():
