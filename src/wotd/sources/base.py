@@ -35,6 +35,10 @@ class Cursor:
         }
 
 
+class IncompleteFetch(RuntimeError):
+    """The adapter could not read the whole feed, so the cursor must not move."""
+
+
 class SourceAdapter(Protocol):
     type: ClassVar[str]
 
@@ -51,4 +55,4 @@ class SourceAdapter(Protocol):
         ...
 
 
-__all__ = ["Cursor", "SourceAdapter", "RawItem", "RobotsCache"]
+__all__ = ["Cursor", "IncompleteFetch", "SourceAdapter", "RawItem", "RobotsCache"]

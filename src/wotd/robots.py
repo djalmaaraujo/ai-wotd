@@ -24,6 +24,13 @@ ALLOW = "allow"
 DENY = "deny"
 UNKNOWN = "unknown"
 
+DEFAULT_PORTS = {"http": 80, "https": 443}
+
+TRANSIENT_ERRORS = (httpx.TimeoutException, httpx.NetworkError, httpx.ProtocolError)
+
+REFUSE_ALL = RobotFileParser()
+REFUSE_ALL.parse(["User-agent: *", "Disallow: /"])
+
 _NOINDEX = {"noindex", "none"}
 
 
@@ -36,13 +43,14 @@ def blocked_by_header(headers) -> bool:
     for key, value in dict(headers).items():
         if key.lower() != "x-robots-tag":
             continue
+        agent = "*"
         for directive in str(value).split(","):
             directive = directive.strip().lower()
-            agent, _, scoped = directive.partition(":")
+            name, _, scoped = directive.partition(":")
             if scoped:
-                if agent.strip() in ("*", "ai-wotd") and scoped.strip() in _NOINDEX:
-                    return True
-            elif directive in _NOINDEX:
+                agent = name.strip()
+                directive = scoped.strip()
+            if directive in _NOINDEX and agent in ("*", "ai-wotd"):
                 return True
     return False
 
@@ -66,6 +74,8 @@ class RobotsCache:
             return None
         if not host or not host.strip():
             return None
+        if port == DEFAULT_PORTS.get(parts.scheme):
+            port = None
         return (parts.scheme, host.lower(), port)
 
     def _parser_for(
@@ -75,15 +85,20 @@ class RobotsCache:
             return self._origins[origin]
 
         scheme, host, port = origin
-        netloc = f"{host}:{port}" if port else host
+        literal = f"[{host}]" if ":" in host else host
+        netloc = f"{literal}:{port}" if port else literal
         url = f"{scheme}://{netloc}/robots.txt"
         parser: RobotFileParser | None = RobotFileParser()
         try:
             with httpx.Client(timeout=self.timeout, follow_redirects=True) as client:
                 response = client.get(url, headers={"User-Agent": self.user_agent})
-        except Exception as exc:
+        except TRANSIENT_ERRORS as exc:
             logger.warning("robots: %s unreachable (%s); the host stays unread", url, exc)
             parser = None
+        except Exception as exc:
+            # A URL httpx cannot even build is not coming back next run.
+            logger.warning("robots: %s is not fetchable (%s); refusing the host", url, exc)
+            parser = REFUSE_ALL
         else:
             if response.status_code == 200:
                 parser.parse(response.text.splitlines())
@@ -101,7 +116,7 @@ class RobotsCache:
         return parser
 
     def status(self, url: str) -> str:
-        """`allow`, `deny`, or `unknown` when the rules could not be read."""
+        """`allow`, `deny`, or `unknown` when the rules may be readable later."""
         origin = self._origin(url)
         if origin is None:
             return DENY

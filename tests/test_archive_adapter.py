@@ -95,6 +95,7 @@ def test_archive_adapter_yields_raw_items(monkeypatch):
             super().__init__(*a, **kw)
 
     monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
 
     source = {
         "id": "codenewsletter",
@@ -130,6 +131,8 @@ def test_archive_adapter_prefers_sitemap_over_html(monkeypatch):
     issue_html = "<html><body><article>MCP agents context window.</article></body></html>"
 
     def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/robots.txt":
+            return httpx.Response(200, text="User-agent: *\nDisallow:\n")
         if request.url.path == "/sitemap.xml":
             return httpx.Response(
                 200,
@@ -149,6 +152,7 @@ def test_archive_adapter_prefers_sitemap_over_html(monkeypatch):
             super().__init__(*a, **kw)
 
     monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
 
     source = {
         "id": "codenewsletter",
@@ -171,6 +175,8 @@ def test_archive_adapter_falls_back_to_html_when_sitemap_empty(monkeypatch):
     issue_html = "<html><body><p>some mcp body</p></body></html>"
 
     def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/robots.txt":
+            return httpx.Response(200, text="User-agent: *\nDisallow:\n")
         if request.url.path == "/sitemap.xml":
             return httpx.Response(404)
         if request.url.path == "/archive":
@@ -187,6 +193,7 @@ def test_archive_adapter_falls_back_to_html_when_sitemap_empty(monkeypatch):
             super().__init__(*a, **kw)
 
     monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
 
     source = {
         "id": "codenewsletter",
@@ -218,6 +225,7 @@ def test_archive_adapter_respects_cursor(monkeypatch):
             super().__init__(*a, **kw)
 
     monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
 
     source = {
         "id": "codenewsletter",
@@ -233,3 +241,59 @@ def test_archive_adapter_respects_cursor(monkeypatch):
     # Only Issue 42 comes before Issue 41 in the HTML order; loop stops there.
     assert len(items) == 1
     assert "issue-42" in items[0].url_canonical
+
+
+def test_archive_skips_an_issue_robots_disallows(monkeypatch):
+    """Three publisher GETs live in this adapter; all of them are gated now."""
+    import httpx
+
+    from wotd.sources.archive import ArchiveAdapter
+    from wotd.sources.base import Cursor
+
+    sitemap = (
+        '<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+        "<url><loc>https://news.example/p/open</loc></url>"
+        "<url><loc>https://news.example/p/closed</loc></url>"
+        "</urlset>"
+    )
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        url = str(request.url)
+        if url.endswith("/robots.txt"):
+            return httpx.Response(200, text="User-agent: *\nDisallow: /p/closed\n")
+        if "sitemap" in url:
+            return httpx.Response(200, content=sitemap.encode())
+        return httpx.Response(
+            200,
+            text="<html><body><h1>Issue</h1><p>plenty of body text here</p></body></html>",
+            headers={"content-type": "text/html"},
+        )
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    monkeypatch.setattr("wotd.sources.archive.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
+
+    items = list(
+        ArchiveAdapter().fetch(
+            {
+                "id": "news",
+                "type": "archive",
+                "url": "https://news.example/",
+                "sitemap_url": "https://news.example/sitemap.xml",
+                "issue_path_prefix": "/p/",
+            },
+            Cursor(),
+            user_agent="ai-wotd/1.0",
+            max_items=10,
+        )
+    )
+    urls = [i.url for i in items]
+    assert "https://news.example/p/open" in urls
+    assert "https://news.example/p/closed" not in urls

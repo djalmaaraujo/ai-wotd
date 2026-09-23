@@ -21,7 +21,8 @@ from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
 from ..linkfollow import canonicalize
-from .base import Cursor, RawItem
+from ..robots import ALLOW, UNKNOWN, RobotsCache, blocked_by_header
+from .base import Cursor, IncompleteFetch, RawItem
 from .rss import extract_article_text
 
 logger = logging.getLogger(__name__)
@@ -31,11 +32,20 @@ DEFAULT_ISSUE_PATH_PREFIX = "/p/"  # Beehiiv / Substack convention
 SITEMAP_MAX_DEPTH = 3
 
 
+def _permitted(robots: RobotsCache, url: str, what: str) -> bool:
+    status = robots.status(url)
+    if status == ALLOW:
+        return True
+    logger.info("archive: robots says %s for the %s at %s", status, what, url)
+    return False
+
+
 def _fetch_sitemap_urls(
     sitemap_url: str,
     issue_path_prefix: str,
     *,
     user_agent: str,
+    robots: RobotsCache | None = None,
     _depth: int = 0,
 ) -> list[str]:
     """Recursively collect issue URLs from a sitemap.xml.
@@ -45,6 +55,9 @@ def _fetch_sitemap_urls(
     newest-first for Beehiiv/Substack/Ghost).
     """
     if _depth >= SITEMAP_MAX_DEPTH:
+        return []
+    robots = robots or RobotsCache(user_agent)
+    if not _permitted(robots, sitemap_url, "sitemap"):
         return []
     try:
         with httpx.Client(timeout=15.0, follow_redirects=True) as client:
@@ -70,6 +83,7 @@ def _fetch_sitemap_urls(
                     loc.text.strip(),
                     issue_path_prefix,
                     user_agent=user_agent,
+                    robots=robots,
                     _depth=_depth + 1,
                 )
             )
@@ -164,8 +178,9 @@ class ArchiveAdapter:
         user_agent: str,
         max_items: int,
         seen_urls: frozenset[str] = frozenset(),
-        robots=None,
+        robots: RobotsCache | None = None,
     ) -> Iterable[RawItem]:
+        robots = robots or RobotsCache(user_agent)
         archive_url = source.get("archive_url") or source.get("url")
         if not archive_url:
             return
@@ -183,7 +198,7 @@ class ArchiveAdapter:
         issue_urls: list[str] = []
         if sitemap_url:
             sitemap_urls = _fetch_sitemap_urls(
-                sitemap_url, issue_path_prefix, user_agent=user_agent
+                sitemap_url, issue_path_prefix, user_agent=user_agent, robots=robots
             )
             # Dedupe preserving order.
             seen_canon: set[str] = set()
@@ -202,6 +217,8 @@ class ArchiveAdapter:
 
         # 2. Fallback to HTML scraping of the archive page.
         if not issue_urls:
+            if not _permitted(robots, archive_url, "archive index"):
+                return
             try:
                 with httpx.Client(timeout=15.0, follow_redirects=True) as client:
                     resp = client.get(
@@ -241,13 +258,22 @@ class ArchiveAdapter:
             if cursor.last_guid and canonical == cursor.last_guid:
                 break  # caught up with last run's most-recent
 
+            permission = robots.status(url)
+            if permission == UNKNOWN:
+                raise IncompleteFetch(
+                    f"cannot read robots.txt for {url}; leaving the cursor where it is"
+                )
+            if permission != ALLOW:
+                logger.info("archive: robots.txt disallows the issue at %s", url)
+                continue
+
             try:
                 with httpx.Client(timeout=15.0, follow_redirects=True) as client:
                     issue_resp = client.get(url, headers={"User-Agent": user_agent})
             except Exception as exc:
                 logger.info("archive: issue fetch failed for %s: %s", url, exc)
                 continue
-            if issue_resp.status_code != 200:
+            if issue_resp.status_code != 200 or blocked_by_header(issue_resp.headers):
                 continue
             ctype = (issue_resp.headers.get("content-type") or "").lower()
             if not ("html" in ctype or "xml" in ctype or ctype.startswith("text/")):
