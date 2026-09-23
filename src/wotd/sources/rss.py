@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
 from ..linkfollow import canonicalize
-from ..robots import RobotsCache, blocked_by_header
+from ..robots import ALLOW, UNKNOWN, RobotsCache, blocked_by_header
 from .base import Cursor, RawItem
 
 logger = logging.getLogger(__name__)
@@ -81,11 +81,12 @@ class RssAdapter:
         user_agent: str,
         max_items: int,
         seen_urls: frozenset[str] = frozenset(),
+        robots: RobotsCache | None = None,
     ) -> Iterable[RawItem]:
         feed_url = source.get("feed")
         if not feed_url:
             return
-        robots = RobotsCache(user_agent)
+        robots = robots or RobotsCache(user_agent)
         headers = {"User-Agent": user_agent}
         if cursor.etag:
             headers["If-None-Match"] = cursor.etag
@@ -100,6 +101,14 @@ class RssAdapter:
                 return
             resp.raise_for_status()
             parsed = feedparser.parse(resp.content)
+            if not parsed.entries:
+                # A bot challenge answers 200 or 202 with a page, not a feed,
+                # which otherwise looks exactly like "nothing new today".
+                logger.warning(
+                    "rss: %s returned %s with no entries; the feed may be blocking us",
+                    source.get("id"),
+                    resp.status_code,
+                )
         except Exception as exc:
             logger.warning("rss: fetch failed for %s: %s", source.get("id"), exc)
             return
@@ -134,8 +143,17 @@ class RssAdapter:
             # Try to fetch the full page; fall back to inline content.
             body_text = ""
             body_html: str | None = None
+            permission = robots.status(url)
+            if permission == UNKNOWN:
+                logger.warning(
+                    "rss: cannot read robots for %s; stopping %s so the cursor holds",
+                    url,
+                    source.get("id"),
+                )
+                return
+
             try:
-                if robots.allowed(url):
+                if permission == ALLOW:
                     with httpx.Client(timeout=15.0, follow_redirects=True) as client:
                         article_resp = client.get(url, headers={"User-Agent": user_agent})
                 else:

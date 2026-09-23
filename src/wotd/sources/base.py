@@ -6,6 +6,7 @@ from dataclasses import dataclass, field
 from typing import ClassVar, Iterable, Protocol
 
 from ..corpus import RawItem  # re-exported
+from ..robots import RobotsCache
 
 
 @dataclass
@@ -45,8 +46,9 @@ class SourceAdapter(Protocol):
         user_agent: str,
         max_items: int,
         seen_urls: frozenset[str] = frozenset(),
+        robots: "RobotsCache | None" = None,
     ) -> Iterable[RawItem]:
         ...
 
 
-__all__ = ["Cursor", "SourceAdapter", "RawItem"]
+__all__ = ["Cursor", "SourceAdapter", "RawItem", "RobotsCache"]

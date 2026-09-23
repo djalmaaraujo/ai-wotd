@@ -94,3 +94,35 @@ def test_rss_does_not_download_a_body_robots_disallows(monkeypatch):
     )
     assert len(items) == 1
     assert "body text" not in (items[0].content_text or "")
+
+
+def test_rss_warns_when_a_feed_answers_with_no_entries(monkeypatch, caplog):
+    """A bot challenge returns a page, which otherwise reads as 'nothing new'."""
+    import httpx
+
+    from wotd.sources.base import Cursor
+    from wotd.sources.rss import RssAdapter
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(202, text="<html><body>checking your browser</body></html>")
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    monkeypatch.setattr("wotd.sources.rss.httpx.Client", FakeClient)
+
+    with caplog.at_level("WARNING"):
+        items = list(
+            RssAdapter().fetch(
+                {"id": "blocked", "feed": "https://blocked.example/feed"},
+                Cursor(),
+                user_agent="ai-wotd/1.0",
+                max_items=5,
+            )
+        )
+    assert items == []
+    assert "may be blocking us" in caplog.text

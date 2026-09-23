@@ -164,6 +164,7 @@ class ArchiveAdapter:
         user_agent: str,
         max_items: int,
         seen_urls: frozenset[str] = frozenset(),
+        robots=None,
     ) -> Iterable[RawItem]:
         archive_url = source.get("archive_url") or source.get("url")
         if not archive_url:
