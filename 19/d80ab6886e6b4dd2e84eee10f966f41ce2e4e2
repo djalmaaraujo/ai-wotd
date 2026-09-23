@@ -1,0 +1,23 @@
+.github/workflows/daily.yml
+  s_a661131bbb4100::t_2c403d8a7c15dc 81-85
+.github/workflows/reprocess.yml
+  s_a661131bbb4100::t_2c403d8a7c15dc 6-10,59
+.github/workflows/rebuild.yml
+  s_a661131bbb4100::t_2c403d8a7c15dc 11-16,28,58-60,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "19d80ab6886e6b4dd2e84eee10f966f41ce2e4e2",
+  "prompts": {},
+  "sessions": {
+    "s_a661131bbb4100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "886998ae-2163-4a3a-bae5-7c861f6af748",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
