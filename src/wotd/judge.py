@@ -30,6 +30,8 @@ MAX_RECENT_TITLES = 60
 
 SPECIFICITY_MIN = 1.5
 FORM_MIN = 0.8
+DOMINANCE_MIN = 1.5
+EVENT_MIN = 0.5
 NOVELTY_WEIGHT = 0.5
 DOMINANCE_LEVELS = 3.0
 TIE_MARGIN = 0.05
@@ -234,16 +236,24 @@ def rank(
     *,
     specificity_min: float = SPECIFICITY_MIN,
     form_min: float = FORM_MIN,
+    dominance_min: float = DOMINANCE_MIN,
+    event_min: float = EVENT_MIN,
 ) -> list[str]:
     """Survivors of the gate, most newsworthy first.
 
-    Terms within `TIE_MARGIN` of each other are ordered by how fully they name
-    the thing, so "claude tag" wins over "claude" on the day it launched.
+    A word has to be a real AI term (`specificity`), a usable string (`form`),
+    something today's articles actually cover (`dominance`) and something that
+    happened (`event`). Terms within `TIE_MARGIN` of each other are ordered by
+    how fully they name the thing, so "claude tag" wins over "claude" on the day
+    it launched.
     """
     survivors = [
         term
         for term, v in verdicts.items()
-        if v.specificity >= specificity_min and v.form >= form_min
+        if v.specificity >= specificity_min
+        and v.form >= form_min
+        and v.dominance >= dominance_min
+        and v.event >= event_min
     ]
     survivors.sort(
         key=lambda term: (

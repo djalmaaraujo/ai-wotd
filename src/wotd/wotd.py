@@ -1,15 +1,26 @@
-"""Deterministic trending-score WOTD picker."""
+"""Trending-score WOTD picker, gated by the TypeSafe judge."""
 
 from __future__ import annotations
 
 import json
+import logging
 import math
+import os
 from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
 from typing import Iterable
 
-from .terms import load_allowlist
+from .judge import JudgeError, judge_candidates, rank
+from .terms import build_candidate_pool, load_allowlist
+
+logger = logging.getLogger(__name__)
+
+BODY_CANDIDATES = 40
+RECENT_DAYS = 7
+MAX_RECENT_PER_DAY = 12
+MAX_TITLE_CHARS = 110
+MAX_SIGNALS = 15
 
 
 @dataclass
@@ -115,69 +126,151 @@ def score_terms(
     return candidates
 
 
+def _day_articles(articles_dir: Path | None, target: date) -> list[dict]:
+    if articles_dir is None:
+        return []
+    day_dir = articles_dir / target.isoformat()
+    if not day_dir.exists():
+        return []
+    out = []
+    for path in sorted(day_dir.glob("*.json")):
+        with open(path, "r", encoding="utf-8") as f:
+            out.append(json.load(f))
+    return out
+
+
+def _recent_titles(
+    articles_dir: Path | None, target: date, days: int = RECENT_DAYS
+) -> list[str]:
+    titles: list[str] = []
+    for offset in range(1, days + 1):
+        for article in _day_articles(articles_dir, target - timedelta(days=offset))[
+            :MAX_RECENT_PER_DAY
+        ]:
+            title = article.get("title")
+            if title:
+                titles.append(title[:MAX_TITLE_CHARS])
+    return titles
+
+
+def _evidence_for(term: str, today_stats: dict, articles: list[dict]) -> list[str]:
+    """Article ids that back a word, whether or not it came from the body stats."""
+    from_stats = today_stats.get("terms", {}).get(term, {}).get("articles", [])
+    if from_stats:
+        return list(dict.fromkeys(from_stats))[:10]
+    needle = term.lower()
+    matched = [
+        a["article_id"]
+        for a in articles
+        if needle in ((a.get("title") or "") + " " + (a.get("snippet") or "")).lower()
+    ]
+    return matched[:10]
+
+
+def _judge_payload(
+    candidates: list[Candidate],
+    today_stats: dict,
+    articles: list[dict],
+    recent: list[str],
+    target: date,
+    judge_fn,
+) -> tuple[dict, list[str]]:
+    """Run the judge over the day's candidate pool. Never raises."""
+    pool = build_candidate_pool(
+        [c.term for c in candidates[:BODY_CANDIDATES]],
+        [a.get("title") for a in articles],
+    )
+    try:
+        judgment = judge_fn(
+            terms=pool,
+            articles=articles,
+            recent_titles=recent,
+            date=target.isoformat(),
+        )
+    except JudgeError as exc:
+        logger.error("wotd: the judge failed, falling back to the scorer: %s", exc)
+        return {"status": "error", "error": str(exc)}, []
+
+    survivors = rank(judgment.verdicts)
+    meta = {
+        "status": "ok",
+        "model": judgment.model,
+        "input_tokens": judgment.input_tokens,
+        "pool_size": len(pool),
+        "survivors": survivors[:10],
+        "signals": {
+            term: judgment.verdicts[term].to_dict() for term in survivors[:MAX_SIGNALS]
+        },
+    }
+    return meta, survivors
+
+
 def pick_wotd(
     stats_dir: Path,
     wotd_dir: Path,
     target: date,
     baseline_days: int = 30,
+    *,
+    articles_dir: Path | None = None,
+    mode: str | None = None,
+    judge_fn=judge_candidates,
 ) -> dict | None:
     """Pick the WOTD for `target` and persist `wotd/<target>.json`.
 
-    Returns the written payload, or None if no stats exist.
+    The scorer nominates, the judge filters. In `shadow` mode the judge runs and
+    is recorded but the scorer's pick still ships. Returns the written payload,
+    or None if no stats exist.
     """
+    mode = (mode or os.environ.get("WOTD_JUDGE") or "on").lower()
     today_stats = _read_stats(stats_dir, target)
     if not today_stats:
         return None
     baseline_per_term, ever_present = _baseline(stats_dir, target, baseline_days)
     candidates = score_terms(today_stats, baseline_per_term, ever_present)
 
-    if not candidates:
-        # Still write a skeleton so the day is marked as processed.
-        payload = {
-            "date": target.isoformat(),
-            "word": None,
-            "score": 0.0,
-            "candidates": [],
-            "evidence_article_ids": [],
-        }
-    else:
-        top10 = [c.to_dict() for c in candidates[:10]]
-        # Deterministic top — always the fallback.
+    payload = {
+        "date": target.isoformat(),
+        "word": None,
+        "score": 0.0,
+        "candidates": [c.to_dict() for c in candidates[:10]],
+        "evidence_article_ids": [],
+        "judge": {"status": "off"},
+    }
+
+    if candidates:
         det_top = candidates[0]
         chosen_term = det_top.term
-        reranked: list[str] | None = None
-        rerank_meta: dict | None = None
+        articles: list[dict] = []
 
-        # Optional: ask Groq to rerank by AI-domain relevance. One call
-        # per day, gated on GROQ_API_KEY. If it succeeds, the LLM's top
-        # term becomes the WOTD; if not, we keep the deterministic pick.
-        try:
-            from .ranker import rerank_candidates, DEFAULT_MODEL as _GROQ_MODEL
-
-            reranked = rerank_candidates(
-                [c.to_dict() for c in candidates[:40]]
+        articles = _day_articles(articles_dir, target)
+        if mode in ("on", "shadow") and not articles:
+            payload["judge"] = {"status": "skipped", "reason": "no_articles_on_disk"}
+            logger.warning(
+                "wotd: %s has no article derivatives; the judge cannot read the day",
+                target,
             )
-            if reranked:
-                chosen_term = reranked[0]
-                rerank_meta = {
-                    "by": "groq",
-                    "model": _GROQ_MODEL,
-                    "top": reranked,
-                }
-        except Exception:  # noqa: BLE001 — reranker must never block WOTD
-            reranked = None
+        elif mode in ("on", "shadow"):
+            recent = _recent_titles(articles_dir, target)
+            meta, survivors = _judge_payload(
+                candidates, today_stats, articles, recent, target, judge_fn
+            )
+            judged_term = survivors[0] if survivors else None
+            if mode == "shadow":
+                meta["status"] = "shadow" if meta["status"] == "ok" else meta["status"]
+                meta["pick"] = judged_term
+            elif meta["status"] == "ok":
+                chosen_term = judged_term
+            payload["judge"] = meta
 
-        chosen = next((c for c in candidates if c.term == chosen_term), det_top)
-
-        payload = {
-            "date": target.isoformat(),
-            "word": chosen.term,
-            "score": round(chosen.score, 6),
-            "candidates": top10,
-            "evidence_article_ids": list(dict.fromkeys(chosen.articles))[:10],
-        }
-        if rerank_meta:
-            payload["rerank"] = rerank_meta
+        if chosen_term is None:
+            payload["status"] = "quiet_day"
+        else:
+            scored = next((c for c in candidates if c.term == chosen_term), None)
+            payload["word"] = chosen_term
+            payload["score"] = round(scored.score, 6) if scored else 0.0
+            payload["evidence_article_ids"] = _evidence_for(
+                chosen_term, today_stats, articles
+            )
 
     wotd_dir.mkdir(parents=True, exist_ok=True)
     out = wotd_dir / f"{target.isoformat()}.json"

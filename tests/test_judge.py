@@ -107,6 +107,12 @@ def test_rank_returns_empty_when_nothing_survives():
     assert rank(verdicts) == []
 
 
+def test_rank_drops_a_real_term_the_day_does_not_cover():
+    """A good AI word nobody wrote about today is not the word of the day."""
+    verdicts = {"baseline": Verdict(0.85, 1.51, 0.17, 0.14, 0.02)}
+    assert rank(verdicts) == []
+
+
 def test_judge_raises_without_a_key(monkeypatch):
     monkeypatch.delenv("TYPESAFE_API_KEY", raising=False)
     with pytest.raises(JudgeError, match="TYPESAFE_API_KEY"):
