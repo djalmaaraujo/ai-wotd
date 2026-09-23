@@ -10,7 +10,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 5,
-      "score": 839.934063,
+      "score": 830.052486,
       "term": "genome",
       "tf_today": 123
     },
@@ -22,14 +22,15 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "avg_tf_baseline": 1.5,
-      "df_today": 8,
-      "score": 424.792536,
+      "df_today": 9,
+      "score": 445.300815,
       "term": "opus",
-      "tf_today": 152
+      "tf_today": 154
     },
     {
       "articles": [
@@ -38,7 +39,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 391.377676,
+      "score": 389.141232,
       "term": "speaker",
       "tf_today": 77
     },
@@ -51,7 +52,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 4,
-      "score": 370.012951,
+      "score": 366.312821,
       "term": "dna",
       "tf_today": 66
     },
@@ -67,7 +68,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 7,
-      "score": 366.454982,
+      "score": 361.054592,
       "term": "fable",
       "tf_today": 57
     },
@@ -78,7 +79,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 360.398593,
+      "score": 358.339173,
       "term": "diarization",
       "tf_today": 72
     },
@@ -94,9 +95,27 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 7,
-      "score": 334.742245,
+      "score": 329.809201,
       "term": "show",
       "tf_today": 53
+    },
+    {
+      "articles": [
+        "codenewsletter--2ae99efa",
+        "latent-space--0505aae3",
+        "latent-space--7722f4c1",
+        "latent-space--90379a15",
+        "latent-space--c11a70ce",
+        "latent-space--e310d17b",
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 304.623678,
+      "term": "jev",
+      "tf_today": 46
     },
     {
       "articles": [
@@ -113,7 +132,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 10,
-      "score": 307.070774,
+      "score": 301.487669,
       "term": "science",
       "tf_today": 44
     },
@@ -130,26 +149,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 8,
-      "score": 302.204585,
+      "score": 297.369312,
       "term": "tokens",
       "tf_today": 34
-    },
-    {
-      "articles": [
-        "codenewsletter--2ae99efa",
-        "latent-space--0505aae3",
-        "latent-space--7722f4c1",
-        "latent-space--90379a15",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b",
-        "simonwillison--5bd2fa22",
-        "simonwillison--d1010689"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 8,
-      "score": 287.148105,
-      "term": "jev",
-      "tf_today": 45
     }
   ],
   "date": "2026-09-23",
@@ -160,128 +162,137 @@
     "latent-space--7722f4c1",
     "latent-space--87805e1c",
     "latent-space--90379a15",
+    "simonwillison--548b7500",
     "simonwillison--5bd2fa22",
     "simonwillison--d1010689"
   ],
   "judge": {
-    "input_tokens": 23944,
+    "input_tokens": 24471,
     "model": "jev-1.13.0",
-    "pool_size": 49,
+    "pool_size": 50,
     "signals": {
       "ainews": {
-        "dominance": 2.17,
+        "dominance": 2.11,
         "event": 0.57,
-        "form": 0.67,
-        "novelty": 0.68,
-        "specificity": 1.32
+        "form": 0.63,
+        "novelty": 0.7,
+        "specificity": 1.35
       },
       "astra": {
         "dominance": 1.89,
-        "event": 0.81,
+        "event": 0.78,
         "form": 0.82,
-        "novelty": 0.83,
+        "novelty": 0.84,
         "specificity": 1.92
       },
-      "diarization": {
-        "dominance": 1.65,
-        "event": 0.73,
-        "form": 0.88,
-        "novelty": 0.76,
-        "specificity": 1.99
-      },
-      "latent space": {
-        "dominance": 1.74,
-        "event": 0.13,
-        "form": 0.83,
-        "novelty": 0.7,
-        "specificity": 1.75
-      },
-      "lower": {
-        "dominance": 2.94,
-        "event": 0.83,
-        "form": 0.38,
-        "novelty": 0.26,
-        "specificity": 0.11
-      },
-      "model": {
-        "dominance": 2.97,
+      "cheaper": {
+        "dominance": 2.98,
         "event": 0.92,
-        "form": 0.88,
-        "novelty": 0.49,
-        "specificity": 1.24
+        "form": 0.47,
+        "novelty": 0.73,
+        "specificity": 0.16
       },
-      "nemotron": {
-        "dominance": 1.66,
-        "event": 0.7,
-        "form": 0.92,
+      "diarization": {
+        "dominance": 1.58,
+        "event": 0.71,
+        "form": 0.89,
         "novelty": 0.77,
         "specificity": 1.99
       },
-      "nvidia": {
-        "dominance": 1.94,
-        "event": 0.67,
+      "gemini": {
+        "dominance": 2.14,
+        "event": 0.93,
+        "form": 0.93,
+        "novelty": 0.73,
+        "specificity": 1.98
+      },
+      "lower": {
+        "dominance": 2.91,
+        "event": 0.82,
+        "form": 0.39,
+        "novelty": 0.22,
+        "specificity": 0.13
+      },
+      "model": {
+        "dominance": 2.97,
+        "event": 0.93,
+        "form": 0.87,
+        "novelty": 0.48,
+        "specificity": 1.25
+      },
+      "nemotron": {
+        "dominance": 1.56,
+        "event": 0.65,
         "form": 0.92,
-        "novelty": 0.72,
+        "novelty": 0.82,
+        "specificity": 1.99
+      },
+      "nvidia": {
+        "dominance": 1.95,
+        "event": 0.63,
+        "form": 0.92,
+        "novelty": 0.66,
         "specificity": 1.18
       },
       "openai": {
-        "dominance": 2.51,
-        "event": 0.88,
+        "dominance": 2.41,
+        "event": 0.87,
         "form": 0.84,
-        "novelty": 0.7,
+        "novelty": 0.71,
         "specificity": 1.03
       },
       "opus": {
-        "dominance": 2.93,
+        "dominance": 2.85,
         "event": 0.94,
         "form": 0.87,
-        "novelty": 0.82,
+        "novelty": 0.85,
         "specificity": 1.95
       },
       "price": {
         "dominance": 2.98,
         "event": 0.9,
-        "form": 0.78,
-        "novelty": 0.77,
-        "specificity": 0.37
+        "form": 0.76,
+        "novelty": 0.75,
+        "specificity": 0.43
       },
       "released": {
-        "dominance": 2.91,
-        "event": 0.91,
-        "form": 0.53,
-        "novelty": 0.54,
-        "specificity": 0.74
-      },
-      "robotics": {
-        "dominance": 1.62,
-        "event": 0.53,
-        "form": 0.93,
-        "novelty": 0.69,
-        "specificity": 0.87
+        "dominance": 2.93,
+        "event": 0.92,
+        "form": 0.54,
+        "novelty": 0.58,
+        "specificity": 0.81
       },
       "speech": {
-        "dominance": 2.08,
-        "event": 0.92,
-        "form": 0.84,
-        "novelty": 0.64,
-        "specificity": 0.98
+        "dominance": 2.45,
+        "event": 0.93,
+        "form": 0.83,
+        "novelty": 0.76,
+        "specificity": 0.89
       },
       "technology": {
-        "dominance": 2.53,
+        "dominance": 2.5,
         "event": 0.95,
-        "form": 0.86,
+        "form": 0.85,
         "novelty": 0.24,
-        "specificity": 0.25
+        "specificity": 0.29
+      },
+      "tts": {
+        "dominance": 2.24,
+        "event": 0.94,
+        "form": 0.63,
+        "novelty": 0.82,
+        "specificity": 1.96
       }
     },
     "status": "ok",
     "survivors": [
       "opus",
+      "gemini",
       "astra",
       "nemotron",
       "diarization"
     ]
   },
-  "score": 424.792536,
+  "score": 445.300815,
   "word": "opus"
 }

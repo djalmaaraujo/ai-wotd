@@ -22,11 +22,12 @@
     "openai-blog--33d137b5",
     "openai-blog--bfe362a2",
     "openai-blog--f7a61178",
+    "simonwillison--548b7500",
     "simonwillison--5bd2fa22",
     "simonwillison--d1010689"
   ],
   "date": "2026-09-23",
-  "document_count": 24,
+  "document_count": 25,
   "terms": {
     "a100": {
       "articles": [
@@ -59,14 +60,16 @@
         "latent-space--0fc5da0a",
         "latent-space--4969f050",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 6,
-      "tf": 7
+      "df": 7,
+      "tf": 8
     },
     "ability to": {
       "articles": [
@@ -75,14 +78,16 @@
         "latent-space--0fc5da0a",
         "latent-space--4969f050",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 6,
-      "tf": 6
+      "df": 7,
+      "tf": 7
     },
     "able": {
       "articles": [
@@ -907,13 +912,15 @@
     "advantage": {
       "articles": [
         "huggingface-blog--56cb74c6",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 3
+      "df": 3,
+      "tf": 4
     },
     "advantages": {
       "articles": [
@@ -1816,14 +1823,39 @@
       "articles": [
         "latent-space--0505aae3",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
+    },
+    "aka decision": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "aka decision models": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "al": {
       "articles": [
@@ -2988,26 +3020,28 @@
     "and chatgpt": {
       "articles": [
         "latent-space--7722f4c1",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "and chatgpt work": {
       "articles": [
         "latent-space--7722f4c1",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "and cheaper": {
       "articles": [
@@ -3332,6 +3366,18 @@
       "df": 3,
       "tf": 3
     },
+    "and explore": {
+      "articles": [
+        "google-deepmind--2f1c9b52",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
     "and flash": {
       "articles": [
         "google-deepmind--cc2ee9eb",
@@ -3379,6 +3425,17 @@
       ],
       "df": 2,
       "tf": 4
+    },
+    "and generate": {
+      "articles": [
+        "latent-space--0505aae3",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
     },
     "and google": {
       "articles": [
@@ -4595,17 +4652,19 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Code Newsletter",
         "Google DeepMind Blog",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 9,
-      "tf": 48
+      "df": 10,
+      "tf": 52
     },
     "api and": {
       "articles": [
@@ -5395,6 +5454,30 @@
       "df": 2,
       "tf": 3
     },
+    "articles claude": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "articles claude opus": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "artificial analysis": {
       "articles": [
         "latent-space--7722f4c1",
@@ -5876,6 +5959,7 @@
         "latent-space--e310d17b",
         "openai-blog--1a253622",
         "openai-blog--33d137b5",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -5885,8 +5969,32 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 9,
-      "tf": 46
+      "df": 10,
+      "tf": 48
+    },
+    "astra and": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "astra and chatgpt": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "astra at": {
       "articles": [
@@ -6245,27 +6353,31 @@
         "huggingface-blog--69b35cc4",
         "latent-space--87805e1c",
         "latent-space--c11a70ce",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
         "Google DeepMind Blog",
         "Hugging Face Blog",
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 7,
-      "tf": 55
+      "df": 8,
+      "tf": 59
     },
     "audio and": {
       "articles": [
         "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
+        "huggingface-blog--69b35cc4",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 4
+      "df": 3,
+      "tf": 5
     },
     "aug": {
       "articles": [
@@ -7110,14 +7222,15 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 7
+      "df": 6,
+      "tf": 8
     },
     "beating": {
       "articles": [
@@ -8737,6 +8850,7 @@
     "briefing": {
       "articles": [
         "aibreakfast--01388bbd",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -8744,8 +8858,32 @@
         "AI Breakfast",
         "Simon Willison"
       ],
+      "df": 4,
+      "tf": 5
+    },
+    "briefing sponsor": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
       "df": 3,
-      "tf": 4
+      "tf": 3
+    },
+    "briefing sponsor me": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "bring": {
       "articles": [
@@ -8868,13 +9006,15 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
     },
     "brush": {
       "articles": [
@@ -9298,6 +9438,54 @@
       ],
       "df": 3,
       "tf": 4
+    },
+    "by simon": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "by simon willison": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "by teleport": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "by teleport see": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "cache": {
       "articles": [
@@ -10604,14 +10792,16 @@
         "google-deepmind--cc2ee9eb",
         "latent-space--0505aae3",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 5
+      "df": 5,
+      "tf": 6
     },
     "characters actg": {
       "articles": [
@@ -10721,6 +10911,7 @@
         "latent-space--90379a15",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -10730,8 +10921,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 9,
-      "tf": 16
+      "df": 10,
+      "tf": 17
     },
     "chatgpt spit": {
       "articles": [
@@ -10763,6 +10954,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -10770,8 +10962,20 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 7
+      "df": 7,
+      "tf": 8
+    },
+    "chatgpt work th": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "cheaper": {
       "articles": [
@@ -10779,15 +10983,17 @@
         "codenewsletter--2ae99efa",
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Code Newsletter",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 29
+      "df": 6,
+      "tf": 30
     },
     "cheaper cache": {
       "articles": [
@@ -11290,6 +11496,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -11299,8 +11506,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 95
+      "df": 8,
+      "tf": 97
     },
     "claude app": {
       "articles": [
@@ -11413,6 +11620,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -11422,8 +11630,20 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 23
+      "df": 8,
+      "tf": 25
+    },
+    "claude opus gpt-6": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "claude opus launch": {
       "articles": [
@@ -11979,6 +12199,7 @@
         "codenewsletter--2ae99efa",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -11987,8 +12208,32 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 5
+      "df": 6,
+      "tf": 6
+    },
+    "codebase using": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "codebase using llms": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "codex": {
       "articles": [
@@ -12152,6 +12397,18 @@
       ],
       "df": 3,
       "tf": 5
+    },
+    "colophon": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "com": {
       "articles": [
@@ -13684,6 +13941,7 @@
         "huggingface-blog--56cb74c6",
         "latent-space--7722f4c1",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22"
       ],
       "authors": [
@@ -13691,8 +13949,8 @@
         "Michelle Kim",
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 14
+      "df": 5,
+      "tf": 16
     },
     "conversational": {
       "articles": [
@@ -13710,14 +13968,16 @@
         "google-deepmind--2f1c9b52",
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 16
+      "df": 5,
+      "tf": 17
     },
     "cookies": {
       "articles": [
@@ -13871,17 +14131,19 @@
         "latent-space--90379a15",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
-        "openai-blog--11212e04"
+        "openai-blog--11212e04",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Code Newsletter",
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
         "OpenAI Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 49
+      "df": 9,
+      "tf": 50
     },
     "cost and": {
       "articles": [
@@ -13911,14 +14173,16 @@
     "cost of": {
       "articles": [
         "aibreakfast--01388bbd",
-        "codenewsletter--2ae99efa"
+        "codenewsletter--2ae99efa",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
-        "Code Newsletter"
+        "Code Newsletter",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 3
+      "df": 3,
+      "tf": 4
     },
     "cost per": {
       "articles": [
@@ -14241,6 +14505,7 @@
         "huggingface-blog--56cb74c6",
         "latent-space--0fc5da0a",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
@@ -14249,8 +14514,8 @@
         "Hugging Face Blog",
         "Simon Willison"
       ],
-      "df": 7,
-      "tf": 20
+      "df": 8,
+      "tf": 21
     },
     "create and": {
       "articles": [
@@ -14397,6 +14662,7 @@
     "curated": {
       "articles": [
         "aibreakfast--01388bbd",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -14404,8 +14670,32 @@
         "AI Breakfast",
         "Simon Willison"
       ],
+      "df": 4,
+      "tf": 5
+    },
+    "curated email": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
       "df": 3,
-      "tf": 4
+      "tf": 3
+    },
+    "curated email digest": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "current": {
       "articles": [
@@ -14552,17 +14842,19 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "mit-tech-review-ai--7eae819a",
-        "openai-blog--33d137b5"
+        "openai-blog--33d137b5",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "Hugging Face Blog",
         "Michelle Kim",
         "OpenAI Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 16
+      "df": 9,
+      "tf": 17
     },
     "customer": {
       "articles": [
@@ -15090,6 +15382,7 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -15099,8 +15392,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 16
+      "df": 9,
+      "tf": 17
     },
     "days ago": {
       "articles": [
@@ -15112,6 +15405,30 @@
         "Hugging Face Blog"
       ],
       "df": 2,
+      "tf": 3
+    },
+    "days hint": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "days hint quality": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
       "tf": 3
     },
     "dbreunig": {
@@ -15215,6 +15532,7 @@
         "huggingface-blog--69b35cc4",
         "latent-space--7722f4c1",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -15223,13 +15541,14 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 5
+      "df": 6,
+      "tf": 6
     },
     "decision models": {
       "articles": [
         "latent-space--7722f4c1",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -15237,8 +15556,20 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
+    },
+    "decision models st": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "decisions": {
       "articles": [
@@ -15552,13 +15883,15 @@
       "articles": [
         "latent-space--0fc5da0a",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "defined": {
       "articles": [
@@ -15673,13 +16006,15 @@
     "demo": {
       "articles": [
         "huggingface-blog--56cb74c6",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 7
+      "df": 3,
+      "tf": 8
     },
     "demos": {
       "articles": [
@@ -15999,7 +16334,8 @@
         "latent-space--90379a15",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
@@ -16007,10 +16343,11 @@
         "Google DeepMind Blog",
         "Hugging Face Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 46
+      "df": 12,
+      "tf": 47
     },
     "details for": {
       "articles": [
@@ -16327,14 +16664,15 @@
         "latent-space--0505aae3",
         "latent-space--87805e1c",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 5,
-      "tf": 9
+      "df": 6,
+      "tf": 10
     },
     "developments in": {
       "articles": [
@@ -16344,6 +16682,30 @@
       "authors": [],
       "df": 2,
       "tf": 4
+    },
+    "developments pay": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "developments pay me": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "device": {
       "articles": [
@@ -16459,17 +16821,19 @@
         "latent-space--87805e1c",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
         "Google DeepMind Blog",
         "Hugging Face Blog",
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 12,
-      "tf": 46
+      "df": 13,
+      "tf": 47
     },
     "different genomes": {
       "articles": [
@@ -16587,6 +16951,42 @@
       ],
       "df": 3,
       "tf": 4
+    },
+    "digest": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "digest of": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "digest of the": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "digital": {
       "articles": [
@@ -16734,6 +17134,30 @@
       ],
       "df": 4,
       "tf": 4
+    },
+    "disclosures": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "disclosures colophon": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "discord": {
       "articles": [
@@ -17654,29 +18078,33 @@
         "latent-space--0505aae3",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
         "Hugging Face Blog",
-        "Michelle Kim"
+        "Michelle Kim",
+        "Simon Willison"
       ],
-      "df": 5,
-      "tf": 6
+      "df": 6,
+      "tf": 8
     },
     "easy to": {
       "articles": [
         "huggingface-blog--69b35cc4",
         "latent-space--0505aae3",
         "latent-space--e310d17b",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Hugging Face Blog",
-        "Michelle Kim"
+        "Michelle Kim",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
     },
     "economic": {
       "articles": [
@@ -17987,6 +18415,17 @@
       "df": 2,
       "tf": 4
     },
+    "element": {
+      "articles": [
+        "latent-space--0fc5da0a",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
     "elements": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -18090,6 +18529,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -18102,8 +18542,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 17
+      "df": 12,
+      "tf": 18
     },
     "email and": {
       "articles": [
@@ -18127,6 +18567,30 @@
       ],
       "authors": [
         "RJ Honicky"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "email digest": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "email digest of": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
       ],
       "df": 3,
       "tf": 3
@@ -18484,6 +18948,7 @@
         "latent-space--87805e1c",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -18492,8 +18957,8 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 7,
-      "tf": 13
+      "df": 8,
+      "tf": 14
     },
     "engineers in": {
       "articles": [
@@ -18518,6 +18983,30 @@
       ],
       "df": 3,
       "tf": 5
+    },
+    "engineers learned": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "engineers learned from": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "english": {
       "articles": [
@@ -20024,13 +20513,15 @@
         "latent-space--0505aae3",
         "latent-space--7722f4c1",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
     },
     "experiment can": {
       "articles": [
@@ -20237,6 +20728,7 @@
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
@@ -20247,8 +20739,8 @@
         "Michelle Kim",
         "Simon Willison"
       ],
-      "df": 9,
-      "tf": 25
+      "df": 10,
+      "tf": 26
     },
     "explore the": {
       "articles": [
@@ -20992,16 +21484,18 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Code Newsletter",
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 6
+      "df": 7,
+      "tf": 7
     },
     "features": {
       "articles": [
@@ -21340,6 +21834,7 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -21347,8 +21842,32 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 10
+      "df": 7,
+      "tf": 11
+    },
+    "finding security": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "finding security vulnerabilities": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "finds": {
       "articles": [
@@ -21758,14 +22277,16 @@
         "latent-space--4969f050",
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 54
+      "df": 6,
+      "tf": 55
     },
     "flash qwen3.8": {
       "articles": [
@@ -21777,6 +22298,30 @@
       ],
       "df": 2,
       "tf": 3
+    },
+    "flash tts": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 18
+    },
+    "flash-lite": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
     },
     "float": {
       "articles": [
@@ -22092,14 +22637,27 @@
       "articles": [
         "latent-space--0505aae3",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
+    },
+    "for days hint": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "for drug": {
       "articles": [
@@ -22107,6 +22665,18 @@
         "latent-space--e310d17b"
       ],
       "authors": [],
+      "df": 2,
+      "tf": 3
+    },
+    "for easy": {
+      "articles": [
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+        "Simon Willison"
+      ],
       "df": 2,
       "tf": 3
     },
@@ -22135,6 +22705,30 @@
       ],
       "df": 3,
       "tf": 4
+    },
+    "for finding": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "for finding security": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "for genes": {
       "articles": [
@@ -23138,6 +23732,30 @@
       "df": 3,
       "tf": 5
     },
+    "from pressure": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "from pressure washing": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "from rsi": {
       "articles": [
         "latent-space--7722f4c1",
@@ -23365,17 +23983,19 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Google DeepMind Blog",
         "Hugging Face Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 28
+      "df": 12,
+      "tf": 29
     },
     "full show": {
       "articles": [
@@ -23744,16 +24364,18 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Google DeepMind Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 9,
-      "tf": 108
+      "df": 10,
+      "tf": 117
     },
     "gemini and": {
       "articles": [
@@ -23772,13 +24394,15 @@
     "gemini api": {
       "articles": [
         "google-deepmind--cc2ee9eb",
-        "latent-space--87805e1c"
+        "latent-space--87805e1c",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Google DeepMind Blog"
+        "Google DeepMind Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 5
+      "df": 3,
+      "tf": 7
     },
     "gemini api and": {
       "articles": [
@@ -23816,13 +24440,27 @@
     "gemini flash": {
       "articles": [
         "google-deepmind--cc2ee9eb",
-        "latent-space--87805e1c"
+        "latent-space--87805e1c",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Google DeepMind Blog"
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 20
+    },
+    "gemini flash tts": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
       ],
       "df": 2,
-      "tf": 19
+      "tf": 17
     },
     "gemini meta": {
       "articles": [
@@ -23870,6 +24508,18 @@
       ],
       "df": 2,
       "tf": 6
+    },
+    "gemini text-to-speech": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
     },
     "gemma": {
       "articles": [
@@ -24017,15 +24667,17 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 26
+      "df": 9,
+      "tf": 29
     },
     "generate entire": {
       "articles": [
@@ -24057,15 +24709,17 @@
         "huggingface-blog--56cb74c6",
         "huggingface-blog--69b35cc4",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 15
+      "df": 6,
+      "tf": 16
     },
     "generates": {
       "articles": [
@@ -24087,6 +24741,7 @@
         "latent-space--4969f050",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -24095,8 +24750,8 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 7,
-      "tf": 7
+      "df": 8,
+      "tf": 8
     },
     "generating dna": {
       "articles": [
@@ -24118,6 +24773,30 @@
       ],
       "authors": [
         "RJ Honicky"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "generating running": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "generating running routes": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
       ],
       "df": 3,
       "tf": 3
@@ -25145,16 +25824,18 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Code Newsletter",
         "Google DeepMind Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 9,
-      "tf": 96
+      "df": 10,
+      "tf": 97
     },
     "google ai": {
       "articles": [
@@ -25231,13 +25912,15 @@
       "articles": [
         "google-deepmind--2f1c9b52",
         "google-deepmind--cc2ee9eb",
-        "latent-space--87805e1c"
+        "latent-space--87805e1c",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Google DeepMind Blog"
+        "Google DeepMind Blog",
+        "Simon Willison"
       ],
-      "df": 3,
-      "tf": 4
+      "df": 4,
+      "tf": 5
     },
     "googlebook": {
       "articles": [
@@ -25404,6 +26087,7 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "openai-blog--1a253622",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -25414,8 +26098,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 32
+      "df": 9,
+      "tf": 36
     },
     "gpt-6 astra": {
       "articles": [
@@ -25424,6 +26108,7 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "openai-blog--1a253622",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -25433,13 +26118,26 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 13
+      "df": 8,
+      "tf": 15
+    },
+    "gpt-6 astra and": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "gpt-6 luna": {
       "articles": [
         "aibreakfast--01388bbd",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -25448,8 +26146,20 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
+    },
+    "gpt-6 luna and": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "gpt-6 sol": {
       "articles": [
@@ -25457,6 +26167,7 @@
         "codenewsletter--2ae99efa",
         "latent-space--7722f4c1",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -25466,8 +26177,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 13
+      "df": 7,
+      "tf": 14
     },
     "gpt-6 sol and": {
       "articles": [
@@ -25483,6 +26194,18 @@
       ],
       "df": 4,
       "tf": 9
+    },
+    "gpt-6 sol gpt-6": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "gpu": {
       "articles": [
@@ -26767,6 +27490,18 @@
       "df": 2,
       "tf": 3
     },
+    "high-quality": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
     "high-volume": {
       "articles": [
         "codenewsletter--2ae99efa",
@@ -26934,6 +27669,31 @@
     "hint": {
       "articles": [
         "latent-space--7722f4c1",
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "hint quality": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "hint quality quantity": {
+      "articles": [
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -28057,6 +28817,7 @@
         "latent-space--90379a15",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -28067,8 +28828,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 9,
-      "tf": 19
+      "df": 10,
+      "tf": 20
     },
     "important applications": {
       "articles": [
@@ -28114,6 +28875,30 @@
         "swyx & Alessio"
       ],
       "df": 2,
+      "tf": 3
+    },
+    "important llm": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "important llm developments": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
       "tf": 3
     },
     "impossible": {
@@ -29760,15 +30545,17 @@
         "codenewsletter--2ae99efa",
         "google-deepmind--2f1c9b52",
         "huggingface-blog--69b35cc4",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
     },
     "int8": {
       "articles": [
@@ -29960,6 +30747,7 @@
         "huggingface-blog--56cb74c6",
         "latent-space--7722f4c1",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
@@ -29969,8 +30757,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 12
+      "df": 8,
+      "tf": 13
     },
     "interest": {
       "articles": [
@@ -30170,6 +30958,7 @@
       "articles": [
         "latent-space--87805e1c",
         "microsoft-research--7ba67547",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -30177,8 +30966,8 @@
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 5
+      "df": 5,
+      "tf": 6
     },
     "introducing": {
       "articles": [
@@ -30761,6 +31550,20 @@
       "df": 2,
       "tf": 5
     },
+    "it makes": {
+      "articles": [
+        "huggingface-blog--69b35cc4",
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "it more likely": {
       "articles": [
         "latent-space--7722f4c1",
@@ -31240,6 +32043,7 @@
         "latent-space--90379a15",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -31249,8 +32053,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 45
+      "df": 9,
+      "tf": 46
     },
     "jev and": {
       "articles": [
@@ -31259,6 +32063,18 @@
       ],
       "authors": [],
       "df": 2,
+      "tf": 3
+    },
+    "jev introduces": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
       "tf": 3
     },
     "jev system": {
@@ -31771,15 +32587,17 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 12
+      "df": 8,
+      "tf": 13
     },
     "keys": {
       "articles": [
@@ -33104,6 +33922,7 @@
         "latent-space--0505aae3",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -33112,8 +33931,32 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 6,
-      "tf": 9
+      "df": 7,
+      "tf": 10
+    },
+    "learned from": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "learned from pressure": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "learned the": {
       "articles": [
@@ -33347,6 +34190,7 @@
         "latent-space--90379a15",
         "latent-space--e310d17b",
         "openai-blog--11212e04",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -33358,8 +34202,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 24
+      "df": 12,
+      "tf": 25
     },
     "less per": {
       "articles": [
@@ -33382,6 +34226,30 @@
       ],
       "df": 2,
       "tf": 4
+    },
+    "less sponsor": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "less sponsor subscribe": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "less than": {
       "articles": [
@@ -33562,15 +34430,17 @@
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
         "latent-space--0505aae3",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 5,
-      "tf": 7
+      "df": 6,
+      "tf": 8
     },
     "license": {
       "articles": [
@@ -34239,6 +35109,7 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -34248,8 +35119,56 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 16
+      "df": 9,
+      "tf": 18
+    },
+    "llm developments": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llm developments pay": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llm system": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llm system one": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "llms": {
       "articles": [
@@ -34258,6 +35177,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -34266,8 +35186,32 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 7,
-      "tf": 16
+      "df": 8,
+      "tf": 17
+    },
+    "llms for": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llms for days": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "llms these": {
       "articles": [
@@ -34985,6 +35929,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -34994,8 +35939,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 42
+      "df": 8,
+      "tf": 43
     },
     "luna about": {
       "articles": [
@@ -35013,14 +35958,15 @@
     "luna and": {
       "articles": [
         "latent-space--87805e1c",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 4
+      "df": 4,
+      "tf": 5
     },
     "luna at": {
       "articles": [
@@ -35201,15 +36147,17 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--e310d17b",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Hugging Face Blog",
         "Michelle Kim",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 16
+      "df": 9,
+      "tf": 17
     },
     "makes it": {
       "articles": [
@@ -35217,14 +36165,16 @@
         "huggingface-blog--69b35cc4",
         "latent-space--0505aae3",
         "latent-space--e310d17b",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Hugging Face Blog",
-        "Michelle Kim"
+        "Michelle Kim",
+        "Simon Willison"
       ],
-      "df": 5,
-      "tf": 5
+      "df": 6,
+      "tf": 6
     },
     "makes the": {
       "articles": [
@@ -35972,6 +36922,18 @@
       ],
       "df": 4,
       "tf": 7
+    },
+    "me to send": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "mean": {
       "articles": [
@@ -37341,6 +38303,7 @@
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -37355,8 +38318,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 17,
-      "tf": 218
+      "df": 18,
+      "tf": 220
     },
     "models already": {
       "articles": [
@@ -37679,6 +38642,30 @@
       "df": 2,
       "tf": 4
     },
+    "models st": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "models st september": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "models that": {
       "articles": [
         "latent-space--0505aae3",
@@ -37939,6 +38926,78 @@
       "df": 3,
       "tf": 3
     },
+    "month's": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "month's most": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "month's most important": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "monthly": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "monthly briefing": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "monthly briefing sponsor": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "months we break": {
       "articles": [
         "latent-space--0505aae3",
@@ -38076,6 +39135,7 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -38083,8 +39143,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 8
+      "df": 7,
+      "tf": 9
     },
     "most important information": {
       "articles": [
@@ -38095,6 +39155,18 @@
         "swyx & Alessio"
       ],
       "df": 2,
+      "tf": 3
+    },
+    "most important llm": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
       "tf": 3
     },
     "most interesting": {
@@ -38145,24 +39217,41 @@
         "latent-space--0fc5da0a",
         "latent-space--7722f4c1",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Hugging Face Blog",
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 6,
-      "tf": 12
+      "df": 7,
+      "tf": 13
     },
     "move to": {
       "articles": [
         "latent-space--0505aae3",
         "latent-space--0fc5da0a",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
-      "authors": [],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "move to the": {
+      "articles": [
+        "latent-space--0505aae3",
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
       "df": 3,
-      "tf": 6
+      "tf": 3
     },
     "move up": {
       "articles": [
@@ -38374,13 +39463,15 @@
     "multi-speaker": {
       "articles": [
         "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
+        "huggingface-blog--69b35cc4",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 9
+      "df": 3,
+      "tf": 10
     },
     "multi-speaker ai": {
       "articles": [
@@ -38494,15 +39585,17 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Hugging Face Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 12
+      "df": 9,
+      "tf": 13
     },
     "multiple languages": {
       "articles": [
@@ -38884,6 +39977,42 @@
       "df": 5,
       "tf": 10
     },
+    "nd": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "nd september": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "nd september jev": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "near": {
       "articles": [
         "latent-space--7722f4c1",
@@ -39224,6 +40353,30 @@
       "df": 3,
       "tf": 5
     },
+    "new price": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "new price war": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "new scaling": {
       "articles": [
         "latent-space--0505aae3",
@@ -39268,6 +40421,30 @@
       ],
       "authors": [
         "RJ Honicky"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "new shape": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "new shape of": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
       ],
       "df": 3,
       "tf": 3
@@ -39766,13 +40943,15 @@
       "articles": [
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 3,
-      "tf": 7
+      "df": 4,
+      "tf": 8
     },
     "notable for": {
       "articles": [
@@ -40558,6 +41737,30 @@
       "df": 2,
       "tf": 3
     },
+    "of llm": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "of llm system": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "of london": {
       "articles": [
         "latent-space--0fc5da0a",
@@ -40742,6 +41945,18 @@
       ],
       "authors": [
         "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "of the month's": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
       ],
       "df": 3,
       "tf": 3
@@ -41397,6 +42612,30 @@
       "df": 3,
       "tf": 3
     },
+    "on rd": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "on rd september": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "on terminal-bench": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -41464,6 +42703,30 @@
       ],
       "df": 4,
       "tf": 8
+    },
+    "one aka": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "one aka decision": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "one engineer": {
       "articles": [
@@ -41631,7 +42894,8 @@
         "latent-space--90379a15",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
@@ -41640,10 +42904,11 @@
         "Google DeepMind Blog",
         "Hugging Face Blog",
         "RJ Honicky",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 13,
-      "tf": 61
+      "df": 14,
+      "tf": 62
     },
     "open and": {
       "articles": [
@@ -42195,6 +43460,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -42205,8 +43471,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 152
+      "df": 9,
+      "tf": 154
     },
     "opus and": {
       "articles": [
@@ -42301,6 +43567,30 @@
         "swyx & Alessio"
       ],
       "df": 2,
+      "tf": 3
+    },
+    "opus gpt-6": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "opus gpt-6 sol": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
       "tf": 3
     },
     "opus is": {
@@ -43864,11 +45154,36 @@
     "pay": {
       "articles": [
         "huggingface-blog--69b35cc4",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "pay me": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "pay me to": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
         "Simon Willison"
       ],
       "df": 3,
@@ -44959,15 +46274,17 @@
         "huggingface-blog--69b35cc4",
         "latent-space--4969f050",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 10
+      "df": 6,
+      "tf": 15
     },
     "plays": {
       "articles": [
@@ -45002,15 +46319,17 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Google DeepMind Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 17
+      "df": 8,
+      "tf": 18
     },
     "plus an": {
       "articles": [
@@ -45026,6 +46345,7 @@
       "articles": [
         "latent-space--90379a15",
         "latent-space--c11a70ce",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
@@ -45033,8 +46353,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 3,
-      "tf": 6
+      "df": 4,
+      "tf": 7
     },
     "pod": {
       "articles": [
@@ -45231,15 +46551,17 @@
         "latent-space--0fc5da0a",
         "latent-space--7722f4c1",
         "latent-space--e310d17b",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "Hugging Face Blog",
-        "Michelle Kim"
+        "Michelle Kim",
+        "Simon Willison"
       ],
-      "df": 8,
-      "tf": 19
+      "df": 9,
+      "tf": 20
     },
     "policy and": {
       "articles": [
@@ -45472,6 +46794,7 @@
         "google-deepmind--cc2ee9eb",
         "latent-space--7722f4c1",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -45480,8 +46803,56 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 7
+      "df": 6,
+      "tf": 9
+    },
+    "posted on": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "posted on rd": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "posted rd": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "posted rd september": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "potential": {
       "articles": [
@@ -45775,6 +47146,7 @@
         "aibreakfast--01388bbd",
         "latent-space--0fc5da0a",
         "latent-space--87805e1c",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -45782,8 +47154,32 @@
         "AI Breakfast",
         "Simon Willison"
       ],
-      "df": 5,
-      "tf": 6
+      "df": 6,
+      "tf": 7
+    },
+    "pressure washing": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "pressure washing their": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "pretrained": {
       "articles": [
@@ -45862,15 +47258,17 @@
         "huggingface-blog--69b35cc4",
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 10
+      "df": 7,
+      "tf": 11
     },
     "previous": {
       "articles": [
@@ -45909,6 +47307,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -45917,8 +47316,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 35
+      "df": 7,
+      "tf": 36
     },
     "price of": {
       "articles": [
@@ -45930,6 +47329,30 @@
       ],
       "df": 2,
       "tf": 4
+    },
+    "price war": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "price war nd": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "prices": {
       "articles": [
@@ -47512,6 +48935,7 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -47522,8 +48946,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 25
+      "df": 12,
+      "tf": 26
     },
     "quality and": {
       "articles": [
@@ -47536,6 +48960,66 @@
       ],
       "df": 3,
       "tf": 4
+    },
+    "quality quantity": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "quality quantity for": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "quantity": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "quantity for": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "quantity for finding": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "quantization": {
       "articles": [
@@ -48171,6 +49655,7 @@
     "rd": {
       "articles": [
         "aibreakfast--01388bbd",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -48178,19 +49663,32 @@
         "AI Breakfast",
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 7
+      "df": 4,
+      "tf": 10
     },
     "rd september": {
       "articles": [
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 2,
-      "tf": 6
+      "df": 3,
+      "tf": 9
+    },
+    "rd september at": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "reach": {
       "articles": [
@@ -48637,6 +50135,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -48646,8 +50145,32 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 9,
-      "tf": 13
+      "df": 10,
+      "tf": 14
+    },
+    "recent articles": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "recent articles claude": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
     },
     "recently": {
       "articles": [
@@ -49173,15 +50696,17 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 30
+      "df": 8,
+      "tf": 31
     },
     "releases": {
       "articles": [
@@ -49579,15 +51104,17 @@
         "codenewsletter--2ae99efa",
         "google-deepmind--2f1c9b52",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Google DeepMind Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
     },
     "requests": {
       "articles": [
@@ -49929,14 +51456,16 @@
       "articles": [
         "latent-space--4969f050",
         "latent-space--90379a15",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 3,
-      "tf": 4
+      "df": 4,
+      "tf": 5
     },
     "responsibility": {
       "articles": [
@@ -50471,6 +52000,19 @@
       "df": 3,
       "tf": 3
     },
+    "rights": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
     "rise": {
       "articles": [
         "latent-space--0fc5da0a",
@@ -50926,6 +52468,31 @@
     "routes": {
       "articles": [
         "latent-space--87805e1c",
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "routes with": {
+      "articles": [
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "routes with gpt-6": {
+      "articles": [
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -51091,18 +52658,6 @@
       "df": 10,
       "tf": 42
     },
-    "run an": {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "huggingface-blog--56cb74c6"
-      ],
-      "authors": [
-        "AI Breakfast",
-        "Hugging Face Blog"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "run than": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -51168,18 +52723,6 @@
       "df": 3,
       "tf": 19
     },
-    "rune kvist aiuc": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "running": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -51192,6 +52735,7 @@
         "latent-space--90379a15",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -51204,8 +52748,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 12,
-      "tf": 21
+      "df": 13,
+      "tf": 22
     },
     "runs": {
       "articles": [
@@ -51225,18 +52769,6 @@
       "df": 6,
       "tf": 15
     },
-    "runs at": {
-      "articles": [
-        "codenewsletter--2ae99efa",
-        "latent-space--7722f4c1",
-        "latent-space--87805e1c"
-      ],
-      "authors": [
-        "Code Newsletter"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "runtime": {
       "articles": [
         "codenewsletter--2ae99efa",
@@ -51250,39 +52782,6 @@
       ],
       "df": 4,
       "tf": 9
-    },
-    "runtimes": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "rust": {
-      "articles": [
-        "codenewsletter--2ae99efa",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [
-        "Code Newsletter"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "safeguard": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "safeguards": {
       "articles": [
@@ -51309,28 +52808,6 @@
       ],
       "df": 3,
       "tf": 4
-    },
-    "safer than": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "safer than its": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "safety": {
       "articles": [
@@ -51380,19 +52857,6 @@
       "df": 5,
       "tf": 12
     },
-    "said it": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "latent-space--90379a15",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog",
-        "swyx & Alessio"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "sam": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -51431,78 +52895,20 @@
       "df": 2,
       "tf": 10
     },
-    "same model": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "Hugging Face Blog",
-        "swyx & Alessio"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "same models": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "same models that": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "sample": {
       "articles": [
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 3,
-      "tf": 5
-    },
-    "samples": {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "AI Breakfast"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sampling": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 2,
-      "tf": 3
+      "df": 4,
+      "tf": 6
     },
     "san": {
       "articles": [
@@ -51546,78 +52952,22 @@
       "df": 2,
       "tf": 5
     },
-    "sandboxing": {
-      "articles": [
-        "latent-space--87805e1c",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 2,
-      "tf": 3
-    },
-    "sat": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sat down": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sat down with": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "save": {
       "articles": [
         "codenewsletter--2ae99efa",
         "google-deepmind--2f1c9b52",
         "google-deepmind--cc2ee9eb",
         "latent-space--7722f4c1",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
-        "Google DeepMind Blog"
+        "Google DeepMind Blog",
+        "Simon Willison"
       ],
-      "df": 5,
-      "tf": 7
-    },
-    "saving": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15",
-        "mit-tech-review-ai--7eae819a"
-      ],
-      "authors": [
-        "Michelle Kim",
-        "swyx & Alessio"
-      ],
-      "df": 3,
-      "tf": 3
+      "df": 6,
+      "tf": 8
     },
     "saying": {
       "articles": [
@@ -51642,17 +52992,6 @@
       "df": 2,
       "tf": 4
     },
-    "scalability": {
-      "articles": [
-        "latent-space--87805e1c",
-        "microsoft-research--7ba67547"
-      ],
-      "authors": [
-        "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "scale": {
       "articles": [
         "google-deepmind--2f1c9b52",
@@ -51676,54 +53015,6 @@
       ],
       "df": 11,
       "tf": 36
-    },
-    "scale glms": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scale glms to": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scale the": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scale with": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4",
-        "latent-space--0505aae3"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "scales": {
       "articles": [
@@ -51760,30 +53051,6 @@
       "df": 8,
       "tf": 37
     },
-    "scaling law": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scaling law joon": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "scaling laws": {
       "articles": [
         "latent-space--4969f050",
@@ -51796,41 +53063,6 @@
       ],
       "df": 4,
       "tf": 13
-    },
-    "scaling the": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "Hugging Face Blog",
-        "swyx & Alessio"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scaling up": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "scaling up to": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "scaling01": {
       "articles": [
@@ -51987,28 +53219,6 @@
       "df": 4,
       "tf": 7
     },
-    "scope": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "scope creep": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "score": {
       "articles": [
         "codenewsletter--2ae99efa",
@@ -52028,66 +53238,6 @@
       ],
       "df": 8,
       "tf": 23
-    },
-    "score it": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "score it can": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "score right": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "score right so": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "score the": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "scored": {
       "articles": [
@@ -52123,30 +53273,6 @@
       "df": 9,
       "tf": 26
     },
-    "scores first": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scores first and": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "scores on": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -52157,54 +53283,6 @@
       ],
       "df": 2,
       "tf": 4
-    },
-    "scores that": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scores that we": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scores with": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scores with the": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "scoring": {
       "articles": [
@@ -52234,55 +53312,22 @@
       "df": 4,
       "tf": 11
     },
-    "scratch dna": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "scratch dna is": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "script": {
       "articles": [
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
         "huggingface-blog--69b35cc4",
         "latent-space--4969f050",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 5,
-      "tf": 11
-    },
-    "scrutiny": {
-      "articles": [
-        "codenewsletter--2ae99efa",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [
-        "Code Newsletter"
-      ],
-      "df": 2,
-      "tf": 3
+      "df": 6,
+      "tf": 12
     },
     "sdk": {
       "articles": [
@@ -52317,17 +53362,6 @@
       "df": 10,
       "tf": 26
     },
-    "sec": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "second": {
       "articles": [
         "google-deepmind--cc2ee9eb",
@@ -52336,61 +53370,32 @@
         "latent-space--0505aae3",
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 7,
-      "tf": 28
-    },
-    "second and": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 2,
-      "tf": 3
+      "df": 8,
+      "tf": 29
     },
     "seconds": {
       "articles": [
         "huggingface-blog--56cb74c6",
         "huggingface-blog--69b35cc4",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 4,
-      "tf": 15
-    },
-    "seconds of": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "seconds of video": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
+      "df": 5,
+      "tf": 16
     },
     "section": {
       "articles": [
@@ -52430,6 +53435,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -52441,8 +53447,8 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 12,
-      "tf": 46
+      "df": 13,
+      "tf": 47
     },
     "security and": {
       "articles": [
@@ -52452,41 +53458,6 @@
       "authors": [],
       "df": 2,
       "tf": 5
-    },
-    "see important": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "see important applications": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "seed": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "seems": {
       "articles": [
@@ -52501,26 +53472,6 @@
       "df": 4,
       "tf": 4
     },
-    "seems to": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--0fc5da0a",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 3,
-      "tf": 3
-    },
-    "seems to be": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--0fc5da0a",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 3,
-      "tf": 3
-    },
     "select": {
       "articles": [
         "huggingface-blog--56cb74c6",
@@ -52532,17 +53483,6 @@
       ],
       "df": 3,
       "tf": 6
-    },
-    "select an": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "selected": {
       "articles": [
@@ -52581,41 +53521,6 @@
       "df": 4,
       "tf": 6
     },
-    "self optimize": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "self optimize to": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "self-distillation": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "self-improvement": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -52640,31 +53545,11 @@
       "df": 3,
       "tf": 7
     },
-    "sell the": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--7722f4c1",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 3,
-      "tf": 3
-    },
-    "semif": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "send": {
       "articles": [
         "huggingface-blog--56cb74c6",
         "latent-space--87805e1c",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -52672,20 +53557,21 @@
         "Hugging Face Blog",
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 6
+      "df": 5,
+      "tf": 7
     },
     "send you": {
       "articles": [
         "latent-space--87805e1c",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "senior": {
       "articles": [
@@ -52738,30 +53624,6 @@
       "df": 7,
       "tf": 9
     },
-    "separate arc": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "separate arc stanford": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "separately": {
       "articles": [
         "huggingface-blog--69b35cc4",
@@ -52788,6 +53650,7 @@
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -52800,32 +53663,34 @@
         "Michelle Kim",
         "Simon Willison"
       ],
-      "df": 12,
-      "tf": 27
+      "df": 13,
+      "tf": 33
     },
     "september at": {
       "articles": [
         "latent-space--0fc5da0a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "september this": {
       "articles": [
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "sequence": {
       "articles": [
@@ -52845,30 +53710,6 @@
       ],
       "df": 8,
       "tf": 16
-    },
-    "sequence for": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequence for genes": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "sequence of": {
       "articles": [
@@ -52896,102 +53737,6 @@
       ],
       "df": 5,
       "tf": 16
-    },
-    "sequences and": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences and could": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences are": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences are very": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences based": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences based on": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences the": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sequences the perform": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "series": {
       "articles": [
@@ -53027,29 +53772,6 @@
       ],
       "df": 3,
       "tf": 5
-    },
-    "series of steps": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "serious": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "service": {
       "articles": [
@@ -53105,17 +53827,6 @@
       ],
       "df": 5,
       "tf": 16
-    },
-    "session limits": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "session you": {
       "articles": [
@@ -53177,18 +53888,6 @@
       "df": 5,
       "tf": 5
     },
-    "set of aptamers": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "set out": {
       "articles": [
         "latent-space--0505aae3",
@@ -53206,18 +53905,6 @@
       "authors": [],
       "df": 2,
       "tf": 4
-    },
-    "set the": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "setting": {
       "articles": [
@@ -53239,15 +53926,17 @@
         "huggingface-blog--69b35cc4",
         "latent-space--4969f050",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 14
+      "df": 7,
+      "tf": 15
     },
     "setup": {
       "articles": [
@@ -53299,22 +53988,12 @@
       "df": 2,
       "tf": 4
     },
-    "shankar": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "shape": {
       "articles": [
         "aibreakfast--01388bbd",
         "huggingface-blog--69b35cc4",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -53323,12 +54002,13 @@
         "Hugging Face Blog",
         "Simon Willison"
       ],
-      "df": 5,
-      "tf": 9
+      "df": 6,
+      "tf": 10
     },
     "shape of": {
       "articles": [
         "aibreakfast--01388bbd",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -53336,8 +54016,8 @@
         "AI Breakfast",
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 3
+      "df": 4,
+      "tf": 4
     },
     "share": {
       "articles": [
@@ -53386,6 +54066,7 @@
         "google-deepmind--2f1c9b52",
         "huggingface-blog--69b35cc4",
         "latent-space--87805e1c",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22"
       ],
       "authors": [
@@ -53393,8 +54074,8 @@
         "Hugging Face Blog",
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 5
+      "df": 5,
+      "tf": 6
     },
     "shift": {
       "articles": [
@@ -53410,43 +54091,6 @@
       ],
       "df": 5,
       "tf": 10
-    },
-    "shift matthew": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "shift matthew mcpartlon": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "shifts": {
-      "articles": [
-        "google-deepmind--cc2ee9eb",
-        "huggingface-blog--69b35cc4",
-        "latent-space--87805e1c"
-      ],
-      "authors": [
-        "Google DeepMind Blog",
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "shipped": {
       "articles": [
@@ -53523,47 +54167,17 @@
         "latent-space--0505aae3",
         "latent-space--0fc5da0a",
         "latent-space--4969f050",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Code Newsletter",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 7,
-      "tf": 15
-    },
-    "short the": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 2,
-      "tf": 3
-    },
-    "shortly": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "shot": {
-      "articles": [
-        "latent-space--4969f050",
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 3,
-      "tf": 3
+      "df": 8,
+      "tf": 16
     },
     "show": {
       "articles": [
@@ -53621,18 +54235,6 @@
       "df": 4,
       "tf": 5
     },
-    "show the model": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "showcase": {
       "articles": [
         "codenewsletter--2ae99efa",
@@ -53646,54 +54248,6 @@
       ],
       "df": 4,
       "tf": 7
-    },
-    "showcase lower": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "showcase lower scores": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "showcase was": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "showcase was that": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "showed": {
       "articles": [
@@ -53714,30 +54268,6 @@
       ],
       "df": 8,
       "tf": 14
-    },
-    "showed it": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "showed it only": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "showing": {
       "articles": [
@@ -53763,30 +54293,6 @@
       ],
       "df": 4,
       "tf": 4
-    },
-    "shown it": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "shown it yet": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "shows": {
       "articles": [
@@ -53824,28 +54330,6 @@
       ],
       "df": 4,
       "tf": 5
-    },
-    "shreya": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "shreya shankar": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "side": {
       "articles": [
@@ -53963,18 +54447,6 @@
       "df": 8,
       "tf": 13
     },
-    "sign up for": {
-      "articles": [
-        "google-deepmind--2f1c9b52",
-        "google-deepmind--cc2ee9eb",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [
-        "Google DeepMind Blog"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "signals": {
       "articles": [
         "latent-space--7722f4c1",
@@ -54010,15 +54482,6 @@
       "df": 2,
       "tf": 5
     },
-    "signed in to": {
-      "articles": [
-        "latent-space--4969f050",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [],
-      "df": 2,
-      "tf": 3
-    },
     "significant": {
       "articles": [
         "latent-space--0fc5da0a",
@@ -54045,18 +54508,6 @@
       ],
       "df": 3,
       "tf": 5
-    },
-    "sim-to-real": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "Hugging Face Blog",
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "similar": {
       "articles": [
@@ -54112,25 +54563,27 @@
     },
     "simon": {
       "articles": [
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 2,
-      "tf": 4
+      "df": 3,
+      "tf": 6
     },
     "simon willison": {
       "articles": [
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 2,
-      "tf": 4
+      "df": 3,
+      "tf": 6
     },
     "simonw": {
       "articles": [
@@ -54160,15 +54613,6 @@
       ],
       "df": 6,
       "tf": 14
-    },
-    "simplicity": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 2,
-      "tf": 3
     },
     "simply": {
       "articles": [
@@ -54232,18 +54676,6 @@
       "df": 3,
       "tf": 8
     },
-    "simulation and design": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--0505aae3",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "simulation the": {
       "articles": [
         "huggingface-blog--69b35cc4",
@@ -54257,30 +54689,6 @@
       ],
       "df": 4,
       "tf": 6
-    },
-    "simulation the new": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "simulation to": {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "latent-space--87805e1c",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "Hugging Face Blog"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "simulations": {
       "articles": [
@@ -54345,16 +54753,6 @@
       ],
       "df": 10,
       "tf": 15
-    },
-    "six": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--7722f4c1",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 3,
-      "tf": 3
     },
     "size": {
       "articles": [
@@ -54521,80 +54919,6 @@
       "df": 6,
       "tf": 6
     },
-    "skip to content": {
-      "articles": [
-        "latent-space--4969f050",
-        "latent-space--7722f4c1",
-        "mit-tech-review-ai--7eae819a"
-      ],
-      "authors": [
-        "Michelle Kim"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "skip to main": {
-      "articles": [
-        "google-deepmind--2f1c9b52",
-        "google-deepmind--cc2ee9eb",
-        "microsoft-research--7ba67547"
-      ],
-      "authors": [
-        "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-        "Google DeepMind Blog"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sklearn": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sklearn john": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "sklearn john platt": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "slack": {
-      "articles": [
-        "huggingface-blog--69b35cc4",
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "Hugging Face Blog",
-        "swyx & Alessio"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "sleepinyourhat": {
       "articles": [
         "latent-space--7722f4c1",
@@ -54619,28 +54943,6 @@
       "df": 3,
       "tf": 5
     },
-    "slightly above": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "slightly above fable": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "slow": {
       "articles": [
         "latent-space--90379a15",
@@ -54653,19 +54955,6 @@
       ],
       "df": 3,
       "tf": 6
-    },
-    "slowed": {
-      "articles": [
-        "codenewsletter--2ae99efa",
-        "latent-space--87805e1c",
-        "microsoft-research--7ba67547"
-      ],
-      "authors": [
-        "Code Newsletter",
-        "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "slower": {
       "articles": [
@@ -54702,30 +54991,6 @@
       "df": 10,
       "tf": 28
     },
-    "small alphabet": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "small alphabet characters": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "smaller": {
       "articles": [
         "latent-space--0fc5da0a",
@@ -54754,17 +55019,6 @@
       "df": 3,
       "tf": 5
     },
-    "smaller than opus": {
-      "articles": [
-        "latent-space--7722f4c1",
-        "latent-space--90379a15"
-      ],
-      "authors": [
-        "swyx & Alessio"
-      ],
-      "df": 2,
-      "tf": 3
-    },
     "smart": {
       "articles": [
         "aibreakfast--01388bbd",
@@ -54781,53 +55035,6 @@
       ],
       "df": 5,
       "tf": 7
-    },
-    "snapdragon": {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "latent-space--7722f4c1"
-      ],
-      "authors": [
-        "AI Breakfast"
-      ],
-      "df": 2,
-      "tf": 3
-    },
-    "so voila": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "so voila chain-of-thought": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "so we showcase": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
     },
     "so-101": {
       "articles": [
@@ -54854,30 +55061,6 @@
       "df": 4,
       "tf": 17
     },
-    "socher of": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
-    "socher of recursive": {
-      "articles": [
-        "latent-space--0505aae3",
-        "latent-space--c11a70ce",
-        "latent-space--e310d17b"
-      ],
-      "authors": [
-        "RJ Honicky"
-      ],
-      "df": 3,
-      "tf": 3
-    },
     "social": {
       "articles": [
         "latent-space--87805e1c",
@@ -54891,15 +55074,6 @@
       ],
       "df": 4,
       "tf": 7
-    },
-    "society": {
-      "articles": [
-        "latent-space--0fc5da0a",
-        "latent-space--e310d17b"
-      ],
-      "authors": [],
-      "df": 2,
-      "tf": 3
     },
     "software": {
       "articles": [
@@ -54921,17 +55095,6 @@
       ],
       "df": 9,
       "tf": 41
-    },
-    "software development": {
-      "articles": [
-        "latent-space--4969f050",
-        "microsoft-research--7ba67547"
-      ],
-      "authors": [
-        "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel"
-      ],
-      "df": 2,
-      "tf": 3
     },
     "software engineering": {
       "articles": [
@@ -54975,6 +55138,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -54984,8 +55148,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 7,
-      "tf": 62
+      "df": 8,
+      "tf": 63
     },
     "sol and": {
       "articles": [
@@ -55534,16 +55698,18 @@
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Google DeepMind Blog",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 43
+      "df": 6,
+      "tf": 44
     },
     "speed": {
       "articles": [
@@ -55633,6 +55799,7 @@
     "sponsor": {
       "articles": [
         "aibreakfast--01388bbd",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -55640,8 +55807,8 @@
         "AI Breakfast",
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 5
+      "df": 4,
+      "tf": 7
     },
     "sponsorship": {
       "articles": [
@@ -55697,14 +55864,15 @@
     "st": {
       "articles": [
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 3,
-      "tf": 6
+      "df": 4,
+      "tf": 7
     },
     "stack": {
       "articles": [
@@ -56371,6 +56539,7 @@
         "latent-space--7722f4c1",
         "latent-space--87805e1c",
         "latent-space--90379a15",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
@@ -56378,8 +56547,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 6,
-      "tf": 10
+      "df": 7,
+      "tf": 11
     },
     "subscribe": {
       "articles": [
@@ -56392,6 +56561,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -56404,8 +56574,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 30
+      "df": 12,
+      "tf": 32
     },
     "subscribe to": {
       "articles": [
@@ -56631,7 +56801,8 @@
         "latent-space--90379a15",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
-        "openai-blog--f7a61178"
+        "openai-blog--f7a61178",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
@@ -56639,10 +56810,11 @@
         "Google DeepMind Blog",
         "Hugging Face Blog",
         "OpenAI Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 31
+      "df": 12,
+      "tf": 32
     },
     "support for": {
       "articles": [
@@ -56836,6 +57008,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -56848,8 +57021,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 14,
-      "tf": 50
+      "df": 15,
+      "tf": 51
     },
     "system card": {
       "articles": [
@@ -56868,6 +57041,7 @@
         "latent-space--0505aae3",
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -56875,8 +57049,8 @@
         "RJ Honicky",
         "Simon Willison"
       ],
-      "df": 5,
-      "tf": 9
+      "df": 6,
+      "tf": 10
     },
     "system one models": {
       "articles": [
@@ -57056,14 +57230,16 @@
         "codenewsletter--2ae99efa",
         "latent-space--0505aae3",
         "latent-space--90379a15",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 4,
-      "tf": 4
+      "df": 5,
+      "tf": 5
     },
     "talk": {
       "articles": [
@@ -57628,17 +57804,19 @@
         "latent-space--90379a15",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Code Newsletter",
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
         "Hugging Face Blog",
         "Michelle Kim",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 11,
-      "tf": 31
+      "df": 12,
+      "tf": 32
     },
     "tested": {
       "articles": [
@@ -57727,13 +57905,15 @@
     "text-to-speech": {
       "articles": [
         "google-deepmind--cc2ee9eb",
-        "latent-space--87805e1c"
+        "latent-space--87805e1c",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Google DeepMind Blog"
+        "Google DeepMind Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 8
+      "df": 3,
+      "tf": 11
     },
     "textbook": {
       "articles": [
@@ -57748,6 +57928,7 @@
       "articles": [
         "aibreakfast--01388bbd",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -57755,8 +57936,8 @@
         "AI Breakfast",
         "Simon Willison"
       ],
-      "df": 4,
-      "tf": 9
+      "df": 5,
+      "tf": 10
     },
     "than opus": {
       "articles": [
@@ -57870,14 +58051,16 @@
         "latent-space--0fc5da0a",
         "latent-space--4969f050",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 6,
-      "tf": 6
+      "df": 7,
+      "tf": 7
     },
     "the ability to": {
       "articles": [
@@ -57886,14 +58069,16 @@
         "latent-space--0fc5da0a",
         "latent-space--4969f050",
         "latent-space--e310d17b",
-        "microsoft-research--7ba67547"
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 6,
-      "tf": 6
+      "df": 7,
+      "tf": 7
     },
     "the agent": {
       "articles": [
@@ -57923,15 +58108,17 @@
         "aibreakfast--01388bbd",
         "huggingface-blog--56cb74c6",
         "latent-space--7722f4c1",
-        "latent-space--90379a15"
+        "latent-space--90379a15",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
         "Hugging Face Blog",
+        "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 4,
-      "tf": 5
+      "df": 5,
+      "tf": 6
     },
     "the artificial analysis": {
       "articles": [
@@ -57953,6 +58140,20 @@
       "authors": [],
       "df": 2,
       "tf": 6
+    },
+    "the audio": {
+      "articles": [
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Google DeepMind Blog",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
     },
     "the best": {
       "articles": [
@@ -58874,6 +59075,21 @@
       ],
       "df": 3,
       "tf": 5
+    },
+    "the open": {
+      "articles": [
+        "latent-space--7722f4c1",
+        "latent-space--c11a70ce",
+        "microsoft-research--7ba67547",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+        "RJ Honicky",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
     },
     "the openai": {
       "articles": [
@@ -60030,14 +60246,16 @@
       "articles": [
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 3,
-      "tf": 4
+      "df": 4,
+      "tf": 5
     },
     "to develop": {
       "articles": [
@@ -60109,13 +60327,15 @@
         "latent-space--0505aae3",
         "latent-space--4969f050",
         "latent-space--c11a70ce",
-        "latent-space--e310d17b"
+        "latent-space--e310d17b",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 5
+      "df": 5,
+      "tf": 6
     },
     "to give": {
       "articles": [
@@ -60588,6 +60808,7 @@
         "latent-space--87805e1c",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--d1010689"
       ],
       "authors": [
@@ -60596,8 +60817,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 8,
-      "tf": 23
+      "df": 9,
+      "tf": 26
     },
     "tooling": {
       "articles": [
@@ -61177,14 +61398,16 @@
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
         "huggingface-blog--69b35cc4",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 28
+      "df": 5,
+      "tf": 32
     },
     "tuesday": {
       "articles": [
@@ -61319,7 +61542,8 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "mit-tech-review-ai--7eae819a",
-        "openai-blog--bfe362a2"
+        "openai-blog--bfe362a2",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "AI Breakfast",
@@ -61328,10 +61552,26 @@
         "Hugging Face Blog",
         "Michelle Kim",
         "OpenAI Blog",
-        "RJ Honicky"
+        "RJ Honicky",
+        "Simon Willison"
       ],
-      "df": 13,
-      "tf": 55
+      "df": 14,
+      "tf": 57
+    },
+    "two new": {
+      "articles": [
+        "codenewsletter--2ae99efa",
+        "google-deepmind--cc2ee9eb",
+        "latent-space--87805e1c",
+        "simonwillison--548b7500"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Google DeepMind Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
     },
     "two things": {
       "articles": [
@@ -61765,13 +62005,15 @@
         "huggingface-blog--69b35cc4",
         "latent-space--0fc5da0a",
         "latent-space--4969f050",
-        "latent-space--7722f4c1"
+        "latent-space--7722f4c1",
+        "simonwillison--548b7500"
       ],
       "authors": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 4,
-      "tf": 6
+      "df": 5,
+      "tf": 7
     },
     "us": {
       "articles": [
@@ -62413,15 +62655,17 @@
         "huggingface-blog--56cb74c6",
         "huggingface-blog--69b35cc4",
         "latent-space--e310d17b",
-        "openai-blog--11212e04"
+        "openai-blog--11212e04",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "Hugging Face Blog",
-        "OpenAI Blog"
+        "OpenAI Blog",
+        "Simon Willison"
       ],
-      "df": 5,
-      "tf": 43
+      "df": 6,
+      "tf": 47
     },
     "voice agents": {
       "articles": [
@@ -62439,14 +62683,16 @@
     "voices": {
       "articles": [
         "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6"
+        "huggingface-blog--56cb74c6",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Simon Willison"
       ],
-      "df": 2,
-      "tf": 16
+      "df": 3,
+      "tf": 18
     },
     "vram": {
       "articles": [
@@ -62488,6 +62734,19 @@
       ],
       "df": 3,
       "tf": 5
+    },
+    "vulnerabilities": {
+      "articles": [
+        "latent-space--4969f050",
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
     },
     "wang": {
       "articles": [
@@ -62548,6 +62807,7 @@
         "latent-space--7722f4c1",
         "latent-space--90379a15",
         "latent-space--e310d17b",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -62555,8 +62815,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 5,
-      "tf": 5
+      "df": 6,
+      "tf": 6
     },
     "warming": {
       "articles": [
@@ -63172,14 +63432,15 @@
     },
     "willison": {
       "articles": [
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
       "authors": [
         "Simon Willison"
       ],
-      "df": 2,
-      "tf": 4
+      "df": 3,
+      "tf": 6
     },
     "window": {
       "articles": [
@@ -63277,6 +63538,7 @@
       "articles": [
         "latent-space--90379a15",
         "openai-blog--1a253622",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -63284,6 +63546,20 @@
         "OpenAI Blog",
         "Simon Willison",
         "swyx & Alessio"
+      ],
+      "df": 5,
+      "tf": 7
+    },
+    "with gpt-6 astra": {
+      "articles": [
+        "openai-blog--1a253622",
+        "simonwillison--548b7500",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "authors": [
+        "OpenAI Blog",
+        "Simon Willison"
       ],
       "df": 4,
       "tf": 5
@@ -63413,6 +63689,7 @@
         "latent-space--c11a70ce",
         "latent-space--e310d17b",
         "microsoft-research--7ba67547",
+        "simonwillison--548b7500",
         "simonwillison--5bd2fa22",
         "simonwillison--d1010689"
       ],
@@ -63426,8 +63703,8 @@
         "Simon Willison",
         "swyx & Alessio"
       ],
-      "df": 16,
-      "tf": 73
+      "df": 17,
+      "tf": 74
     },
     "work and": {
       "articles": [
@@ -63690,15 +63967,17 @@
         "latent-space--0505aae3",
         "latent-space--4969f050",
         "latent-space--e310d17b",
-        "mit-tech-review-ai--7eae819a"
+        "mit-tech-review-ai--7eae819a",
+        "simonwillison--548b7500"
       ],
       "authors": [
         "Google DeepMind Blog",
         "Hugging Face Blog",
-        "Michelle Kim"
+        "Michelle Kim",
+        "Simon Willison"
       ],
-      "df": 6,
-      "tf": 6
+      "df": 7,
+      "tf": 7
     },
     "writing": {
       "articles": [
