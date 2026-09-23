@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import logging
 import os
+import time
 from dataclasses import dataclass
 from typing import Iterable, Sequence
 
@@ -24,6 +25,9 @@ logger = logging.getLogger(__name__)
 API_URL = "https://api.typesafe.ai/v1/systemone"
 DEFAULT_MODEL = "jev-latest"
 DEFAULT_TIMEOUT = 60.0
+MAX_ATTEMPTS = 3
+BACKOFF_SECONDS = 2.0
+RETRYABLE_STATUS = frozenset({429, 500, 502, 503, 504, 529})
 
 MAX_ARTICLES = 60
 MAX_RECENT_TITLES = 60
@@ -151,6 +155,34 @@ def _read(answers: dict, key: str, field: str) -> float:
         raise JudgeError(f"judge: answer {key!r} is not a number") from exc
 
 
+def _post_with_retries(payload: dict, key: str, timeout: float, *, sleep=time.sleep):
+    """POST once per attempt, backing off on the statuses TypeSafe asks us to retry."""
+    last: str = ""
+    for attempt in range(MAX_ATTEMPTS):
+        try:
+            with httpx.Client(timeout=timeout) as client:
+                response = client.post(
+                    API_URL,
+                    headers={
+                        "Authorization": f"Bearer {key}",
+                        "Content-Type": "application/json",
+                    },
+                    json=payload,
+                )
+        except httpx.HTTPError as exc:
+            last = f"request failed: {exc}"
+        else:
+            if response.status_code == 200:
+                return response
+            last = f"TypeSafe returned {response.status_code}: {response.text[:200]}"
+            if response.status_code not in RETRYABLE_STATUS:
+                break
+        if attempt < MAX_ATTEMPTS - 1:
+            logger.warning("judge: attempt %d failed (%s); retrying", attempt + 1, last)
+            sleep(BACKOFF_SECONDS * (attempt + 1))
+    raise JudgeError(f"judge: {last}")
+
+
 def judge_candidates(
     *,
     terms: Sequence[str],
@@ -160,6 +192,7 @@ def judge_candidates(
     api_key: str | None = None,
     model: str = DEFAULT_MODEL,
     timeout: float = DEFAULT_TIMEOUT,
+    sleep=time.sleep,
 ) -> Judgment:
     """Judge every candidate term in a single request. Raises `JudgeError`."""
     key = api_key or os.environ.get("TYPESAFE_API_KEY")
@@ -174,23 +207,7 @@ def judge_candidates(
         "questions": _questions(terms),
     }
 
-    try:
-        with httpx.Client(timeout=timeout) as client:
-            response = client.post(
-                API_URL,
-                headers={
-                    "Authorization": f"Bearer {key}",
-                    "Content-Type": "application/json",
-                },
-                json=payload,
-            )
-    except httpx.HTTPError as exc:
-        raise JudgeError(f"judge: request failed: {exc}") from exc
-
-    if response.status_code != 200:
-        raise JudgeError(
-            f"judge: TypeSafe returned {response.status_code}: {response.text[:200]}"
-        )
+    response = _post_with_retries(payload, key, timeout, sleep=sleep)
 
     try:
         body = response.json()

@@ -121,13 +121,79 @@ def test_judge_raises_without_a_key(monkeypatch):
         )
 
 
-def test_judge_raises_on_http_error(monkeypatch):
+def test_judge_raises_after_exhausting_retries(monkeypatch):
     monkeypatch.setenv("TYPESAFE_API_KEY", "test-key")
-    _mock_client(monkeypatch, lambda request: httpx.Response(429, text="slow down"))
+    attempts = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        attempts.append(request)
+        return httpx.Response(429, text="slow down")
+
+    _mock_client(monkeypatch, handler)
     with pytest.raises(JudgeError, match="429"):
         judge_candidates(
-            terms=TERMS, articles=ARTICLES, recent_titles=RECENT, date="2026-07-17"
+            terms=TERMS,
+            articles=ARTICLES,
+            recent_titles=RECENT,
+            date="2026-07-17",
+            sleep=lambda _: None,
         )
+    assert len(attempts) == 3
+
+
+def test_judge_retries_a_rate_limit_then_succeeds(monkeypatch):
+    monkeypatch.setenv("TYPESAFE_API_KEY", "test-key")
+    calls = {"n": 0}
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        calls["n"] += 1
+        if calls["n"] == 1:
+            return httpx.Response(529, text="overloaded")
+        return httpx.Response(
+            200,
+            json={
+                "model": "jev-1.13.0",
+                "answers": _answers(
+                    {
+                        "kimi k3": (0.9, 2.0, 0.9, 0.8, 2.4),
+                        "he breaks down": (0.2, 0.1, 0.3, 0.3, 1.0),
+                        "claude": (0.9, 1.8, 0.9, 0.4, 2.9),
+                    }
+                ),
+                "usage": {"input_tokens": 10, "output_tokens": 1},
+            },
+        )
+
+    _mock_client(monkeypatch, handler)
+    result = judge_candidates(
+        terms=TERMS,
+        articles=ARTICLES,
+        recent_titles=RECENT,
+        date="2026-07-17",
+        sleep=lambda _: None,
+    )
+    assert calls["n"] == 2
+    assert result.verdicts["kimi k3"].specificity == 2.0
+
+
+def test_judge_does_not_retry_a_bad_key(monkeypatch):
+    monkeypatch.setenv("TYPESAFE_API_KEY", "test-key")
+    attempts = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        attempts.append(request)
+        return httpx.Response(401, text="unauthorized")
+
+    _mock_client(monkeypatch, handler)
+    with pytest.raises(JudgeError, match="401"):
+        judge_candidates(
+            terms=TERMS,
+            articles=ARTICLES,
+            recent_titles=RECENT,
+            date="2026-07-17",
+            sleep=lambda _: None,
+        )
+    assert len(attempts) == 1
 
 
 def test_judge_raises_when_an_answer_is_missing(monkeypatch):
