@@ -45,7 +45,9 @@ class RobotsCache:
             with httpx.Client(timeout=self.timeout, follow_redirects=True) as client:
                 response = client.get(url, headers={"User-Agent": self.user_agent})
         except httpx.HTTPError as exc:
-            logger.info("robots: %s unreachable (%s); treating the host as closed", url, exc)
+            logger.warning(
+                "robots: %s unreachable (%s); skipping every body on this host", url, exc
+            )
             parser = None
         else:
             if response.status_code == 200:
@@ -53,8 +55,8 @@ class RobotsCache:
             elif 400 <= response.status_code < 500:
                 parser.parse([])
             else:
-                logger.info(
-                    "robots: %s returned %s; treating the host as closed",
+                logger.warning(
+                    "robots: %s returned %s; skipping every body on this host",
                     url,
                     response.status_code,
                 )
