@@ -49,6 +49,7 @@ def _build_fixture_corpus(root: Path) -> None:
                 "score": 3.14,
                 "candidates": [{"term": "mcp"}, {"term": "agents"}],
                 "evidence_article_ids": [],
+                "judge": {"status": "ok", "model": "jev-1.13.0"},
             }
         )
     )
@@ -73,4 +74,6 @@ def test_data_api_articles_and_terms(tmp_path: Path):
 
     days = wotd(parquet_dir=pq)
     assert days.height == 1
+    assert days["judge_status"].to_list() == ["ok"]
+    assert days["judge_model"].to_list() == ["jev-1.13.0"]
     assert days[0, "word"] == "mcp"
