@@ -24,7 +24,9 @@ from .sources.rss import extract_article_text
 logger = logging.getLogger(__name__)
 
 
-def _render_newsletter_body_html(item: RawItem, user_agent: str) -> str:
+def _render_newsletter_body_html(
+    item: RawItem, user_agent: str, robots: RobotsCache | None = None
+) -> str:
     """Return the HTML of the newsletter issue.
 
     Reuses the HTML the RSS adapter already fetched (on RawItem.content_html).
@@ -32,10 +34,14 @@ def _render_newsletter_body_html(item: RawItem, user_agent: str) -> str:
     """
     if item.content_html:
         return item.content_html
+    robots = robots or RobotsCache(user_agent)
+    if not robots.allowed(item.url):
+        logger.info("linkfollow: not allowed to re-read %s", item.url)
+        return ""
     try:
         with httpx.Client(timeout=15.0, follow_redirects=True) as client:
             resp = client.get(item.url, headers={"User-Agent": user_agent})
-        if resp.status_code == 200:
+        if resp.status_code == 200 and not blocked_by_header(resp.headers):
             return resp.text
     except Exception as exc:
         logger.info("linkfollow: body refetch failed for %s: %s", item.url, exc)
@@ -98,7 +104,7 @@ def _follow_links_from_newsletter(
     url_cache: dict,
     robots: RobotsCache,
 ) -> Iterable[RawItem]:
-    html = _render_newsletter_body_html(item, settings.user_agent)
+    html = _render_newsletter_body_html(item, settings.user_agent, robots)
     urls = _extract_outbound_urls(html, origin_url=item.url)
     followed = 0
     for url in urls:
@@ -188,6 +194,7 @@ def run_fetch(paths: Paths, settings: Settings, sources: list[dict]) -> dict:
                 user_agent=settings.user_agent,
                 max_items=settings.max_articles_per_source,
                 seen_urls=seen_urls,
+                robots=robots,
             )
         except Exception as exc:
             logger.warning("fetch: adapter crashed for %s: %s", sid, exc)

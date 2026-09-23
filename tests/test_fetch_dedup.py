@@ -47,3 +47,58 @@ def test_render_newsletter_reuses_raw_item_html():
     # verbatim and never hit the network when it's available.
     out = _render_newsletter_body_html(item, user_agent="test")
     assert out == html
+
+
+def test_run_fetch_survives_a_malformed_link_and_keeps_cursors(tmp_path, monkeypatch):
+    """A bad href must not cost the run every source's cursor."""
+    import httpx
+
+    from wotd import state
+    from wotd.config import Paths, Settings
+    from wotd.fetch import run_fetch
+
+    feed = (
+        '<?xml version="1.0"?><rss version="2.0"><channel>'
+        "<item><title>Issue 1</title><link>https://news.example/p/1</link>"
+        "<guid>g1</guid></item></channel></rss>"
+    )
+    issue_html = (
+        '<html><body><p>hi</p>'
+        '<a href="https://ex_ample..com/post">bad</a>'
+        '<a href="https://good.example/post">good</a></body></html>'
+    )
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        url = str(request.url)
+        if url.endswith("/robots.txt"):
+            return httpx.Response(200, text="User-agent: *\nDisallow:\n")
+        if "/feed" in url:
+            return httpx.Response(200, content=feed.encode())
+        if "good.example" in url:
+            return httpx.Response(200, text="<html><body><p>a real body</p></body></html>")
+        return httpx.Response(200, text=issue_html)
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    for module in ("wotd.fetch", "wotd.robots", "wotd.sources.rss"):
+        monkeypatch.setattr(f"{module}.httpx.Client", FakeClient)
+
+    paths = Paths.from_root(tmp_path)
+    paths.ensure()
+    source = {
+        "id": "news",
+        "type": "newsletter",
+        "platform": "substack",
+        "name": "News",
+        "feed": "https://news.example/feed",
+        "added": "2026-09-23",
+    }
+    result = run_fetch(paths, Settings(), [source])
+
+    assert result["new_articles"] >= 1
+    assert state.load_cursors(paths.index)["news"]["last_guid"] == "g1"
