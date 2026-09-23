@@ -16,6 +16,7 @@ from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
 from ..linkfollow import canonicalize
+from ..robots import RobotsCache, blocked_by_header
 from .base import Cursor, RawItem
 
 logger = logging.getLogger(__name__)
@@ -84,6 +85,7 @@ class RssAdapter:
         feed_url = source.get("feed")
         if not feed_url:
             return
+        robots = RobotsCache(user_agent)
         headers = {"User-Agent": user_agent}
         if cursor.etag:
             headers["If-None-Match"] = cursor.etag
@@ -133,9 +135,16 @@ class RssAdapter:
             body_text = ""
             body_html: str | None = None
             try:
-                with httpx.Client(timeout=15.0, follow_redirects=True) as client:
-                    article_resp = client.get(url, headers={"User-Agent": user_agent})
-                if article_resp.status_code == 200:
+                if robots.allowed(url):
+                    with httpx.Client(timeout=15.0, follow_redirects=True) as client:
+                        article_resp = client.get(url, headers={"User-Agent": user_agent})
+                else:
+                    logger.info("rss: robots.txt disallows %s; feed entry only", url)
+                    article_resp = None
+                if article_resp is not None and blocked_by_header(article_resp.headers):
+                    logger.info("rss: %s asks not to be indexed; skipping its body", url)
+                    article_resp = None
+                if article_resp is not None and article_resp.status_code == 200:
                     ctype = (article_resp.headers.get("content-type") or "").lower()
                     # Only pass HTML/XML/text through readability. PDFs and
                     # other binary blobs get skipped — they contaminate the

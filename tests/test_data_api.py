@@ -77,3 +77,14 @@ def test_data_api_articles_and_terms(tmp_path: Path):
     assert days["judge_status"].to_list() == ["ok"]
     assert days["judge_model"].to_list() == ["jev-1.13.0"]
     assert days[0, "word"] == "mcp"
+
+
+def test_sources_yml_has_unique_ids():
+    """A duplicate id silently merges two feeds into one cursor."""
+    import yaml
+    from collections import Counter
+
+    root = Path(__file__).resolve().parents[1]
+    sources = yaml.safe_load((root / "sources.yml").read_text())["sources"]
+    duplicates = [i for i, n in Counter(s["id"] for s in sources).items() if n > 1]
+    assert duplicates == []
