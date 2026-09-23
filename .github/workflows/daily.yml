@@ -78,7 +78,11 @@ jobs:
           fi
           STATUS=$(jq -r '.judge.status // "missing"' "$FILE")
           echo "judge status: ${STATUS}"
-          if [[ "$STATUS" != "ok" && "$STATUS" != "shadow" ]]; then
+          if [[ "$STATUS" == "off" ]]; then
+            echo "judge disabled by WOTD_JUDGE; not checking further."
+            exit 0
+          fi
+          if [[ "$STATUS" != "ok" && "$STATUS" != "shadow" && "$STATUS" != "nothing_to_judge" ]]; then
             echo "::error::the TypeSafe judge did not run (status: ${STATUS}); the word fell back to the raw scorer"
             jq -r '.judge.error // empty' "$FILE"
             exit 1

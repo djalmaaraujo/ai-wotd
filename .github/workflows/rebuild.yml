@@ -8,6 +8,12 @@ name: Rebuild WOTD (no fetch)
 
 on:
   workflow_dispatch:
+    inputs:
+      judge:
+        description: "Judge mode for the re-election (off keeps it free and fast)"
+        type: choice
+        options: ["off", "on", "shadow"]
+        default: "off"
 
 concurrency:
   group: wotd-main
@@ -19,7 +25,7 @@ permissions:
 jobs:
   rebuild:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -49,9 +55,12 @@ jobs:
       - name: Process stats (all historical days)
         run: wotd process --backfill
 
-      - name: Elect WOTD (all historical days; Groq reranks if key present)
+      # One judge call per historical day, so this is off by default: a full
+      # re-election is ~120 requests and its own decision to make.
+      - name: Elect WOTD (all historical days)
         env:
           TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+          WOTD_JUDGE: ${{ inputs.judge }}
         run: wotd wotd --backfill
 
       - name: Claude blurb (latest elected day only; skipped if key absent)
