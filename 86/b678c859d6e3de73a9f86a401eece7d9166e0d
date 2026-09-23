@@ -1,0 +1,23 @@
+tests/test_terms.py
+  s_a661131bbb4100::t_9ea9e3a1d1498f 91-99,107-113,121-124,143-146
+  s_a661131bbb4100::t_5bdbd812415355 147-148
+src/wotd/terms.py
+  s_a661131bbb4100::t_1daf9375dac33e 12-14,174,179-182,193,206-209,231,268
+  s_a661131bbb4100::t_3c4521fb15c77f 187-192,194,200,261,267
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "86b678c859d6e3de73a9f86a401eece7d9166e0d",
+  "prompts": {},
+  "sessions": {
+    "s_a661131bbb4100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "886998ae-2163-4a3a-bae5-7c861f6af748",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
