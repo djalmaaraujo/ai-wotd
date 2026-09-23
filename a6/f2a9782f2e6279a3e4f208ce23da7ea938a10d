@@ -1,0 +1,21 @@
+tests/test_judge.py
+  s_a661131bbb4100::t_31cecee048986c 124,126-132,135-194,196
+src/wotd/judge.py
+  s_a661131bbb4100::t_31cecee048986c 16,28-30,158-185,195,210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a6f2a9782f2e6279a3e4f208ce23da7ea938a10d",
+  "prompts": {},
+  "sessions": {
+    "s_a661131bbb4100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "886998ae-2163-4a3a-bae5-7c861f6af748",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
