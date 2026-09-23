@@ -67,7 +67,7 @@ def test_data_api_articles_and_terms(tmp_path: Path):
     mcp_terms = terms(term="mcp", parquet_dir=pq)
     assert mcp_terms.height == 2  # one row per day
 
-    top = trending(n=5, since="30d", parquet_dir=pq)
+    top = trending(n=5, since=date(2026, 4, 1), parquet_dir=pq)
     assert top.height >= 1
     assert "mcp" in top["term"].to_list()
 
