@@ -1,0 +1,35 @@
+src/wotd/fetch.py
+  s_a661131bbb4100::t_d8d16d0829a533 19,68-70,72-75,81-83,99,118,162,227
+src/wotd/sources/rss.py
+  s_a661131bbb4100::t_c394030d6257da 19,138-141,143-147
+  s_a661131bbb4100::t_d8d16d0829a533 88,142
+tests/test_robots.py
+  s_a661131bbb4100::t_507756c9b62c79 1-69
+src/wotd/robots.py
+  s_a661131bbb4100::t_d334d9b7f4717e 1-73
+tests/test_linkfollow.py
+  s_a661131bbb4100::t_6f0735d5f0632a 36-93
+.github/workflows/daily.yml
+  s_a661131bbb4100::t_c5ad38e17edf46 48-50
+  s_a661131bbb4100::t_ddb03a7dc0fdce 19
+sources.yml
+  s_a661131bbb4100::t_1d207b39775299 140,147-275
+tests/test_data_api.py
+  s_a661131bbb4100::t_7a66a919ddc6e3 80-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e33d625f3dfc6aeed10842a2821ec9ea0e130c2",
+  "prompts": {},
+  "sessions": {
+    "s_a661131bbb4100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "886998ae-2163-4a3a-bae5-7c861f6af748",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
