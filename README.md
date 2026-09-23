@@ -23,10 +23,20 @@ The pipeline is deterministic and reproducible:
 3. Score each term with `log(1+tf_today) * (tf_today / avg_tf_baseline)
    * (0.5 + df_today/doc_count)`, where the baseline is the last 30 days.
    Boost allowlisted terms, demote terms that appear every day.
-4. The top-scoring term is the word of the day.
-5. Claude writes a ~150-word daily summary and a 2–3 sentence
-   "why-it-trended" blurb. This step is optional and additive — the pick
-   itself never depends on the LLM.
+4. Merge the top-scoring body terms with the terms today's headlines share,
+   trim filler off both ends, and drop phrases contained in a longer one.
+5. Ask TypeSafe (Jev) five typed questions about every candidate in a single
+   request: is the string a usable name, how specific an AI term is it, did
+   something happen to it today, is it new against the last seven days of
+   headlines, and how much of today's coverage is about it.
+6. Keep the candidates that clear every threshold and elect the most
+   newsworthy one. **When nothing clears, the day has no word** — the site
+   says so instead of inventing one.
+7. Claude writes a ~150-word daily summary and a 2–3 sentence
+   "why-it-trended" blurb. This step is optional and additive.
+
+Every judgment is committed under `judge` in `data/wotd/<date>.json`, so any
+pick can be audited without re-running anything.
 
 ## Data policy
 
@@ -122,6 +132,8 @@ Useful environment variables:
 | `WOTD_USER_AGENT` | `ai-wotd/1.0 ...` | HTTP User-Agent. |
 | `WOTD_FULLTEXT_CACHE_DIR` | `.cache/wotd/fulltext` | Where full text is cached per run. |
 | `ANTHROPIC_API_KEY` | _(unset)_ | Enables the LLM blurb step; unset → skipped. |
+| `TYPESAFE_API_KEY` | _(unset)_ | Required by the judge. Unset → the run logs an error and falls back to the raw scorer. |
+| `WOTD_JUDGE` | `on` | `on` elects through the judge, `shadow` records it without changing the word, `off` skips it. |
 | `WOTD_LLM_MODEL` | `claude-sonnet-4-5` | Model for the blurb. |
 | `WOTD_LINKFOLLOW_MAX_PER_ISSUE` | `10` | Cap on one-hop links per newsletter issue. |
 | `WOTD_NITTER_INSTANCES` | _(builtin list)_ | Comma-separated Nitter hosts. |

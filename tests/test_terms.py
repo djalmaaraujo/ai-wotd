@@ -1,6 +1,15 @@
 from collections import Counter
 
-from wotd.terms import extract_terms, ngrams, summarize_per_day, tokenize, top_terms
+from wotd.terms import (
+    build_candidate_pool,
+    extract_terms,
+    ngrams,
+    summarize_per_day,
+    title_terms,
+    tokenize,
+    top_terms,
+    trim_edges,
+)
 
 
 def test_tokenize_keeps_hyphenated_and_apostrophe():
@@ -70,3 +79,47 @@ def test_extract_terms_still_keeps_normal_ngrams():
     # Good unigrams survive.
     assert counts.get("tokens", 0) >= 1
     assert counts.get("model", 0) >= 1
+
+
+def test_tokenize_keeps_version_numbers():
+    toks = tokenize("GPT-5.6 beats Claude 4.5 on SWE-bench.")
+    assert "gpt-5.6" in toks
+    assert "4.5" not in toks
+    assert "swe-bench" in toks
+
+
+def test_trim_edges_drops_leading_and_trailing_filler():
+    assert trim_edges("the gemini") == "gemini"
+    assert trim_edges("ai deepseek-v4 preview") == "deepseek-v4 preview"
+    assert trim_edges("fable is back") == "fable is back"
+    assert trim_edges("of the") == ""
+
+
+def test_title_terms_needs_two_titles():
+    titles = ["Claude Tag ships today", "Claude Tag lands in Slack", "Gemini ships"]
+    found = title_terms(titles)
+    assert "claude tag" in found
+    assert "gemini" not in found  # only one title mentions it
+
+
+def test_build_candidate_pool_merges_trims_and_drops_subphrases():
+    pool = build_candidate_pool(
+        ["the gemini", "he breaks down", "claude"],
+        ["Claude Tag ships", "Claude Tag lands"],
+    )
+    assert "gemini" in pool
+    assert "claude tag" in pool
+    assert "claude" not in pool  # sub-phrase of "claude tag"
+    assert "the gemini" not in pool
+
+
+def test_build_candidate_pool_keeps_a_name_hidden_inside_a_fragment():
+    """A fragment must not suppress the clean name it contains."""
+    pool = build_candidate_pool(["access to fable", "fable"], [])
+    assert "fable" in pool
+    assert "access to fable" in pool
+
+
+def test_build_candidate_pool_respects_the_cap():
+    body = [f"term{i}" for i in range(80)]
+    assert len(build_candidate_pool(body, [], cap=25)) == 25

@@ -49,6 +49,7 @@ def _build_fixture_corpus(root: Path) -> None:
                 "score": 3.14,
                 "candidates": [{"term": "mcp"}, {"term": "agents"}],
                 "evidence_article_ids": [],
+                "judge": {"status": "ok", "model": "jev-1.13.0"},
             }
         )
     )
@@ -67,10 +68,12 @@ def test_data_api_articles_and_terms(tmp_path: Path):
     mcp_terms = terms(term="mcp", parquet_dir=pq)
     assert mcp_terms.height == 2  # one row per day
 
-    top = trending(n=5, since="30d", parquet_dir=pq)
+    top = trending(n=5, since=date(2026, 4, 1), parquet_dir=pq)
     assert top.height >= 1
     assert "mcp" in top["term"].to_list()
 
     days = wotd(parquet_dir=pq)
     assert days.height == 1
+    assert days["judge_status"].to_list() == ["ok"]
+    assert days["judge_model"].to_list() == ["jev-1.13.0"]
     assert days[0, "word"] == "mcp"

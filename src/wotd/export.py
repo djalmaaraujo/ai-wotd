@@ -57,6 +57,8 @@ _WOTD_SCHEMA = pa.schema(
         ("llm_why", pa.string()),
         ("llm_model", pa.string()),
         ("llm_generated_at", pa.string()),
+        ("judge_status", pa.string()),
+        ("judge_model", pa.string()),
     ]
 )
 
@@ -142,6 +144,7 @@ def export_wotd(wotd_dir: Path, out: Path) -> int:
     rows = []
     for w in _iter_wotd_jsons(wotd_dir):
         llm = w.get("llm") or {}
+        judge = w.get("judge") or {}
         rows.append(
             {
                 "date": w.get("date"),
@@ -153,6 +156,8 @@ def export_wotd(wotd_dir: Path, out: Path) -> int:
                 "llm_why": llm.get("why"),
                 "llm_model": llm.get("model"),
                 "llm_generated_at": llm.get("generated_at"),
+                "judge_status": judge.get("status"),
+                "judge_model": judge.get("model"),
             }
         )
     rows.sort(key=lambda r: r["date"] or "")

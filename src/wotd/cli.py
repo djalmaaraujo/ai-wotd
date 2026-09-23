@@ -137,12 +137,23 @@ def cmd_wotd(args) -> int:
 
     for target in targets:
         payload = wotd.pick_wotd(
-            paths.stats, paths.wotd, target, baseline_days=settings.baseline_days
+            paths.stats,
+            paths.wotd,
+            target,
+            baseline_days=settings.baseline_days,
+            articles_dir=paths.articles,
+            mode=settings.judge_mode,
         )
         if payload is None:
             log.info("wotd: no stats for %s", target)
             continue
-        log.info("wotd: %s -> %s", target, payload.get("word"))
+        judge = payload.get("judge", {})
+        log.info(
+            "wotd: %s -> %s (judge: %s)",
+            target,
+            payload.get("word"),
+            judge.get("status"),
+        )
     return 0
 
 
@@ -285,7 +296,12 @@ def cmd_reprocess(args) -> int:
             if wp.exists():
                 wp.unlink()
             wotd.pick_wotd(
-                paths.stats, paths.wotd, current, baseline_days=settings.baseline_days
+                paths.stats,
+                paths.wotd,
+                current,
+                baseline_days=settings.baseline_days,
+                articles_dir=paths.articles,
+                mode=settings.judge_mode,
             )
         current = current + timedelta(days=1)
     state.save_processed_days(paths.index, processed)

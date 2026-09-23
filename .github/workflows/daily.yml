@@ -43,7 +43,7 @@ jobs:
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: wotd run
 
@@ -53,11 +53,33 @@ jobs:
             git config user.name  "ai-wotd-bot"
             git config user.email "ai-wotd-bot@users.noreply.github.com"
             git add data/ docs/
-            WORD=$(for f in $(ls -r data/wotd/*.json 2>/dev/null); do w=$(jq -r '.word // empty' "$f"); if [ -n "$w" ]; then echo "$w"; break; fi; done)
-            WORD=${WORD:-update}
             DATE=$(date -u +%Y-%m-%d)
+            TODAY="data/wotd/${DATE}.json"
+            if [[ -f "$TODAY" ]]; then
+              WORD=$(jq -r '.word // "quiet day"' "$TODAY")
+            else
+              WORD="update"
+            fi
             git commit -m "chore(wotd): ${DATE} — ${WORD}"
             git push origin HEAD
           else
             echo "No changes."
+          fi
+
+      # Runs after the push on purpose: the site still publishes, but a judge
+      # that stopped answering turns the run red instead of degrading in silence.
+      - name: Check the judge ran
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          FILE="data/wotd/${DATE}.json"
+          if [[ ! -f "$FILE" ]]; then
+            echo "No election for ${DATE}; nothing to check."
+            exit 0
+          fi
+          STATUS=$(jq -r '.judge.status // "missing"' "$FILE")
+          echo "judge status: ${STATUS}"
+          if [[ "$STATUS" != "ok" && "$STATUS" != "shadow" ]]; then
+            echo "::error::the TypeSafe judge did not run (status: ${STATUS}); the word fell back to the raw scorer"
+            jq -r '.judge.error // empty' "$FILE"
+            exit 1
           fi
