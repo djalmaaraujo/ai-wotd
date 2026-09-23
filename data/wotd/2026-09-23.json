@@ -172,116 +172,116 @@
     "pool_size": 50,
     "signals": {
       "ainews": {
-        "dominance": 2.11,
-        "event": 0.57,
-        "form": 0.63,
-        "novelty": 0.7,
-        "specificity": 1.35
+        "dominance": 2.09,
+        "event": 0.54,
+        "form": 0.69,
+        "novelty": 0.66,
+        "specificity": 1.37
       },
       "astra": {
-        "dominance": 1.89,
-        "event": 0.78,
-        "form": 0.82,
+        "dominance": 1.87,
+        "event": 0.76,
+        "form": 0.81,
         "novelty": 0.84,
         "specificity": 1.92
       },
       "cheaper": {
-        "dominance": 2.98,
-        "event": 0.92,
+        "dominance": 2.97,
+        "event": 0.91,
         "form": 0.47,
-        "novelty": 0.73,
+        "novelty": 0.69,
         "specificity": 0.16
       },
       "diarization": {
-        "dominance": 1.58,
-        "event": 0.71,
-        "form": 0.89,
+        "dominance": 1.57,
+        "event": 0.72,
+        "form": 0.9,
         "novelty": 0.77,
         "specificity": 1.99
       },
       "gemini": {
-        "dominance": 2.14,
+        "dominance": 2.13,
         "event": 0.93,
-        "form": 0.93,
-        "novelty": 0.73,
+        "form": 0.94,
+        "novelty": 0.75,
         "specificity": 1.98
       },
       "lower": {
         "dominance": 2.91,
-        "event": 0.82,
-        "form": 0.39,
-        "novelty": 0.22,
-        "specificity": 0.13
+        "event": 0.83,
+        "form": 0.37,
+        "novelty": 0.2,
+        "specificity": 0.1
       },
       "model": {
         "dominance": 2.97,
-        "event": 0.93,
-        "form": 0.87,
+        "event": 0.92,
+        "form": 0.84,
         "novelty": 0.48,
-        "specificity": 1.25
+        "specificity": 1.26
       },
       "nemotron": {
-        "dominance": 1.56,
+        "dominance": 1.63,
         "event": 0.65,
         "form": 0.92,
-        "novelty": 0.82,
+        "novelty": 0.8,
         "specificity": 1.99
       },
       "nvidia": {
-        "dominance": 1.95,
-        "event": 0.63,
+        "dominance": 1.86,
+        "event": 0.62,
         "form": 0.92,
-        "novelty": 0.66,
-        "specificity": 1.18
+        "novelty": 0.69,
+        "specificity": 1.14
       },
       "openai": {
-        "dominance": 2.41,
-        "event": 0.87,
-        "form": 0.84,
-        "novelty": 0.71,
+        "dominance": 2.48,
+        "event": 0.88,
+        "form": 0.86,
+        "novelty": 0.68,
         "specificity": 1.03
       },
       "opus": {
-        "dominance": 2.85,
+        "dominance": 2.89,
         "event": 0.94,
         "form": 0.87,
-        "novelty": 0.85,
+        "novelty": 0.82,
         "specificity": 1.95
       },
       "price": {
         "dominance": 2.98,
         "event": 0.9,
-        "form": 0.76,
-        "novelty": 0.75,
-        "specificity": 0.43
+        "form": 0.77,
+        "novelty": 0.72,
+        "specificity": 0.44
       },
       "released": {
-        "dominance": 2.93,
-        "event": 0.92,
-        "form": 0.54,
-        "novelty": 0.58,
-        "specificity": 0.81
+        "dominance": 2.89,
+        "event": 0.91,
+        "form": 0.5,
+        "novelty": 0.6,
+        "specificity": 0.71
       },
       "speech": {
-        "dominance": 2.45,
+        "dominance": 2.4,
         "event": 0.93,
         "form": 0.83,
-        "novelty": 0.76,
-        "specificity": 0.89
+        "novelty": 0.72,
+        "specificity": 0.92
       },
       "technology": {
-        "dominance": 2.5,
+        "dominance": 2.64,
         "event": 0.95,
         "form": 0.85,
         "novelty": 0.24,
-        "specificity": 0.29
+        "specificity": 0.27
       },
       "tts": {
-        "dominance": 2.24,
-        "event": 0.94,
+        "dominance": 2.32,
+        "event": 0.93,
         "form": 0.63,
-        "novelty": 0.82,
-        "specificity": 1.96
+        "novelty": 0.8,
+        "specificity": 1.97
       }
     },
     "status": "ok",
