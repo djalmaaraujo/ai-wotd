@@ -6,9 +6,12 @@ import re
 from collections import Counter
 from importlib import resources
 from pathlib import Path
+from typing import Iterable
 
 
-_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'\-]*[A-Za-z0-9]|[A-Za-z]")
+# The dot keeps model versions whole ("gpt-5.6"); without it they collapse to
+# their major number and can never be elected.
+_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'\-\.]*[A-Za-z0-9]|[A-Za-z]")
 
 
 def _read_resource(name: str) -> list[str]:
@@ -164,3 +167,91 @@ def summarize_per_day(
 def top_terms(counter: Counter, n: int = 20) -> list[tuple[str, int]]:
     """Deterministic top-N: (-count, term) sort."""
     return sorted(counter.items(), key=lambda kv: (-kv[1], kv[0]))[:n]
+
+
+EDGE_WORDS = frozenset(
+    {
+        "ai", "new", "how", "why", "what", "this", "that", "it", "its",
+        "the", "a", "an", "to", "of", "in", "is", "and", "for", "with", "on", "at",
+    }
+)
+
+POOL_CAP = 60
+TITLE_MIN_COUNT = 2
+
+
+def _has_interior_filler(term: str, edges: frozenset[str]) -> bool:
+    parts = term.split()
+    return any(part in edges for part in parts[1:-1])
+
+
+def trim_edges(term: str, stopwords: frozenset[str] | None = None) -> str:
+    """Strip filler words from both ends of a candidate term."""
+    stopwords = stopwords if stopwords is not None else load_stopwords()
+    edges = stopwords | EDGE_WORDS
+    parts = term.split()
+    while parts and parts[0] in edges:
+        parts = parts[1:]
+    while parts and parts[-1] in edges:
+        parts = parts[:-1]
+    return " ".join(parts)
+
+
+def title_terms(
+    titles: Iterable[str],
+    *,
+    min_count: int = TITLE_MIN_COUNT,
+    stopwords: frozenset[str] | None = None,
+    allowlist: frozenset[str] | None = None,
+) -> list[str]:
+    """Terms that several of today's headlines share, most frequent first.
+
+    Headlines carry the day's topic without the navigation chrome, subscribe
+    prompts and PDF debris that pollute article bodies.
+    """
+    stopwords = stopwords if stopwords is not None else load_stopwords()
+    allowlist = allowlist if allowlist is not None else load_allowlist()
+    counts: Counter = Counter()
+    for title in titles:
+        if title:
+            counts.update(
+                extract_terms(title, stopwords=stopwords, allowlist=allowlist)
+            )
+    return [term for term, count in top_terms(counts, n=300) if count >= min_count]
+
+
+def build_candidate_pool(
+    body_terms: Iterable[str],
+    titles: Iterable[str],
+    *,
+    cap: int = POOL_CAP,
+    stopwords: frozenset[str] | None = None,
+    allowlist: frozenset[str] | None = None,
+) -> list[str]:
+    """Merge body and headline candidates into one clean, deduplicated pool."""
+    stopwords = stopwords if stopwords is not None else load_stopwords()
+    allowlist = allowlist if allowlist is not None else load_allowlist()
+
+    merged: list[str] = list(body_terms)
+    for term in title_terms(titles, stopwords=stopwords, allowlist=allowlist):
+        if term not in merged:
+            merged.append(term)
+
+    ordered: dict[str, None] = {}
+    for term in merged:
+        trimmed = trim_edges(term, stopwords=stopwords)
+        if len(trimmed) < 2 or trimmed.replace(".", "").isdigit():
+            continue
+        ordered.setdefault(trimmed, None)
+
+    kept = list(ordered)
+    edges = stopwords | EDGE_WORDS
+    redundant = {
+        short
+        for short in kept
+        for long in kept
+        if short != long
+        and f" {short} " in f" {long} "
+        and not _has_interior_filler(long, edges)
+    }
+    return [term for term in kept if term not in redundant][:cap]
