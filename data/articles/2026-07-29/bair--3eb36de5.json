@@ -1,0 +1,98 @@
+{
+  "article_id": "bair--3eb36de5",
+  "author": "Berkeley AI Research Blog",
+  "content_chars": 16231,
+  "content_sha256": "ca750b06b23a170f1d8cc8e63a8145597d38be8f0b2a1a3c12c39ec503b6e343",
+  "content_tokens": 4057,
+  "fetched_at": "2026-09-23T20:37:09Z",
+  "kind": "article",
+  "published_at": "2026-07-29T09:00:00+00:00",
+  "snippet": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon – The Berkeley Artificial Intelligence Research Blog Subscribe About Archive BAIR From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon Shiyi Cao 1 , Gal Bloch 2…",
+  "source_id": "bair",
+  "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+  "top_terms": [
+    [
+      "kernel",
+      35
+    ],
+    [
+      "k-search",
+      26
+    ],
+    [
+      "mlx",
+      26
+    ],
+    [
+      "apple",
+      23
+    ],
+    [
+      "kernels",
+      18
+    ],
+    [
+      "search",
+      18
+    ],
+    [
+      "apple silicon",
+      17
+    ],
+    [
+      "silicon",
+      17
+    ],
+    [
+      "cuda",
+      16
+    ],
+    [
+      "tok",
+      15
+    ],
+    [
+      "attention",
+      14
+    ],
+    [
+      "hardware",
+      13
+    ],
+    [
+      "prefill",
+      13
+    ],
+    [
+      "optimization",
+      11
+    ],
+    [
+      "translation",
+      10
+    ],
+    [
+      "expertise",
+      9
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "scan",
+      9
+    ],
+    [
+      "decode",
+      8
+    ],
+    [
+      "gpu",
+      8
+    ]
+  ],
+  "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+  "url_canonical": "https://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search",
+  "via_source_id": null
+}

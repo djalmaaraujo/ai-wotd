@@ -1,0 +1,98 @@
+{
+  "article_id": "nlp-newsletter--204f8ac6",
+  "author": null,
+  "content_chars": 2158,
+  "content_sha256": "2743aa443d07076ffef67124e51707d4ae76cb1b6397cf9905d7520aea81cc0e",
+  "content_tokens": 539,
+  "fetched_at": "2026-09-23T20:46:38Z",
+  "kind": "article",
+  "published_at": "2023-08-14T08:07:58+00:00",
+  "snippet": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning NeurIPS Proceedings Search TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning Han Cai, Chuang Gan, Ligeng Zhu, Song Han Advances in Neural Information Processing Systems 33 (NeurIPS 2020)…",
+  "source_id": "nlp-newsletter",
+  "title": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning",
+  "top_terms": [
+    [
+      "memory",
+      10
+    ],
+    [
+      "tinytl",
+      9
+    ],
+    [
+      "learning",
+      6
+    ],
+    [
+      "name",
+      6
+    ],
+    [
+      "on-device",
+      5
+    ],
+    [
+      "on-device learning",
+      5
+    ],
+    [
+      "parameters",
+      5
+    ],
+    [
+      "change",
+      4
+    ],
+    [
+      "efficient",
+      4
+    ],
+    [
+      "efficient on-device",
+      4
+    ],
+    [
+      "efficient on-device learning",
+      4
+    ],
+    [
+      "name change",
+      4
+    ],
+    [
+      "not parameters",
+      4
+    ],
+    [
+      "accuracy",
+      3
+    ],
+    [
+      "compared",
+      3
+    ],
+    [
+      "compared to",
+      3
+    ],
+    [
+      "compared to fine-tuning",
+      3
+    ],
+    [
+      "feature",
+      3
+    ],
+    [
+      "fine-tuning",
+      3
+    ],
+    [
+      "fine-tuning the",
+      3
+    ]
+  ],
+  "url": "https://proceedings.neurips.cc/paper/2020/hash/81f7acabd411274fcf65ce2070ed568a-Abstract.html",
+  "url_canonical": "https://proceedings.neurips.cc/paper/2020/hash/81f7acabd411274fcf65ce2070ed568a-Abstract.html",
+  "via_source_id": "nlp-newsletter"
+}

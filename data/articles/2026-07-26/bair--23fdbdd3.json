@@ -1,0 +1,98 @@
+{
+  "article_id": "bair--23fdbdd3",
+  "author": "Berkeley AI Research Blog",
+  "content_chars": 12732,
+  "content_sha256": "9c79ba938eecbbcde62ea66cfad8ff33b9b155d034149a935cfb42b96a0950c9",
+  "content_tokens": 3183,
+  "fetched_at": "2026-09-23T20:37:09Z",
+  "kind": "article",
+  "published_at": "2026-07-26T09:00:00+00:00",
+  "snippet": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction – The Berkeley Artificial Intelligence Research Blog Subscribe About Archive BAIR Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction Jakob Bjorner$^*$ , Aly Lidayan$^*$ , Satvik Golechha…",
+  "source_id": "bair",
+  "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+  "top_terms": [
+    [
+      "belief",
+      38
+    ],
+    [
+      "al",
+      27
+    ],
+    [
+      "et",
+      27
+    ],
+    [
+      "et al",
+      27
+    ],
+    [
+      "context",
+      16
+    ],
+    [
+      "grading",
+      14
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "abbel",
+      12
+    ],
+    [
+      "belief grading",
+      11
+    ],
+    [
+      "summarization",
+      11
+    ],
+    [
+      "better",
+      10
+    ],
+    [
+      "full",
+      10
+    ],
+    [
+      "memory",
+      10
+    ],
+    [
+      "training",
+      10
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "belief states",
+      8
+    ],
+    [
+      "fig",
+      8
+    ],
+    [
+      "information",
+      8
+    ],
+    [
+      "interaction",
+      8
+    ],
+    [
+      "models",
+      8
+    ]
+  ],
+  "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+  "url_canonical": "https://bair.berkeley.edu/blog/2026/07/26/abbel",
+  "via_source_id": null
+}

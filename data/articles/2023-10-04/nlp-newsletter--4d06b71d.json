@@ -1,0 +1,98 @@
+{
+  "article_id": "nlp-newsletter--4d06b71d",
+  "author": null,
+  "content_chars": 24919,
+  "content_sha256": "e00bc1b6812504bde7ffc38a9711aeff775de0925810c9638fc84200ad8b5f04",
+  "content_tokens": 6229,
+  "fetched_at": "2026-09-23T20:46:19Z",
+  "kind": "article",
+  "published_at": "2023-10-04T08:00:22+00:00",
+  "snippet": "Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks - ACL Anthology ACL Anthology About Announcements Communication channels Related work Copyright Credits Volunteer Development Feedback Using Author directory Citing papers Links in the…",
+  "source_id": "nlp-newsletter",
+  "title": "Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks - ACL Anthology",
+  "top_terms": [
+    [
+      "namepart",
+      162
+    ],
+    [
+      "type",
+      161
+    ],
+    [
+      "namepart type",
+      81
+    ],
+    [
+      "name",
+      76
+    ],
+    [
+      "role",
+      76
+    ],
+    [
+      "roleterm",
+      76
+    ],
+    [
+      "text",
+      50
+    ],
+    [
+      "given",
+      43
+    ],
+    [
+      "namepart namepart",
+      43
+    ],
+    [
+      "namepart namepart type",
+      43
+    ],
+    [
+      "namepart type given",
+      43
+    ],
+    [
+      "type given",
+      43
+    ],
+    [
+      "author",
+      41
+    ],
+    [
+      "authority",
+      39
+    ],
+    [
+      "type text",
+      39
+    ],
+    [
+      "authority marcrelator",
+      38
+    ],
+    [
+      "authority marcrelator type",
+      38
+    ],
+    [
+      "family",
+      38
+    ],
+    [
+      "marcrelator",
+      38
+    ],
+    [
+      "marcrelator type",
+      38
+    ]
+  ],
+  "url": "https://aclanthology.org/2022.emnlp-main.340",
+  "url_canonical": "https://aclanthology.org/2022.emnlp-main.340",
+  "via_source_id": "nlp-newsletter"
+}

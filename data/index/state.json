@@ -1,8 +1,26 @@
 {
+  "ahead-of-ai": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:39:53.470575+00:00",
+    "last_guid": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "last_modified": null
+  },
+  "ai-snake-oil": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:45:18.500838+00:00",
+    "last_guid": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+    "last_modified": null
+  },
   "aibreakfast": {
     "etag": null,
     "last_fetched_at": "2026-09-23T17:16:49.825897+00:00",
     "last_guid": "https://aibreakfast.beehiiv.com/p/biggest-model-release-day-ever",
+    "last_modified": null
+  },
+  "bair": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:12.472099+00:00",
+    "last_guid": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
     "last_modified": null
   },
   "codenewsletter": {
@@ -17,10 +35,58 @@
     "last_guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "last_modified": null
   },
+  "google-research": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:36:56.139567+00:00",
+    "last_guid": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+    "last_modified": null
+  },
   "huggingface-blog": {
     "etag": null,
     "last_fetched_at": "2026-09-23T20:16:19.472550+00:00",
     "last_guid": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "last_modified": null
+  },
+  "interconnects": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:38:55.412811+00:00",
+    "last_guid": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+    "last_modified": null
+  },
+  "last-week-in-ai": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:43:05.978608+00:00",
+    "last_guid": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+    "last_modified": null
+  },
+  "latent-space": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:40:57.077228+00:00",
+    "last_guid": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+    "last_modified": null
+  },
+  "microsoft-research": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:04.209904+00:00",
+    "last_guid": "https://www.microsoft.com/en-us/research/?p=1186774",
+    "last_modified": null
+  },
+  "mit-tech-review-ai": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:23.270673+00:00",
+    "last_guid": "https://www.technologyreview.com/?p=1144940",
+    "last_modified": null
+  },
+  "nlp-newsletter": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:46:42.265834+00:00",
+    "last_guid": "https://newsletter.ruder.io/p/the-evolving-landscape-of-llm-evaluation",
+    "last_modified": null
+  },
+  "nvidia-blog": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:07.973727+00:00",
+    "last_guid": "https://blogs.nvidia.com/?p=96008",
     "last_modified": null
   },
   "one-useful-thing": {
@@ -33,6 +99,24 @@
     "etag": null,
     "last_fetched_at": "2026-09-23T20:16:10.125730+00:00",
     "last_guid": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "last_modified": null
+  },
+  "semianalysis": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:21.558772+00:00",
+    "last_guid": "https://semianalysis.com/?p=150450148",
+    "last_modified": null
+  },
+  "simonwillison": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:15.543954+00:00",
+    "last_guid": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+    "last_modified": null
+  },
+  "the-gradient": {
+    "etag": null,
+    "last_fetched_at": "2026-09-23T20:37:31.779777+00:00",
+    "last_guid": "69879dd077c3d76051ac158f",
     "last_modified": null
   },
   "x-bcherny": {

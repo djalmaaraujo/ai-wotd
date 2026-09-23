@@ -1,0 +1,98 @@
+{
+  "article_id": "bair--e9630d13",
+  "author": "Berkeley AI Research Blog",
+  "content_chars": 8393,
+  "content_sha256": "76af782cc03904c5b449ec1f12d8041c1fae40d912c8fa8a6a86e24a6bd4df09",
+  "content_tokens": 2098,
+  "fetched_at": "2026-09-23T20:37:12Z",
+  "kind": "article",
+  "published_at": "2025-09-01T09:00:00+00:00",
+  "snippet": "What exactly does word2vec learn? – The Berkeley Artificial Intelligence Research Blog Subscribe About Archive BAIR What exactly does word2vec learn? Dhruva Karkada , Jamie Simon , Yasaman Bahri , Mike DeWeese Sep 1, 2025 What exactly does word2vec learn, and how? Answering this…",
+  "source_id": "bair",
+  "title": "What exactly does word2vec learn?",
+  "top_terms": [
+    [
+      "learning",
+      19
+    ],
+    [
+      "word2vec",
+      19
+    ],
+    [
+      "linear",
+      12
+    ],
+    [
+      "embedding",
+      9
+    ],
+    [
+      "matrix",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "words",
+      8
+    ],
+    [
+      "language",
+      7
+    ],
+    [
+      "result",
+      7
+    ],
+    [
+      "steps",
+      7
+    ],
+    [
+      "theory",
+      7
+    ],
+    [
+      "approximations",
+      6
+    ],
+    [
+      "embeddings",
+      6
+    ],
+    [
+      "learn",
+      6
+    ],
+    [
+      "learned",
+      6
+    ],
+    [
+      "discrete",
+      5
+    ],
+    [
+      "dynamics",
+      5
+    ],
+    [
+      "exactly",
+      5
+    ],
+    [
+      "features",
+      5
+    ],
+    [
+      "paper",
+      5
+    ]
+  ],
+  "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+  "url_canonical": "https://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory",
+  "via_source_id": null
+}

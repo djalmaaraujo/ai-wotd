@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--f9747e40",
+  "author": null,
+  "content_chars": 16558,
+  "content_sha256": "ddce3d4d21c4c580c8a638e6fad005a93cce740b4fb38873f3afc2acdd3e7b52",
+  "content_tokens": 4139,
+  "fetched_at": "2026-09-23T20:38:41Z",
+  "kind": "article",
+  "published_at": "2026-08-12T13:01:16+00:00",
+  "snippet": "Rejection Sampling | RLHF and Post-Training Book by Nathan Lambert Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models. Nathan Lambert Chapter Contents Rejection Sampling Training Process, Step by Step Generating…",
+  "source_id": "interconnects",
+  "title": "Rejection Sampling | RLHF and Post-Training Book by Nathan Lambert",
+  "top_terms": [
+    [
+      "sampling",
+      47
+    ],
+    [
+      "reward",
+      43
+    ],
+    [
+      "completions",
+      37
+    ],
+    [
+      "prompt",
+      36
+    ],
+    [
+      "rejection",
+      35
+    ],
+    [
+      "rejection sampling",
+      35
+    ],
+    [
+      "model",
+      34
+    ],
+    [
+      "completion",
+      20
+    ],
+    [
+      "reward model",
+      18
+    ],
+    [
+      "qquad",
+      17
+    ],
+    [
+      "training",
+      16
+    ],
+    [
+      "top",
+      15
+    ],
+    [
+      "per prompt",
+      14
+    ],
+    [
+      "indices",
+      11
+    ],
+    [
+      "prompts",
+      11
+    ],
+    [
+      "select",
+      11
+    ],
+    [
+      "bmatrix",
+      10
+    ],
+    [
+      "completion reward",
+      10
+    ],
+    [
+      "matrix",
+      10
+    ],
+    [
+      "prompt completion",
+      10
+    ]
+  ],
+  "url": "https://rlhfbook.com/c/09-rejection-sampling",
+  "url_canonical": "https://rlhfbook.com/c/09-rejection-sampling",
+  "via_source_id": "interconnects"
+}

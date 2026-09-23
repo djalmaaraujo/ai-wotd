@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--234c32d0",
+  "author": null,
+  "content_chars": 109867,
+  "content_sha256": "f306eb14e0b8bebf9609b604daa80c3f46c23640d7a9684b4fd0796a18e6bd7a",
+  "content_tokens": 27466,
+  "fetched_at": "2026-09-23T20:38:43Z",
+  "kind": "article",
+  "published_at": "2026-08-10T13:02:42+00:00",
+  "snippet": "Reinforcement Learning | RLHF and Post-Training Book by Nathan Lambert Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models. Nathan Lambert Chapter Contents Reinforcement Learning The Role of Reinforcement Learning…",
+  "source_id": "interconnects",
+  "title": "Reinforcement Learning | RLHF and Post-Training Book by Nathan Lambert",
+  "top_terms": [
+    [
+      "theta",
+      262
+    ],
+    [
+      "policy",
+      208
+    ],
+    [
+      "pi",
+      138
+    ],
+    [
+      "gradient",
+      126
+    ],
+    [
+      "pi theta",
+      110
+    ],
+    [
+      "text",
+      104
+    ],
+    [
+      "ppo",
+      97
+    ],
+    [
+      "sum",
+      97
+    ],
+    [
+      "value",
+      88
+    ],
+    [
+      "advantage",
+      87
+    ],
+    [
+      "loss",
+      87
+    ],
+    [
+      "reward",
+      77
+    ],
+    [
+      "model",
+      76
+    ],
+    [
+      "grpo",
+      72
+    ],
+    [
+      "algorithms",
+      70
+    ],
+    [
+      "frac",
+      70
+    ],
+    [
+      "rewards",
+      69
+    ],
+    [
+      "learning",
+      68
+    ],
+    [
+      "ratio",
+      68
+    ],
+    [
+      "token",
+      67
+    ]
+  ],
+  "url": "https://rlhfbook.com/c/06-policy-gradients",
+  "url_canonical": "https://rlhfbook.com/c/06-policy-gradients",
+  "via_source_id": "interconnects"
+}

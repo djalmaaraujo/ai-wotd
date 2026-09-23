@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--ccc76ad1",
+  "author": null,
+  "content_chars": 3911,
+  "content_sha256": "d965225d660e7c3863124f1d8d174d5b7aea7b7f6b201a1791488b818b76872e",
+  "content_tokens": 977,
+  "fetched_at": "2026-09-23T20:40:23Z",
+  "kind": "article",
+  "published_at": "2026-09-18T06:28:43+00:00",
+  "snippet": "IMAGE=\"${IMAGE:-llama-turboquant:cuda}\"HOST_PORT=\"${HOST_PORT:-8080}\"NETWORK - Pastebin.com Pastebin API tools faq paste Login Sign up SHARE TWEET Untitled a guest Sep 16th, 2026 996 0 Never Add comment Not a member of Pastebin yet? Sign Up , it unlocks many cool features! Bash…",
+  "source_id": "latent-space",
+  "title": "IMAGE=\"${IMAGE:-llama-turboquant:cuda}\"HOST_PORT=\"${HOST_PORT:-8080}\"NETWORK - Pastebin.com",
+  "top_terms": [
+    [
+      "file",
+      9
+    ],
+    [
+      "kb",
+      9
+    ],
+    [
+      "ago",
+      8
+    ],
+    [
+      "ago kb",
+      8
+    ],
+    [
+      "pastebin",
+      8
+    ],
+    [
+      "host",
+      7
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "name",
+      7
+    ],
+    [
+      "cuda",
+      6
+    ],
+    [
+      "host port",
+      6
+    ],
+    [
+      "network",
+      6
+    ],
+    [
+      "port",
+      6
+    ],
+    [
+      "cookies",
+      5
+    ],
+    [
+      "models",
+      5
+    ],
+    [
+      "api",
+      4
+    ],
+    [
+      "docker",
+      4
+    ],
+    [
+      "layers",
+      4
+    ],
+    [
+      "llama-turboquant",
+      4
+    ],
+    [
+      "mmproj",
+      4
+    ],
+    [
+      "model",
+      4
+    ]
+  ],
+  "url": "https://pastebin.com/Y5VHvzvD",
+  "url_canonical": "https://pastebin.com/Y5VHvzvD",
+  "via_source_id": "latent-space"
+}

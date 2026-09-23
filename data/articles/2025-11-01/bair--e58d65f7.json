@@ -1,0 +1,98 @@
+{
+  "article_id": "bair--e58d65f7",
+  "author": "Berkeley AI Research Blog",
+  "content_chars": 11543,
+  "content_sha256": "4db1c255a06914416377df3d2cf657467700463f2a853ed398c7d96a45ba5d09",
+  "content_tokens": 2885,
+  "fetched_at": "2026-09-23T20:37:12Z",
+  "kind": "article",
+  "published_at": "2025-11-01T09:00:00+00:00",
+  "snippet": "RL without TD learning – The Berkeley Artificial Intelligence Research Blog Subscribe About Archive BAIR RL without TD learning Seohong Park Nov 1, 2025 In this post, I’ll introduce a reinforcement learning (RL) algorithm based on an “alternative” paradigm: divide and conquer…",
+  "source_id": "bair",
+  "title": "RL without TD learning",
+  "top_terms": [
+    [
+      "rl",
+      35
+    ],
+    [
+      "learning",
+      23
+    ],
+    [
+      "value",
+      18
+    ],
+    [
+      "td",
+      15
+    ],
+    [
+      "tasks",
+      13
+    ],
+    [
+      "off-policy",
+      12
+    ],
+    [
+      "off-policy rl",
+      12
+    ],
+    [
+      "td learning",
+      12
+    ],
+    [
+      "algorithm",
+      10
+    ],
+    [
+      "aligned",
+      10
+    ],
+    [
+      "problem",
+      10
+    ],
+    [
+      "trl",
+      10
+    ],
+    [
+      "divide",
+      9
+    ],
+    [
+      "divide-and-conquer",
+      9
+    ],
+    [
+      "and conquer",
+      8
+    ],
+    [
+      "conquer",
+      8
+    ],
+    [
+      "divide and",
+      8
+    ],
+    [
+      "divide and conquer",
+      8
+    ],
+    [
+      "trajectory",
+      7
+    ],
+    [
+      "value learning",
+      7
+    ]
+  ],
+  "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+  "url_canonical": "https://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning",
+  "via_source_id": null
+}

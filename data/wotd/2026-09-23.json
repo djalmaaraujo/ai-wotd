@@ -2,245 +2,286 @@
   "candidates": [
     {
       "articles": [
+        "google-deepmind--2f1c9b52",
+        "latent-space--0505aae3",
+        "latent-space--0fc5da0a",
+        "latent-space--c11a70ce",
+        "latent-space--e310d17b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 839.934063,
+      "term": "genome",
+      "tf_today": 123
+    },
+    {
+      "articles": [
+        "aibreakfast--01388bbd",
+        "codenewsletter--2ae99efa",
+        "huggingface-blog--56cb74c6",
+        "latent-space--7722f4c1",
+        "latent-space--87805e1c",
+        "latent-space--90379a15",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 8,
+      "score": 424.792536,
+      "term": "opus",
+      "tf_today": 152
+    },
+    {
+      "articles": [
         "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 447.288773,
+      "score": 391.377676,
       "term": "speaker",
       "tf_today": 77
     },
     {
       "articles": [
+        "latent-space--0505aae3",
+        "latent-space--0fc5da0a",
+        "latent-space--c11a70ce",
+        "latent-space--e310d17b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 370.012951,
+      "term": "dna",
+      "tf_today": 66
+    },
+    {
+      "articles": [
+        "aibreakfast--01388bbd",
+        "codenewsletter--2ae99efa",
+        "latent-space--7722f4c1",
+        "latent-space--87805e1c",
+        "latent-space--90379a15",
+        "latent-space--e310d17b",
+        "simonwillison--d1010689"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 366.454982,
+      "term": "fable",
+      "tf_today": 57
+    },
+    {
+      "articles": [
         "huggingface-blog--56cb74c6",
         "huggingface-blog--69b35cc4"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 411.884106,
+      "score": 360.398593,
       "term": "diarization",
       "tf_today": 72
     },
     {
       "articles": [
-        "aibreakfast--01388bbd",
-        "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6"
+        "huggingface-blog--56cb74c6",
+        "latent-space--0505aae3",
+        "latent-space--7722f4c1",
+        "latent-space--87805e1c",
+        "latent-space--c11a70ce",
+        "latent-space--e310d17b",
+        "microsoft-research--7ba67547"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 215.799448,
-      "term": "speech",
-      "tf_today": 39
+      "df_today": 7,
+      "score": 334.742245,
+      "term": "show",
+      "tf_today": 53
     },
     {
       "articles": [
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
+        "google-deepmind--2f1c9b52",
+        "google-deepmind--cc2ee9eb",
+        "latent-space--0505aae3",
+        "latent-space--0fc5da0a",
+        "latent-space--7722f4c1",
+        "latent-space--87805e1c",
+        "latent-space--90379a15",
+        "latent-space--c11a70ce",
+        "latent-space--e310d17b",
+        "microsoft-research--7ba67547"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 161.175779,
-      "term": "nemotron",
+      "df_today": 10,
+      "score": 307.070774,
+      "term": "science",
+      "tf_today": 44
+    },
+    {
+      "articles": [
+        "aibreakfast--01388bbd",
+        "codenewsletter--2ae99efa",
+        "latent-space--0505aae3",
+        "latent-space--4969f050",
+        "latent-space--7722f4c1",
+        "latent-space--87805e1c",
+        "latent-space--90379a15",
+        "latent-space--e310d17b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 8,
+      "score": 302.204585,
+      "term": "tokens",
       "tf_today": 34
     },
     {
       "articles": [
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 143.250417,
-      "term": "nemotron diarization",
-      "tf_today": 31
-    },
-    {
-      "articles": [
-        "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 134.954283,
-      "term": "tts",
-      "tf_today": 27
-    },
-    {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "google-deepmind--2f1c9b52",
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
-      ],
-      "avg_tf_baseline": 1.0,
-      "df_today": 4,
-      "score": 116.012785,
-      "term": "device",
-      "tf_today": 38
-    },
-    {
-      "articles": [
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 103.004026,
-      "term": "latency",
-      "tf_today": 24
-    },
-    {
-      "articles": [
         "codenewsletter--2ae99efa",
-        "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6"
+        "latent-space--0505aae3",
+        "latent-space--7722f4c1",
+        "latent-space--90379a15",
+        "latent-space--c11a70ce",
+        "latent-space--e310d17b",
+        "simonwillison--5bd2fa22",
+        "simonwillison--d1010689"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 91.335673,
-      "term": "english",
-      "tf_today": 20
-    },
-    {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "huggingface-blog--56cb74c6",
-        "huggingface-blog--69b35cc4"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 85.37837,
-      "term": "simulation",
-      "tf_today": 19
+      "df_today": 8,
+      "score": 287.148105,
+      "term": "jev",
+      "tf_today": 45
     }
   ],
   "date": "2026-09-23",
   "evidence_article_ids": [
+    "aibreakfast--01388bbd",
+    "codenewsletter--2ae99efa",
     "huggingface-blog--56cb74c6",
-    "huggingface-blog--69b35cc4"
+    "latent-space--7722f4c1",
+    "latent-space--87805e1c",
+    "latent-space--90379a15",
+    "simonwillison--5bd2fa22",
+    "simonwillison--d1010689"
   ],
   "judge": {
-    "input_tokens": 18436,
+    "input_tokens": 23944,
     "model": "jev-1.13.0",
-    "pool_size": 40,
+    "pool_size": 49,
     "signals": {
-      "astra": {
-        "dominance": 2.15,
-        "event": 0.73,
-        "form": 0.88,
+      "ainews": {
+        "dominance": 2.17,
+        "event": 0.57,
+        "form": 0.67,
         "novelty": 0.68,
-        "specificity": 1.89
+        "specificity": 1.32
       },
-      "audio": {
-        "dominance": 2.08,
-        "event": 0.93,
-        "form": 0.84,
-        "novelty": 0.64,
-        "specificity": 0.94
+      "astra": {
+        "dominance": 1.89,
+        "event": 0.81,
+        "form": 0.82,
+        "novelty": 0.83,
+        "specificity": 1.92
       },
       "diarization": {
-        "dominance": 1.81,
-        "event": 0.76,
+        "dominance": 1.65,
+        "event": 0.73,
         "form": 0.88,
         "novelty": 0.76,
         "specificity": 1.99
       },
-      "memory": {
-        "dominance": 1.81,
-        "event": 0.81,
-        "form": 0.88,
-        "novelty": 0.51,
-        "specificity": 1.78
+      "latent space": {
+        "dominance": 1.74,
+        "event": 0.13,
+        "form": 0.83,
+        "novelty": 0.7,
+        "specificity": 1.75
       },
-      "nemotron diarization": {
-        "dominance": 1.89,
-        "event": 0.77,
-        "form": 0.91,
-        "novelty": 0.82,
-        "specificity": 2.0
+      "lower": {
+        "dominance": 2.94,
+        "event": 0.83,
+        "form": 0.38,
+        "novelty": 0.26,
+        "specificity": 0.11
+      },
+      "model": {
+        "dominance": 2.97,
+        "event": 0.92,
+        "form": 0.88,
+        "novelty": 0.49,
+        "specificity": 1.24
+      },
+      "nemotron": {
+        "dominance": 1.66,
+        "event": 0.7,
+        "form": 0.92,
+        "novelty": 0.77,
+        "specificity": 1.99
       },
       "nvidia": {
-        "dominance": 2.02,
-        "event": 0.68,
-        "form": 0.94,
-        "novelty": 0.85,
-        "specificity": 1.21
+        "dominance": 1.94,
+        "event": 0.67,
+        "form": 0.92,
+        "novelty": 0.72,
+        "specificity": 1.18
       },
       "openai": {
-        "dominance": 2.89,
-        "event": 0.93,
-        "form": 0.85,
-        "novelty": 0.61,
-        "specificity": 1.02
+        "dominance": 2.51,
+        "event": 0.88,
+        "form": 0.84,
+        "novelty": 0.7,
+        "specificity": 1.03
       },
       "opus": {
-        "dominance": 1.96,
-        "event": 0.95,
-        "form": 0.88,
-        "novelty": 0.73,
-        "specificity": 1.92
+        "dominance": 2.93,
+        "event": 0.94,
+        "form": 0.87,
+        "novelty": 0.82,
+        "specificity": 1.95
       },
-      "rate": {
-        "dominance": 2.15,
-        "event": 0.8,
-        "form": 0.63,
-        "novelty": 0.22,
-        "specificity": 0.4
+      "price": {
+        "dominance": 2.98,
+        "event": 0.9,
+        "form": 0.78,
+        "novelty": 0.77,
+        "specificity": 0.37
+      },
+      "released": {
+        "dominance": 2.91,
+        "event": 0.91,
+        "form": 0.53,
+        "novelty": 0.54,
+        "specificity": 0.74
       },
       "robotics": {
-        "dominance": 1.55,
-        "event": 0.27,
-        "form": 0.94,
-        "novelty": 0.64,
-        "specificity": 0.82
-      },
-      "simulation": {
-        "dominance": 1.55,
-        "event": 0.43,
-        "form": 0.88,
-        "novelty": 0.65,
-        "specificity": 1.14
-      },
-      "speaker": {
-        "dominance": 1.72,
-        "event": 0.81,
-        "form": 0.78,
-        "novelty": 0.7,
-        "specificity": 1.07
+        "dominance": 1.62,
+        "event": 0.53,
+        "form": 0.93,
+        "novelty": 0.69,
+        "specificity": 0.87
       },
       "speech": {
         "dominance": 2.08,
-        "event": 0.93,
-        "form": 0.82,
-        "novelty": 0.66,
-        "specificity": 1.06
-      },
-      "tts": {
-        "dominance": 1.92,
-        "event": 0.93,
-        "form": 0.56,
-        "novelty": 0.77,
-        "specificity": 1.97
-      },
-      "voice": {
-        "dominance": 2.25,
-        "event": 0.88,
+        "event": 0.92,
         "form": 0.84,
-        "novelty": 0.66,
-        "specificity": 0.89
+        "novelty": 0.64,
+        "specificity": 0.98
+      },
+      "technology": {
+        "dominance": 2.53,
+        "event": 0.95,
+        "form": 0.86,
+        "novelty": 0.24,
+        "specificity": 0.25
       }
     },
     "status": "ok",
     "survivors": [
-      "nemotron diarization",
       "opus",
       "astra",
+      "nemotron",
       "diarization"
     ]
   },
-  "score": 143.250417,
-  "word": "nemotron diarization"
+  "score": 424.792536,
+  "word": "opus"
 }

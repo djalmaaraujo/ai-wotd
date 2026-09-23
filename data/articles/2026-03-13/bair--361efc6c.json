@@ -1,0 +1,98 @@
+{
+  "article_id": "bair--361efc6c",
+  "author": "Berkeley AI Research Blog",
+  "content_chars": 11000,
+  "content_sha256": "255d33a0ac3294f66cd019159a6fe6bc2a14a3fcab5b725965bb6f684ea31440",
+  "content_tokens": 2750,
+  "fetched_at": "2026-09-23T20:37:11Z",
+  "kind": "article",
+  "published_at": "2026-03-13T09:00:00+00:00",
+  "snippet": "Identifying Interactions at Scale for LLMs – The Berkeley Artificial Intelligence Research Blog Subscribe About Archive BAIR Identifying Interactions at Scale for LLMs Landon Butler , Justin Singh Kang , Yigit Efe Erginbas , Abhineet Agarwal , Bin Yu , Kannan Ramchandran Mar 13…",
+  "source_id": "bair",
+  "title": "Identifying Interactions at Scale for LLMs",
+  "top_terms": [
+    [
+      "model",
+      26
+    ],
+    [
+      "interactions",
+      25
+    ],
+    [
+      "attribution",
+      16
+    ],
+    [
+      "spex",
+      13
+    ],
+    [
+      "the model",
+      12
+    ],
+    [
+      "data",
+      11
+    ],
+    [
+      "feature",
+      9
+    ],
+    [
+      "components",
+      8
+    ],
+    [
+      "identifying",
+      8
+    ],
+    [
+      "influential",
+      8
+    ],
+    [
+      "interaction",
+      8
+    ],
+    [
+      "specific",
+      8
+    ],
+    [
+      "training",
+      8
+    ],
+    [
+      "feature attribution",
+      7
+    ],
+    [
+      "features",
+      7
+    ],
+    [
+      "influential interactions",
+      7
+    ],
+    [
+      "proxyspex",
+      7
+    ],
+    [
+      "complex",
+      6
+    ],
+    [
+      "internal",
+      6
+    ],
+    [
+      "interpretability",
+      6
+    ]
+  ],
+  "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
+  "url_canonical": "https://bair.berkeley.edu/blog/2026/03/13/spex",
+  "via_source_id": null
+}

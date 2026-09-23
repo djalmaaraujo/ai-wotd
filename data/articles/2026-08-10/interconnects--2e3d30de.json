@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--2e3d30de",
+  "author": null,
+  "content_chars": 29784,
+  "content_sha256": "9bde4ac8cf1489b2aa9a998f00dac7def05b32e7775114316b5128587ce4e2d7",
+  "content_tokens": 7446,
+  "fetched_at": "2026-09-23T20:38:44Z",
+  "kind": "article",
+  "published_at": "2026-08-10T13:02:42+00:00",
+  "snippet": "Regularization | RLHF and Post-Training Book by Nathan Lambert Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models. Nathan Lambert Chapter Contents Regularization KL Divergence in RL Optimization Reference Model to…",
+  "source_id": "interconnects",
+  "title": "Regularization | RLHF and Post-Training Book by Nathan Lambert",
+  "top_terms": [
+    [
+      "kl",
+      89
+    ],
+    [
+      "pi",
+      76
+    ],
+    [
+      "model",
+      63
+    ],
+    [
+      "text",
+      62
+    ],
+    [
+      "rl",
+      58
+    ],
+    [
+      "theta",
+      50
+    ],
+    [
+      "mid",
+      45
+    ],
+    [
+      "log",
+      39
+    ],
+    [
+      "right",
+      38
+    ],
+    [
+      "left",
+      36
+    ],
+    [
+      "sft",
+      32
+    ],
+    [
+      "the model",
+      27
+    ],
+    [
+      "ref",
+      26
+    ],
+    [
+      "mathcal",
+      25
+    ],
+    [
+      "pi star",
+      23
+    ],
+    [
+      "pi theta",
+      23
+    ],
+    [
+      "star",
+      23
+    ],
+    [
+      "distribution",
+      22
+    ],
+    [
+      "training",
+      21
+    ],
+    [
+      "divergence",
+      20
+    ]
+  ],
+  "url": "https://rlhfbook.com/c/15-regularization",
+  "url_canonical": "https://rlhfbook.com/c/15-regularization",
+  "via_source_id": "interconnects"
+}

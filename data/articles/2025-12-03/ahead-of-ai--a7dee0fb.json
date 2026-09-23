@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--a7dee0fb",
+  "author": null,
+  "content_chars": 37046,
+  "content_sha256": "19d3922db26bf8b29f83d58208eacfa4073d3deb0bb977d8fb69a22e5636e335",
+  "content_tokens": 9261,
+  "fetched_at": "2026-09-23T20:39:52Z",
+  "kind": "article",
+  "published_at": "2025-12-03T12:03:33+00:00",
+  "snippet": "inference/model.py · deepseek-ai/DeepSeek-V3.2-Exp at main Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "ahead-of-ai",
+  "title": "inference/model.py · deepseek-ai/DeepSeek-V3.2-Exp at main",
+  "top_terms": [
+    [
+      "self",
+      291
+    ],
+    [
+      "dim",
+      170
+    ],
+    [
+      "torch",
+      168
+    ],
+    [
+      "args",
+      122
+    ],
+    [
+      "int",
+      116
+    ],
+    [
+      "tensor",
+      116
+    ],
+    [
+      "size",
+      98
+    ],
+    [
+      "torch tensor",
+      82
+    ],
+    [
+      "head",
+      62
+    ],
+    [
+      "scale",
+      57
+    ],
+    [
+      "head dim",
+      56
+    ],
+    [
+      "features",
+      48
+    ],
+    [
+      "experts",
+      47
+    ],
+    [
+      "layer",
+      44
+    ],
+    [
+      "nn",
+      44
+    ],
+    [
+      "dtype",
+      42
+    ],
+    [
+      "float",
+      42
+    ],
+    [
+      "dim int",
+      40
+    ],
+    [
+      "linear",
+      40
+    ],
+    [
+      "dim self",
+      39
+    ]
+  ],
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/inference/model.py",
+  "url_canonical": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/inference/model.py",
+  "via_source_id": "ahead-of-ai"
+}

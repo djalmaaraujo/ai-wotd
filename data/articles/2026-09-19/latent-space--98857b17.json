@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--98857b17",
+  "author": null,
+  "content_chars": 50014,
+  "content_sha256": "cb63f0af537a99c857503717a6cfb87f6d14f7bcecc7daf6551650312c11cb9a",
+  "content_tokens": 12503,
+  "fetched_at": "2026-09-23T20:40:18Z",
+  "kind": "article",
+  "published_at": "2026-09-19T05:48:28+00:00",
+  "snippet": "GitHub - NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. · GitHub Skip to content Navigation Menu Sign…",
+  "source_id": "latent-space",
+  "title": "GitHub - NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. · GitHub",
+  "top_terms": [
+    [
+      "laya",
+      128
+    ],
+    [
+      "router",
+      61
+    ],
+    [
+      "checkpoint",
+      52
+    ],
+    [
+      "agent",
+      47
+    ],
+    [
+      "questions",
+      47
+    ],
+    [
+      "predict",
+      46
+    ],
+    [
+      "english",
+      43
+    ],
+    [
+      "ms",
+      36
+    ],
+    [
+      "model",
+      35
+    ],
+    [
+      "state",
+      32
+    ],
+    [
+      "true",
+      29
+    ],
+    [
+      "routing",
+      27
+    ],
+    [
+      "python",
+      26
+    ],
+    [
+      "choice",
+      25
+    ],
+    [
+      "answers",
+      24
+    ],
+    [
+      "checkpoints",
+      24
+    ],
+    [
+      "question",
+      24
+    ],
+    [
+      "score",
+      24
+    ],
+    [
+      "forward",
+      23
+    ],
+    [
+      "labels",
+      23
+    ]
+  ],
+  "url": "https://github.com/NandhaKishorM/laya",
+  "url_canonical": "https://github.com/NandhaKishorM/laya",
+  "via_source_id": "latent-space"
+}

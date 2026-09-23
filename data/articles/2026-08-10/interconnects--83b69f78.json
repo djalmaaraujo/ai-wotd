@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--83b69f78",
+  "author": null,
+  "content_chars": 20023,
+  "content_sha256": "f40551b4a0c2781d7f2e50b072ec6bfce4ddb3c4991cc31d9b27b7ce53e376cb",
+  "content_tokens": 5005,
+  "fetched_at": "2026-09-23T20:38:44Z",
+  "kind": "article",
+  "published_at": "2026-08-10T13:02:42+00:00",
+  "snippet": "Over-Optimization | RLHF and Post-Training Book by Nathan Lambert Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models. Nathan Lambert Chapter Contents Over-Optimization Qualitative Over-Optimization Managing Proxy…",
+  "source_id": "interconnects",
+  "title": "Over-Optimization | RLHF and Post-Training Book by Nathan Lambert",
+  "top_terms": [
+    [
+      "model",
+      40
+    ],
+    [
+      "rlhf",
+      38
+    ],
+    [
+      "training",
+      32
+    ],
+    [
+      "over-optimization",
+      30
+    ],
+    [
+      "models",
+      28
+    ],
+    [
+      "reward",
+      26
+    ],
+    [
+      "learning",
+      20
+    ],
+    [
+      "reward model",
+      14
+    ],
+    [
+      "kl",
+      13
+    ],
+    [
+      "arxiv",
+      11
+    ],
+    [
+      "language",
+      11
+    ],
+    [
+      "data",
+      10
+    ],
+    [
+      "distance",
+      10
+    ],
+    [
+      "human",
+      10
+    ],
+    [
+      "proxy",
+      10
+    ],
+    [
+      "rl",
+      10
+    ],
+    [
+      "alignment",
+      9
+    ],
+    [
+      "behavior",
+      9
+    ],
+    [
+      "optimization",
+      9
+    ],
+    [
+      "al",
+      8
+    ]
+  ],
+  "url": "https://rlhfbook.com/c/14-over-optimization",
+  "url_canonical": "https://rlhfbook.com/c/14-over-optimization",
+  "via_source_id": "interconnects"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--40f3a1f6",
+  "author": "Sebastian Raschka, PhD",
+  "content_chars": 33771,
+  "content_sha256": "d44202ad472f8e35a713e1a76e0ecba7b75623f59f5a8f963f312c957d9bf624",
+  "content_tokens": 8442,
+  "fetched_at": "2026-09-23T20:39:40Z",
+  "kind": "article",
+  "published_at": "2026-03-22T11:55:40+00:00",
+  "snippet": "A Visual Guide to Attention Variants in Modern LLMs Subscribe Sign in A Visual Guide to Attention Variants in Modern LLMs From MHA and GQA to MLA, Sparse Attention, and Hybrid Architectures Sebastian Raschka, PhD Mar 22, 2026 459 16 36 Share I had originally planned to write…",
+  "source_id": "ahead-of-ai",
+  "title": "A Visual Guide to Attention Variants in Modern LLMs",
+  "top_terms": [
+    [
+      "attention",
+      151
+    ],
+    [
+      "figure",
+      40
+    ],
+    [
+      "mla",
+      38
+    ],
+    [
+      "gqa",
+      34
+    ],
+    [
+      "gated",
+      30
+    ],
+    [
+      "deepseek",
+      29
+    ],
+    [
+      "token",
+      28
+    ],
+    [
+      "source",
+      26
+    ],
+    [
+      "hybrid",
+      25
+    ],
+    [
+      "original",
+      25
+    ],
+    [
+      "original source",
+      24
+    ],
+    [
+      "layers",
+      23
+    ],
+    [
+      "sparse",
+      21
+    ],
+    [
+      "architecture",
+      20
+    ],
+    [
+      "mha",
+      20
+    ],
+    [
+      "architectures",
+      19
+    ],
+    [
+      "deltanet",
+      18
+    ],
+    [
+      "tokens",
+      18
+    ],
+    [
+      "model",
+      17
+    ],
+    [
+      "pattern",
+      17
+    ]
+  ],
+  "url": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+  "url_canonical": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--3ef140ad",
+  "author": null,
+  "content_chars": 50451,
+  "content_sha256": "68d074234766d30ca9b3c2b570da3dc818739c0f866cc6a87a302db72e14782a",
+  "content_tokens": 12612,
+  "fetched_at": "2026-09-23T20:38:42Z",
+  "kind": "article",
+  "published_at": "2026-08-10T13:02:42+00:00",
+  "snippet": "Reward Modeling | RLHF and Post-Training Book by Nathan Lambert Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models. Nathan Lambert Chapter Contents Reward Modeling Training a Bradley-Terry Reward Model The Default…",
+  "source_id": "interconnects",
+  "title": "Reward Modeling | RLHF and Post-Training Book by Nathan Lambert",
+  "top_terms": [
+    [
+      "reward",
+      143
+    ],
+    [
+      "model",
+      100
+    ],
+    [
+      "models",
+      86
+    ],
+    [
+      "reward models",
+      60
+    ],
+    [
+      "theta",
+      60
+    ],
+    [
+      "loss",
+      56
+    ],
+    [
+      "reward model",
+      47
+    ],
+    [
+      "arxiv",
+      43
+    ],
+    [
+      "hidden",
+      42
+    ],
+    [
+      "token",
+      42
+    ],
+    [
+      "mid",
+      40
+    ],
+    [
+      "right",
+      38
+    ],
+    [
+      "al",
+      35
+    ],
+    [
+      "et",
+      35
+    ],
+    [
+      "et al",
+      35
+    ],
+    [
+      "left",
+      35
+    ],
+    [
+      "labels",
+      34
+    ],
+    [
+      "learning",
+      34
+    ],
+    [
+      "training",
+      34
+    ],
+    [
+      "completion",
+      31
+    ]
+  ],
+  "url": "https://rlhfbook.com/c/05-reward-models",
+  "url_canonical": "https://rlhfbook.com/c/05-reward-models",
+  "via_source_id": "interconnects"
+}
