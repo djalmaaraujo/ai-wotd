@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a0865ca5",
+  "author": "Hugging Face Blog",
+  "content_chars": 13738,
+  "content_sha256": "d582ab189fb1872ccd1c4918f741113b2c783f54affd55e5e0ad1dbda74a60f8",
+  "content_tokens": 3434,
+  "fetched_at": "2026-09-23T20:16:14Z",
+  "kind": "article",
+  "published_at": "2022-03-28T00:00:00+00:00",
+  "snippet": "Introducing Decision Transformers on Hugging Face 🤗 Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing Decision Transformers on Hugging Face 🤗",
+  "top_terms": [
+    [
+      "model",
+      33
+    ],
+    [
+      "torch",
+      29
+    ],
+    [
+      "actions",
+      24
+    ],
+    [
+      "decision",
+      24
+    ],
+    [
+      "learning",
+      23
+    ],
+    [
+      "return",
+      23
+    ],
+    [
+      "state",
+      23
+    ],
+    [
+      "reinforcement",
+      22
+    ],
+    [
+      "reinforcement learning",
+      22
+    ],
+    [
+      "states",
+      20
+    ],
+    [
+      "dim",
+      18
+    ],
+    [
+      "transformers",
+      18
+    ],
+    [
+      "action",
+      16
+    ],
+    [
+      "timesteps",
+      15
+    ],
+    [
+      "transformer",
+      15
+    ],
+    [
+      "decision transformer",
+      14
+    ],
+    [
+      "returns",
+      12
+    ],
+    [
+      "offline",
+      11
+    ],
+    [
+      "rewards",
+      11
+    ],
+    [
+      "cat",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/decision-transformers",
+  "url_canonical": "https://huggingface.co/blog/decision-transformers",
+  "via_source_id": null
+}

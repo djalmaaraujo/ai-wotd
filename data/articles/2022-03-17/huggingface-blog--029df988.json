@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--029df988",
+  "author": "Hugging Face Blog",
+  "content_chars": 15331,
+  "content_sha256": "69c913b36072de600f563eb366c27a5a2a5b45f9e961af082b0ac6053af34281",
+  "content_tokens": 3832,
+  "fetched_at": "2026-09-23T20:16:14Z",
+  "kind": "article",
+  "published_at": "2022-03-17T00:00:00+00:00",
+  "snippet": "Fine-Tune a Semantic Segmentation Model with a Custom Dataset Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-Tune a Semantic Segmentation Model with a Custom Dataset",
+  "top_terms": [
+    [
+      "model",
+      60
+    ],
+    [
+      "dataset",
+      40
+    ],
+    [
+      "hub",
+      30
+    ],
+    [
+      "segmentation",
+      26
+    ],
+    [
+      "image",
+      25
+    ],
+    [
+      "we'll",
+      17
+    ],
+    [
+      "ds",
+      16
+    ],
+    [
+      "labels",
+      16
+    ],
+    [
+      "logits",
+      16
+    ],
+    [
+      "semantic",
+      16
+    ],
+    [
+      "train",
+      16
+    ],
+    [
+      "load",
+      15
+    ],
+    [
+      "semantic segmentation",
+      15
+    ],
+    [
+      "batch",
+      14
+    ],
+    [
+      "size",
+      14
+    ],
+    [
+      "import",
+      13
+    ],
+    [
+      "datasets",
+      12
+    ],
+    [
+      "hugging",
+      12
+    ],
+    [
+      "images",
+      12
+    ],
+    [
+      "processor",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/fine-tune-segformer",
+  "url_canonical": "https://huggingface.co/blog/fine-tune-segformer",
+  "via_source_id": null
+}

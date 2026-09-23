@@ -7,9 +7,20 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 484.562837,
+      "score": 447.288773,
       "term": "speaker",
       "tf_today": 77
+    },
+    {
+      "articles": [
+        "huggingface-blog--56cb74c6",
+        "huggingface-blog--69b35cc4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 411.884106,
+      "term": "diarization",
+      "tf_today": 72
     },
     {
       "articles": [
@@ -19,20 +30,67 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 3,
-      "score": 232.025571,
+      "score": 215.799448,
       "term": "speech",
-      "tf_today": 38
+      "tf_today": 39
+    },
+    {
+      "articles": [
+        "huggingface-blog--56cb74c6",
+        "huggingface-blog--69b35cc4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 161.175779,
+      "term": "nemotron",
+      "tf_today": 34
+    },
+    {
+      "articles": [
+        "huggingface-blog--56cb74c6",
+        "huggingface-blog--69b35cc4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 143.250417,
+      "term": "nemotron diarization",
+      "tf_today": 31
     },
     {
       "articles": [
         "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6"
+        "huggingface-blog--56cb74c6",
+        "huggingface-blog--69b35cc4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 134.954283,
+      "term": "tts",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "aibreakfast--01388bbd",
+        "google-deepmind--2f1c9b52",
+        "huggingface-blog--56cb74c6",
+        "huggingface-blog--69b35cc4"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 4,
+      "score": 116.012785,
+      "term": "device",
+      "tf_today": 38
+    },
+    {
+      "articles": [
+        "huggingface-blog--56cb74c6",
+        "huggingface-blog--69b35cc4"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 123.776985,
-      "term": "tts",
-      "tf_today": 26
+      "score": 103.004026,
+      "term": "latency",
+      "tf_today": 24
     },
     {
       "articles": [
@@ -42,113 +100,147 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 3,
-      "score": 101.484081,
+      "score": 91.335673,
       "term": "english",
       "tf_today": 20
     },
     {
       "articles": [
-        "google-deepmind--2f1c9b52",
-        "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6"
-      ],
-      "avg_tf_baseline": 3.6,
-      "df_today": 3,
-      "score": 46.646627,
-      "term": "audio",
-      "tf_today": 51
-    },
-    {
-      "articles": [
         "aibreakfast--01388bbd",
-        "huggingface-blog--56cb74c6"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 44.459122,
-      "term": "rate",
-      "tf_today": 12
-    },
-    {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "huggingface-blog--56cb74c6"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 39.482406,
-      "term": "words",
-      "tf_today": 11
-    },
-    {
-      "articles": [
-        "google-deepmind--2f1c9b52",
-        "google-deepmind--cc2ee9eb"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 34.636265,
-      "term": "science",
-      "tf_today": 10
-    },
-    {
-      "articles": [
-        "google-deepmind--cc2ee9eb",
         "huggingface-blog--56cb74c6",
-        "openai-blog--11212e04"
-      ],
-      "avg_tf_baseline": 3.6667,
-      "df_today": 3,
-      "score": 33.759746,
-      "term": "voice",
-      "tf_today": 40
-    },
-    {
-      "articles": [
-        "aibreakfast--01388bbd",
-        "google-deepmind--2f1c9b52",
-        "google-deepmind--cc2ee9eb",
-        "huggingface-blog--56cb74c6"
+        "huggingface-blog--69b35cc4"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 4,
-      "score": 33.202505,
-      "term": "interactive",
-      "tf_today": 8
+      "df_today": 3,
+      "score": 85.37837,
+      "term": "simulation",
+      "tf_today": 19
     }
   ],
   "date": "2026-09-23",
   "evidence_article_ids": [
-    "aibreakfast--01388bbd",
-    "codenewsletter--2ae99efa",
-    "huggingface-blog--56cb74c6"
+    "huggingface-blog--56cb74c6",
+    "huggingface-blog--69b35cc4"
   ],
   "judge": {
-    "input_tokens": 18172,
+    "input_tokens": 18436,
     "model": "jev-1.13.0",
     "pool_size": 40,
     "signals": {
+      "astra": {
+        "dominance": 2.15,
+        "event": 0.73,
+        "form": 0.88,
+        "novelty": 0.68,
+        "specificity": 1.89
+      },
+      "audio": {
+        "dominance": 2.08,
+        "event": 0.93,
+        "form": 0.84,
+        "novelty": 0.64,
+        "specificity": 0.94
+      },
+      "diarization": {
+        "dominance": 1.81,
+        "event": 0.76,
+        "form": 0.88,
+        "novelty": 0.76,
+        "specificity": 1.99
+      },
       "memory": {
-        "dominance": 1.78,
-        "event": 0.79,
-        "form": 0.89,
-        "novelty": 0.54,
+        "dominance": 1.81,
+        "event": 0.81,
+        "form": 0.88,
+        "novelty": 0.51,
         "specificity": 1.78
+      },
+      "nemotron diarization": {
+        "dominance": 1.89,
+        "event": 0.77,
+        "form": 0.91,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "nvidia": {
+        "dominance": 2.02,
+        "event": 0.68,
+        "form": 0.94,
+        "novelty": 0.85,
+        "specificity": 1.21
+      },
+      "openai": {
+        "dominance": 2.89,
+        "event": 0.93,
+        "form": 0.85,
+        "novelty": 0.61,
+        "specificity": 1.02
       },
       "opus": {
         "dominance": 1.96,
         "event": 0.95,
-        "form": 0.9,
-        "novelty": 0.69,
-        "specificity": 1.94
+        "form": 0.88,
+        "novelty": 0.73,
+        "specificity": 1.92
+      },
+      "rate": {
+        "dominance": 2.15,
+        "event": 0.8,
+        "form": 0.63,
+        "novelty": 0.22,
+        "specificity": 0.4
+      },
+      "robotics": {
+        "dominance": 1.55,
+        "event": 0.27,
+        "form": 0.94,
+        "novelty": 0.64,
+        "specificity": 0.82
+      },
+      "simulation": {
+        "dominance": 1.55,
+        "event": 0.43,
+        "form": 0.88,
+        "novelty": 0.65,
+        "specificity": 1.14
+      },
+      "speaker": {
+        "dominance": 1.72,
+        "event": 0.81,
+        "form": 0.78,
+        "novelty": 0.7,
+        "specificity": 1.07
+      },
+      "speech": {
+        "dominance": 2.08,
+        "event": 0.93,
+        "form": 0.82,
+        "novelty": 0.66,
+        "specificity": 1.06
+      },
+      "tts": {
+        "dominance": 1.92,
+        "event": 0.93,
+        "form": 0.56,
+        "novelty": 0.77,
+        "specificity": 1.97
+      },
+      "voice": {
+        "dominance": 2.25,
+        "event": 0.88,
+        "form": 0.84,
+        "novelty": 0.66,
+        "specificity": 0.89
       }
     },
     "status": "ok",
     "survivors": [
+      "nemotron diarization",
       "opus",
-      "memory"
+      "astra",
+      "diarization"
     ]
   },
-  "score": 31.621618,
-  "word": "opus"
+  "score": 143.250417,
+  "word": "nemotron diarization"
 }

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--16365cca",
+  "author": "Hugging Face Blog",
+  "content_chars": 15240,
+  "content_sha256": "d5acd73acb9c1dbd21f99ca578b63968d7b24306b484ae431ab624d18397d624",
+  "content_tokens": 3810,
+  "fetched_at": "2026-09-23T20:16:18Z",
+  "kind": "article",
+  "published_at": "2021-11-19T00:00:00+00:00",
+  "snippet": "Accelerating PyTorch distributed fine-tuning with Intel technologies Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerating PyTorch distributed fine-tuning with Intel technologies",
+  "top_terms": [
+    [
+      "intel",
+      28
+    ],
+    [
+      "training",
+      26
+    ],
+    [
+      "install",
+      21
+    ],
+    [
+      "job",
+      19
+    ],
+    [
+      "pytorch",
+      18
+    ],
+    [
+      "cluster",
+      17
+    ],
+    [
+      "distributed",
+      16
+    ],
+    [
+      "master",
+      14
+    ],
+    [
+      "oneccl",
+      14
+    ],
+    [
+      "learning",
+      12
+    ],
+    [
+      "running",
+      12
+    ],
+    [
+      "transformers",
+      12
+    ],
+    [
+      "conda",
+      11
+    ],
+    [
+      "nodes",
+      11
+    ],
+    [
+      "ccl",
+      10
+    ],
+    [
+      "datasets",
+      9
+    ],
+    [
+      "git",
+      9
+    ],
+    [
+      "instance",
+      9
+    ],
+    [
+      "instances",
+      9
+    ],
+    [
+      "library",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/accelerating-pytorch",
+  "url_canonical": "https://huggingface.co/blog/accelerating-pytorch",
+  "via_source_id": null
+}

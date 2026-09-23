@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c6902e38",
+  "author": "Hugging Face Blog",
+  "content_chars": 22406,
+  "content_sha256": "df6a77fdf5f82ee12eb7effdd7100c04b679a96745af33e07fdde77f1414719e",
+  "content_tokens": 5601,
+  "fetched_at": "2026-09-23T20:16:11Z",
+  "kind": "article",
+  "published_at": "2022-05-10T00:00:00+00:00",
+  "snippet": "Accelerated Inference with Optimum and Transformers Pipelines Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerated Inference with Optimum and Transformers Pipelines",
+  "top_terms": [
+    [
+      "model",
+      94
+    ],
+    [
+      "optimum",
+      67
+    ],
+    [
+      "onnx",
+      50
+    ],
+    [
+      "transformers",
+      47
+    ],
+    [
+      "models",
+      32
+    ],
+    [
+      "quantized",
+      30
+    ],
+    [
+      "inference",
+      28
+    ],
+    [
+      "optimized",
+      23
+    ],
+    [
+      "path",
+      23
+    ],
+    [
+      "question",
+      22
+    ],
+    [
+      "pipelines",
+      21
+    ],
+    [
+      "import",
+      20
+    ],
+    [
+      "context",
+      19
+    ],
+    [
+      "tokenizer",
+      18
+    ],
+    [
+      "name",
+      17
+    ],
+    [
+      "optimum qa",
+      17
+    ],
+    [
+      "pretrained",
+      17
+    ],
+    [
+      "qa",
+      17
+    ],
+    [
+      "quantized model",
+      17
+    ],
+    [
+      "latency",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/blog/optimum-inference",
+  "url_canonical": "https://huggingface.co/blog/optimum-inference",
+  "via_source_id": null
+}

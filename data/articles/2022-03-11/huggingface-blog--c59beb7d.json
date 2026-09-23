@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c59beb7d",
+  "author": "Hugging Face Blog",
+  "content_chars": 18841,
+  "content_sha256": "b8589e28beba461ac88ced54c81c94e3986b2a53ee1c165c8099d8c81e250f5e",
+  "content_tokens": 4710,
+  "fetched_at": "2026-09-23T20:16:15Z",
+  "kind": "article",
+  "published_at": "2022-03-11T00:00:00+00:00",
+  "snippet": "Guiding Text Generation with Constrained Beam Search in 🤗 Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Guiding Text Generation with Constrained Beam Search in 🤗 Transformers",
+  "top_terms": [
+    [
+      "search",
+      33
+    ],
+    [
+      "beam",
+      32
+    ],
+    [
+      "beam search",
+      31
+    ],
+    [
+      "input",
+      25
+    ],
+    [
+      "ids",
+      24
+    ],
+    [
+      "output",
+      24
+    ],
+    [
+      "tokens",
+      24
+    ],
+    [
+      "generation",
+      22
+    ],
+    [
+      "outputs",
+      22
+    ],
+    [
+      "constraints",
+      21
+    ],
+    [
+      "force",
+      21
+    ],
+    [
+      "beams",
+      18
+    ],
+    [
+      "constrained",
+      18
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "tokenizer",
+      17
+    ],
+    [
+      "words",
+      17
+    ],
+    [
+      "input ids",
+      16
+    ],
+    [
+      "step",
+      16
+    ],
+    [
+      "constrained beam",
+      15
+    ],
+    [
+      "constrained beam search",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/constrained-beam-search",
+  "url_canonical": "https://huggingface.co/blog/constrained-beam-search",
+  "via_source_id": null
+}

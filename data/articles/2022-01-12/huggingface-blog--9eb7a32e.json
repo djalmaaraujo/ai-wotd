@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9eb7a32e",
+  "author": "Hugging Face Blog",
+  "content_chars": 33575,
+  "content_sha256": "cad651defff3e5baec76ead65adfc0c0cfdadb8b7a3ab7618ee642b06400c4a3",
+  "content_tokens": 8393,
+  "fetched_at": "2026-09-23T20:16:16Z",
+  "kind": "article",
+  "published_at": "2022-01-12T00:00:00+00:00",
+  "snippet": "Boosting Wav2Vec2 with n-grams in 🤗 Transformers Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "source_id": "huggingface-blog",
+  "title": "Boosting Wav2Vec2 with n-grams in 🤗 Transformers",
+  "top_terms": [
+    [
+      "model",
+      62
+    ],
+    [
+      "language",
+      45
+    ],
+    [
+      "language model",
+      37
+    ],
+    [
+      "audio",
+      35
+    ],
+    [
+      "dataset",
+      30
+    ],
+    [
+      "n-gram",
+      30
+    ],
+    [
+      "gram",
+      28
+    ],
+    [
+      "json",
+      28
+    ],
+    [
+      "data",
+      26
+    ],
+    [
+      "output",
+      25
+    ],
+    [
+      "wav2vec2",
+      25
+    ],
+    [
+      "speech",
+      24
+    ],
+    [
+      "let's",
+      22
+    ],
+    [
+      "recognition",
+      22
+    ],
+    [
+      "speech recognition",
+      22
+    ],
+    [
+      "build",
+      20
+    ],
+    [
+      "kenlm",
+      20
+    ],
+    [
+      "lm",
+      20
+    ],
+    [
+      "xls-r-300m-sv",
+      20
+    ],
+    [
+      "text",
+      19
+    ]
+  ],
+  "url": "https://huggingface.co/blog/wav2vec2-with-ngram",
+  "url_canonical": "https://huggingface.co/blog/wav2vec2-with-ngram",
+  "via_source_id": null
+}

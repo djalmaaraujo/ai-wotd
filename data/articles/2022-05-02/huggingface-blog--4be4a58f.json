@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--4be4a58f",
+  "author": "Hugging Face Blog",
+  "content_chars": 17755,
+  "content_sha256": "537fc3986f24d010b5e459d0656ba6a42c75a43ccb7403c1491f498629c7997c",
+  "content_tokens": 4438,
+  "fetched_at": "2026-09-23T20:16:12Z",
+  "kind": "article",
+  "published_at": "2022-05-02T00:00:00+00:00",
+  "snippet": "Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel",
+  "top_terms": [
+    [
+      "fsdp",
+      71
+    ],
+    [
+      "model",
+      50
+    ],
+    [
+      "parameters",
+      29
+    ],
+    [
+      "pytorch",
+      28
+    ],
+    [
+      "size",
+      25
+    ],
+    [
+      "batch",
+      24
+    ],
+    [
+      "train",
+      23
+    ],
+    [
+      "training",
+      22
+    ],
+    [
+      "data",
+      19
+    ],
+    [
+      "models",
+      19
+    ],
+    [
+      "num",
+      19
+    ],
+    [
+      "optimizer",
+      19
+    ],
+    [
+      "params",
+      18
+    ],
+    [
+      "cpu",
+      17
+    ],
+    [
+      "ddp",
+      17
+    ],
+    [
+      "batch size",
+      16
+    ],
+    [
+      "large",
+      16
+    ],
+    [
+      "memory",
+      16
+    ],
+    [
+      "fsdp with",
+      15
+    ],
+    [
+      "gpu",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/pytorch-fsdp",
+  "url_canonical": "https://huggingface.co/blog/pytorch-fsdp",
+  "via_source_id": null
+}

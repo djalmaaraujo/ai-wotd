@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8bcf74da",
+  "author": "Hugging Face Blog",
+  "content_chars": 14185,
+  "content_sha256": "9092282005a0cda0f354cb1c4584499c86b817b3fa54231d55c480a1991f9a32",
+  "content_tokens": 3546,
+  "fetched_at": "2026-09-23T20:16:14Z",
+  "kind": "article",
+  "published_at": "2022-03-16T00:00:00+00:00",
+  "snippet": "Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia",
+  "top_terms": [
+    [
+      "model",
+      88
+    ],
+    [
+      "neuron",
+      48
+    ],
+    [
+      "inference",
+      39
+    ],
+    [
+      "sagemaker",
+      35
+    ],
+    [
+      "aws",
+      26
+    ],
+    [
+      "inferentia",
+      21
+    ],
+    [
+      "create",
+      19
+    ],
+    [
+      "amazon",
+      18
+    ],
+    [
+      "transformers",
+      18
+    ],
+    [
+      "face",
+      16
+    ],
+    [
+      "hugging",
+      16
+    ],
+    [
+      "hugging face",
+      16
+    ],
+    [
+      "s3",
+      15
+    ],
+    [
+      "aws inferentia",
+      14
+    ],
+    [
+      "bucket",
+      14
+    ],
+    [
+      "endpoint",
+      14
+    ],
+    [
+      "script",
+      14
+    ],
+    [
+      "config",
+      13
+    ],
+    [
+      "import",
+      13
+    ],
+    [
+      "models",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/bert-inferentia-sagemaker",
+  "url_canonical": "https://huggingface.co/blog/bert-inferentia-sagemaker",
+  "via_source_id": null
+}

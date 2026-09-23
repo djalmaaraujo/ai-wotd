@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--107e5024",
+  "author": "Hugging Face Blog",
+  "content_chars": 9811,
+  "content_sha256": "9db8f647f80f04b521175c7f8d268e3c76affe2b26b56b7f5d848753b6754aa6",
+  "content_tokens": 2452,
+  "fetched_at": "2026-09-23T20:16:16Z",
+  "kind": "article",
+  "published_at": "2022-01-13T00:00:00+00:00",
+  "snippet": "Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub…",
+  "source_id": "huggingface-blog",
+  "title": "Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs",
+  "top_terms": [
+    [
+      "infinity",
+      42
+    ],
+    [
+      "face",
+      25
+    ],
+    [
+      "hugging",
+      25
+    ],
+    [
+      "hugging face",
+      25
+    ],
+    [
+      "latency",
+      19
+    ],
+    [
+      "face infinity",
+      17
+    ],
+    [
+      "hugging face infinity",
+      17
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "req",
+      16
+    ],
+    [
+      "req sec",
+      16
+    ],
+    [
+      "sec",
+      16
+    ],
+    [
+      "req sec req",
+      15
+    ],
+    [
+      "sec req",
+      15
+    ],
+    [
+      "sec req sec",
+      15
+    ],
+    [
+      "benchmark",
+      14
+    ],
+    [
+      "throughput",
+      12
+    ],
+    [
+      "inference",
+      10
+    ],
+    [
+      "container",
+      8
+    ],
+    [
+      "cpu",
+      8
+    ],
+    [
+      "intel",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/infinity-cpu-performance",
+  "url_canonical": "https://huggingface.co/blog/infinity-cpu-performance",
+  "via_source_id": null
+}
