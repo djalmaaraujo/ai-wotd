@@ -5,7 +5,6 @@ from __future__ import annotations
 import json
 import logging
 import math
-import os
 from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
@@ -221,7 +220,7 @@ def pick_wotd(
     is recorded but the scorer's pick still ships. Returns the written payload,
     or None if no stats exist.
     """
-    mode = (mode or os.environ.get("WOTD_JUDGE") or "on").lower()
+    mode = (mode or "on").lower()
     today_stats = _read_stats(stats_dir, target)
     if not today_stats:
         return None

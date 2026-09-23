@@ -230,3 +230,12 @@ def test_pick_wotd_skips_the_judge_when_the_day_has_no_articles(tmp_path):
     assert payload["word"] == "steps"
     assert payload["judge"] == {"status": "skipped", "reason": "no_articles_on_disk"}
     assert judge.calls == []
+
+
+def test_settings_read_the_judge_mode_from_the_environment(monkeypatch):
+    from wotd.config import Settings
+
+    monkeypatch.setenv("WOTD_JUDGE", " Shadow ")
+    assert Settings.from_env().judge_mode == "shadow"
+    monkeypatch.delenv("WOTD_JUDGE")
+    assert Settings.from_env().judge_mode == "on"

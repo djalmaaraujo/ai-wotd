@@ -142,6 +142,7 @@ def cmd_wotd(args) -> int:
             target,
             baseline_days=settings.baseline_days,
             articles_dir=paths.articles,
+            mode=settings.judge_mode,
         )
         if payload is None:
             log.info("wotd: no stats for %s", target)
@@ -300,6 +301,7 @@ def cmd_reprocess(args) -> int:
                 current,
                 baseline_days=settings.baseline_days,
                 articles_dir=paths.articles,
+                mode=settings.judge_mode,
             )
         current = current + timedelta(days=1)
     state.save_processed_days(paths.index, processed)
