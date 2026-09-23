@@ -17,7 +17,7 @@ from dateutil import parser as date_parser
 
 from ..linkfollow import canonicalize
 from ..robots import ALLOW, UNKNOWN, RobotsCache, blocked_by_header
-from .base import Cursor, RawItem
+from .base import Cursor, IncompleteFetch, RawItem
 
 logger = logging.getLogger(__name__)
 
@@ -145,12 +145,9 @@ class RssAdapter:
             body_html: str | None = None
             permission = robots.status(url)
             if permission == UNKNOWN:
-                logger.warning(
-                    "rss: cannot read robots for %s; stopping %s so the cursor holds",
-                    url,
-                    source.get("id"),
+                raise IncompleteFetch(
+                    f"cannot read robots.txt for {url}; leaving the cursor where it is"
                 )
-                return
 
             try:
                 if permission == ALLOW:

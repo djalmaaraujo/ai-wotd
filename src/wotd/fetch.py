@@ -18,7 +18,7 @@ from .corpus import RawItem, article_id_for, write_article_derivative
 from .linkfollow import canonicalize, is_blocked, load_blocklist
 from .robots import RobotsCache, blocked_by_header
 from .sources import get_adapter
-from .sources.base import Cursor
+from .sources.base import Cursor, IncompleteFetch
 from .sources.rss import extract_article_text
 
 logger = logging.getLogger(__name__)
@@ -181,6 +181,7 @@ def run_fetch(paths: Paths, settings: Settings, sources: list[dict]) -> dict:
             continue
 
         newest_guid: str | None = None
+        complete = True
         items_seen = 0
         # Snapshot the URLs already ingested so the adapter can skip the
         # article-body GET for duplicates before making the HTTP request.
@@ -200,53 +201,61 @@ def run_fetch(paths: Paths, settings: Settings, sources: list[dict]) -> dict:
             logger.warning("fetch: adapter crashed for %s: %s", sid, exc)
             continue
 
-        for item in raw_items:
-            if newest_guid is None:
-                newest_guid = item.external_id
-            # Canonicalize URL even if the adapter forgot.
-            item.url_canonical = item.url_canonical or (canonicalize(item.url) or item.url)
+        try:
+            for item in raw_items:
+                if newest_guid is None:
+                    newest_guid = item.external_id
+                # Canonicalize URL even if the adapter forgot.
+                item.url_canonical = item.url_canonical or (canonicalize(item.url) or item.url)
 
-            if item.url_canonical in url_cache and url_cache[item.url_canonical].get(
-                "article_id"
-            ):
-                continue
-
-            # Write derivative.
-            _, derivative = write_article_derivative(
-                item, paths.articles, paths.fulltext_cache
-            )
-            _upsert_url_cache(
-                url_cache,
-                item.url_canonical,
-                derivative["article_id"],
-                today_iso,
-            )
-            new_articles += 1
-            items_seen += 1
-
-            # Link-follow for newsletters.
-            if source["type"] == "newsletter":
-                for linked in _follow_links_from_newsletter(
-                    item,
-                    settings=settings,
-                    blocklist=blocklist,
-                    url_cache=url_cache,
-                    robots=robots,
+                if item.url_canonical in url_cache and url_cache[item.url_canonical].get(
+                    "article_id"
                 ):
-                    _, linked_derivative = write_article_derivative(
-                        linked, paths.articles, paths.fulltext_cache
-                    )
-                    _upsert_url_cache(
-                        url_cache,
-                        linked.url_canonical,
-                        linked_derivative["article_id"],
-                        today_iso,
-                    )
-                    new_articles += 1
-                    items_seen += 1
+                    continue
+
+                # Write derivative.
+                _, derivative = write_article_derivative(
+                    item, paths.articles, paths.fulltext_cache
+                )
+                _upsert_url_cache(
+                    url_cache,
+                    item.url_canonical,
+                    derivative["article_id"],
+                    today_iso,
+                )
+                new_articles += 1
+                items_seen += 1
+
+                # Link-follow for newsletters.
+                if source["type"] == "newsletter":
+                    for linked in _follow_links_from_newsletter(
+                        item,
+                        settings=settings,
+                        blocklist=blocklist,
+                        url_cache=url_cache,
+                        robots=robots,
+                    ):
+                        _, linked_derivative = write_article_derivative(
+                            linked, paths.articles, paths.fulltext_cache
+                        )
+                        _upsert_url_cache(
+                            url_cache,
+                            linked.url_canonical,
+                            linked_derivative["article_id"],
+                            today_iso,
+                        )
+                        new_articles += 1
+                        items_seen += 1
+
+        except IncompleteFetch as exc:
+            logger.warning("fetch: %s is incomplete (%s)", sid, exc)
+            complete = False
+        except Exception as exc:
+            logger.error("fetch: %s crashed while reading (%s)", sid, exc)
+            complete = False
 
         per_source_counts[sid] = items_seen
-        if newest_guid:
+        if newest_guid and complete:
             cursor.last_guid = newest_guid
             cursor.last_fetched_at = datetime.now(timezone.utc).isoformat()
             cursors[sid] = cursor.to_dict()
