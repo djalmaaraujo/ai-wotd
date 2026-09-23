@@ -2,109 +2,153 @@
   "candidates": [
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "ai skills",
-      "tf_today": 2
+      "df_today": 2,
+      "score": 484.562837,
+      "term": "speaker",
+      "tf_today": 77
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "aibreakfast--01388bbd",
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "asia",
-      "tf_today": 2
+      "df_today": 3,
+      "score": 232.025571,
+      "term": "speech",
+      "tf_today": 38
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "grab",
-      "tf_today": 2
+      "df_today": 2,
+      "score": 123.776985,
+      "term": "tts",
+      "tf_today": 26
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "codenewsletter--2ae99efa",
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "practical ai",
-      "tf_today": 2
+      "df_today": 3,
+      "score": 101.484081,
+      "term": "english",
+      "tf_today": 20
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "google-deepmind--2f1c9b52",
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6"
       ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "practical ai skills",
-      "tf_today": 2
+      "avg_tf_baseline": 3.6,
+      "df_today": 3,
+      "score": 46.646627,
+      "term": "audio",
+      "tf_today": 51
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "aibreakfast--01388bbd",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "southeast",
-      "tf_today": 2
+      "df_today": 2,
+      "score": 44.459122,
+      "term": "rate",
+      "tf_today": 12
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "aibreakfast--01388bbd",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 6.591674,
-      "term": "southeast asia",
-      "tf_today": 2
+      "df_today": 2,
+      "score": 39.482406,
+      "term": "words",
+      "tf_today": 11
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "google-deepmind--2f1c9b52",
+        "google-deepmind--cc2ee9eb"
       ],
-      "avg_tf_baseline": 1.0,
-      "df_today": 1,
-      "score": 3.295837,
-      "term": "practical",
-      "tf_today": 2
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 34.636265,
+      "term": "science",
+      "tf_today": 10
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6",
+        "openai-blog--11212e04"
       ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 2.079442,
-      "term": "across southeast",
-      "tf_today": 1
+      "avg_tf_baseline": 3.6667,
+      "df_today": 3,
+      "score": 33.759746,
+      "term": "voice",
+      "tf_today": 40
     },
     {
       "articles": [
-        "openai-blog--1d7fce15"
+        "aibreakfast--01388bbd",
+        "google-deepmind--2f1c9b52",
+        "google-deepmind--cc2ee9eb",
+        "huggingface-blog--56cb74c6"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 1,
-      "score": 2.079442,
-      "term": "across southeast asia",
-      "tf_today": 1
+      "df_today": 4,
+      "score": 33.202505,
+      "term": "interactive",
+      "tf_today": 8
     }
   ],
   "date": "2026-09-23",
   "evidence_article_ids": [
-    "openai-blog--1d7fce15"
+    "aibreakfast--01388bbd",
+    "codenewsletter--2ae99efa",
+    "huggingface-blog--56cb74c6"
   ],
-  "score": 6.591674,
-  "word": "ai skills"
+  "judge": {
+    "input_tokens": 18172,
+    "model": "jev-1.13.0",
+    "pool_size": 40,
+    "signals": {
+      "memory": {
+        "dominance": 1.78,
+        "event": 0.79,
+        "form": 0.89,
+        "novelty": 0.54,
+        "specificity": 1.78
+      },
+      "opus": {
+        "dominance": 1.96,
+        "event": 0.95,
+        "form": 0.9,
+        "novelty": 0.69,
+        "specificity": 1.94
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "opus",
+      "memory"
+    ]
+  },
+  "score": 31.621618,
+  "word": "opus"
 }
