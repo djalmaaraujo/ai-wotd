@@ -16,6 +16,7 @@ from . import state
 from .config import Paths, Settings
 from .corpus import RawItem, article_id_for, write_article_derivative
 from .linkfollow import canonicalize, is_blocked, load_blocklist
+from .robots import RobotsCache, blocked_by_header
 from .sources import get_adapter
 from .sources.base import Cursor
 from .sources.rss import extract_article_text
@@ -64,12 +65,21 @@ def _extract_outbound_urls(html: str, origin_url: str | None = None) -> list[str
     return urls
 
 
-def _fetch_linked_article(url: str, user_agent: str) -> tuple[str, str] | None:
+def _fetch_linked_article(
+    url: str, user_agent: str, robots: RobotsCache | None = None
+) -> tuple[str, str] | None:
     """Return (title, text) or None."""
+    robots = robots or RobotsCache(user_agent)
+    if not robots.allowed(url):
+        logger.info("linkfollow: robots.txt disallows %s", url)
+        return None
     try:
         with httpx.Client(timeout=15.0, follow_redirects=True) as client:
             resp = client.get(url, headers={"User-Agent": user_agent})
         if resp.status_code != 200 or not resp.text:
+            return None
+        if blocked_by_header(resp.headers):
+            logger.info("linkfollow: %s asks not to be indexed", url)
             return None
         title, text = extract_article_text(resp.text)
         if not text:
@@ -86,6 +96,7 @@ def _follow_links_from_newsletter(
     settings: Settings,
     blocklist: frozenset[str],
     url_cache: dict,
+    robots: RobotsCache,
 ) -> Iterable[RawItem]:
     html = _render_newsletter_body_html(item, settings.user_agent)
     urls = _extract_outbound_urls(html, origin_url=item.url)
@@ -104,7 +115,7 @@ def _follow_links_from_newsletter(
         if item.url_canonical and canonical.split("/")[2] == item.url_canonical.split("/")[2]:
             continue
 
-        fetched = _fetch_linked_article(canonical, settings.user_agent)
+        fetched = _fetch_linked_article(canonical, settings.user_agent, robots)
         if fetched is None:
             # Mark as seen anyway so we don't retry forever.
             url_cache[canonical] = {
@@ -148,6 +159,7 @@ def run_fetch(paths: Paths, settings: Settings, sources: list[dict]) -> dict:
     cursors = state.load_cursors(paths.index)
     url_cache = state.load_url_cache(paths.index)
     blocklist = load_blocklist()
+    robots = RobotsCache(settings.user_agent)
     today_iso = datetime.now(timezone.utc).date().isoformat()
 
     new_articles = 0
@@ -212,6 +224,7 @@ def run_fetch(paths: Paths, settings: Settings, sources: list[dict]) -> dict:
                     settings=settings,
                     blocklist=blocklist,
                     url_cache=url_cache,
+                    robots=robots,
                 ):
                     _, linked_derivative = write_article_derivative(
                         linked, paths.articles, paths.fulltext_cache

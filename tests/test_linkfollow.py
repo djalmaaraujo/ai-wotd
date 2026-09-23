@@ -33,3 +33,61 @@ def test_should_follow_dedupes_via_cache():
     follow, canon = should_follow("https://example.com/new", cache)
     assert follow is True
     assert canon == "https://example.com/new"
+
+
+def test_linkfollow_skips_what_robots_disallows(monkeypatch):
+    """The README promises publishers this; it has to hold in the fetch path."""
+    import httpx
+
+    from wotd.fetch import _fetch_linked_article
+    from wotd.robots import RobotsCache
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/robots.txt":
+            return httpx.Response(200, text="User-agent: *\nDisallow: /no/\n")
+        return httpx.Response(200, text="<html><body><p>body text here</p></body></html>")
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.fetch.httpx.Client", FakeClient)
+
+    robots = RobotsCache("ai-wotd/1.0")
+    assert _fetch_linked_article("https://example.com/no/post", "ai-wotd/1.0", robots) is None
+    assert _fetch_linked_article("https://example.com/yes/post", "ai-wotd/1.0", robots) is not None
+
+
+def test_linkfollow_honours_the_noindex_header(monkeypatch):
+    import httpx
+
+    from wotd.fetch import _fetch_linked_article
+    from wotd.robots import RobotsCache
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/robots.txt":
+            return httpx.Response(200, text="User-agent: *\nDisallow:\n")
+        return httpx.Response(
+            200,
+            text="<html><body><p>body</p></body></html>",
+            headers={"X-Robots-Tag": "noindex"},
+        )
+
+    original = httpx.Client
+
+    class FakeClient(original):
+        def __init__(self, *a, **kw):
+            kw["transport"] = httpx.MockTransport(handler)
+            super().__init__(*a, **kw)
+
+    monkeypatch.setattr("wotd.robots.httpx.Client", FakeClient)
+    monkeypatch.setattr("wotd.fetch.httpx.Client", FakeClient)
+
+    assert (
+        _fetch_linked_article("https://example.com/post", "ai-wotd/1.0", RobotsCache("ai-wotd/1.0"))
+        is None
+    )

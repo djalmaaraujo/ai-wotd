@@ -137,10 +137,139 @@ sources:
     exclude_replies: true
     added: "2026-04-14"
 
-  - id: x-demishassabis
+  - id: x-claudedevs
     type: twitter
     handle: "ClaudeDevs"
     name: "Claude Devs"
     nitter_feed: "https://nitter.net/ClaudeDevs/rss"
     exclude_replies: true
     added: "2026-04-16"
+
+  # --- Research labs and engineering blogs (RSS) ---
+  - id: google-research
+    type: rss
+    name: "Google Research Blog"
+    url: "https://research.google/blog/"
+    feed: "https://research.google/blog/rss/"
+    added: "2026-09-23"
+
+  - id: microsoft-research
+    type: rss
+    name: "Microsoft Research Blog"
+    url: "https://www.microsoft.com/en-us/research/blog/"
+    feed: "https://www.microsoft.com/en-us/research/feed/"
+    added: "2026-09-23"
+
+  - id: nvidia-blog
+    type: rss
+    name: "NVIDIA Deep Learning Blog"
+    url: "https://blogs.nvidia.com/blog/category/deep-learning/"
+    feed: "https://blogs.nvidia.com/blog/category/deep-learning/feed/"
+    added: "2026-09-23"
+
+  - id: bair
+    type: rss
+    name: "Berkeley AI Research Blog"
+    url: "https://bair.berkeley.edu/blog/"
+    feed: "https://bair.berkeley.edu/blog/feed.xml"
+    added: "2026-09-23"
+
+  - id: simonwillison
+    type: rss
+    name: "Simon Willison's Weblog"
+    url: "https://simonwillison.net/"
+    feed: "https://simonwillison.net/atom/everything/"
+    author: "Simon Willison"
+    added: "2026-09-23"
+
+  # --- Industry press and analysis (RSS) ---
+  - id: marktechpost
+    type: rss
+    name: "MarkTechPost"
+    url: "https://www.marktechpost.com/"
+    feed: "https://www.marktechpost.com/feed/"
+    added: "2026-09-23"
+
+  - id: semianalysis
+    type: rss
+    name: "SemiAnalysis"
+    url: "https://semianalysis.com/"
+    feed: "https://semianalysis.com/feed/"
+    added: "2026-09-23"
+
+  - id: mit-tech-review-ai
+    type: rss
+    name: "MIT Technology Review — AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/"
+    feed: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    added: "2026-09-23"
+
+  - id: the-gradient
+    type: rss
+    name: "The Gradient"
+    url: "https://thegradient.pub/"
+    feed: "https://thegradient.pub/rss/"
+    added: "2026-09-23"
+
+  # --- Newsletters (Substack RSS, one-hop link following) ---
+  - id: interconnects
+    type: newsletter
+    platform: substack
+    name: "Interconnects"
+    url: "https://www.interconnects.ai/"
+    feed: "https://www.interconnects.ai/feed"
+    author: "Nathan Lambert"
+    added: "2026-09-23"
+
+  - id: ahead-of-ai
+    type: newsletter
+    platform: substack
+    name: "Ahead of AI"
+    url: "https://magazine.sebastianraschka.com/"
+    feed: "https://magazine.sebastianraschka.com/feed"
+    author: "Sebastian Raschka"
+    added: "2026-09-23"
+
+  - id: latent-space
+    type: newsletter
+    platform: substack
+    name: "Latent Space"
+    url: "https://www.latent.space/"
+    feed: "https://www.latent.space/feed"
+    author: "swyx & Alessio"
+    added: "2026-09-23"
+
+  - id: last-week-in-ai
+    type: newsletter
+    platform: substack
+    name: "Last Week in AI"
+    url: "https://lastweekin.ai/"
+    feed: "https://lastweekin.ai/feed"
+    added: "2026-09-23"
+
+  - id: ai-snake-oil
+    type: newsletter
+    platform: substack
+    name: "AI Snake Oil"
+    url: "https://www.aisnakeoil.com/"
+    feed: "https://www.aisnakeoil.com/feed"
+    author: "Arvind Narayanan & Sayash Kapoor"
+    added: "2026-09-23"
+
+  - id: dont-worry-about-the-vase
+    type: newsletter
+    platform: substack
+    name: "Don't Worry About the Vase"
+    url: "https://thezvi.substack.com/"
+    feed: "https://thezvi.substack.com/feed"
+    author: "Zvi Mowshowitz"
+    added: "2026-09-23"
+
+  - id: nlp-newsletter
+    type: newsletter
+    platform: substack
+    name: "NLP Newsletter"
+    url: "https://newsletter.ruder.io/"
+    feed: "https://newsletter.ruder.io/feed"
+    author: "Sebastian Ruder"
+    added: "2026-09-23"
