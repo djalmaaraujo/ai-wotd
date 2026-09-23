@@ -101,6 +101,14 @@ class RssAdapter:
                 return
             resp.raise_for_status()
             parsed = feedparser.parse(resp.content)
+            if not parsed.entries:
+                # A bot challenge answers 200 or 202 with a page, not a feed,
+                # which otherwise looks exactly like "nothing new today".
+                logger.warning(
+                    "rss: %s returned %s with no entries; the feed may be blocking us",
+                    source.get("id"),
+                    resp.status_code,
+                )
         except Exception as exc:
             logger.warning("rss: fetch failed for %s: %s", source.get("id"), exc)
             return

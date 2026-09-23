@@ -183,13 +183,6 @@ sources:
     added: "2026-09-23"
 
   # --- Industry press and analysis (RSS) ---
-  - id: marktechpost
-    type: rss
-    name: "MarkTechPost"
-    url: "https://www.marktechpost.com/"
-    feed: "https://www.marktechpost.com/feed/"
-    added: "2026-09-23"
-
   - id: semianalysis
     type: rss
     name: "SemiAnalysis"
@@ -254,15 +247,6 @@ sources:
     url: "https://www.aisnakeoil.com/"
     feed: "https://www.aisnakeoil.com/feed"
     author: "Arvind Narayanan & Sayash Kapoor"
-    added: "2026-09-23"
-
-  - id: dont-worry-about-the-vase
-    type: newsletter
-    platform: substack
-    name: "Don't Worry About the Vase"
-    url: "https://thezvi.substack.com/"
-    feed: "https://thezvi.substack.com/feed"
-    author: "Zvi Mowshowitz"
     added: "2026-09-23"
 
   - id: nlp-newsletter
