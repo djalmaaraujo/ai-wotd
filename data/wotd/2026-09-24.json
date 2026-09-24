@@ -1,0 +1,260 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--61c501f6",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 516.105887,
+      "term": "verge",
+      "tf_today": 74
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--61c501f6",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 423.246332,
+      "term": "the verge",
+      "tf_today": 63
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c",
+        "last-week-in-ai--f73cdbc8",
+        "latent-space--f1bb7c0f",
+        "latent-space--fd856d44"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 331.324736,
+      "term": "glasses",
+      "tf_today": 45
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 230.879822,
+      "term": "homepage",
+      "tf_today": 42
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 189.989835,
+      "term": "homepage feed",
+      "tf_today": 36
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--65335607",
+        "last-week-in-ai--7036f24c",
+        "last-week-in-ai--7a5d0e18",
+        "latent-space--fd856d44"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 173.018311,
+      "term": "logo",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 170.079081,
+      "term": "added to",
+      "tf_today": 33
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 170.079081,
+      "term": "added to your",
+      "tf_today": 33
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 170.079081,
+      "term": "and your homepage",
+      "tf_today": 33
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2ab2278d",
+        "last-week-in-ai--63632c2d",
+        "last-week-in-ai--7036f24c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 170.079081,
+      "term": "be added",
+      "tf_today": 33
+    }
+  ],
+  "date": "2026-09-24",
+  "evidence_article_ids": [
+    "last-week-in-ai--2ab2278d",
+    "last-week-in-ai--61c501f6",
+    "last-week-in-ai--63632c2d",
+    "last-week-in-ai--7036f24c",
+    "last-week-in-ai--7a5d0e18",
+    "latent-space--2348b79a",
+    "latent-space--f1bb7c0f"
+  ],
+  "judge": {
+    "input_tokens": 12362,
+    "model": "jev-1.13.0",
+    "pool_size": 23,
+    "signals": {
+      "added": {
+        "dominance": 0.86,
+        "event": 0.88,
+        "form": 0.33,
+        "novelty": 0.25,
+        "specificity": 0.09
+      },
+      "billion": {
+        "dominance": 1.65,
+        "event": 0.85,
+        "form": 0.58,
+        "novelty": 0.72,
+        "specificity": 0.14
+      },
+      "digest": {
+        "dominance": 0.75,
+        "event": 0.16,
+        "form": 0.79,
+        "novelty": 0.17,
+        "specificity": 0.13
+      },
+      "glasses": {
+        "dominance": 1.7,
+        "event": 0.73,
+        "form": 0.83,
+        "novelty": 0.82,
+        "specificity": 0.42
+      },
+      "google": {
+        "dominance": 1.64,
+        "event": 0.39,
+        "form": 0.89,
+        "novelty": 0.51,
+        "specificity": 0.98
+      },
+      "help": {
+        "dominance": 0.76,
+        "event": 0.64,
+        "form": 0.51,
+        "novelty": 0.43,
+        "specificity": 0.24
+      },
+      "meta connect": {
+        "dominance": 2.68,
+        "event": 0.82,
+        "form": 0.85,
+        "novelty": 0.83,
+        "specificity": 0.93
+      },
+      "muse": {
+        "dominance": 2.89,
+        "event": 0.89,
+        "form": 0.91,
+        "novelty": 0.88,
+        "specificity": 1.89
+      },
+      "openai": {
+        "dominance": 2.37,
+        "event": 0.85,
+        "form": 0.88,
+        "novelty": 0.53,
+        "specificity": 1.0
+      },
+      "security": {
+        "dominance": 2.87,
+        "event": 0.9,
+        "form": 0.89,
+        "novelty": 0.77,
+        "specificity": 0.69
+      },
+      "stratechery": {
+        "dominance": 1.35,
+        "event": 0.13,
+        "form": 0.69,
+        "novelty": 0.68,
+        "specificity": 0.2
+      },
+      "techcrunch": {
+        "dominance": 1.88,
+        "event": 0.77,
+        "form": 0.65,
+        "novelty": 0.66,
+        "specificity": 0.63
+      },
+      "topic": {
+        "dominance": 1.02,
+        "event": 0.76,
+        "form": 0.4,
+        "novelty": 0.49,
+        "specificity": 0.39
+      },
+      "verge": {
+        "dominance": 1.31,
+        "event": 0.76,
+        "form": 0.61,
+        "novelty": 0.82,
+        "specificity": 0.07
+      },
+      "wired": {
+        "dominance": 1.6,
+        "event": 0.47,
+        "form": 0.68,
+        "novelty": 0.56,
+        "specificity": 0.09
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "muse"
+    ]
+  },
+  "score": 37.524209,
+  "word": "muse"
+}
