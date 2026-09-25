@@ -1,0 +1,267 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--584211ac",
+        "latent-space--a4ce5b93"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1155.245505,
+      "term": "anastasis",
+      "tf_today": 183
+    },
+    {
+      "articles": [
+        "latent-space--584211ac",
+        "latent-space--9123e3dc",
+        "latent-space--a4ce5b93",
+        "latent-space--e7e79e8d",
+        "latent-space--f60e5f2b",
+        "latent-space--f8ec6ff1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 608.877046,
+      "term": "world models",
+      "tf_today": 84
+    },
+    {
+      "articles": [
+        "latent-space--17033ca6",
+        "latent-space--584211ac",
+        "latent-space--765eb9ec",
+        "latent-space--a4ce5b93"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 600.432274,
+      "term": "runway",
+      "tf_today": 93
+    },
+    {
+      "articles": [
+        "latent-space--17033ca6",
+        "latent-space--9123e3dc",
+        "latent-space--a4ce5b93",
+        "latent-space--e7e79e8d",
+        "latent-space--f60e5f2b",
+        "latent-space--f8ec6ff1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 452.779005,
+      "term": "world model",
+      "tf_today": 66
+    },
+    {
+      "articles": [
+        "latent-space--17033ca6",
+        "latent-space--584211ac",
+        "latent-space--71dd8e22",
+        "latent-space--9123e3dc",
+        "latent-space--94022ab0",
+        "latent-space--a430a883",
+        "latent-space--a4ce5b93",
+        "latent-space--e7e79e8d",
+        "mit-tech-review-ai--75c68116"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 9,
+      "score": 373.289353,
+      "term": "head",
+      "tf_today": 49
+    },
+    {
+      "articles": [
+        "latent-space--5105ff65",
+        "latent-space--94022ab0",
+        "latent-space--a430a883",
+        "latent-space--e7e79e8d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 336.074928,
+      "term": "supabase",
+      "tf_today": 58
+    },
+    {
+      "articles": [
+        "latent-space--17033ca6",
+        "latent-space--765eb9ec",
+        "latent-space--a4ce5b93",
+        "latent-space--e7e79e8d",
+        "latent-space--f60e5f2b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 285.127045,
+      "term": "the video",
+      "tf_today": 48
+    },
+    {
+      "articles": [
+        "latent-space--f60e5f2b",
+        "latent-space--f8ec6ff1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 255.924819,
+      "term": "browser does",
+      "tf_today": 53
+    },
+    {
+      "articles": [
+        "latent-space--f60e5f2b",
+        "latent-space--f8ec6ff1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 255.924819,
+      "term": "browser does not",
+      "tf_today": 53
+    },
+    {
+      "articles": [
+        "latent-space--f60e5f2b",
+        "latent-space--f8ec6ff1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 255.924819,
+      "term": "does not support",
+      "tf_today": 53
+    }
+  ],
+  "date": "2026-09-25",
+  "evidence_article_ids": [
+    "latent-space--17033ca6",
+    "latent-space--9123e3dc",
+    "latent-space--a4ce5b93",
+    "latent-space--e7e79e8d",
+    "latent-space--f60e5f2b",
+    "latent-space--f8ec6ff1"
+  ],
+  "judge": {
+    "input_tokens": 20134,
+    "model": "jev-1.13.0",
+    "pool_size": 40,
+    "signals": {
+      "genie": {
+        "dominance": 1.84,
+        "event": 0.53,
+        "form": 0.92,
+        "novelty": 0.65,
+        "specificity": 1.96
+      },
+      "gwm worlds": {
+        "dominance": 2.14,
+        "event": 0.82,
+        "form": 0.83,
+        "novelty": 0.71,
+        "specificity": 1.97
+      },
+      "models": {
+        "dominance": 2.7,
+        "event": 0.87,
+        "form": 0.81,
+        "novelty": 0.29,
+        "specificity": 1.07
+      },
+      "oct supabase curated": {
+        "dominance": 1.92,
+        "event": 0.56,
+        "form": 0.32,
+        "novelty": 0.78,
+        "specificity": 0.86
+      },
+      "real-time": {
+        "dominance": 1.99,
+        "event": 0.62,
+        "form": 0.75,
+        "novelty": 0.58,
+        "specificity": 1.44
+      },
+      "rtfm": {
+        "dominance": 1.82,
+        "event": 0.21,
+        "form": 0.68,
+        "novelty": 0.67,
+        "specificity": 1.8
+      },
+      "runway": {
+        "dominance": 2.92,
+        "event": 0.79,
+        "form": 0.9,
+        "novelty": 0.81,
+        "specificity": 1.19
+      },
+      "select26 oct supabase": {
+        "dominance": 1.98,
+        "event": 0.42,
+        "form": 0.5,
+        "novelty": 0.75,
+        "specificity": 0.89
+      },
+      "sf": {
+        "dominance": 2.02,
+        "event": 0.75,
+        "form": 0.46,
+        "novelty": 0.58,
+        "specificity": 0.16
+      },
+      "supabase curated": {
+        "dominance": 1.99,
+        "event": 0.6,
+        "form": 0.53,
+        "novelty": 0.77,
+        "specificity": 0.54
+      },
+      "video generation": {
+        "dominance": 2.92,
+        "event": 0.84,
+        "form": 0.91,
+        "novelty": 0.64,
+        "specificity": 1.46
+      },
+      "world model": {
+        "dominance": 2.76,
+        "event": 0.78,
+        "form": 0.94,
+        "novelty": 0.7,
+        "specificity": 1.98
+      },
+      "world models": {
+        "dominance": 2.77,
+        "event": 0.79,
+        "form": 0.94,
+        "novelty": 0.66,
+        "specificity": 1.96
+      },
+      "worlds": {
+        "dominance": 2.8,
+        "event": 0.84,
+        "form": 0.85,
+        "novelty": 0.75,
+        "specificity": 1.55
+      },
+      "zero-shot": {
+        "dominance": 1.94,
+        "event": 0.83,
+        "form": 0.86,
+        "novelty": 0.64,
+        "specificity": 1.99
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "world model",
+      "world models",
+      "gwm worlds",
+      "zero-shot",
+      "genie"
+    ]
+  },
+  "score": 452.779005,
+  "word": "world model"
+}
