@@ -1,0 +1,238 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--f5bcbcf5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1295.751758,
+      "term": "justification",
+      "tf_today": 194
+    },
+    {
+      "articles": [
+        "ai-snake-oil--5a987a70",
+        "ai-snake-oil--d37c63de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 431.701448,
+      "term": "ch",
+      "tf_today": 78
+    },
+    {
+      "articles": [
+        "ai-snake-oil--06e05a98",
+        "ai-snake-oil--26bd5c2c",
+        "ai-snake-oil--410ecebf",
+        "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--f5bcbcf5",
+        "mit-tech-review-ai--605fba06"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 380.549078,
+      "term": "university",
+      "tf_today": 53
+    },
+    {
+      "articles": [
+        "ai-snake-oil--26bd5c2c",
+        "ai-snake-oil--d37c63de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 358.095554,
+      "term": "du",
+      "tf_today": 67
+    },
+    {
+      "articles": [
+        "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--f5bcbcf5",
+        "mit-tech-review-ai--605fba06"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 3,
+      "score": 338.808313,
+      "term": "political",
+      "tf_today": 104
+    },
+    {
+      "articles": [
+        "ai-snake-oil--26bd5c2c",
+        "ai-snake-oil--d37c63de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 325.374181,
+      "term": "ag",
+      "tf_today": 62
+    },
+    {
+      "articles": [
+        "ai-snake-oil--5a987a70",
+        "ai-snake-oil--d37c63de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 325.374181,
+      "term": "ix",
+      "tf_today": 62
+    },
+    {
+      "articles": [
+        "ai-snake-oil--410ecebf",
+        "ai-snake-oil--f5bcbcf5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 305.984017,
+      "term": "swan",
+      "tf_today": 59
+    },
+    {
+      "articles": [
+        "ai-snake-oil--5a987a70",
+        "ai-snake-oil--d37c63de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 299.563084,
+      "term": "km",
+      "tf_today": 58
+    },
+    {
+      "articles": [
+        "ai-snake-oil--410ecebf",
+        "ai-snake-oil--d37c63de"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 293.163985,
+      "term": "vi",
+      "tf_today": 57
+    }
+  ],
+  "date": "2026-09-28",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 19276,
+    "model": "jev-1.13.0",
+    "pool_size": 40,
+    "signals": {
+      "agents": {
+        "dominance": 1.13,
+        "event": 0.35,
+        "form": 0.85,
+        "novelty": 0.38,
+        "specificity": 1.51
+      },
+      "black swan": {
+        "dominance": 1.16,
+        "event": 0.04,
+        "form": 0.94,
+        "novelty": 0.49,
+        "specificity": 0.04
+      },
+      "estimates": {
+        "dominance": 2.51,
+        "event": 0.47,
+        "form": 0.71,
+        "novelty": 0.39,
+        "specificity": 0.3
+      },
+      "ex": {
+        "dominance": 0.94,
+        "event": 0.35,
+        "form": 0.34,
+        "novelty": 0.29,
+        "specificity": 0.4
+      },
+      "expert": {
+        "dominance": 2.25,
+        "event": 0.33,
+        "form": 0.87,
+        "novelty": 0.73,
+        "specificity": 0.51
+      },
+      "forecasts": {
+        "dominance": 2.61,
+        "event": 0.36,
+        "form": 0.83,
+        "novelty": 0.71,
+        "specificity": 0.43
+      },
+      "impacts": {
+        "dominance": 1.69,
+        "event": 0.21,
+        "form": 0.75,
+        "novelty": 0.4,
+        "specificity": 0.78
+      },
+      "justification": {
+        "dominance": 1.44,
+        "event": 0.05,
+        "form": 0.88,
+        "novelty": 0.47,
+        "specificity": 0.15
+      },
+      "justified": {
+        "dominance": 1.16,
+        "event": 0.08,
+        "form": 0.58,
+        "novelty": 0.47,
+        "specificity": 0.04
+      },
+      "kp": {
+        "dominance": 0.95,
+        "event": 0.33,
+        "form": 0.31,
+        "novelty": 0.33,
+        "specificity": 0.3
+      },
+      "lw": {
+        "dominance": 1.06,
+        "event": 0.15,
+        "form": 0.3,
+        "novelty": 0.43,
+        "specificity": 1.03
+      },
+      "mx": {
+        "dominance": 0.8,
+        "event": 0.24,
+        "form": 0.5,
+        "novelty": 0.35,
+        "specificity": 1.41
+      },
+      "nature": {
+        "dominance": 1.16,
+        "event": 0.12,
+        "form": 0.77,
+        "novelty": 0.43,
+        "specificity": 0.19
+      },
+      "public": {
+        "dominance": 1.35,
+        "event": 0.11,
+        "form": 0.74,
+        "novelty": 0.4,
+        "specificity": 0.21
+      },
+      "swan": {
+        "dominance": 1.12,
+        "event": 0.05,
+        "form": 0.87,
+        "novelty": 0.48,
+        "specificity": 0.17
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}
