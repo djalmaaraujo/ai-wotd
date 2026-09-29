@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--59c78177",
+  "author": null,
+  "content_chars": 41400,
+  "content_sha256": "04ff2ac1f4c0988a1aebb7d099cf52beca5c13857a6e2b60400b2505e51b90df",
+  "content_tokens": 10350,
+  "fetched_at": "2026-09-29T12:52:04Z",
+  "kind": "article",
+  "published_at": "2026-09-29T02:44:29+00:00",
+  "snippet": "On-Policy Distillation - Thinking Machines Lab THINKING MACHINES Inkling Tinker Connectionism News Join us Home Inkling Tinker Connectionism News Join us On-Policy Distillation Kevin Lu in collaboration with others at Thinking Machines Oct 27, 2025 On-policy distillation — best…",
+  "source_id": "latent-space",
+  "title": "On-Policy Distillation - Thinking Machines Lab",
+  "top_terms": [
+    [
+      "distillation",
+      99
+    ],
+    [
+      "model",
+      77
+    ],
+    [
+      "on-policy",
+      76
+    ],
+    [
+      "teacher",
+      71
+    ],
+    [
+      "training",
+      66
+    ],
+    [
+      "on-policy distillation",
+      54
+    ],
+    [
+      "student",
+      47
+    ],
+    [
+      "learning",
+      46
+    ],
+    [
+      "rl",
+      41
+    ],
+    [
+      "the student",
+      35
+    ],
+    [
+      "performance",
+      32
+    ],
+    [
+      "al",
+      31
+    ],
+    [
+      "et",
+      31
+    ],
+    [
+      "et al",
+      31
+    ],
+    [
+      "models",
+      31
+    ],
+    [
+      "kl",
+      30
+    ],
+    [
+      "the teacher",
+      30
+    ],
+    [
+      "data",
+      28
+    ],
+    [
+      "knowledge",
+      24
+    ],
+    [
+      "off-policy",
+      24
+    ]
+  ],
+  "url": "https://thinkingmachines.ai/blog/on-policy-distillation",
+  "url_canonical": "https://thinkingmachines.ai/blog/on-policy-distillation",
+  "via_source_id": "latent-space"
+}

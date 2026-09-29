@@ -1,0 +1,255 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 2401.320149,
+      "term": "parent",
+      "tf_today": 361
+    },
+    {
+      "articles": [
+        "ahead-of-ai--0703f6b3",
+        "ahead-of-ai--c3a04314",
+        "ahead-of-ai--f7548566",
+        "latent-space--06f5398b",
+        "latent-space--54cae820",
+        "latent-space--59c78177"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 2217.495726,
+      "term": "prev",
+      "tf_today": 283
+    },
+    {
+      "articles": [
+        "ahead-of-ai--0703f6b3",
+        "ahead-of-ai--c3a04314",
+        "ahead-of-ai--f7548566",
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 2088.010052,
+      "term": "prev next",
+      "tf_today": 280
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1362.51282,
+      "term": "ago root",
+      "tf_today": 223
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1362.51282,
+      "term": "ago root parent",
+      "tf_today": 223
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1362.51282,
+      "term": "root parent",
+      "tf_today": 223
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1355.281441,
+      "term": "days ago root",
+      "tf_today": 222
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1140.815422,
+      "term": "parent prev",
+      "tf_today": 192
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1140.815422,
+      "term": "parent prev next",
+      "tf_today": 192
+    },
+    {
+      "articles": [
+        "latent-space--13df2b95",
+        "latent-space--376aa963"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1140.815422,
+      "term": "thariq",
+      "tf_today": 192
+    }
+  ],
+  "date": "2026-09-29",
+  "evidence_article_ids": [
+    "latent-space--0624b6d1",
+    "latent-space--13df2b95",
+    "latent-space--7b53eb36"
+  ],
+  "judge": {
+    "input_tokens": 28701,
+    "model": "jev-1.13.0",
+    "pool_size": 57,
+    "signals": {
+      "anthropic": {
+        "dominance": 2.6,
+        "event": 0.82,
+        "form": 0.84,
+        "novelty": 0.69,
+        "specificity": 1.08
+      },
+      "atlas": {
+        "dominance": 2.75,
+        "event": 0.78,
+        "form": 0.92,
+        "novelty": 0.78,
+        "specificity": 1.9
+      },
+      "classification": {
+        "dominance": 2.68,
+        "event": 0.24,
+        "form": 0.9,
+        "novelty": 0.6,
+        "specificity": 1.87
+      },
+      "claude": {
+        "dominance": 2.58,
+        "event": 0.77,
+        "form": 0.91,
+        "novelty": 0.62,
+        "specificity": 1.87
+      },
+      "explainer videos": {
+        "dominance": 2.24,
+        "event": 0.78,
+        "form": 0.88,
+        "novelty": 0.65,
+        "specificity": 0.04
+      },
+      "good at explainer": {
+        "dominance": 2.19,
+        "event": 0.78,
+        "form": 0.35,
+        "novelty": 0.67,
+        "specificity": 0.24
+      },
+      "imdb": {
+        "dominance": 2.02,
+        "event": 0.05,
+        "form": 0.73,
+        "novelty": 0.62,
+        "specificity": 1.91
+      },
+      "labs": {
+        "dominance": 2.85,
+        "event": 0.87,
+        "form": 0.68,
+        "novelty": 0.67,
+        "specificity": 0.89
+      },
+      "language": {
+        "dominance": 2.32,
+        "event": 0.57,
+        "form": 0.86,
+        "novelty": 0.52,
+        "specificity": 1.01
+      },
+      "model": {
+        "dominance": 2.4,
+        "event": 0.8,
+        "form": 0.85,
+        "novelty": 0.39,
+        "specificity": 1.15
+      },
+      "news": {
+        "dominance": 2.33,
+        "event": 0.83,
+        "form": 0.79,
+        "novelty": 0.35,
+        "specificity": 0.18
+      },
+      "opus": {
+        "dominance": 2.11,
+        "event": 0.75,
+        "form": 0.84,
+        "novelty": 0.65,
+        "specificity": 1.9
+      },
+      "opus is good": {
+        "dominance": 2.14,
+        "event": 0.78,
+        "form": 0.47,
+        "novelty": 0.66,
+        "specificity": 1.69
+      },
+      "sonnet": {
+        "dominance": 1.85,
+        "event": 0.81,
+        "form": 0.89,
+        "novelty": 0.62,
+        "specificity": 1.93
+      },
+      "text classification": {
+        "dominance": 2.75,
+        "event": 0.35,
+        "form": 0.95,
+        "novelty": 0.67,
+        "specificity": 1.98
+      },
+      "world labs": {
+        "dominance": 2.75,
+        "event": 0.83,
+        "form": 0.88,
+        "novelty": 0.78,
+        "specificity": 1.13
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "atlas",
+      "claude",
+      "opus",
+      "sonnet"
+    ]
+  },
+  "score": 29.120741,
+  "word": "atlas"
+}

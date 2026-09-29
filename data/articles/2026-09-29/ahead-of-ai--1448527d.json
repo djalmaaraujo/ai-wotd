@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--1448527d",
+  "author": null,
+  "content_chars": 3969,
+  "content_sha256": "5b840f4d549553a348e4ec9dea17450add61fd78e89b7a9784170b7ff0f521cf",
+  "content_tokens": 992,
+  "fetched_at": "2026-09-29T12:51:56Z",
+  "kind": "article",
+  "published_at": "2026-09-29T10:50:25+00:00",
+  "snippet": "Large Movie Review Dataset (IMDB) — Andrew Maas Stanford University · Computer Science ← Andrew Maas Large Movie Review Dataset A binary sentiment classification benchmark introduced in Maas et al., ACL 2011 . Also known as aclImdb or simply IMDB . This dataset contains 50,000…",
+  "source_id": "ahead-of-ai",
+  "title": "Large Movie Review Dataset (IMDB) — Andrew Maas",
+  "top_terms": [
+    [
+      "dataset",
+      11
+    ],
+    [
+      "imdb",
+      8
+    ],
+    [
+      "reviews",
+      8
+    ],
+    [
+      "al",
+      7
+    ],
+    [
+      "andrew",
+      7
+    ],
+    [
+      "et",
+      7
+    ],
+    [
+      "et al",
+      7
+    ],
+    [
+      "maas",
+      7
+    ],
+    [
+      "datasets",
+      6
+    ],
+    [
+      "movie",
+      6
+    ],
+    [
+      "andrew maas",
+      5
+    ],
+    [
+      "models",
+      5
+    ],
+    [
+      "movie review",
+      5
+    ],
+    [
+      "review",
+      5
+    ],
+    [
+      "benchmark",
+      4
+    ],
+    [
+      "bert",
+      4
+    ],
+    [
+      "face",
+      4
+    ],
+    [
+      "hugging",
+      4
+    ],
+    [
+      "hugging face",
+      4
+    ],
+    [
+      "large",
+      4
+    ]
+  ],
+  "url": "https://ai.stanford.edu/~amaas/data/sentiment",
+  "url_canonical": "https://ai.stanford.edu/~amaas/data/sentiment",
+  "via_source_id": "ahead-of-ai"
+}
