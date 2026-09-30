@@ -3339,6 +3339,11 @@
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
   },
+  "https://chatgpt.com/features/space": {
+    "article_id": null,
+    "first_seen_date": "2026-09-30",
+    "status": "fetch_failed"
+  },
   "https://chimerical-torte-b08774.netlify.app/": {
     "article_id": "one-useful-thing--2e08fd30",
     "first_seen_date": "2026-04-13"
@@ -3513,6 +3518,10 @@
   "https://codenewsletter.ai/p/anthropic-s-mythos-model-reportedly-defeats-apple-s-m5-defenses-nvidia-ships-sana-wm": {
     "article_id": "codenewsletter--8fdc2ff8",
     "first_seen_date": "2026-05-19"
+  },
+  "https://codenewsletter.ai/p/anthropic-s-new-model-nails-bug-fixes": {
+    "article_id": "codenewsletter--1af4781d",
+    "first_seen_date": "2026-09-30"
   },
   "https://codenewsletter.ai/p/anthropic-s-smartest-coding-model-cursor-drops-version-2-1": {
     "article_id": "codenewsletter--09dbb885",
@@ -4694,6 +4703,10 @@
     "article_id": "latent-space--d8af305f",
     "first_seen_date": "2026-09-25"
   },
+  "https://developers.openai.com/api/docs/guides/ultrafast-mode": {
+    "article_id": "latent-space--9da51546",
+    "first_seen_date": "2026-09-30"
+  },
   "https://devops.com/spacexais-grok-4-5-undercuts-anthropic-and-openai-on-coding-agent-pricing": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -4721,6 +4734,10 @@
   "https://docs.google.com/document/d/1VJ-OzBRJUChgUB0L0--dbdNjU2e-14PXnoTqNFYgXNQ/edit?tab=t.0": {
     "article_id": "one-useful-thing--c9ee330b",
     "first_seen_date": "2026-04-13"
+  },
+  "https://docs.nvidia.com/openshell/latest/observability/telemetry": {
+    "article_id": "latent-space--6c2751e5",
+    "first_seen_date": "2026-09-30"
   },
   "https://docs.typesafe.ai/": {
     "article_id": "latent-space--d079c96c",
@@ -5550,6 +5567,10 @@
   "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
     "article_id": "huggingface-blog--0c2ea1a3",
     "first_seen_date": "2026-08-11"
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+    "article_id": "huggingface-blog--e68eb703",
+    "first_seen_date": "2026-09-30"
   },
   "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
     "article_id": "huggingface-blog--1ff2bf45",
@@ -7667,6 +7688,10 @@
     "article_id": "huggingface-blog--69b35cc4",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/blog/nvidia/kumo-tabular": {
+    "article_id": "huggingface-blog--9e1dba9a",
+    "first_seen_date": "2026-09-30"
+  },
   "https://huggingface.co/blog/nvidia/kvpress": {
     "article_id": "huggingface-blog--c7970ec5",
     "first_seen_date": "2026-05-10"
@@ -9104,6 +9129,10 @@
     "article_id": "nlp-newsletter--172d1fd0",
     "first_seen_date": "2026-09-23"
   },
+  "https://joinhandshake.com/research/ai/deepswe-reward-hacking": {
+    "article_id": "latent-space--c59fc933",
+    "first_seen_date": "2026-09-30"
+  },
   "https://joschu.net/": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -9160,6 +9189,10 @@
   "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes": {
     "article_id": "last-week-in-ai--bfa3064b",
     "first_seen_date": "2026-09-23"
+  },
+  "https://lastweekin.ai/p/last-week-in-ai-345-5-new-models": {
+    "article_id": "last-week-in-ai--19f77fbf",
+    "first_seen_date": "2026-09-30"
   },
   "https://lastweekin.ai/p/lwiai-podcast-245-tml-interaction": {
     "article_id": "last-week-in-ai--a329c7dc",
@@ -10010,6 +10043,10 @@
     "article_id": "openai-blog--d6908243",
     "first_seen_date": "2026-07-11"
   },
+  "https://openai.com/index/devday-2026-recap": {
+    "article_id": "openai-blog--9f969522",
+    "first_seen_date": "2026-09-30"
+  },
   "https://openai.com/index/diagnose-rare-childhood-diseases": {
     "article_id": "openai-blog--64b5deef",
     "first_seen_date": "2026-06-19"
@@ -10288,6 +10325,10 @@
     "article_id": "openai-blog--56ecb8ae",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/introducing-dots": {
+    "article_id": "openai-blog--d46746fd",
+    "first_seen_date": "2026-09-30"
+  },
   "https://openai.com/index/introducing-genebench-pro": {
     "article_id": "openai-blog--4bd8df84",
     "first_seen_date": "2026-07-01"
@@ -10304,6 +10345,10 @@
   "https://openai.com/index/introducing-gpt-5-5": {
     "article_id": "openai-blog--d212660f",
     "first_seen_date": "2026-04-24"
+  },
+  "https://openai.com/index/introducing-gpt-6-1-sol": {
+    "article_id": "openai-blog--46b803d9",
+    "first_seen_date": "2026-09-30"
   },
   "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
     "article_id": "openai-blog--8ff9eb02",
@@ -11259,6 +11304,10 @@
     "article_id": "google-research--b29a9a14",
     "first_seen_date": "2026-09-23"
   },
+  "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation": {
+    "article_id": "google-research--3fe6fbfe",
+    "first_seen_date": "2026-09-30"
+  },
   "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place": {
     "article_id": "google-research--c4d33b00",
     "first_seen_date": "2026-09-23"
@@ -11592,6 +11641,18 @@
     "article_id": "simonwillison--3a0449c5",
     "first_seen_date": "2026-09-28"
   },
+  "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team": {
+    "article_id": "simonwillison--1c882355",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://simonwillison.net/2026/Sep/29/hn-49898129": {
+    "article_id": "simonwillison--c06c1f2a",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog": {
+    "article_id": "simonwillison--b6560e1b",
+    "first_seen_date": "2026-09-30"
+  },
   "https://singjupost.com/francois-chollet-how-we-get-to-agi-transcript": {
     "article_id": "ai-snake-oil--45197025",
     "first_seen_date": "2026-09-23"
@@ -11825,6 +11886,26 @@
     "article_id": "last-week-in-ai--7a5d0e18",
     "first_seen_date": "2026-09-24"
   },
+  "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna": {
+    "article_id": "last-week-in-ai--f748d074",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts": {
+    "article_id": "last-week-in-ai--2c4567b7",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner": {
+    "article_id": "last-week-in-ai--57f1c9ea",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity": {
+    "article_id": "last-week-in-ai--ab373485",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less": {
+    "article_id": "last-week-in-ai--0bc65e91",
+    "first_seen_date": "2026-09-30"
+  },
   "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost": {
     "article_id": "last-week-in-ai--1fe0c602",
     "first_seen_date": "2026-09-23"
@@ -11941,6 +12022,10 @@
   "https://transformer-circuits.pub/2026/workspace/index.html": {
     "article_id": "last-week-in-ai--5693e9a5",
     "first_seen_date": "2026-09-23"
+  },
+  "https://transluce.org/agent-activity": {
+    "article_id": "latent-space--72e30a0a",
+    "first_seen_date": "2026-09-30"
   },
   "https://tropical.probabilistic.ai/": {
     "article_id": "nlp-newsletter--b56a8e83",
@@ -12196,6 +12281,10 @@
   "https://www.anthropic.com/research/claude-character": {
     "article_id": "one-useful-thing--ed66ba72",
     "first_seen_date": "2026-04-13"
+  },
+  "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities": {
+    "article_id": "latent-space--6c73c3f8",
+    "first_seen_date": "2026-09-30"
   },
   "https://www.anthropic.com/research/project-vend-2": {
     "article_id": "one-useful-thing--497251e6",
@@ -12894,6 +12983,10 @@
     "article_id": "latent-space--b1b56c8a",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.latent.space/p/ainews-openai-devday-2026-dots-61": {
+    "article_id": "latent-space--49b2e6da",
+    "first_seen_date": "2026-09-30"
+  },
   "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer": {
     "article_id": "latent-space--de654bdd",
     "first_seen_date": "2026-09-29"
@@ -13069,6 +13162,10 @@
   "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement": {
     "article_id": "microsoft-research--8a6db6f6",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
+    "article_id": "microsoft-research--21189b0d",
+    "first_seen_date": "2026-09-30"
   },
   "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities": {
     "article_id": "microsoft-research--c0d25fbc",
@@ -13333,6 +13430,21 @@
   "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html": {
     "article_id": null,
     "first_seen_date": "2026-09-24",
+    "status": "fetch_failed"
+  },
+  "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html": {
+    "article_id": null,
+    "first_seen_date": "2026-09-30",
+    "status": "fetch_failed"
+  },
+  "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html": {
+    "article_id": null,
+    "first_seen_date": "2026-09-30",
+    "status": "fetch_failed"
+  },
+  "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html": {
+    "article_id": null,
+    "first_seen_date": "2026-09-30",
     "status": "fetch_failed"
   },
   "https://www.nytimes.com/interactive/2025/03/26/business/ai-smarter-human-intelligence-puzzle.html": {
@@ -14079,6 +14191,10 @@
     "article_id": "mit-tech-review-ai--4cb5f0a8",
     "first_seen_date": "2026-09-29"
   },
+  "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer": {
+    "article_id": "mit-tech-review-ai--7850b7ed",
+    "first_seen_date": "2026-09-30"
+  },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",
     "first_seen_date": "2026-09-23"
@@ -14125,6 +14241,14 @@
   "https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview": {
     "article_id": "ai-snake-oil--fa9cfac4",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause": {
+    "article_id": "last-week-in-ai--144e6e98",
+    "first_seen_date": "2026-09-30"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website": {
+    "article_id": "last-week-in-ai--dac77ed9",
+    "first_seen_date": "2026-09-30"
   },
   "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial": {
     "article_id": "last-week-in-ai--dd7473fa",
@@ -14209,6 +14333,10 @@
   "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist": {
     "article_id": "last-week-in-ai--2ab2278d",
     "first_seen_date": "2026-09-24"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity": {
+    "article_id": "last-week-in-ai--d881919e",
+    "first_seen_date": "2026-09-30"
   },
   "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw": {
     "article_id": "last-week-in-ai--5c042fed",
@@ -14306,6 +14434,10 @@
     "article_id": "interconnects--a00d83b1",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system": {
+    "article_id": "last-week-in-ai--6fd02532",
+    "first_seen_date": "2026-09-30"
+  },
   "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities": {
     "article_id": "last-week-in-ai--549a462b",
     "first_seen_date": "2026-09-23"
@@ -14325,6 +14457,10 @@
   "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human": {
     "article_id": "last-week-in-ai--160781d2",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack": {
+    "article_id": "last-week-in-ai--0b587de7",
+    "first_seen_date": "2026-09-30"
   },
   "https://www.worldlabs.ai/blog/atlas": {
     "article_id": "latent-space--0624b6d1",
