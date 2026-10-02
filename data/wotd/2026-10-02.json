@@ -1,0 +1,260 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--1b3beb0a",
+        "latent-space--a3fc3326",
+        "latent-space--f367902f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 2814.250991,
+      "term": "alex zhang",
+      "tf_today": 344
+    },
+    {
+      "articles": [
+        "latent-space--24fa18d0",
+        "latent-space--e3020cd7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1544.852475,
+      "term": "hours ago root",
+      "tf_today": 225
+    },
+    {
+      "articles": [
+        "latent-space--24fa18d0",
+        "latent-space--e3020cd7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1014.456694,
+      "term": "hours ago parent",
+      "tf_today": 158
+    },
+    {
+      "articles": [
+        "latent-space--24fa18d0",
+        "latent-space--7979a240",
+        "latent-space--cbc79b4b",
+        "latent-space--e3020cd7",
+        "latent-space--f0f5c8c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 603.908216,
+      "term": "durable",
+      "tf_today": 82
+    },
+    {
+      "articles": [
+        "latent-space--24fa18d0",
+        "latent-space--2a146682",
+        "latent-space--7979a240",
+        "latent-space--8e1038a3",
+        "latent-space--e3020cd7",
+        "latent-space--f0f5c8c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 565.554153,
+      "term": "extensions",
+      "tf_today": 73
+    },
+    {
+      "articles": [
+        "latent-space--2a146682",
+        "latent-space--8e1038a3",
+        "latent-space--cbc79b4b",
+        "latent-space--e3020cd7",
+        "latent-space--f0f5c8c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 550.215353,
+      "term": "codemode",
+      "tf_today": 76
+    },
+    {
+      "articles": [
+        "latent-space--05be6e46",
+        "latent-space--1b3beb0a",
+        "latent-space--a3fc3326",
+        "latent-space--e3020cd7",
+        "latent-space--f367902f"
+      ],
+      "avg_tf_baseline": 3.3333,
+      "df_today": 5,
+      "score": 533.443457,
+      "term": "alex",
+      "tf_today": 362
+    },
+    {
+      "articles": [
+        "latent-space--24fa18d0",
+        "latent-space--e3020cd7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 445.304181,
+      "term": "hours ago prev",
+      "tf_today": 80
+    },
+    {
+      "articles": [
+        "latent-space--24fa18d0",
+        "latent-space--7979a240",
+        "latent-space--cbc79b4b",
+        "latent-space--e3020cd7",
+        "latent-space--f0f5c8c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 360.659987,
+      "term": "pi durable",
+      "tf_today": 54
+    },
+    {
+      "articles": [
+        "latent-space--05be6e46",
+        "latent-space--1b3beb0a",
+        "latent-space--a3fc3326",
+        "latent-space--b9126795",
+        "latent-space--f367902f"
+      ],
+      "avg_tf_baseline": 5.0,
+      "df_today": 5,
+      "score": 348.745656,
+      "term": "zhang",
+      "tf_today": 356
+    }
+  ],
+  "date": "2026-10-02",
+  "evidence_article_ids": [
+    "latent-space--24fa18d0",
+    "latent-space--7979a240",
+    "latent-space--cbc79b4b",
+    "latent-space--e3020cd7",
+    "latent-space--f0f5c8c3"
+  ],
+  "judge": {
+    "input_tokens": 15968,
+    "model": "jev-1.13.0",
+    "pool_size": 31,
+    "signals": {
+      "alex zhang": {
+        "dominance": 1.82,
+        "event": 0.28,
+        "form": 0.92,
+        "novelty": 0.74,
+        "specificity": 0.78
+      },
+      "durable": {
+        "dominance": 2.74,
+        "event": 0.83,
+        "form": 0.8,
+        "novelty": 0.83,
+        "specificity": 1.42
+      },
+      "earendil": {
+        "dominance": 2.98,
+        "event": 0.92,
+        "form": 0.74,
+        "novelty": 0.9,
+        "specificity": 1.22
+      },
+      "earendil-works": {
+        "dominance": 2.9,
+        "event": 0.91,
+        "form": 0.33,
+        "novelty": 0.87,
+        "specificity": 0.95
+      },
+      "hacker news": {
+        "dominance": 2.22,
+        "event": 0.59,
+        "form": 0.68,
+        "novelty": 0.66,
+        "specificity": 0.08
+      },
+      "hours ago parent": {
+        "dominance": 1.82,
+        "event": 0.74,
+        "form": 0.14,
+        "novelty": 0.53,
+        "specificity": 0.01
+      },
+      "hours ago prev": {
+        "dominance": 1.99,
+        "event": 0.78,
+        "form": 0.15,
+        "novelty": 0.53,
+        "specificity": 0.0
+      },
+      "hours ago root": {
+        "dominance": 1.41,
+        "event": 0.6,
+        "form": 0.15,
+        "novelty": 0.44,
+        "specificity": 0.02
+      },
+      "kernelbench": {
+        "dominance": 1.87,
+        "event": 0.38,
+        "form": 0.88,
+        "novelty": 0.76,
+        "specificity": 1.99
+      },
+      "llms": {
+        "dominance": 2.46,
+        "event": 0.82,
+        "form": 0.76,
+        "novelty": 0.32,
+        "specificity": 1.84
+      },
+      "mcp": {
+        "dominance": 1.24,
+        "event": 0.32,
+        "form": 0.62,
+        "novelty": 0.74,
+        "specificity": 1.88
+      },
+      "news": {
+        "dominance": 2.6,
+        "event": 0.85,
+        "form": 0.75,
+        "novelty": 0.36,
+        "specificity": 0.11
+      },
+      "pi durable": {
+        "dominance": 2.83,
+        "event": 0.76,
+        "form": 0.87,
+        "novelty": 0.86,
+        "specificity": 1.91
+      },
+      "radius": {
+        "dominance": 1.11,
+        "event": 0.19,
+        "form": 0.8,
+        "novelty": 0.67,
+        "specificity": 0.82
+      },
+      "zhang": {
+        "dominance": 1.65,
+        "event": 0.31,
+        "form": 0.76,
+        "novelty": 0.77,
+        "specificity": 0.2
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "pi durable"
+    ]
+  },
+  "score": 360.659987,
+  "word": "pi durable"
+}

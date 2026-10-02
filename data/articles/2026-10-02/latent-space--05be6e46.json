@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--05be6e46",
+  "author": null,
+  "content_chars": 17107,
+  "content_sha256": "41a43076ca7bee9ff64a4e360d3e37168dfea34f46d57f511558ea0f3843d490",
+  "content_tokens": 4276,
+  "fetched_at": "2026-10-02T12:33:02Z",
+  "kind": "article",
+  "published_at": "2026-10-02T00:28:04+00:00",
+  "snippet": "KernelBench: Can LLMs Write Efficient GPU Kernels? | alphaXiv Blog Send Feedback? Abstract Paper Submitted 14 Feb 2025 en KernelBench: Can LLMs Write Efficient GPU Kernels? Stanford University Princeton University Anne Ouyang Simon Guo Simran Arora Alex L. Zhang WH William Hu…",
+  "source_id": "latent-space",
+  "title": "KernelBench: Can LLMs Write Efficient GPU Kernels? | alphaXiv",
+  "top_terms": [
+    [
+      "kernels",
+      33
+    ],
+    [
+      "llms",
+      24
+    ],
+    [
+      "kernel",
+      21
+    ],
+    [
+      "generation",
+      20
+    ],
+    [
+      "performance",
+      17
+    ],
+    [
+      "kernelbench",
+      16
+    ],
+    [
+      "code",
+      15
+    ],
+    [
+      "feedback",
+      14
+    ],
+    [
+      "efficient",
+      13
+    ],
+    [
+      "gpu",
+      13
+    ],
+    [
+      "hardware",
+      13
+    ],
+    [
+      "kernel generation",
+      13
+    ],
+    [
+      "memory",
+      12
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "pytorch",
+      12
+    ],
+    [
+      "optimization",
+      10
+    ],
+    [
+      "fast",
+      9
+    ],
+    [
+      "framework",
+      9
+    ],
+    [
+      "optimized",
+      9
+    ],
+    [
+      "cuda",
+      8
+    ]
+  ],
+  "url": "https://www.alphaxiv.org/abs/2502.10517",
+  "url_canonical": "https://www.alphaxiv.org/abs/2502.10517",
+  "via_source_id": "latent-space"
+}
