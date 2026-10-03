@@ -1,0 +1,255 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--0169ef76",
+        "latent-space--763ef10b",
+        "latent-space--c0f4a398"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 360.762627,
+      "term": "ggml-org",
+      "tf_today": 66
+    },
+    {
+      "articles": [
+        "latent-space--0169ef76",
+        "latent-space--763ef10b",
+        "latent-space--c0f4a398",
+        "latent-space--dbecfa5c",
+        "latent-space--e06cb042"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 339.616306,
+      "term": "mtp",
+      "tf_today": 56
+    },
+    {
+      "articles": [
+        "latent-space--763ef10b",
+        "latent-space--9f864a85",
+        "latent-space--dbecfa5c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 217.741094,
+      "term": "lessthanthreeai",
+      "tf_today": 44
+    },
+    {
+      "articles": [
+        "latent-space--0169ef76",
+        "latent-space--7134af77",
+        "latent-space--763ef10b",
+        "latent-space--c0f4a398",
+        "latent-space--dbecfa5c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 201.886032,
+      "term": "iq4",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "latent-space--0169ef76",
+        "latent-space--763ef10b",
+        "latent-space--c0f4a398",
+        "latent-space--dbecfa5c",
+        "latent-space--e06cb042"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 188.134744,
+      "term": "ggerganov",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "latent-space--9f864a85",
+        "latent-space--dbecfa5c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 178.251459,
+      "term": "lessthanthreeai qwen3.8",
+      "tf_today": 40
+    },
+    {
+      "articles": [
+        "last-week-in-ai--2befa84d",
+        "last-week-in-ai--5d8dc279",
+        "last-week-in-ai--e3dda889"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 174.967894,
+      "term": "americans",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "latent-space--0169ef76",
+        "latent-space--c0f4a398"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 161.508825,
+      "term": "flash-next-gguf",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "latent-space--0169ef76",
+        "latent-space--c0f4a398"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 161.508825,
+      "term": "qwen3.8 flash-next-gguf",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "latent-space--763ef10b",
+        "latent-space--c0f4a398",
+        "latent-space--e06cb042"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 157.146384,
+      "term": "unsloth qwen3.8",
+      "tf_today": 34
+    }
+  ],
+  "date": "2026-10-03",
+  "evidence_article_ids": [
+    "last-week-in-ai--067de7eb",
+    "last-week-in-ai--2befa84d",
+    "last-week-in-ai--55d6d187",
+    "latent-space--763ef10b"
+  ],
+  "judge": {
+    "input_tokens": 21525,
+    "model": "jev-1.13.0",
+    "pool_size": 42,
+    "signals": {
+      "anthropic": {
+        "dominance": 2.75,
+        "event": 0.92,
+        "form": 0.86,
+        "novelty": 0.7,
+        "specificity": 1.06
+      },
+      "arms control": {
+        "dominance": 1.95,
+        "event": 0.23,
+        "form": 0.91,
+        "novelty": 0.65,
+        "specificity": 0.02
+      },
+      "compression": {
+        "dominance": 2.32,
+        "event": 0.91,
+        "form": 0.91,
+        "novelty": 0.77,
+        "specificity": 1.91
+      },
+      "deepseek-v4.1 flash": {
+        "dominance": 1.65,
+        "event": 0.52,
+        "form": 0.9,
+        "novelty": 0.81,
+        "specificity": 2.0
+      },
+      "flash": {
+        "dominance": 1.9,
+        "event": 0.8,
+        "form": 0.71,
+        "novelty": 0.76,
+        "specificity": 1.73
+      },
+      "ggml-org": {
+        "dominance": 1.88,
+        "event": 0.42,
+        "form": 0.45,
+        "novelty": 0.78,
+        "specificity": 1.59
+      },
+      "hugging face": {
+        "dominance": 1.93,
+        "event": 0.27,
+        "form": 0.74,
+        "novelty": 0.72,
+        "specificity": 1.58
+      },
+      "lessthanthreeai qwen3.8": {
+        "dominance": 2.42,
+        "event": 0.34,
+        "form": 0.49,
+        "novelty": 0.78,
+        "specificity": 1.9
+      },
+      "model": {
+        "dominance": 2.83,
+        "event": 0.86,
+        "form": 0.79,
+        "novelty": 0.41,
+        "specificity": 1.17
+      },
+      "muse": {
+        "dominance": 2.75,
+        "event": 0.87,
+        "form": 0.9,
+        "novelty": 0.81,
+        "specificity": 1.93
+      },
+      "opus": {
+        "dominance": 2.34,
+        "event": 0.91,
+        "form": 0.86,
+        "novelty": 0.72,
+        "specificity": 1.95
+      },
+      "pew research center": {
+        "dominance": 1.93,
+        "event": 0.37,
+        "form": 0.9,
+        "novelty": 0.7,
+        "specificity": 0.29
+      },
+      "qwen3.8 b-gguf": {
+        "dominance": 2.18,
+        "event": 0.38,
+        "form": 0.54,
+        "novelty": 0.79,
+        "specificity": 1.99
+      },
+      "qwen3.8 flash-next-gguf": {
+        "dominance": 1.99,
+        "event": 0.25,
+        "form": 0.77,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "techcrunch": {
+        "dominance": 2.18,
+        "event": 0.84,
+        "form": 0.58,
+        "novelty": 0.62,
+        "specificity": 0.56
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "muse",
+      "compression",
+      "opus",
+      "deepseek-v4.1 flash"
+    ]
+  },
+  "score": 5.160861,
+  "word": "muse"
+}

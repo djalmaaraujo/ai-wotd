@@ -178,6 +178,16 @@
     "article_id": "ahead-of-ai--1448527d",
     "first_seen_date": "2026-09-29"
   },
+  "https://ai.ttindall.com/blog/27b-24gb-context-ceiling": {
+    "article_id": null,
+    "first_seen_date": "2026-10-03",
+    "status": "fetch_failed"
+  },
+  "https://ai.ttindall.com/blog/deepswe-local-confidence": {
+    "article_id": null,
+    "first_seen_date": "2026-10-03",
+    "status": "fetch_failed"
+  },
   "https://aibreakfast.beehiiv.com/p/1-trillion-parameter-language-model": {
     "article_id": "aibreakfast--8126fc68",
     "first_seen_date": "2026-04-19"
@@ -893,6 +903,10 @@
   "https://aibreakfast.beehiiv.com/p/gemini-3-leak": {
     "article_id": "aibreakfast--b4cf4cdd",
     "first_seen_date": "2026-04-17"
+  },
+  "https://aibreakfast.beehiiv.com/p/gemini-4-argon-a-new-frontier": {
+    "article_id": "aibreakfast--d94051d2",
+    "first_seen_date": "2026-10-03"
   },
   "https://aibreakfast.beehiiv.com/p/gemini-embedding-2-brings-text-video-and-audio-together": {
     "article_id": "aibreakfast--cf1d08f5",
@@ -2411,6 +2425,10 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://aiendgame.com/p/it-comes-down-to-a-phone-call?r=92rmhq&triedRedirect=true": {
+    "article_id": "last-week-in-ai--5d8dc279",
+    "first_seen_date": "2026-10-03"
+  },
   "https://aiuc.com/": {
     "article_id": "latent-space--7b57b6a5",
     "first_seen_date": "2026-09-23"
@@ -3097,6 +3115,10 @@
     "article_id": "last-week-in-ai--6d1d540c",
     "first_seen_date": "2026-09-24"
   },
+  "https://arxiv.org/abs/2609.19969": {
+    "article_id": "last-week-in-ai--fdfee35b",
+    "first_seen_date": "2026-10-03"
+  },
   "https://arxiv.org/html/2409.11363v1": {
     "article_id": "ai-snake-oil--51926990",
     "first_seen_date": "2026-09-23"
@@ -3643,6 +3665,10 @@
   "https://codenewsletter.ai/p/claude-hit-by-back-to-back-outages-alibaba-s-new-models-rival-giant-ones": {
     "article_id": "codenewsletter--7d26789f",
     "first_seen_date": "2026-04-14"
+  },
+  "https://codenewsletter.ai/p/claude-mods-are-here": {
+    "article_id": "codenewsletter--70c32ed7",
+    "first_seen_date": "2026-10-03"
   },
   "https://codenewsletter.ai/p/cloudflare-s-vibe-coding-platform-perplexity-launches-search-api": {
     "article_id": "codenewsletter--8428d39e",
@@ -4735,6 +4761,10 @@
     "article_id": "latent-space--f60e5f2b",
     "first_seen_date": "2026-09-25"
   },
+  "https://deepswe.datacurve.ai/data/v1.1": {
+    "article_id": "latent-space--ad559705",
+    "first_seen_date": "2026-10-03"
+  },
   "https://define-agi.com/": {
     "article_id": "ai-snake-oil--2124f6dc",
     "first_seen_date": "2026-09-23"
@@ -4987,6 +5017,11 @@
     "article_id": "ai-snake-oil--917a4b43",
     "first_seen_date": "2026-09-23"
   },
+  "https://eur-lex.europa.eu/eli/dir/2019/770/oj": {
+    "article_id": null,
+    "first_seen_date": "2026-10-03",
+    "status": "fetch_failed"
+  },
   "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng": {
     "article_id": "ai-snake-oil--aa975ba3",
     "first_seen_date": "2026-09-23"
@@ -5155,6 +5190,10 @@
     "article_id": "nlp-newsletter--807c7992",
     "first_seen_date": "2026-09-23"
   },
+  "https://github.com/StayLameBro/backburner": {
+    "article_id": "latent-space--7134af77",
+    "first_seen_date": "2026-10-03"
+  },
   "https://github.com/XiaomiMiMo/mimoagent/tree/mimo-oss/src/mimoagent/environments": {
     "article_id": "latent-space--1b967817",
     "first_seen_date": "2026-09-23"
@@ -5223,6 +5262,10 @@
   "https://github.com/eric-mitchell/direct-preference-optimization": {
     "article_id": "nlp-newsletter--49cd9d83",
     "first_seen_date": "2026-09-23"
+  },
+  "https://github.com/ggml-org/llama.cpp/pull/29761": {
+    "article_id": "latent-space--c0f4a398",
+    "first_seen_date": "2026-10-03"
   },
   "https://github.com/google-research/era/tree/main/era_applications": {
     "article_id": "latent-space--c7cea7e0",
@@ -5453,6 +5496,10 @@
   "https://huggingface.co/HuggingJoost/Swift-Qwen3.8-27B-NVFP4-GGUF": {
     "article_id": "latent-space--7264baef",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF": {
+    "article_id": "latent-space--dbecfa5c",
+    "first_seen_date": "2026-10-03"
   },
   "https://huggingface.co/MiniMaxAI/MiniMax-M3/blob/main/LICENSE": {
     "article_id": "interconnects--6b6c034c",
@@ -5826,6 +5873,10 @@
   "https://huggingface.co/blog/aivsai": {
     "article_id": "huggingface-blog--90ac9d8e",
     "first_seen_date": "2026-07-21"
+  },
+  "https://huggingface.co/blog/allenai/astabrief": {
+    "article_id": "huggingface-blog--13091800",
+    "first_seen_date": "2026-10-03"
   },
   "https://huggingface.co/blog/allenai/benchmirt": {
     "article_id": "huggingface-blog--8769c359",
@@ -9080,6 +9131,10 @@
     "article_id": "latent-space--75ae650a",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF": {
+    "article_id": "latent-space--0169ef76",
+    "first_seen_date": "2026-10-03"
+  },
   "https://huggingface.co/google/gemma-4-31B-it": {
     "article_id": "interconnects--cc269c47",
     "first_seen_date": "2026-09-23"
@@ -9124,6 +9179,10 @@
     "article_id": "ahead-of-ai--69f968f9",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/spaces/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat": {
+    "article_id": "latent-space--9f864a85",
+    "first_seen_date": "2026-10-03"
+  },
   "https://huggingface.co/spaces/webml-community/ternary-bonsai-2-webgpu-kernels": {
     "article_id": "latent-space--14406940",
     "first_seen_date": "2026-09-23"
@@ -9159,6 +9218,10 @@
   "https://huggingface.co/ukisai/Swift-Qwen3.8-27b": {
     "article_id": "latent-space--4796ba56",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
+    "article_id": "latent-space--e06cb042",
+    "first_seen_date": "2026-10-03"
   },
   "https://huggingface.co/zai-org/GLM-5.3": {
     "article_id": "interconnects--51197252",
@@ -9328,6 +9391,10 @@
   "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai": {
     "article_id": "last-week-in-ai--61c501f6",
     "first_seen_date": "2026-09-24"
+  },
+  "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and": {
+    "article_id": "last-week-in-ai--2befa84d",
+    "first_seen_date": "2026-10-03"
   },
   "https://leap.forecastingresearch.org/about": {
     "article_id": "ai-snake-oil--06e05a98",
@@ -9507,6 +9574,10 @@
     "article_id": "one-useful-thing--2174bfc5",
     "first_seen_date": "2026-04-13"
   },
+  "https://modelsentiment.com/m/claude-opus-5.5": {
+    "article_id": "latent-space--1b8f1add",
+    "first_seen_date": "2026-10-03"
+  },
   "https://mp.weixin.qq.com/s/qg0NU3NNUbp1co2PdkAPAg": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -9516,6 +9587,14 @@
     "article_id": null,
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
+  },
+  "https://news.airbnb.com/airbnb-expands-groceries-with-instacart-across-us-and-canada": {
+    "article_id": "latent-space--d770de87",
+    "first_seen_date": "2026-10-03"
+  },
+  "https://news.airbnb.com/airbnb-q2-2026-financial-results": {
+    "article_id": "latent-space--8f77bad3",
+    "first_seen_date": "2026-10-03"
   },
   "https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise": {
     "article_id": "latent-space--584211ac",
@@ -10049,6 +10128,10 @@
   "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
     "article_id": "openai-blog--1a64c68d",
     "first_seen_date": "2026-05-15"
+  },
+  "https://openai.com/index/chatham-financial": {
+    "article_id": "openai-blog--a49950bf",
+    "first_seen_date": "2026-10-03"
   },
   "https://openai.com/index/choco": {
     "article_id": "openai-blog--df0885b5",
@@ -10804,6 +10887,10 @@
     "article_id": "openai-blog--48334935",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "article_id": "openai-blog--a48b1fa3",
+    "first_seen_date": "2026-10-03"
+  },
   "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
     "article_id": "openai-blog--b648051d",
     "first_seen_date": "2026-06-11"
@@ -11345,6 +11432,10 @@
     "article_id": "one-useful-thing--2bda52cb",
     "first_seen_date": "2026-04-13"
   },
+  "https://prismml.com/news/bonsai-2-27b": {
+    "article_id": "last-week-in-ai--fa1cabf9",
+    "first_seen_date": "2026-10-03"
+  },
   "https://proceedings.iclr.cc/paper_files/paper/2026/hash/417e1c15b3d49852fceded8aa104107d-Abstract-Conference.html": {
     "article_id": "latent-space--002fa570",
     "first_seen_date": "2026-09-25"
@@ -11475,6 +11566,10 @@
   "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients": {
     "article_id": "google-research--2319f99b",
     "first_seen_date": "2026-09-23"
+  },
+  "https://research.google/blog/toward-provably-private-learning-from-federated-data": {
+    "article_id": "google-research--623a2fc9",
+    "first_seen_date": "2026-10-03"
   },
   "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations": {
     "article_id": "google-research--55207375",
@@ -12022,6 +12117,10 @@
     "article_id": "last-week-in-ai--65335607",
     "first_seen_date": "2026-09-24"
   },
+  "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers": {
+    "article_id": "last-week-in-ai--948cc3e2",
+    "first_seen_date": "2026-10-03"
+  },
   "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments": {
     "article_id": "latent-space--9e4b8937",
     "first_seen_date": "2026-09-25"
@@ -12029,6 +12128,14 @@
   "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer": {
     "article_id": "last-week-in-ai--7a5d0e18",
     "first_seen_date": "2026-09-24"
+  },
+  "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch": {
+    "article_id": "last-week-in-ai--067de7eb",
+    "first_seen_date": "2026-10-03"
+  },
+  "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance": {
+    "article_id": "last-week-in-ai--cefab74f",
+    "first_seen_date": "2026-10-03"
   },
   "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna": {
     "article_id": "last-week-in-ai--f748d074",
@@ -12318,6 +12425,10 @@
     "article_id": "one-useful-thing--459fa291",
     "first_seen_date": "2026-04-13"
   },
+  "https://www.airbnb.co.uk/services": {
+    "article_id": "latent-space--c2aed57e",
+    "first_seen_date": "2026-10-03"
+  },
   "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing": {
     "article_id": "ai-snake-oil--7d26d9bf",
     "first_seen_date": "2026-09-23"
@@ -12421,6 +12532,10 @@
   "https://www.anthropic.com/news/claude-3-family": {
     "article_id": "nlp-newsletter--d6440a41",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.anthropic.com/news/claude-code-security": {
+    "article_id": "last-week-in-ai--652dc2b9",
+    "first_seen_date": "2026-10-03"
   },
   "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
     "article_id": "last-week-in-ai--bf98cfab",
@@ -13151,6 +13266,10 @@
     "article_id": "latent-space--b1b56c8a",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.latent.space/p/ainews-not-much-happened-today-cee": {
+    "article_id": "latent-space--763ef10b",
+    "first_seen_date": "2026-10-03"
+  },
   "https://www.latent.space/p/ainews-openai-devday-2026-dots-61": {
     "article_id": "latent-space--49b2e6da",
     "first_seen_date": "2026-09-30"
@@ -13174,6 +13293,10 @@
   "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b": {
     "article_id": "latent-space--5079e401",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.latent.space/p/airbnb": {
+    "article_id": "latent-space--5ad4e066",
+    "first_seen_date": "2026-10-03"
   },
   "https://www.latent.space/p/aiuc": {
     "article_id": "latent-space--50694cce",
@@ -13623,6 +13746,11 @@
   "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html": {
     "article_id": null,
     "first_seen_date": "2026-09-24",
+    "status": "fetch_failed"
+  },
+  "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html": {
+    "article_id": null,
+    "first_seen_date": "2026-10-03",
     "status": "fetch_failed"
   },
   "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html": {
@@ -14217,9 +14345,18 @@
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
   },
+  "https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative": {
+    "article_id": "last-week-in-ai--e3dda889",
+    "first_seen_date": "2026-10-03"
+  },
   "https://www.platformer.news/ai-safety-vibe-shift-coxon-anthropic": {
     "article_id": "ai-snake-oil--65fd3237",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023": {
+    "article_id": null,
+    "first_seen_date": "2026-10-03",
+    "status": "fetch_failed"
   },
   "https://www.projectvail.com/": {
     "article_id": "interconnects--3235ae4d",
@@ -14317,6 +14454,10 @@
     "article_id": "ahead-of-ai--78674732",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.semafor.com/article/09/22/2026/bessent-eyed-for-trumps-ai-czar": {
+    "article_id": "last-week-in-ai--4138ba1b",
+    "first_seen_date": "2026-10-03"
+  },
   "https://www.statnews.com/2022/10/24/epic-overhaul-of-a-flawed-algorithm": {
     "article_id": "ai-snake-oil--abf8e153",
     "first_seen_date": "2026-09-23"
@@ -14400,6 +14541,10 @@
   "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer": {
     "article_id": "mit-tech-review-ai--7850b7ed",
     "first_seen_date": "2026-09-30"
+  },
+  "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai": {
+    "article_id": "mit-tech-review-ai--5ad64f16",
+    "first_seen_date": "2026-10-03"
   },
   "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason": {
     "article_id": "mit-tech-review-ai--74d3026c",
@@ -14583,6 +14728,10 @@
   "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal": {
     "article_id": "last-week-in-ai--7036f24c",
     "first_seen_date": "2026-09-24"
+  },
+  "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping": {
+    "article_id": "last-week-in-ai--55d6d187",
+    "first_seen_date": "2026-10-03"
   },
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use": {
     "article_id": "latent-space--a099c0b8",

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--ad559705",
+  "author": null,
+  "content_chars": 1012,
+  "content_sha256": "398a2c251b559e6bce9805f1759b9c607717e73142397c24d87aed2a170e0e6e",
+  "content_tokens": 253,
+  "fetched_at": "2026-10-03T11:39:39Z",
+  "kind": "article",
+  "published_at": "2026-10-03T08:45:15+00:00",
+  "snippet": "Data - DeepSWE DeepSWE Blog Run Data GitHub Toggle theme Toggle theme v1.1 (latest) v1 Data Browse the data Outcomes from every (task, model) rollout in the DeepSWE benchmark and the cross-benchmark trajectory-analysis sample. Pivot the heatmap, scan the task catalog, or open…",
+  "source_id": "latent-space",
+  "title": "Data - DeepSWE",
+  "top_terms": [
+    [
+      "avg",
+      12
+    ],
+    [
+      "data",
+      6
+    ],
+    [
+      "trials",
+      6
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "cost",
+      4
+    ],
+    [
+      "deepswe",
+      4
+    ],
+    [
+      "tokens",
+      4
+    ],
+    [
+      "tokens avg",
+      4
+    ],
+    [
+      "color",
+      3
+    ],
+    [
+      "tasks",
+      3
+    ],
+    [
+      "all trials",
+      2
+    ],
+    [
+      "all trials exclude",
+      2
+    ],
+    [
+      "avg cost",
+      2
+    ],
+    [
+      "avg cost total",
+      2
+    ],
+    [
+      "avg duration",
+      2
+    ],
+    [
+      "avg duration trials",
+      2
+    ],
+    [
+      "avg input",
+      2
+    ],
+    [
+      "avg input tokens",
+      2
+    ],
+    [
+      "avg output",
+      2
+    ],
+    [
+      "avg output tokens",
+      2
+    ]
+  ],
+  "url": "https://deepswe.datacurve.ai/data/v1.1",
+  "url_canonical": "https://deepswe.datacurve.ai/data/v1.1",
+  "via_source_id": "latent-space"
+}
