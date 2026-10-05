@@ -21,9 +21,8 @@ logger = logging.getLogger(__name__)
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 OPENROUTER_MODELS = (
-    "google/gemma-4-31b-it:free",
     "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "thinkingmachines/inkling:free",
+    "google/gemma-4-31b-it:free",
     "openrouter/free",
 )
 # The blurb must never cost money: only `:free` variants and OpenRouter's
@@ -34,7 +33,10 @@ ATTEMPTS_PER_MODEL = 3
 BACKOFF_SECONDS = 20.0
 MAX_WAIT_SECONDS = 90.0
 RETRYABLE_STATUS = frozenset({408, 429, 500, 502, 503, 504})
-MAX_TOKENS = 1200
+# A bad key or an empty balance fails the same way for every model.
+ACCOUNT_STATUS = frozenset({401, 402})
+# Free reasoning models spend part of the budget thinking; 1200 cut the JSON short.
+MAX_TOKENS = 4000
 
 
 SUMMARY_PROMPT = """You are writing for an AI industry daily digest.
@@ -97,7 +99,8 @@ def _ask_openrouter(system: str, user: str, model: str, key: str, *, sleep=time.
     """Return the model's text, retrying a free-tier rate limit with backoff.
 
     Raises `_Refused` on an error that is the same for every model (bad key,
-    no credit), so the caller stops instead of walking the whole list.
+    no credit), so the caller stops instead of walking the whole list. Any
+    other refusal is about this model only, and returns None.
     """
     for attempt in range(ATTEMPTS_PER_MODEL):
         response = None
@@ -126,8 +129,13 @@ def _ask_openrouter(system: str, user: str, model: str, key: str, *, sleep=time.
                 logger.warning("llm: %s answered with no text", model)
             elif response.status_code in RETRYABLE_STATUS:
                 logger.warning("llm: %s returned %s", model, response.status_code)
-            else:
+            elif response.status_code in ACCOUNT_STATUS:
                 raise _Refused(f"OpenRouter returned {response.status_code}: {response.text[:200]}")
+            else:
+                logger.warning(
+                    "llm: %s refused (%s): %s", model, response.status_code, response.text[:200]
+                )
+                return None
         if attempt < ATTEMPTS_PER_MODEL - 1:
             sleep(_retry_wait(response, attempt))
     return None

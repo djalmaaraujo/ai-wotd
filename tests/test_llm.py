@@ -207,3 +207,20 @@ def test_generate_blurb_never_sends_a_paid_model(monkeypatch):
 
     assert sent == ["openrouter/free"]
     assert blurb["model"] == "openrouter/free"
+
+
+def test_generate_blurb_moves_on_when_one_model_is_forbidden(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "or-key")
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if json.loads(request.content)["model"] == "harness-only:free":
+            return httpx.Response(403, json={"error": "only available on agentic harnesses"})
+        return httpx.Response(200, json={"choices": [{"message": {"content": json.dumps(BLURB)}}]})
+
+    _mock_openrouter(monkeypatch, handler)
+    blurb = generate_blurb(
+        word="mcp", candidates=[], evidence_articles=[],
+        openrouter_models=["harness-only:free", "openrouter/free"], sleep=lambda s: None,
+    )
+
+    assert blurb["model"] == "openrouter/free"
