@@ -1,26 +1,26 @@
 {
   "article_id": "codenewsletter--9352d55f",
   "author": "Code Newsletter",
-  "content_chars": 8497,
-  "content_sha256": "5e88dc3342020091dcfd3096724dcc7a421fbfd58232c8569dd155b96e45a90e",
-  "content_tokens": 2124,
+  "content_chars": 7642,
+  "content_sha256": "8ff2aa0f9095a03373f0c7b281ae11d76ad88715f9296150bdbc9c6fcdbb8f94",
+  "content_tokens": 1910,
   "fetched_at": "2026-10-01T13:08:38Z",
   "kind": "article",
   "published_at": "2026-10-01T13:00:00+00:00",
-  "snippet": "Google's new model hunts and patches security bugs Archive Resources Advertise Log in Subscribe Home Posts Google's new model hunts and patches security bugs Google's new model hunts and patches security bugs Also: 8 Jev use cases Oct 1, 2026 Welcome back. Every AI lab and…",
+  "snippet": "Google's new model hunts and patches security bugs Google's new model hunts and patches security bugs Also: 8 Jev use cases Oct 1, 2026 Welcome back. Every AI lab and startup is racing to win over developers. Yesterday, Factory's CEO accused a VC board advisor of leaking…",
   "source_id": "codenewsletter",
   "title": "Google's new model hunts and patches security bugs",
   "top_terms": [
     [
       "code",
-      13
-    ],
-    [
-      "model",
       10
     ],
     [
       "jev",
+      9
+    ],
+    [
+      "model",
       9
     ],
     [
@@ -29,7 +29,7 @@
     ],
     [
       "claude",
-      8
+      7
     ],
     [
       "coding",
@@ -37,14 +37,6 @@
     ],
     [
       "harness",
-      7
-    ],
-    [
-      "and patches",
-      6
-    ],
-    [
-      "patches",
       6
     ],
     [
@@ -52,27 +44,11 @@
       6
     ],
     [
-      "security",
-      6
-    ],
-    [
-      "and patches security",
-      5
-    ],
-    [
-      "bugs",
+      "and patches",
       5
     ],
     [
       "claude code",
-      5
-    ],
-    [
-      "cursor",
-      5
-    ],
-    [
-      "developers",
       5
     ],
     [
@@ -84,12 +60,36 @@
       5
     ],
     [
-      "google's",
+      "patches",
       5
     ],
     [
-      "google's new",
+      "security",
       5
+    ],
+    [
+      "tool",
+      5
+    ],
+    [
+      "and patches security",
+      4
+    ],
+    [
+      "bugs",
+      4
+    ],
+    [
+      "cursor",
+      4
+    ],
+    [
+      "dev",
+      4
+    ],
+    [
+      "developers",
+      4
     ]
   ],
   "url": "https://codenewsletter.ai/p/google-s-new-model-hunts-and-patches-security-bugs",

@@ -1,22 +1,22 @@
 {
   "article_id": "latent-space--49b2e6da",
   "author": "swyx & Alessio",
-  "content_chars": 18356,
-  "content_sha256": "362a88f277044b90bbded67014f047d3155af69e1e65bc5b4c34b377d2a15861",
-  "content_tokens": 4589,
+  "content_chars": 17786,
+  "content_sha256": "0c3a617ba73aa021a64f235069f5b966a03739d3a33b09805c16867f9d286cd4",
+  "content_tokens": 4446,
   "fetched_at": "2026-09-30T12:33:32Z",
   "kind": "article",
   "published_at": "2026-09-30T05:53:10+00:00",
-  "snippet": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU Subscribe Sign in AINews: Weekday Roundups [AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace…",
+  "snippet": "Today is the 20 year anniversary of Sam Altman’s first startup, and fittingly OpenAI the consumer AI company is so back (as is OpenAI the AI Cloud and OpenAI the Enterprise and Coding Definitely Not Anthropic Hyperscaler), with Dots — their voice-enabled answer to Instinct and…",
   "source_id": "latent-space",
   "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
   "top_terms": [
     [
-      "openai",
-      26
+      "models",
+      24
     ],
     [
-      "models",
+      "openai",
       24
     ],
     [
@@ -24,15 +24,11 @@
       17
     ],
     [
-      "sol",
-      15
-    ],
-    [
-      "agents",
-      14
-    ],
-    [
       "anthropic",
+      13
+    ],
+    [
+      "sol",
       13
     ],
     [
@@ -40,16 +36,12 @@
       12
     ],
     [
-      "api",
+      "agents",
       12
     ],
     [
       "open",
       12
-    ],
-    [
-      "dots",
-      10
     ],
     [
       "sonnet",
@@ -64,11 +56,15 @@
       9
     ],
     [
+      "api",
+      8
+    ],
+    [
       "commenter",
       8
     ],
     [
-      "full",
+      "dots",
       8
     ],
     [
@@ -84,11 +80,15 @@
       7
     ],
     [
-      "devday",
+      "full",
       7
     ],
     [
       "image",
+      7
+    ],
+    [
+      "nvidia",
       7
     ]
   ],

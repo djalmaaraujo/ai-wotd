@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--6c73c3f8",
   "author": null,
-  "content_chars": 17613,
-  "content_sha256": "b352e6cb4af594c603620d8483438709fd2fcbf827d7e24ec25512163cfeca21",
-  "content_tokens": 4403,
+  "content_chars": 11781,
+  "content_sha256": "61bc48a0d189bf885ae2d3211865eaf61916095b401b5abff468817db7f991cc",
+  "content_tokens": 2945,
   "fetched_at": "2026-09-30T12:33:34Z",
   "kind": "article",
   "published_at": "2026-09-30T05:53:10+00:00",
-  "snippet": "GLM-5.3 and the spread of advanced cyber capabilities \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Frontier Red Team Policy GLM-5.3 and the spread of advanced cyber capabilities Sep 29, 2026 Andrew Fasano, Marius Fleischer…",
+  "snippet": "Subscribe to the Frontier Red Team newsletter Get updates on our latest red-teaming research and findings. Andrew Fasano, Marius Fleischer Cole McFaul, Robert Xiao, Tripp Gallagher Five months ago, we announced Claude Mythos Preview, the first AI model that could autonomously…",
   "source_id": "latent-space",
   "title": "GLM-5.3 and the spread of advanced cyber capabilities \\ Anthropic",
   "top_terms": [
     [
       "glm-5.3",
-      53
-    ],
-    [
-      "claude",
-      45
+      37
     ],
     [
       "models",
-      39
+      27
     ],
     [
-      "model",
-      31
+      "claude",
+      19
     ],
     [
       "cyber",
-      23
+      19
+    ],
+    [
+      "model",
+      17
     ],
     [
       "capabilities",
-      18
+      15
     ],
     [
       "safeguards",
-      18
-    ],
-    [
-      "the model",
-      16
-    ],
-    [
-      "abliterated",
       12
-    ],
-    [
-      "exploit",
-      12
-    ],
-    [
-      "mythos",
-      12
-    ],
-    [
-      "released",
-      12
-    ],
-    [
-      "vulnerabilities",
-      11
-    ],
-    [
-      "claude mythos",
-      10
     ],
     [
       "defenders",
       10
     ],
     [
-      "mythos preview",
+      "exploit",
       10
     ],
     [
-      "preview",
+      "the model",
       10
     ],
     [
-      "claude models",
+      "vulnerabilities",
+      10
+    ],
+    [
+      "claude mythos",
       9
+    ],
+    [
+      "mythos",
+      9
+    ],
+    [
+      "attackers",
+      8
     ],
     [
       "claude mythos preview",
-      9
+      8
     ],
     [
-      "policy",
-      9
+      "mythos preview",
+      8
+    ],
+    [
+      "preview",
+      8
+    ],
+    [
+      "abliterated",
+      7
+    ],
+    [
+      "access",
+      7
+    ],
+    [
+      "released",
+      7
     ]
   ],
   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",

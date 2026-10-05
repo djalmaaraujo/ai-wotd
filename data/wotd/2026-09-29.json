@@ -7,38 +7,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 2401.320149,
+      "score": 2329.4439,
       "term": "parent",
       "tf_today": 361
-    },
-    {
-      "articles": [
-        "ahead-of-ai--0703f6b3",
-        "ahead-of-ai--c3a04314",
-        "ahead-of-ai--f7548566",
-        "latent-space--06f5398b",
-        "latent-space--54cae820",
-        "latent-space--59c78177"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 6,
-      "score": 2217.495726,
-      "term": "prev",
-      "tf_today": 283
-    },
-    {
-      "articles": [
-        "ahead-of-ai--0703f6b3",
-        "ahead-of-ai--c3a04314",
-        "ahead-of-ai--f7548566",
-        "latent-space--06f5398b",
-        "latent-space--54cae820"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 5,
-      "score": 2088.010052,
-      "term": "prev next",
-      "tf_today": 280
     },
     {
       "articles": [
@@ -47,7 +18,29 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1362.51282,
+      "score": 1721.830709,
+      "term": "prev",
+      "tf_today": 279
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1707.313053,
+      "term": "prev next",
+      "tf_today": 277
+    },
+    {
+      "articles": [
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1321.730124,
       "term": "ago root",
       "tf_today": 223
     },
@@ -58,7 +51,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1362.51282,
+      "score": 1321.730124,
       "term": "ago root parent",
       "tf_today": 223
     },
@@ -69,7 +62,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1362.51282,
+      "score": 1321.730124,
       "term": "root parent",
       "tf_today": 223
     },
@@ -80,7 +73,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1355.281441,
+      "score": 1314.715194,
       "term": "days ago root",
       "tf_today": 222
     },
@@ -91,7 +84,7 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1140.815422,
+      "score": 1106.668565,
       "term": "parent prev",
       "tf_today": 192
     },
@@ -102,154 +95,167 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1140.815422,
+      "score": 1106.668565,
       "term": "parent prev next",
       "tf_today": 192
     },
     {
       "articles": [
-        "latent-space--13df2b95",
-        "latent-space--376aa963"
+        "latent-space--06f5398b",
+        "latent-space--54cae820"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1140.815422,
-      "term": "thariq",
-      "tf_today": 192
+      "score": 937.197412,
+      "term": "parent next",
+      "tf_today": 167
     }
   ],
   "date": "2026-09-29",
   "evidence_article_ids": [
-    "latent-space--0624b6d1",
+    "codenewsletter--1af4781d",
     "latent-space--13df2b95",
-    "latent-space--7b53eb36"
+    "latent-space--99be6547"
   ],
   "judge": {
-    "input_tokens": 28701,
+    "input_tokens": 34985,
     "model": "jev-1.13.0",
-    "pool_size": 57,
+    "pool_size": 63,
     "signals": {
-      "anthropic": {
-        "dominance": 2.6,
-        "event": 0.82,
-        "form": 0.84,
-        "novelty": 0.69,
-        "specificity": 1.08
-      },
       "atlas": {
-        "dominance": 2.75,
-        "event": 0.78,
-        "form": 0.92,
-        "novelty": 0.78,
-        "specificity": 1.9
-      },
-      "classification": {
-        "dominance": 2.68,
-        "event": 0.24,
-        "form": 0.9,
-        "novelty": 0.6,
-        "specificity": 1.87
-      },
-      "claude": {
-        "dominance": 2.58,
-        "event": 0.77,
-        "form": 0.91,
-        "novelty": 0.62,
-        "specificity": 1.87
-      },
-      "explainer videos": {
-        "dominance": 2.24,
-        "event": 0.78,
-        "form": 0.88,
-        "novelty": 0.65,
-        "specificity": 0.04
-      },
-      "good at explainer": {
-        "dominance": 2.19,
-        "event": 0.78,
-        "form": 0.35,
-        "novelty": 0.67,
-        "specificity": 0.24
-      },
-      "imdb": {
-        "dominance": 2.02,
-        "event": 0.05,
-        "form": 0.73,
-        "novelty": 0.62,
+        "dominance": 2.23,
+        "event": 0.88,
+        "form": 0.94,
+        "novelty": 0.71,
         "specificity": 1.91
       },
-      "labs": {
-        "dominance": 2.85,
-        "event": 0.87,
-        "form": 0.68,
-        "novelty": 0.67,
-        "specificity": 0.89
+      "classification": {
+        "dominance": 2.59,
+        "event": 0.77,
+        "form": 0.91,
+        "novelty": 0.63,
+        "specificity": 1.91
       },
-      "language": {
-        "dominance": 2.32,
-        "event": 0.57,
+      "claude sonnet 5.5": {
+        "dominance": 2.6,
+        "event": 0.93,
+        "form": 0.96,
+        "novelty": 0.68,
+        "specificity": 2.0
+      },
+      "devday 2026": {
+        "dominance": 2.63,
+        "event": 0.9,
+        "form": 0.87,
+        "novelty": 0.74,
+        "specificity": 1.56
+      },
+      "dots": {
+        "dominance": 1.86,
+        "event": 0.88,
         "form": 0.86,
-        "novelty": 0.52,
-        "specificity": 1.01
+        "novelty": 0.66,
+        "specificity": 1.89
+      },
+      "frontier": {
+        "dominance": 2.63,
+        "event": 0.92,
+        "form": 0.9,
+        "novelty": 0.6,
+        "specificity": 1.49
+      },
+      "good at explainer": {
+        "dominance": 2.11,
+        "event": 0.68,
+        "form": 0.3,
+        "novelty": 0.64,
+        "specificity": 0.35
+      },
+      "gpt-6.1 sol": {
+        "dominance": 2.37,
+        "event": 0.95,
+        "form": 0.93,
+        "novelty": 0.76,
+        "specificity": 2.0
+      },
+      "language models": {
+        "dominance": 2.95,
+        "event": 0.93,
+        "form": 0.93,
+        "novelty": 0.32,
+        "specificity": 1.74
       },
       "model": {
-        "dominance": 2.4,
-        "event": 0.8,
-        "form": 0.85,
-        "novelty": 0.39,
-        "specificity": 1.15
+        "dominance": 2.81,
+        "event": 0.92,
+        "form": 0.8,
+        "novelty": 0.4,
+        "specificity": 1.31
       },
-      "news": {
-        "dominance": 2.33,
-        "event": 0.83,
-        "form": 0.79,
-        "novelty": 0.35,
-        "specificity": 0.18
+      "models": {
+        "dominance": 2.94,
+        "event": 0.95,
+        "form": 0.75,
+        "novelty": 0.42,
+        "specificity": 1.08
       },
-      "opus": {
-        "dominance": 2.11,
-        "event": 0.75,
-        "form": 0.84,
+      "opus 5.5": {
+        "dominance": 2.8,
+        "event": 0.9,
+        "form": 0.95,
+        "novelty": 0.64,
+        "specificity": 2.0
+      },
+      "sol": {
+        "dominance": 2.34,
+        "event": 0.92,
+        "form": 0.73,
+        "novelty": 0.71,
+        "specificity": 1.89
+      },
+      "sonnet 5": {
+        "dominance": 1.5,
+        "event": 0.61,
+        "form": 0.9,
+        "novelty": 0.6,
+        "specificity": 1.99
+      },
+      "sonnet 5.5": {
+        "dominance": 2.73,
+        "event": 0.93,
+        "form": 0.95,
         "novelty": 0.65,
-        "specificity": 1.9
-      },
-      "opus is good": {
-        "dominance": 2.14,
-        "event": 0.78,
-        "form": 0.47,
-        "novelty": 0.66,
-        "specificity": 1.69
-      },
-      "sonnet": {
-        "dominance": 1.85,
-        "event": 0.81,
-        "form": 0.89,
-        "novelty": 0.62,
-        "specificity": 1.93
+        "specificity": 2.0
       },
       "text classification": {
-        "dominance": 2.75,
-        "event": 0.35,
+        "dominance": 2.46,
+        "event": 0.54,
         "form": 0.95,
-        "novelty": 0.67,
-        "specificity": 1.98
+        "novelty": 0.66,
+        "specificity": 1.97
       },
-      "world labs": {
-        "dominance": 2.75,
-        "event": 0.83,
-        "form": 0.88,
-        "novelty": 0.78,
-        "specificity": 1.13
+      "worlds": {
+        "dominance": 2.37,
+        "event": 0.89,
+        "form": 0.82,
+        "novelty": 0.59,
+        "specificity": 1.6
       }
     },
     "status": "ok",
     "survivors": [
+      "claude sonnet 5.5",
+      "opus 5.5",
+      "sonnet 5.5",
+      "classification",
+      "gpt-6.1 sol",
+      "text classification",
       "atlas",
-      "claude",
-      "opus",
-      "sonnet"
+      "dots",
+      "sonnet 5"
     ]
   },
-  "score": 29.120741,
-  "word": "atlas"
+  "label": "Claude Sonnet 5.5",
+  "score": 20.08891,
+  "word": "claude sonnet 5.5"
 }

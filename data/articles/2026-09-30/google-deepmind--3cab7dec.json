@@ -1,95 +1,95 @@
 {
   "article_id": "google-deepmind--3cab7dec",
   "author": "Google DeepMind Blog",
-  "content_chars": 14630,
-  "content_sha256": "49eb35646ac1e3884ce2a755d6c18a7a387bb7d09ed6751d7b9e40df31721800",
-  "content_tokens": 3657,
+  "content_chars": 4712,
+  "content_sha256": "ace56a15532308b1368d44b5013079e1a9816ed7c12f75878ccb31923d3b953a",
+  "content_tokens": 1178,
   "fetched_at": "2026-10-01T13:08:34Z",
   "kind": "article",
   "published_at": "2026-09-30T15:03:07+00:00",
-  "snippet": "SynthID Bio: Watermarking methods for synthetic biology — Google DeepMind Skip to main content Explore our next generation AI systems Explore models Gemini Gemini Build intelligent agents Gemini Omni Create anything from anything Nano Banana Create and edit detailed images…",
+  "snippet": "Strengthening biosecurity and information integrity Biosecurity relies on layered defenses – think of it like a “Swiss cheese” defense model, where multiple independent safety measures work in tandem to cover each other’s blind spots. Safeguards like model-level mitigations and…",
   "source_id": "google-deepmind",
   "title": "Introducing SynthID Bio",
   "top_terms": [
     [
-      "gemini",
-      25
-    ],
-    [
-      "synthid",
-      21
-    ],
-    [
-      "bio",
-      18
-    ],
-    [
-      "google",
-      17
-    ],
-    [
-      "research",
-      17
-    ],
-    [
-      "synthid bio",
-      17
-    ],
-    [
-      "science",
-      16
-    ],
-    [
-      "explore",
-      14
-    ],
-    [
       "biosecurity",
-      13
-    ],
-    [
-      "learn",
-      13
-    ],
-    [
-      "protein",
-      13
-    ],
-    [
-      "learn more",
       12
     ],
     [
-      "biological",
-      11
-    ],
-    [
-      "build",
-      11
-    ],
-    [
-      "models",
-      11
-    ],
-    [
-      "deepmind",
+      "synthid",
       10
+    ],
+    [
+      "bio",
+      9
+    ],
+    [
+      "synthid bio",
+      9
+    ],
+    [
+      "biological",
+      6
+    ],
+    [
+      "work",
+      6
+    ],
+    [
+      "important",
+      5
+    ],
+    [
+      "synthesis",
+      5
+    ],
+    [
+      "ai-generated",
+      4
+    ],
+    [
+      "an important",
+      4
+    ],
+    [
+      "data",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "policy",
+      4
     ],
     [
       "watermarking",
-      10
+      4
     ],
     [
-      "audio",
-      9
+      "ai-generated biological",
+      3
     ],
     [
-      "breakthroughs",
-      9
+      "databases",
+      3
     ],
     [
-      "generate",
-      8
+      "design",
+      3
+    ],
+    [
+      "designs",
+      3
+    ],
+    [
+      "dna",
+      3
+    ],
+    [
+      "dna synthesis",
+      3
     ]
   ],
   "url": "https://deepmind.google/blog/introducing-synthid-bio/",

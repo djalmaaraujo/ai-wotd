@@ -1,42 +1,30 @@
 {
   "article_id": "mit-tech-review-ai--7850b7ed",
   "author": "Will Douglas Heaven",
-  "content_chars": 14566,
-  "content_sha256": "b10a152de0bf97724c8379ef6467b1a824b1c39debb6a4f4eafb61f669370315",
-  "content_tokens": 3641,
+  "content_chars": 11273,
+  "content_sha256": "7d3deb63122efd99bf5486414bd97335ac144b4696d5268c1dbeb3a84f7d13af",
+  "content_tokens": 2818,
   "fetched_at": "2026-09-30T12:33:29Z",
   "kind": "article",
   "published_at": "2026-09-30T10:40:30+00:00",
-  "snippet": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer | MIT Technology Review Skip to Content Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10…",
+  "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the…",
   "source_id": "mit-tech-review-ai",
   "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
   "top_terms": [
     [
       "openai",
-      37
+      34
     ],
     [
       "models",
-      21
+      20
     ],
     [
       "chen",
-      18
-    ],
-    [
-      "technology",
-      14
+      17
     ],
     [
       "company",
-      12
-    ],
-    [
-      "agents",
-      11
-    ],
-    [
-      "mit",
       11
     ],
     [
@@ -52,44 +40,56 @@
       10
     ],
     [
-      "mit technology",
-      10
-    ],
-    [
-      "mit technology review",
-      10
-    ],
-    [
-      "review",
-      10
-    ],
-    [
-      "technology review",
-      10
-    ],
-    [
-      "us",
-      10
+      "agents",
+      9
     ],
     [
       "training",
       9
     ],
     [
-      "hack",
-      8
-    ],
-    [
-      "research",
-      8
-    ],
-    [
       "that openai",
       8
     ],
     [
+      "the hugging",
+      7
+    ],
+    [
+      "the hugging face",
+      7
+    ],
+    [
       "world",
-      8
+      7
+    ],
+    [
+      "behavior",
+      6
+    ],
+    [
+      "hacks",
+      6
+    ],
+    [
+      "happened",
+      6
+    ],
+    [
+      "incident",
+      6
+    ],
+    [
+      "kind",
+      6
+    ],
+    [
+      "kind of",
+      6
+    ],
+    [
+      "openai has",
+      6
     ]
   ],
   "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",

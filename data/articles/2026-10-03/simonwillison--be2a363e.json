@@ -1,42 +1,26 @@
 {
   "article_id": "simonwillison--be2a363e",
   "author": "Simon Willison",
-  "content_chars": 3970,
-  "content_sha256": "128849f51145f526c490d927256c50d030db16b1ddfe054b450227f6e4cb86c5",
-  "content_tokens": 992,
+  "content_chars": 2991,
+  "content_sha256": "67601a59b231ef1ffdca36616ea1472b433f28ab948c2a254be3e1ec56534175",
+  "content_tokens": 747,
   "fetched_at": "2026-10-04T12:21:08Z",
   "kind": "article",
   "published_at": "2026-10-03T23:34:02+00:00",
-  "snippet": "We’re going to need default hard budget caps on pretty much everything Simon Willison’s Weblog Subscribe Sponsored by: Deepgram — Flux TTS remembers the conversation, so your agent sounds right on reply 20. Hear the demo We’re going to need default hard budget caps on pretty…",
+  "snippet": "We’re going to need default hard budget caps on pretty much everything 3rd October 2026 Here’s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I’m talking about the feature of pay-by-usage…",
   "source_id": "simonwillison",
   "title": "We're going to need default hard budget caps on pretty much everything",
   "top_terms": [
     [
       "budget",
-      12
+      10
     ],
     [
       "caps",
-      9
+      7
     ],
     [
       "hard",
-      8
-    ],
-    [
-      "budget caps",
-      7
-    ],
-    [
-      "hard budget",
-      7
-    ],
-    [
-      "hard budget caps",
-      7
-    ],
-    [
-      "default",
       6
     ],
     [
@@ -48,11 +32,15 @@
       5
     ],
     [
-      "default hard",
+      "budget caps",
       5
     ],
     [
-      "default hard budget",
+      "hard budget",
+      5
+    ],
+    [
+      "hard budget caps",
       5
     ],
     [
@@ -60,36 +48,48 @@
       5
     ],
     [
-      "budget caps on",
+      "default",
       4
     ],
     [
-      "caps on",
+      "project",
       4
     ],
     [
-      "caps on pretty",
+      "spend",
       4
     ],
     [
-      "everything",
-      4
+      "applications",
+      3
     ],
     [
-      "much everything",
-      4
+      "default hard",
+      3
     ],
     [
-      "need default",
-      4
+      "default hard budget",
+      3
     ],
     [
-      "need default hard",
-      4
+      "errors",
+      3
     ],
     [
-      "on pretty",
-      4
+      "feature",
+      3
+    ],
+    [
+      "service",
+      3
+    ],
+    [
+      "services",
+      3
+    ],
+    [
+      "spend limit",
+      3
     ]
   ],
   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",

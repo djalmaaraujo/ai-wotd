@@ -1,46 +1,30 @@
 {
   "article_id": "simonwillison--75056599",
   "author": "Simon Willison",
-  "content_chars": 2246,
-  "content_sha256": "8adcafb9b9a54cb7cf26f0c28cfad827339080562e9a35770dd88937c87d934f",
-  "content_tokens": 561,
+  "content_chars": 1499,
+  "content_sha256": "175e433aa444c4fabacf7ffd8e3176c9c05a45b0b9d840f0a383700bb73d4fdd",
+  "content_tokens": 374,
   "fetched_at": "2026-09-29T12:51:51Z",
   "kind": "article",
   "published_at": "2026-09-28T22:07:38+00:00",
-  "snippet": "Claude Sonnet 5.5 Simon Willison’s Weblog Subscribe Sponsored by: Greptile — AI code reviewers catch bugs at run time and manage your code. Trusted by Nvidia, Netflix, and many more 28th September 2026 - Link Blog Claude Sonnet 5.5 . New Sonnet model from Anthropic today. They…",
+  "snippet": "28th September 2026 - Link Blog Claude Sonnet 5.5. New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well…",
   "source_id": "simonwillison",
   "title": "Claude Sonnet 5.5",
   "top_terms": [
     [
       "sonnet",
-      8
+      7
     ],
     [
-      "claude",
-      6
-    ],
-    [
-      "september",
-      6
+      "sonnet 5.5",
+      5
     ],
     [
       "free",
       4
     ],
     [
-      "th",
-      4
-    ],
-    [
-      "th september",
-      4
-    ],
-    [
-      "anthropic",
-      3
-    ],
-    [
-      "claude sonnet",
+      "claude",
       3
     ],
     [
@@ -52,24 +36,36 @@
       3
     ],
     [
-      "gpt-6",
-      3
-    ],
-    [
-      "luna",
-      3
-    ],
-    [
-      "opus",
-      3
-    ],
-    [
       "pelican",
+      3
+    ],
+    [
+      "september",
+      3
+    ],
+    [
+      "september 2026",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th september",
+      3
+    ],
+    [
+      "th september 2026",
       3
     ],
     [
       "tier",
       3
+    ],
+    [
+      "anthropic",
+      2
     ],
     [
       "appears",
@@ -84,11 +80,15 @@
       2
     ],
     [
-      "code",
+      "as opus 5.5",
       2
     ],
     [
-      "cost",
+      "blog",
+      2
+    ],
+    [
+      "claude sonnet",
       2
     ]
   ],

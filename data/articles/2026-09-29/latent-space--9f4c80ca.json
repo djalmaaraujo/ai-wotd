@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--9f4c80ca",
   "author": null,
-  "content_chars": 16204,
-  "content_sha256": "71807a16208877513e75f073f9f368ffd72960c5519f195618a9c880a533eabd",
-  "content_tokens": 4051,
+  "content_chars": 14185,
+  "content_sha256": "94fcfa4c9837214e8263cf7c04c6fa79a05f7780c2535eb5e3417d5140f8c99e",
+  "content_tokens": 3546,
   "fetched_at": "2026-09-29T12:52:07Z",
   "kind": "article",
   "published_at": "2026-09-29T01:48:18+00:00",
-  "snippet": "Developing Enterprise Frontier Safeguards with our customers \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Announcements Developing Enterprise Frontier Safeguards with our customers Sep 1, 2026 Today we’re announcing Enterprise…",
+  "snippet": "Developing Enterprise Frontier Safeguards with our customers Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud…",
   "source_id": "latent-space",
   "title": "Developing Enterprise Frontier Safeguards with our customers \\ Anthropic",
   "top_terms": [
     [
       "data",
-      45
+      41
     ],
     [
       "frontier",
-      33
+      34
     ],
     [
       "safeguards",
-      29
-    ],
-    [
-      "claude",
-      28
-    ],
-    [
-      "enterprise",
-      28
-    ],
-    [
-      "customers",
       27
     ],
     [
-      "anthropic",
-      22
+      "customers",
+      26
     ],
     [
-      "security",
-      22
+      "enterprise",
+      26
+    ],
+    [
+      "anthropic",
+      21
     ],
     [
       "enterprise frontier",
-      21
+      20
     ],
     [
       "enterprise frontier safeguards",
-      21
+      20
     ],
     [
       "frontier safeguards",
-      21
+      20
     ],
     [
       "models",
-      17
-    ],
-    [
-      "us",
-      16
+      15
     ],
     [
       "efs",
       13
     ],
     [
+      "security",
+      12
+    ],
+    [
+      "us",
+      12
+    ],
+    [
       "work",
-      13
+      12
+    ],
+    [
+      "claude",
+      11
     ],
     [
       "cloud",
-      12
+      11
     ],
     [
       "control",
       11
     ],
     [
-      "information",
-      11
-    ],
-    [
-      "policy",
-      11
-    ],
-    [
       "automated",
       10
+    ],
+    [
+      "monitoring",
+      10
+    ],
+    [
+      "across",
+      9
     ]
   ],
   "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",

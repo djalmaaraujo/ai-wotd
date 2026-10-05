@@ -1,0 +1,964 @@
+{
+  "article_ids": [
+    "simonwillison--93a01d94",
+    "simonwillison--95adee2f",
+    "simonwillison--a2113ae6"
+  ],
+  "date": "2026-09-27",
+  "document_count": 3,
+  "terms": {
+    "accounts": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "anything": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "automated": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "available": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "blog": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "budget": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "budget caps": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "budget caps on": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "caps": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "caps on": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "caps on pretty": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 14
+    },
+    "decent": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "default": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "default hard": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "default hard budget": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "devday": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "devday 2026": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "devday 2026 live": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "drop": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "ever": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "everything": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "evidence": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "far": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "frustrating": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "full": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hard": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "hard budget": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hard budget caps": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "human": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "in llms": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "live": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "live blog": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "llms": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "looks": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "lot": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "lot more": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "messages": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "much everything": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "need default": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "need default hard": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "never": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "notable": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "number": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "number of": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "october": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "october 2026": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "often": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "on pretty": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on pretty much": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "openai": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "openai devday": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "openai devday 2026": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "opus": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "opus 5.5": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "past": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "posted": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pretty": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 14
+    },
+    "pretty much": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "pretty much everything": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "price": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "rd": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rd october": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rd october 2026": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recent": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recent articles": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "seconds": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "september": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "september 2026": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "slow": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "so far": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "started": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "still": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "th": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "th september": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "th september 2026": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "the past": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thing": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "to drop": {
+      "articles": [
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to need default": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "useful": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "we're": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we're going": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "we're going to": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "within": {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

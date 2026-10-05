@@ -1,13 +1,13 @@
 {
   "article_id": "simonwillison--a2113ae6",
   "author": "Simon Willison",
-  "content_chars": 1352,
-  "content_sha256": "0ea3e3ecb786779f837d4bfc22fda2e0fbe4d822623752db3158db0394b3adc4",
-  "content_tokens": 338,
+  "content_chars": 603,
+  "content_sha256": "39f7b64e793b591960c9613519324a06a7ab75a5a33b3c11de9dcf2b6a5c42b5",
+  "content_tokens": 150,
   "fetched_at": "2026-09-28T13:52:25Z",
   "kind": "article",
   "published_at": "2026-09-27T23:09:19+00:00",
-  "snippet": "Comment: S3 Is the Future, S3 Is the Past Simon Willison’s Weblog Subscribe Sponsored by: Greptile — AI code reviewers catch bugs at run time and manage your code. Trusted by Nvidia, Netflix, and many more 27th September 2026 Comment My comment on S3 Is the Future, S3 Is the…",
+  "snippet": "27th September 2026 One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade: 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01 $0.125/GB-month 2012-12-01 $0.095/GB-month…",
   "source_id": "simonwillison",
   "title": "S3 Is the Future, S3 Is the Past",
   "top_terms": [
@@ -17,79 +17,79 @@
     ],
     [
       "s3",
-      8
-    ],
-    [
-      "gb-month gb-month",
-      6
-    ],
-    [
-      "s3 is",
-      6
-    ],
-    [
-      "s3 is the",
-      6
+      3
     ],
     [
       "september",
-      6
+      3
     ],
     [
-      "gb-month gb-month gb-month",
-      5
+      "september 2026",
+      3
     ],
     [
       "th",
-      4
+      3
     ],
     [
       "th september",
-      4
-    ],
-    [
-      "comment",
       3
     ],
     [
-      "future",
+      "th september 2026",
       3
     ],
     [
-      "future s3",
-      3
+      "drop",
+      2
     ],
     [
-      "future s3 is",
-      3
+      "drop in",
+      2
     ],
     [
-      "is the future",
-      3
+      "gb-month 2012",
+      2
     ],
     [
-      "is the past",
-      3
-    ],
-    [
-      "past",
-      3
+      "gb-month 2014",
+      2
     ],
     [
       "price",
-      3
+      2
     ],
     [
-      "the future",
-      3
+      "s3 is",
+      2
     ],
     [
-      "the future s3",
-      3
+      "s3 is the",
+      2
     ],
     [
-      "the past",
-      3
+      "about s3",
+      1
+    ],
+    [
+      "about s3 today",
+      1
+    ],
+    [
+      "blog",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "budget caps",
+      1
+    ],
+    [
+      "budget caps on",
+      1
     ]
   ],
   "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",

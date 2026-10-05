@@ -1,35 +1,35 @@
 {
   "article_id": "codenewsletter--8657073d",
   "author": "Code Newsletter",
-  "content_chars": 8835,
-  "content_sha256": "c1fdeb5b16a6c5b21d0f5f562cbe3dc564c0bdb0953bad6318b1168a8990bfd7",
-  "content_tokens": 2208,
+  "content_chars": 7745,
+  "content_sha256": "cdd62b0305c42cf05c82914a1205d691ee9b57c74dc5fac3657985ebb044a9d0",
+  "content_tokens": 1936,
   "fetched_at": "2026-10-01T13:08:39Z",
   "kind": "article",
   "published_at": "2026-09-30T13:00:00+00:00",
-  "snippet": "OpenAI's treat for all developers Archive Resources Advertise Log in Subscribe Home Posts OpenAI's treat for all developers OpenAI's treat for all developers Also: A new agentic coding workflow Sep 30, 2026 Welcome back. OpenAI clearly wants to dominate personal AI agents after…",
+  "snippet": "Welcome back. OpenAI clearly wants to dominate personal AI agents after moves by SpaceXAI and Meta. In a viral interview moment, OpenAI's own CFO accidentally named Meta's Muse instead of their own brand-new agent, Dots. Meanwhile, Anthropic highlights the cyber risks behind…",
   "source_id": "codenewsletter",
   "title": "OpenAI's treat for all developers",
   "top_terms": [
-    [
-      "agent",
-      14
-    ],
-    [
-      "code",
-      11
-    ],
     [
       "claude",
       10
     ],
     [
-      "openai",
+      "code",
       10
     ],
     [
       "agents",
       9
+    ],
+    [
+      "openai",
+      9
+    ],
+    [
+      "agent",
+      8
     ],
     [
       "work",
@@ -44,32 +44,12 @@
       6
     ],
     [
-      "coding",
-      6
-    ],
-    [
-      "developers",
-      6
-    ],
-    [
       "jev",
-      6
-    ],
-    [
-      "openai's",
       6
     ],
     [
       "right",
       6
-    ],
-    [
-      "your agent",
-      6
-    ],
-    [
-      "all developers",
-      5
     ],
     [
       "anthropic",
@@ -80,7 +60,7 @@
       5
     ],
     [
-      "devday",
+      "coding",
       5
     ],
     [
@@ -88,8 +68,28 @@
       5
     ],
     [
-      "for all developers",
+      "model",
       5
+    ],
+    [
+      "click",
+      4
+    ],
+    [
+      "click here",
+      4
+    ],
+    [
+      "click here to",
+      4
+    ],
+    [
+      "cloud",
+      4
+    ],
+    [
+      "devday",
+      4
     ]
   ],
   "url": "https://codenewsletter.ai/p/openai-s-treat-for-all-developers",

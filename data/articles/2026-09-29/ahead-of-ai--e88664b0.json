@@ -1,95 +1,95 @@
 {
   "article_id": "ahead-of-ai--e88664b0",
   "author": "Sebastian Raschka, PhD",
-  "content_chars": 48682,
-  "content_sha256": "09d81d6901193f7ec42499267ee2f2d8afa7ec6472cec12eafbada1443100ba2",
-  "content_tokens": 12170,
+  "content_chars": 48601,
+  "content_sha256": "2e2486be152c771ff680a1dad1bbe8964d6cfd90da78ce3d1a672e13d82de7c3",
+  "content_tokens": 12150,
   "fetched_at": "2026-09-29T12:51:55Z",
   "kind": "article",
   "published_at": "2026-09-29T10:50:25+00:00",
-  "snippet": "Language Models for Text Classification: From Bag-of-Words to Jev Subscribe Sign in Language Models for Text Classification: From Bag-of-Words to Jev A Visual Guide to Bag-of-Words, RNNs, CNNs, Transformers, Jev-like APIs, and Calibration Sebastian Raschka, PhD Sep 29, 2026 91 1…",
+  "snippet": "The recently released Jev AI model has been quite a cultural phenomenon in technical communities in the past 2 weeks. While Jev aims to classify things, it’s easy to dismiss Jev as “just a classifier,” and my own view of Jev has evolved quite a bit over the past few days. In…",
   "source_id": "ahead-of-ai",
   "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
   "top_terms": [
     [
       "model",
-      71
+      68
     ],
     [
       "jev",
-      67
+      59
     ],
     [
       "classification",
-      61
-    ],
-    [
-      "figure",
-      49
+      53
     ],
     [
       "text",
-      41
-    ],
-    [
-      "api",
-      36
+      38
     ],
     [
       "models",
-      35
+      34
     ],
     [
-      "movie",
-      28
+      "api",
+      32
     ],
     [
       "training",
-      25
+      27
     ],
     [
-      "bag-of-words",
-      23
+      "movie",
+      26
     ],
     [
       "example",
-      22
-    ],
-    [
-      "word",
-      22
+      24
     ],
     [
       "accuracy",
       21
     ],
     [
-      "architecture",
-      20
+      "calibration",
+      21
     ],
     [
       "tasks",
-      20
+      21
     ],
     [
-      "calibration",
-      19
+      "word",
+      21
+    ],
+    [
+      "answer",
+      20
     ],
     [
       "positive",
       19
     ],
     [
-      "answer",
+      "bag-of-words",
       18
     ],
     [
       "choice",
-      18
+      16
+    ],
+    [
+      "class",
+      16
     ],
     [
       "classifier",
-      18
+      16
+    ],
+    [
+      "dataset",
+      16
     ]
   ],
   "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",

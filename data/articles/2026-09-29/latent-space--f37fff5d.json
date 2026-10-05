@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--f37fff5d",
   "author": null,
-  "content_chars": 8999,
-  "content_sha256": "7e5a611301a3ae09c2e286f21f0930a829fc92b1f634dfb8fac5a0f6ede09bd6",
-  "content_tokens": 2249,
+  "content_chars": 2713,
+  "content_sha256": "edf51602332753fe32ff50ea10fa94ed8f97d610a78514e3f1398ca56c412685",
+  "content_tokens": 678,
   "fetched_at": "2026-09-29T12:52:05Z",
   "kind": "article",
   "published_at": "2026-09-29T02:44:29+00:00",
-  "snippet": "GitHub - woct0rdho/transformers5-qwen3.5-recipe: Qwen and DeepSeek low-VRAM LoRA training with GGUF base model, compatible with Transformers and PEFT · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code…",
+  "snippet": "GGUF is going to replace bitsandbytes as the base model format for low-VRAM LoRA training. I've tried to train, with no CPU offload: - Qwen3.6-35B-A3B in 16 GiB VRAM (implying it's more than enough to train Qwen3.5-122B-A10B in 64 GiB, and Qwen3.5-397B-A17B in 192 GiB)…",
   "source_id": "latent-space",
   "title": "GitHub - woct0rdho/transformers5-qwen3.5-recipe: Qwen and DeepSeek low-VRAM LoRA training with GGUF base model, compatible with Transformers and PEFT · GitHub",
   "top_terms": [
     [
-      "py",
-      124
-    ],
-    [
-      "deepseek",
-      57
-    ],
-    [
-      "deepseek v4",
-      54
-    ],
-    [
-      "v4",
-      54
-    ],
-    [
-      "py test",
-      40
-    ],
-    [
-      "test",
-      40
-    ],
-    [
-      "lora",
-      23
-    ],
-    [
-      "liger",
-      22
-    ],
-    [
-      "py deepseek",
-      22
-    ],
-    [
-      "py deepseek v4",
-      22
-    ],
-    [
       "gguf",
-      21
+      10
     ],
     [
-      "moe",
-      21
+      "transformers",
+      9
     ],
     [
-      "py test deepseek",
-      20
+      "gib",
+      5
     ],
     [
-      "test deepseek",
-      20
-    ],
-    [
-      "test deepseek v4",
-      20
-    ],
-    [
-      "fast",
-      19
-    ],
-    [
-      "lora py",
-      16
+      "tuned",
+      5
     ],
     [
       "github",
-      15
+      4
+    ],
+    [
+      "https",
+      4
+    ],
+    [
+      "lora",
+      4
+    ],
+    [
+      "qwen3.6",
+      4
+    ],
+    [
+      "safetensors",
+      4
+    ],
+    [
+      "see https",
+      4
     ],
     [
       "training",
-      15
+      4
     ],
     [
-      "loss",
-      14
+      "vram",
+      4
+    ],
+    [
+      "aiter",
+      3
+    ],
+    [
+      "checkpointing",
+      3
+    ],
+    [
+      "configs",
+      3
+    ],
+    [
+      "fast",
+      3
+    ],
+    [
+      "gradient",
+      3
+    ],
+    [
+      "gradient checkpointing",
+      3
+    ],
+    [
+      "halo",
+      3
+    ],
+    [
+      "huggingface",
+      3
     ]
   ],
   "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",

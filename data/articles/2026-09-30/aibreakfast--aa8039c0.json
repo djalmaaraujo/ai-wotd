@@ -1,66 +1,34 @@
 {
   "article_id": "aibreakfast--aa8039c0",
   "author": "AI Breakfast",
-  "content_chars": 14627,
-  "content_sha256": "0c4a2ef5dea3fbbf3b35b602ab88c0414930b94b7d268efe604e4024879a8cb8",
-  "content_tokens": 3656,
+  "content_chars": 8425,
+  "content_sha256": "fea37b049d541b197e87ce9a482d4eb8bd5d5abcdb4ce7e9c9b2739f4ff16b0e",
+  "content_tokens": 2106,
   "fetched_at": "2026-10-01T13:08:36Z",
   "kind": "article",
   "published_at": "2026-09-30T15:12:17+00:00",
-  "snippet": "OpenAI cancels GPT-6.1 Astra, ships GPT-6.1 Sol and dots AI Breakfast Authors Upgrade Login Subscribe AI Breakfast Home Posts OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling Sep 30…",
+  "snippet": "Good morning. It's Wednesday, September 30th. The best marketing ideas come from marketers who live it. That’s what this newsletter delivers. The Marketing Millennials is a look inside what’s working right now for other marketers. No theory. No fluff. Just real insights and…",
   "source_id": "aibreakfast",
   "title": "OpenAI cancels GPT-6.1 Astra, ships GPT-6.1 Sol and dots",
   "top_terms": [
     [
       "openai",
-      19
+      12
     ],
     [
       "model",
-      13
-    ],
-    [
-      "gpt-6.1",
-      11
-    ],
-    [
-      "astra",
       10
-    ],
-    [
-      "anthropic",
-      8
-    ],
-    [
-      "ai breakfast",
-      7
     ],
     [
       "api",
       7
     ],
     [
-      "breakfast",
+      "astra",
       7
     ],
     [
-      "claude",
-      7
-    ],
-    [
-      "agents",
-      6
-    ],
-    [
-      "dots",
-      6
-    ],
-    [
-      "gpt-6.1 astra",
-      6
-    ],
-    [
-      "models",
+      "gpt-6.1",
       6
     ],
     [
@@ -68,11 +36,7 @@
       6
     ],
     [
-      "sol",
-      6
-    ],
-    [
-      "access",
+      "agents",
       5
     ],
     [
@@ -80,16 +44,52 @@
       5
     ],
     [
-      "gpt-6.1 sol",
+      "dots",
       5
     ],
     [
-      "shipped",
-      5
+      "agent",
+      4
     ],
     [
-      "tokens",
-      5
+      "cancelled",
+      4
+    ],
+    [
+      "claude",
+      4
+    ],
+    [
+      "cloud",
+      4
+    ],
+    [
+      "codex",
+      4
+    ],
+    [
+      "critical",
+      4
+    ],
+    [
+      "gpt-6",
+      4
+    ],
+    [
+      "marketing",
+      4
+    ],
+    [
+      "sol",
+      4
+    ],
+    [
+      "the model",
+      4
+    ],
+    [
+      "work",
+      4
     ]
   ],
   "url": "https://aibreakfast.beehiiv.com/p/openai-killed-gpt-6-1-astra-for-lying-then-shipped-its-cheaper-sibling",

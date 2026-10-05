@@ -1,95 +1,95 @@
 {
   "article_id": "google-research--3fe6fbfe",
   "author": "Google Research Blog",
-  "content_chars": 14877,
-  "content_sha256": "1e8eeb8e32d704d0522d189f3de53bb91928863359836f7b77ff5d9bd2ff617f",
-  "content_tokens": 3719,
+  "content_chars": 7681,
+  "content_sha256": "fdbb17100766b309a809f0c3cb51784b2a9a85260f68128bc1a3dbe07854e910",
+  "content_tokens": 1920,
   "fetched_at": "2026-09-30T12:33:26Z",
   "kind": "article",
   "published_at": "2026-09-29T18:38:27+00:00",
-  "snippet": "How Diffusion Controller unifies and simplifies AI image generation Skip to main content Explore our many areas of focus Explore all research areas Applied AI & sciences Earth AI Health AI Science AI Sustainability & crisis resilience Foundational ML & algorithms Algorithms &…",
+  "snippet": "September 29, 2026 Chih-wei Hsu and Moonkyung Ryu , Software Engineers, Google Research We introduce Diffusion Controller, a lightweight \"steering damper\" network that precisely steers image generation to achieve significantly better prompt alignment. It seamlessly attaches to…",
   "source_id": "google-research",
   "title": "How Diffusion Controller unifies and simplifies AI image generation",
   "top_terms": [
     [
       "diffusion",
-      37
+      21
     ],
     [
       "controller",
-      28
-    ],
-    [
-      "diffusion controller",
-      28
-    ],
-    [
-      "model",
-      23
-    ],
-    [
-      "generation",
-      19
-    ],
-    [
-      "research",
       18
     ],
     [
-      "steering",
+      "diffusion controller",
+      18
+    ],
+    [
+      "model",
       18
     ],
     [
       "image",
-      17
-    ],
-    [
-      "models",
-      16
-    ],
-    [
-      "google",
       15
     ],
     [
-      "damper",
-      14
-    ],
-    [
-      "steering damper",
-      14
-    ],
-    [
-      "network",
+      "generation",
       13
     ],
     [
+      "steering",
+      13
+    ],
+    [
+      "damper",
+      9
+    ],
+    [
       "framework",
-      10
+      9
+    ],
+    [
+      "steering damper",
+      9
+    ],
+    [
+      "control",
+      8
     ],
     [
       "image generation",
-      10
+      8
+    ],
+    [
+      "models",
+      8
     ],
     [
       "the diffusion",
-      10
+      8
     ],
     [
       "the diffusion controller",
-      10
+      8
     ],
     [
-      "damper network",
-      9
+      "controller framework",
+      6
     ],
     [
-      "explore",
-      9
+      "diffusion controller framework",
+      6
     ],
     [
-      "steering damper network",
-      9
+      "network",
+      6
+    ],
+    [
+      "core",
+      5
+    ],
+    [
+      "quality",
+      5
     ]
   ],
   "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",

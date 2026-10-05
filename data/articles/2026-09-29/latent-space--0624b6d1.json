@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--0624b6d1",
   "author": null,
-  "content_chars": 18491,
-  "content_sha256": "eee13c3edd5f1cc9df07d0576cfaca950edff0fecbaf934271dc8695a2d6d1da",
-  "content_tokens": 4622,
+  "content_chars": 15386,
+  "content_sha256": "479191defb6dc5e72f8bb83d76f64c006f485e74878d0509e5b09bf8c82cf2ec",
+  "content_tokens": 3846,
   "fetched_at": "2026-09-29T12:52:01Z",
   "kind": "article",
   "published_at": "2026-09-29T02:55:27+00:00",
-  "snippet": "Atlas: A World Model for Spatial Intelligence | World Labs About Research & Insights Marble Labs Community Showcase Case Studies Learn API Spark Join Us Learn about Atlas September 1, 2026 Introducing Atlas, our new omni world model for spatial intelligence. Atlas: A World Model…",
+  "snippet": "World models generate, reconstruct, and simulate any possible world. They understand how worlds appear, behave, and evolve so that we can render imagined worlds for creative users, simulate the real world in high fidelity, and help robots plan actions. At World Labs, we build…",
   "source_id": "latent-space",
   "title": "Atlas: A World Model for Spatial Intelligence | World Labs",
   "top_terms": [
     [
       "atlas",
-      88
+      68
     ],
     [
       "world",
-      44
+      35
     ],
     [
       "input",
-      31
+      28
     ],
     [
       "camera",
-      28
+      25
     ],
     [
       "images",
-      28
-    ],
-    [
-      "model",
-      24
-    ],
-    [
-      "spatial",
-      22
-    ],
-    [
-      "image",
-      21
+      25
     ],
     [
       "models",
       20
     ],
     [
+      "image",
+      18
+    ],
+    [
+      "model",
+      18
+    ],
+    [
       "scene",
-      19
+      18
+    ],
+    [
+      "spatial",
+      15
     ],
     [
       "generates",
-      17
-    ],
-    [
-      "context",
-      15
-    ],
-    [
-      "reconstruction",
-      15
-    ],
-    [
-      "atlas is",
       14
     ],
     [
-      "labs",
+      "atlas is",
       13
+    ],
+    [
+      "reconstruction",
+      13
+    ],
+    [
+      "context",
+      11
     ],
     [
       "video",
-      13
-    ],
-    [
-      "generation",
-      12
-    ],
-    [
-      "views",
-      12
+      11
     ],
     [
       "generate",
-      11
+      10
+    ],
+    [
+      "views",
+      10
+    ],
+    [
+      "generation",
+      9
     ],
     [
       "input images",
-      11
+      9
+    ],
+    [
+      "the scene",
+      9
     ]
   ],
   "url": "https://www.worldlabs.ai/blog/atlas",

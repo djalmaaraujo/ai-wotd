@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--13df2b95",
   "author": "swyx & Alessio",
-  "content_chars": 4346,
-  "content_sha256": "5a890034c8f7270ac9d56f84868eaaba82299018e75b80ed925b1730ea3b6014",
-  "content_tokens": 1086,
+  "content_chars": 3260,
+  "content_sha256": "318be1bf91a313b0ff353681e08ba58d64957f840c23f79180f453ee2f5afdec",
+  "content_tokens": 815,
   "fetched_at": "2026-09-29T12:52:00Z",
   "kind": "article",
   "published_at": "2026-09-29T02:55:27+00:00",
-  "snippet": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more Subscribe Sign in AINews: Weekday Roundups [AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more…",
+  "snippet": "The official post is shy, but since AMD is public, we know the purchase price. We covered them less than a year ago: Fei Fei has a lovely reflection blogpost that hints at the main reasons: Since our founding in 2024, World Labs has built leading AI spatial intelligence…",
   "source_id": "latent-space",
   "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
   "top_terms": [
     [
       "claude",
-      9
-    ],
-    [
-      "ainews",
-      6
-    ],
-    [
-      "atlas",
-      6
-    ],
-    [
-      "code",
-      6
-    ],
-    [
-      "design",
-      6
-    ],
-    [
-      "reconstruction",
-      6
-    ],
-    [
-      "robotics",
-      6
+      8
     ],
     [
       "sonnet",
       6
     ],
     [
+      "atlas",
+      4
+    ],
+    [
+      "design",
+      4
+    ],
+    [
+      "reconstruction",
+      4
+    ],
+    [
+      "robotics",
+      4
+    ],
+    [
       "world",
-      6
+      4
+    ],
+    [
+      "ainews",
+      3
     ],
     [
       "anthropic",
-      5
+      3
+    ],
+    [
+      "claudedevs",
+      3
     ],
     [
       "design and",
-      5
+      3
     ],
     [
       "for robotics",
-      5
+      3
     ],
     [
       "free",
-      5
+      3
     ],
     [
-      "problem",
-      5
+      "free tier",
+      3
     ],
     [
-      "amd",
-      4
+      "leading",
+      3
     ],
     [
-      "labs",
-      4
+      "less",
+      3
     ],
     [
-      "solves",
-      4
+      "model",
+      3
     ],
     [
-      "sparse",
-      4
+      "official",
+      3
     ],
     [
-      "sparse reconstruction",
-      4
+      "opus",
+      3
     ],
     [
-      "world labs",
-      4
+      "opus 5.5",
+      3
     ]
   ],
   "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",

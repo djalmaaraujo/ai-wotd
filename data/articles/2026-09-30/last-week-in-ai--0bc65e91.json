@@ -1,62 +1,46 @@
 {
   "article_id": "last-week-in-ai--0bc65e91",
   "author": null,
-  "content_chars": 4900,
-  "content_sha256": "73e81aa74444f770eee1a5d7ef6ba7751ed528e1bf1d2b7baedae45cfa420024",
-  "content_tokens": 1225,
+  "content_chars": 1991,
+  "content_sha256": "c94823bfd9de9c71dece4b5f5e992f3768f04078d1ba71d5cdd69fd498e083c3",
+  "content_tokens": 497,
   "fetched_at": "2026-09-30T12:33:36Z",
   "kind": "article",
   "published_at": "2026-09-30T11:23:54+00:00",
-  "snippet": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less | TechCrunch –:–:–:– Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2 . Book Exhibit Table Now. Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m…",
+  "snippet": "At OpenAI’s DevDay event on Tuesday, the company showed off GPT-6.1 Sol, a mere week after it launched GPT-6 Sol. OpenAI says the new model delivers nearly the same level of intelligence as GPT-6 Astra for agentic coding, computer use, and professional work, at one-fifth the…",
   "source_id": "last-week-in-ai",
   "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less | TechCrunch",
   "top_terms": [
     [
-      "openai",
-      13
-    ],
-    [
       "gpt-6",
-      12
-    ],
-    [
-      "sol",
-      12
-    ],
-    [
-      "techcrunch",
       10
     ],
     [
-      "astra",
-      9
+      "sol",
+      10
     ],
     [
-      "gpt-6.1",
+      "openai",
       8
     ],
     [
-      "aisha",
-      7
+      "astra",
+      6
     ],
     [
-      "gpt-6 astra",
-      7
-    ],
-    [
-      "gpt-6.1 sol",
-      7
+      "gpt-6.1",
+      6
     ],
     [
       "model",
       6
     ],
     [
-      "astra and",
+      "company",
       5
     ],
     [
-      "company",
+      "gpt-6 astra",
       5
     ],
     [
@@ -64,32 +48,48 @@
       5
     ],
     [
+      "gpt-6.1 sol",
+      5
+    ],
+    [
       "the company",
       5
     ],
     [
-      "disrupt",
-      4
-    ],
-    [
-      "gpt-6 astra and",
-      4
-    ],
-    [
-      "less",
-      4
-    ],
-    [
-      "nearly",
-      4
-    ],
-    [
-      "and costs",
+      "new model",
       3
     ],
     [
-      "and costs less",
+      "safety",
       3
+    ],
+    [
+      "tasks",
+      3
+    ],
+    [
+      "the model",
+      3
+    ],
+    [
+      "the new model",
+      3
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "astra and",
+      2
+    ],
+    [
+      "available",
+      2
+    ],
+    [
+      "claims",
+      2
     ]
   ],
   "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",

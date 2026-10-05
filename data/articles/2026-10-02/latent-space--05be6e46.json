@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--05be6e46",
   "author": null,
-  "content_chars": 17107,
-  "content_sha256": "41a43076ca7bee9ff64a4e360d3e37168dfea34f46d57f511558ea0f3843d490",
-  "content_tokens": 4276,
+  "content_chars": 4864,
+  "content_sha256": "6bad7c004dc1708ffd5b524420c5d74a4facef4e44294f81767cdd8435c6dde6",
+  "content_tokens": 1216,
   "fetched_at": "2026-10-02T12:33:02Z",
   "kind": "article",
   "published_at": "2026-10-02T00:28:04+00:00",
-  "snippet": "KernelBench: Can LLMs Write Efficient GPU Kernels? | alphaXiv Blog Send Feedback? Abstract Paper Submitted 14 Feb 2025 en KernelBench: Can LLMs Write Efficient GPU Kernels? Stanford University Princeton University Anne Ouyang Simon Guo Simran Arora Alex L. Zhang WH William Hu…",
+  "snippet": "Abstract Efficient GPU kernels are crucial for building performant machine learning architectures, but writing them is a time-consuming challenge that requires significant expertise; therefore, we explore using language models (LMs) to automate kernel generation. We introduce…",
   "source_id": "latent-space",
   "title": "KernelBench: Can LLMs Write Efficient GPU Kernels? | alphaXiv",
   "top_terms": [
     [
-      "kernels",
-      33
+      "level",
+      11
     ],
     [
-      "llms",
-      24
-    ],
-    [
-      "kernel",
-      21
-    ],
-    [
-      "generation",
-      20
-    ],
-    [
-      "performance",
-      17
-    ],
-    [
-      "kernelbench",
-      16
-    ],
-    [
-      "code",
-      15
-    ],
-    [
-      "feedback",
-      14
-    ],
-    [
-      "efficient",
-      13
-    ],
-    [
-      "gpu",
-      13
-    ],
-    [
-      "hardware",
-      13
-    ],
-    [
-      "kernel generation",
-      13
-    ],
-    [
-      "memory",
-      12
-    ],
-    [
-      "models",
-      12
+      "correct",
+      9
     ],
     [
       "pytorch",
-      12
+      9
     ],
     [
-      "optimization",
-      10
+      "tasks",
+      9
+    ],
+    [
+      "feedback",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "faster",
+      7
+    ],
+    [
+      "kernel",
+      7
+    ],
+    [
+      "kernelbench",
+      7
+    ],
+    [
+      "kernels",
+      7
+    ],
+    [
+      "level 2",
+      7
+    ],
+    [
+      "gpu",
+      6
+    ],
+    [
+      "iterative",
+      6
+    ],
+    [
+      "baseline",
+      5
     ],
     [
       "fast",
-      9
+      5
     ],
     [
-      "framework",
-      9
+      "reference",
+      5
     ],
     [
-      "optimized",
-      9
+      "show",
+      5
     ],
     [
-      "cuda",
-      8
+      "the model",
+      5
+    ],
+    [
+      "correct and",
+      4
+    ],
+    [
+      "correctness",
+      4
     ]
   ],
   "url": "https://www.alphaxiv.org/abs/2502.10517",

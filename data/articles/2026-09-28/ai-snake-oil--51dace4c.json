@@ -1,27 +1,23 @@
 {
   "article_id": "ai-snake-oil--51dace4c",
   "author": null,
-  "content_chars": 15755,
-  "content_sha256": "cd3f10e8d09b2bc3ebb1807c35fb21871b0968ec4d7f3f101bff6ad32d840ad9",
-  "content_tokens": 3938,
+  "content_chars": 13819,
+  "content_sha256": "5dc40cd9128ca7d533b3c6abafb2b75a881860878ec59ce83fbc184ff2e7dc96",
+  "content_tokens": 3454,
   "fetched_at": "2026-09-28T13:52:33Z",
   "kind": "article",
   "published_at": "2026-09-28T11:13:47+00:00",
-  "snippet": "AI scaling myths - by Arvind Narayanan and Sayash Kapoor Subscribe Sign in AI scaling myths Scaling will run out. The question is when. Arvind Narayanan and Sayash Kapoor Jun 27, 2024 235 44 33 Share So far, bigger and bigger language models have proven more and more capable…",
+  "snippet": "So far, bigger and bigger language models have proven more and more capable. But does the past predict the future? One popular view is that we should expect the trends that have held so far to continue for many more orders of magnitude, and that it will potentially get us to…",
   "source_id": "ai-snake-oil",
   "title": "AI scaling myths - by Arvind Narayanan and Sayash Kapoor",
   "top_terms": [
     [
       "data",
-      27
-    ],
-    [
-      "training",
       26
     ],
     [
-      "scaling",
-      19
+      "training",
+      25
     ],
     [
       "model",
@@ -32,27 +28,31 @@
       16
     ],
     [
+      "scaling",
+      14
+    ],
+    [
       "training data",
       12
-    ],
-    [
-      "agi",
-      10
-    ],
-    [
-      "llms",
-      10
     ],
     [
       "size",
       10
     ],
     [
-      "continue",
+      "agi",
       9
     ],
     [
+      "continue",
+      8
+    ],
+    [
       "cost",
+      8
+    ],
+    [
+      "llms",
       8
     ],
     [
@@ -60,36 +60,36 @@
       7
     ],
     [
-      "magnitude",
-      7
-    ],
-    [
-      "of magnitude",
-      7
-    ],
-    [
       "synthetic",
       7
     ],
     [
-      "trend",
-      7
-    ],
-    [
-      "arvind",
-      6
-    ],
-    [
-      "arvind narayanan",
-      6
-    ],
-    [
-      "current",
-      6
-    ],
-    [
       "developers",
       6
+    ],
+    [
+      "games",
+      6
+    ],
+    [
+      "magnitude",
+      6
+    ],
+    [
+      "of magnitude",
+      6
+    ],
+    [
+      "trend",
+      6
+    ],
+    [
+      "view",
+      6
+    ],
+    [
+      "already",
+      5
     ]
   ],
   "url": "https://www.aisnakeoil.com/p/ai-scaling-myths",

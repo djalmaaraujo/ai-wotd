@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--1b3beb0a",
   "author": null,
-  "content_chars": 4504,
-  "content_sha256": "6da4c444e32c90c8f24305fc7913cdfd9cca7a3082552a0d170bb73d3e8807dc",
-  "content_tokens": 1126,
+  "content_chars": 1889,
+  "content_sha256": "bccd8108781913479d20b6b75266b7b2f7135d1193931a0ff59dbf17264632ea",
+  "content_tokens": 472,
   "fetched_at": "2026-10-02T12:33:02Z",
   "kind": "article",
   "published_at": "2026-10-02T00:28:04+00:00",
-  "snippet": "[2512.24601] Recursive Language Models Skip to main content Search Submit Donate Log in Search arXiv Press Enter to search · Advanced search Computer Science > Artificial Intelligence arXiv:2512.24601 (cs) [Submitted on 31 Dec 2025 ( v1 ), last revised 11 May 2026 (this version…",
+  "snippet": "Computer Science > Artificial Intelligence Title:Recursive Language Models View PDF HTML (experimental) Abstract:We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models…",
   "source_id": "latent-space",
   "title": "[2512.24601] Recursive Language Models",
   "top_terms": [
     [
-      "toggle",
-      14
-    ],
-    [
-      "cs",
-      8
+      "arxivlabs",
+      4
     ],
     [
       "language",
-      8
+      4
     ],
     [
       "language models",
-      7
-    ],
-    [
-      "models",
-      7
-    ],
-    [
-      "arxiv",
-      6
-    ],
-    [
-      "code",
-      6
-    ],
-    [
-      "recursive",
-      6
-    ],
-    [
-      "recursive language",
-      6
-    ],
-    [
-      "recursive language models",
-      6
-    ],
-    [
-      "view",
-      6
-    ],
-    [
-      "arxivlabs",
-      5
-    ],
-    [
-      "papers",
-      5
-    ],
-    [
-      "search",
-      5
-    ],
-    [
-      "alex",
-      4
-    ],
-    [
-      "authors",
-      4
-    ],
-    [
-      "bibliographic",
-      4
-    ],
-    [
-      "cs ai",
-      4
-    ],
-    [
-      "data",
       4
     ],
     [
       "model",
       4
+    ],
+    [
+      "models",
+      4
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "long-context",
+      3
+    ],
+    [
+      "prompts",
+      3
+    ],
+    [
+      "recursive",
+      3
+    ],
+    [
+      "recursive language",
+      3
+    ],
+    [
+      "recursive language models",
+      3
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "allows",
+      2
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "collaborators",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "experimental",
+      2
+    ],
+    [
+      "gpt-5",
+      2
+    ],
+    [
+      "llms",
+      2
     ]
   ],
   "url": "https://arxiv.org/abs/2512.24601",

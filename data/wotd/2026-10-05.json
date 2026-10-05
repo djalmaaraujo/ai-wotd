@@ -2,14 +2,14 @@
   "candidates": [
     {
       "articles": [
-        "mit-tech-review-ai--9ddf29a2",
+        "codenewsletter--49533a60",
         "mit-tech-review-ai--f41a7f8c"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 139.055436,
-      "term": "mit technology",
-      "tf_today": 24
+      "score": 11.587953,
+      "term": "hate",
+      "tf_today": 4
     },
     {
       "articles": [
@@ -18,20 +18,20 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 139.055436,
-      "term": "mit technology review",
-      "tf_today": 24
+      "score": 7.48599,
+      "term": "many ways",
+      "tf_today": 3
     },
     {
       "articles": [
-        "mit-tech-review-ai--9ddf29a2",
-        "mit-tech-review-ai--f41a7f8c"
+        "aibreakfast--12832f8d",
+        "openai-blog--874223e7"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 55.402906,
-      "term": "archive page",
-      "tf_today": 12
+      "score": 3.955004,
+      "term": "ad format",
+      "tf_today": 2
     },
     {
       "articles": [
@@ -40,9 +40,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 26.200963,
-      "term": "hate",
-      "tf_today": 7
+      "score": 3.955004,
+      "term": "add up",
+      "tf_today": 2
     },
     {
       "articles": [
@@ -51,9 +51,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 21.01583,
-      "term": "advertise with",
-      "tf_today": 6
+      "score": 3.955004,
+      "term": "after alphago",
+      "tf_today": 2
     },
     {
       "articles": [
@@ -62,9 +62,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 21.01583,
-      "term": "douglas heaven",
-      "tf_today": 6
+      "score": 3.955004,
+      "term": "against go champion",
+      "tf_today": 2
     },
     {
       "articles": [
@@ -73,9 +73,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 21.01583,
-      "term": "heaven",
-      "tf_today": 6
+      "score": 3.955004,
+      "term": "ai still",
+      "tf_today": 2
     },
     {
       "articles": [
@@ -84,144 +84,144 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 21.01583,
-      "term": "share story",
-      "tf_today": 6
+      "score": 3.955004,
+      "term": "ai still isn",
+      "tf_today": 2
     },
     {
       "articles": [
-        "mit-tech-review-ai--9ddf29a2",
-        "mit-tech-review-ai--f41a7f8c"
+        "aibreakfast--12832f8d",
+        "mit-tech-review-ai--9ddf29a2"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 21.01583,
-      "term": "share story on",
-      "tf_today": 6
+      "score": 3.955004,
+      "term": "argument is",
+      "tf_today": 2
     },
     {
       "articles": [
-        "mit-tech-review-ai--9ddf29a2",
-        "mit-tech-review-ai--f41a7f8c"
+        "aibreakfast--12832f8d",
+        "codenewsletter--49533a60"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 21.01583,
-      "term": "will douglas",
-      "tf_today": 6
+      "score": 3.955004,
+      "term": "busy",
+      "tf_today": 2
     }
   ],
   "date": "2026-10-05",
   "evidence_article_ids": [],
   "judge": {
-    "input_tokens": 13081,
+    "input_tokens": 13354,
     "model": "jev-1.13.0",
     "pool_size": 27,
     "signals": {
-      "advertise": {
-        "dominance": 1.9,
-        "event": 0.89,
-        "form": 0.32,
-        "novelty": 0.43,
-        "specificity": 0.01
+      "ad format": {
+        "dominance": 1.97,
+        "event": 0.94,
+        "form": 0.81,
+        "novelty": 0.71,
+        "specificity": 0.03
       },
-      "advertise with us": {
-        "dominance": 1.44,
-        "event": 0.61,
-        "form": 0.27,
-        "novelty": 0.24,
-        "specificity": 0.0
-      },
-      "ai hype": {
-        "dominance": 1.43,
-        "event": 0.67,
-        "form": 0.86,
-        "novelty": 0.3,
-        "specificity": 0.27
-      },
-      "archive page": {
-        "dominance": 0.31,
-        "event": 0.08,
-        "form": 0.59,
-        "novelty": 0.3,
-        "specificity": 0.0
-      },
-      "big story": {
-        "dominance": 0.99,
-        "event": 0.6,
-        "form": 0.63,
-        "novelty": 0.29,
-        "specificity": 0.01
-      },
-      "big thing": {
-        "dominance": 1.11,
-        "event": 0.74,
-        "form": 0.59,
-        "novelty": 0.47,
-        "specificity": 0.11
-      },
-      "biotech": {
-        "dominance": 0.13,
-        "event": 0.05,
-        "form": 0.87,
-        "novelty": 0.25,
-        "specificity": 0.05
-      },
-      "brand": {
-        "dominance": 1.38,
-        "event": 0.73,
-        "form": 0.8,
-        "novelty": 0.53,
-        "specificity": 0.23
-      },
-      "breakthrough technologies emtech": {
-        "dominance": 0.19,
-        "event": 0.14,
-        "form": 0.49,
-        "novelty": 0.36,
-        "specificity": 0.16
-      },
-      "chasing the next": {
-        "dominance": 0.68,
-        "event": 0.68,
-        "form": 0.45,
-        "novelty": 0.15,
+      "add": {
+        "dominance": 0.4,
+        "event": 0.43,
+        "form": 0.33,
+        "novelty": 0.23,
         "specificity": 0.1
       },
-      "custom content": {
-        "dominance": 0.22,
-        "event": 0.46,
-        "form": 0.83,
-        "novelty": 0.32,
-        "specificity": 0.19
+      "ai still": {
+        "dominance": 0.55,
+        "event": 0.43,
+        "form": 0.24,
+        "novelty": 0.17,
+        "specificity": 0.42
       },
-      "emtech future live": {
-        "dominance": 0.15,
-        "event": 0.04,
-        "form": 0.51,
-        "novelty": 0.25,
-        "specificity": 0.41
+      "argument": {
+        "dominance": 0.84,
+        "event": 0.3,
+        "form": 0.69,
+        "novelty": 0.26,
+        "specificity": 0.22
+      },
+      "companies": {
+        "dominance": 2.34,
+        "event": 0.84,
+        "form": 0.71,
+        "novelty": 0.27,
+        "specificity": 0.15
+      },
+      "force": {
+        "dominance": 0.98,
+        "event": 0.1,
+        "form": 0.78,
+        "novelty": 0.37,
+        "specificity": 0.09
       },
       "hate": {
-        "dominance": 1.83,
-        "event": 0.09,
-        "form": 0.64,
-        "novelty": 0.45,
+        "dominance": 1.86,
+        "event": 0.07,
+        "form": 0.74,
+        "novelty": 0.49,
         "specificity": 0.01
       },
-      "mit technology review": {
-        "dominance": 1.96,
-        "event": 0.14,
-        "form": 0.82,
-        "novelty": 0.75,
-        "specificity": 0.54
+      "llms": {
+        "dominance": 2.57,
+        "event": 0.58,
+        "form": 0.74,
+        "novelty": 0.17,
+        "specificity": 1.92
+      },
+      "match": {
+        "dominance": 0.32,
+        "event": 0.21,
+        "form": 0.62,
+        "novelty": 0.14,
+        "specificity": 0.51
       },
       "people": {
-        "dominance": 1.84,
-        "event": 0.46,
-        "form": 0.77,
-        "novelty": 0.44,
+        "dominance": 2.04,
+        "event": 0.4,
+        "form": 0.73,
+        "novelty": 0.34,
         "specificity": 0.03
+      },
+      "reason ten": {
+        "dominance": 0.12,
+        "event": 0.41,
+        "form": 0.41,
+        "novelty": 0.31,
+        "specificity": 0.15
+      },
+      "rust": {
+        "dominance": 1.88,
+        "event": 0.14,
+        "form": 0.92,
+        "novelty": 0.69,
+        "specificity": 0.17
+      },
+      "super": {
+        "dominance": 1.12,
+        "event": 0.13,
+        "form": 0.61,
+        "novelty": 0.4,
+        "specificity": 0.48
+      },
+      "ways": {
+        "dominance": 1.25,
+        "event": 0.57,
+        "form": 0.52,
+        "novelty": 0.16,
+        "specificity": 0.07
+      },
+      "win possible": {
+        "dominance": 0.68,
+        "event": 0.27,
+        "form": 0.55,
+        "novelty": 0.11,
+        "specificity": 0.02
       }
     },
     "status": "ok",

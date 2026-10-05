@@ -1,13 +1,13 @@
 {
   "article_id": "latent-space--763ef10b",
   "author": "Latent.Space",
-  "content_chars": 37574,
-  "content_sha256": "e432551de45e8a8aae4077961a38366c88d8ddd671341877d3dd378fd5a4d375",
-  "content_tokens": 9393,
+  "content_chars": 37307,
+  "content_sha256": "34a15652f3ee7fc8f2275d761e9423dd28e697ea7296e0ed8a0336745cf73f8e",
+  "content_tokens": 9326,
   "fetched_at": "2026-10-03T11:39:38Z",
   "kind": "article",
   "published_at": "2026-10-03T08:45:15+00:00",
-  "snippet": "[AINews] not much happened today - Latent.Space Subscribe Sign in AINews: Weekday Roundups [AINews] not much happened today a quiet day. Latent.Space Oct 03, 2026 Share If you’re even seeing this, you should probably just go enjoy your weekend. AI News for 10/1/2026-10/2/2026…",
+  "snippet": "If you’re even seeing this, you should probably just go enjoy your weekend. AI News for 10/1/2026-10/2/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’ website lets you search all past issues. As a reminder, AINews is now a section of Latent Space…",
   "source_id": "latent-space",
   "title": "[AINews] not much happened today",
   "top_terms": [
@@ -64,6 +64,10 @@
       13
     ],
     [
+      "opus 5.5",
+      13
+    ],
+    [
       "qwen3.8",
       13
     ],
@@ -85,10 +89,6 @@
     ],
     [
       "open",
-      12
-    ],
-    [
-      "support",
       12
     ]
   ],

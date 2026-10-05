@@ -1,66 +1,46 @@
 {
   "article_id": "latent-space--7b53eb36",
   "author": null,
-  "content_chars": 17708,
-  "content_sha256": "58e8686f95f22b50e79088cbc8524aa2c80d5fdec4f20c564a171e88ef341263",
-  "content_tokens": 4427,
+  "content_chars": 13320,
+  "content_sha256": "091966d378171bee2d06272e333d0393e1c6652bb42a9074283f23e67fca2d8d",
+  "content_tokens": 3330,
   "fetched_at": "2026-09-29T12:52:01Z",
   "kind": "article",
   "published_at": "2026-09-29T02:55:27+00:00",
-  "snippet": "Building Worlds That Train Robots | World Labs About Research & Insights Marble Labs Community Showcase Case Studies Learn API Spark Join Us Learn about Atlas July 28, 2026 Real-to-sim-to-real (R2S2R) as a scalable engine for training and evaluating robot policies Building…",
+  "snippet": "When spatial intelligence becomes physical, the north star goal is to advance the field of robotics. Many laboratory demonstrations of robots today show promising progress, but the real challenge is making them work reliably in the real world, where objects shift, clutter…",
   "source_id": "latent-space",
   "title": "Building Worlds That Train Robots | World Labs",
   "top_terms": [
     [
       "simulation",
-      37
-    ],
-    [
-      "world",
-      28
-    ],
-    [
-      "real",
       27
     ],
     [
-      "policy",
-      24
-    ],
-    [
-      "robot",
-      24
-    ],
-    [
-      "robots",
+      "world",
       22
-    ],
-    [
-      "training",
-      20
     ],
     [
       "physical",
       19
     ],
     [
-      "real-world",
-      18
+      "robot",
+      19
     ],
     [
-      "evaluation",
-      17
+      "robots",
+      19
     ],
     [
       "hardware",
       17
     ],
     [
-      "policies",
-      16
+      "policy",
+      17
     ],
     [
-      "data",
+      "evaluation",
       15
     ],
     [
@@ -68,28 +48,48 @@
       15
     ],
     [
-      "task",
+      "training",
       15
     ],
     [
-      "aligned",
+      "data",
+      14
+    ],
+    [
+      "policies",
+      14
+    ],
+    [
+      "real-world",
       12
     ],
     [
       "r2s2r",
-      12
+      11
     ],
     [
-      "reality",
-      12
+      "task",
+      11
     ],
     [
-      "worlds",
-      12
+      "aligned",
+      10
+    ],
+    [
+      "real",
+      10
     ],
     [
       "across",
-      11
+      9
+    ],
+    [
+      "engine",
+      9
+    ],
+    [
+      "environments",
+      8
     ]
   ],
   "url": "https://www.worldlabs.ai/blog/real-to-sim-to-real",

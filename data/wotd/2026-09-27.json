@@ -1,0 +1,240 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 43.668272,
+      "term": "september 2026",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 43.668272,
+      "term": "th september",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 43.668272,
+      "term": "th september 2026",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 12.476649,
+      "term": "pretty much",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 9.704061,
+      "term": "opus 5.5",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 3,
+      "score": 9.656627,
+      "term": "so far",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 8.0,
+      "df_today": 3,
+      "score": 7.108632,
+      "term": "pretty",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--95adee2f",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 7.0,
+      "df_today": 3,
+      "score": 5.85728,
+      "term": "th",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "budget caps",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "simonwillison--93a01d94",
+        "simonwillison--a2113ae6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 5.126857,
+      "term": "budget caps on",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-09-27",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 12023,
+    "model": "jev-1.13.0",
+    "pool_size": 24,
+    "signals": {
+      "budget caps": {
+        "dominance": 0.88,
+        "event": 0.14,
+        "form": 0.77,
+        "novelty": 0.53,
+        "specificity": 0.2
+      },
+      "caps": {
+        "dominance": 0.93,
+        "event": 0.18,
+        "form": 0.62,
+        "novelty": 0.48,
+        "specificity": 0.54
+      },
+      "caps on pretty": {
+        "dominance": 0.86,
+        "event": 0.27,
+        "form": 0.09,
+        "novelty": 0.51,
+        "specificity": 0.21
+      },
+      "default hard budget": {
+        "dominance": 0.93,
+        "event": 0.22,
+        "form": 0.67,
+        "novelty": 0.57,
+        "specificity": 0.22
+      },
+      "devday 2026 live": {
+        "dominance": 0.9,
+        "event": 0.16,
+        "form": 0.59,
+        "novelty": 0.64,
+        "specificity": 1.19
+      },
+      "drop": {
+        "dominance": 1.72,
+        "event": 0.28,
+        "form": 0.63,
+        "novelty": 0.47,
+        "specificity": 0.45
+      },
+      "everything": {
+        "dominance": 1.25,
+        "event": 0.34,
+        "form": 0.67,
+        "novelty": 0.26,
+        "specificity": 0.23
+      },
+      "hard budget caps": {
+        "dominance": 0.94,
+        "event": 0.19,
+        "form": 0.75,
+        "novelty": 0.52,
+        "specificity": 0.21
+      },
+      "llms": {
+        "dominance": 2.0,
+        "event": 0.29,
+        "form": 0.8,
+        "novelty": 0.39,
+        "specificity": 1.62
+      },
+      "october 2026": {
+        "dominance": 1.02,
+        "event": 0.27,
+        "form": 0.86,
+        "novelty": 0.58,
+        "specificity": 0.02
+      },
+      "openai devday 2026": {
+        "dominance": 0.91,
+        "event": 0.12,
+        "form": 0.88,
+        "novelty": 0.66,
+        "specificity": 1.51
+      },
+      "opus 5.5": {
+        "dominance": 1.23,
+        "event": 0.14,
+        "form": 0.91,
+        "novelty": 0.54,
+        "specificity": 2.0
+      },
+      "rd october 2026": {
+        "dominance": 0.95,
+        "event": 0.12,
+        "form": 0.31,
+        "novelty": 0.67,
+        "specificity": 0.09
+      },
+      "september 2026": {
+        "dominance": 1.97,
+        "event": 0.6,
+        "form": 0.87,
+        "novelty": 0.61,
+        "specificity": 0.01
+      },
+      "th september 2026": {
+        "dominance": 1.17,
+        "event": 0.59,
+        "form": 0.24,
+        "novelty": 0.63,
+        "specificity": 0.01
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

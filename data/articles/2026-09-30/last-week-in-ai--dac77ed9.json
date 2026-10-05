@@ -1,95 +1,95 @@
 {
   "article_id": "last-week-in-ai--dac77ed9",
   "author": null,
-  "content_chars": 7933,
-  "content_sha256": "58c7d89b3b88196a679199790d95438d099ad79cd4130bd293d32f24d532b13e",
-  "content_tokens": 1983,
+  "content_chars": 1502,
+  "content_sha256": "2984fd67b8ce23b36cf5a892743638b9b353582f042206a4ebb4c4c569d4ec7b",
+  "content_tokens": 375,
   "fetched_at": "2026-09-30T12:33:41Z",
   "kind": "article",
   "published_at": "2026-09-30T11:23:54+00:00",
-  "snippet": "OpenAI agents tried to ‘bruteforce’ a UN website | The Verge Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The…",
+  "snippet": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development’s (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn’t quite rise to the level of the Hugging Face hack, or the recent…",
   "source_id": "last-week-in-ai",
   "title": "OpenAI agents tried to ‘bruteforce’ a UN website | The Verge",
   "top_terms": [
     [
-      "openai",
-      25
-    ],
-    [
-      "verge",
-      23
-    ],
-    [
-      "the verge",
-      20
-    ],
-    [
-      "follow",
-      19
-    ],
-    [
-      "expand",
-      13
-    ],
-    [
       "agents",
-      12
-    ],
-    [
-      "homepage",
-      12
-    ],
-    [
-      "close",
-      11
-    ],
-    [
-      "daily",
-      11
-    ],
-    [
-      "email",
-      11
-    ],
-    [
-      "digest",
-      10
-    ],
-    [
-      "feed",
-      10
-    ],
-    [
-      "homepage feed",
-      10
-    ],
-    [
-      "added",
       9
     ],
     [
-      "added to",
-      9
+      "openai",
+      5
     ],
     [
-      "added to your",
-      9
+      "un",
+      5
     ],
     [
-      "and your homepage",
-      9
+      "data",
+      4
     ],
     [
-      "be added",
-      9
+      "the agents",
+      4
     ],
     [
-      "be added to",
-      9
+      "openai agents",
+      3
     ],
     [
-      "daily email",
-      9
+      "access",
+      2
+    ],
+    [
+      "accomplish",
+      2
+    ],
+    [
+      "agents resorted",
+      2
+    ],
+    [
+      "agents resorted to",
+      2
+    ],
+    [
+      "agents tried",
+      2
+    ],
+    [
+      "agents tried to",
+      2
+    ],
+    [
+      "aggressive",
+      2
+    ],
+    [
+      "aggressive tactics",
+      2
+    ],
+    [
+      "api",
+      2
+    ],
+    [
+      "bruteforce",
+      2
+    ],
+    [
+      "data from",
+      2
+    ],
+    [
+      "errors",
+      2
+    ],
+    [
+      "eventually",
+      2
+    ],
+    [
+      "howard-jones",
+      2
     ]
   ],
   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",

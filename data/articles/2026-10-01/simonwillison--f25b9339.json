@@ -1,13 +1,13 @@
 {
   "article_id": "simonwillison--f25b9339",
   "author": "Simon Willison",
-  "content_chars": 1435,
-  "content_sha256": "230eb90e5481a74a3f9617e19b4ba5cbdfd5c51d04f6c796f970c3dca9740f62",
-  "content_tokens": 358,
+  "content_chars": 878,
+  "content_sha256": "0b7846df8f490a9ca1485e35bec343b511460331e470eb5432ceb05d4b18bd00",
+  "content_tokens": 219,
   "fetched_at": "2026-10-01T13:11:24Z",
   "kind": "article",
   "published_at": "2026-10-01T06:29:01+00:00",
-  "snippet": "A quote from Matthew Green Simon Willison’s Weblog Subscribe Sponsored by: Greptile — AI code reviewers catch bugs at run time and manage your code. Trusted by Nvidia, Netflix, and many more 1st October 2026 [...] Put these pieces together and you have the two halves of a worm…",
+  "snippet": "1st October 2026 [...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each…",
   "source_id": "simonwillison",
   "title": "Quoting Matthew Green",
   "top_terms": [
@@ -20,43 +20,11 @@
       3
     ],
     [
-      "green",
-      3
-    ],
-    [
-      "matthew",
-      3
-    ],
-    [
-      "matthew green",
-      3
-    ],
-    [
-      "october",
-      3
-    ],
-    [
-      "september",
-      3
-    ],
-    [
-      "st",
-      3
-    ],
-    [
-      "st october",
-      3
-    ],
-    [
       "cache",
       2
     ],
     [
-      "code",
-      2
-    ],
-    [
-      "gpt-6",
+      "green",
       2
     ],
     [
@@ -64,7 +32,19 @@
       2
     ],
     [
-      "llms",
+      "matthew",
+      2
+    ],
+    [
+      "matthew green",
+      2
+    ],
+    [
+      "october",
+      2
+    ],
+    [
+      "october 2026",
       2
     ],
     [
@@ -80,15 +60,35 @@
       2
     ],
     [
-      "posted",
-      2
-    ],
-    [
       "replace",
       2
     ],
     [
-      "sandboxing",
+      "september",
+      2
+    ],
+    [
+      "september 2026",
+      2
+    ],
+    [
+      "shared",
+      2
+    ],
+    [
+      "th",
+      2
+    ],
+    [
+      "th september",
+      2
+    ],
+    [
+      "th september 2026",
+      2
+    ],
+    [
+      "worm",
       2
     ]
   ],

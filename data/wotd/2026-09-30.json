@@ -2,255 +2,318 @@
   "candidates": [
     {
       "articles": [
-        "last-week-in-ai--19f77fbf",
         "latent-space--49b2e6da",
-        "latent-space--6c73c3f8"
+        "latent-space--c59fc933"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 269.117471,
+      "term": "grader",
+      "tf_today": 58
+    },
+    {
+      "articles": [
+        "last-week-in-ai--19f77fbf",
+        "last-week-in-ai--2c4567b7",
+        "latent-space--49b2e6da",
+        "latent-space--72e30a0a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 201.548448,
+      "term": "urlquery",
+      "tf_today": 42
+    },
+    {
+      "articles": [
+        "latent-space--49b2e6da",
+        "latent-space--c59fc933"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 163.709926,
+      "term": "hidden tests",
+      "tf_today": 39
+    },
+    {
+      "articles": [
+        "last-week-in-ai--6fd02532",
+        "latent-space--49b2e6da",
+        "latent-space--6c2751e5"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 3,
-      "score": 356.21438,
-      "term": "glm-5.3",
-      "tf_today": 64
+      "score": 83.252777,
+      "term": "openshell",
+      "tf_today": 22
     },
     {
       "articles": [
-        "latent-space--72e30a0a",
-        "latent-space--9da51546"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 313.957543,
-      "term": "completions",
-      "tf_today": 62
-    },
-    {
-      "articles": [
-        "latent-space--49b2e6da",
-        "latent-space--c59fc933"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 301.464083,
-      "term": "grader",
-      "tf_today": 60
-    },
-    {
-      "articles": [
-        "last-week-in-ai--19f77fbf",
-        "last-week-in-ai--2c4567b7",
-        "latent-space--49b2e6da",
-        "latent-space--72e30a0a"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 4,
-      "score": 262.811535,
-      "term": "urlquery",
-      "tf_today": 47
-    },
-    {
-      "articles": [
-        "last-week-in-ai--19f77fbf",
-        "last-week-in-ai--2c4567b7",
-        "latent-space--49b2e6da",
-        "latent-space--72e30a0a"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 4,
-      "score": 241.934549,
-      "term": "urlquery net",
-      "tf_today": 44
-    },
-    {
-      "articles": [
+        "huggingface-blog--51f59cff",
+        "last-week-in-ai--0b587de7",
         "last-week-in-ai--144e6e98",
         "last-week-in-ai--19f77fbf",
-        "last-week-in-ai--d881919e",
+        "last-week-in-ai--ab373485",
         "last-week-in-ai--dac77ed9",
-        "latent-space--49b2e6da",
-        "latent-space--9da51546"
+        "mit-tech-review-ai--7850b7ed"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 6,
-      "score": 224.317813,
-      "term": "dots",
-      "tf_today": 37
+      "df_today": 7,
+      "score": 78.586061,
+      "term": "the hugging",
+      "tf_today": 18
     },
     {
       "articles": [
-        "latent-space--49b2e6da",
-        "latent-space--c59fc933"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 198.880189,
-      "term": "hidden tests",
-      "tf_today": 43
-    },
-    {
-      "articles": [
+        "huggingface-blog--51f59cff",
+        "last-week-in-ai--0b587de7",
+        "last-week-in-ai--144e6e98",
         "last-week-in-ai--19f77fbf",
+        "last-week-in-ai--ab373485",
+        "last-week-in-ai--dac77ed9",
+        "mit-tech-review-ai--7850b7ed"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 78.586061,
+      "term": "the hugging face",
+      "tf_today": 18
+    },
+    {
+      "articles": [
         "last-week-in-ai--2c4567b7",
-        "latent-space--49b2e6da",
         "latent-space--72e30a0a"
       ],
       "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 78.495476,
+      "term": "aihw",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "google-deepmind--96e087c9",
+        "latent-space--49b2e6da",
+        "latent-space--6c2751e5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 78.341938,
+      "term": "telemetry",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "aibreakfast--aa8039c0",
+        "codenewsletter--8657073d",
+        "latent-space--49b2e6da",
+        "latent-space--eb45c526"
+      ],
+      "avg_tf_baseline": 0.0,
       "df_today": 4,
-      "score": 174.607094,
-      "term": "transluce",
-      "tf_today": 34
+      "score": 77.687814,
+      "term": "agents api",
+      "tf_today": 20
     },
     {
       "articles": [
         "last-week-in-ai--0b587de7",
-        "last-week-in-ai--144e6e98",
         "last-week-in-ai--19f77fbf",
-        "last-week-in-ai--6fd02532",
         "last-week-in-ai--ab373485",
-        "last-week-in-ai--d881919e",
-        "latent-space--72e30a0a"
+        "latent-space--72e30a0a",
+        "mit-tech-review-ai--7850b7ed"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 7,
-      "score": 159.945816,
-      "term": "rogue",
-      "tf_today": 27
-    },
-    {
-      "articles": [
-        "latent-space--6c73c3f8",
-        "latent-space--9da51546",
-        "latent-space--c59fc933"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 137.359488,
-      "term": "patch",
-      "tf_today": 30
+      "df_today": 5,
+      "score": 71.27573,
+      "term": "agent activity",
+      "tf_today": 18
     }
   ],
   "date": "2026-09-30",
   "evidence_article_ids": [
+    "aibreakfast--aa8039c0",
+    "codenewsletter--8657073d",
     "last-week-in-ai--0bc65e91",
     "last-week-in-ai--19f77fbf",
-    "latent-space--49b2e6da"
+    "latent-space--49b2e6da",
+    "latent-space--eb45c526"
   ],
   "judge": {
-    "input_tokens": 21455,
+    "input_tokens": 32746,
     "model": "jev-1.13.0",
-    "pool_size": 43,
+    "pool_size": 62,
     "signals": {
-      "activity": {
-        "dominance": 2.87,
-        "event": 0.91,
-        "form": 0.72,
-        "novelty": 0.68,
-        "specificity": 0.74
-      },
       "agent activity": {
-        "dominance": 2.98,
-        "event": 0.92,
-        "form": 0.87,
-        "novelty": 0.73,
-        "specificity": 1.67
-      },
-      "agents": {
-        "dominance": 2.96,
-        "event": 0.92,
-        "form": 0.88,
+        "dominance": 2.97,
+        "event": 0.94,
+        "form": 0.89,
         "novelty": 0.62,
-        "specificity": 1.65
+        "specificity": 1.78
       },
-      "anthropic": {
-        "dominance": 2.02,
-        "event": 0.95,
-        "form": 0.91,
-        "novelty": 0.62,
-        "specificity": 1.04
-      },
-      "exploits": {
-        "dominance": 2.91,
-        "event": 0.88,
-        "form": 0.74,
+      "agents api": {
+        "dominance": 1.55,
+        "event": 0.64,
+        "form": 0.85,
         "novelty": 0.51,
-        "specificity": 0.75
+        "specificity": 1.88
+      },
+      "astra": {
+        "dominance": 2.67,
+        "event": 0.83,
+        "form": 0.84,
+        "novelty": 0.64,
+        "specificity": 1.9
+      },
+      "behavior": {
+        "dominance": 2.77,
+        "event": 0.93,
+        "form": 0.84,
+        "novelty": 0.62,
+        "specificity": 0.84
+      },
+      "devday 2026": {
+        "dominance": 2.88,
+        "event": 0.93,
+        "form": 0.89,
+        "novelty": 0.74,
+        "specificity": 1.69
+      },
+      "dots": {
+        "dominance": 2.45,
+        "event": 0.91,
+        "form": 0.81,
+        "novelty": 0.73,
+        "specificity": 1.94
       },
       "gpt-6": {
-        "dominance": 2.35,
-        "event": 0.92,
-        "form": 0.89,
-        "novelty": 0.66,
-        "specificity": 1.98
+        "dominance": 2.93,
+        "event": 0.95,
+        "form": 0.87,
+        "novelty": 0.63,
+        "specificity": 1.99
+      },
+      "gpt-6 astra": {
+        "dominance": 2.54,
+        "event": 0.82,
+        "form": 0.92,
+        "novelty": 0.64,
+        "specificity": 2.0
+      },
+      "gpt-6 sol": {
+        "dominance": 2.93,
+        "event": 0.91,
+        "form": 0.92,
+        "novelty": 0.64,
+        "specificity": 1.99
+      },
+      "gpt-6.1 astra": {
+        "dominance": 2.46,
+        "event": 0.88,
+        "form": 0.87,
+        "novelty": 0.65,
+        "specificity": 1.99
       },
       "gpt-6.1 sol": {
-        "dominance": 2.48,
-        "event": 0.9,
-        "form": 0.93,
-        "novelty": 0.77,
-        "specificity": 1.98
+        "dominance": 2.94,
+        "event": 0.93,
+        "form": 0.95,
+        "novelty": 0.75,
+        "specificity": 2.0
       },
       "hack": {
-        "dominance": 2.89,
-        "event": 0.88,
-        "form": 0.82,
-        "novelty": 0.7,
-        "specificity": 0.36
+        "dominance": 2.93,
+        "event": 0.9,
+        "form": 0.85,
+        "novelty": 0.54,
+        "specificity": 0.67
+      },
+      "hugging face hack": {
+        "dominance": 2.82,
+        "event": 0.83,
+        "form": 0.81,
+        "novelty": 0.61,
+        "specificity": 1.39
+      },
+      "launches": {
+        "dominance": 2.96,
+        "event": 0.94,
+        "form": 0.27,
+        "novelty": 0.46,
+        "specificity": 0.59
       },
       "models": {
-        "dominance": 2.85,
-        "event": 0.95,
-        "form": 0.81,
-        "novelty": 0.36,
+        "dominance": 2.97,
+        "event": 0.96,
+        "form": 0.77,
+        "novelty": 0.43,
         "specificity": 1.04
       },
-      "nvidia": {
-        "dominance": 1.86,
-        "event": 0.77,
-        "form": 0.93,
-        "novelty": 0.66,
-        "specificity": 1.06
+      "openai launches": {
+        "dominance": 2.97,
+        "event": 0.94,
+        "form": 0.34,
+        "novelty": 0.52,
+        "specificity": 0.65
       },
-      "openai launches dots": {
-        "dominance": 1.72,
-        "event": 0.46,
-        "form": 0.41,
-        "novelty": 0.63,
-        "specificity": 1.85
+      "openai's": {
+        "dominance": 2.97,
+        "event": 0.95,
+        "form": 0.35,
+        "novelty": 0.58,
+        "specificity": 1.0
+      },
+      "openshell": {
+        "dominance": 1.78,
+        "event": 0.52,
+        "form": 0.89,
+        "novelty": 0.71,
+        "specificity": 1.96
+      },
+      "opus 5.5": {
+        "dominance": 1.88,
+        "event": 0.87,
+        "form": 0.94,
+        "novelty": 0.54,
+        "specificity": 2.0
       },
       "rogue ai": {
-        "dominance": 2.97,
-        "event": 0.9,
-        "form": 0.91,
-        "novelty": 0.68,
-        "specificity": 0.94
+        "dominance": 2.96,
+        "event": 0.92,
+        "form": 0.9,
+        "novelty": 0.63,
+        "specificity": 1.36
       },
       "sol": {
-        "dominance": 2.43,
-        "event": 0.91,
-        "form": 0.75,
+        "dominance": 2.95,
+        "event": 0.94,
+        "form": 0.76,
         "novelty": 0.75,
-        "specificity": 1.83
+        "specificity": 1.89
       },
-      "techcrunch": {
-        "dominance": 1.86,
-        "event": 0.86,
-        "form": 0.54,
-        "novelty": 0.74,
-        "specificity": 0.42
-      },
-      "wired": {
-        "dominance": 1.77,
-        "event": 0.67,
-        "form": 0.65,
-        "novelty": 0.67,
-        "specificity": 0.04
+      "sonnet 5.5": {
+        "dominance": 1.72,
+        "event": 0.89,
+        "form": 0.96,
+        "novelty": 0.65,
+        "specificity": 2.0
       }
     },
     "status": "ok",
     "survivors": [
       "gpt-6.1 sol",
-      "gpt-6"
+      "gpt-6 sol",
+      "gpt-6",
+      "astra",
+      "dots",
+      "gpt-6 astra",
+      "gpt-6.1 astra",
+      "openshell",
+      "sonnet 5.5",
+      "opus 5.5"
     ]
   },
-  "score": 55.451774,
+  "label": "GPT-6.1 Sol",
+  "score": 1.91599,
   "word": "gpt-6.1 sol"
 }

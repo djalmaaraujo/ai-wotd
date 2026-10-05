@@ -1,13 +1,13 @@
 {
   "article_id": "latent-space--239485e4",
   "author": null,
-  "content_chars": 8419,
-  "content_sha256": "f8ca6dcdd5523745cb20cb4212600bd0501ec9fef0884de28d524e74b435cf31",
-  "content_tokens": 2104,
+  "content_chars": 5323,
+  "content_sha256": "52df9ed16cbad421d62f81e2efa9ac76f4b1dcbc70f3d86dbdfc71cf38a351f9",
+  "content_tokens": 1330,
   "fetched_at": "2026-09-29T12:52:09Z",
   "kind": "article",
   "published_at": "2026-09-29T01:48:18+00:00",
-  "snippet": "Mods - make Claude 10x more extensible · Issue #91870 · anthropics/claude-code · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP…",
+  "snippet": "Mods - make Claude 10x more extensible #91870 Description Community Micro-Update: Oct 1, 2026 We're live! We're rapidly working down the latest elements of feedback folks have posted. Thank you all again for being amazing stewards of this new extensibility affordance. 🚀…",
   "source_id": "latent-space",
   "title": "Mods - make Claude 10x more extensible · Issue #91870 · anthropics/claude-code · GitHub",
   "top_terms": [
@@ -16,35 +16,15 @@
       18
     ],
     [
-      "github",
-      14
-    ],
-    [
-      "code",
-      13
-    ],
-    [
-      "hooks",
-      12
-    ],
-    [
       "function",
-      11
+      9
     ],
     [
       "claude",
-      10
-    ],
-    [
-      "security",
-      10
-    ],
-    [
-      "community",
       8
     ],
     [
-      "function hooks",
+      "hooks",
       8
     ],
     [
@@ -52,15 +32,7 @@
       7
     ],
     [
-      "issue",
-      7
-    ],
-    [
-      "mods",
-      7
-    ],
-    [
-      "plugins",
+      "feedback",
       6
     ],
     [
@@ -68,28 +40,56 @@
       6
     ],
     [
-      "view",
+      "we're",
       6
     ],
     [
-      "view all",
-      6
+      "community",
+      5
     ],
     [
-      "actions",
+      "function hooks",
+      5
+    ],
+    [
+      "mods",
       5
     ],
     [
       "change",
-      5
+      4
     ],
     [
-      "features",
-      5
+      "code",
+      4
     ],
     [
-      "feedback",
-      5
+      "folks",
+      4
+    ],
+    [
+      "plugin",
+      4
+    ],
+    [
+      "plugins",
+      4
+    ],
+    [
+      "still",
+      4
+    ],
+    [
+      "admins",
+      3
+    ],
+    [
+      "cc",
+      3
+    ],
+    [
+      "control",
+      3
     ]
   ],
   "url": "https://github.com/anthropics/claude-code/issues/91870",

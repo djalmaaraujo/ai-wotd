@@ -1,95 +1,95 @@
 {
   "article_id": "google-research--623a2fc9",
   "author": "Google Research Blog",
-  "content_chars": 15098,
-  "content_sha256": "003c4d041fe20db11acb50053379f84a8fd3b6ee18574c7479e69350e225723a",
-  "content_tokens": 3774,
+  "content_chars": 8236,
+  "content_sha256": "a5ab2432022b99650ed6d41371f01a1f218d5bd0c0d53176d1f52f3e590b9d68",
+  "content_tokens": 2059,
   "fetched_at": "2026-10-03T11:39:33Z",
   "kind": "article",
   "published_at": "2026-10-02T14:57:41+00:00",
-  "snippet": "Toward provably private learning from federated data Skip to main content Explore our many areas of focus Explore all research areas Applied AI & sciences Earth AI Health AI Science AI Sustainability & crisis resilience Foundational ML & algorithms Algorithms & theory…",
+  "snippet": "October 2, 2026 Katharine Daly, Software Engineer, and Daniel Ramage, Research Director, Google Research We announce a new Federated Learning system that provides externally verifiable privacy guarantees while shifting computation to the server to improve training speed…",
   "source_id": "google-research",
   "title": "Toward provably private learning from federated data",
   "top_terms": [
     [
+      "fl",
+      24
+    ],
+    [
       "data",
-      30
+      20
     ],
     [
       "system",
-      30
-    ],
-    [
-      "fl",
-      29
-    ],
-    [
-      "research",
-      19
-    ],
-    [
-      "training",
-      17
-    ],
-    [
-      "google",
-      16
-    ],
-    [
-      "privacy",
-      16
+      20
     ],
     [
       "fl system",
-      15
+      12
     ],
     [
-      "federated",
-      14
-    ],
-    [
-      "learning",
-      14
-    ],
-    [
-      "systems",
-      14
-    ],
-    [
-      "tee-based",
-      14
+      "training",
+      11
     ],
     [
       "workloads",
-      13
+      11
     ],
     [
-      "machine",
-      11
+      "privacy",
+      9
+    ],
+    [
+      "tee-based",
+      9
+    ],
+    [
+      "learning",
+      8
+    ],
+    [
+      "logic",
+      8
+    ],
+    [
+      "server",
+      8
     ],
     [
       "tees",
-      11
+      8
     ],
     [
-      "access",
-      10
+      "device",
+      7
     ],
     [
-      "private",
-      10
-    ],
-    [
-      "tee-based fl",
-      10
-    ],
-    [
-      "explore",
-      9
+      "federated",
+      7
     ],
     [
       "guarantees",
-      9
+      7
+    ],
+    [
+      "new tee-based",
+      7
+    ],
+    [
+      "tee-based fl",
+      7
+    ],
+    [
+      "tee-based fl system",
+      7
+    ],
+    [
+      "our new tee-based",
+      6
+    ],
+    [
+      "python",
+      6
     ]
   ],
   "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",

@@ -1,82 +1,38 @@
 {
   "article_id": "latent-space--0bbef75f",
   "author": null,
-  "content_chars": 905,
-  "content_sha256": "0717962e9c91fdbd89bf736f65c3c5a7c17e2bb7043812f553206e4db057cd08",
-  "content_tokens": 226,
+  "content_chars": 182,
+  "content_sha256": "a6fda3d05d604e18066c49f1620deddcbd529f762565e3b910b72f5538c57fd6",
+  "content_tokens": 45,
   "fetched_at": "2026-09-29T12:52:04Z",
   "kind": "article",
   "published_at": "2026-09-29T02:44:29+00:00",
-  "snippet": "Swift Bonsai 2 - a ukisai Collection Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "snippet": "Text Generation • 27B • Updated • 13.1k • 48 Swift Bonsai 2 Swift adaptation of Ternary Bonsai 2 and its GGUF quantizations. - Note Swift Bonsai 2 1-bit and 2-bit GGUF models.",
   "source_id": "latent-space",
   "title": "Swift Bonsai 2 - a ukisai Collection",
   "top_terms": [
     [
-      "swift",
-      8
-    ],
-    [
       "bonsai",
-      6
-    ],
-    [
-      "collection",
-      6
-    ],
-    [
-      "swift bonsai",
-      5
-    ],
-    [
-      "ukisai",
       4
     ],
     [
-      "collections",
+      "bonsai 2",
+      4
+    ],
+    [
+      "swift",
+      4
+    ],
+    [
+      "swift bonsai",
       3
     ],
     [
-      "enterprise",
+      "swift bonsai 2",
       3
-    ],
-    [
-      "models",
-      3
-    ],
-    [
-      "ago",
-      2
     ],
     [
       "bit",
-      2
-    ],
-    [
-      "buckets",
-      2
-    ],
-    [
-      "datasets",
-      2
-    ],
-    [
-      "datasets spaces",
-      2
-    ],
-    [
-      "days",
-      2
-    ],
-    [
-      "days ago",
-      2
-    ],
-    [
-      "docs",
-      2
-    ],
-    [
-      "face",
       2
     ],
     [
@@ -84,12 +40,56 @@
       2
     ],
     [
-      "hugging",
-      2
+      "adaptation",
+      1
     ],
     [
-      "hugging face",
-      2
+      "adaptation of",
+      1
+    ],
+    [
+      "adaptation of ternary",
+      1
+    ],
+    [
+      "and its gguf",
+      1
+    ],
+    [
+      "bit and",
+      1
+    ],
+    [
+      "bit gguf",
+      1
+    ],
+    [
+      "bit gguf models",
+      1
+    ],
+    [
+      "bonsai 2 and",
+      1
+    ],
+    [
+      "bonsai 2 swift",
+      1
+    ],
+    [
+      "collection",
+      1
+    ],
+    [
+      "collection text",
+      1
+    ],
+    [
+      "collection text generation",
+      1
+    ],
+    [
+      "generation",
+      1
     ]
   ],
   "url": "https://huggingface.co/collections/ukisai/swift-bonsai-2",

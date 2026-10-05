@@ -1,95 +1,95 @@
 {
   "article_id": "microsoft-research--21189b0d",
   "author": "Nicolo Fusi, Jonathan M. Carlson",
-  "content_chars": 15700,
-  "content_sha256": "fa13d11c0dc5120d22962c3835c9c0a96d51f41004a4eaffa08be0c7091c0cf0",
-  "content_tokens": 3925,
+  "content_chars": 10645,
+  "content_sha256": "4596875961f10ec42c04c9f2b47b8c87d2a241447dc1916f066ad671b3fff5c2",
+  "content_tokens": 2661,
   "fetched_at": "2026-09-30T12:33:28Z",
   "kind": "article",
   "published_at": "2026-09-29T14:00:02+00:00",
-  "snippet": "Introducing Quine: An AI research system designed for the complexity of biology - Microsoft Research Skip to main content Research Publications Code, datasets and models Artificial intelligence Audio & acoustics Computer vision Graphics & multimedia Human-computer interaction…",
+  "snippet": "At a glance - Quine (opens in new tab) is a research effort to create a multimodal world model of biology and an interactive harness connecting models, scientific tools, literature, and researchers. - In collaboration with researchers at the Broad Institute of Harvard and MIT…",
   "source_id": "microsoft-research",
   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
   "top_terms": [
     [
-      "microsoft",
-      42
-    ],
-    [
-      "research",
-      30
-    ],
-    [
       "quine",
-      29
+      22
     ],
     [
       "biology",
-      23
+      18
+    ],
+    [
+      "research",
+      14
     ],
     [
       "system",
-      17
+      14
     ],
     [
       "model",
-      16
-    ],
-    [
-      "across",
       13
     ],
     [
+      "across",
+      12
+    ],
+    [
       "models",
-      12
-    ],
-    [
-      "of biology",
-      12
-    ],
-    [
-      "microsoft research",
       11
     ],
     [
       "scientific",
-      10
+      9
     ],
     [
-      "share",
-      10
+      "of biology",
+      8
+    ],
+    [
+      "discovery",
+      7
+    ],
+    [
+      "experimental",
+      7
     ],
     [
       "experiments",
-      8
+      7
     ],
     [
-      "share on",
-      8
+      "scientists",
+      7
+    ],
+    [
+      "the system",
+      7
+    ],
+    [
+      "work",
+      7
     ],
     [
       "world",
-      8
+      7
     ],
     [
       "world model",
-      8
+      7
     ],
     [
       "biological",
-      7
+      6
     ],
     [
       "cancer",
-      7
-    ],
-    [
-      "cell",
-      7
+      6
     ],
     [
       "compounds",
-      7
+      6
     ]
   ],
   "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",

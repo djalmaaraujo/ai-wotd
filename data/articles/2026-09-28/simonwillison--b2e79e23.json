@@ -1,34 +1,18 @@
 {
   "article_id": "simonwillison--b2e79e23",
   "author": "Simon Willison",
-  "content_chars": 1843,
-  "content_sha256": "146887bc041cf9385716b053975d7b0478ceeb1efd7b9141ebbd7db46655486a",
-  "content_tokens": 460,
+  "content_chars": 1288,
+  "content_sha256": "127b0497a393ec22c5906a28d31a560faa3d37903bea360e1c5b841891a09cc9",
+  "content_tokens": 322,
   "fetched_at": "2026-09-29T12:51:51Z",
   "kind": "article",
   "published_at": "2026-09-28T19:11:42+00:00",
-  "snippet": "A quote from @joedaroo Simon Willison’s Weblog Subscribe Sponsored by: Greptile — AI code reviewers catch bugs at run time and manage your code. Trusted by Nvidia, Netflix, and many more 28th September 2026 To say that we were surprised at the jump and suddenness of the…",
+  "snippet": "28th September 2026 To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s…",
   "source_id": "simonwillison",
   "title": "Quoting @joedaroo",
   "top_terms": [
     [
-      "september",
-      6
-    ],
-    [
-      "th",
-      4
-    ],
-    [
-      "th september",
-      4
-    ],
-    [
       "capabilities",
-      3
-    ],
-    [
-      "joedaroo",
       3
     ],
     [
@@ -44,27 +28,35 @@
       3
     ],
     [
-      "the right",
+      "september",
       3
     ],
     [
-      "code",
-      2
+      "september 2026",
+      3
     ],
     [
-      "gpt-6",
-      2
+      "th",
+      3
+    ],
+    [
+      "th september",
+      3
+    ],
+    [
+      "th september 2026",
+      3
+    ],
+    [
+      "the right",
+      3
     ],
     [
       "have the right",
       2
     ],
     [
-      "llms",
-      2
-    ],
-    [
-      "models",
+      "joedaroo",
       2
     ],
     [
@@ -76,20 +68,28 @@
       2
     ],
     [
-      "posted",
-      2
-    ],
-    [
       "security",
       2
     ],
     [
-      "simon",
+      "sudden",
       2
     ],
     [
-      "simon willison",
+      "systems",
       2
+    ],
+    [
+      "about hardening",
+      1
+    ],
+    [
+      "about hardening the",
+      1
+    ],
+    [
+      "agent",
+      1
     ]
   ],
   "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",

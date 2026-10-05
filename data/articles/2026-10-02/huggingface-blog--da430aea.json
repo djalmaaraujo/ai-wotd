@@ -1,27 +1,23 @@
 {
   "article_id": "huggingface-blog--da430aea",
   "author": "Hugging Face Blog",
-  "content_chars": 16792,
-  "content_sha256": "ef86adb23fd8e5bc5eb1558baa9a42e1e4e7b8cca4c66493cd591381990884e4",
-  "content_tokens": 4198,
+  "content_chars": 13900,
+  "content_sha256": "a3652573f9c55f81c82e8f5167a539736c4254181688c9800cbb8259044a7e78",
+  "content_tokens": 3475,
   "fetched_at": "2026-10-02T12:30:10Z",
   "kind": "article",
   "published_at": "2026-10-02T04:01:31+00:00",
-  "snippet": "AutoSynthData: Generating Training Data for Enterprise Agents Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "snippet": "Enterprises need agents that work well in their own environments. The work they ask these agents to do is shaped by the systems they use, the rules they follow, and the state of their data. A model may be broadly capable and still struggle with a particular environment: a…",
   "source_id": "huggingface-blog",
   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
   "top_terms": [
     [
       "tasks",
-      35
+      32
     ],
     [
       "model",
-      30
-    ],
-    [
-      "training",
-      27
+      28
     ],
     [
       "environment",
@@ -29,19 +25,23 @@
     ],
     [
       "target",
-      25
+      23
+    ],
+    [
+      "training",
+      23
     ],
     [
       "task",
-      24
+      20
     ],
     [
       "autosynthdata",
-      19
+      17
     ],
     [
       "generation",
-      19
+      17
     ],
     [
       "the target",
@@ -56,27 +56,15 @@
       14
     ],
     [
-      "verifier",
-      14
-    ],
-    [
       "target model",
       12
     ],
     [
-      "data",
-      11
+      "verifier",
+      12
     ],
     [
       "must",
-      11
-    ],
-    [
-      "updated",
-      11
-    ],
-    [
-      "useful",
       11
     ],
     [
@@ -84,12 +72,24 @@
       10
     ],
     [
-      "gym",
+      "samples",
       10
     ],
     [
-      "samples",
+      "the target model",
       10
+    ],
+    [
+      "tasks that",
+      9
+    ],
+    [
+      "teacher",
+      9
+    ],
+    [
+      "the environment",
+      9
     ]
   ],
   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",

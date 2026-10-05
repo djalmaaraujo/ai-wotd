@@ -1,13 +1,13 @@
 {
   "article_id": "ai-snake-oil--e288566f",
   "author": null,
-  "content_chars": 238,
-  "content_sha256": "06654090dba376263b029c653b95444a99222a2033fea4f6ce984c0772e67fa8",
-  "content_tokens": 59,
+  "content_chars": 209,
+  "content_sha256": "21e4d17ef30b902b10e8bf980b565a7435d1e7936d193098e76b2ec443ce8965",
+  "content_tokens": 52,
   "fetched_at": "2026-09-28T13:52:30Z",
   "kind": "article",
   "published_at": "2026-09-28T11:13:47+00:00",
-  "snippet": "Client Challenge A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+  "snippet": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
   "source_id": "ai-snake-oil",
   "title": "Client Challenge",
   "top_terms": [
@@ -16,27 +16,11 @@
       3
     ],
     [
-      "challenge",
-      2
-    ],
-    [
-      "client",
-      2
-    ],
-    [
-      "client challenge",
-      2
-    ],
-    [
       "ad",
       1
     ],
     [
       "ad blockers",
-      1
-    ],
-    [
-      "ad blockers or",
       1
     ],
     [
@@ -60,19 +44,7 @@
       1
     ],
     [
-      "blockers or",
-      1
-    ],
-    [
-      "blockers or try",
-      1
-    ],
-    [
       "browser extension",
-      1
-    ],
-    [
-      "browser extension network",
       1
     ],
     [
@@ -80,15 +52,43 @@
       1
     ],
     [
-      "browser settings please",
+      "challenge",
       1
     ],
     [
-      "challenge client",
+      "check",
       1
     ],
     [
-      "challenge client challenge",
+      "check your",
+      1
+    ],
+    [
+      "check your connection",
+      1
+    ],
+    [
+      "client",
+      1
+    ],
+    [
+      "client challenge",
+      1
+    ],
+    [
+      "connection",
+      1
+    ],
+    [
+      "different",
+      1
+    ],
+    [
+      "different browser",
+      1
+    ],
+    [
+      "disable",
       1
     ]
   ],

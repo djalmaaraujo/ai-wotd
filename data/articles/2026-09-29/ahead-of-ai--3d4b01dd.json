@@ -1,71 +1,27 @@
 {
   "article_id": "ahead-of-ai--3d4b01dd",
   "author": null,
-  "content_chars": 2259,
-  "content_sha256": "7ea40c840de0eb4fcb523427a013216186480984806b27bee539c33842af9b92",
-  "content_tokens": 564,
+  "content_chars": 1333,
+  "content_sha256": "807a6a394fac899cdb5f0fb63b4a988b2d55a4200c7a01d7c26889e289094be2",
+  "content_tokens": 333,
   "fetched_at": "2026-09-29T12:51:58Z",
   "kind": "article",
   "published_at": "2026-09-29T10:50:25+00:00",
-  "snippet": "xLSTM: Extended Long Short-Term Memory NeurIPS Proceedings Search xLSTM: Extended Long Short-Term Memory Maximilian Beck, Korbinian Pöppel, Markus Spanring, Andreas Auer, Oleksandra Prudnikova, Michael Kopp, Günter Klambauer, Johannes Brandstetter, Sepp Hochreiter Advances in…",
+  "snippet": "In the 1990s, the constant error carousel and gating were introduced as the central ideas of the Long Short-Term Memory (LSTM). Since then, LSTMs have stood the test of time and contributed to numerous deep learning success stories, in particular they constituted the first Large…",
   "source_id": "ahead-of-ai",
   "title": "xLSTM: Extended Long Short-Term Memory",
   "top_terms": [
     [
       "memory",
-      9
-    ],
-    [
-      "name",
-      6
-    ],
-    [
-      "xlstm",
-      6
-    ],
-    [
-      "change",
-      4
-    ],
-    [
-      "long",
-      4
-    ],
-    [
-      "long short-term",
-      4
-    ],
-    [
-      "long short-term memory",
-      4
+      7
     ],
     [
       "lstms",
       4
     ],
     [
-      "name change",
+      "xlstm",
       4
-    ],
-    [
-      "short-term",
-      4
-    ],
-    [
-      "short-term memory",
-      4
-    ],
-    [
-      "extended",
-      3
-    ],
-    [
-      "extended long",
-      3
-    ],
-    [
-      "extended long short-term",
-      3
     ],
     [
       "gating",
@@ -76,19 +32,63 @@
       3
     ],
     [
-      "proceedings",
-      3
+      "exponential",
+      2
     ],
     [
-      "xlstm extended",
-      3
+      "exponential gating",
+      2
     ],
     [
-      "xlstm extended long",
-      3
+      "language",
+      2
     ],
     [
-      "an issue",
+      "llms",
+      2
+    ],
+    [
+      "long",
+      2
+    ],
+    [
+      "long short-term",
+      2
+    ],
+    [
+      "long short-term memory",
+      2
+    ],
+    [
+      "models",
+      2
+    ],
+    [
+      "parallelizable",
+      2
+    ],
+    [
+      "scalar",
+      2
+    ],
+    [
+      "scaling",
+      2
+    ],
+    [
+      "short-term",
+      2
+    ],
+    [
+      "short-term memory",
+      2
+    ],
+    [
+      "techniques",
+      2
+    ],
+    [
+      "update",
       2
     ]
   ],

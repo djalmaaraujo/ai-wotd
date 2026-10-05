@@ -1,95 +1,95 @@
 {
   "article_id": "ahead-of-ai--f7548566",
   "author": null,
-  "content_chars": 4219,
-  "content_sha256": "1b793f618b7ab77585132cb6aa725f3f638a708eba780d60183e8d26d21a7ac9",
-  "content_tokens": 1054,
+  "content_chars": 1447,
+  "content_sha256": "da5406b91c87547faec3d0d89e9cc6de0e5634daeae83cd0eea54f9d2db870be",
+  "content_tokens": 361,
   "fetched_at": "2026-09-29T12:51:57Z",
   "kind": "article",
   "published_at": "2026-09-29T10:50:25+00:00",
-  "snippet": "[1301.3781] Efficient Estimation of Word Representations in Vector Space Skip to main content Search Submit Donate Log in Search arXiv Press Enter to search · Advanced search Computer Science > Computation and Language arXiv:1301.3781 (cs) [Submitted on 16 Jan 2013 ( v1 ), last…",
+  "snippet": "Computer Science > Computation and Language Title:Efficient Estimation of Word Representations in Vector Space View PDF HTML (experimental) Abstract:We propose two novel model architectures for computing continuous vector representations of words from very large data sets. The…",
   "source_id": "ahead-of-ai",
   "title": "[1301.3781] Efficient Estimation of Word Representations in Vector Space",
   "top_terms": [
     [
-      "toggle",
-      14
-    ],
-    [
       "word",
-      8
-    ],
-    [
-      "cs",
-      7
-    ],
-    [
-      "representations",
-      7
-    ],
-    [
-      "arxiv",
-      6
-    ],
-    [
-      "data",
-      6
-    ],
-    [
-      "vector",
-      6
-    ],
-    [
-      "view",
-      6
+      5
     ],
     [
       "arxivlabs",
-      5
+      4
+    ],
+    [
+      "data",
+      4
+    ],
+    [
+      "representations",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "vector",
+      3
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "collaborators",
+      2
     ],
     [
       "efficient",
-      5
+      2
     ],
     [
       "efficient estimation",
-      5
+      2
     ],
     [
       "efficient estimation of",
-      5
+      2
     ],
     [
       "estimation",
-      5
+      2
     ],
     [
       "estimation of",
-      5
+      2
     ],
     [
       "estimation of word",
-      5
+      2
+    ],
+    [
+      "experimental",
+      2
     ],
     [
       "in vector",
-      5
+      2
     ],
     [
       "in vector space",
-      5
+      2
     ],
     [
-      "mikolov",
-      5
+      "large",
+      2
+    ],
+    [
+      "learn",
+      2
     ],
     [
       "of word",
-      5
-    ],
-    [
-      "of word representations",
-      5
+      2
     ]
   ],
   "url": "https://arxiv.org/abs/1301.3781",

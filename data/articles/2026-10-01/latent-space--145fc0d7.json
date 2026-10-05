@@ -1,39 +1,39 @@
 {
   "article_id": "latent-space--145fc0d7",
   "author": "swyx & Alessio",
-  "content_chars": 17720,
-  "content_sha256": "c6f067a8182ca3ea8e09f5031ad0a152265cce84b94898defc64fc71b127742a",
-  "content_tokens": 4430,
+  "content_chars": 16683,
+  "content_sha256": "da9d8ffa1710173ef4186c3c13d7b5edb9b81e8f005ccdfa402ac71bd50fc0ae",
+  "content_tokens": 4170,
   "fetched_at": "2026-10-01T13:11:28Z",
   "kind": "article",
   "published_at": "2026-10-01T06:45:05+00:00",
-  "snippet": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output Subscribe Sign in AINews: Weekday Roundups [AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output ... but you can’t try it yet unless you are “government users and trusted cyber defenders in the…",
+  "snippet": "GDM last shipped a larger-than-Flash model in February (3.1 Pro), and after successive incremental 3.x Flash versions and the big GDM management shakeup last month, the largest question for GDM was when they would catch up to peers who have in the meantime launched Fable and…",
   "source_id": "latent-space",
   "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
   "top_terms": [
     [
       "argon",
-      20
-    ],
-    [
-      "astra",
       17
     ],
     [
       "model",
-      17
+      16
     ],
     [
-      "arena",
-      13
+      "astra",
+      15
     ],
     [
       "models",
       13
     ],
     [
+      "arena",
+      11
+    ],
+    [
       "output",
-      13
+      11
     ],
     [
       "artificialanlys",
@@ -48,10 +48,6 @@
       9
     ],
     [
-      "google",
-      9
-    ],
-    [
       "reports",
       9
     ],
@@ -60,7 +56,7 @@
       8
     ],
     [
-      "gemini",
+      "google",
       8
     ],
     [
@@ -76,19 +72,23 @@
       7
     ],
     [
-      "cyber",
-      7
-    ],
-    [
-      "gemini argon",
-      7
-    ],
-    [
       "kimmonismus",
       7
     ],
     [
       "llama",
+      7
+    ],
+    [
+      "openai",
+      7
+    ],
+    [
+      "per task",
+      7
+    ],
+    [
+      "sol",
       7
     ]
   ],

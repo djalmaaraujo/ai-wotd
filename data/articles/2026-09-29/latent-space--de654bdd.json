@@ -1,13 +1,13 @@
 {
   "article_id": "latent-space--de654bdd",
   "author": "swyx & Alessio",
-  "content_chars": 31097,
-  "content_sha256": "3d6bd9b373d296b29b7cd3b789b563a68ab820ee4f5c8b9938aba4074e55b481",
-  "content_tokens": 7774,
+  "content_chars": 28051,
+  "content_sha256": "5e4bb7d4414d0733fdc5808fdd7c8686cf09788b5eb44d644d299c65c3471eed",
+  "content_tokens": 7012,
   "fetched_at": "2026-09-29T12:52:01Z",
   "kind": "article",
   "published_at": "2026-09-29T02:44:29+00:00",
-  "snippet": "[AINews] Opus 5.5 is good at explainer videos Subscribe Sign in AINews: Weekday Roundups [AINews] Opus 5.5 is good at explainer videos a rare feature of a capability Sep 29, 2026 1 1 Share Opus 5.5 shipped this week but the vibes are overwhelmingly positive: OpenRouter…",
+  "snippet": "Opus 5.5 shipped this week but the vibes are overwhelmingly positive: And specifically it took over the timeline for explainer videos: AI News for 9/24/2026-9/25/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’ website lets you search all past…",
   "source_id": "latent-space",
   "title": "[AINews] Opus 5.5 is good at explainer videos",
   "top_terms": [
@@ -16,23 +16,23 @@
       34
     ],
     [
-      "opus",
-      33
-    ],
-    [
       "model",
-      24
+      23
     ],
     [
-      "models",
+      "opus",
       21
     ],
     [
-      "claude",
-      17
+      "models",
+      20
     ],
     [
-      "video",
+      "opus 5.5",
+      19
+    ],
+    [
+      "claude",
       16
     ],
     [
@@ -64,7 +64,7 @@
       13
     ],
     [
-      "max",
+      "video",
       12
     ],
     [
@@ -76,10 +76,6 @@
       11
     ],
     [
-      "code",
-      11
-    ],
-    [
       "ms",
       11
     ],
@@ -88,7 +84,11 @@
       10
     ],
     [
-      "astra",
+      "code",
+      10
+    ],
+    [
+      "generation",
       10
     ]
   ],

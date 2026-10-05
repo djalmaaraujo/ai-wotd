@@ -1,87 +1,31 @@
 {
   "article_id": "last-week-in-ai--6fd02532",
   "author": null,
-  "content_chars": 11299,
-  "content_sha256": "914c00c0b6fb19b383b481382033a6bd9e035030a14f99bf94148299d3f46af9",
-  "content_tokens": 2824,
+  "content_chars": 5666,
+  "content_sha256": "0d62dfb22b85fd347b39b519ca14bcc7ea4f28a6e7b199d58f4e50f353de13b8",
+  "content_tokens": 1416,
   "fetched_at": "2026-09-30T12:33:41Z",
   "kind": "article",
   "published_at": "2026-09-30T11:23:54+00:00",
-  "snippet": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System | WIRED Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big…",
+  "snippet": "Amidst ongoing reports of AI agents wreaking havoc on online infrastructure, chipmaker Nvidia is rallying tech companies to use its new open-source tool for AI security. Over the last few months, frontier AI labs have disclosed multiple incidents in which AI agents have hacked…",
   "source_id": "last-week-in-ai",
   "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System | WIRED",
   "top_terms": [
     [
       "nvidia",
-      25
-    ],
-    [
-      "wired",
-      23
-    ],
-    [
-      "agents",
-      22
-    ],
-    [
-      "security",
       21
     ],
     [
-      "codes",
-      13
+      "agents",
+      19
     ],
     [
-      "save",
-      12
-    ],
-    [
-      "promo",
-      11
-    ],
-    [
-      "promo codes",
-      10
+      "security",
+      15
     ],
     [
       "openshell",
       9
-    ],
-    [
-      "september",
-      9
-    ],
-    [
-      "safety",
-      8
-    ],
-    [
-      "top",
-      8
-    ],
-    [
-      "higgins",
-      7
-    ],
-    [
-      "molly",
-      7
-    ],
-    [
-      "molly higgins",
-      7
-    ],
-    [
-      "open-source",
-      7
-    ],
-    [
-      "software",
-      7
-    ],
-    [
-      "story",
-      7
     ],
     [
       "ai agents",
@@ -90,6 +34,62 @@
     [
       "companies",
       6
+    ],
+    [
+      "company",
+      6
+    ],
+    [
+      "safety",
+      6
+    ],
+    [
+      "sentry",
+      6
+    ],
+    [
+      "software",
+      6
+    ],
+    [
+      "open",
+      5
+    ],
+    [
+      "open-source",
+      5
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "boitano",
+      4
+    ],
+    [
+      "framework",
+      4
+    ],
+    [
+      "industry",
+      4
+    ],
+    [
+      "nvidia is",
+      4
+    ],
+    [
+      "platform",
+      4
+    ],
+    [
+      "rogue",
+      4
+    ],
+    [
+      "ai safety",
+      3
     ]
   ],
   "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system",

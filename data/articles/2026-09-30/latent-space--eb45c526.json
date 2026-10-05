@@ -1,13 +1,13 @@
 {
   "article_id": "latent-space--eb45c526",
   "author": "swyx & Alessio",
-  "content_chars": 61986,
-  "content_sha256": "e068b7141ae01ee55d780b09b620f19cc08edf78d7c2431a21c5504814fe2c68",
-  "content_tokens": 15496,
+  "content_chars": 57114,
+  "content_sha256": "06f4567b5b16484e56c1e72d0dbd914f3dd82a16d840148a669eaf79cd4fa77b",
+  "content_tokens": 14278,
   "fetched_at": "2026-10-01T13:11:28Z",
   "kind": "article",
   "published_at": "2026-09-30T22:23:40+00:00",
-  "snippet": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week Subscribe Sign in Latent Space: The AI Engineer Podcast Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week 26 6 1× 0:00 Current time: 0:00 / Total…",
+  "snippet": "Three months ago Dwarkesh, who has been posting incredible blogs and episodes about RL, posted a framing question for his video essay on RLVR which upset a lot of Computer Use folks: We are no strangers to learning in public and are no strangers to the stress of getting things…",
   "source_id": "latent-space",
   "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
   "top_terms": [
@@ -33,43 +33,35 @@
     ],
     [
       "computer",
-      101
+      91
     ],
     [
       "computer use",
-      80
+      75
     ],
     [
       "api",
-      74
+      72
     ],
     [
       "ari",
-      70
+      68
     ],
     [
       "ari weinstein",
-      67
+      65
     ],
     [
       "weinstein",
-      67
+      65
     ],
     [
       "vibhu",
       63
     ],
     [
-      "handa yeah",
-      43
-    ],
-    [
       "lot",
-      43
-    ],
-    [
-      "nikunj handa yeah",
-      43
+      41
     ],
     [
       "people",
@@ -80,16 +72,24 @@
       37
     ],
     [
-      "agents",
-      36
-    ],
-    [
       "model",
       35
     ],
     [
+      "agents",
+      33
+    ],
+    [
       "lot of",
-      34
+      33
+    ],
+    [
+      "things",
+      28
+    ],
+    [
+      "openai",
+      25
     ]
   ],
   "url": "https://www.latent.space/p/devday-2026",

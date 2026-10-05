@@ -1,54 +1,18 @@
 {
   "article_id": "simonwillison--1c882355",
   "author": "Simon Willison",
-  "content_chars": 1288,
-  "content_sha256": "ec6ba8a19b5abd1cb65be79df33ab2ddb2cbe9ad06eec0a900694e52ddca1522",
-  "content_tokens": 322,
+  "content_chars": 727,
+  "content_sha256": "d40f086b2fb22238a871052e1e4614b20f4dd6c6f59ca07853772b55e6e5cd27",
+  "content_tokens": 181,
   "fetched_at": "2026-09-30T12:33:29Z",
   "kind": "article",
   "published_at": "2026-09-29T22:20:28+00:00",
-  "snippet": "A quote from Anthropic Frontier Red Team Simon Willison’s Weblog Subscribe Sponsored by: Greptile — AI code reviewers catch bugs at run time and manage your code. Trusted by Nvidia, Netflix, and many more 29th September 2026 We evaluate several models on 100 tasks from the…",
+  "snippet": "29th September 2026 We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
   "source_id": "simonwillison",
   "title": "Quoting Anthropic Frontier Red Team",
   "top_terms": [
     [
-      "september",
-      6
-    ],
-    [
-      "th",
-      5
-    ],
-    [
-      "th september",
-      5
-    ],
-    [
-      "anthropic",
-      4
-    ],
-    [
       "claude",
-      4
-    ],
-    [
-      "anthropic frontier",
-      3
-    ],
-    [
-      "anthropic frontier red",
-      3
-    ],
-    [
-      "frontier",
-      3
-    ],
-    [
-      "frontier red",
-      3
-    ],
-    [
-      "frontier red team",
       3
     ],
     [
@@ -56,16 +20,36 @@
       3
     ],
     [
-      "red",
+      "september",
       3
     ],
     [
-      "red team",
+      "september 2026",
       3
     ],
     [
-      "team",
+      "th",
       3
+    ],
+    [
+      "th september",
+      3
+    ],
+    [
+      "th september 2026",
+      3
+    ],
+    [
+      "anthropic",
+      2
+    ],
+    [
+      "anthropic frontier",
+      2
+    ],
+    [
+      "anthropic frontier red",
+      2
     ],
     [
       "claude mythos",
@@ -76,19 +60,35 @@
       2
     ],
     [
-      "claude opus",
+      "frontier",
       2
     ],
     [
-      "code",
+      "frontier red",
       2
     ],
     [
-      "gpt-6",
+      "frontier red team",
       2
     ],
     [
-      "llms",
+      "models",
+      2
+    ],
+    [
+      "mythos",
+      2
+    ],
+    [
+      "mythos preview",
+      2
+    ],
+    [
+      "preview",
+      2
+    ],
+    [
+      "red",
       2
     ]
   ],

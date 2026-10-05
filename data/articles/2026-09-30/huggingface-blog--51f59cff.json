@@ -1,95 +1,95 @@
 {
   "article_id": "huggingface-blog--51f59cff",
   "author": "Hugging Face Blog",
-  "content_chars": 13908,
-  "content_sha256": "5742054b8ca817ed1b33dfe0417f5c9f2ea52c03dfc59a3277d68de9e18b2fe6",
-  "content_tokens": 3477,
+  "content_chars": 6948,
+  "content_sha256": "e31283ee2a1ceddfbbe308ed09946d8bc909b659f99f2b34b7ab9d089a1aea96",
+  "content_tokens": 1737,
   "fetched_at": "2026-10-01T13:08:35Z",
   "kind": "article",
   "published_at": "2026-09-30T00:00:00+00:00",
-  "snippet": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn…",
+  "snippet": "TLDR 👉 new TTS leaderboard focused on open-source and multilingual The pace of open-source text-to-speech (TTS) model releases has been incredible. On the Hugging Face Hub (as of Sep 30, 2026) there are more than 8K TTS models available 🚀 Evaluation, however, hasn't kept pace…",
   "source_id": "huggingface-blog",
   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
   "top_terms": [
     [
       "models",
-      40
+      24
     ],
     [
       "tts",
-      36
-    ],
-    [
-      "leaderboard",
-      21
-    ],
-    [
-      "text-to-speech",
-      21
-    ],
-    [
-      "updated",
-      20
-    ],
-    [
-      "open",
-      19
-    ],
-    [
-      "languages",
-      18
+      15
     ],
     [
       "model",
-      15
+      12
+    ],
+    [
+      "leaderboard",
+      11
     ],
     [
       "voice",
-      15
+      9
     ],
     [
-      "multilingual",
-      13
+      "languages",
+      8
+    ],
+    [
+      "open",
+      8
+    ],
+    [
+      "open-source",
+      7
+    ],
+    [
+      "wer",
+      7
     ],
     [
       "audio",
-      12
+      6
     ],
     [
-      "speech",
-      12
+      "english",
+      6
+    ],
+    [
+      "streaming",
+      6
+    ],
+    [
+      "the open",
+      6
     ],
     [
       "tts leaderboard",
-      12
+      6
     ],
     [
-      "evaluation",
-      11
+      "evaluations",
+      5
+    ],
+    [
+      "generated",
+      5
+    ],
+    [
+      "metrics",
+      5
+    ],
+    [
+      "multilingual",
+      5
     ],
     [
       "open tts",
-      11
+      5
     ],
     [
       "open tts leaderboard",
-      11
-    ],
-    [
-      "compare",
-      10
-    ],
-    [
-      "ago",
-      9
-    ],
-    [
-      "cloning",
-      9
-    ],
-    [
-      "performance",
-      9
+      5
     ]
   ],
   "url": "https://huggingface.co/blog/open-tts-leaderboard",

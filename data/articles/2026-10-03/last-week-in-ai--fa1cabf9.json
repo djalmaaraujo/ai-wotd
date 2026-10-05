@@ -1,46 +1,42 @@
 {
   "article_id": "last-week-in-ai--fa1cabf9",
   "author": null,
-  "content_chars": 8429,
-  "content_sha256": "e8eca14d121f8622512b091ae7098a5ff7cce50364cb0427f56bf7e73eb321d4",
-  "content_tokens": 2107,
+  "content_chars": 6199,
+  "content_sha256": "8b118b1d88539a99da6becae45a135a3902091c7a8f7e3721f64f1314f5dc826",
+  "content_tokens": 1549,
   "fetched_at": "2026-10-03T11:39:49Z",
   "kind": "article",
   "published_at": "2026-10-03T07:32:03+00:00",
-  "snippet": "PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint About Blog News Careers Contact Docs Models Bonsai 2 27B Bonsai 27B Bonsai 8B Bonsai 4B Bonsai 1.7B Bonsai Image About Blog News Careers Docs LAUNCH 1001011100 11010 1 001 Back to all posts…",
+  "snippet": "Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint Two months ago, we released our first Bonsai 27B models and showed that a 27B-class multimodal model could be compressed enough to run efficiently on a local device. Today, we’re releasing Ternary…",
   "source_id": "last-week-in-ai",
   "title": "PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
   "top_terms": [
     [
       "bonsai",
-      45
+      26
     ],
     [
-      "model",
+      "bonsai 2",
       18
     ],
     [
-      "ternary",
-      16
-    ],
-    [
-      "ternary bonsai",
+      "model",
       14
     ],
     [
-      "models",
-      12
+      "ternary",
+      11
     ],
     [
-      "capability",
+      "ternary bonsai",
       10
     ],
     [
-      "coding",
+      "ternary bonsai 2",
       9
     ],
     [
-      "footprint",
+      "capability",
       8
     ],
     [
@@ -48,7 +44,15 @@
       8
     ],
     [
-      "agentic",
+      "models",
+      8
+    ],
+    [
+      "coding",
+      6
+    ],
+    [
+      "footprint",
       6
     ],
     [
@@ -64,32 +68,28 @@
       6
     ],
     [
-      "multimodal",
-      6
+      "bonsai 27",
+      5
     ],
     [
-      "reasoning",
-      6
+      "multimodal",
+      5
+    ],
+    [
+      "performance",
+      5
     ],
     [
       "run",
-      6
-    ],
-    [
-      "smaller",
-      6
-    ],
-    [
-      "vision",
-      6
-    ],
-    [
-      "compared",
       5
     ],
     [
-      "compression",
-      5
+      "across",
+      4
+    ],
+    [
+      "agentic",
+      4
     ]
   ],
   "url": "https://prismml.com/news/bonsai-2-27b",

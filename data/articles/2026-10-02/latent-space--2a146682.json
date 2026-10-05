@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--2a146682",
   "author": null,
-  "content_chars": 51223,
-  "content_sha256": "f353fccba1eadab827e92484bb1795580c257ce14d82e278734b21e4ec37ffc2",
-  "content_tokens": 12805,
+  "content_chars": 33600,
+  "content_sha256": "141f06a1e262fadf21622ee756a0019f6f7f6a86c32deb27f343c29faf3cfeb5",
+  "content_tokens": 8400,
   "fetched_at": "2026-10-02T12:32:59Z",
   "kind": "article",
   "published_at": "2026-10-02T06:40:53+00:00",
-  "snippet": "Releases · earendil-works/pi · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS…",
+  "snippet": "Releases: earendil-works/pi Releases · earendil-works/pi Release list v1.0.3 New Features - Azure Foundry Chat Completions — The azure provider (renamed from azure-openai-responses) now also serves Foundry Chat Completions deployments, starting with azure/deepseek-v4-pro. See…",
   "source_id": "latent-space",
   "title": "Releases · earendil-works/pi · GitHub",
   "top_terms": [
     [
       "fixed",
-      99
-    ],
-    [
-      "added",
       71
     ],
     [
-      "reacted",
-      53
+      "added",
+      64
     ],
     [
       "mcp",
-      52
-    ],
-    [
-      "reactions",
-      52
-    ],
-    [
-      "model",
-      51
-    ],
-    [
-      "inherited",
-      45
-    ],
-    [
-      "tool",
-      45
-    ],
-    [
-      "emoji",
-      43
-    ],
-    [
-      "loading",
-      43
-    ],
-    [
-      "reacted with",
-      43
+      64
     ],
     [
       "codemode",
+      49
+    ],
+    [
+      "model",
       42
     ],
     [
-      "reactions reactions",
-      41
+      "pi",
+      40
     ],
     [
       "models",
+      39
+    ],
+    [
+      "tool",
+      39
+    ],
+    [
+      "tools",
       38
     ],
     [
       "provider",
-      36
+      35
     ],
     [
-      "tools",
-      36
-    ],
-    [
-      "reactions reactions reactions",
-      30
-    ],
-    [
-      "session",
-      29
-    ],
-    [
-      "prompt",
+      "servers",
       28
     ],
     [
-      "fixed inherited",
+      "oauth",
       27
+    ],
+    [
+      "image",
+      25
+    ],
+    [
+      "login",
+      25
+    ],
+    [
+      "prompt",
+      22
+    ],
+    [
+      "openai",
+      21
+    ],
+    [
+      "instead",
+      20
+    ],
+    [
+      "server",
+      20
+    ],
+    [
+      "context",
+      19
+    ],
+    [
+      "default",
+      19
     ]
   ],
   "url": "https://github.com/earendil-works/pi/releases",

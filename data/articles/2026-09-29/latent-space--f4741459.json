@@ -1,95 +1,39 @@
 {
   "article_id": "latent-space--f4741459",
   "author": null,
-  "content_chars": 1259,
-  "content_sha256": "ea588be61b2fc0dccabaf57d3091fcb9047f1f8631d7b9c5d26a1f723ae4f354",
-  "content_tokens": 314,
+  "content_chars": 42,
+  "content_sha256": "8983f978710f19ce8c8dd8bece9f6a188fdea9df3ab819c417dbd2f08d14ce1a",
+  "content_tokens": 10,
   "fetched_at": "2026-09-29T12:52:02Z",
   "kind": "article",
   "published_at": "2026-09-29T02:44:29+00:00",
-  "snippet": "Contrastive-LM (CLM) Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO…",
+  "snippet": "Text Ranking • Updated • 3.72k • 725",
   "source_id": "latent-space",
   "title": "Contrastive-LM (CLM)",
   "top_terms": [
     [
+      "clm",
+      1
+    ],
+    [
       "contrastive-lm",
-      10
+      1
+    ],
+    [
+      "ranking",
+      1
+    ],
+    [
+      "text",
+      1
+    ],
+    [
+      "text ranking",
+      1
     ],
     [
       "updated",
-      9
-    ],
-    [
-      "ago",
-      7
-    ],
-    [
-      "days",
-      7
-    ],
-    [
-      "days ago",
-      7
-    ],
-    [
-      "clm-v0.1",
-      4
-    ],
-    [
-      "contrastive-lm clm-v0.1",
-      4
-    ],
-    [
-      "updated days",
-      4
-    ],
-    [
-      "updated days ago",
-      4
-    ],
-    [
-      "ago contrastive-lm",
-      3
-    ],
-    [
-      "clm",
-      3
-    ],
-    [
-      "datasets",
-      3
-    ],
-    [
-      "days ago contrastive-lm",
-      3
-    ],
-    [
-      "enterprise",
-      3
-    ],
-    [
-      "models",
-      3
-    ],
-    [
-      "picture",
-      3
-    ],
-    [
-      "profile",
-      3
-    ],
-    [
-      "profile picture",
-      3
-    ],
-    [
-      "activity",
-      2
-    ],
-    [
-      "ago contrastive-lm clm-v0.1",
-      2
+      1
     ]
   ],
   "url": "https://huggingface.co/Contrastive-LM",

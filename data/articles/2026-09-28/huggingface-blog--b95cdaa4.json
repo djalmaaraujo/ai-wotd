@@ -1,34 +1,22 @@
 {
   "article_id": "huggingface-blog--b95cdaa4",
   "author": "Hugging Face Blog",
-  "content_chars": 11344,
-  "content_sha256": "1a97011ffdb41880630cdb52b53c6754d82723c33788d4eaa518e88fd4f3f09f",
-  "content_tokens": 2836,
+  "content_chars": 7965,
+  "content_sha256": "450803a3c88a25d36d49a165c51a73fa53d164122b8c8b3c2aee751e3e9913fd",
+  "content_tokens": 1991,
   "fetched_at": "2026-09-28T13:49:42Z",
   "kind": "article",
   "published_at": "2026-09-28T09:44:05+00:00",
-  "snippet": "Holo4: powering generalist computer-use agents Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "snippet": "Holo4 is our new series of agentic models. It comes in two sizes: 27B dense and 35B-A3B Mixture of Experts. Both are available on the H Models API. We are also releasing an updated version of Holotron 3: Holotron4 Nano. Holo4 builds on our previous model and interacts with…",
   "source_id": "huggingface-blog",
   "title": "Holo4: powering generalist computer-use agents",
   "top_terms": [
     [
-      "hcompany",
-      27
-    ],
-    [
       "holo4",
-      27
+      21
     ],
     [
       "models",
-      23
-    ],
-    [
-      "follow",
-      17
-    ],
-    [
-      "follow hcompany",
       17
     ],
     [
@@ -37,34 +25,18 @@
     ],
     [
       "model",
-      15
-    ],
-    [
-      "agentic",
-      11
-    ],
-    [
-      "task",
-      11
-    ],
-    [
-      "updated",
-      11
-    ],
-    [
-      "ago",
-      10
+      13
     ],
     [
       "height",
       10
     ],
     [
-      "calls",
+      "agentic",
       9
     ],
     [
-      "nano",
+      "task",
       9
     ],
     [
@@ -84,12 +56,40 @@
       7
     ],
     [
-      "cost",
+      "calls",
       7
     ],
     [
-      "days",
+      "environments",
       7
+    ],
+    [
+      "nano",
+      7
+    ],
+    [
+      "mm at",
+      6
+    ],
+    [
+      "qwen3.8",
+      6
+    ],
+    [
+      "qwen3.8 27",
+      6
+    ],
+    [
+      "scores",
+      6
+    ],
+    [
+      "set",
+      6
+    ],
+    [
+      "cost",
+      5
     ]
   ],
   "url": "https://huggingface.co/blog/Hcompany/holo4",

@@ -1,13 +1,13 @@
 {
   "article_id": "huggingface-blog--13091800",
   "author": "Hugging Face Blog",
-  "content_chars": 19764,
-  "content_sha256": "ac8f4a4879dc3020d741fcac00f7e70af6aff2d2b8757e028faeaf0b272e73c6",
-  "content_tokens": 4941,
+  "content_chars": 17788,
+  "content_sha256": "759f9bfe64d8ea5456544fe2cf8869b2e8075f2b105402a1892ad351496414cc",
+  "content_tokens": 4447,
   "fetched_at": "2026-10-03T11:36:50Z",
   "kind": "article",
   "published_at": "2026-10-02T15:19:50+00:00",
-  "snippet": "Open-sourcing AstaBrief, the fast report-generation model in Asta Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "snippet": "Language models can already help researchers search the literature, synthesize evidence, and work through complex questions. But scientific work places particular demands on these models—answers need to stay grounded in evidence, the models need to preserve what the evidence…",
   "source_id": "huggingface-blog",
   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
   "top_terms": [
@@ -17,35 +17,23 @@
     ],
     [
       "model",
-      33
+      26
     ],
     [
       "astabrief",
-      29
-    ],
-    [
-      "models",
-      24
-    ],
-    [
-      "training",
-      23
+      21
     ],
     [
       "scientific",
       21
     ],
     [
-      "data",
+      "models",
       20
     ],
     [
       "asta",
-      18
-    ],
-    [
-      "generation",
-      17
+      16
     ],
     [
       "citation",
@@ -54,6 +42,18 @@
     [
       "mode",
       16
+    ],
+    [
+      "training",
+      16
+    ],
+    [
+      "data",
+      15
+    ],
+    [
+      "generation",
+      15
     ],
     [
       "quality",
@@ -72,10 +72,6 @@
       13
     ],
     [
-      "fast",
-      12
-    ],
-    [
       "research",
       12
     ],
@@ -84,12 +80,16 @@
       11
     ],
     [
-      "filtering",
+      "reports",
       11
     ],
     [
-      "reports",
+      "researchers",
       11
+    ],
+    [
+      "fast",
+      10
     ]
   ],
   "url": "https://huggingface.co/blog/allenai/astabrief",

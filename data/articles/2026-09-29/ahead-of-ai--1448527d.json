@@ -1,95 +1,95 @@
 {
   "article_id": "ahead-of-ai--1448527d",
   "author": null,
-  "content_chars": 3969,
-  "content_sha256": "5b840f4d549553a348e4ec9dea17450add61fd78e89b7a9784170b7ff0f521cf",
-  "content_tokens": 992,
+  "content_chars": 2246,
+  "content_sha256": "a79bfe69a5e8e7cb08e4a79257980c74e1133c0a9af27300c20ec3b97b4864d2",
+  "content_tokens": 561,
   "fetched_at": "2026-09-29T12:51:56Z",
   "kind": "article",
   "published_at": "2026-09-29T10:50:25+00:00",
-  "snippet": "Large Movie Review Dataset (IMDB) — Andrew Maas Stanford University · Computer Science ← Andrew Maas Large Movie Review Dataset A binary sentiment classification benchmark introduced in Maas et al., ACL 2011 . Also known as aclImdb or simply IMDB . This dataset contains 50,000…",
+  "snippet": "A binary sentiment classification benchmark introduced in Maas et al., ACL 2011. Also known as aclImdb or simply IMDB. This dataset contains 50,000 polarized movie reviews scraped from IMDB — 25,000 for training and 25,000 for testing — plus 50,000 additional unlabeled reviews…",
   "source_id": "ahead-of-ai",
   "title": "Large Movie Review Dataset (IMDB) — Andrew Maas",
   "top_terms": [
     [
       "dataset",
-      11
-    ],
-    [
-      "imdb",
-      8
+      7
     ],
     [
       "reviews",
-      8
-    ],
-    [
-      "al",
-      7
+      5
     ],
     [
       "andrew",
-      7
+      3
     ],
     [
-      "et",
-      7
+      "bag-of-words",
+      3
     ],
     [
-      "et al",
-      7
+      "imdb",
+      3
     ],
     [
       "maas",
-      7
-    ],
-    [
-      "datasets",
-      6
-    ],
-    [
-      "movie",
-      6
-    ],
-    [
-      "andrew maas",
-      5
+      3
     ],
     [
       "models",
-      5
+      3
     ],
     [
-      "movie review",
-      5
+      "movie",
+      3
     ],
     [
-      "review",
-      5
+      "this dataset",
+      3
     ],
     [
-      "benchmark",
-      4
+      "acl",
+      2
     ],
     [
-      "bert",
-      4
+      "acl 2011",
+      2
     ],
     [
-      "face",
-      4
+      "association",
+      2
     ],
     [
-      "hugging",
-      4
+      "association for",
+      2
     ],
     [
-      "hugging face",
-      4
+      "association for computational",
+      2
     ],
     [
-      "large",
-      4
+      "balanced",
+      2
+    ],
+    [
+      "balanced pos",
+      2
+    ],
+    [
+      "binary",
+      2
+    ],
+    [
+      "classification",
+      2
+    ],
+    [
+      "computational",
+      2
+    ],
+    [
+      "computational linguistics",
+      2
     ]
   ],
   "url": "https://ai.stanford.edu/~amaas/data/sentiment",

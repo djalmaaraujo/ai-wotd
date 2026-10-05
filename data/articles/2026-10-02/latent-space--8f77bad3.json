@@ -1,35 +1,31 @@
 {
   "article_id": "latent-space--8f77bad3",
   "author": null,
-  "content_chars": 14691,
-  "content_sha256": "d79ef147a955fc4631c63921d60da1709f0e2e1d6313766be71b4d12d657ea34",
-  "content_tokens": 3672,
+  "content_chars": 11399,
+  "content_sha256": "22b4aef8a28df14ce8d1aae710bf13a71679779ab12f03947bd910f0cc85beaa",
+  "content_tokens": 2849,
   "fetched_at": "2026-10-03T11:39:44Z",
   "kind": "article",
   "published_at": "2026-10-02T14:04:49+00:00",
-  "snippet": "Airbnb Q2 2026 financial results Skip to main content Airbnb Newsroom About us Media assets Product releases Contact English English AU and NZ Canada India Ireland United Kingdom Deutsch Español (América Latina) Español (España) Français Français (Belgique) Français (Canada)…",
+  "snippet": "We issued our second quarter 2026 financial results. You can read the details here. Overview of Q2 results Over the first half of 2026, we’ve delivered some of our strongest results in years. In Q2, that momentum accelerated as we exceeded our outlook across every key metric…",
   "source_id": "latent-space",
   "title": "Airbnb Q2 2026 financial results",
   "top_terms": [
     [
       "airbnb",
-      41
-    ],
-    [
-      "guests",
       24
     ],
     [
-      "hosts",
+      "guests",
       21
+    ],
+    [
+      "hosts",
+      16
     ],
     [
       "percent",
       15
-    ],
-    [
-      "across",
-      14
     ],
     [
       "growth",
@@ -40,47 +36,27 @@
       14
     ],
     [
-      "help",
+      "across",
       11
     ],
     [
-      "booking",
-      9
-    ],
-    [
-      "q2",
-      9
-    ],
-    [
-      "results",
-      9
-    ],
-    [
-      "booked",
-      8
+      "help",
+      10
     ],
     [
       "demand",
       8
     ],
     [
-      "every",
-      8
-    ],
-    [
-      "home",
-      8
-    ],
-    [
-      "support",
-      8
-    ],
-    [
-      "business",
+      "booked",
       7
     ],
     [
-      "credit",
+      "booking",
+      7
+    ],
+    [
+      "business",
       7
     ],
     [
@@ -88,8 +64,32 @@
       7
     ],
     [
-      "experiences",
+      "q2",
       7
+    ],
+    [
+      "results",
+      7
+    ],
+    [
+      "adjusted",
+      6
+    ],
+    [
+      "adjusted ebitda",
+      6
+    ],
+    [
+      "assistant",
+      6
+    ],
+    [
+      "better",
+      6
+    ],
+    [
+      "easier",
+      6
     ]
   ],
   "url": "https://news.airbnb.com/airbnb-q2-2026-financial-results",

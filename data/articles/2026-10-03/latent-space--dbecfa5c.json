@@ -1,62 +1,26 @@
 {
   "article_id": "latent-space--dbecfa5c",
   "author": null,
-  "content_chars": 24611,
-  "content_sha256": "aa6e01d310a8b053bcd9b9b5b24caa2895cd3c8d0a7df9fce12824161ee5c717",
-  "content_tokens": 6152,
+  "content_chars": 17632,
+  "content_sha256": "162bf88a1bda2d7e82155efd89ebd64f861dc6adf9f1eb4c927caa60d7d08fe3",
+  "content_tokens": 4408,
   "fetched_at": "2026-10-03T11:39:39Z",
   "kind": "article",
   "published_at": "2026-10-03T08:45:15+00:00",
-  "snippet": "LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF · Hugging Face Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions…",
+  "snippet": "A 27B model that texts like a person and still does the work. No system prompt needed. Text it and it texts back like someone you know. Ask for a formal email, a tool call or a proper explanation and it does that, then goes back to texting. Quick start · Download · vLLM /…",
   "source_id": "latent-space",
   "title": "LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF · Hugging Face",
   "top_terms": [
     [
-      "qwen3.8",
-      58
-    ],
-    [
-      "model",
-      45
-    ],
-    [
-      "lessthanthreeai",
-      40
-    ],
-    [
-      "lessthanthreeai qwen3.8",
-      38
-    ],
-    [
-      "b-humanlike-chat-gguf",
-      36
-    ],
-    [
-      "lessthanthreeai qwen3.8 b-humanlike-chat-gguf",
-      36
-    ],
-    [
-      "qwen3.8 b-humanlike-chat-gguf",
-      36
-    ],
-    [
       "base",
-      33
-    ],
-    [
-      "gb",
       31
     ],
     [
-      "llama",
-      29
-    ],
-    [
-      "chat",
+      "gb",
       24
     ],
     [
-      "q4",
+      "model",
       24
     ],
     [
@@ -64,32 +28,68 @@
       24
     ],
     [
-      "cpp",
-      21
+      "chat",
+      20
     ],
     [
-      "llama cpp",
-      21
+      "qwen3.8",
+      16
     ],
     [
-      "b-humanlike-chat-gguf q4",
-      19
+      "thinking",
+      15
     ],
     [
-      "install",
-      19
+      "card",
+      14
     ],
     [
-      "qwen3.8 b-humanlike-chat-gguf q4",
-      19
+      "lora",
+      14
     ],
     [
-      "run",
-      19
+      "bf16",
+      13
     ],
     [
-      "start",
-      18
+      "pass",
+      13
+    ],
+    [
+      "all pass",
+      12
+    ],
+    [
+      "the base",
+      12
+    ],
+    [
+      "gguf",
+      11
+    ],
+    [
+      "calls",
+      10
+    ],
+    [
+      "person",
+      10
+    ],
+    [
+      "api",
+      9
+    ],
+    [
+      "content",
+      9
+    ],
+    [
+      "merged",
+      9
+    ],
+    [
+      "messages",
+      9
     ]
   ],
   "url": "https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF",

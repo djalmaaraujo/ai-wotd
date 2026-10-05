@@ -1,27 +1,27 @@
 {
   "article_id": "latent-space--5ad4e066",
   "author": "Richard MacManus",
-  "content_chars": 10516,
-  "content_sha256": "6243eff3c460f0e166532466b9d88ecf994e4a4bf596827ed782efdf9f6ac626",
-  "content_tokens": 2629,
+  "content_chars": 9468,
+  "content_sha256": "de8819b458af2db0d95441d649985261f87fc37662a44580947f01cc8f72edd9",
+  "content_tokens": 2367,
   "fetched_at": "2026-10-03T11:39:44Z",
   "kind": "article",
   "published_at": "2026-10-02T14:04:49+00:00",
-  "snippet": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience Subscribe Sign in Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how…",
+  "snippet": "Prior to joining Airbnb as CTO in January, Ahmad Al-Dahle was head of generative AI at Meta and led the launch of its open source Llama models over 2023-2025. Now Al-Dahle is in charge of turning Airbnb into an “AI-native company”. What that means in practice is using AI…",
   "source_id": "latent-space",
   "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
   "top_terms": [
     [
       "airbnb",
-      28
-    ],
-    [
-      "al-dahle",
       21
     ],
     [
+      "al-dahle",
+      19
+    ],
+    [
       "models",
-      15
+      14
     ],
     [
       "said",
@@ -48,31 +48,11 @@
       7
     ],
     [
-      "across",
-      6
-    ],
-    [
-      "everest",
-      6
-    ],
-    [
-      "inside-out",
-      6
-    ],
-    [
-      "inside-out ai",
-      6
-    ],
-    [
       "model",
       6
     ],
     [
       "software",
-      6
-    ],
-    [
-      "teams",
       6
     ],
     [
@@ -89,6 +69,26 @@
     ],
     [
       "ai-native",
+      5
+    ],
+    [
+      "code",
+      5
+    ],
+    [
+      "everest",
+      5
+    ],
+    [
+      "open",
+      5
+    ],
+    [
+      "product",
+      5
+    ],
+    [
+      "services",
       5
     ]
   ],

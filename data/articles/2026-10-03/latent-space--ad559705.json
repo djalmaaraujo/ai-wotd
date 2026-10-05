@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--ad559705",
   "author": null,
-  "content_chars": 1012,
-  "content_sha256": "398a2c251b559e6bce9805f1759b9c607717e73142397c24d87aed2a170e0e6e",
-  "content_tokens": 253,
+  "content_chars": 324,
+  "content_sha256": "7bd0473688aef48c62ad142f1df4a317242c51fb095c75f10f8669a5101dea29",
+  "content_tokens": 81,
   "fetched_at": "2026-10-03T11:39:39Z",
   "kind": "article",
   "published_at": "2026-10-03T08:45:15+00:00",
-  "snippet": "Data - DeepSWE DeepSWE Blog Run Data GitHub Toggle theme Toggle theme v1.1 (latest) v1 Data Browse the data Outcomes from every (task, model) rollout in the DeepSWE benchmark and the cross-benchmark trajectory-analysis sample. Pivot the heatmap, scan the task catalog, or open…",
+  "snippet": "Data Browse the data Outcomes from every (task, model) rollout in the DeepSWE benchmark and the cross-benchmark trajectory-analysis sample. Pivot the heatmap, scan the task catalog, or open the trial table. Loading trial index…starting download tasks × model effortsclick a cell…",
   "source_id": "latent-space",
   "title": "Data - DeepSWE",
   "top_terms": [
     [
-      "avg",
-      12
-    ],
-    [
       "data",
-      6
-    ],
-    [
-      "trials",
-      6
-    ],
-    [
-      "model",
-      5
-    ],
-    [
-      "cost",
-      4
+      3
     ],
     [
       "deepswe",
-      4
+      2
     ],
     [
-      "tokens",
-      4
+      "model",
+      2
     ],
     [
-      "tokens avg",
-      4
+      "task",
+      2
+    ],
+    [
+      "trial",
+      2
+    ],
+    [
+      "and the cross-benchmark",
+      1
+    ],
+    [
+      "benchmark",
+      1
+    ],
+    [
+      "benchmark and",
+      1
+    ],
+    [
+      "benchmark and the",
+      1
+    ],
+    [
+      "browse",
+      1
+    ],
+    [
+      "browse the",
+      1
+    ],
+    [
+      "browse the data",
+      1
+    ],
+    [
+      "catalog",
+      1
+    ],
+    [
+      "cell",
+      1
+    ],
+    [
+      "cell to",
+      1
+    ],
+    [
+      "cell to filter",
+      1
     ],
     [
       "color",
-      3
+      1
     ],
     [
-      "tasks",
-      3
+      "color by",
+      1
     ],
     [
-      "all trials",
-      2
+      "cross-benchmark",
+      1
     ],
     [
-      "all trials exclude",
-      2
-    ],
-    [
-      "avg cost",
-      2
-    ],
-    [
-      "avg cost total",
-      2
-    ],
-    [
-      "avg duration",
-      2
-    ],
-    [
-      "avg duration trials",
-      2
-    ],
-    [
-      "avg input",
-      2
-    ],
-    [
-      "avg input tokens",
-      2
-    ],
-    [
-      "avg output",
-      2
-    ],
-    [
-      "avg output tokens",
-      2
+      "cross-benchmark trajectory-analysis",
+      1
     ]
   ],
   "url": "https://deepswe.datacurve.ai/data/v1.1",

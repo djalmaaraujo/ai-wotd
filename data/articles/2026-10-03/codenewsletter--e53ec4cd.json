@@ -1,26 +1,26 @@
 {
   "article_id": "codenewsletter--e53ec4cd",
   "author": "Code Newsletter",
-  "content_chars": 8687,
-  "content_sha256": "6dde16f911f0f0e339fb0412c45d882fb01307d0e9978f5e2e3be456e11e18f4",
-  "content_tokens": 2171,
+  "content_chars": 8046,
+  "content_sha256": "6e3288fad16b39a9837097467b2f9679bb9d4deea3d8984236f84126de6e87d1",
+  "content_tokens": 2011,
   "fetched_at": "2026-10-04T12:18:28Z",
   "kind": "article",
   "published_at": "2026-10-03T12:00:00+00:00",
-  "snippet": "How to get the most out of Claude Opus 5.5 Archive Resources Advertise Log in Subscribe Home Posts How to get the most out of Claude Opus 5.5 How to get the most out of Claude Opus 5.5 Also: 3 weekend projects with Opus 5.5 Oct 3, 2026 Welcome back. Almost every developer felt…",
+  "snippet": "Welcome back. Almost every developer felt frustrated with Anthropic's Opus 5 at some point, but Anthropic returned with something much better. Last week, Anthropic dropped Opus 5.5, and it quickly replaced Fable 5.1 as the daily driver for many engineers. Throughout the week…",
   "source_id": "codenewsletter",
   "title": "How to get the most out of Claude Opus 5.5",
   "top_terms": [
     [
       "opus",
-      23
+      19
     ],
     [
       "code",
-      16
+      15
     ],
     [
-      "claude",
+      "opus 5.5",
       15
     ],
     [
@@ -28,8 +28,8 @@
       14
     ],
     [
-      "copy",
-      11
+      "claude",
+      12
     ],
     [
       "every",
@@ -52,14 +52,6 @@
       6
     ],
     [
-      "claude opus",
-      6
-    ],
-    [
-      "email",
-      6
-    ],
-    [
       "link",
       6
     ],
@@ -76,6 +68,10 @@
       5
     ],
     [
+      "email",
+      5
+    ],
+    [
       "fix",
       5
     ],
@@ -84,12 +80,16 @@
       5
     ],
     [
-      "of claude",
+      "the model",
       5
     ],
     [
-      "the model",
-      5
+      "agents",
+      4
+    ],
+    [
+      "bugs",
+      4
     ]
   ],
   "url": "https://codenewsletter.ai/p/how-to-get-the-most-out-of-claude-opus-5-5",

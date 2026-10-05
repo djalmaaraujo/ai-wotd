@@ -8,35 +8,22 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 3,
-      "score": 360.762627,
+      "score": 327.512043,
       "term": "ggml-org",
-      "tf_today": 66
+      "tf_today": 63
     },
     {
       "articles": [
-        "latent-space--0169ef76",
         "latent-space--763ef10b",
         "latent-space--c0f4a398",
         "latent-space--dbecfa5c",
         "latent-space--e06cb042"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 5,
-      "score": 339.616306,
+      "df_today": 4,
+      "score": 281.888206,
       "term": "mtp",
-      "tf_today": 56
-    },
-    {
-      "articles": [
-        "latent-space--763ef10b",
-        "latent-space--9f864a85",
-        "latent-space--dbecfa5c"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 217.741094,
-      "term": "lessthanthreeai",
-      "tf_today": 44
+      "tf_today": 53
     },
     {
       "articles": [
@@ -48,208 +35,245 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 5,
-      "score": 201.886032,
+      "score": 171.249265,
       "term": "iq4",
-      "tf_today": 37
+      "tf_today": 34
+    },
+    {
+      "articles": [
+        "last-week-in-ai--5d8dc279",
+        "latent-space--7134af77",
+        "latent-space--763ef10b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 139.860302,
+      "term": "the phone",
+      "tf_today": 32
     },
     {
       "articles": [
         "latent-space--0169ef76",
-        "latent-space--763ef10b",
-        "latent-space--c0f4a398",
-        "latent-space--dbecfa5c",
-        "latent-space--e06cb042"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 5,
-      "score": 188.134744,
-      "term": "ggerganov",
-      "tf_today": 35
-    },
-    {
-      "articles": [
-        "latent-space--9f864a85",
-        "latent-space--dbecfa5c"
+        "latent-space--c0f4a398"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 178.251459,
-      "term": "lessthanthreeai qwen3.8",
-      "tf_today": 40
+      "score": 130.536282,
+      "term": "flash-next-gguf",
+      "tf_today": 32
     },
     {
       "articles": [
         "last-week-in-ai--2befa84d",
-        "last-week-in-ai--5d8dc279",
-        "last-week-in-ai--e3dda889"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 174.967894,
-      "term": "americans",
-      "tf_today": 37
-    },
-    {
-      "articles": [
-        "latent-space--0169ef76",
-        "latent-space--c0f4a398"
+        "last-week-in-ai--5d8dc279"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 161.508825,
-      "term": "flash-next-gguf",
-      "tf_today": 37
+      "score": 99.973718,
+      "term": "arms control",
+      "tf_today": 26
     },
     {
       "articles": [
-        "latent-space--0169ef76",
-        "latent-space--c0f4a398"
+        "latent-space--7134af77",
+        "latent-space--763ef10b"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 161.508825,
-      "term": "qwen3.8 flash-next-gguf",
-      "tf_today": 37
+      "score": 71.038857,
+      "term": "the mac",
+      "tf_today": 20
     },
     {
       "articles": [
         "latent-space--763ef10b",
         "latent-space--c0f4a398",
-        "latent-space--e06cb042"
+        "latent-space--dbecfa5c"
+      ],
+      "avg_tf_baseline": 3.3333,
+      "df_today": 3,
+      "score": 68.954586,
+      "term": "load",
+      "tf_today": 83
+    },
+    {
+      "articles": [
+        "latent-space--763ef10b",
+        "latent-space--c0f4a398"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 3,
-      "score": 157.146384,
-      "term": "unsloth qwen3.8",
-      "tf_today": 34
+      "df_today": 2,
+      "score": 57.325707,
+      "term": "qwen4exp",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "huggingface-blog--dced66be",
+        "last-week-in-ai--fa1cabf9",
+        "latent-space--0169ef76",
+        "latent-space--7134af77",
+        "latent-space--763ef10b",
+        "latent-space--9f864a85",
+        "latent-space--c0f4a398",
+        "latent-space--dbecfa5c",
+        "latent-space--e06cb042"
+      ],
+      "avg_tf_baseline": 8.0,
+      "df_today": 9,
+      "score": 56.038539,
+      "term": "qwen3.8",
+      "tf_today": 109
     }
   ],
   "date": "2026-10-03",
   "evidence_article_ids": [
-    "last-week-in-ai--067de7eb",
-    "last-week-in-ai--2befa84d",
-    "last-week-in-ai--55d6d187",
-    "latent-space--763ef10b"
+    "codenewsletter--e53ec4cd",
+    "huggingface-blog--dced66be",
+    "latent-space--1b8f1add",
+    "latent-space--7134af77",
+    "latent-space--763ef10b",
+    "latent-space--c0f4a398"
   ],
   "judge": {
-    "input_tokens": 21525,
+    "input_tokens": 30643,
     "model": "jev-1.13.0",
-    "pool_size": 42,
+    "pool_size": 58,
     "signals": {
-      "anthropic": {
-        "dominance": 2.75,
-        "event": 0.92,
-        "form": 0.86,
-        "novelty": 0.7,
-        "specificity": 1.06
-      },
-      "arms control": {
-        "dominance": 1.95,
-        "event": 0.23,
-        "form": 0.91,
-        "novelty": 0.65,
-        "specificity": 0.02
-      },
-      "compression": {
-        "dominance": 2.32,
-        "event": 0.91,
-        "form": 0.91,
-        "novelty": 0.77,
-        "specificity": 1.91
-      },
-      "deepseek-v4.1 flash": {
-        "dominance": 1.65,
-        "event": 0.52,
-        "form": 0.9,
-        "novelty": 0.81,
-        "specificity": 2.0
-      },
-      "flash": {
-        "dominance": 1.9,
-        "event": 0.8,
-        "form": 0.71,
-        "novelty": 0.76,
+      "agent": {
+        "dominance": 2.38,
+        "event": 0.85,
+        "form": 0.87,
+        "novelty": 0.54,
         "specificity": 1.73
       },
-      "ggml-org": {
-        "dominance": 1.88,
-        "event": 0.42,
-        "form": 0.45,
-        "novelty": 0.78,
-        "specificity": 1.59
+      "bessent": {
+        "dominance": 1.83,
+        "event": 0.66,
+        "form": 0.84,
+        "novelty": 0.71,
+        "specificity": 0.01
       },
-      "hugging face": {
-        "dominance": 1.93,
-        "event": 0.27,
-        "form": 0.74,
+      "bonsai 2": {
+        "dominance": 1.77,
+        "event": 0.86,
+        "form": 0.93,
+        "novelty": 0.78,
+        "specificity": 1.96
+      },
+      "cache compression": {
+        "dominance": 1.71,
+        "event": 0.82,
+        "form": 0.91,
+        "novelty": 0.68,
+        "specificity": 1.99
+      },
+      "claude opus 5": {
+        "dominance": 2.71,
+        "event": 0.78,
+        "form": 0.89,
+        "novelty": 0.64,
+        "specificity": 2.0
+      },
+      "claude opus 5.5": {
+        "dominance": 2.91,
+        "event": 0.69,
+        "form": 0.96,
         "novelty": 0.72,
-        "specificity": 1.58
+        "specificity": 2.0
       },
-      "lessthanthreeai qwen3.8": {
-        "dominance": 2.42,
-        "event": 0.34,
-        "form": 0.49,
-        "novelty": 0.78,
+      "compression": {
+        "dominance": 2.17,
+        "event": 0.92,
+        "form": 0.91,
+        "novelty": 0.72,
+        "specificity": 1.89
+      },
+      "fable-level": {
+        "dominance": 2.11,
+        "event": 0.64,
+        "form": 0.66,
+        "novelty": 0.74,
         "specificity": 1.9
       },
-      "model": {
-        "dominance": 2.83,
-        "event": 0.86,
-        "form": 0.79,
-        "novelty": 0.41,
-        "specificity": 1.17
-      },
-      "muse": {
-        "dominance": 2.75,
-        "event": 0.87,
-        "form": 0.9,
-        "novelty": 0.81,
-        "specificity": 1.93
-      },
-      "opus": {
-        "dominance": 2.34,
-        "event": 0.91,
-        "form": 0.86,
-        "novelty": 0.72,
-        "specificity": 1.95
-      },
-      "pew research center": {
+      "flash-next-gguf": {
         "dominance": 1.93,
-        "event": 0.37,
-        "form": 0.9,
-        "novelty": 0.7,
-        "specificity": 0.29
-      },
-      "qwen3.8 b-gguf": {
-        "dominance": 2.18,
-        "event": 0.38,
-        "form": 0.54,
+        "event": 0.22,
+        "form": 0.61,
         "novelty": 0.79,
         "specificity": 1.99
       },
-      "qwen3.8 flash-next-gguf": {
-        "dominance": 1.99,
-        "event": 0.25,
-        "form": 0.77,
-        "novelty": 0.8,
+      "footprint": {
+        "dominance": 1.97,
+        "event": 0.75,
+        "form": 0.85,
+        "novelty": 0.67,
+        "specificity": 1.6
+      },
+      "hugging face": {
+        "dominance": 2.59,
+        "event": 0.7,
+        "form": 0.71,
+        "novelty": 0.64,
+        "specificity": 1.12
+      },
+      "kv cache compression": {
+        "dominance": 1.63,
+        "event": 0.78,
+        "form": 0.92,
+        "novelty": 0.72,
         "specificity": 2.0
       },
-      "techcrunch": {
-        "dominance": 2.18,
-        "event": 0.84,
-        "form": 0.58,
-        "novelty": 0.62,
-        "specificity": 0.56
+      "meta": {
+        "dominance": 2.17,
+        "event": 0.9,
+        "form": 0.79,
+        "novelty": 0.64,
+        "specificity": 1.23
+      },
+      "model": {
+        "dominance": 2.9,
+        "event": 0.91,
+        "form": 0.8,
+        "novelty": 0.35,
+        "specificity": 1.28
+      },
+      "muse": {
+        "dominance": 2.25,
+        "event": 0.88,
+        "form": 0.92,
+        "novelty": 0.73,
+        "specificity": 1.86
+      },
+      "opus 5.5": {
+        "dominance": 2.92,
+        "event": 0.7,
+        "form": 0.93,
+        "novelty": 0.71,
+        "specificity": 2.0
+      },
+      "qwen3.8": {
+        "dominance": 2.74,
+        "event": 0.59,
+        "form": 0.88,
+        "novelty": 0.8,
+        "specificity": 2.0
       }
     },
     "status": "ok",
     "survivors": [
+      "claude opus 5.5",
+      "opus 5.5",
+      "qwen3.8",
+      "claude opus 5",
       "muse",
       "compression",
-      "opus",
-      "deepseek-v4.1 flash"
+      "bonsai 2",
+      "cache compression",
+      "kv cache compression"
     ]
   },
-  "score": 5.160861,
-  "word": "muse"
+  "label": "Claude Opus 5.5",
+  "score": 8.113986,
+  "word": "claude opus 5.5"
 }

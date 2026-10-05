@@ -1,30 +1,18 @@
 {
   "article_id": "last-week-in-ai--f748d074",
   "author": null,
-  "content_chars": 5101,
-  "content_sha256": "f4b10490f80fcab5a89be8a2bf0e6b7e6dced6d1e95ab502322fdea73cbd5723",
-  "content_tokens": 1275,
+  "content_chars": 2360,
+  "content_sha256": "e31e6a341fdbc95f039bc2ba1e73c00a9b3314cc7b62c7c3ae71c8fb3143683a",
+  "content_tokens": 590,
   "fetched_at": "2026-09-30T12:33:36Z",
   "kind": "article",
   "published_at": "2026-09-30T11:23:54+00:00",
-  "snippet": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes | TechCrunch –:–:–:– Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2 . Book Exhibit Table Now. Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT…",
+  "snippet": "Earlier this month, OpenAI launched GPT-6 Astra, which it heralded as its most powerful and capable model yet, and the “world’s best model” for a variety of activities, including computer work and coding. Now, the lab is expanding the GPT-6 generation with updated versions of…",
   "source_id": "last-week-in-ai",
   "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes | TechCrunch",
   "top_terms": [
     [
       "openai",
-      14
-    ],
-    [
-      "techcrunch",
-      11
-    ],
-    [
-      "luna",
-      10
-    ],
-    [
-      "sol",
       10
     ],
     [
@@ -32,64 +20,76 @@
       9
     ],
     [
+      "luna",
+      8
+    ],
+    [
+      "sol",
+      8
+    ],
+    [
       "and luna",
-      8
-    ],
-    [
-      "gpt-6",
-      8
-    ],
-    [
-      "sol and",
-      8
-    ],
-    [
-      "sol and luna",
-      8
-    ],
-    [
-      "lucas",
       6
     ],
     [
-      "chatgpt",
-      5
+      "gpt-6",
+      6
     ],
     [
-      "cost",
-      5
+      "sol and",
+      6
     ],
     [
-      "gpt-6 sol",
-      5
-    ],
-    [
-      "lower",
-      5
-    ],
-    [
-      "mistakes",
-      5
+      "sol and luna",
+      6
     ],
     [
       "anthropic",
-      4
+      3
     ],
     [
-      "astra",
-      4
+      "available",
+      3
     ],
     [
-      "disrupt",
-      4
+      "chatgpt",
+      3
     ],
     [
-      "gpt-6 sol and",
-      4
+      "coding",
+      3
     ],
     [
-      "lower cost",
-      4
+      "company",
+      3
+    ],
+    [
+      "cost",
+      3
+    ],
+    [
+      "gpt-6 sol",
+      3
+    ],
+    [
+      "lower",
+      3
+    ],
+    [
+      "mistakes",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "series",
+      3
+    ],
+    [
+      "tasks",
+      3
     ]
   ],
   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",

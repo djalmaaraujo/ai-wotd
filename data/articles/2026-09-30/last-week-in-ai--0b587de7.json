@@ -1,66 +1,38 @@
 {
   "article_id": "last-week-in-ai--0b587de7",
   "author": null,
-  "content_chars": 9559,
-  "content_sha256": "c04f69a81b71be4820e007128f4489ec7eec97ed800aae41a312ea8890e189f7",
-  "content_tokens": 2389,
+  "content_chars": 4054,
+  "content_sha256": "d27a2db02d6429375786a02a34f745b1e4add4c7d40aaa77212e412713140108",
+  "content_tokens": 1013,
   "fetched_at": "2026-09-30T12:33:38Z",
   "kind": "article",
   "published_at": "2026-09-30T11:23:54+00:00",
-  "snippet": "OpenAI Gets Sued Over the Hugging Face Hack | WIRED Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » Menu WIRED SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS Menu WIRED Account Account Newsletters Security Politics The Big Story Business Science…",
+  "snippet": "A legal nonprofit sued OpenAI in a California court on Tuesday over the company’s agents escaping a testing environment and hacking the open source AI platform Hugging Face. “OpenAI’s actions straightforwardly violated California law,” the suit alleges. The suit was filed by…",
   "source_id": "last-week-in-ai",
   "title": "OpenAI Gets Sued Over the Hugging Face Hack | WIRED",
   "top_terms": [
     [
       "openai",
-      25
-    ],
-    [
-      "wired",
-      20
-    ],
-    [
-      "agents",
-      11
+      14
     ],
     [
       "face",
-      10
+      8
     ],
     [
       "hugging",
-      10
+      8
     ],
     [
       "hugging face",
-      10
+      8
     ],
     [
-      "security",
-      9
+      "agents",
+      6
     ],
     [
       "california",
-      8
-    ],
-    [
-      "story",
-      8
-    ],
-    [
-      "rogue",
-      6
-    ],
-    [
-      "safety",
-      6
-    ],
-    [
-      "the hugging",
-      6
-    ],
-    [
-      "the hugging face",
       6
     ],
     [
@@ -68,28 +40,56 @@
       5
     ],
     [
-      "company",
-      5
+      "court",
+      4
     ],
     [
-      "hack",
-      5
+      "lasst",
+      4
     ],
     [
       "law",
-      5
+      4
     ],
     [
       "legal",
-      5
+      4
     ],
     [
-      "maxwell",
-      5
+      "suit",
+      4
     ],
     [
-      "maxwell zeff",
-      5
+      "the hugging",
+      4
+    ],
+    [
+      "the hugging face",
+      4
+    ],
+    [
+      "the suit",
+      4
+    ],
+    [
+      "actions",
+      3
+    ],
+    [
+      "amid",
+      3
+    ],
+    [
+      "anything",
+      3
+    ],
+    [
+      "florida",
+      3
+    ],
+    [
+      "given",
+      3
     ]
   ],
   "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",

@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--99be6547",
   "author": null,
-  "content_chars": 20019,
-  "content_sha256": "f0920fc68c3bbfab568bf06a9e7e203318c7e9e01cd408bcbc99a1b1ab9c4392",
-  "content_tokens": 5004,
+  "content_chars": 10960,
+  "content_sha256": "f699a98990f4c41121be07bcc5091bb672b27c7b5e0cbe59c72256827c57afdc",
+  "content_tokens": 2740,
   "fetched_at": "2026-09-29T12:52:08Z",
   "kind": "article",
   "published_at": "2026-09-29T01:48:18+00:00",
-  "snippet": "Introducing Claude Sonnet 5.5 \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Introduction Performance Cost Safety Getting started Claude Sonnet 5.5 September 28, 2026 (1) Introduction (2) Performance and cost (3) Safety (4)…",
+  "snippet": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Sonnet 5.5 is a faster, lower-cost complement to Claude Opus 5.5. Where Opus 5.5 is built for complex…",
   "source_id": "latent-space",
   "title": "Introducing Claude Sonnet 5.5 \\ Anthropic",
   "top_terms": [
     [
       "sonnet",
-      123
+      64
+    ],
+    [
+      "sonnet 5.5",
+      38
     ],
     [
       "claude",
-      66
+      24
+    ],
+    [
+      "sonnet 5",
+      21
     ],
     [
       "opus",
-      29
-    ],
-    [
-      "work",
-      28
-    ],
-    [
-      "claude sonnet",
-      26
-    ],
-    [
-      "cost",
-      23
-    ],
-    [
-      "coding",
-      22
-    ],
-    [
-      "task",
       19
     ],
     [
-      "model",
+      "opus 5.5",
       18
     ],
     [
-      "company",
-      15
+      "work",
+      16
     ],
     [
       "effort",
-      15
+      11
+    ],
+    [
+      "model",
+      11
     ],
     [
       "models",
-      14
+      10
     ],
     [
-      "per task",
-      14
+      "safeguards",
+      9
     ],
     [
-      "score",
-      14
-    ],
-    [
-      "agentic",
-      13
-    ],
-    [
-      "author",
-      13
-    ],
-    [
-      "quote",
-      13
+      "scores",
+      9
     ],
     [
       "tokens",
-      13
+      9
     ],
     [
-      "cost per",
-      12
+      "cost",
+      8
     ],
     [
-      "fewer",
-      12
+      "task",
+      8
+    ],
+    [
+      "tools",
+      8
+    ],
+    [
+      "alignment",
+      7
+    ],
+    [
+      "per task",
+      7
+    ],
+    [
+      "score",
+      7
+    ],
+    [
+      "across",
+      6
     ]
   ],
   "url": "https://www.anthropic.com/claude-sonnet-5-5",

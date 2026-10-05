@@ -1,35 +1,35 @@
 {
   "article_id": "ai-snake-oil--f5bcbcf5",
   "author": "Arvind Narayanan",
-  "content_chars": 41808,
-  "content_sha256": "78bc6d38ef22fb8587bf1a3667fda252dcc99a11296b3cb1e87ed400221ea39c",
-  "content_tokens": 10452,
+  "content_chars": 39303,
+  "content_sha256": "daba7961c807298c34bb9186a0790f3c8774bbea07b10cdc799315e00197040e",
+  "content_tokens": 9825,
   "fetched_at": "2026-09-28T13:52:29Z",
   "kind": "article",
   "published_at": "2026-09-28T11:13:47+00:00",
-  "snippet": "AI existential risk probabilities are (still) too unreliable to inform policy Subscribe Sign in AI existential risk probabilities are (still) too unreliable to inform policy How speculation gets laundered through pseudo-quantification Arvind Narayanan and Sayash Kapoor Sep 28…",
+  "snippet": "Over two years ago we wrote a detailed deconstruction of p(doom) and argued that its primary effect is to launder vague intuitions and fears through a facade of quantification. The essay has fresh relevance today as p(doom) rhetoric is driving public discourse and policy…",
   "source_id": "ai-snake-oil",
   "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
   "top_terms": [
     [
       "x-risk",
-      42
-    ],
-    [
-      "risk",
       40
     ],
     [
+      "risk",
+      38
+    ],
+    [
       "forecasting",
-      37
+      36
     ],
     [
       "forecasts",
-      32
+      31
     ],
     [
       "estimates",
-      30
+      28
     ],
     [
       "forecasters",
@@ -37,10 +37,6 @@
     ],
     [
       "probability",
-      28
-    ],
-    [
-      "ai x-risk",
       27
     ],
     [
@@ -48,48 +44,52 @@
       26
     ],
     [
+      "ai x-risk",
+      25
+    ],
+    [
       "events",
       22
     ],
     [
       "reference",
-      20
+      19
     ],
     [
       "class",
-      19
-    ],
-    [
-      "probabilities",
-      19
-    ],
-    [
-      "evidence",
       18
     ],
     [
-      "people",
+      "evidence",
       17
     ],
     [
-      "reference class",
+      "probabilities",
       17
-    ],
-    [
-      "estimate",
-      16
-    ],
-    [
-      "existential",
-      16
     ],
     [
       "forecast",
       16
     ],
     [
-      "policy",
+      "people",
       16
+    ],
+    [
+      "reference class",
+      16
+    ],
+    [
+      "safety",
+      16
+    ],
+    [
+      "estimate",
+      15
+    ],
+    [
+      "ai safety",
+      14
     ]
   ],
   "url": "https://www.normaltech.ai/p/p-doom",

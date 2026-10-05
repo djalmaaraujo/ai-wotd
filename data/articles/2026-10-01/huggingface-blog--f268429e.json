@@ -1,34 +1,38 @@
 {
   "article_id": "huggingface-blog--f268429e",
   "author": "Hugging Face Blog",
-  "content_chars": 9800,
-  "content_sha256": "0c69fa9127def6803abdb808f449535ff10f646ed0b4299e98145a7b68635534",
-  "content_tokens": 2450,
+  "content_chars": 8251,
+  "content_sha256": "b3fd970fe60fbe55c9cbf0d626c5fa12697e1c8c706e69f2c7c7058c93570950",
+  "content_tokens": 2062,
   "fetched_at": "2026-10-02T12:30:10Z",
   "kind": "article",
   "published_at": "2026-10-01T15:01:43+00:00",
-  "snippet": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum…",
+  "snippet": "Today we’re releasing Olmo-core 3, a significant upgrade to our framework for developing large language models featuring a redesigned open mixture-of-experts (MoE) training system. Olmo-core 3 is designed to scale MoE training into the trillion-parameter range while preserving…",
   "source_id": "huggingface-blog",
   "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
   "top_terms": [
     [
       "training",
-      32
+      26
     ],
     [
       "olmo-core",
-      20
+      18
     ],
     [
       "model",
       17
     ],
     [
-      "moe",
-      15
+      "olmo-core 3",
+      16
     ],
     [
       "across",
+      13
+    ],
+    [
+      "moe",
       13
     ],
     [
@@ -44,35 +48,15 @@
       12
     ],
     [
-      "open",
-      11
-    ],
-    [
       "experts",
       10
-    ],
-    [
-      "moes",
-      10
-    ],
-    [
-      "work",
-      9
-    ],
-    [
-      "models",
-      8
-    ],
-    [
-      "olmo",
-      8
     ],
     [
       "expert",
       7
     ],
     [
-      "large",
+      "open",
       7
     ],
     [
@@ -84,12 +68,28 @@
       7
     ],
     [
-      "stack",
+      "throughput",
       7
     ],
     [
-      "system",
+      "work",
       7
+    ],
+    [
+      "computation",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "moes",
+      6
+    ],
+    [
+      "olmo",
+      6
     ]
   ],
   "url": "https://huggingface.co/blog/allenai/olmocore3",

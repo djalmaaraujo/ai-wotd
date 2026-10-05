@@ -1,83 +1,35 @@
 {
   "article_id": "last-week-in-ai--cefab74f",
   "author": null,
-  "content_chars": 5575,
-  "content_sha256": "3229f83ba0c214a7c78e62e572ea152dc2e2c0dc809bc6fe8dd3fbf98c0c1c9f",
-  "content_tokens": 1393,
+  "content_chars": 2689,
+  "content_sha256": "872b0c13071220a6aaa8c569436ad9eb32e74c08121b990f98043b2766b26f52",
+  "content_tokens": 672,
   "fetched_at": "2026-10-03T11:39:47Z",
   "kind": "article",
   "published_at": "2026-10-03T07:32:03+00:00",
-  "snippet": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance | TechCrunch –:–:–:– Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct. 13. Get your pass and bring someone with you at…",
+  "snippet": "Anthropic’s newest model, Opus 5.5, was released on Tuesday, setting a new state-of-the-art in coding and knowledge work performance, according to the company. Opus is the most capable and expensive tier in Anthropic’s three-tier Claude lineup; Sonnet sits in the middle, while…",
   "source_id": "last-week-in-ai",
   "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance | TechCrunch",
   "top_terms": [
     [
       "opus",
-      13
-    ],
-    [
-      "anthropic",
       10
     ],
     [
-      "techcrunch",
-      9
+      "anthropic",
+      7
     ],
     [
       "model",
-      8
+      7
     ],
     [
-      "disrupt",
-      5
-    ],
-    [
-      "next",
-      5
-    ],
-    [
-      "performance",
-      5
-    ],
-    [
-      "brandom",
-      4
-    ],
-    [
-      "policy",
-      4
+      "opus 5.5",
+      7
     ],
     [
       "release",
       4
-    ],
-    [
-      "releases",
-      4
-    ],
-    [
-      "russell",
-      4
-    ],
-    [
-      "russell brandom",
-      4
-    ],
-    [
-      "and fable-level",
-      3
-    ],
-    [
-      "and fable-level performance",
-      3
-    ],
-    [
-      "anthropic releases",
-      3
-    ],
-    [
-      "anthropic releases opus",
-      3
     ],
     [
       "capabilities",
@@ -88,8 +40,56 @@
       3
     ],
     [
-      "fable-level",
+      "performance",
       3
+    ],
+    [
+      "similar",
+      3
+    ],
+    [
+      "systems",
+      3
+    ],
+    [
+      "according",
+      2
+    ],
+    [
+      "according to",
+      2
+    ],
+    [
+      "according to the",
+      2
+    ],
+    [
+      "alignment",
+      2
+    ],
+    [
+      "amodei",
+      2
+    ],
+    [
+      "anthropic says",
+      2
+    ],
+    [
+      "capable",
+      2
+    ],
+    [
+      "company",
+      2
+    ],
+    [
+      "evaluation",
+      2
+    ],
+    [
+      "fable model",
+      2
     ]
   ],
   "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",

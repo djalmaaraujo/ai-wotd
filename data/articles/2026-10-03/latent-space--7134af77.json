@@ -1,30 +1,34 @@
 {
   "article_id": "latent-space--7134af77",
   "author": null,
-  "content_chars": 15516,
-  "content_sha256": "fb7fc10f174edfc5a60d22fb5fa457c4c53eebfeadb81e9c4659445965177a32",
-  "content_tokens": 3879,
+  "content_chars": 13283,
+  "content_sha256": "edfa95404722733ce75d310dec74812a1ed5a9ea26e71a118663a39d5dbeb4d6",
+  "content_tokens": 3320,
   "fetched_at": "2026-10-03T11:39:38Z",
   "kind": "article",
   "published_at": "2026-10-03T08:45:15+00:00",
-  "snippet": "GitHub - StayLameBro/backburner: Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub…",
+  "snippet": "Plug your iPhone into your MacBook with a 10 Gb/s USB-C cable and it helps run Qwen3.8-27B locally: - Faster prefill (up to 64k context). For every batch of prompt tokens the Mac runs layers 1-40 and the iPhone runs 41-64 on its GPU, pipelined. Your agent waits less every time…",
   "source_id": "latent-space",
   "title": "GitHub - StayLameBro/backburner: Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable · GitHub",
   "top_terms": [
     [
       "mac",
-      37
+      39
     ],
     [
       "phone",
-      29
+      37
     ],
     [
       "iphone",
-      28
+      26
     ],
     [
       "the phone",
+      24
+    ],
+    [
+      "the mac",
       19
     ],
     [
@@ -36,39 +40,23 @@
       17
     ],
     [
-      "github",
-      16
-    ],
-    [
-      "model",
-      16
-    ],
-    [
-      "backburner",
-      15
-    ],
-    [
       "past",
-      15
-    ],
-    [
-      "prefill",
-      15
-    ],
-    [
-      "the mac",
-      15
+      16
     ],
     [
       "bit",
       14
     ],
     [
-      "cpp",
+      "layers",
       14
     ],
     [
-      "scripts",
+      "model",
+      14
+    ],
+    [
+      "prefill",
       14
     ],
     [
@@ -76,20 +64,32 @@
       13
     ],
     [
-      "context",
-      13
-    ],
-    [
       "engine",
       13
     ],
     [
-      "layers",
+      "gb",
       13
     ],
     [
-      "sh",
+      "gpu",
       13
+    ],
+    [
+      "app",
+      12
+    ],
+    [
+      "backburner",
+      12
+    ],
+    [
+      "cpp",
+      12
+    ],
+    [
+      "phone's",
+      12
     ]
   ],
   "url": "https://github.com/StayLameBro/backburner",

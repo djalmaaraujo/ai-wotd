@@ -1,23 +1,23 @@
 {
   "article_id": "latent-space--cbc79b4b",
   "author": null,
-  "content_chars": 3979,
-  "content_sha256": "2e29889240014675b152e696cf9131b96946fce5c0fc2c44bb97ab48b0f8fef6",
-  "content_tokens": 994,
+  "content_chars": 3358,
+  "content_sha256": "f79a770f925167795c828f06552785c0ac77af87d666e2e2a13aa8b047f8f393",
+  "content_tokens": 839,
   "fetched_at": "2026-10-02T12:32:58Z",
   "kind": "article",
   "published_at": "2026-10-02T06:40:53+00:00",
-  "snippet": "Pi 1.0 | Earendil MENU Purpose Values Join Us Posts RFC Pi Radius Lefos Works Pi 1.0 Date: Thu, 01 Oct 2026 From: Earendil < rfc@earendil.com > To: You Subject: Pi 1.0 Today we are proudly shipping Pi 1.0: a hardened, minimal, extensible agent harness that you can make your own…",
+  "snippet": "Pi 1.0 Today we are proudly shipping Pi 1.0: a hardened, minimal, extensible agent harness that you can make your own. Hundreds of thousands of people around the world use Pi every week. Many of you submit issues and pull requests. Over the course of many months, we have used…",
   "source_id": "latent-space",
   "title": "Pi 1.0 | Earendil",
   "top_terms": [
     [
       "pi",
-      31
+      26
     ],
     [
-      "earendil",
-      7
+      "pi 1.0",
+      6
     ],
     [
       "durable",
@@ -64,11 +64,11 @@
       3
     ],
     [
-      "codemode",
+      "dev",
       3
     ],
     [
-      "dev",
+      "earendil",
       3
     ],
     [
@@ -80,15 +80,15 @@
       3
     ],
     [
-      "jev",
-      3
-    ],
-    [
       "minimal",
       3
     ],
     [
-      "model",
+      "support",
+      3
+    ],
+    [
+      "we are shipping",
       3
     ]
   ],

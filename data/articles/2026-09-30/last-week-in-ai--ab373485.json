@@ -1,47 +1,31 @@
 {
   "article_id": "last-week-in-ai--ab373485",
   "author": null,
-  "content_chars": 6644,
-  "content_sha256": "70214196b04c74ed86182d681f81eb2756e1c453640d9cd6e2352c17ec26aa7c",
-  "content_tokens": 1661,
+  "content_chars": 3833,
+  "content_sha256": "416d79f41f08757d7dd81501ec64c34346332933b519dbf9d945efe192cdf0b4",
+  "content_tokens": 958,
   "fetched_at": "2026-09-30T12:33:37Z",
   "kind": "article",
   "published_at": "2026-09-30T11:23:54+00:00",
-  "snippet": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity | TechCrunch –:–:–:– Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2 . Book Exhibit Table Now. Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT…",
+  "snippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the sheer breadth of the reports is alarming, as they cover many types of rogue behavior over a long period of time. So far, the site hosts nine reported incidents, most of which took place during…",
   "source_id": "last-week-in-ai",
   "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity | TechCrunch",
   "top_terms": [
     [
-      "openai",
-      12
-    ],
-    [
       "agent",
-      9
+      8
     ],
     [
-      "techcrunch",
-      9
+      "openai",
+      8
     ],
     [
       "incidents",
       7
     ],
     [
-      "rogue",
-      7
-    ],
-    [
-      "still",
-      7
-    ],
-    [
       "email",
       6
-    ],
-    [
-      "activity",
-      5
     ],
     [
       "far",
@@ -56,27 +40,15 @@
       5
     ],
     [
-      "site",
+      "rogue",
+      5
+    ],
+    [
+      "still",
       5
     ],
     [
       "behavior",
-      4
-    ],
-    [
-      "brandom",
-      4
-    ],
-    [
-      "disrupt",
-      4
-    ],
-    [
-      "handle",
-      4
-    ],
-    [
-      "handle on",
       4
     ],
     [
@@ -88,8 +60,36 @@
       4
     ],
     [
-      "russell",
+      "so far",
       4
+    ],
+    [
+      "the email",
+      4
+    ],
+    [
+      "activity",
+      3
+    ],
+    [
+      "alarming",
+      3
+    ],
+    [
+      "altman",
+      3
+    ],
+    [
+      "attack",
+      3
+    ],
+    [
+      "incident",
+      3
+    ],
+    [
+      "injection",
+      3
     ]
   ],
   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",

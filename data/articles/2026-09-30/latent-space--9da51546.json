@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--9da51546",
   "author": null,
-  "content_chars": 19212,
-  "content_sha256": "18b823a6b9685bb0ed70c8072db5bbc954f3bc3df330388bd5b7da25aa64bb3f",
-  "content_tokens": 4803,
+  "content_chars": 3011,
+  "content_sha256": "2ad62d254641ba1d8067d23598cabebfb451f7a9c20af836b0ec7a1c71693318",
+  "content_tokens": 752,
   "fetched_at": "2026-09-30T12:33:33Z",
   "kind": "article",
   "published_at": "2026-09-30T05:53:10+00:00",
-  "snippet": "Ultrafast mode | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models…",
+  "snippet": "Ultrafast mode is the fastest service tier in the OpenAI API. It is broadly available for GPT-6 Astra, with preview access for GPT-5.6 Sol. Use it when speed justifies the higher cost. We strongly recommend WebSockets, especially for agentic applications that make many tool…",
   "source_id": "latent-space",
   "title": "Ultrafast mode | OpenAI API",
   "top_terms": [
     [
-      "openai",
-      40
-    ],
-    [
-      "overview",
-      36
-    ],
-    [
-      "api",
-      35
-    ],
-    [
-      "codex",
-      32
-    ],
-    [
       "response",
-      32
+      17
     ],
     [
-      "chatgpt",
-      31
-    ],
-    [
-      "agents",
-      22
+      "openai",
+      11
     ],
     [
       "ultrafast",
-      21
+      10
     ],
     [
-      "client",
-      17
-    ],
-    [
-      "docs",
-      17
-    ],
-    [
-      "model",
-      17
-    ],
-    [
-      "responses",
-      17
-    ],
-    [
-      "security",
-      17
-    ],
-    [
-      "models",
-      15
-    ],
-    [
-      "reference",
-      15
-    ],
-    [
-      "mode",
-      14
+      "connection",
+      8
     ],
     [
       "event",
-      13
+      8
     ],
     [
-      "message",
-      13
+      "id",
+      7
     ],
     [
-      "started",
-      13
+      "tier",
+      7
     ],
     [
-      "build",
-      12
+      "api",
+      5
+    ],
+    [
+      "previous",
+      5
+    ],
+    [
+      "client",
+      4
+    ],
+    [
+      "input",
+      4
+    ],
+    [
+      "output",
+      4
+    ],
+    [
+      "service",
+      4
+    ],
+    [
+      "astra",
+      3
+    ],
+    [
+      "create",
+      3
+    ],
+    [
+      "explain",
+      3
+    ],
+    [
+      "explain why",
+      3
+    ],
+    [
+      "gpt-6",
+      3
+    ],
+    [
+      "gpt-6 astra",
+      3
+    ],
+    [
+      "gpt-6-astra",
+      3
     ]
   ],
   "url": "https://developers.openai.com/api/docs/guides/ultrafast-mode",

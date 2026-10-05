@@ -1,35 +1,31 @@
 {
   "article_id": "last-week-in-ai--652dc2b9",
   "author": null,
-  "content_chars": 7490,
-  "content_sha256": "510bb40f91ed3b8cd96cb423f5b91fec5caf7ece5ff228a0b57e6d109037cbd9",
-  "content_tokens": 1872,
+  "content_chars": 5912,
+  "content_sha256": "7a8361d6767840f773995f8ca6c7f1aa05810a04bf7fdc79409503eae90ffe4a",
+  "content_tokens": 1478,
   "fetched_at": "2026-10-03T11:39:47Z",
   "kind": "article",
   "published_at": "2026-10-03T07:32:03+00:00",
-  "snippet": "Making frontier cybersecurity capabilities available to defenders \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Announcements Making frontier cybersecurity capabilities available to defenders Feb 20, 2026 Claude Code Security…",
+  "snippet": "Making frontier cybersecurity capabilities available to defenders Claude Code Security, a new capability built into Claude Code on the web, is now available in a limited research preview. It scans codebases for security vulnerabilities and suggests targeted software patches for…",
   "source_id": "last-week-in-ai",
   "title": "Making frontier cybersecurity capabilities available to defenders \\ Anthropic",
   "top_terms": [
     [
       "claude",
-      45
+      27
     ],
     [
       "code",
-      22
+      19
     ],
     [
       "security",
-      21
+      18
     ],
     [
       "claude code",
-      14
-    ],
-    [
-      "anthropic",
-      10
+      12
     ],
     [
       "claude code security",
@@ -45,26 +41,10 @@
     ],
     [
       "capabilities",
-      8
-    ],
-    [
-      "policy",
-      8
-    ],
-    [
-      "cybersecurity",
       7
     ],
     [
-      "research",
-      7
-    ],
-    [
-      "defenders",
-      6
-    ],
-    [
-      "frontier",
+      "anthropic",
       6
     ],
     [
@@ -72,15 +52,19 @@
       6
     ],
     [
-      "access",
+      "cybersecurity",
       5
     ],
     [
-      "available",
+      "defenders",
       5
     ],
     [
-      "enterprise",
+      "frontier",
+      5
+    ],
+    [
+      "research",
       5
     ],
     [
@@ -90,6 +74,22 @@
     [
       "teams",
       5
+    ],
+    [
+      "access",
+      4
+    ],
+    [
+      "available",
+      4
+    ],
+    [
+      "finding",
+      4
+    ],
+    [
+      "findings",
+      4
     ]
   ],
   "url": "https://www.anthropic.com/news/claude-code-security",

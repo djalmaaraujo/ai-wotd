@@ -1,79 +1,31 @@
 {
   "article_id": "last-week-in-ai--948cc3e2",
   "author": null,
-  "content_chars": 8346,
-  "content_sha256": "3693bdc13dd4b4a83b81f009c35c62a1f8fd5a96c28e1825bf7ca4f3cda5f053",
-  "content_tokens": 2086,
+  "content_chars": 5152,
+  "content_sha256": "6237beb3bd7e55de0478d4b033b129784cea9c462529437283feaf0fb8f42e58",
+  "content_tokens": 1288,
   "fetched_at": "2026-10-03T11:39:47Z",
   "kind": "article",
   "published_at": "2026-10-03T07:32:03+00:00",
-  "snippet": "A new kind of AI model from a ChatGPT inventor is thrilling developers | TechCrunch –:–:–:– Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now. Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50%…",
+  "snippet": "ChatGPT broke Diogo Almeida’s heart. Almeida was an OpenAI researcher who helped build the chatbot and then invent reinforcement learning from human feedback (RLHF), the model-training technique perhaps most responsible for our current age of AI. But despite its capabilities, he…",
   "source_id": "last-week-in-ai",
   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers | TechCrunch",
   "top_terms": [
     [
       "model",
-      17
-    ],
-    [
-      "jev",
       13
     ],
     [
-      "techcrunch",
-      11
+      "jev",
+      12
     ],
     [
       "almeida",
       10
     ],
     [
-      "tim",
-      9
-    ],
-    [
       "company",
       7
-    ],
-    [
-      "openai",
-      7
-    ],
-    [
-      "chatgpt",
-      6
-    ],
-    [
-      "fernholz",
-      6
-    ],
-    [
-      "tim fernholz",
-      6
-    ],
-    [
-      "typesafe",
-      6
-    ],
-    [
-      "data",
-      5
-    ],
-    [
-      "developers",
-      5
-    ],
-    [
-      "disrupt",
-      5
-    ],
-    [
-      "kind",
-      5
-    ],
-    [
-      "kind of",
-      5
     ],
     [
       "language",
@@ -84,12 +36,60 @@
       5
     ],
     [
+      "data",
+      4
+    ],
+    [
       "llm",
       4
     ],
     [
-      "next",
+      "openai",
       4
+    ],
+    [
+      "problem",
+      4
+    ],
+    [
+      "software",
+      4
+    ],
+    [
+      "the company",
+      4
+    ],
+    [
+      "the model",
+      4
+    ],
+    [
+      "useful",
+      4
+    ],
+    [
+      "chatgpt",
+      3
+    ],
+    [
+      "cost",
+      3
+    ],
+    [
+      "developers",
+      3
+    ],
+    [
+      "expensive",
+      3
+    ],
+    [
+      "human",
+      3
+    ],
+    [
+      "kind",
+      3
     ]
   ],
   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",

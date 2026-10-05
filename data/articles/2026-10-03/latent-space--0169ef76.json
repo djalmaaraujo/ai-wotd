@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--0169ef76",
   "author": null,
-  "content_chars": 6523,
-  "content_sha256": "39b51d36a6dba0423df2257151def496a74f56c2a5fc05be0abd38b59baa7872",
-  "content_tokens": 1630,
+  "content_chars": 4973,
+  "content_sha256": "be92db6fdb7548ab727c9cdb08a5d559e41200f66bc97801659c5351929edff0",
+  "content_tokens": 1243,
   "fetched_at": "2026-10-03T11:39:42Z",
   "kind": "article",
   "published_at": "2026-10-03T08:45:15+00:00",
-  "snippet": "ggml-org/Qwen3.8-Flash-Next-GGUF · Hugging Face Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise…",
+  "snippet": "- Notebooks - Google Colab - Kaggle - Local Apps Settings - llama.cpp How to use ggml-org/Qwen3.8-Flash-Next-GGUF with llama.cpp: Install (macOS, Linux) curl -LsSf https://llama.app/install.sh | sh # Start a local OpenAI-compatible server with a web UI: llama serve -hf…",
   "source_id": "latent-space",
   "title": "ggml-org/Qwen3.8-Flash-Next-GGUF · Hugging Face",
   "top_terms": [
     [
       "qwen3.8",
-      40
-    ],
-    [
-      "ggml-org",
-      37
+      31
     ],
     [
       "flash-next-gguf",
-      35
+      30
     ],
     [
-      "ggml-org qwen3.8",
-      35
-    ],
-    [
-      "ggml-org qwen3.8 flash-next-gguf",
-      35
-    ],
-    [
-      "qwen3.8 flash-next-gguf",
-      35
+      "ggml-org",
+      30
     ],
     [
       "llama",
-      25
-    ],
-    [
-      "model",
-      22
+      23
     ],
     [
       "nl",
-      21
-    ],
-    [
-      "iq4",
       20
-    ],
-    [
-      "iq4 nl",
-      20
-    ],
-    [
-      "flash-next-gguf iq4",
-      19
-    ],
-    [
-      "flash-next-gguf iq4 nl",
-      19
     ],
     [
       "install",
       19
     ],
     [
-      "qwen3.8 flash-next-gguf iq4",
+      "iq4",
       19
-    ],
-    [
-      "hf",
-      16
     ],
     [
       "cpp",
       15
     ],
     [
-      "llama cpp",
+      "hf",
       15
     ],
     [
-      "run",
+      "model",
       14
     ],
     [
       "server",
       14
+    ],
+    [
+      "run",
+      13
+    ],
+    [
+      "local",
+      12
+    ],
+    [
+      "start",
+      12
+    ],
+    [
+      "hermes",
+      11
+    ],
+    [
+      "hf ggml-org",
+      11
+    ],
+    [
+      "flash-next-gguf with",
+      8
+    ],
+    [
+      "openai-compatible",
+      8
+    ],
+    [
+      "openclaw",
+      8
+    ],
+    [
+      "pi",
+      8
     ]
   ],
   "url": "https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF",

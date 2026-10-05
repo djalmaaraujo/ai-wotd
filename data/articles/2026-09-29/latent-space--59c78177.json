@@ -1,59 +1,55 @@
 {
   "article_id": "latent-space--59c78177",
   "author": null,
-  "content_chars": 41400,
-  "content_sha256": "04ff2ac1f4c0988a1aebb7d099cf52beca5c13857a6e2b60400b2505e51b90df",
-  "content_tokens": 10350,
+  "content_chars": 36881,
+  "content_sha256": "53175c394f40dd9ad4638b492b4fa50ec21b5b9eb07a2aaeefb73a03f901a873",
+  "content_tokens": 9220,
   "fetched_at": "2026-09-29T12:52:04Z",
   "kind": "article",
   "published_at": "2026-09-29T02:44:29+00:00",
-  "snippet": "On-Policy Distillation - Thinking Machines Lab THINKING MACHINES Inkling Tinker Connectionism News Join us Home Inkling Tinker Connectionism News Join us On-Policy Distillation Kevin Lu in collaboration with others at Thinking Machines Oct 27, 2025 On-policy distillation — best…",
+  "snippet": "LLMs are capable of expert performance in focused domains, a result of several capabilities stacked together: perception of input, knowledge retrieval, plan selection, and reliable execution. This requires a stack of training approaches, which we can divide into three broad…",
   "source_id": "latent-space",
   "title": "On-Policy Distillation - Thinking Machines Lab",
   "top_terms": [
     [
       "distillation",
-      99
+      79
     ],
     [
       "model",
-      77
-    ],
-    [
-      "on-policy",
       76
     ],
     [
-      "teacher",
-      71
+      "on-policy",
+      61
     ],
     [
       "training",
-      66
+      59
     ],
     [
-      "on-policy distillation",
-      54
+      "teacher",
+      58
     ],
     [
       "student",
-      47
+      43
     ],
     [
-      "learning",
-      46
+      "on-policy distillation",
+      40
     ],
     [
       "rl",
-      41
+      40
+    ],
+    [
+      "learning",
+      36
     ],
     [
       "the student",
       35
-    ],
-    [
-      "performance",
-      32
     ],
     [
       "al",
@@ -69,27 +65,31 @@
     ],
     [
       "models",
-      31
-    ],
-    [
-      "kl",
-      30
+      29
     ],
     [
       "the teacher",
-      30
+      29
+    ],
+    [
+      "kl",
+      24
     ],
     [
       "data",
-      28
+      23
+    ],
+    [
+      "performance",
+      23
     ],
     [
       "knowledge",
-      24
+      21
     ],
     [
       "off-policy",
-      24
+      21
     ]
   ],
   "url": "https://thinkingmachines.ai/blog/on-policy-distillation",

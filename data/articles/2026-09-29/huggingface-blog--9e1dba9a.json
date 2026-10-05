@@ -1,31 +1,19 @@
 {
   "article_id": "huggingface-blog--9e1dba9a",
   "author": "Hugging Face Blog",
-  "content_chars": 12145,
-  "content_sha256": "4d423e3aea783d9f3244bfdc0fdfd633ef506990e39b5d92881ebcca1916edd0",
-  "content_tokens": 3036,
+  "content_chars": 9883,
+  "content_sha256": "184a889fae13f0843e32c4e980916221b238fdaa35fed33b8f26bc4c82543dd0",
+  "content_tokens": 2470,
   "fetched_at": "2026-09-30T12:30:46Z",
   "kind": "article",
   "published_at": "2026-09-29T15:30:38+00:00",
-  "snippet": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum…",
+  "snippet": "NVIDIA Kumo Tabular, part of the NVIDIA Kumo Structured model collection, is an open foundation model for tabular data now available on Hugging Face. Given a table of labeled rows, it predicts the labels of new rows in a single forward pass, with no training, no tuning, and no…",
   "source_id": "huggingface-blog",
   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
   "top_terms": [
     [
       "tabular",
-      36
-    ],
-    [
-      "kumo",
-      29
-    ],
-    [
-      "nvidia",
-      29
-    ],
-    [
-      "kumo tabular",
-      26
+      24
     ],
     [
       "model",
@@ -36,16 +24,16 @@
       22
     ],
     [
+      "kumo",
+      21
+    ],
+    [
+      "kumo tabular",
+      18
+    ],
+    [
       "table",
       15
-    ],
-    [
-      "follow",
-      14
-    ],
-    [
-      "follow nvidia",
-      13
     ],
     [
       "tables",
@@ -60,20 +48,16 @@
       12
     ],
     [
-      "models",
-      11
+      "columns",
+      10
     ],
     [
-      "columns",
+      "nvidia",
       10
     ],
     [
       "attention",
       9
-    ],
-    [
-      "prediction",
-      8
     ],
     [
       "classification",
@@ -89,6 +73,22 @@
     ],
     [
       "first",
+      7
+    ],
+    [
+      "labels",
+      7
+    ],
+    [
+      "query",
+      7
+    ],
+    [
+      "regression",
+      7
+    ],
+    [
+      "single",
       7
     ]
   ],

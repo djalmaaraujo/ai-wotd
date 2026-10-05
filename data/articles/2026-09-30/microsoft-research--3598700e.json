@@ -1,58 +1,30 @@
 {
   "article_id": "microsoft-research--3598700e",
   "author": "Rohan Kannan",
-  "content_chars": 12276,
-  "content_sha256": "e89ae646699be2b30e2909cf9162427c5bc32d4fb517726a1b642adecd10f0d9",
-  "content_tokens": 3069,
+  "content_chars": 8075,
+  "content_sha256": "ebc139464c88c1a8284f3f231f2501d7383dd5e5b85763f6df5aeec0d7c85068",
+  "content_tokens": 2018,
   "fetched_at": "2026-10-01T13:11:21Z",
   "kind": "article",
   "published_at": "2026-09-30T16:00:00+00:00",
-  "snippet": "Forecasting space weather risks on power grids - Microsoft Research Skip to main content Research Publications Code, datasets and models Artificial intelligence Audio & acoustics Computer vision Graphics & multimedia Human-computer interaction Human language technologies Search…",
+  "snippet": "At a glance - End-to-end forecasting: A machine learning pipeline uses forecast-time solar-wind information to generate location-specific risk estimates for 66,935 substations in the continental United States. - Physics and place: The system combines Auroral Electrojet (AE) and…",
   "source_id": "microsoft-research",
   "title": "Forecasting space weather risks on power grids",
   "top_terms": [
     [
-      "microsoft",
-      42
-    ],
-    [
-      "research",
-      19
-    ],
-    [
       "risk",
-      17
-    ],
-    [
-      "microsoft research",
       14
     ],
     [
-      "grid",
-      13
-    ],
-    [
       "system",
-      13
-    ],
-    [
-      "power",
-      11
-    ],
-    [
-      "share",
-      10
+      12
     ],
     [
       "forecasts",
       9
     ],
     [
-      "model",
-      9
-    ],
-    [
-      "pipeline",
+      "grid",
       9
     ],
     [
@@ -60,36 +32,64 @@
       9
     ],
     [
-      "data",
-      8
-    ],
-    [
-      "estimates",
-      8
-    ],
-    [
-      "events",
-      8
-    ],
-    [
-      "forecasting",
-      8
-    ],
-    [
-      "share on",
-      8
-    ],
-    [
       "ae",
       7
     ],
     [
-      "location-specific",
+      "data",
       7
     ],
     [
-      "across",
+      "estimates",
+      7
+    ],
+    [
+      "model",
+      7
+    ],
+    [
+      "pipeline",
+      7
+    ],
+    [
+      "activity",
       6
+    ],
+    [
+      "events",
+      6
+    ],
+    [
+      "geomagnetic",
+      6
+    ],
+    [
+      "location-specific",
+      6
+    ],
+    [
+      "space-weather",
+      6
+    ],
+    [
+      "the system",
+      6
+    ],
+    [
+      "continental",
+      5
+    ],
+    [
+      "dst",
+      5
+    ],
+    [
+      "forecasting",
+      5
+    ],
+    [
+      "geological",
+      5
     ]
   ],
   "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",

@@ -1,13 +1,13 @@
 {
   "article_id": "latent-space--a3fc3326",
   "author": null,
-  "content_chars": 10503,
-  "content_sha256": "cbea78e04e14068ddc16b2f2868ddac86b424a411aa04f1417c054fc30491fb1",
-  "content_tokens": 2625,
+  "content_chars": 8682,
+  "content_sha256": "4080d23752b687725cc7f22644973a45de2f0349555d07afb229144d4caa618d",
+  "content_tokens": 2170,
   "fetched_at": "2026-10-02T12:33:02Z",
   "kind": "article",
   "published_at": "2026-10-02T00:28:04+00:00",
-  "snippet": "The Mismanaged Geniuses Hypothesis | Alex L. Zhang Alex L. Zhang Toggle navigation about blog publications and pre-prints projects academics ctrl k The Mismanaged Geniuses Hypothesis mismanaged scaffolds Alex Zhang, Zhening (Zed) Li , and Omar Khattab . tldr; AI models are…",
+  "snippet": "Alex Zhang, Zhening (Zed) Li, and Omar Khattab. tldr; AI models are already good enough for the next leap in capabilities. For the last decade, scaling the size and data of AI models has led to groundbreaking, super-human achievements in the capabilities of these systems. The…",
   "source_id": "latent-space",
   "title": "The Mismanaged Geniuses Hypothesis | Alex L. Zhang",
   "top_terms": [
@@ -16,20 +16,16 @@
       19
     ],
     [
-      "lms",
-      18
-    ],
-    [
       "language",
-      17
-    ],
-    [
-      "tasks",
       16
     ],
     [
-      "model",
-      12
+      "tasks",
+      15
+    ],
+    [
+      "lms",
+      13
     ],
     [
       "language models",
@@ -37,59 +33,63 @@
     ],
     [
       "lm",
-      11
-    ],
-    [
-      "decomposition",
       10
     ],
     [
       "decompositions",
-      10
+      9
     ],
     [
-      "geniuses",
-      10
-    ],
-    [
-      "task",
-      10
-    ],
-    [
-      "hypothesis",
+      "model",
       9
     ],
     [
       "systems",
-      9
+      8
     ],
     [
-      "mismanaged",
-      8
+      "decomposition",
+      7
     ],
     [
       "solve",
-      8
-    ],
-    [
-      "frontier",
       7
     ],
     [
-      "geniuses hypothesis",
-      7
+      "general",
+      6
     ],
     [
-      "mismanaged geniuses",
-      7
+      "geniuses",
+      6
     ],
     [
-      "mismanaged geniuses hypothesis",
-      7
+      "hypothesis",
+      6
     ],
     [
       "of decompositions",
-      7
+      6
+    ],
+    [
+      "problem",
+      6
+    ],
+    [
+      "rlms",
+      6
+    ],
+    [
+      "space",
+      6
+    ],
+    [
+      "space of",
+      6
+    ],
+    [
+      "space of decompositions",
+      6
     ]
   ],
   "url": "https://alexzhang13.github.io/blog/2026/mgh",

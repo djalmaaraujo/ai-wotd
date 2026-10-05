@@ -1,26 +1,22 @@
 {
   "article_id": "huggingface-blog--dced66be",
   "author": "Hugging Face Blog",
-  "content_chars": 20928,
-  "content_sha256": "71fa5db7aad22fc45cabe7c7ed8e9516341f634fff14dd013b90ee4eddabb3f0",
-  "content_tokens": 5232,
+  "content_chars": 18835,
+  "content_sha256": "35f47290dfcdbf19af45f860246f8baa5bfe20e42ac51d117e03515ec59f8e98",
+  "content_tokens": 4708,
   "fetched_at": "2026-10-04T12:18:27Z",
   "kind": "article",
   "published_at": "2026-10-03T22:56:48+00:00",
-  "snippet": "The Agent Said It Was Done. The Database Disagreed. Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team &…",
+  "snippet": "Figure 1: ThinkingBox runs an agent against isolated MCP tool sessions, then grades the terminal backend state and side effects it leaves behind. From our ThinkingBox paper. This is a joint blog by Microsoft and Hugging Face, special thanks to Tommy Guy (founder at Enderis AI…",
   "source_id": "huggingface-blog",
   "title": "The Agent Said It Was Done. The Database Disagreed.",
   "top_terms": [
-    [
-      "model",
-      27
-    ],
     [
       "task",
       26
     ],
     [
-      "thinkingbox",
+      "model",
       24
     ],
     [
@@ -28,19 +24,15 @@
       22
     ],
     [
+      "thinkingbox",
+      21
+    ],
+    [
       "claude",
       20
     ],
     [
-      "cost",
-      19
-    ],
-    [
       "pass",
-      19
-    ],
-    [
-      "tasks",
       19
     ],
     [
@@ -48,32 +40,24 @@
       18
     ],
     [
-      "tool",
+      "tasks",
       18
     ],
     [
-      "agent",
+      "cost",
       17
     ],
     [
       "openenv",
-      17
-    ],
-    [
-      "run",
-      16
+      15
     ],
     [
       "state",
       15
     ],
     [
-      "benchmark",
-      14
-    ],
-    [
-      "microsoft",
-      14
+      "tool",
+      15
     ],
     [
       "attempt",
@@ -84,12 +68,28 @@
       13
     ],
     [
-      "models",
+      "run",
       13
+    ],
+    [
+      "agent",
+      12
     ],
     [
       "attempts",
       12
+    ],
+    [
+      "benchmark",
+      12
+    ],
+    [
+      "microsoft",
+      10
+    ],
+    [
+      "models",
+      10
     ]
   ],
   "url": "https://huggingface.co/blog/microsoft/thinkingbox",

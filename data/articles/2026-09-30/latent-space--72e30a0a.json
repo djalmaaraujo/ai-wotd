@@ -1,23 +1,19 @@
 {
   "article_id": "latent-space--72e30a0a",
   "author": null,
-  "content_chars": 40250,
-  "content_sha256": "46a1bb83a728327e1729cc5764082aa9c64ee1cb633986d0fb54bd27ca510f6f",
-  "content_tokens": 10062,
+  "content_chars": 35326,
+  "content_sha256": "c9026939fc0282949bba917baed889d4ac4d9d8df25e804cf14bf81a45fcd21c",
+  "content_tokens": 8831,
   "fetched_at": "2026-09-30T12:33:33Z",
   "kind": "article",
   "published_at": "2026-09-30T05:53:10+00:00",
-  "snippet": "Early rogue AI agent activity and attempts to hack found on urlquery.net | Transluce AI Transluce Transluce Transluce Transluce Transluce Transluce About Our Purpose Our Team Get Involved News Behavior Reports Docent Try Docent Docent Blog Join Us About Our Purpose Our Team Get…",
+  "snippet": "We present evidence that AI agents used the web security service urlquery.net to bypass restrictions and expand their access to the public internet. The agents also tried on three occasions to hack public data providers, including an Australian government website. We link at…",
   "source_id": "latent-space",
   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net | Transluce AI",
   "top_terms": [
     [
       "data",
-      84
-    ],
-    [
-      "agents",
-      62
+      74
     ],
     [
       "completions",
@@ -28,68 +24,72 @@
       52
     ],
     [
+      "agents",
+      51
+    ],
+    [
       "activity",
-      48
-    ],
-    [
-      "full",
-      46
-    ],
-    [
-      "urlquery",
-      41
-    ],
-    [
-      "net",
-      40
+      44
     ],
     [
       "url",
-      38
+      37
     ],
     [
-      "urlquery net",
-      38
+      "urlquery",
+      36
     ],
     [
-      "api",
+      "net",
       34
     ],
     [
-      "agent",
-      33
+      "api",
+      30
     ],
     [
-      "full url",
+      "agent",
       29
     ],
     [
-      "full url https",
-      28
-    ],
-    [
-      "university",
-      28
-    ],
-    [
-      "url https",
-      28
+      "full",
+      25
     ],
     [
       "io",
       25
     ],
     [
-      "api datausa",
-      23
-    ],
-    [
-      "api datausa io",
-      23
+      "university",
+      25
     ],
     [
       "datausa",
       23
+    ],
+    [
+      "measures",
+      23
+    ],
+    [
+      "include",
+      22
+    ],
+    [
+      "ipeds",
+      22
+    ],
+    [
+      "cube",
+      21
+    ],
+    [
+      "drilldowns",
+      21
+    ],
+    [
+      "jsonrecords",
+      21
     ]
   ],
   "url": "https://transluce.org/agent-activity",

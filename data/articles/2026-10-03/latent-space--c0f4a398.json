@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--c0f4a398",
   "author": null,
-  "content_chars": 45681,
-  "content_sha256": "3b0ad45d385c5a6e193f49efff69c79fde38fa7449dbd5cd0889797f2f6bc489",
-  "content_tokens": 11420,
+  "content_chars": 20413,
+  "content_sha256": "90db03b48c653cda60cfc083ffb6843daf6983b5d013881bf1d00071b2bad077",
+  "content_tokens": 5103,
   "fetched_at": "2026-10-03T11:39:41Z",
   "kind": "article",
   "published_at": "2026-10-03T08:45:15+00:00",
-  "snippet": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry…",
+  "snippet": "Conversation | Can't load draft model: check_tensor_dims: tensor 'token_embd.weight' not found 0.16.292.755 I load_tensors: loading model tensors, this can take a while... (load_mode = dio) 0.16.355.668 E llama_model_load: error loading model: check_tensor_dims: tensor…",
   "source_id": "latent-space",
   "title": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp · GitHub",
   "top_terms": [
     [
       "load",
-      155
+      80
     ],
     [
       "srv",
-      151
+      77
     ],
     [
       "srv load",
-      144
-    ],
-    [
-      "tokens",
       70
     ],
     [
-      "copy",
-      66
-    ],
-    [
-      "loading",
-      53
-    ],
-    [
-      "error",
-      45
-    ],
-    [
-      "reload",
-      44
-    ],
-    [
-      "oct",
-      42
-    ],
-    [
-      "please",
-      42
-    ],
-    [
-      "while loading",
-      42
-    ],
-    [
-      "an error",
+      "mtp",
       41
     ],
     [
-      "an error while",
-      41
+      "ggml-org",
+      31
     ],
     [
-      "error while",
-      41
+      "llama",
+      30
     ],
     [
-      "error while loading",
-      41
+      "qwen3.8",
+      21
     ],
     [
-      "loading please",
-      41
+      "model",
+      20
     ],
     [
-      "loading please reload",
-      41
+      "size",
+      18
     ],
     [
-      "oh",
-      41
+      "draft",
+      17
     ],
     [
-      "oh there",
-      41
+      "memory",
+      16
     ],
     [
-      "oh there was",
-      41
+      "failed",
+      15
+    ],
+    [
+      "qwen4exp",
+      15
+    ],
+    [
+      "cpp",
+      14
+    ],
+    [
+      "empty",
+      13
+    ],
+    [
+      "failed to",
+      12
+    ],
+    [
+      "head",
+      12
+    ],
+    [
+      "recurrent",
+      12
+    ],
+    [
+      "ggml",
+      11
+    ],
+    [
+      "qsa",
+      11
     ]
   ],
   "url": "https://github.com/ggml-org/llama.cpp/pull/29761",

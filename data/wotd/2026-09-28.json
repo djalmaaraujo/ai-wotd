@@ -7,9 +7,9 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 1295.751758,
+      "score": 1129.863054,
       "term": "justification",
-      "tf_today": 194
+      "tf_today": 187
     },
     {
       "articles": [
@@ -18,69 +18,50 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 431.701448,
+      "score": 393.250307,
       "term": "ch",
       "tf_today": 78
     },
     {
       "articles": [
-        "ai-snake-oil--06e05a98",
-        "ai-snake-oil--26bd5c2c",
         "ai-snake-oil--410ecebf",
         "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--a8e3c43e",
         "ai-snake-oil--f5bcbcf5",
-        "mit-tech-review-ai--605fba06"
+        "microsoft-research--0b7d2cd2",
+        "mit-tech-review-ai--605fba06",
+        "mit-tech-review-ai--953d19d8"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 6,
-      "score": 380.549078,
+      "df_today": 7,
+      "score": 379.46528,
       "term": "university",
-      "tf_today": 53
-    },
-    {
-      "articles": [
-        "ai-snake-oil--26bd5c2c",
-        "ai-snake-oil--d37c63de"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 358.095554,
-      "term": "du",
-      "tf_today": 67
+      "tf_today": 60
     },
     {
       "articles": [
         "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--a8e3c43e",
         "ai-snake-oil--f5bcbcf5",
         "mit-tech-review-ai--605fba06"
       ],
       "avg_tf_baseline": 1.0,
-      "df_today": 3,
-      "score": 338.808313,
+      "df_today": 4,
+      "score": 323.862983,
       "term": "political",
-      "tf_today": 104
+      "tf_today": 106
     },
     {
       "articles": [
-        "ai-snake-oil--26bd5c2c",
-        "ai-snake-oil--d37c63de"
+        "ai-snake-oil--06e05a98",
+        "ai-snake-oil--a8e3c43e",
+        "ai-snake-oil--f5bcbcf5"
       ],
       "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 325.374181,
-      "term": "ag",
-      "tf_today": 62
-    },
-    {
-      "articles": [
-        "ai-snake-oil--5a987a70",
-        "ai-snake-oil--d37c63de"
-      ],
-      "avg_tf_baseline": 0.0,
-      "df_today": 2,
-      "score": 325.374181,
-      "term": "ix",
-      "tf_today": 62
+      "df_today": 3,
+      "score": 254.098682,
+      "term": "forecasts",
+      "tf_today": 52
     },
     {
       "articles": [
@@ -89,150 +70,190 @@
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 305.984017,
+      "score": 232.515496,
       "term": "swan",
-      "tf_today": 59
+      "tf_today": 51
     },
     {
       "articles": [
-        "ai-snake-oil--5a987a70",
-        "ai-snake-oil--d37c63de"
+        "ai-snake-oil--26bd5c2c",
+        "ai-snake-oil--410ecebf",
+        "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--a8e3c43e",
+        "ai-snake-oil--f5bcbcf5",
+        "aibreakfast--5a6c9b3d",
+        "huggingface-blog--b95cdaa4",
+        "mit-tech-review-ai--605fba06"
+      ],
+      "avg_tf_baseline": 7.4286,
+      "df_today": 8,
+      "score": 214.84752,
+      "term": "public",
+      "tf_today": 339
+    },
+    {
+      "articles": [
+        "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--f5bcbcf5"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 299.563084,
-      "term": "km",
-      "tf_today": 58
+      "score": 204.353988,
+      "term": "justified",
+      "tf_today": 46
     },
     {
       "articles": [
         "ai-snake-oil--410ecebf",
-        "ai-snake-oil--d37c63de"
+        "ai-snake-oil--f5bcbcf5"
       ],
       "avg_tf_baseline": 0.0,
       "df_today": 2,
-      "score": 293.163985,
-      "term": "vi",
-      "tf_today": 57
+      "score": 193.261326,
+      "term": "black swan",
+      "tf_today": 44
+    },
+    {
+      "articles": [
+        "ai-snake-oil--4b1560c5",
+        "ai-snake-oil--a8e3c43e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 187.754024,
+      "term": "citizens",
+      "tf_today": 43
     }
   ],
   "date": "2026-09-28",
-  "evidence_article_ids": [],
+  "evidence_article_ids": [
+    "huggingface-blog--b95cdaa4"
+  ],
   "judge": {
-    "input_tokens": 19276,
+    "input_tokens": 31007,
     "model": "jev-1.13.0",
-    "pool_size": 40,
+    "pool_size": 61,
     "signals": {
+      "agent": {
+        "dominance": 2.98,
+        "event": 0.92,
+        "form": 0.88,
+        "novelty": 0.51,
+        "specificity": 1.64
+      },
       "agents": {
-        "dominance": 1.13,
-        "event": 0.35,
-        "form": 0.85,
-        "novelty": 0.38,
-        "specificity": 1.51
+        "dominance": 2.98,
+        "event": 0.92,
+        "form": 0.86,
+        "novelty": 0.55,
+        "specificity": 1.61
       },
-      "black swan": {
-        "dominance": 1.16,
-        "event": 0.04,
-        "form": 0.94,
-        "novelty": 0.49,
-        "specificity": 0.04
+      "anthropic": {
+        "dominance": 2.36,
+        "event": 0.89,
+        "form": 0.91,
+        "novelty": 0.56,
+        "specificity": 1.09
       },
-      "estimates": {
-        "dominance": 2.51,
-        "event": 0.47,
-        "form": 0.71,
-        "novelty": 0.39,
-        "specificity": 0.3
+      "australia": {
+        "dominance": 2.37,
+        "event": 0.88,
+        "form": 0.91,
+        "novelty": 0.73,
+        "specificity": 0.01
       },
-      "ex": {
-        "dominance": 0.94,
-        "event": 0.35,
-        "form": 0.34,
-        "novelty": 0.29,
-        "specificity": 0.4
+      "claude sonnet 5.5": {
+        "dominance": 1.81,
+        "event": 0.91,
+        "form": 0.96,
+        "novelty": 0.61,
+        "specificity": 2.0
       },
       "expert": {
-        "dominance": 2.25,
-        "event": 0.33,
-        "form": 0.87,
-        "novelty": 0.73,
-        "specificity": 0.51
+        "dominance": 1.87,
+        "event": 0.63,
+        "form": 0.86,
+        "novelty": 0.7,
+        "specificity": 0.64
+      },
+      "forecast": {
+        "dominance": 2.1,
+        "event": 0.35,
+        "form": 0.86,
+        "novelty": 0.5,
+        "specificity": 0.33
+      },
+      "forecasters": {
+        "dominance": 1.98,
+        "event": 0.2,
+        "form": 0.82,
+        "novelty": 0.5,
+        "specificity": 0.22
       },
       "forecasts": {
-        "dominance": 2.61,
-        "event": 0.36,
+        "dominance": 2.24,
+        "event": 0.43,
         "form": 0.83,
-        "novelty": 0.71,
-        "specificity": 0.43
+        "novelty": 0.56,
+        "specificity": 0.39
+      },
+      "holo4": {
+        "dominance": 1.97,
+        "event": 0.92,
+        "form": 0.92,
+        "novelty": 0.69,
+        "specificity": 1.98
       },
       "impacts": {
-        "dominance": 1.69,
-        "event": 0.21,
-        "form": 0.75,
-        "novelty": 0.4,
-        "specificity": 0.78
+        "dominance": 2.51,
+        "event": 0.65,
+        "form": 0.72,
+        "novelty": 0.42,
+        "specificity": 0.73
       },
-      "justification": {
-        "dominance": 1.44,
-        "event": 0.05,
-        "form": 0.88,
-        "novelty": 0.47,
-        "specificity": 0.15
+      "lenfest institute": {
+        "dominance": 1.79,
+        "event": 0.78,
+        "form": 0.9,
+        "novelty": 0.72,
+        "specificity": 0.65
       },
-      "justified": {
-        "dominance": 1.16,
-        "event": 0.08,
-        "form": 0.58,
-        "novelty": 0.47,
-        "specificity": 0.04
+      "openai": {
+        "dominance": 2.94,
+        "event": 0.91,
+        "form": 0.82,
+        "novelty": 0.55,
+        "specificity": 1.01
       },
-      "kp": {
-        "dominance": 0.95,
-        "event": 0.33,
-        "form": 0.31,
-        "novelty": 0.33,
-        "specificity": 0.3
+      "openai's": {
+        "dominance": 2.92,
+        "event": 0.91,
+        "form": 0.34,
+        "novelty": 0.56,
+        "specificity": 1.0
       },
-      "lw": {
-        "dominance": 1.06,
-        "event": 0.15,
-        "form": 0.3,
-        "novelty": 0.43,
-        "specificity": 1.03
+      "political": {
+        "dominance": 2.15,
+        "event": 0.23,
+        "form": 0.61,
+        "novelty": 0.52,
+        "specificity": 0.03
       },
-      "mx": {
-        "dominance": 0.8,
-        "event": 0.24,
-        "form": 0.5,
-        "novelty": 0.35,
-        "specificity": 1.41
-      },
-      "nature": {
-        "dominance": 1.16,
-        "event": 0.12,
-        "form": 0.77,
-        "novelty": 0.43,
-        "specificity": 0.19
-      },
-      "public": {
-        "dominance": 1.35,
-        "event": 0.11,
-        "form": 0.74,
-        "novelty": 0.4,
-        "specificity": 0.21
-      },
-      "swan": {
-        "dominance": 1.12,
-        "event": 0.05,
+      "society": {
+        "dominance": 2.04,
+        "event": 0.78,
         "form": 0.87,
-        "novelty": 0.48,
-        "specificity": 0.17
+        "novelty": 0.5,
+        "specificity": 0.13
       }
     },
     "status": "ok",
-    "survivors": []
+    "survivors": [
+      "holo4",
+      "claude sonnet 5.5"
+    ]
   },
-  "score": 0.0,
-  "status": "quiet_day",
-  "word": null
+  "label": "Holo4",
+  "score": null,
+  "word": "holo4"
 }

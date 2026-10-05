@@ -1,34 +1,30 @@
 {
   "article_id": "codenewsletter--1af4781d",
   "author": "Code Newsletter",
-  "content_chars": 9184,
-  "content_sha256": "aecd959ed76d7dbf08fd58eaebccfc6b6eb2379626800def05d2f0bb4b5cfb72",
-  "content_tokens": 2296,
+  "content_chars": 8155,
+  "content_sha256": "b2ed127c594d394e8f32ea295ae76aaa59c29786677b05a1808ceaf3800a4254",
+  "content_tokens": 2038,
   "fetched_at": "2026-09-30T12:30:48Z",
   "kind": "article",
   "published_at": "2026-09-29T13:00:00+00:00",
-  "snippet": "Anthropic's new model nails bug fixes Archive Resources Advertise Log in Subscribe Home Posts Anthropic's new model nails bug fixes Anthropic's new model nails bug fixes Also: Build with Meta Muse Sep 29, 2026 Welcome back. Opus 5.5 already set a high bar for how fast AI models…",
+  "snippet": "Welcome back. Opus 5.5 already set a high bar for how fast AI models can be, but Anthropic just raised it again with Sonnet 5.5. Meanwhile, Nvidia is stepping in to keep rogue agents from blowing past guardrails. Also: Why OpenAI pulled the GPT Astra 6.1 launch, a SpaceXAI…",
   "source_id": "codenewsletter",
   "title": "Anthropic's new model nails bug fixes",
   "top_terms": [
     [
-      "code",
-      13
-    ],
-    [
       "claude",
       12
-    ],
-    [
-      "engineering",
-      11
     ],
     [
       "agents",
       10
     ],
     [
-      "model",
+      "code",
+      10
+    ],
+    [
+      "engineering",
       10
     ],
     [
@@ -36,12 +32,12 @@
       10
     ],
     [
-      "agent",
+      "coding",
       9
     ],
     [
-      "coding",
-      9
+      "agent",
+      7
     ],
     [
       "claude code",
@@ -52,16 +48,8 @@
       7
     ],
     [
-      "muse",
+      "model",
       7
-    ],
-    [
-      "bug",
-      6
-    ],
-    [
-      "engineers",
-      6
     ],
     [
       "faster",
@@ -72,24 +60,36 @@
       6
     ],
     [
-      "anthropic's",
-      5
+      "muse",
+      6
     ],
     [
-      "anthropic's new",
-      5
+      "sonnet 5.5",
+      6
     ],
     [
-      "anthropic's new model",
-      5
-    ],
-    [
-      "build",
+      "engineers",
       5
     ],
     [
       "models",
       5
+    ],
+    [
+      "opus",
+      5
+    ],
+    [
+      "skills",
+      5
+    ],
+    [
+      "step",
+      5
+    ],
+    [
+      "agentic",
+      4
     ]
   ],
   "url": "https://codenewsletter.ai/p/anthropic-s-new-model-nails-bug-fixes",

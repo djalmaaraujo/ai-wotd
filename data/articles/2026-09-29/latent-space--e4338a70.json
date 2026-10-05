@@ -1,46 +1,22 @@
 {
   "article_id": "latent-space--e4338a70",
   "author": null,
-  "content_chars": 2459,
-  "content_sha256": "9d78acdc7ff24146c9a35b3178ef9da47fe44d3d6d985c2d52e994de9354fba1",
-  "content_tokens": 614,
+  "content_chars": 1270,
+  "content_sha256": "310c10cf0bceb22d663cae7c29d332eaae9eb004bd83b60b05daca2d2c495a90",
+  "content_tokens": 317,
   "fetched_at": "2026-09-29T12:52:04Z",
   "kind": "article",
   "published_at": "2026-09-29T02:44:29+00:00",
-  "snippet": "Swift 1.5 27B - a ukisai Collection Hugging Face Models Datasets Spaces Buckets new Docs Enterprise Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging…",
+  "snippet": "Swift 1.5 27B Swift 1.5 on Qwen3.8-27B: stronger than Swift 1.0 on agentic and coding tasks, with fewer thinking tokens. BF16 weights and every quant. - Image-Text-to-Text • 28B • Updated • 4.29k • 112 Note Swift 1.5 (latest). Full BF16 weights. Start here. - Image-Text-to-Text…",
   "source_id": "latent-space",
   "title": "Swift 1.5 27B - a ukisai Collection",
   "top_terms": [
     [
       "swift",
-      17
+      13
     ],
     [
-      "ukisai",
-      14
-    ],
-    [
-      "ago",
-      12
-    ],
-    [
-      "days",
-      12
-    ],
-    [
-      "days ago",
-      12
-    ],
-    [
-      "updated",
-      12
-    ],
-    [
-      "updated days",
-      12
-    ],
-    [
-      "updated days ago",
+      "swift 1.5",
       12
     ],
     [
@@ -48,11 +24,7 @@
       11
     ],
     [
-      "swift-1.5",
-      11
-    ],
-    [
-      "ukisai swift-1.5",
+      "updated",
       11
     ],
     [
@@ -60,36 +32,64 @@
       9
     ],
     [
-      "qwen3.8",
+      "note swift 1.5",
       9
-    ],
-    [
-      "swift-1.5 qwen3.8",
-      8
-    ],
-    [
-      "ukisai swift-1.5 qwen3.8",
-      8
     ],
     [
       "image-text-to-text",
       7
     ],
     [
-      "collection",
-      6
-    ],
-    [
       "text",
       5
     ],
     [
-      "ago note",
+      "generation",
       4
     ],
     [
-      "ago note swift",
+      "text generation",
       4
+    ],
+    [
+      "apple",
+      3
+    ],
+    [
+      "apple silicon",
+      3
+    ],
+    [
+      "bit",
+      3
+    ],
+    [
+      "bit mlx",
+      3
+    ],
+    [
+      "bit mlx for",
+      3
+    ],
+    [
+      "for apple",
+      3
+    ],
+    [
+      "for apple silicon",
+      3
+    ],
+    [
+      "int4",
+      3
+    ],
+    [
+      "int4 w4a16",
+      3
+    ],
+    [
+      "mlx",
+      3
     ]
   ],
   "url": "https://huggingface.co/collections/ukisai/swift-15-27b",

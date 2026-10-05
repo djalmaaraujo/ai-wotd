@@ -1,95 +1,95 @@
 {
   "article_id": "last-week-in-ai--fdfee35b",
   "author": null,
-  "content_chars": 12978,
-  "content_sha256": "061b699a6a9acdf64459132b61580ac0985b5dcfacb36071b10a86c6abc193e5",
-  "content_tokens": 3244,
+  "content_chars": 2676,
+  "content_sha256": "b712fb420472c4deadc9b2fffd1f664efcbce4a6d7483271c04c1ec4a48b01bc",
+  "content_tokens": 669,
   "fetched_at": "2026-10-03T11:39:48Z",
   "kind": "article",
   "published_at": "2026-10-03T07:32:03+00:00",
-  "snippet": "[2609.19969] DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression Skip to main content Search Submit Donate Log in Search arXiv Press Enter to search · Advanced search Computer Science > Computation and Language arXiv:2609.19969 (cs) [Submitted on 17 Sep 2026] Title…",
+  "snippet": "Computer Science > Computation and Language Title:DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression View PDF HTML (experimental) Abstract:The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy. Although prior work has…",
   "source_id": "last-week-in-ai",
   "title": "[2609.19969] DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
   "top_terms": [
     [
-      "wang",
-      45
-    ],
-    [
-      "zhang",
-      43
-    ],
-    [
-      "chen",
-      36
-    ],
-    [
-      "li",
-      32
-    ],
-    [
-      "xu",
-      27
-    ],
-    [
-      "liu",
-      18
-    ],
-    [
-      "zhou",
-      18
-    ],
-    [
-      "yang",
-      17
-    ],
-    [
-      "lin",
-      16
-    ],
-    [
-      "toggle",
-      14
-    ],
-    [
-      "huang",
-      13
-    ],
-    [
-      "wu",
-      13
-    ],
-    [
-      "yu",
-      13
-    ],
-    [
       "kv",
-      12
-    ],
-    [
-      "sun",
-      11
-    ],
-    [
-      "yao",
-      11
+      9
     ],
     [
       "cache",
-      10
-    ],
-    [
-      "guo",
-      10
+      7
     ],
     [
       "kv cache",
-      10
+      7
     ],
     [
-      "ma",
-      10
+      "deepseek-v4.1",
+      6
+    ],
+    [
+      "flash",
+      6
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "footprint",
+      4
+    ],
+    [
+      "cache compression",
+      3
+    ],
+    [
+      "cache footprint",
+      3
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "compression",
+      3
+    ],
+    [
+      "kv cache compression",
+      3
+    ],
+    [
+      "kv cache footprint",
+      3
+    ],
+    [
+      "limits",
+      3
+    ],
+    [
+      "limits of",
+      3
+    ],
+    [
+      "limits of kv",
+      3
+    ],
+    [
+      "multimodal",
+      3
+    ],
+    [
+      "of kv",
+      3
+    ],
+    [
+      "of kv cache",
+      3
     ]
   ],
   "url": "https://arxiv.org/abs/2609.19969",

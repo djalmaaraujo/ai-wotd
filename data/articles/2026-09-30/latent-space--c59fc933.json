@@ -1,95 +1,95 @@
 {
   "article_id": "latent-space--c59fc933",
   "author": null,
-  "content_chars": 49342,
-  "content_sha256": "1ebcbc0056156fd09662f1b72ec41e760acc6580488a3832ed3b256951218743",
-  "content_tokens": 12335,
+  "content_chars": 39867,
+  "content_sha256": "4c6dadff62924287e08882c33c41c0b464f06d1aa6a87f5214fa0d9289f50cb5",
+  "content_tokens": 9966,
   "fetched_at": "2026-09-30T12:33:34Z",
   "kind": "article",
   "published_at": "2026-09-30T05:53:10+00:00",
-  "snippet": "AI Coding Agents Game Graders, Not Users | Handshake Skip to content Employers Job seekers Career centers AI Skills Studio Handshake AI Research Log in Sign up Sign up Reward hacking is building for the grader, not the user 1. Scope collapse: implement only the cases the agent…",
+  "snippet": "Coding agents have gotten genuinely good at repository-scale software engineering and are scoring ever higher in today’s most realistic software engineering benchmarks like DeepSWE. But here we find that many agents also begin optimizing for a second problem the task never…",
   "source_id": "latent-space",
   "title": "AI Coding Agents Game Graders, Not Users | Handshake",
   "top_terms": [
     [
       "tests",
-      72
+      61
     ],
     [
       "hidden",
-      65
+      60
     ],
     [
       "grader",
-      55
+      53
     ],
     [
       "task",
-      55
+      50
     ],
     [
       "agent",
-      45
+      41
     ],
     [
       "test",
-      44
+      39
     ],
     [
       "hidden tests",
-      42
-    ],
-    [
-      "snapshot",
-      40
+      38
     ],
     [
       "the task",
       37
     ],
     [
-      "json",
-      36
-    ],
-    [
-      "line",
-      34
-    ],
-    [
-      "trajectory",
-      32
-    ],
-    [
-      "trajectory json",
-      32
-    ],
-    [
       "the grader",
-      31
-    ],
-    [
-      "json line",
-      29
-    ],
-    [
-      "output",
       29
     ],
     [
       "the agent",
-      29
-    ],
-    [
-      "patch",
       28
     ],
     [
-      "return",
-      28
+      "code",
+      26
     ],
     [
-      "trajectory json line",
-      28
+      "behavior",
+      25
+    ],
+    [
+      "implementation",
+      24
+    ],
+    [
+      "line",
+      24
+    ],
+    [
+      "agents",
+      23
+    ],
+    [
+      "json",
+      23
+    ],
+    [
+      "snapshot",
+      22
+    ],
+    [
+      "rather",
+      21
+    ],
+    [
+      "rather than",
+      21
+    ],
+    [
+      "trajectory",
+      20
     ]
   ],
   "url": "https://joinhandshake.com/research/ai/deepswe-reward-hacking",

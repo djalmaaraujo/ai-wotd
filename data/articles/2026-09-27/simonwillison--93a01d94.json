@@ -1,82 +1,46 @@
 {
   "article_id": "simonwillison--93a01d94",
   "author": "Simon Willison",
-  "content_chars": 1885,
-  "content_sha256": "1146c53c6d4a23edfb6cca98859e05cce74cfee18c50d00b7eb5ccfdf0b717fc",
-  "content_tokens": 471,
+  "content_chars": 1164,
+  "content_sha256": "7ed210999fb904fbab1ea887eebde9e75a9e5572c356d44725a5c2695924d750",
+  "content_tokens": 291,
   "fetched_at": "2026-09-28T13:52:25Z",
   "kind": "article",
   "published_at": "2026-09-27T18:41:44+00:00",
-  "snippet": "Tool: Bluesky reply bot checker Simon Willison’s Weblog Subscribe Sponsored by: Greptile — AI code reviewers catch bugs at run time and manage your code. Trusted by Nvidia, Netflix, and many more 27th September 2026 Tool Bluesky reply bot checker Automated reply bots on Twitter…",
+  "snippet": "27th September 2026 Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies. They've started manifesting on Bluesky as well. Unlike…",
   "source_id": "simonwillison",
   "title": "Bluesky reply bot checker",
   "top_terms": [
     [
-      "bluesky",
-      7
-    ],
-    [
       "reply",
-      7
+      5
     ],
     [
-      "september",
-      6
-    ],
-    [
-      "bot",
+      "bluesky",
       4
-    ],
-    [
-      "reply bot",
-      4
-    ],
-    [
-      "th",
-      4
-    ],
-    [
-      "th september",
-      4
-    ],
-    [
-      "bluesky reply",
-      3
-    ],
-    [
-      "bluesky reply bot",
-      3
-    ],
-    [
-      "bot checker",
-      3
     ],
     [
       "bots",
       3
     ],
     [
-      "checker",
+      "september",
       3
     ],
     [
-      "code",
+      "september 2026",
       3
     ],
     [
-      "posted",
+      "th",
       3
     ],
     [
-      "reply bot checker",
+      "th september",
       3
     ],
     [
-      "tool",
-      3
-    ],
-    [
-      "twitter",
+      "th september 2026",
       3
     ],
     [
@@ -84,12 +48,48 @@
       2
     ],
     [
-      "gpt-6",
+      "bot",
       2
     ],
     [
-      "llm",
+      "looks",
       2
+    ],
+    [
+      "looks for",
+      2
+    ],
+    [
+      "question",
+      2
+    ],
+    [
+      "replies",
+      2
+    ],
+    [
+      "reply bot",
+      2
+    ],
+    [
+      "reply bots",
+      2
+    ],
+    [
+      "twitter",
+      2
+    ],
+    [
+      "account",
+      1
+    ],
+    [
+      "accounts",
+      1
+    ],
+    [
+      "accounts that",
+      1
     ]
   ],
   "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
