@@ -199,7 +199,7 @@ def attach_blurb_to_wotd(
         return False
 
     blurb = generate_blurb(
-        word=word,
+        word=payload.get("label") or word,
         candidates=payload.get("candidates", []),
         evidence_articles=evidence_articles,
         model=model,

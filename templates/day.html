@@ -1,9 +1,9 @@
 {% extends "base.html" %}
-{% block title %}{{ day.word }} — {{ day.date }} · AI WOTD{% endblock %}
+{% block title %}{{ day.label or day.word }} — {{ day.date }} · AI WOTD{% endblock %}
 {% block content %}
 <article class="day">
   <p class="date">{{ day.date }}</p>
-  <h1>{{ day.word }}</h1>
+  <h1>{{ day.label or day.word }}</h1>
 
   {% if day.llm and day.llm.why %}
   <p class="why">{{ day.llm.why }}</p>

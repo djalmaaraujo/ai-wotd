@@ -2,9 +2,12 @@ from collections import Counter
 
 from wotd.terms import (
     build_candidate_pool,
+    clean_title,
     extract_terms,
     ngrams,
     summarize_per_day,
+    surface_form,
+    title_names,
     title_terms,
     tokenize,
     top_terms,
@@ -84,8 +87,29 @@ def test_extract_terms_still_keeps_normal_ngrams():
 def test_tokenize_keeps_version_numbers():
     toks = tokenize("GPT-5.6 beats Claude 4.5 on SWE-bench.")
     assert "gpt-5.6" in toks
-    assert "4.5" not in toks
+    assert "4.5" in toks
     assert "swe-bench" in toks
+
+
+def test_tokenize_reads_non_breaking_hyphens_as_hyphens():
+    assert "gpt-6" in tokenize("Introducing GPT\u20116 Astra")
+
+
+def test_extract_terms_keeps_the_version_on_a_named_release():
+    counts = extract_terms("Google shipped Gemini 4 Argon. Claude Opus 5.5 and Fable 5 follow.")
+    assert counts["gemini 4 argon"] == 1
+    assert counts["opus 5.5"] == 1
+    assert counts["claude opus 5.5"] == 1
+    assert counts["fable 5"] == 1
+    assert "gemini argon" not in counts
+
+
+def test_extract_terms_never_makes_a_term_out_of_a_bare_number():
+    counts = extract_terms("It costs 5.5 dollars and 4 cents, says the 2026 report.")
+    assert "5.5" not in counts
+    assert "costs 5.5" not in counts
+    assert "4 cents" not in counts
+    assert "2026 report" not in counts
 
 
 def test_tokenize_splits_domains_instead_of_swallowing_them():
@@ -149,3 +173,76 @@ def test_build_candidate_pool_keeps_a_name_a_noisy_bigram_contains():
 def test_build_candidate_pool_respects_the_cap():
     body = [f"term{i}" for i in range(80)]
     assert len(build_candidate_pool(body, [], cap=25)) == 25
+
+
+def test_clean_title_drops_the_publisher_and_newsletter_tags():
+    assert clean_title("OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra | TechCrunch") == (
+        "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra"
+    )
+    assert clean_title("GLM-5.3 and the spread of advanced cyber capabilities \\ Anthropic") == (
+        "GLM-5.3 and the spread of advanced cyber capabilities"
+    )
+    assert clean_title("The politics of panic - by Jerusalem Demsas - The Argument") == "The politics of panic"
+    assert clean_title("[AINews] Pi 1.0, Pi Durable, and AIE NYC") == "Pi 1.0, Pi Durable, and AIE NYC"
+    assert clean_title("Text-to-Speech is here") == "Text-to-Speech is here"
+
+
+def test_title_names_finds_the_product_a_single_headline_names():
+    names = title_names(
+        [
+            "Gemini Omni 1.1 Flash lets you build with more control",
+            "Introducing Claude Sonnet 5 | Anthropic",
+            "Expanding OpenAI's presence in Brazil",
+        ]
+    )
+    assert "gemini omni 1.1 flash" in names
+    assert "claude sonnet 5" in names
+    assert "introducing claude sonnet 5" not in names
+
+
+def test_title_names_ignores_headlines_written_in_title_case():
+    assert title_names(["The Agent Said It Was Done. The Database Disagreed."]) == []
+
+
+def test_build_candidate_pool_includes_names_from_one_headline():
+    pool = build_candidate_pool(["google", "models"], ["Gemini Omni 1.1 Flash lets you build with more control"])
+    assert "gemini omni 1.1 flash" in pool
+
+
+def test_title_names_skips_a_lone_capital_that_only_starts_the_headline():
+    assert title_names(["Making AI cheaper", "Since the preview, GPT-6 got faster"]) == ["gpt-6"]
+
+
+def test_extract_terms_does_not_join_words_across_punctuation():
+    counts = extract_terms("Meet Opus, Sonnet and Haiku. Models ship today.")
+    assert "opus sonnet" not in counts
+    assert "haiku models" not in counts
+    assert counts["sonnet"] == 1
+
+
+def test_title_names_stop_at_punctuation():
+    assert "gemini 4 argon" in title_names(["[AINews] Gemini 4 Argon: GDM's answer to Astra"])
+    assert "gemini 4 argon gdm's" not in title_names(["[AINews] Gemini 4 Argon: GDM's answer to Astra"])
+
+
+def test_a_headline_name_never_hides_a_shorter_candidate():
+    pool = build_candidate_pool(["claude tag"], ["Anthropic ships Claude Tag Krea today"])
+    assert "claude tag" in pool
+
+
+def test_a_headline_name_is_dropped_when_a_counted_term_qualifies_it():
+    pool = build_candidate_pool(["claude tag"], ["Claude ships everywhere"])
+    assert "claude" not in pool
+
+
+def test_surface_form_spells_the_term_the_way_the_articles_do():
+    texts = [
+        "OpenAI launches GPT-6.1 Sol",
+        "GPT‑6.1 Sol is cheaper than gpt-6.1 sol pro",
+        "Why GPT-6.1 Sol matters",
+    ]
+    assert surface_form("gpt-6.1 sol", texts) == "GPT-6.1 Sol"
+
+
+def test_surface_form_keeps_the_term_when_no_article_spells_it():
+    assert surface_form("claude tag", ["Nothing here", "claude-tagged"]) == "claude tag"

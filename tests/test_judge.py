@@ -241,3 +241,49 @@ def test_rank_uses_a_real_tie_window_not_buckets():
         "claude tag": Verdict(0.9, 2.0, 0.9, 0.798, 2.4),
     }
     assert rank(verdicts)[0] == "claude tag"
+
+
+def test_judge_state_reads_the_opening_of_each_article_under_its_clean_headline():
+    from wotd.judge import _state
+
+    state = _state(
+        [
+            {
+                "source_id": "last-week-in-ai",
+                "title": "OpenAI launches GPT-6.1 Sol | TechCrunch",
+                "snippet": "short",
+                "lede": "OpenAI on Tuesday launched GPT-6.1 Sol, " + "a cheaper model. " * 20,
+            },
+            {"source_id": "x-sama", "title": "big day", "snippet": "GPT-6.1 Sol is out"},
+        ],
+        [],
+        "2026-09-30",
+    )
+
+    first, second = state["today"]
+    assert first["title"] == "OpenAI launches GPT-6.1 Sol"
+    assert first["text"].startswith("OpenAI on Tuesday launched GPT-6.1 Sol")
+    assert len(first["text"]) > 280
+    assert second["text"] == "GPT-6.1 Sol is out"
+
+
+def test_judge_state_shortens_each_article_to_fit_a_busy_day():
+    from wotd.judge import TODAY_CHARS, _state
+
+    articles = [
+        {"source_id": "s", "title": f"t{i}", "snippet": "", "lede": "word " * 400}
+        for i in range(100)
+    ]
+    state = _state(articles, [], "2026-09-30")
+
+    assert sum(len(a["text"]) for a in state["today"]) <= TODAY_CHARS
+
+
+def test_judge_state_reads_feed_items_before_pages_a_newsletter_links_to():
+    from wotd.judge import MAX_ARTICLES, _state
+
+    linked = [{"source_id": "aa", "via_source_id": "aa", "title": "linked"}] * MAX_ARTICLES
+    direct = [{"source_id": "zz", "via_source_id": None, "title": "direct"}]
+    state = _state(linked + direct, [], "2026-09-30")
+
+    assert state["today"][0]["title"] == "direct"

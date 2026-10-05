@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import re
 from collections import Counter
+from dataclasses import dataclass
 from importlib import resources
 from pathlib import Path
 from typing import Iterable
@@ -11,7 +12,8 @@ from typing import Iterable
 
 # The dot is allowed only before digits, so model versions stay whole
 # ("gpt-5.6") while domains still split into their parts.
-_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'\-]*(?:\.[0-9]+)*|[A-Za-z]")
+_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'\-]*(?:\.[0-9]+)*|[A-Za-z]|[0-9]+(?:\.[0-9]+)*")
+_HYPHENS = str.maketrans({"\u2010": "-", "\u2011": "-"})
 
 
 def _read_resource(name: str) -> list[str]:
@@ -32,17 +34,51 @@ def load_allowlist() -> frozenset[str]:
     return frozenset(_read_resource("ai_terms_allowlist.txt"))
 
 
-def tokenize(text: str) -> list[str]:
-    """Lowercase tokens; keep hyphenated compounds and apostrophes."""
+@dataclass(frozen=True)
+class _Token:
+    text: str
+    number: bool
+    named: bool
+    joined: bool
+
+
+def _scan(text: str) -> list[_Token]:
+    """Tokens, each marking whether only whitespace separates it from the one before."""
     if not text:
         return []
-    return [m.group(0).lower() for m in _TOKEN_RE.finditer(text)]
+    text = text.translate(_HYPHENS)
+    tokens = []
+    end = 0
+    for match in _TOKEN_RE.finditer(text):
+        raw = match.group(0)
+        number = raw[0].isdigit()
+        named = not number and (raw[0].isupper() or any(c.isdigit() for c in raw))
+        joined = not text[end : match.start()].strip()
+        tokens.append(_Token(raw.lower(), number, named, joined))
+        end = match.end()
+    return tokens
+
+
+def tokenize(text: str) -> list[str]:
+    """Lowercase tokens; keep hyphenated compounds, apostrophes and version numbers."""
+    return [token.text for token in _scan(text)]
 
 
 def ngrams(tokens: list[str], n: int) -> list[str]:
     if n <= 0 or len(tokens) < n:
         return []
     return [" ".join(tokens[i : i + n]) for i in range(len(tokens) - n + 1)]
+
+
+def _numbers_name_a_version(window: list[_Token], stopwords: frozenset[str]) -> bool:
+    """True when every number in the gram follows a capitalised or versioned name."""
+    for k, token in enumerate(window):
+        if not token.number:
+            continue
+        before = window[k - 1] if k else None
+        if before is None or not before.named or before.text in stopwords:
+            return False
+    return True
 
 
 def extract_terms(
@@ -57,26 +93,31 @@ def extract_terms(
 
     A term is kept when:
       * it's in the allowlist, OR
-      * every token is at least `min_token_len` chars, has a non-digit
-        component, and the gram isn't entirely stopwords.
+      * every word is at least `min_token_len` chars, every number is the
+        version of the name just before it ("opus 5.5"), and the gram isn't
+        entirely stopwords.
     """
     stopwords = stopwords if stopwords is not None else load_stopwords()
     allowlist = allowlist if allowlist is not None else load_allowlist()
 
-    tokens = tokenize(text)
+    tokens = _scan(text)
     counts: Counter = Counter()
 
     for n in range(1, max_n + 1):
-        for gram in ngrams(tokens, n):
+        for i in range(len(tokens) - n + 1):
+            window = tokens[i : i + n]
+            if not all(token.joined for token in window[1:]):
+                continue
+            parts = [token.text for token in window]
+            gram = " ".join(parts)
             if gram in allowlist:
                 counts[gram] += 1
                 continue
-            parts = gram.split(" ")
-            # Reject grams where any individual token is too short or all-digit.
-            # This is what traps "n n", "q q", "obj obj", etc. from PDF leakage.
-            if any(len(p) < min_token_len for p in parts):
+            if not _numbers_name_a_version(window, stopwords):
                 continue
-            if any(p.isdigit() for p in parts):
+            # Reject grams where any individual word is too short.
+            # This is what traps "n n", "q q", "obj obj", etc. from PDF leakage.
+            if any(len(t.text) < min_token_len for t in window if not t.number):
                 continue
             # Drop pure-stopword grams.
             if all(p in stopwords for p in parts):
@@ -173,6 +214,7 @@ EDGE_WORDS = frozenset(
     {
         "how", "why", "what", "this", "that", "it", "its",
         "the", "a", "an", "to", "of", "in", "is", "and", "for", "with", "on", "at",
+        "introducing", "announcing", "meet",
     }
 )
 
@@ -180,8 +222,14 @@ EDGE_WORDS = frozenset(
 # only come off when something more than a single word is left behind.
 WEAK_EDGE_WORDS = frozenset({"ai", "new"})
 
-POOL_CAP = 60
+POOL_CAP = 80
 TITLE_MIN_COUNT = 2
+NAME_MAX_WORDS = 5
+NAMES_CAP = 25
+TITLE_CASE_MIN_CAPITALISED = 2
+
+_TITLE_TAG = re.compile(r"^\s*\[[^\]]*\]\s*")
+_TITLE_SEPARATOR = re.compile(r"\s+(?:\||·|\\|—|–|-)\s+")
 
 
 def _qualifies(short: str, long: str) -> bool:
@@ -210,6 +258,85 @@ def trim_edges(term: str, stopwords: frozenset[str] | None = None) -> str:
     return " ".join(parts)
 
 
+def clean_title(title: str | None) -> str:
+    """The headline itself, without the site name or a leading "[tag]"."""
+    title = _TITLE_TAG.sub("", title or "").strip()
+    parts = [part.strip() for part in _TITLE_SEPARATOR.split(title) if part.strip()]
+    if not parts:
+        return ""
+    return max(parts, key=lambda part: len(part.split()))
+
+
+def _is_title_case(tokens: list[_Token], stopwords: frozenset[str]) -> bool:
+    capitalised = [t for t in tokens[1:] if t.named and t.text in stopwords]
+    return len(capitalised) >= TITLE_CASE_MIN_CAPITALISED
+
+
+def _name_runs(tokens: list[_Token], stopwords: frozenset[str]) -> list[list[str]]:
+    runs: list[list[str]] = []
+    run: list[str] = []
+    previous: _Token | None = None
+    for token in tokens:
+        if run and not token.joined:
+            runs.append(run)
+            run = []
+        if token.number and run and previous is not None and not previous.number:
+            run.append(token.text)
+        elif token.named and len(token.text) > 1 and token.text not in stopwords:
+            run.append(token.text)
+        else:
+            if run:
+                runs.append(run)
+            run = []
+        previous = token
+    if run:
+        runs.append(run)
+    return runs
+
+
+def title_names(
+    titles: Iterable[str],
+    *,
+    term_df: dict[str, int] | None = None,
+    cap: int = NAMES_CAP,
+    stopwords: frozenset[str] | None = None,
+) -> list[str]:
+    """Capitalised names in today's headlines ("Gemini Omni 1.1 Flash"), most cited first.
+
+    Names are ranked by how many headlines carry them, then by how many of the
+    day's documents use them (`term_df`; a name longer than the stats keep is
+    looked up by its first three words).
+
+    One headline is enough: a launch post names its product once, and the
+    two-headline rule in `title_terms` would never see it. The first word of a
+    headline is capitalised whether or not it is a name, so each name is also
+    offered without it.
+    """
+    stopwords = stopwords if stopwords is not None else load_stopwords()
+    counts: Counter = Counter()
+    for title in titles:
+        tokens = _scan(clean_title(title))
+        if _is_title_case(tokens, stopwords):
+            continue
+        found: set[str] = set()
+        for run in _name_runs(tokens, stopwords):
+            if len(run) == 1 and tokens and run[0] == tokens[0].text and run[0].isalpha():
+                continue
+            for words in (run, run[1:]):
+                name = trim_edges(" ".join(words[:NAME_MAX_WORDS]), stopwords)
+                if name and not name.split()[0][0].isdigit():
+                    found.add(name)
+        counts.update(found)
+    term_df = term_df or {}
+
+    def rank(item: tuple[str, int]) -> tuple:
+        name, headlines = item
+        df = term_df.get(name) or term_df.get(" ".join(name.split()[:3]), 0)
+        return (-headlines, -df, name)
+
+    return [name for name, _ in sorted(counts.items(), key=rank)[:cap]]
+
+
 def title_terms(
     titles: Iterable[str],
     *,
@@ -228,7 +355,7 @@ def title_terms(
     for title in titles:
         if title:
             counts.update(
-                set(extract_terms(title, stopwords=stopwords, allowlist=allowlist))
+                set(extract_terms(clean_title(title), stopwords=stopwords, allowlist=allowlist))
             )
     return [term for term, count in top_terms(counts, n=300) if count >= min_count]
 
@@ -237,6 +364,7 @@ def build_candidate_pool(
     body_terms: Iterable[str],
     titles: Iterable[str],
     *,
+    term_df: dict[str, int] | None = None,
     cap: int = POOL_CAP,
     stopwords: frozenset[str] | None = None,
     allowlist: frozenset[str] | None = None,
@@ -245,26 +373,44 @@ def build_candidate_pool(
     stopwords = stopwords if stopwords is not None else load_stopwords()
     allowlist = allowlist if allowlist is not None else load_allowlist()
 
-    merged: list[str] = list(body_terms)
-    for term in title_terms(titles, stopwords=stopwords, allowlist=allowlist):
-        if term not in merged:
-            merged.append(term)
+    titles = list(titles)
+    counted = _clean_terms(
+        list(body_terms) + title_terms(titles, stopwords=stopwords, allowlist=allowlist),
+        stopwords,
+    )
+    # A name from a single headline is a guess, so it may join the pool but
+    # must not push out a shorter term the counts back.
+    named = _clean_terms(title_names(titles, term_df=term_df, stopwords=stopwords), stopwords)
 
+    edges = (stopwords | EDGE_WORDS) - WEAK_EDGE_WORDS
+    qualifiers = [long for long in counted if not any(part in edges for part in long.split())]
+
+    def redundant(short: str) -> bool:
+        return any(short != long and _qualifies(short, long) for long in qualifiers)
+
+    kept = [term for term in counted if not redundant(term)]
+    extra = [term for term in named if term not in kept and not redundant(term)]
+    return (kept + extra)[:cap]
+
+
+def _clean_terms(terms: Iterable[str], stopwords: frozenset[str]) -> list[str]:
     ordered: dict[str, None] = {}
-    for term in merged:
+    for term in terms:
         trimmed = trim_edges(term, stopwords=stopwords)
         if len(trimmed) < 2 or trimmed.replace(".", "").isdigit():
             continue
         ordered.setdefault(trimmed, None)
+    return list(ordered)
 
-    kept = list(ordered)
-    edges = (stopwords | EDGE_WORDS) - WEAK_EDGE_WORDS
-    redundant = {
-        short
-        for short in kept
-        for long in kept
-        if short != long
-        and _qualifies(short, long)
-        and not any(part in edges for part in long.split())
-    }
-    return [term for term in kept if term not in redundant][:cap]
+
+def surface_form(term: str, texts: Iterable[str]) -> str:
+    """The spelling the articles use most for `term` ("GPT-6.1 Sol"), else `term` itself."""
+    words = r"\s+".join(re.escape(part) for part in term.split())
+    pattern = re.compile(rf"(?<![\w.\-]){words}(?![\w\-])", re.IGNORECASE)
+    spellings: Counter = Counter()
+    for text in texts:
+        if text:
+            spellings.update(" ".join(m.split()) for m in pattern.findall(text.translate(_HYPHENS)))
+    if not spellings:
+        return term
+    return max(spellings.items(), key=lambda kv: (kv[1], sum(c.isupper() for c in kv[0])))[0]

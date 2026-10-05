@@ -279,3 +279,41 @@ def test_pick_wotd_says_nothing_to_judge_when_no_term_is_eligible(tmp_path):
     assert payload["candidates"] == []
     assert payload["judge"]["status"] == "nothing_to_judge"
     assert judge.calls == []
+
+
+def test_pick_wotd_hands_the_judge_each_article_opening_from_the_full_text(tmp_path):
+    from wotd.judge import Verdict
+
+    stats, wotd_dir, articles, fulltext = (
+        tmp_path / p for p in ("stats", "wotd", "articles", "fulltext")
+    )
+    today = date(2026, 7, 17)
+    _write_stats(stats, today, {"kimi k3": (4, 2)})
+    _write_articles(articles, today, ["Moonshot drops Kimi K3", "Kimi K3 beats the rest"])
+    fulltext.mkdir()
+    (fulltext / "a0.txt").write_text("Moonshot released Kimi K3 today,\nan open model.")
+
+    judge = _judge_stub({"kimi k3": Verdict(0.93, 2.0, 0.84, 0.8, 2.37)})
+    pick_wotd(
+        stats, wotd_dir, today, articles_dir=articles, fulltext_dir=fulltext,
+        mode="on", judge_fn=judge,
+    )
+
+    sent = {a["article_id"]: a for a in judge.calls[0]["articles"]}
+    assert sent["a0"]["lede"] == "Moonshot released Kimi K3 today, an open model."
+    assert "lede" not in sent["a1"]
+
+
+def test_pick_wotd_records_the_word_as_the_articles_spell_it(tmp_path):
+    from wotd.judge import Verdict
+
+    stats, wotd_dir, articles = (tmp_path / p for p in ("stats", "wotd", "articles"))
+    today = date(2026, 7, 17)
+    _write_stats(stats, today, {"kimi k3": (4, 2)})
+    _write_articles(articles, today, ["Moonshot drops Kimi K3", "Kimi K3 beats the rest"])
+
+    judge = _judge_stub({"kimi k3": Verdict(0.93, 2.0, 0.84, 0.8, 2.37)})
+    payload = pick_wotd(stats, wotd_dir, today, articles_dir=articles, mode="on", judge_fn=judge)
+
+    assert payload["word"] == "kimi k3"
+    assert payload["label"] == "Kimi K3"

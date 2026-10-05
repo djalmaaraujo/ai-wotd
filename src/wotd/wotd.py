@@ -10,8 +10,9 @@ from datetime import date, timedelta
 from pathlib import Path
 from typing import Iterable
 
-from .judge import JudgeError, judge_candidates, newsworthiness, rank
-from .terms import build_candidate_pool, load_allowlist
+from .corpus import load_full_text
+from .judge import TEXT_MAX_CHARS, JudgeError, judge_candidates, newsworthiness, rank
+from .terms import build_candidate_pool, load_allowlist, surface_form
 
 logger = logging.getLogger(__name__)
 
@@ -138,6 +139,17 @@ def _day_articles(articles_dir: Path | None, target: date) -> list[dict]:
     return out
 
 
+def _with_ledes(articles: list[dict], fulltext_dir: Path | None) -> list[dict]:
+    """Attach the opening of each article's cached full text, never written to disk."""
+    if fulltext_dir is None:
+        return articles
+    for article in articles:
+        text = load_full_text(article["article_id"], fulltext_dir)
+        if text:
+            article["lede"] = " ".join(text.split())[:TEXT_MAX_CHARS]
+    return articles
+
+
 def _recent_titles(
     articles_dir: Path | None, target: date, days: int = RECENT_DAYS
 ) -> list[str]:
@@ -178,6 +190,10 @@ def _judge_payload(
     pool = build_candidate_pool(
         [c.term for c in candidates[:BODY_CANDIDATES]],
         [a.get("title") for a in articles],
+        term_df={
+            term: int(info.get("df", 0))
+            for term, info in today_stats.get("terms", {}).items()
+        },
     )
     try:
         judgment = judge_fn(
@@ -218,6 +234,7 @@ def pick_wotd(
     baseline_days: int = 30,
     *,
     articles_dir: Path | None = None,
+    fulltext_dir: Path | None = None,
     mode: str | None = None,
     judge_fn=judge_candidates,
 ) -> dict | None:
@@ -248,7 +265,7 @@ def pick_wotd(
         chosen_term = det_top.term
         articles: list[dict] = []
 
-        articles = _day_articles(articles_dir, target)
+        articles = _with_ledes(_day_articles(articles_dir, target), fulltext_dir)
         if mode in ("on", "shadow") and not articles:
             payload["judge"] = {"status": "skipped", "reason": "no_articles_on_disk"}
             logger.warning(
@@ -273,6 +290,10 @@ def pick_wotd(
         else:
             scored = next((c for c in candidates if c.term == chosen_term), None)
             payload["word"] = chosen_term
+            payload["label"] = surface_form(
+                chosen_term,
+                [a.get(field) for a in articles for field in ("title", "lede", "snippet")],
+            )
             payload["score"] = round(scored.score, 6) if scored else None
             payload["evidence_article_ids"] = _evidence_for(
                 chosen_term, today_stats, articles

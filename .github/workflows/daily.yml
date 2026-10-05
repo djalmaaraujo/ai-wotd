@@ -60,7 +60,7 @@ jobs:
             DATE=$(date -u +%Y-%m-%d)
             TODAY="data/wotd/${DATE}.json"
             if [[ -f "$TODAY" ]]; then
-              WORD=$(jq -r '.word // "quiet day"' "$TODAY")
+              WORD=$(jq -r '.label // .word // "quiet day"' "$TODAY")
             else
               WORD="update"
             fi

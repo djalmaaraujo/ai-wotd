@@ -142,6 +142,7 @@ def cmd_wotd(args) -> int:
             target,
             baseline_days=settings.baseline_days,
             articles_dir=paths.articles,
+            fulltext_dir=paths.fulltext_cache,
             mode=settings.judge_mode,
         )
         if payload is None:
@@ -301,6 +302,7 @@ def cmd_reprocess(args) -> int:
                 current,
                 baseline_days=settings.baseline_days,
                 articles_dir=paths.articles,
+                fulltext_dir=paths.fulltext_cache,
                 mode=settings.judge_mode,
             )
         current = current + timedelta(days=1)
