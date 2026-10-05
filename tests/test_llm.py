@@ -50,13 +50,11 @@ def test_parse_response_without_definition():
 
 
 def test_generate_blurb_skips_without_key(monkeypatch):
-    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
     assert generate_blurb(word="mcp", candidates=[], evidence_articles=[]) is None
 
 
 def test_attach_blurb_to_wotd_no_key_preserves_file(tmp_path: Path, monkeypatch):
-    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
     wotd_path = tmp_path / "2026-04-13.json"
     payload = {"date": "2026-04-13", "word": "mcp", "candidates": [], "evidence_article_ids": []}
@@ -82,7 +80,6 @@ def _mock_openrouter(monkeypatch, handler) -> None:
 
 
 def test_generate_blurb_asks_openrouter_when_its_key_is_set(monkeypatch):
-    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     monkeypatch.setenv("OPENROUTER_API_KEY", "or-key")
     sent: dict = {}
 

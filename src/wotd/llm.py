@@ -1,8 +1,7 @@
-"""LLM client: daily summary + why-it-trended blurb.
+"""LLM client: daily summary + why-it-trended blurb, through OpenRouter's free models.
 
-Uses OpenRouter when OPENROUTER_API_KEY is set (free models by default),
-else Anthropic when ANTHROPIC_API_KEY is set, else does nothing, so local dev
-and CI without a secret still succeed.
+No-op when OPENROUTER_API_KEY is unset so local dev and CI without the secret
+still succeed.
 """
 
 from __future__ import annotations
@@ -142,34 +141,11 @@ def _openrouter_text(response: httpx.Response) -> str:
         return ""
 
 
-def _ask_anthropic(system: str, user: str, model: str, key: str) -> str | None:
-    try:
-        from anthropic import Anthropic
-    except ImportError:
-        logger.warning("llm: anthropic SDK not installed; skipping")
-        return None
-    try:
-        resp = Anthropic(api_key=key).messages.create(
-            model=model,
-            max_tokens=MAX_TOKENS,
-            temperature=0.2,
-            system=system,
-            messages=[{"role": "user", "content": user}],
-        )
-    except Exception as exc:  # network / API errors — don't fail the pipeline
-        logger.warning("llm: Anthropic call failed: %s", exc)
-        return None
-    return "".join(
-        block.text for block in resp.content if getattr(block, "type", None) == "text"
-    ).strip()
-
-
 def generate_blurb(
     *,
     word: str,
     candidates: list[dict],
     evidence_articles: list[dict],
-    model: str = "claude-sonnet-4-5",
     api_key: str | None = None,
     openrouter_models: Sequence[str] | None = None,
     sleep=time.sleep,
@@ -183,25 +159,21 @@ def generate_blurb(
         return None
     user_msg = _build_user_message(word, candidates, evidence_articles)
 
-    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
-    anthropic_key = api_key or os.environ.get("ANTHROPIC_API_KEY")
-    if openrouter_key:
-        # Free models share a small rate limit and sometimes break the JSON,
-        # so each one is tried in turn until one gives a usable blurb.
-        for candidate in _free_only(openrouter_models or OPENROUTER_MODELS):
-            try:
-                text = _ask_openrouter(SUMMARY_PROMPT, user_msg, candidate, openrouter_key, sleep=sleep)
-            except _Refused as exc:
-                logger.warning("llm: %s", exc)
-                return None
-            blurb = _blurb_from(text, candidate) if text else None
-            if blurb:
-                return blurb
+    key = api_key or os.environ.get("OPENROUTER_API_KEY")
+    if not key:
+        logger.info("llm: skipped (no OPENROUTER_API_KEY)")
         return None
-    if anthropic_key:
-        text = _ask_anthropic(SUMMARY_PROMPT, user_msg, model, anthropic_key)
-        return _blurb_from(text, model) if text else None
-    logger.info("llm: skipped (no OPENROUTER_API_KEY or ANTHROPIC_API_KEY)")
+    # Free models share a small rate limit and sometimes break the JSON,
+    # so each one is tried in turn until one gives a usable blurb.
+    for model in _free_only(openrouter_models or OPENROUTER_MODELS):
+        try:
+            text = _ask_openrouter(SUMMARY_PROMPT, user_msg, model, key, sleep=sleep)
+        except _Refused as exc:
+            logger.warning("llm: %s", exc)
+            return None
+        blurb = _blurb_from(text, model) if text else None
+        if blurb:
+            return blurb
     return None
 
 
@@ -292,7 +264,6 @@ def _parse_response(text: str) -> tuple[str | None, str | None, dict | None]:
 def attach_blurb_to_wotd(
     wotd_path: Path,
     evidence_articles: list[dict],
-    model: str = "claude-sonnet-4-5",
     api_key: str | None = None,
     openrouter_models: Sequence[str] | None = None,
 ) -> bool:
@@ -312,7 +283,6 @@ def attach_blurb_to_wotd(
         word=payload.get("label") or word,
         candidates=payload.get("candidates", []),
         evidence_articles=evidence_articles,
-        model=model,
         api_key=api_key,
         openrouter_models=openrouter_models,
     )

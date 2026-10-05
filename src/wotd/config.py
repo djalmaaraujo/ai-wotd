@@ -62,9 +62,8 @@ class Settings:
     baseline_days: int = 30
     max_articles_per_source: int = 50
     user_agent: str = DEFAULT_USER_AGENT
-    llm_model: str = "claude-sonnet-4-5"
     linkfollow_max_per_issue: int = 10
-    anthropic_api_key: str | None = None
+    openrouter_api_key: str | None = None
     openrouter_models: list[str] = field(default_factory=list)
     judge_mode: str = "on"
     nitter_instances: list[str] = field(default_factory=list)
@@ -77,11 +76,10 @@ class Settings:
                 os.environ.get("WOTD_MAX_ARTICLES_PER_SOURCE", "50")
             ),
             user_agent=os.environ.get("WOTD_USER_AGENT", DEFAULT_USER_AGENT),
-            llm_model=os.environ.get("WOTD_LLM_MODEL", "claude-sonnet-4-5"),
             linkfollow_max_per_issue=int(
                 os.environ.get("WOTD_LINKFOLLOW_MAX_PER_ISSUE", "10")
             ),
-            anthropic_api_key=os.environ.get("ANTHROPIC_API_KEY") or None,
+            openrouter_api_key=os.environ.get("OPENROUTER_API_KEY") or None,
             openrouter_models=[
                 s.strip()
                 for s in os.environ.get("WOTD_OPENROUTER_MODELS", "").split(",")

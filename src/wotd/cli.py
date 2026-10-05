@@ -235,8 +235,7 @@ def _blurb_day(paths: Paths, settings: Settings, target: date, *, force: bool) -
     ok = attach_blurb_to_wotd(
         wotd_path,
         evidence_articles,
-        model=settings.llm_model,
-        api_key=settings.anthropic_api_key,
+        api_key=settings.openrouter_api_key,
         openrouter_models=settings.openrouter_models or None,
     )
     log.info("blurb: %s -> %s", target, "written" if ok else "skipped")
