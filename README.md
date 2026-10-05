@@ -139,7 +139,7 @@ Useful environment variables:
 | `WOTD_FULLTEXT_CACHE_DIR` | `.cache/wotd/fulltext` | Where full text is cached per run. |
 | `ANTHROPIC_API_KEY` | _(unset)_ | Enables the LLM blurb step; unset → skipped. |
 | `OPENROUTER_API_KEY` | _(unset)_ | Enables the blurb through OpenRouter's free models; wins over `ANTHROPIC_API_KEY`. |
-| `WOTD_OPENROUTER_MODELS` | three `:free` models | Comma-separated OpenRouter models, tried in order with retries on rate limits. |
+| `WOTD_OPENROUTER_MODELS` | three `:free` models, then `openrouter/free` | Comma-separated OpenRouter models, tried in order with retries on rate limits. Anything not `:free` is skipped. |
 | `TYPESAFE_API_KEY` | _(unset)_ | Required by the judge. Unset → the run logs an error and falls back to the raw scorer. |
 | `WOTD_JUDGE` | `on` | `on` elects through the judge, `shadow` records it without changing the word, `off` skips it. |
 | `WOTD_LLM_MODEL` | `claude-sonnet-4-5` | Model for the blurb. |

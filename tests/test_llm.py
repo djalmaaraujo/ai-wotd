@@ -192,3 +192,21 @@ def test_generate_blurb_moves_on_when_a_model_answers_with_broken_json(monkeypat
     )
 
     assert blurb["model"] == "strict:free"
+
+
+def test_generate_blurb_never_sends_a_paid_model(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "or-key")
+    sent: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        sent.append(json.loads(request.content)["model"])
+        return httpx.Response(200, json={"choices": [{"message": {"content": json.dumps(BLURB)}}]})
+
+    _mock_openrouter(monkeypatch, handler)
+    blurb = generate_blurb(
+        word="mcp", candidates=[], evidence_articles=[],
+        openrouter_models=["anthropic/claude-sonnet-5.5", "openrouter/free"], sleep=lambda s: None,
+    )
+
+    assert sent == ["openrouter/free"]
+    assert blurb["model"] == "openrouter/free"

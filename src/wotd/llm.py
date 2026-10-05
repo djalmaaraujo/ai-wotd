@@ -25,7 +25,11 @@ OPENROUTER_MODELS = (
     "google/gemma-4-31b-it:free",
     "nvidia/nemotron-3-ultra-550b-a55b:free",
     "thinkingmachines/inkling:free",
+    "openrouter/free",
 )
+# The blurb must never cost money: only `:free` variants and OpenRouter's
+# free router are ever sent.
+FREE_ROUTER = "openrouter/free"
 OPENROUTER_TIMEOUT = 120.0
 ATTEMPTS_PER_MODEL = 3
 BACKOFF_SECONDS = 20.0
@@ -184,7 +188,7 @@ def generate_blurb(
     if openrouter_key:
         # Free models share a small rate limit and sometimes break the JSON,
         # so each one is tried in turn until one gives a usable blurb.
-        for candidate in openrouter_models or OPENROUTER_MODELS:
+        for candidate in _free_only(openrouter_models or OPENROUTER_MODELS):
             try:
                 text = _ask_openrouter(SUMMARY_PROMPT, user_msg, candidate, openrouter_key, sleep=sleep)
             except _Refused as exc:
@@ -199,6 +203,14 @@ def generate_blurb(
         return _blurb_from(text, model) if text else None
     logger.info("llm: skipped (no OPENROUTER_API_KEY or ANTHROPIC_API_KEY)")
     return None
+
+
+def _free_only(models: Sequence[str]) -> list[str]:
+    free = [m for m in models if m.endswith(":free") or m == FREE_ROUTER]
+    for model in models:
+        if model not in free:
+            logger.warning("llm: skipping %s; only free OpenRouter models are allowed", model)
+    return free
 
 
 def _blurb_from(text: str, model: str) -> dict | None:
