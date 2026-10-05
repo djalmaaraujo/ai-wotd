@@ -50,6 +50,7 @@ _WOTD_SCHEMA = pa.schema(
     [
         ("date", pa.string()),
         ("word", pa.string()),
+        ("label", pa.string()),
         ("score", pa.float64()),
         ("evidence_article_ids", pa.list_(pa.string())),
         ("candidate_terms", pa.list_(pa.string())),
@@ -149,6 +150,7 @@ def export_wotd(wotd_dir: Path, out: Path) -> int:
             {
                 "date": w.get("date"),
                 "word": w.get("word"),
+                "label": w.get("label") or w.get("word"),
                 "score": float(w.get("score") or 0.0),
                 "evidence_article_ids": list(w.get("evidence_article_ids") or []),
                 "candidate_terms": [c.get("term") for c in (w.get("candidates") or [])],

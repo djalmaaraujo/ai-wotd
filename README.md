@@ -16,21 +16,27 @@ repo.
 
 The pipeline is deterministic and reproducible:
 
-1. For each source, pull the feed and extract article / tweet text.
+1. For each source, pull the feed and extract the article body with
+   trafilatura, so navigation, footers and comment threads stay out.
 2. Tokenize (unigrams, bigrams, trigrams), drop English + news-generic
-   stopwords, keep hyphenated compounds and curated AI phrases
-   (`"context window"`, `"mcp"`, etc.).
+   stopwords, keep hyphenated compounds, curated AI phrases
+   (`"context window"`, `"mcp"`, etc.) and the version number on a
+   capitalised name (`"opus 5.5"`, `"gemini 4 argon"`). N-grams never cross
+   punctuation.
 3. Score each term with `log(1+tf_today) * (tf_today / avg_tf_baseline)
    * (0.5 + df_today/doc_count)`, where the baseline is the last 30 days.
    Boost allowlisted terms, demote terms that appear every day.
-4. Merge the top-scoring body terms with the terms today's headlines share,
-   trim filler off both ends, and drop phrases contained in a longer one.
+4. Merge the top-scoring body terms with the terms today's headlines share
+   and the capitalised names a single headline carries (`"Gemini Omni 1.1
+   Flash"`), trim filler off both ends, and drop phrases contained in a
+   longer counted one.
 5. Ask TypeSafe (Jev) five typed questions about every candidate in a single
-   request: is the string a usable name, how specific an AI term is it, did
-   something happen to it today, is it new against the last seven days of
-   headlines, and how much of today's coverage is about it.
+   request, over each article's clean headline and opening text: is the
+   string a usable name, how specific an AI term is it, did something happen
+   to it today, is it new against the last seven days of headlines, and how
+   much of today's coverage is about it.
 6. Keep the candidates that clear every threshold and elect the most
-   newsworthy one. **When nothing clears, the day has no word** — the site
+   newsworthy one, spelled the way the articles spell it (`label`). **When nothing clears, the day has no word** — the site
    says so instead of inventing one.
 7. Claude writes a ~150-word daily summary and a 2–3 sentence
    "why-it-trended" blurb. This step is optional and additive.

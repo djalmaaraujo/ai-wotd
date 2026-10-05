@@ -7,11 +7,11 @@
     <lastBuildDate>{{ now }}</lastBuildDate>
     {% for d in all_days %}
     <item>
-      <title>{{ d.word }} ({{ d.date }})</title>
+      <title>{{ d.label or d.word }} ({{ d.date }})</title>
       <link>{{ site_url }}/d/{{ d.date }}/</link>
       <guid isPermaLink="false">wotd-{{ d.date }}</guid>
       <pubDate>{{ d.date }}</pubDate>
-      <description>{% if d.llm and d.llm.why %}{{ d.llm.why|e }}{% else %}Word of the day: {{ d.word|e }}{% endif %}</description>
+      <description>{% if d.llm and d.llm.why %}{{ d.llm.why|e }}{% else %}Word of the day: {{ (d.label or d.word)|e }}{% endif %}</description>
     </item>
     {% endfor %}
   </channel>

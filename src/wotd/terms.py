@@ -401,3 +401,16 @@ def _clean_terms(terms: Iterable[str], stopwords: frozenset[str]) -> list[str]:
             continue
         ordered.setdefault(trimmed, None)
     return list(ordered)
+
+
+def surface_form(term: str, texts: Iterable[str]) -> str:
+    """The spelling the articles use most for `term` ("GPT-6.1 Sol"), else `term` itself."""
+    words = r"\s+".join(re.escape(part) for part in term.split())
+    pattern = re.compile(rf"(?<![\w.\-]){words}(?![\w\-])", re.IGNORECASE)
+    spellings: Counter = Counter()
+    for text in texts:
+        if text:
+            spellings.update(" ".join(m.split()) for m in pattern.findall(text.translate(_HYPHENS)))
+    if not spellings:
+        return term
+    return max(spellings.items(), key=lambda kv: (kv[1], sum(c.isupper() for c in kv[0])))[0]

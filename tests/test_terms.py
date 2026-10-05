@@ -6,6 +6,7 @@ from wotd.terms import (
     extract_terms,
     ngrams,
     summarize_per_day,
+    surface_form,
     title_names,
     title_terms,
     tokenize,
@@ -232,3 +233,16 @@ def test_a_headline_name_never_hides_a_shorter_candidate():
 def test_a_headline_name_is_dropped_when_a_counted_term_qualifies_it():
     pool = build_candidate_pool(["claude tag"], ["Claude ships everywhere"])
     assert "claude" not in pool
+
+
+def test_surface_form_spells_the_term_the_way_the_articles_do():
+    texts = [
+        "OpenAI launches GPT-6.1 Sol",
+        "GPT‑6.1 Sol is cheaper than gpt-6.1 sol pro",
+        "Why GPT-6.1 Sol matters",
+    ]
+    assert surface_form("gpt-6.1 sol", texts) == "GPT-6.1 Sol"
+
+
+def test_surface_form_keeps_the_term_when_no_article_spells_it():
+    assert surface_form("claude tag", ["Nothing here", "claude-tagged"]) == "claude tag"
