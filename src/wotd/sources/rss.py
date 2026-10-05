@@ -15,7 +15,9 @@ import httpx
 import trafilatura
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
+from lxml.etree import ParserError
 from readability import Document
+from readability.readability import Unparseable
 
 from ..linkfollow import canonicalize
 from ..robots import ALLOW, UNKNOWN, RobotsCache, blocked_by_header
@@ -47,9 +49,12 @@ def extract_article_text(html: str) -> tuple[str, str]:
         return title, text
 
     # Some pages are too short for trafilatura to call anything a body.
-    doc = Document(html)
-    title = (doc.short_title() or "").strip() or title
-    soup = BeautifulSoup(doc.summary(html_partial=True), "lxml")
+    try:
+        doc = Document(html)
+        title = (doc.short_title() or "").strip() or title
+        soup = BeautifulSoup(doc.summary(html_partial=True), "lxml")
+    except (ParserError, Unparseable):
+        return title, soup.get_text(separator="\n", strip=True)
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
     return title, soup.get_text(separator="\n", strip=True)

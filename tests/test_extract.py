@@ -25,3 +25,8 @@ def test_extract_article_text_keeps_the_story_and_drops_site_chrome():
     assert "Gemini 4 Argon on Tuesday" in text
     assert "Upgrade" not in text
     assert "Unsubscribe" not in text
+
+
+def test_extract_article_text_returns_nothing_for_a_page_with_no_document():
+    assert extract_article_text("<!-- only a comment -->") == ("", "")
+    assert extract_article_text("   ") == ("", "")
