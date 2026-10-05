@@ -1,7 +1,7 @@
 """Generic RSS/Atom adapter.
 
 Uses feedparser for the feed itself, httpx for article HTML fetches, and
-readability-lxml + BeautifulSoup to extract the main body.
+trafilatura (readability-lxml as a fallback) to extract the main body.
 """
 
 from __future__ import annotations
@@ -12,8 +12,10 @@ from typing import ClassVar, Iterable
 
 import feedparser
 import httpx
+import trafilatura
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
+from readability import Document
 
 from ..linkfollow import canonicalize
 from ..robots import ALLOW, UNKNOWN, RobotsCache, blocked_by_header
@@ -35,26 +37,22 @@ def _parse_date(value: str | None) -> str:
 
 
 def extract_article_text(html: str) -> tuple[str, str]:
-    """Return (title, text). Uses readability when available, BS4 fallback."""
+    """Return (title, text): the page's main body, without navigation or footer."""
     if not html:
         return "", ""
-    try:
-        from readability import Document  # type: ignore
+    soup = BeautifulSoup(html, "lxml")
+    title = soup.title.get_text(strip=True) if soup.title else ""
+    text = trafilatura.extract(html, include_comments=False, favor_precision=True) or ""
+    if text:
+        return title, text
 
-        doc = Document(html)
-        title = (doc.short_title() or "").strip()
-        summary_html = doc.summary(html_partial=True)
-        soup = BeautifulSoup(summary_html, "lxml")
-    except Exception:
-        soup = BeautifulSoup(html, "lxml")
-        t = soup.title
-        title = t.get_text(strip=True) if t else ""
-
-    # Strip scripts/styles that readability occasionally lets through.
+    # Some pages are too short for trafilatura to call anything a body.
+    doc = Document(html)
+    title = (doc.short_title() or "").strip() or title
+    soup = BeautifulSoup(doc.summary(html_partial=True), "lxml")
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
-    text = soup.get_text(separator="\n", strip=True)
-    return title, text
+    return title, soup.get_text(separator="\n", strip=True)
 
 
 def _feed_entry_text(entry) -> str:
