@@ -240,6 +240,19 @@
     ]
   },
   "label": "Gemini 4 Argon",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
+        "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer"
+      ],
+      "text": "Gemini 4 Argon is Google DeepMind's newest flagship large language model, designed for deep, long-horizon reasoning across software engineering, enterprise knowledge work, and cybersecurity defense. It features an experimental Long Decode Continuation that supports up to 1 million output tokens, far exceeding typical context windows. The model is initially available only to vetted security researchers via Google's Fairwind Program while the company completes voluntary U.S. government pre-release safety reviews."
+    },
+    "generated_at": "2026-10-05T21:27:33.110131+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Google unveiled Gemini 4 Argon, its latest frontier model, positioning it as a direct response to rival systems like Astra and Fable. The model achieves state-of-the-art results on 13 of 19 credible benchmarks and introduces an experimental Long Decode Continuation that pushes output tokens to 1 million — an industry first. Access is initially restricted to a cybersecurity preview via Google's Fairwind Program, targeting trusted defenders for tasks such as vulnerability hunting and patching. The company says it is simultaneously engaging with the U.S. government's voluntary pre-release access process before broadening availability. The launch follows a period of incremental Flash releases and a management shakeup at Google DeepMind, marking the lab's first larger-than-Flash model since Gemini 3.1 Pro in February.",
+    "why": "Gemini 4 Argon trended because Google officially announced the model today via its blog and the Latent Space newsletter, revealing benchmark-leading performance, a 1M-token output capability, and a gated rollout to cybersecurity defenders through the Fairwind Program — all framed as Google DeepMind's answer to competing frontier models from rivals."
+  },
   "score": 58.930838,
   "word": "gemini 4 argon"
 }

@@ -288,6 +288,20 @@
     ]
   },
   "label": "Pi Durable",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://earendil.com/posts/pi-durable",
+        "https://earendil.com/posts/pi-1-0",
+        "https://news.ycombinator.com/item?id=49925969"
+      ],
+      "text": "Pi Durable is an experimental TypeScript package from Earendil that extends the Pi coding agent into a durable execution harness. It externalizes agent state to enable long-running, interruptible, and portable agents that can persist across sessions and environments, unlike the interactive Pi 1.0 which relies on a human operator to resume after failures. It targets developers building autonomous agents that must survive process restarts and migrate across infrastructure."
+    },
+    "generated_at": "2026-10-05T21:26:13.235564+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Earendil released Pi 1.0, a hardened coding agent harness used by hundreds of thousands weekly, alongside an experimental companion package called Pi Durable. Pi Durable ports the agent to TypeScript and externalizes all state to support long-running, malleable agents that can operate across environments. The launch reached the front page of Hacker News with over 500 points. Pi 1.0 emphasizes minimalism and stability, adopting features like Codemode's native MCP support, deferred tool loading, and cache warming only after they prove durable. Earendil positions Pi Durable as a harness for agents that persist beyond single sessions, contrasting with Pi 1.0's interactive terminal model where a human restarts the process on failure.",
+    "why": "Pi Durable trended because Earendil announced it simultaneously with Pi 1.0 as a new experimental package for durable, long-running agents, and the combined launch hit the front page of Hacker News with 506 points and 72 comments, drawing attention from the AI engineering community."
+  },
   "score": 180.464333,
   "word": "pi durable"
 }

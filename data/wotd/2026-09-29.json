@@ -256,6 +256,20 @@
     ]
   },
   "label": "Claude Sonnet 5.5",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://www.anthropic.com/claude-sonnet-5-5",
+        "https://www.anthropic.com/news/claude-3-5-sonnet",
+        "https://arxiv.org/abs/2406.12865"
+      ],
+      "text": "Claude Sonnet 5.5 is Anthropic's mid-tier large language model released in 2025, designed for everyday coding, debugging, and document creation. It sits between the high-capability Opus 5.5 and the forthcoming lightweight Haiku 5.5 in the Claude 5.5 family. The model delivers a 70.6% score on Terminal-Bench 4.0, an agentic coding benchmark, while operating 30% faster and up to 30% cheaper than its predecessor Sonnet 5. It is accessed via Anthropic's API and chat interface for software engineering and knowledge work."
+    },
+    "generated_at": "2026-10-05T21:32:47.452382+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Anthropic released Claude Sonnet 5.5, the second model in its Claude 5.5 family, positioning it as a faster and cheaper complement to the flagship Opus 5.5. The model scores 70.6% on Terminal-Bench 4.0, a dramatic jump from Sonnet 5's 10.3%, and runs over 30% faster at up to 30% lower cost. It targets well-scoped coding tasks, bug fixes, and document generation. Meanwhile, AMD acquired Fei-Fei Li's World Labs for $8.2 billion, gaining the Atlas spatial intelligence model for robotics simulation. OpenAI reportedly pulled the GPT Astra 6.1 launch, and Nvidia introduced new guardrails for autonomous agents. The releases signal a market splitting into specialized tiers: high-judgment flagship models, efficient daily drivers, and domain-specific spatial reasoning systems.",
+    "why": "Claude Sonnet 5.5 trended because Anthropic published its official launch announcement today, revealing a 70.6% Terminal-Bench score — a 60-point leap over Sonnet 5 — alongside 30% speed and cost improvements. The release was immediately covered by technical newsletters like Code Newsletter and Latent Space, which highlighted its debugging strength and positioning against Opus 5.5."
+  },
   "score": 20.08891,
   "word": "claude sonnet 5.5"
 }
