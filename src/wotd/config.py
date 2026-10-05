@@ -65,6 +65,7 @@ class Settings:
     llm_model: str = "claude-sonnet-4-5"
     linkfollow_max_per_issue: int = 10
     anthropic_api_key: str | None = None
+    openrouter_models: list[str] = field(default_factory=list)
     judge_mode: str = "on"
     nitter_instances: list[str] = field(default_factory=list)
 
@@ -81,6 +82,11 @@ class Settings:
                 os.environ.get("WOTD_LINKFOLLOW_MAX_PER_ISSUE", "10")
             ),
             anthropic_api_key=os.environ.get("ANTHROPIC_API_KEY") or None,
+            openrouter_models=[
+                s.strip()
+                for s in os.environ.get("WOTD_OPENROUTER_MODELS", "").split(",")
+                if s.strip()
+            ],
             judge_mode=os.environ.get("WOTD_JUDGE", "on").strip().lower() or "on",
             nitter_instances=[
                 s.strip()

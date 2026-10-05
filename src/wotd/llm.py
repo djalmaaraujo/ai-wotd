@@ -1,7 +1,8 @@
-"""Anthropic client — daily summary + why-it-trended blurb.
+"""LLM client: daily summary + why-it-trended blurb.
 
-No-op when ANTHROPIC_API_KEY is unset so local dev and CI without the secret
-still succeed.
+Uses OpenRouter when OPENROUTER_API_KEY is set (free models by default),
+else Anthropic when ANTHROPIC_API_KEY is set, else does nothing, so local dev
+and CI without a secret still succeed.
 """
 
 from __future__ import annotations
@@ -9,10 +10,28 @@ from __future__ import annotations
 import json
 import logging
 import os
+import time
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Sequence
+
+import httpx
 
 logger = logging.getLogger(__name__)
+
+
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_MODELS = (
+    "google/gemma-4-31b-it:free",
+    "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "thinkingmachines/inkling:free",
+)
+OPENROUTER_TIMEOUT = 120.0
+ATTEMPTS_PER_MODEL = 3
+BACKOFF_SECONDS = 20.0
+MAX_WAIT_SECONDS = 90.0
+RETRYABLE_STATUS = frozenset({408, 429, 500, 502, 503, 504})
+MAX_TOKENS = 1200
 
 
 SUMMARY_PROMPT = """You are writing for an AI industry daily digest.
@@ -53,10 +72,92 @@ def _build_user_message(word: str, candidates: list[dict], evidence: list[dict])
     for art in evidence[:8]:
         lines.append(f"  - [{art.get('source_id','?')}] {art.get('title','(no title)')}")
         lines.append(f"    url: {art.get('url','')}")
-        snippet = art.get("snippet") or art.get("content_text") or ""
+        snippet = art.get("content_text") or art.get("snippet") or ""
         if snippet:
             lines.append(f"    excerpt: {snippet[:800]}")
     return "\n".join(lines)
+
+
+def _retry_wait(response: httpx.Response | None, attempt: int) -> float:
+    try:
+        asked = float(response.headers.get("retry-after", "")) if response is not None else 0.0
+    except ValueError:
+        asked = 0.0
+    return min(asked or BACKOFF_SECONDS * (attempt + 1), MAX_WAIT_SECONDS)
+
+
+class _Refused(Exception):
+    """OpenRouter turned the request down for a reason no retry will fix."""
+
+
+def _ask_openrouter(system: str, user: str, model: str, key: str, *, sleep=time.sleep) -> str | None:
+    """Return the model's text, retrying a free-tier rate limit with backoff.
+
+    Raises `_Refused` on an error that is the same for every model (bad key,
+    no credit), so the caller stops instead of walking the whole list.
+    """
+    for attempt in range(ATTEMPTS_PER_MODEL):
+        response = None
+        try:
+            with httpx.Client(timeout=OPENROUTER_TIMEOUT) as client:
+                response = client.post(
+                    OPENROUTER_URL,
+                    headers={"Authorization": f"Bearer {key}", "X-Title": "ai-wotd"},
+                    json={
+                        "model": model,
+                        "temperature": 0.2,
+                        "max_tokens": MAX_TOKENS,
+                        "messages": [
+                            {"role": "system", "content": system},
+                            {"role": "user", "content": user},
+                        ],
+                    },
+                )
+        except httpx.HTTPError as exc:
+            logger.warning("llm: %s request failed: %s", model, exc)
+        else:
+            if response.status_code == 200:
+                text = _openrouter_text(response)
+                if text:
+                    return text
+                logger.warning("llm: %s answered with no text", model)
+            elif response.status_code in RETRYABLE_STATUS:
+                logger.warning("llm: %s returned %s", model, response.status_code)
+            else:
+                raise _Refused(f"OpenRouter returned {response.status_code}: {response.text[:200]}")
+        if attempt < ATTEMPTS_PER_MODEL - 1:
+            sleep(_retry_wait(response, attempt))
+    return None
+
+
+def _openrouter_text(response: httpx.Response) -> str:
+    try:
+        choices = response.json().get("choices") or []
+        return (choices[0]["message"].get("content") or "").strip() if choices else ""
+    except (ValueError, KeyError, TypeError, AttributeError):
+        return ""
+
+
+def _ask_anthropic(system: str, user: str, model: str, key: str) -> str | None:
+    try:
+        from anthropic import Anthropic
+    except ImportError:
+        logger.warning("llm: anthropic SDK not installed; skipping")
+        return None
+    try:
+        resp = Anthropic(api_key=key).messages.create(
+            model=model,
+            max_tokens=MAX_TOKENS,
+            temperature=0.2,
+            system=system,
+            messages=[{"role": "user", "content": user}],
+        )
+    except Exception as exc:  # network / API errors — don't fail the pipeline
+        logger.warning("llm: Anthropic call failed: %s", exc)
+        return None
+    return "".join(
+        block.text for block in resp.content if getattr(block, "type", None) == "text"
+    ).strip()
 
 
 def generate_blurb(
@@ -66,49 +167,45 @@ def generate_blurb(
     evidence_articles: list[dict],
     model: str = "claude-sonnet-4-5",
     api_key: str | None = None,
+    openrouter_models: Sequence[str] | None = None,
+    sleep=time.sleep,
 ) -> dict | None:
-    """Call Anthropic Messages API; return {summary, why, definition, model, generated_at}.
+    """Ask an LLM for {summary, why, definition, model, generated_at}.
 
-    Returns None (and logs) if the API key is missing or the SDK import fails.
+    Returns None (and logs) when no key is set or every attempt fails.
     """
-    key = api_key or os.environ.get("ANTHROPIC_API_KEY")
-    if not key:
-        logger.info("llm: skipped (no ANTHROPIC_API_KEY)")
-        return None
     if not word:
         logger.info("llm: skipped (no WOTD word)")
         return None
-
-    try:
-        from anthropic import Anthropic
-    except ImportError:
-        logger.warning("llm: anthropic SDK not installed; skipping")
-        return None
-
-    client = Anthropic(api_key=key)
     user_msg = _build_user_message(word, candidates, evidence_articles)
 
-    try:
-        resp = client.messages.create(
-            model=model,
-            max_tokens=1200,
-            temperature=0.2,
-            system=SUMMARY_PROMPT,
-            messages=[{"role": "user", "content": user_msg}],
-        )
-    except Exception as exc:  # network / API errors — don't fail the pipeline
-        logger.warning("llm: Anthropic call failed: %s", exc)
+    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+    anthropic_key = api_key or os.environ.get("ANTHROPIC_API_KEY")
+    if openrouter_key:
+        # Free models share a small rate limit and sometimes break the JSON,
+        # so each one is tried in turn until one gives a usable blurb.
+        for candidate in openrouter_models or OPENROUTER_MODELS:
+            try:
+                text = _ask_openrouter(SUMMARY_PROMPT, user_msg, candidate, openrouter_key, sleep=sleep)
+            except _Refused as exc:
+                logger.warning("llm: %s", exc)
+                return None
+            blurb = _blurb_from(text, candidate) if text else None
+            if blurb:
+                return blurb
         return None
+    if anthropic_key:
+        text = _ask_anthropic(SUMMARY_PROMPT, user_msg, model, anthropic_key)
+        return _blurb_from(text, model) if text else None
+    logger.info("llm: skipped (no OPENROUTER_API_KEY or ANTHROPIC_API_KEY)")
+    return None
 
-    text = "".join(
-        block.text for block in resp.content if getattr(block, "type", None) == "text"
-    ).strip()
 
+def _blurb_from(text: str, model: str) -> dict | None:
     summary, why, definition = _parse_response(text)
     if not summary or not why:
-        logger.warning("llm: could not parse response; raw=%r", text[:200])
+        logger.warning("llm: could not parse %s's response; raw=%r", model, text[:200])
         return None
-
     result = {
         "summary": summary,
         "why": why,
@@ -185,6 +282,7 @@ def attach_blurb_to_wotd(
     evidence_articles: list[dict],
     model: str = "claude-sonnet-4-5",
     api_key: str | None = None,
+    openrouter_models: Sequence[str] | None = None,
 ) -> bool:
     """Load `wotd_path`, call the LLM, and persist the blurb back.
 
@@ -204,6 +302,7 @@ def attach_blurb_to_wotd(
         evidence_articles=evidence_articles,
         model=model,
         api_key=api_key,
+        openrouter_models=openrouter_models,
     )
     if not blurb:
         return False

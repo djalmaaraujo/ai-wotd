@@ -38,8 +38,8 @@ The pipeline is deterministic and reproducible:
 6. Keep the candidates that clear every threshold and elect the most
    newsworthy one, spelled the way the articles spell it (`label`). **When nothing clears, the day has no word** — the site
    says so instead of inventing one.
-7. Claude writes a ~150-word daily summary and a 2–3 sentence
-   "why-it-trended" blurb. This step is optional and additive.
+7. An LLM (OpenRouter free models, or Claude) writes a ~150-word daily
+   summary and a 2–3 sentence "why-it-trended" blurb. This step is optional and additive.
 
 Every judgment is committed under `judge` in `data/wotd/<date>.json`, so any
 pick can be audited without re-running anything.
@@ -138,6 +138,8 @@ Useful environment variables:
 | `WOTD_USER_AGENT` | `ai-wotd/1.0 ...` | HTTP User-Agent. |
 | `WOTD_FULLTEXT_CACHE_DIR` | `.cache/wotd/fulltext` | Where full text is cached per run. |
 | `ANTHROPIC_API_KEY` | _(unset)_ | Enables the LLM blurb step; unset → skipped. |
+| `OPENROUTER_API_KEY` | _(unset)_ | Enables the blurb through OpenRouter's free models; wins over `ANTHROPIC_API_KEY`. |
+| `WOTD_OPENROUTER_MODELS` | three `:free` models | Comma-separated OpenRouter models, tried in order with retries on rate limits. |
 | `TYPESAFE_API_KEY` | _(unset)_ | Required by the judge. Unset → the run logs an error and falls back to the raw scorer. |
 | `WOTD_JUDGE` | `on` | `on` elects through the judge, `shadow` records it without changing the word, `off` skips it. |
 | `WOTD_LLM_MODEL` | `claude-sonnet-4-5` | Model for the blurb. |
