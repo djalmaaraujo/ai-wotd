@@ -1,0 +1,26 @@
+src/wotd/sources/rss.py
+  s_0a9a0a6848fde3::t_ec76a86be3a1b2 4,15,18
+  s_0a9a0a6848fde3::t_c8f33fe5cb0e72 40,43-47,49-52,55
+tests/test_extract.py
+  s_0a9a0a6848fde3::t_3d4efbd9950cd5 1-27
+pyproject.toml
+  s_0a9a0a6848fde3::t_ec76a86be3a1b2 19-20
+requirements.txt
+  s_0a9a0a6848fde3::t_ec76a86be3a1b2 6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6efba6ffc1268af6254f445d65946d193ae71ccf",
+  "prompts": {},
+  "sessions": {
+    "s_0a9a0a6848fde3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0905b548-5b68-441b-84b5-089eb2d6b7a9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
