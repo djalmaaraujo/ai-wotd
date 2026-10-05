@@ -168,39 +168,55 @@ def _latest_wotd_date(wotd_dir: Path) -> date | None:
     return max(days) if days else None
 
 
+RECENT_BLURB_DAYS = 7
+
+
+def _elected_days(wotd_dir: Path) -> list[date]:
+    """Days with a word, newest first."""
+    days: list[date] = []
+    for p in sorted(wotd_dir.glob("*.json"), reverse=True):
+        try:
+            if json.loads(p.read_text()).get("word"):
+                days.append(date.fromisoformat(p.stem))
+        except Exception:
+            continue
+    return days
+
+
 def cmd_blurb(args) -> int:
+    """Write the LLM blurb for the latest word, a given `--date`, or every
+    word of the last `--recent` days that has none yet."""
     paths = _paths_for(args)
     settings = Settings.from_env()
+    recent = getattr(args, "recent", None)
     if args.date:
-        target = _parse_date(args.date)
+        targets = [_parse_date(args.date)]
+    elif recent:
+        since = datetime.now(timezone.utc).date() - timedelta(days=recent - 1)
+        targets = [d for d in _elected_days(paths.wotd) if d >= since]
     else:
-        # Default: most recent day that actually has a word elected.
-        latest = None
-        for p in sorted(paths.wotd.glob("*.json"), reverse=True):
-            try:
-                payload = json.loads(p.read_text())
-            except Exception:
-                continue
-            if payload.get("word"):
-                latest = date.fromisoformat(p.stem)
-                break
-        if latest is None:
-            log.info("blurb: no elected word to blurb yet")
-            return 0
-        target = latest
+        targets = _elected_days(paths.wotd)[:1]
+    if not targets:
+        log.info("blurb: no elected word to blurb yet")
+        return 0
+    for target in targets:
+        _blurb_day(paths, settings, target, force=getattr(args, "force", False))
+    return 0
 
+
+def _blurb_day(paths: Paths, settings: Settings, target: date, *, force: bool) -> None:
     wotd_path = paths.wotd / f"{target.isoformat()}.json"
     if not wotd_path.exists():
         log.info("blurb: no wotd json for %s", target)
-        return 0
+        return
 
     with open(wotd_path, "r", encoding="utf-8") as f:
         payload = json.load(f)
 
     # Don't re-blurb if it already has one (avoid burning API quota daily).
-    if payload.get("llm", {}).get("summary") and not getattr(args, "force", False):
+    if payload.get("llm", {}).get("summary") and not force:
         log.info("blurb: %s already has a blurb; skipping", target)
-        return 0
+        return
 
     # Collect evidence with full text (from cache if present).
     evidence_articles: list[dict] = []
@@ -219,11 +235,10 @@ def cmd_blurb(args) -> int:
     ok = attach_blurb_to_wotd(
         wotd_path,
         evidence_articles,
-        model=settings.llm_model,
-        api_key=settings.anthropic_api_key,
+        api_key=settings.openrouter_api_key,
+        openrouter_models=settings.openrouter_models or None,
     )
     log.info("blurb: %s -> %s", target, "written" if ok else "skipped")
-    return 0
 
 
 def cmd_export(args) -> int:
@@ -415,6 +430,12 @@ def build_parser() -> argparse.ArgumentParser:
     sp = sub.add_parser("blurb")
     sp.add_argument("--date", default=None)
     sp.add_argument("--force", action="store_true", help="Re-blurb even if already present.")
+    sp.add_argument(
+        "--recent",
+        type=int,
+        default=None,
+        help="Blurb every word of the last N days that has no blurb yet.",
+    )
     sp.set_defaults(fn=cmd_blurb)
 
     sub.add_parser("export").set_defaults(fn=cmd_export)
@@ -423,6 +444,12 @@ def build_parser() -> argparse.ArgumentParser:
 
     sp = sub.add_parser("run")
     sp.add_argument("--date", default=None)
+    sp.add_argument(
+        "--recent",
+        type=int,
+        default=RECENT_BLURB_DAYS,
+        help="Also blurb words of the last N days that still have none.",
+    )
     sp.set_defaults(fn=cmd_run)
 
     sp = sub.add_parser("reprocess")

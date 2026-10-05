@@ -63,9 +63,9 @@ jobs:
           WOTD_JUDGE: ${{ inputs.judge }}
         run: wotd wotd --backfill
 
-      - name: Claude blurb (latest elected day only; skipped if key absent)
+      - name: LLM blurb (latest elected day only; skipped if key absent)
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: wotd blurb
 
       - name: Export Parquet

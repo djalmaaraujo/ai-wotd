@@ -3,9 +3,9 @@
 A public hub that surfaces the single AI term being hyped each day, built
 entirely on GitHub. Every day a scheduled Action ingests a curated list of
 RSS feeds, newsletters, and X accounts, runs a deterministic trending score
-over the corpus, picks a word, has Claude write a short context blurb, and
-commits both a Parquet-backed dataset and a minimal static site back to the
-repo.
+over the corpus, picks a word, has a free OpenRouter model write a short
+context blurb, and commits both a Parquet-backed dataset and a minimal static
+site back to the repo.
 
 - **Site**: served by GitHub Pages from `/docs`.
 - **Data**: Parquet + JSON under `/data`, queryable via DuckDB or the
@@ -38,8 +38,8 @@ The pipeline is deterministic and reproducible:
 6. Keep the candidates that clear every threshold and elect the most
    newsworthy one, spelled the way the articles spell it (`label`). **When nothing clears, the day has no word** — the site
    says so instead of inventing one.
-7. Claude writes a ~150-word daily summary and a 2–3 sentence
-   "why-it-trended" blurb. This step is optional and additive.
+7. A free OpenRouter model writes a ~150-word daily
+   summary and a 2–3 sentence "why-it-trended" blurb. This step is optional and additive.
 
 Every judgment is committed under `judge` in `data/wotd/<date>.json`, so any
 pick can be audited without re-running anything.
@@ -137,10 +137,10 @@ Useful environment variables:
 | `WOTD_MAX_ARTICLES_PER_SOURCE` | `50` | Safety cap on the first fetch. |
 | `WOTD_USER_AGENT` | `ai-wotd/1.0 ...` | HTTP User-Agent. |
 | `WOTD_FULLTEXT_CACHE_DIR` | `.cache/wotd/fulltext` | Where full text is cached per run. |
-| `ANTHROPIC_API_KEY` | _(unset)_ | Enables the LLM blurb step; unset → skipped. |
+| `OPENROUTER_API_KEY` | _(unset)_ | Enables the blurb through OpenRouter's free models; unset → skipped. |
+| `WOTD_OPENROUTER_MODELS` | two `:free` models, then `openrouter/free` | Comma-separated OpenRouter models, tried in order with retries on rate limits. Anything not `:free` is skipped. |
 | `TYPESAFE_API_KEY` | _(unset)_ | Required by the judge. Unset → the run logs an error and falls back to the raw scorer. |
 | `WOTD_JUDGE` | `on` | `on` elects through the judge, `shadow` records it without changing the word, `off` skips it. |
-| `WOTD_LLM_MODEL` | `claude-sonnet-4-5` | Model for the blurb. |
 | `WOTD_LINKFOLLOW_MAX_PER_ISSUE` | `10` | Cap on one-hop links per newsletter issue. |
 | `WOTD_NITTER_INSTANCES` | _(builtin list)_ | Comma-separated Nitter hosts. |
 | `X_BEARER_TOKEN` | _(unset)_ | Only needed for sources with `x_api: true`. |
