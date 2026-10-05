@@ -1,0 +1,23 @@
+README.md
+  s_0a9a0a6848fde3::t_31bda7cec8c8a6 142
+src/wotd/llm.py
+  s_0a9a0a6848fde3::t_17f17539335750 28,30-32,191,208-215
+tests/test_llm.py
+  s_0a9a0a6848fde3::t_f65a7a765f2330 195-212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b20b75dc07ad0ab38675f5f0964ed69875b62cfc",
+  "prompts": {},
+  "sessions": {
+    "s_0a9a0a6848fde3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0905b548-5b68-441b-84b5-089eb2d6b7a9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
