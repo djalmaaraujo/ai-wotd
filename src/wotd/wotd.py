@@ -178,6 +178,10 @@ def _judge_payload(
     pool = build_candidate_pool(
         [c.term for c in candidates[:BODY_CANDIDATES]],
         [a.get("title") for a in articles],
+        term_df={
+            term: int(info.get("df", 0))
+            for term, info in today_stats.get("terms", {}).items()
+        },
     )
     try:
         judgment = judge_fn(
