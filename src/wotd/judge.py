@@ -19,6 +19,8 @@ from typing import Iterable, Sequence
 
 import httpx
 
+from .terms import clean_title
+
 logger = logging.getLogger(__name__)
 
 
@@ -29,8 +31,12 @@ MAX_ATTEMPTS = 3
 BACKOFF_SECONDS = 2.0
 RETRYABLE_STATUS = frozenset({429, 500, 502, 503, 504, 529})
 
-MAX_ARTICLES = 60
+MAX_ARTICLES = 80
 MAX_RECENT_TITLES = 60
+# Jev reads 32k tokens of state plus the longest question; ~4 chars a token
+# keeps today's text near 18k and leaves room for `recent` and the question.
+TODAY_CHARS = 72_000
+TEXT_MAX_CHARS = 700
 
 SPECIFICITY_MIN = 1.85
 FORM_MIN = 0.8
@@ -106,13 +112,20 @@ class Judgment:
 
 
 def _state(articles: Iterable[dict], recent_titles: Sequence[str], date: str) -> dict:
+    """The day as Jev reads it: each article's headline and opening text.
+
+    Feed items come before the pages a newsletter links to, so a busy link
+    roundup cannot push the day's own posts out of the state.
+    """
+    picked = sorted(articles, key=lambda a: a.get("via_source_id") is not None)[:MAX_ARTICLES]
+    room = min(TEXT_MAX_CHARS, TODAY_CHARS // max(len(picked), 1))
     today = [
         {
             "source": a.get("source_id") or a.get("source"),
-            "title": a.get("title"),
-            "snippet": a.get("snippet"),
+            "title": clean_title(a.get("title")),
+            "text": (a.get("lede") or a.get("snippet") or "")[:room],
         }
-        for a in list(articles)[:MAX_ARTICLES]
+        for a in picked
     ]
     return {"date": date, "today": today, "recent": list(recent_titles)[:MAX_RECENT_TITLES]}
 
