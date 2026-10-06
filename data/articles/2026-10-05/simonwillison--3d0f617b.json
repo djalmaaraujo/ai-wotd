@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--3d0f617b",
+  "author": "Simon Willison",
+  "content_chars": 1207,
+  "content_sha256": "323a7a3fc156fe7193fe81de420e3a7d58b89a8068b559bef661f6efe6056204",
+  "content_tokens": 301,
+  "fetched_at": "2026-10-06T13:18:43Z",
+  "kind": "article",
+  "published_at": "2026-10-05T23:56:47+00:00",
+  "snippet": "5th October 2026 The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your…",
+  "source_id": "simonwillison",
+  "title": "Quoting Felix Rieseberg",
+  "top_terms": [
+    [
+      "vm",
+      6
+    ],
+    [
+      "the vm",
+      5
+    ],
+    [
+      "cowork",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "added",
+      2
+    ],
+    [
+      "battery",
+      2
+    ],
+    [
+      "cloud",
+      2
+    ],
+    [
+      "cowork runs",
+      2
+    ],
+    [
+      "cowork runs model",
+      2
+    ],
+    [
+      "didn't",
+      2
+    ],
+    [
+      "didn't love",
+      2
+    ],
+    [
+      "felix",
+      2
+    ],
+    [
+      "felix rieseberg",
+      2
+    ],
+    [
+      "file",
+      2
+    ],
+    [
+      "in the cloud",
+      2
+    ],
+    [
+      "inference",
+      2
+    ],
+    [
+      "love",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "model inference",
+      2
+    ],
+    [
+      "october",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+  "via_source_id": null
+}
