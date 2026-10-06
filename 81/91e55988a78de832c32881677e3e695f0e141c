@@ -1,0 +1,30 @@
+tests/test_llm.py
+  s_0a9a0a6848fde3::t_568c1a63519761 5-6,70-91,139,143,147,161,167-190,199,202,206-231,245,261,278,296
+src/wotd/llm.py
+  s_0a9a0a6848fde3::t_f13509447307f3 214-215
+  s_0a9a0a6848fde3::t_63333015c5d114 34-41,80,84,89,93-111,113-122,129,160,170-171,190,192,194-196,207-209,212-213,216-229,322,342
+README.md
+  s_0a9a0a6848fde3::t_f13509447307f3 141
+.github/workflows/daily.yml
+  s_0a9a0a6848fde3::t_f13509447307f3 19
+src/wotd/cli.py
+  s_0a9a0a6848fde3::t_f13509447307f3 14,202-203,205,209-211,244
+src/wotd/config.py
+  s_0a9a0a6848fde3::t_f13509447307f3 67,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8191e55988a78de832c32881677e3e695f0e141c",
+  "prompts": {},
+  "sessions": {
+    "s_0a9a0a6848fde3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0905b548-5b68-441b-84b5-089eb2d6b7a9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
