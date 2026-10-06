@@ -2,6 +2,8 @@ import json
 import os
 from pathlib import Path
 
+import time
+
 import httpx
 
 from wotd.llm import _parse_response, attach_blurb_to_wotd, generate_blurb
@@ -65,6 +67,28 @@ def test_attach_blurb_to_wotd_no_key_preserves_file(tmp_path: Path, monkeypatch)
     assert json.loads(wotd_path.read_text()) == payload
 
 
+class _FakeBudget:
+    """A wait budget on a fake clock, so tests never sleep."""
+
+    def __init__(self, seconds: float):
+        from wotd.llm import WaitBudget
+
+        self.now = 0.0
+        self.waits: list[float] = []
+        self.inner = WaitBudget(seconds, sleep=self._sleep, clock=lambda: self.now)
+
+    def _sleep(self, seconds: float) -> None:
+        self.waits.append(seconds)
+        self.now += seconds
+
+    def __getattr__(self, name):
+        return getattr(self.inner, name)
+
+
+def _budget(seconds: float = 3600) -> "_FakeBudget":
+    return _FakeBudget(seconds)
+
+
 BLURB = {"summary": "Gemini 4 Argon shipped.", "why": "Google launched it.", "definition": {"text": "A model.", "references": []}}
 
 
@@ -112,15 +136,15 @@ def test_generate_blurb_waits_out_a_free_tier_limit_then_succeeds(monkeypatch):
         httpx.Response(200, json={"choices": [{"message": {"content": json.dumps(BLURB)}}]}),
     ]
     _mock_openrouter(monkeypatch, lambda request: replies.pop(0))
-    waits: list[float] = []
+    budget = _budget()
 
     blurb = generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["a:free"], sleep=waits.append,
+        openrouter_models=["a:free"], budget=budget,
     )
 
     assert blurb["model"] == "a:free"
-    assert waits == [7.0]
+    assert budget.waits == [7.0]
 
 
 def test_generate_blurb_moves_to_the_next_free_model_when_one_stays_limited(monkeypatch):
@@ -134,13 +158,36 @@ def test_generate_blurb_moves_to_the_next_free_model_when_one_stays_limited(monk
     _mock_openrouter(monkeypatch, handler)
     blurb = generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["busy:free", "idle:free"], sleep=lambda s: None,
+        openrouter_models=["busy:free", "idle:free"], budget=_budget(),
     )
 
     assert blurb["model"] == "idle:free"
 
 
-def test_generate_blurb_gives_up_quietly_when_every_model_refuses(monkeypatch):
+def test_generate_blurb_keeps_cycling_the_free_models_until_one_answers(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "or-key")
+    calls: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        calls.append(json.loads(request.content)["model"])
+        if len(calls) < 11:
+            return httpx.Response(429, json={"error": "rate limited"})
+        return httpx.Response(200, json={"choices": [{"message": {"content": json.dumps(BLURB)}}]})
+
+    _mock_openrouter(monkeypatch, handler)
+    budget = _budget(seconds=3600)
+    blurb = generate_blurb(
+        word="mcp", candidates=[], evidence_articles=[],
+        openrouter_models=["a:free", "b:free"], budget=budget,
+    )
+
+    assert blurb["model"] == "b:free"
+    assert calls[:6] == ["a:free"] * 3 + ["b:free"] * 3
+    assert calls[6:9] == ["a:free"] * 3
+    assert budget.now > 60
+
+
+def test_generate_blurb_gives_up_quietly_when_the_wait_budget_runs_out(monkeypatch):
     monkeypatch.setenv("OPENROUTER_API_KEY", "or-key")
     calls: list[str] = []
 
@@ -149,13 +196,39 @@ def test_generate_blurb_gives_up_quietly_when_every_model_refuses(monkeypatch):
         return httpx.Response(429, json={"error": "rate limited"})
 
     _mock_openrouter(monkeypatch, handler)
+    budget = _budget(seconds=600)
     blurb = generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["a:free", "b:free"], sleep=lambda s: None,
+        openrouter_models=["a:free", "b:free"], budget=budget,
     )
 
     assert blurb is None
-    assert calls == ["a:free"] * 3 + ["b:free"] * 3
+    assert len(calls) > 6
+    assert budget.now <= 600
+
+
+def test_generate_blurb_waits_until_the_rate_limit_resets(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "or-key")
+    reset_ms = str(int((time.time() + 120) * 1000))
+    replies = [
+        httpx.Response(429, headers={"x-ratelimit-reset": reset_ms}, json={"error": "rate limited"}),
+        httpx.Response(200, json={"choices": [{"message": {"content": json.dumps(BLURB)}}]}),
+    ]
+    _mock_openrouter(monkeypatch, lambda request: replies.pop(0))
+    budget = _budget()
+
+    generate_blurb(word="mcp", candidates=[], evidence_articles=[], openrouter_models=["a:free"], budget=budget)
+
+    assert 110 < budget.waits[0] <= 121
+
+
+def test_generate_blurb_sends_a_small_prompt():
+    from wotd.llm import _build_user_message
+
+    evidence = [{"source_id": "s", "title": f"t{i}", "url": "u", "content_text": "x" * 5000} for i in range(20)]
+    candidates = [{"term": f"c{i}", "tf_today": 1, "df_today": 1} for i in range(20)]
+
+    assert len(_build_user_message("mcp", candidates, evidence)) < 5000
 
 
 def test_generate_blurb_does_not_retry_a_bad_key(monkeypatch):
@@ -169,7 +242,7 @@ def test_generate_blurb_does_not_retry_a_bad_key(monkeypatch):
     _mock_openrouter(monkeypatch, handler)
     assert generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["a:free", "b:free"], sleep=lambda s: None,
+        openrouter_models=["a:free", "b:free"], budget=_budget(),
     ) is None
     assert len(calls) == 1
 
@@ -185,7 +258,7 @@ def test_generate_blurb_moves_on_when_a_model_answers_with_broken_json(monkeypat
     _mock_openrouter(monkeypatch, handler)
     blurb = generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["chatty:free", "strict:free"], sleep=lambda s: None,
+        openrouter_models=["chatty:free", "strict:free"], budget=_budget(),
     )
 
     assert blurb["model"] == "strict:free"
@@ -202,7 +275,7 @@ def test_generate_blurb_never_sends_a_paid_model(monkeypatch):
     _mock_openrouter(monkeypatch, handler)
     blurb = generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["anthropic/claude-sonnet-5.5", "openrouter/free"], sleep=lambda s: None,
+        openrouter_models=["anthropic/claude-sonnet-5.5", "openrouter/free"], budget=_budget(),
     )
 
     assert sent == ["openrouter/free"]
@@ -220,7 +293,7 @@ def test_generate_blurb_moves_on_when_one_model_is_forbidden(monkeypatch):
     _mock_openrouter(monkeypatch, handler)
     blurb = generate_blurb(
         word="mcp", candidates=[], evidence_articles=[],
-        openrouter_models=["harness-only:free", "openrouter/free"], sleep=lambda s: None,
+        openrouter_models=["harness-only:free", "openrouter/free"], budget=_budget(),
     )
 
     assert blurb["model"] == "openrouter/free"

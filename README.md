@@ -138,6 +138,7 @@ Useful environment variables:
 | `WOTD_USER_AGENT` | `ai-wotd/1.0 ...` | HTTP User-Agent. |
 | `WOTD_FULLTEXT_CACHE_DIR` | `.cache/wotd/fulltext` | Where full text is cached per run. |
 | `OPENROUTER_API_KEY` | _(unset)_ | Enables the blurb through OpenRouter's free models; unset → skipped. |
+| `WOTD_LLM_WAIT_SECONDS` | `1500` | How long one run keeps retrying the free models before it leaves a day without a blurb. |
 | `WOTD_OPENROUTER_MODELS` | two `:free` models, then `openrouter/free` | Comma-separated OpenRouter models, tried in order with retries on rate limits. Anything not `:free` is skipped. |
 | `TYPESAFE_API_KEY` | _(unset)_ | Required by the judge. Unset → the run logs an error and falls back to the raw scorer. |
 | `WOTD_JUDGE` | `on` | `on` elects through the judge, `shadow` records it without changing the word, `off` skips it. |

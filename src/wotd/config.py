@@ -64,6 +64,7 @@ class Settings:
     user_agent: str = DEFAULT_USER_AGENT
     linkfollow_max_per_issue: int = 10
     openrouter_api_key: str | None = None
+    llm_wait_seconds: float = 1500.0
     openrouter_models: list[str] = field(default_factory=list)
     judge_mode: str = "on"
     nitter_instances: list[str] = field(default_factory=list)
@@ -80,6 +81,7 @@ class Settings:
                 os.environ.get("WOTD_LINKFOLLOW_MAX_PER_ISSUE", "10")
             ),
             openrouter_api_key=os.environ.get("OPENROUTER_API_KEY") or None,
+            llm_wait_seconds=float(os.environ.get("WOTD_LLM_WAIT_SECONDS", "1500")),
             openrouter_models=[
                 s.strip()
                 for s in os.environ.get("WOTD_OPENROUTER_MODELS", "").split(",")

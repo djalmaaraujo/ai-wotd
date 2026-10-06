@@ -31,7 +31,14 @@ FREE_ROUTER = "openrouter/free"
 OPENROUTER_TIMEOUT = 120.0
 ATTEMPTS_PER_MODEL = 3
 BACKOFF_SECONDS = 20.0
-MAX_WAIT_SECONDS = 90.0
+MAX_WAIT_SECONDS = 300.0
+# The run waits for a free model rather than paying for one: after every
+# model failed, pause and go round again until this budget is spent.
+WAIT_BUDGET_SECONDS = 1500.0
+ROUND_PAUSE_SECONDS = 60.0
+CANDIDATES_SHOWN = 5
+EVIDENCE_ARTICLES = 6
+EXCERPT_CHARS = 600
 RETRYABLE_STATUS = frozenset({408, 429, 500, 502, 503, 504})
 # A bad key or an empty balance fails the same way for every model.
 ACCOUNT_STATUS = frozenset({401, 402})
@@ -70,32 +77,56 @@ def _build_user_message(word: str, candidates: list[dict], evidence: list[dict])
     lines.append(f"WORD OF THE DAY: {word}")
     lines.append("")
     lines.append("Top candidates (term, tf_today, df_today):")
-    for c in candidates[:10]:
+    for c in candidates[:CANDIDATES_SHOWN]:
         lines.append(f"  - {c['term']} (tf={c['tf_today']}, df={c['df_today']})")
     lines.append("")
     lines.append("Evidence articles:")
-    for art in evidence[:8]:
+    for art in evidence[:EVIDENCE_ARTICLES]:
         lines.append(f"  - [{art.get('source_id','?')}] {art.get('title','(no title)')}")
         lines.append(f"    url: {art.get('url','')}")
         snippet = art.get("content_text") or art.get("snippet") or ""
         if snippet:
-            lines.append(f"    excerpt: {snippet[:800]}")
+            lines.append(f"    excerpt: {snippet[:EXCERPT_CHARS]}")
     return "\n".join(lines)
 
 
+class WaitBudget:
+    """How long a run may still wait for free models, shared by every call."""
+
+    def __init__(self, seconds: float = WAIT_BUDGET_SECONDS, *, sleep=time.sleep, clock=time.monotonic):
+        self._sleep = sleep
+        self._clock = clock
+        self._deadline = clock() + seconds
+
+    def left(self) -> float:
+        return self._deadline - self._clock()
+
+    def wait(self, seconds: float) -> bool:
+        """Sleep `seconds` if the budget allows it; False when it does not."""
+        if seconds > self.left():
+            return False
+        self._sleep(seconds)
+        return True
+
+
 def _retry_wait(response: httpx.Response | None, attempt: int) -> float:
-    try:
-        asked = float(response.headers.get("retry-after", "")) if response is not None else 0.0
-    except ValueError:
-        asked = 0.0
-    return min(asked or BACKOFF_SECONDS * (attempt + 1), MAX_WAIT_SECONDS)
+    """The wait OpenRouter asks for (Retry-After, or the rate-limit reset), else a backoff."""
+    asked = 0.0
+    if response is not None:
+        try:
+            asked = float(response.headers.get("retry-after", "") or 0)
+            if not asked and response.headers.get("x-ratelimit-reset"):
+                asked = float(response.headers["x-ratelimit-reset"]) / 1000 - time.time() + 1
+        except ValueError:
+            asked = 0.0
+    return min(max(asked, 0.0) or BACKOFF_SECONDS * (attempt + 1), MAX_WAIT_SECONDS)
 
 
 class _Refused(Exception):
     """OpenRouter turned the request down for a reason no retry will fix."""
 
 
-def _ask_openrouter(system: str, user: str, model: str, key: str, *, sleep=time.sleep) -> str | None:
+def _ask_openrouter(system: str, user: str, model: str, key: str, budget: WaitBudget) -> str | None:
     """Return the model's text, retrying a free-tier rate limit with backoff.
 
     Raises `_Refused` on an error that is the same for every model (bad key,
@@ -126,7 +157,7 @@ def _ask_openrouter(system: str, user: str, model: str, key: str, *, sleep=time.
                 text = _openrouter_text(response)
                 if text:
                     return text
-                logger.warning("llm: %s answered with no text", model)
+                logger.warning("llm: %s answered with no text: %s", model, response.text[:200])
             elif response.status_code in RETRYABLE_STATUS:
                 logger.warning("llm: %s returned %s", model, response.status_code)
             elif response.status_code in ACCOUNT_STATUS:
@@ -136,8 +167,8 @@ def _ask_openrouter(system: str, user: str, model: str, key: str, *, sleep=time.
                     "llm: %s refused (%s): %s", model, response.status_code, response.text[:200]
                 )
                 return None
-        if attempt < ATTEMPTS_PER_MODEL - 1:
-            sleep(_retry_wait(response, attempt))
+        if attempt < ATTEMPTS_PER_MODEL - 1 and not budget.wait(_retry_wait(response, attempt)):
+            return None
     return None
 
 
@@ -156,11 +187,13 @@ def generate_blurb(
     evidence_articles: list[dict],
     api_key: str | None = None,
     openrouter_models: Sequence[str] | None = None,
-    sleep=time.sleep,
+    budget: WaitBudget | None = None,
 ) -> dict | None:
-    """Ask an LLM for {summary, why, definition, model, generated_at}.
+    """Ask a free model for {summary, why, definition, model, generated_at}.
 
-    Returns None (and logs) when no key is set or every attempt fails.
+    Keeps going round the free models, pausing longer after each round, until
+    one answers or `budget` runs out. Returns None (and logs) when no key is
+    set or the budget is spent.
     """
     if not word:
         logger.info("llm: skipped (no WOTD word)")
@@ -171,17 +204,29 @@ def generate_blurb(
     if not key:
         logger.info("llm: skipped (no OPENROUTER_API_KEY)")
         return None
+    models = _free_only(openrouter_models or OPENROUTER_MODELS)
+    budget = budget or WaitBudget()
+    rounds = 0
     # Free models share a small rate limit and sometimes break the JSON,
     # so each one is tried in turn until one gives a usable blurb.
-    for model in _free_only(openrouter_models or OPENROUTER_MODELS):
-        try:
-            text = _ask_openrouter(SUMMARY_PROMPT, user_msg, model, key, sleep=sleep)
-        except _Refused as exc:
-            logger.warning("llm: %s", exc)
-            return None
-        blurb = _blurb_from(text, model) if text else None
-        if blurb:
-            return blurb
+    while models and budget.left() > 0:
+        for model in models:
+            if budget.left() <= 0:
+                break
+            try:
+                text = _ask_openrouter(SUMMARY_PROMPT, user_msg, model, key, budget)
+            except _Refused as exc:
+                logger.warning("llm: %s", exc)
+                return None
+            blurb = _blurb_from(text, model) if text else None
+            if blurb:
+                return blurb
+        rounds += 1
+        pause = ROUND_PAUSE_SECONDS * rounds
+        logger.warning("llm: no free model answered in round %d; waiting %.0fs", rounds, pause)
+        if not budget.wait(pause):
+            break
+    logger.warning("llm: gave up on %r after %d round(s); the wait budget is spent", word, rounds)
     return None
 
 
@@ -274,6 +319,7 @@ def attach_blurb_to_wotd(
     evidence_articles: list[dict],
     api_key: str | None = None,
     openrouter_models: Sequence[str] | None = None,
+    budget: WaitBudget | None = None,
 ) -> bool:
     """Load `wotd_path`, call the LLM, and persist the blurb back.
 
@@ -293,6 +339,7 @@ def attach_blurb_to_wotd(
         evidence_articles=evidence_articles,
         api_key=api_key,
         openrouter_models=openrouter_models,
+        budget=budget,
     )
     if not blurb:
         return False

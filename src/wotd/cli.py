@@ -11,7 +11,7 @@ from pathlib import Path
 
 from . import corpus, export, fetch, site, state, wotd
 from .config import Paths, Settings, load_sources
-from .llm import attach_blurb_to_wotd
+from .llm import WaitBudget, attach_blurb_to_wotd
 
 log = logging.getLogger("wotd")
 
@@ -199,12 +199,16 @@ def cmd_blurb(args) -> int:
     if not targets:
         log.info("blurb: no elected word to blurb yet")
         return 0
+    # One budget for the whole step, so a slow free tier cannot outlast the job.
+    budget = WaitBudget(settings.llm_wait_seconds)
     for target in targets:
-        _blurb_day(paths, settings, target, force=getattr(args, "force", False))
+        _blurb_day(paths, settings, target, budget, force=getattr(args, "force", False))
     return 0
 
 
-def _blurb_day(paths: Paths, settings: Settings, target: date, *, force: bool) -> None:
+def _blurb_day(
+    paths: Paths, settings: Settings, target: date, budget: WaitBudget, *, force: bool
+) -> None:
     wotd_path = paths.wotd / f"{target.isoformat()}.json"
     if not wotd_path.exists():
         log.info("blurb: no wotd json for %s", target)
@@ -237,6 +241,7 @@ def _blurb_day(paths: Paths, settings: Settings, target: date, *, force: bool) -
         evidence_articles,
         api_key=settings.openrouter_api_key,
         openrouter_models=settings.openrouter_models or None,
+        budget=budget,
     )
     log.info("blurb: %s -> %s", target, "written" if ok else "skipped")
 
