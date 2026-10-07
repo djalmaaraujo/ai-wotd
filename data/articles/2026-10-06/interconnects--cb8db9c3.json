@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--cb8db9c3",
+  "author": null,
+  "content_chars": 13214,
+  "content_sha256": "88bd0eedd1ceb4cc5fec8a2041fa900393f9fab21bb9a869bcd5da45ba2d5264",
+  "content_tokens": 3303,
+  "fetched_at": "2026-10-07T13:21:27Z",
+  "kind": "article",
+  "published_at": "2026-10-06T14:22:41+00:00",
+  "snippet": "Intro On July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access internal OpenAI repositories, and potentially many other connectors. To prove we had in fact gained the access we…",
+  "source_id": "interconnects",
+  "title": "Hacking OpenAI | Hacktron AI",
+  "top_terms": [
+    [
+      "openai",
+      41
+    ],
+    [
+      "discourse",
+      28
+    ],
+    [
+      "security",
+      20
+    ],
+    [
+      "libheif",
+      13
+    ],
+    [
+      "exploit",
+      11
+    ],
+    [
+      "access",
+      10
+    ],
+    [
+      "opus",
+      9
+    ],
+    [
+      "vulnerabilities",
+      9
+    ],
+    [
+      "image",
+      8
+    ],
+    [
+      "report",
+      8
+    ],
+    [
+      "code",
+      7
+    ],
+    [
+      "codex",
+      7
+    ],
+    [
+      "forum",
+      7
+    ],
+    [
+      "heif",
+      7
+    ],
+    [
+      "across",
+      6
+    ],
+    [
+      "community",
+      6
+    ],
+    [
+      "debian",
+      6
+    ],
+    [
+      "rce",
+      6
+    ],
+    [
+      "research",
+      6
+    ],
+    [
+      "team",
+      6
+    ]
+  ],
+  "url": "https://www.hacktron.ai/blog/hacking-openai",
+  "url_canonical": "https://www.hacktron.ai/blog/hacking-openai",
+  "via_source_id": "interconnects"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--86b29e66",
+  "author": "Hugging Face Blog",
+  "content_chars": 6068,
+  "content_sha256": "c97c0b744abe128adfc0660d125a8a6fb4f0d0b68611d8e263d3f7d737e02679",
+  "content_tokens": 1517,
+  "fetched_at": "2026-10-07T13:18:39Z",
+  "kind": "article",
+  "published_at": "2026-10-07T12:45:31+00:00",
+  "snippet": "Our recent results show that Nemotron is a strong, adaptable foundation for building world-class specialist models. Starting from Nemotron 3, our teams used supervised fine-tuning (SFT), reinforcement learning (RL), and feedback-driven inference to create systems that reached…",
+  "source_id": "huggingface-blog",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "top_terms": [
+    [
+      "sft",
+      14
+    ],
+    [
+      "ioi",
+      13
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "imo",
+      12
+    ],
+    [
+      "rl",
+      11
+    ],
+    [
+      "nemotron",
+      10
+    ],
+    [
+      "inference",
+      8
+    ],
+    [
+      "system",
+      8
+    ],
+    [
+      "problems",
+      7
+    ],
+    [
+      "sft and",
+      7
+    ],
+    [
+      "and rl",
+      4
+    ],
+    [
+      "better",
+      4
+    ],
+    [
+      "billion",
+      4
+    ],
+    [
+      "checkpoint",
+      4
+    ],
+    [
+      "checkpoints",
+      4
+    ],
+    [
+      "fine-tuning",
+      4
+    ],
+    [
+      "gencorrect",
+      4
+    ],
+    [
+      "official",
+      4
+    ],
+    [
+      "parameters",
+      4
+    ],
+    [
+      "points",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "url_canonical": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "via_source_id": null
+}

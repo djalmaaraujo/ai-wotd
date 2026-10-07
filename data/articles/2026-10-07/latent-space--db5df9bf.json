@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--db5df9bf",
+  "author": null,
+  "content_chars": 1131,
+  "content_sha256": "bff67e0f514fd17956d4e70d953ab2213434cd6b67b455b2d5912876965f9fc3",
+  "content_tokens": 282,
+  "fetched_at": "2026-10-07T13:21:35Z",
+  "kind": "article",
+  "published_at": "2026-10-07T04:55:44+00:00",
+  "snippet": "Conversation This file contains hidden or bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters. Learn more about bidirectional Unicode characters Add this…",
+  "source_id": "latent-space",
+  "title": "model: support embeddinggemma2 (text+vision+audio) by ngxson · Pull Request #30054 · ggml-org/llama.cpp · GitHub",
+  "top_terms": [
+    [
+      "applied",
+      11
+    ],
+    [
+      "be applied",
+      10
+    ],
+    [
+      "cannot be applied",
+      7
+    ],
+    [
+      "suggestion",
+      7
+    ],
+    [
+      "suggestions",
+      7
+    ],
+    [
+      "suggestions cannot",
+      6
+    ],
+    [
+      "suggestions cannot be",
+      6
+    ],
+    [
+      "this suggestion",
+      4
+    ],
+    [
+      "applied while",
+      3
+    ],
+    [
+      "batch",
+      3
+    ],
+    [
+      "be applied while",
+      3
+    ],
+    [
+      "can be applied",
+      3
+    ],
+    [
+      "pull",
+      3
+    ],
+    [
+      "pull request",
+      3
+    ],
+    [
+      "request",
+      3
+    ],
+    [
+      "unicode",
+      3
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "add this",
+      2
+    ],
+    [
+      "add this suggestion",
+      2
+    ],
+    [
+      "applied as",
+      2
+    ]
+  ],
+  "url": "https://github.com/ggml-org/llama.cpp/pull/30054",
+  "url_canonical": "https://github.com/ggml-org/llama.cpp/pull/30054",
+  "via_source_id": "latent-space"
+}

@@ -1172,6 +1172,10 @@
     "article_id": "aibreakfast--5e4a447e",
     "first_seen_date": "2026-04-14"
   },
+  "https://aibreakfast.beehiiv.com/p/grok-bot-adopts-opus-5-5-other-leading-models": {
+    "article_id": "aibreakfast--3b6c99e5",
+    "first_seen_date": "2026-10-07"
+  },
   "https://aibreakfast.beehiiv.com/p/grok-bot-gives-ai-coworkers-their-own-cloud-computers-to-run-app": {
     "article_id": "aibreakfast--4ba6c566",
     "first_seen_date": "2026-08-13"
@@ -3786,6 +3790,10 @@
     "article_id": "codenewsletter--1ba5b900",
     "first_seen_date": "2026-06-26"
   },
+  "https://codenewsletter.ai/p/google-drops-a-double-release-for-builders": {
+    "article_id": "codenewsletter--75d7f043",
+    "first_seen_date": "2026-10-07"
+  },
   "https://codenewsletter.ai/p/google-drops-diffusiongemma-supermemory-now-runs-locally": {
     "article_id": "codenewsletter--6a9ecfc5",
     "first_seen_date": "2026-06-12"
@@ -4432,6 +4440,10 @@
   "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation": {
     "article_id": "google-deepmind--a003f3cf",
     "first_seen_date": "2026-06-11"
+  },
+  "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model": {
+    "article_id": "google-deepmind--9fe9af57",
+    "first_seen_date": "2026-10-07"
   },
   "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi": {
     "article_id": "google-deepmind--c825fe69",
@@ -5283,6 +5295,10 @@
     "article_id": "latent-space--c0f4a398",
     "first_seen_date": "2026-10-03"
   },
+  "https://github.com/ggml-org/llama.cpp/pull/30054": {
+    "article_id": "latent-space--db5df9bf",
+    "first_seen_date": "2026-10-07"
+  },
   "https://github.com/google-research/era/tree/main/era_applications": {
     "article_id": "latent-space--c7cea7e0",
     "first_seen_date": "2026-09-23"
@@ -5330,6 +5346,14 @@
   "https://github.com/openai/codex": {
     "article_id": "ahead-of-ai--b6234f05",
     "first_seen_date": "2026-09-23"
+  },
+  "https://github.com/openai/math": {
+    "article_id": "latent-space--cef8ce1c",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://github.com/openai/math/tree/main/preprints/The-Quasi-Riemann-Hypothesis-October-5-2026": {
+    "article_id": "latent-space--478dd1ea",
+    "first_seen_date": "2026-10-07"
   },
   "https://github.com/rasbt/LLMs-from-scratch": {
     "article_id": "ahead-of-ai--f2d1876f",
@@ -7890,6 +7914,10 @@
     "article_id": "huggingface-blog--56cb74c6",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
+    "article_id": "huggingface-blog--86b29e66",
+    "first_seen_date": "2026-10-07"
+  },
   "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion": {
     "article_id": "huggingface-blog--88a5cf0b",
     "first_seen_date": "2026-05-23"
@@ -9159,6 +9187,10 @@
     "article_id": "latent-space--0169ef76",
     "first_seen_date": "2026-10-03"
   },
+  "https://huggingface.co/ggml-org/embeddinggemma-2-GGUF": {
+    "article_id": "latent-space--49572146",
+    "first_seen_date": "2026-10-07"
+  },
   "https://huggingface.co/google/gemma-4-31B-it": {
     "article_id": "interconnects--cc269c47",
     "first_seen_date": "2026-09-23"
@@ -9246,6 +9278,10 @@
   "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
     "article_id": "latent-space--e06cb042",
     "first_seen_date": "2026-10-03"
+  },
+  "https://huggingface.co/unsloth/embeddinggemma-2-GGUF": {
+    "article_id": "latent-space--35bacf7d",
+    "first_seen_date": "2026-10-07"
   },
   "https://huggingface.co/zai-org/GLM-5.3": {
     "article_id": "interconnects--51197252",
@@ -9662,6 +9698,19 @@
     "article_id": "latent-space--e3020cd7",
     "first_seen_date": "2026-10-02"
   },
+  "https://news.ycombinator.com/item?id=49977979": {
+    "article_id": "latent-space--1acc6f5a",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://news.ycombinator.com/item?id=49985540": {
+    "article_id": null,
+    "first_seen_date": "2026-10-07",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/item?id=49986286": {
+    "article_id": "latent-space--415398ec",
+    "first_seen_date": "2026-10-07"
+  },
   "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers": {
     "article_id": "ai-snake-oil--f17f91e9",
     "first_seen_date": "2026-09-23"
@@ -9961,6 +10010,10 @@
     "article_id": "openai-blog--14a32437",
     "first_seen_date": "2026-07-16"
   },
+  "https://openai.com/index/advancing-computer-use-with-ironclad": {
+    "article_id": "openai-blog--43633b86",
+    "first_seen_date": "2026-10-07"
+  },
   "https://openai.com/index/advancing-content-provenance": {
     "article_id": "openai-blog--8447c4eb",
     "first_seen_date": "2026-05-20"
@@ -10024,6 +10077,10 @@
   "https://openai.com/index/astra-for-law": {
     "article_id": "openai-blog--14272322",
     "first_seen_date": "2026-09-18"
+  },
+  "https://openai.com/index/atlassian-partnership": {
+    "article_id": "openai-blog--3644b677",
+    "first_seen_date": "2026-10-07"
   },
   "https://openai.com/index/atv-big-air-tour": {
     "article_id": "openai-blog--a781b085",
@@ -10652,6 +10709,10 @@
     "article_id": "openai-blog--835b1bf6",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/jump-trading": {
+    "article_id": "openai-blog--9c2fe297",
+    "first_seen_date": "2026-10-07"
+  },
   "https://openai.com/index/k-12-educators-practical-skills": {
     "article_id": "openai-blog--d9809d94",
     "first_seen_date": "2026-07-09"
@@ -11042,6 +11103,10 @@
   "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
     "article_id": "openai-blog--a7892d5d",
     "first_seen_date": "2026-07-09"
+  },
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "article_id": "openai-blog--39722105",
+    "first_seen_date": "2026-10-07"
   },
   "https://openai.com/index/simplex": {
     "article_id": "openai-blog--ad269906",
@@ -11555,6 +11620,10 @@
     "article_id": "google-research--6a69f91e",
     "first_seen_date": "2026-09-25"
   },
+  "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health": {
+    "article_id": "google-research--c358ae31",
+    "first_seen_date": "2026-10-07"
+  },
   "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery": {
     "article_id": "latent-space--f711e23a",
     "first_seen_date": "2026-09-23"
@@ -11823,6 +11892,50 @@
   "https://simonwillison.net/2026/Oct/5/felix-rieseberg": {
     "article_id": "simonwillison--3d0f617b",
     "first_seen_date": "2026-10-06"
+  },
+  "https://simonwillison.net/2026/Oct/6/datasette-atom": {
+    "article_id": "simonwillison--6728fd68",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry": {
+    "article_id": "simonwillison--d9179cd3",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/hn-49982139": {
+    "article_id": "simonwillison--2f4c3bbb",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/hn-49983751": {
+    "article_id": "simonwillison--3e898389",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/le-chonk": {
+    "article_id": "simonwillison--e3b670d9",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/llm-mistral": {
+    "article_id": "simonwillison--1bcb1fa4",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/llm-openai-decisions": {
+    "article_id": "simonwillison--2cd3814d",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox": {
+    "article_id": "simonwillison--ccfe7145",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/6/victoria-kim": {
+    "article_id": "simonwillison--07bd01f1",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/7/jake-boggan": {
+    "article_id": "simonwillison--09db3f80",
+    "first_seen_date": "2026-10-07"
+  },
+  "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia": {
+    "article_id": "simonwillison--fb3e78f3",
+    "first_seen_date": "2026-10-07"
   },
   "https://simonwillison.net/2026/Sep/19/datasette-auth-github": {
     "article_id": "simonwillison--65836d47",
@@ -12963,6 +13076,11 @@
     "article_id": "ai-snake-oil--8c8fbbb9",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.felonybench.com/": {
+    "article_id": null,
+    "first_seen_date": "2026-10-07",
+    "status": "fetch_failed"
+  },
   "https://www.fhwa.dot.gov/policy/otps/060320a/appb.cfm": {
     "article_id": "ai-snake-oil--dc0cc3f8",
     "first_seen_date": "2026-09-23"
@@ -13148,6 +13266,10 @@
     "article_id": "latent-space--22762ccc",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.hacktron.ai/blog/hacking-openai": {
+    "article_id": "interconnects--cb8db9c3",
+    "first_seen_date": "2026-10-07"
+  },
   "https://www.harvey.ai/blog/post-training-update-harvey-tenet": {
     "article_id": "interconnects--ff9838c3",
     "first_seen_date": "2026-09-23"
@@ -13247,6 +13369,10 @@
     "article_id": "interconnects--1468a99f",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken": {
+    "article_id": "interconnects--f8359f0b",
+    "first_seen_date": "2026-10-07"
+  },
   "https://www.interconnects.ai/p/when-will-average-people-feel-ais": {
     "article_id": "interconnects--81fd3f31",
     "first_seen_date": "2026-09-23"
@@ -13341,6 +13467,10 @@
   "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc": {
     "article_id": "latent-space--f0f5c8c3",
     "first_seen_date": "2026-10-02"
+  },
+  "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai": {
+    "article_id": "latent-space--b4704207",
+    "first_seen_date": "2026-10-07"
   },
   "https://www.latent.space/p/ainews-reality-checks-on-ai-news": {
     "article_id": "latent-space--b74ab582",
@@ -13557,6 +13687,10 @@
   "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code": {
     "article_id": "microsoft-research--0e5691b4",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us": {
+    "article_id": "microsoft-research--dfc2998d",
+    "first_seen_date": "2026-10-07"
   },
   "https://www.midjourney.com/explore?tab=top_week": {
     "article_id": null,

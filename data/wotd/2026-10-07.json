@@ -1,0 +1,269 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--3b6c99e5",
+        "latent-space--1acc6f5a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 383.344994,
+      "term": "european",
+      "tf_today": 69
+    },
+    {
+      "articles": [
+        "aibreakfast--3b6c99e5",
+        "latent-space--1acc6f5a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 244.286566,
+      "term": "the eu",
+      "tf_today": 48
+    },
+    {
+      "articles": [
+        "aibreakfast--3b6c99e5",
+        "latent-space--1acc6f5a",
+        "latent-space--35bacf7d",
+        "latent-space--415398ec",
+        "simonwillison--09db3f80",
+        "simonwillison--fb3e78f3"
+      ],
+      "avg_tf_baseline": 5.6923,
+      "df_today": 6,
+      "score": 178.102222,
+      "term": "it's",
+      "tf_today": 199
+    },
+    {
+      "articles": [
+        "codenewsletter--75d7f043",
+        "latent-space--1acc6f5a",
+        "latent-space--b4704207"
+      ],
+      "avg_tf_baseline": 3.2857,
+      "df_today": 3,
+      "score": 176.775998,
+      "term": "the us",
+      "tf_today": 157
+    },
+    {
+      "articles": [
+        "latent-space--1acc6f5a",
+        "latent-space--b4704207"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 176.003207,
+      "term": "in europe",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "aibreakfast--3b6c99e5",
+        "codenewsletter--75d7f043",
+        "latent-space--1acc6f5a",
+        "latent-space--b4704207"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 4,
+      "score": 175.112974,
+      "term": "mistral",
+      "tf_today": 95
+    },
+    {
+      "articles": [
+        "codenewsletter--75d7f043",
+        "latent-space--1acc6f5a",
+        "latent-space--b4704207"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 3,
+      "score": 164.540638,
+      "term": "europe",
+      "tf_today": 98
+    },
+    {
+      "articles": [
+        "latent-space--1acc6f5a",
+        "latent-space--415398ec",
+        "simonwillison--09db3f80"
+      ],
+      "avg_tf_baseline": 3.5556,
+      "df_today": 3,
+      "score": 102.967494,
+      "term": "don't",
+      "tf_today": 107
+    },
+    {
+      "articles": [
+        "codenewsletter--75d7f043",
+        "latent-space--35bacf7d",
+        "latent-space--b4704207"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 100.818199,
+      "term": "embeddinggemma",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "codenewsletter--75d7f043",
+        "latent-space--35bacf7d",
+        "latent-space--b4704207"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 94.871226,
+      "term": "embeddinggemma 2",
+      "tf_today": 21
+    }
+  ],
+  "date": "2026-10-07",
+  "evidence_article_ids": [
+    "aibreakfast--3b6c99e5",
+    "codenewsletter--75d7f043",
+    "latent-space--1acc6f5a",
+    "latent-space--b4704207"
+  ],
+  "judge": {
+    "input_tokens": 22688,
+    "model": "jev-1.13.0",
+    "pool_size": 44,
+    "signals": {
+      "embeddinggemma 2": {
+        "dominance": 2.18,
+        "event": 0.63,
+        "form": 0.92,
+        "novelty": 0.56,
+        "specificity": 2.0
+      },
+      "embeddinggemma-2-gguf": {
+        "dominance": 2.08,
+        "event": 0.37,
+        "form": 0.81,
+        "novelty": 0.71,
+        "specificity": 2.0
+      },
+      "embeddinggemma2": {
+        "dominance": 2.18,
+        "event": 0.61,
+        "form": 0.84,
+        "novelty": 0.68,
+        "specificity": 2.0
+      },
+      "fine-tuning nemotron": {
+        "dominance": 1.93,
+        "event": 0.89,
+        "form": 0.72,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "large 4": {
+        "dominance": 2.78,
+        "event": 0.93,
+        "form": 0.83,
+        "novelty": 0.8,
+        "specificity": 1.97
+      },
+      "manuscripts": {
+        "dominance": 2.55,
+        "event": 0.85,
+        "form": 0.75,
+        "novelty": 0.55,
+        "specificity": 0.22
+      },
+      "math": {
+        "dominance": 2.94,
+        "event": 0.94,
+        "form": 0.82,
+        "novelty": 0.86,
+        "specificity": 0.59
+      },
+      "mistral large 4": {
+        "dominance": 2.68,
+        "event": 0.93,
+        "form": 0.95,
+        "novelty": 0.79,
+        "specificity": 2.0
+      },
+      "mistral's": {
+        "dominance": 2.75,
+        "event": 0.94,
+        "form": 0.5,
+        "novelty": 0.77,
+        "specificity": 1.41
+      },
+      "model": {
+        "dominance": 2.73,
+        "event": 0.95,
+        "form": 0.65,
+        "novelty": 0.31,
+        "specificity": 1.16
+      },
+      "nemotron": {
+        "dominance": 1.91,
+        "event": 0.91,
+        "form": 0.93,
+        "novelty": 0.83,
+        "specificity": 2.0
+      },
+      "openai": {
+        "dominance": 2.94,
+        "event": 0.95,
+        "form": 0.9,
+        "novelty": 0.5,
+        "specificity": 1.05
+      },
+      "quasi-riemann-hypothesis": {
+        "dominance": 2.89,
+        "event": 0.91,
+        "form": 0.93,
+        "novelty": 0.89,
+        "specificity": 1.0
+      },
+      "the-quasi-riemann-hypothesis-october-5-2026": {
+        "dominance": 2.85,
+        "event": 0.81,
+        "form": 0.77,
+        "novelty": 0.89,
+        "specificity": 1.69
+      },
+      "two gold-level results": {
+        "dominance": 1.91,
+        "event": 0.89,
+        "form": 0.74,
+        "novelty": 0.8,
+        "specificity": 1.33
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "mistral large 4",
+      "large 4",
+      "embeddinggemma2",
+      "nemotron",
+      "embeddinggemma 2"
+    ]
+  },
+  "label": "Mistral Large 4",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://mistral.ai/news/mistral-large-4",
+        "https://en.wikipedia.org/wiki/Mistral_AI",
+        "https://huggingface.co/mistralai"
+      ],
+      "text": "Mistral Large 4 is the fourth-generation flagship large language model from Mistral AI, a Paris-based startup. It is a 1-trillion-parameter mixture-of-experts (MoE) model with 49 billion active parameters per forward pass, designed for native multimodal input and hybrid instruction-following and reasoning tasks. Trained from scratch on a 3,800-GPU NVIDIA Grace Blackwell cluster in Mistral's own European datacenters, it supports over 160 languages and is offered via API at $1.36 per million tokens with a commitment to release open weights. The model represents Mistral's bid to compete with DeepSeek, Qwen, and US frontier labs while emphasizing European data sovereignty."
+    },
+    "generated_at": "2026-10-07T13:22:46.151304+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Mistral AI released Mistral Large 4, a 1-trillion-parameter mixture-of-experts model with 49 billion active parameters, trained on 3,800 NVIDIA Grace Blackwell GPUs in the company's European datacenters. The French startup positions the natively multimodal, hybrid instruct-and-reasoning model — internally nicknamed \"le Chonk\" — as a direct competitor to DeepSeek and Qwen, offering API access at $1.36 per million tokens with open weights slated for October release. Coverage highlighted the model's 160-language support and its training infrastructure funded by Mistral's recent Series D, though the launch was partially overshadowed by OpenAI's simultaneous publication of 722 mathematics papers. The discourse repeatedly emphasized Mistral's European provenance, contrasting the EU-based development effort against US rivals.",
+    "why": "Mistral Large 4 trended because the company announced a 1T-parameter open-weight model with competitive pricing and a clear release timeline, marking a significant escalation in the open-model race. The launch drew attention for its European datacenter training run on 3,800 Blackwell GPUs, positioning Mistral as the most prominent EU challenger to US and Chinese frontier labs."
+  },
+  "score": 44.15488,
+  "word": "mistral large 4"
+}
