@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d4de4454",
+  "author": "Richard MacManus",
+  "content_chars": 8685,
+  "content_sha256": "be0900c48c085067d95a9c419d4bfc503e87a62ae09745e865da548b00e88c5f",
+  "content_tokens": 2171,
+  "fetched_at": "2026-10-08T13:27:52Z",
+  "kind": "article",
+  "published_at": "2026-10-07T14:10:45+00:00",
+  "snippet": "At a high level, coding agents have a basic architecture: an LLM calls tools in a loop, while carrying forward the required context. Since that’s easiest to implement locally, many coding agents started out as terminal tools and then desktop apps (Claude Code famously began as a…",
+  "source_id": "latent-space",
+  "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+  "top_terms": [
+    [
+      "cloud",
+      18
+    ],
+    [
+      "stacklok",
+      14
+    ],
+    [
+      "agent",
+      12
+    ],
+    [
+      "harness",
+      12
+    ],
+    [
+      "the cloud",
+      11
+    ],
+    [
+      "beda",
+      10
+    ],
+    [
+      "open",
+      10
+    ],
+    [
+      "kubernetes",
+      9
+    ],
+    [
+      "mcluckie",
+      9
+    ],
+    [
+      "open source",
+      8
+    ],
+    [
+      "source",
+      8
+    ],
+    [
+      "desktop",
+      7
+    ],
+    [
+      "harnesses",
+      7
+    ],
+    [
+      "built",
+      6
+    ],
+    [
+      "enterprise",
+      6
+    ],
+    [
+      "enterprises",
+      6
+    ],
+    [
+      "gateway",
+      6
+    ],
+    [
+      "loop",
+      6
+    ],
+    [
+      "mecatl",
+      6
+    ],
+    [
+      "run",
+      6
+    ]
+  ],
+  "url": "https://www.latent.space/p/stacklok",
+  "url_canonical": "https://www.latent.space/p/stacklok",
+  "via_source_id": null
+}

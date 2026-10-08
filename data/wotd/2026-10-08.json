@@ -1,0 +1,252 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "mit-tech-review-ai--598be6d4",
+        "mit-tech-review-ai--90e32e05"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 49.514294,
+      "term": "industrial",
+      "tf_today": 40
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "latent-space--6a899e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 41.446532,
+      "term": "haiku 4.5",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "mit-tech-review-ai--90e32e05"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 29.112182,
+      "term": "that's where",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "latent-space--6a899e33"
+      ],
+      "avg_tf_baseline": 3.6667,
+      "df_today": 2,
+      "score": 23.37048,
+      "term": "haiku",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--598be6d4",
+        "mit-tech-review-ai--90e32e05"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "the challenges",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--598be6d4",
+        "mit-tech-review-ai--90e32e05"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 17.917595,
+      "term": "transformative",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "latent-space--6a899e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "claude haiku",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "latent-space--6a899e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "claude haiku 5.5",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "latent-space--6a899e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "than haiku",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--903d80a2",
+        "latent-space--6a899e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 12.875503,
+      "term": "than haiku 4.5",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-10-08",
+  "evidence_article_ids": [
+    "codenewsletter--903d80a2"
+  ],
+  "judge": {
+    "input_tokens": 15861,
+    "model": "jev-1.13.0",
+    "pool_size": 33,
+    "signals": {
+      "automation": {
+        "dominance": 2.05,
+        "event": 0.6,
+        "form": 0.93,
+        "novelty": 0.45,
+        "specificity": 0.66
+      },
+      "autonomous robots": {
+        "dominance": 1.89,
+        "event": 0.24,
+        "form": 0.9,
+        "novelty": 0.67,
+        "specificity": 0.98
+      },
+      "challenges": {
+        "dominance": 1.9,
+        "event": 0.65,
+        "form": 0.84,
+        "novelty": 0.27,
+        "specificity": 0.31
+      },
+      "claude haiku 5.5": {
+        "dominance": 1.65,
+        "event": 0.84,
+        "form": 0.95,
+        "novelty": 0.71,
+        "specificity": 2.0
+      },
+      "gpt-6 luna": {
+        "dominance": 0.98,
+        "event": 0.16,
+        "form": 0.69,
+        "novelty": 0.65,
+        "specificity": 1.93
+      },
+      "grok bot": {
+        "dominance": 1.97,
+        "event": 0.73,
+        "form": 0.91,
+        "novelty": 0.77,
+        "specificity": 1.98
+      },
+      "haiku 5.5": {
+        "dominance": 1.68,
+        "event": 0.88,
+        "form": 0.93,
+        "novelty": 0.71,
+        "specificity": 2.0
+      },
+      "industrial": {
+        "dominance": 1.84,
+        "event": 0.27,
+        "form": 0.83,
+        "novelty": 0.61,
+        "specificity": 1.02
+      },
+      "physical": {
+        "dominance": 2.02,
+        "event": 0.62,
+        "form": 0.68,
+        "novelty": 0.65,
+        "specificity": 1.02
+      },
+      "putting": {
+        "dominance": 1.46,
+        "event": 0.67,
+        "form": 0.21,
+        "novelty": 0.42,
+        "specificity": 0.06
+      },
+      "responsible": {
+        "dominance": 1.46,
+        "event": 0.17,
+        "form": 0.58,
+        "novelty": 0.53,
+        "specificity": 0.96
+      },
+      "robot": {
+        "dominance": 1.9,
+        "event": 0.27,
+        "form": 0.93,
+        "novelty": 0.69,
+        "specificity": 0.34
+      },
+      "robots": {
+        "dominance": 1.94,
+        "event": 0.29,
+        "form": 0.91,
+        "novelty": 0.7,
+        "specificity": 0.44
+      },
+      "small model": {
+        "dominance": 1.9,
+        "event": 0.86,
+        "form": 0.81,
+        "novelty": 0.53,
+        "specificity": 0.91
+      },
+      "spacexai's grok bot": {
+        "dominance": 1.95,
+        "event": 0.75,
+        "form": 0.84,
+        "novelty": 0.76,
+        "specificity": 1.93
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "spacexai's grok bot",
+      "grok bot",
+      "haiku 5.5",
+      "claude haiku 5.5"
+    ]
+  },
+  "label": "SpaceXAI's Grok Bot",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://x.ai"
+      ],
+      "text": "Grok Bot is an AI agent developed by xAI (often associated with Elon Musk's ventures like SpaceX and X). It is designed to integrate real-time information from the X platform and, as recently reported, can orchestrate other large language models to solve complex problems that exceed its own native capabilities."
+    },
+    "generated_at": "2026-10-08T13:29:11.273633+00:00",
+    "model": "google/gemma-4-31b-it:free",
+    "summary": "AI labs are increasingly diversifying their model deployment strategies to handle complex workloads. SpaceXAI's Grok Bot has begun integrating rival models to execute difficult tasks, signaling a shift toward hybrid model orchestration despite direct market competition. Simultaneously, Anthropic has expanded its model family by releasing Haiku, its smallest and most cost-efficient offering to date. In the creative space, Google has updated its Playground to enable the generation of playable video games via text prompts, while Microsoft is restructuring its software suite to better support agentic AI workflows.",
+    "why": "SpaceXAI's Grok Bot trended today following reports that it is utilizing models from competing AI labs to handle challenging tasks. This move is viewed as surprising given the competitive nature of the LLM market."
+  },
+  "score": null,
+  "word": "spacexai's grok bot"
+}

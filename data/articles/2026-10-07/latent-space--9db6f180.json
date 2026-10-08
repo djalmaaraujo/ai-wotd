@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--9db6f180",
+  "author": null,
+  "content_chars": 5420,
+  "content_sha256": "5be43194e55ecbb9868179686446804d5e79c2ba8a7c46a242b61b71810c6c0f",
+  "content_tokens": 1355,
+  "fetched_at": "2026-10-08T13:27:57Z",
+  "kind": "article",
+  "published_at": "2026-10-07T14:10:45+00:00",
+  "snippet": "mecak8s runs Mecatl with Kubernetes-native defaults. The chart uses two replicas by default for availability; you can use one replica to reduce resource usage and simplify session routing. Agent pods hold no durable state: session snapshots and the event log live in Redis, while…",
+  "source_id": "latent-space",
+  "title": "Cloud-native k8s with mecak8s | Mecatl",
+  "top_terms": [
+    [
+      "mecak8s",
+      15
+    ],
+    [
+      "redis",
+      13
+    ],
+    [
+      "mecatl",
+      11
+    ],
+    [
+      "key",
+      10
+    ],
+    [
+      "kubernetes",
+      10
+    ],
+    [
+      "tls",
+      10
+    ],
+    [
+      "api",
+      9
+    ],
+    [
+      "chart",
+      8
+    ],
+    [
+      "create",
+      7
+    ],
+    [
+      "namespace",
+      7
+    ],
+    [
+      "openai",
+      7
+    ],
+    [
+      "session",
+      7
+    ],
+    [
+      "deployment",
+      6
+    ],
+    [
+      "pod",
+      6
+    ],
+    [
+      "secret",
+      6
+    ],
+    [
+      "set",
+      6
+    ],
+    [
+      "values",
+      6
+    ],
+    [
+      "default",
+      5
+    ],
+    [
+      "helm",
+      5
+    ],
+    [
+      "image",
+      5
+    ]
+  ],
+  "url": "https://mecatl.dev/docs/building/deployment/mecak8s",
+  "url_canonical": "https://mecatl.dev/docs/building/deployment/mecak8s",
+  "via_source_id": "latent-space"
+}

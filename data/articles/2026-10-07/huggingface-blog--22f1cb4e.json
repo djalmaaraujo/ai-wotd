@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--22f1cb4e",
+  "author": "Hugging Face Blog",
+  "content_chars": 5899,
+  "content_sha256": "1dcd1611c924c37d466f199b6aa8d1b988c349260c4d31afb97d393076f09ec1",
+  "content_tokens": 1474,
+  "fetched_at": "2026-10-08T13:24:59Z",
+  "kind": "article",
+  "published_at": "2026-10-07T16:54:33+00:00",
+  "snippet": "- Best decision model under 10B on the Decision Index 0.2.1: d1-3B scores 48.57, ahead of every 4B and 9B model and of Decider 35B-A3B (47.11). - Multimodal: d1-3B supports text and images, while d1-omni-600M supports text and images or text and audio - Fast: d1-3B answers a…",
+  "source_id": "huggingface-blog",
+  "title": "Multimodal open d1 decision models for the edge",
+  "top_terms": [
+    [
+      "ms",
+      32
+    ],
+    [
+      "d1-3b",
+      16
+    ],
+    [
+      "d1-omni-600m",
+      11
+    ],
+    [
+      "decision",
+      11
+    ],
+    [
+      "jetson",
+      9
+    ],
+    [
+      "model",
+      9
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "text",
+      8
+    ],
+    [
+      "agx",
+      7
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "questions",
+      7
+    ],
+    [
+      "audio",
+      6
+    ],
+    [
+      "decision models",
+      6
+    ],
+    [
+      "jetson agx",
+      6
+    ],
+    [
+      "nvidia",
+      6
+    ],
+    [
+      "open",
+      6
+    ],
+    [
+      "orin",
+      6
+    ],
+    [
+      "text and",
+      6
+    ],
+    [
+      "torch",
+      6
+    ],
+    [
+      "vision",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "url_canonical": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "via_source_id": null
+}

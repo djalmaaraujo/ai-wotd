@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-07T13:22:47+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-08T13:29:12+00:00</lastBuildDate>
+    <item>
+      <title>SpaceXAI's Grok Bot (2026-10-08)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-08/</link>
+      <guid isPermaLink="false">wotd-2026-10-08</guid>
+      <pubDate>2026-10-08</pubDate>
+      <description>SpaceXAI&#39;s Grok Bot trended today following reports that it is utilizing models from competing AI labs to handle challenging tasks. This move is viewed as surprising given the competitive nature of the LLM market.</description>
+    </item>
     <item>
       <title>Mistral Large 4 (2026-10-07)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-07/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-07-09</guid>
       <pubDate>2026-07-09</pubDate>
       <description>Word of the day: gpt-5</description>
-    </item>
-    <item>
-      <title>gpt-5 sol (2026-07-08)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-07-08/</link>
-      <guid isPermaLink="false">wotd-2026-07-08</guid>
-      <pubDate>2026-07-08</pubDate>
-      <description>Word of the day: gpt-5 sol</description>
     </item>
   </channel>
 </rss>

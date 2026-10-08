@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--aa42be4b",
+  "author": null,
+  "content_chars": 7618,
+  "content_sha256": "5cab3f1feaa511d64ecf8797896ade979c656edc524bc73f582a1449f246604d",
+  "content_tokens": 1904,
+  "fetched_at": "2026-10-08T13:27:56Z",
+  "kind": "article",
+  "published_at": "2026-10-07T14:10:45+00:00",
+  "snippet": "Mecatl is an open source, cloud-native agent harness. It provides the loop, tools, permissions, hooks, delegation, and service boundaries for running AI agents as production workloads on infrastructure you operate. Mecatl keeps the agent loop independent of the client and…",
+  "source_id": "latent-space",
+  "title": "GitHub - stacklok/mecatl: Open source agent harness, built from the ground up for cloud-native production workloads on infrastructure you control. Run the same provider-agnostic loop locally, remotely, or on Kubernetes, with durable state, permissions, and gRPC/HTTP-SSE APIs. · GitHub",
+  "top_terms": [
+    [
+      "agent",
+      14
+    ],
+    [
+      "mecatl",
+      13
+    ],
+    [
+      "deployment",
+      12
+    ],
+    [
+      "mecated",
+      11
+    ],
+    [
+      "runtime",
+      10
+    ],
+    [
+      "loop",
+      9
+    ],
+    [
+      "guide",
+      8
+    ],
+    [
+      "microvm",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "run",
+      8
+    ],
+    [
+      "execution",
+      7
+    ],
+    [
+      "local",
+      7
+    ],
+    [
+      "session",
+      7
+    ],
+    [
+      "state",
+      7
+    ],
+    [
+      "the agent",
+      7
+    ],
+    [
+      "agent loop",
+      6
+    ],
+    [
+      "client",
+      6
+    ],
+    [
+      "kubernetes",
+      6
+    ],
+    [
+      "mecatui",
+      6
+    ],
+    [
+      "permissions",
+      6
+    ]
+  ],
+  "url": "https://github.com/stacklok/mecatl?tab=readme-ov-file",
+  "url_canonical": "https://github.com/stacklok/mecatl?tab=readme-ov-file",
+  "via_source_id": "latent-space"
+}
