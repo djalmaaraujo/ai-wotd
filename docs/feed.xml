@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-08T13:29:12+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-09T13:16:51+00:00</lastBuildDate>
+    <item>
+      <title>Mistral Large 4 (2026-10-09)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-09/</link>
+      <guid isPermaLink="false">wotd-2026-10-09</guid>
+      <pubDate>2026-10-09</pubDate>
+      <description>Mistral Large 4 trended today because Mistral officially announced the public preview of its new 1 trillion-parameter flagship model, branding it &#34;Le Chonk&#34; and claiming it pushes the frontier of open-weight performance. The launch was covered simultaneously by the company&#39;s blog and major tech outlets like WIRED, highlighting its positioning as the best open-weight offering outside China and its immediate availability on Mistral Studio.</description>
+    </item>
     <item>
       <title>SpaceXAI's Grok Bot (2026-10-08)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-08/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-07-10</guid>
       <pubDate>2026-07-10</pubDate>
       <description>Word of the day: help</description>
-    </item>
-    <item>
-      <title>gpt-5 (2026-07-09)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-07-09/</link>
-      <guid isPermaLink="false">wotd-2026-07-09</guid>
-      <pubDate>2026-07-09</pubDate>
-      <description>Word of the day: gpt-5</description>
     </item>
   </channel>
 </rss>

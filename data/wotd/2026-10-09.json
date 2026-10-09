@@ -1,0 +1,291 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "last-week-in-ai--42f2a815",
+        "mit-tech-review-ai--8fd9b564"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 85.211666,
+      "term": "refuse",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "last-week-in-ai--5e745461",
+        "last-week-in-ai--7fc40e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.765496,
+      "term": "some sort",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "last-week-in-ai--5e745461",
+        "last-week-in-ai--7fc40e33"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.765496,
+      "term": "some sort of",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "last-week-in-ai--0fe67a9d",
+        "last-week-in-ai--5e745461",
+        "last-week-in-ai--7fc40e33",
+        "last-week-in-ai--8e6aa26e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 30.475391,
+      "term": "quit",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "last-week-in-ai--5e745461",
+        "mit-tech-review-ai--8fd9b564"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 25.599328,
+      "term": "folks",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "last-week-in-ai--0fe67a9d",
+        "last-week-in-ai--0fec5fcf",
+        "last-week-in-ai--8e6aa26e"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 3,
+      "score": 23.331766,
+      "term": "robinson",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "last-week-in-ai--06aa4b40",
+        "last-week-in-ai--0fec5fcf",
+        "last-week-in-ai--3298ba9c",
+        "last-week-in-ai--42f2a815",
+        "last-week-in-ai--5e745461",
+        "last-week-in-ai--61a98a38",
+        "last-week-in-ai--7fc40e33",
+        "last-week-in-ai--821c1f17",
+        "last-week-in-ai--8e6aa26e",
+        "last-week-in-ai--f8797176",
+        "mit-tech-review-ai--8fd9b564"
+      ],
+      "avg_tf_baseline": 16.625,
+      "df_today": 11,
+      "score": 23.145859,
+      "term": "company",
+      "tf_today": 77
+    },
+    {
+      "articles": [
+        "codenewsletter--fac1a006",
+        "last-week-in-ai--42f2a815",
+        "last-week-in-ai--5e745461",
+        "last-week-in-ai--7fc40e33",
+        "mit-tech-review-ai--8fd9b564"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 23.118497,
+      "term": "competitors",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "last-week-in-ai--06aa4b40",
+        "last-week-in-ai--0fec5fcf",
+        "last-week-in-ai--5e745461",
+        "last-week-in-ai--61a98a38",
+        "last-week-in-ai--7fc40e33",
+        "last-week-in-ai--821c1f17",
+        "last-week-in-ai--8e6aa26e",
+        "last-week-in-ai--f8797176",
+        "mit-tech-review-ai--8fd9b564"
+      ],
+      "avg_tf_baseline": 9.6667,
+      "df_today": 9,
+      "score": 22.513891,
+      "term": "the company",
+      "tf_today": 53
+    },
+    {
+      "articles": [
+        "last-week-in-ai--821c1f17",
+        "last-week-in-ai--f8797176"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 21.713749,
+      "term": "long-standing",
+      "tf_today": 8
+    }
+  ],
+  "date": "2026-10-09",
+  "evidence_article_ids": [
+    "last-week-in-ai--3298ba9c",
+    "last-week-in-ai--42f2a815",
+    "last-week-in-ai--8e6aa26e"
+  ],
+  "judge": {
+    "input_tokens": 23732,
+    "model": "jev-1.13.0",
+    "pool_size": 46,
+    "signals": {
+      "ai model": {
+        "dominance": 2.81,
+        "event": 0.94,
+        "form": 0.81,
+        "novelty": 0.27,
+        "specificity": 1.07
+      },
+      "beam": {
+        "dominance": 1.51,
+        "event": 0.58,
+        "form": 0.92,
+        "novelty": 0.5,
+        "specificity": 1.92
+      },
+      "culture": {
+        "dominance": 2.35,
+        "event": 0.51,
+        "form": 0.82,
+        "novelty": 0.62,
+        "specificity": 0.08
+      },
+      "employee": {
+        "dominance": 2.71,
+        "event": 0.87,
+        "form": 0.73,
+        "novelty": 0.73,
+        "specificity": 0.02
+      },
+      "mathematical": {
+        "dominance": 2.57,
+        "event": 0.94,
+        "form": 0.72,
+        "novelty": 0.77,
+        "specificity": 0.37
+      },
+      "mathematics": {
+        "dominance": 2.79,
+        "event": 0.95,
+        "form": 0.91,
+        "novelty": 0.79,
+        "specificity": 0.28
+      },
+      "mistral": {
+        "dominance": 2.48,
+        "event": 0.92,
+        "form": 0.95,
+        "novelty": 0.56,
+        "specificity": 1.51
+      },
+      "mistral large 4": {
+        "dominance": 2.39,
+        "event": 0.9,
+        "form": 0.97,
+        "novelty": 0.63,
+        "specificity": 2.0
+      },
+      "model": {
+        "dominance": 2.75,
+        "event": 0.92,
+        "form": 0.78,
+        "novelty": 0.29,
+        "specificity": 1.25
+      },
+      "models": {
+        "dominance": 2.87,
+        "event": 0.94,
+        "form": 0.71,
+        "novelty": 0.27,
+        "specificity": 1.04
+      },
+      "open-weight": {
+        "dominance": 2.05,
+        "event": 0.88,
+        "form": 0.89,
+        "novelty": 0.5,
+        "specificity": 1.99
+      },
+      "openai safety employee": {
+        "dominance": 2.46,
+        "event": 0.89,
+        "form": 0.82,
+        "novelty": 0.72,
+        "specificity": 0.58
+      },
+      "quit": {
+        "dominance": 2.56,
+        "event": 0.86,
+        "form": 0.51,
+        "novelty": 0.73,
+        "specificity": 0.01
+      },
+      "quitting": {
+        "dominance": 2.59,
+        "event": 0.89,
+        "form": 0.71,
+        "novelty": 0.72,
+        "specificity": 0.01
+      },
+      "robinson": {
+        "dominance": 2.52,
+        "event": 0.8,
+        "form": 0.88,
+        "novelty": 0.79,
+        "specificity": 0.14
+      },
+      "safety employee": {
+        "dominance": 2.56,
+        "event": 0.89,
+        "form": 0.79,
+        "novelty": 0.72,
+        "specificity": 0.82
+      },
+      "synthid": {
+        "dominance": 1.92,
+        "event": 0.91,
+        "form": 0.87,
+        "novelty": 0.77,
+        "specificity": 2.0
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "mistral large 4",
+      "synthid",
+      "open-weight",
+      "beam"
+    ]
+  },
+  "label": "Mistral Large 4",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://mistral.ai/news/mistral-large-4",
+        "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier"
+      ],
+      "text": "Mistral Large 4 (ML4) is a 1 trillion-parameter natively multimodal open-weight model developed by French AI startup Mistral AI. It uses a mixture-of-experts architecture with 52 billion active parameters, making it the company's largest and most capable model to date. Released in public preview in October 2026, it is optimized for coding, agentic workflows, and multimodal reasoning, with full weights scheduled for release later the same month. The model represents a significant step in the open-weight frontier, offering performance competitive with leading proprietary models while allowing unrestricted use and customization."
+    },
+    "generated_at": "2026-10-09T13:16:49.289621+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "French AI company Mistral has launched Mistral Large 4, a 1 trillion-parameter natively multimodal model nicknamed \"Le Chonk,\" marking its largest and most capable open-weight release to date. The model enters public preview with 52 billion active parameters and is optimized for coding, agentic workflows, and multimodal understanding, positioning it as a direct competitor to leading proprietary systems from the US and China. Mistral claims frontier-level performance and plans to release the full model weights by end of month, with the preview API already accessible via Mistral Studio. The release intensifies the open-weight frontier race, offering developers a freely customizable alternative for enterprise tasks in manufacturing, finance, and cyberdefense.",
+    "why": "Mistral Large 4 trended today because Mistral officially announced the public preview of its new 1 trillion-parameter flagship model, branding it \"Le Chonk\" and claiming it pushes the frontier of open-weight performance. The launch was covered simultaneously by the company's blog and major tech outlets like WIRED, highlighting its positioning as the best open-weight offering outside China and its immediate availability on Mistral Studio."
+  },
+  "score": 0.71801,
+  "word": "mistral large 4"
+}

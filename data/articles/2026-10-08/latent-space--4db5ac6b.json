@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--4db5ac6b",
+  "author": null,
+  "content_chars": 5231,
+  "content_sha256": "bdcb75ba20880a8338bb922ac0d4dc92bf90032f52ee7eba230c4f758666ebd7",
+  "content_tokens": 1307,
+  "fetched_at": "2026-10-09T13:16:06Z",
+  "kind": "article",
+  "published_at": "2026-10-08T23:29:43+00:00",
+  "snippet": "MacroStories is a 19,969-parameter autoregressive Transformer that generates complete English children's stories from a single start token. Her FP32 weights occupy just 81,364 bytes—smaller than many PNG images. TinyStories showed that small Transformers can write coherent…",
+  "source_id": "latent-space",
+  "title": "raincandy-u/MacroStories · Hugging Face",
+  "top_terms": [
+    [
+      "alex",
+      12
+    ],
+    [
+      "id",
+      10
+    ],
+    [
+      "story",
+      10
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "token",
+      7
+    ],
+    [
+      "flower",
+      6
+    ],
+    [
+      "output",
+      6
+    ],
+    [
+      "stories",
+      6
+    ],
+    [
+      "tokenizer",
+      6
+    ],
+    [
+      "macrostories",
+      5
+    ],
+    [
+      "small",
+      5
+    ],
+    [
+      "the flower",
+      5
+    ],
+    [
+      "torch",
+      5
+    ],
+    [
+      "attention",
+      4
+    ],
+    [
+      "character",
+      4
+    ],
+    [
+      "goal",
+      4
+    ],
+    [
+      "import",
+      4
+    ],
+    [
+      "parameters",
+      4
+    ],
+    [
+      "repo",
+      4
+    ],
+    [
+      "training",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/raincandy-u/MacroStories",
+  "url_canonical": "https://huggingface.co/raincandy-u/MacroStories",
+  "via_source_id": "latent-space"
+}

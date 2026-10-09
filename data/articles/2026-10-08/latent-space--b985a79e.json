@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--b985a79e",
+  "author": null,
+  "content_chars": 11458,
+  "content_sha256": "96b8711a64f479492fc728af8f62c44cc0c626e2040e2c42242f7ca60b0f8047",
+  "content_tokens": 2864,
+  "fetched_at": "2026-10-09T13:16:01Z",
+  "kind": "article",
+  "published_at": "2026-10-08T23:29:43+00:00",
+  "snippet": "Conversation | 0.00.345.120 I common_params_fit_impl: getting device memory data for initial parameters: From the original https://github.com/tetherto/qvac-fabric-llm.cpp @am17an Why did you chose to invest your time and work into something that declares to not support OpenCL…",
+  "source_id": "latent-space",
+  "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp · GitHub",
+  "top_terms": [
+    [
+      "cache",
+      35
+    ],
+    [
+      "gpu",
+      16
+    ],
+    [
+      "ggml-org",
+      14
+    ],
+    [
+      "moe",
+      13
+    ],
+    [
+      "experts",
+      11
+    ],
+    [
+      "the cache",
+      11
+    ],
+    [
+      "expert",
+      10
+    ],
+    [
+      "gb",
+      9
+    ],
+    [
+      "qwen3.8",
+      8
+    ],
+    [
+      "hit",
+      7
+    ],
+    [
+      "vs",
+      7
+    ],
+    [
+      "layers",
+      6
+    ],
+    [
+      "run",
+      6
+    ],
+    [
+      "size",
+      6
+    ],
+    [
+      "am17an",
+      5
+    ],
+    [
+      "expert cache",
+      5
+    ],
+    [
+      "first",
+      5
+    ],
+    [
+      "fit",
+      5
+    ],
+    [
+      "fork",
+      5
+    ],
+    [
+      "full",
+      5
+    ]
+  ],
+  "url": "https://github.com/ggml-org/llama.cpp/pull/29887",
+  "url_canonical": "https://github.com/ggml-org/llama.cpp/pull/29887",
+  "via_source_id": "latent-space"
+}

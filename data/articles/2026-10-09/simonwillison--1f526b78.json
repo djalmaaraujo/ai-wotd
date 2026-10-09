@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--1f526b78",
+  "author": "Simon Willison",
+  "content_chars": 967,
+  "content_sha256": "c0a12e4caabb601f8eaa56569552d508c90cf791ee7c01276623ef8874f8a6c8",
+  "content_tokens": 241,
+  "fetched_at": "2026-10-09T13:15:52Z",
+  "kind": "article",
+  "published_at": "2026-10-09T00:34:43+00:00",
+  "snippet": "9th October 2026 I released ttok 0.4, ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to…",
+  "source_id": "simonwillison",
+  "title": "ttok 1.0",
+  "top_terms": [
+    [
+      "october",
+      4
+    ],
+    [
+      "october 2026",
+      4
+    ],
+    [
+      "default",
+      3
+    ],
+    [
+      "gpt-6",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th october",
+      3
+    ],
+    [
+      "th october 2026",
+      3
+    ],
+    [
+      "ttok",
+      3
+    ],
+    [
+      "gpt-5",
+      2
+    ],
+    [
+      "luna",
+      2
+    ],
+    [
+      "ran",
+      2
+    ],
+    [
+      "sol",
+      2
+    ],
+    [
+      "tokenizer",
+      2
+    ],
+    [
+      "actually",
+      1
+    ],
+    [
+      "actually confirmed",
+      1
+    ],
+    [
+      "actually confirmed that",
+      1
+    ],
+    [
+      "all seven",
+      1
+    ],
+    [
+      "all seven gpt",
+      1
+    ],
+    [
+      "an angry",
+      1
+    ],
+    [
+      "an angry issue",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/9/ttok",
+  "via_source_id": null
+}

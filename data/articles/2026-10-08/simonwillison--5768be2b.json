@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--5768be2b",
+  "author": "Simon Willison",
+  "content_chars": 565,
+  "content_sha256": "7f0084bbc63078c3da9077d1292ccfaa74d977eb63822a047a14523e852bdf7f",
+  "content_tokens": 141,
+  "fetched_at": "2026-10-09T13:15:52Z",
+  "kind": "article",
+  "published_at": "2026-10-08T23:34:28+00:00",
+  "snippet": "8th October 2026 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-models command to list available models. It works with uvx…",
+  "source_id": "simonwillison",
+  "title": "ttok 0.4",
+  "top_terms": [
+    [
+      "october",
+      4
+    ],
+    [
+      "october 2026",
+      4
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th october",
+      3
+    ],
+    [
+      "th october 2026",
+      3
+    ],
+    [
+      "ttok",
+      3
+    ],
+    [
+      "tokens",
+      2
+    ],
+    [
+      "updated",
+      2
+    ],
+    [
+      "uvx",
+      2
+    ],
+    [
+      "added",
+      1
+    ],
+    [
+      "and added",
+      1
+    ],
+    [
+      "anything",
+      1
+    ],
+    [
+      "anything like",
+      1
+    ],
+    [
+      "anything like this",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "available models",
+      1
+    ],
+    [
+      "been in updated",
+      1
+    ],
+    [
+      "blog",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "budget caps",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/8/ttok",
+  "via_source_id": null
+}
