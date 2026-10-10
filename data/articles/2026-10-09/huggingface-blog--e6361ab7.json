@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e6361ab7",
+  "author": "Hugging Face Blog",
+  "content_chars": 20499,
+  "content_sha256": "4ce3cdc65c10ecdffce318090c49889bf6bcb98b1ce3d66c344116a0e492c9fb",
+  "content_tokens": 5124,
+  "fetched_at": "2026-10-10T12:28:21Z",
+  "kind": "article",
+  "published_at": "2026-10-09T15:20:29+00:00",
+  "snippet": "On the AI Infrastructure team at Ai2, we’re responsible for providing the institute’s GPU compute capacity, specifically targeting large, distributed training workloads. We think about this task as a pyramid of four metrics that build on each other. The foundation is…",
+  "source_id": "huggingface-blog",
+  "title": "Impactful scheduling for GPU clusters",
+  "top_terms": [
+    [
+      "workloads",
+      35
+    ],
+    [
+      "gpu",
+      34
+    ],
+    [
+      "workload",
+      23
+    ],
+    [
+      "scheduler",
+      22
+    ],
+    [
+      "gpu time",
+      19
+    ],
+    [
+      "gpus",
+      14
+    ],
+    [
+      "jobs",
+      13
+    ],
+    [
+      "occupancy",
+      13
+    ],
+    [
+      "runtime",
+      13
+    ],
+    [
+      "researchers",
+      12
+    ],
+    [
+      "allocations",
+      11
+    ],
+    [
+      "minimum",
+      11
+    ],
+    [
+      "research",
+      11
+    ],
+    [
+      "team",
+      11
+    ],
+    [
+      "training",
+      11
+    ],
+    [
+      "allocation",
+      10
+    ],
+    [
+      "budget",
+      10
+    ],
+    [
+      "minimum runtime",
+      10
+    ],
+    [
+      "system",
+      10
+    ],
+    [
+      "wait",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "url_canonical": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--4aaa22e2",
+  "author": null,
+  "content_chars": 59259,
+  "content_sha256": "f52911b990d2b87aa8190b27050f7d22da1cf5fd80a54483c3c23adac8b854de",
+  "content_tokens": 14814,
+  "fetched_at": "2026-10-10T12:31:21Z",
+  "kind": "article",
+  "published_at": "2026-10-10T06:45:57+00:00",
+  "snippet": "It's weird because two days after Jev was released there were a dozen decision models, a week later there are several dozen, mostly open source, OpenAI's own Decisions API [1] beats it, and you can easily finetune your own [2]. But as others have pointed out, this doesn't…",
+  "source_id": "latent-space",
+  "title": "Typesafe AI raises $870M at $7.5B | Hacker News",
+  "top_terms": [
+    [
+      "jev",
+      97
+    ],
+    [
+      "models",
+      44
+    ],
+    [
+      "it's",
+      39
+    ],
+    [
+      "model",
+      36
+    ],
+    [
+      "people",
+      35
+    ],
+    [
+      "product",
+      27
+    ],
+    [
+      "typesafe",
+      24
+    ],
+    [
+      "llms",
+      23
+    ],
+    [
+      "money",
+      23
+    ],
+    [
+      "company",
+      22
+    ],
+    [
+      "llm",
+      22
+    ],
+    [
+      "openai",
+      21
+    ],
+    [
+      "way",
+      21
+    ],
+    [
+      "jev is",
+      20
+    ],
+    [
+      "output",
+      20
+    ],
+    [
+      "something",
+      19
+    ],
+    [
+      "classifier",
+      18
+    ],
+    [
+      "cost",
+      18
+    ],
+    [
+      "decision",
+      18
+    ],
+    [
+      "thing",
+      18
+    ]
+  ],
+  "url": "https://news.ycombinator.com/item?id=50023450",
+  "url_canonical": "https://news.ycombinator.com/item?id=50023450",
+  "via_source_id": "latent-space"
+}

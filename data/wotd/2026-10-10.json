@@ -1,0 +1,263 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--41aa058a",
+        "latent-space--ce76f394"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 62.383246,
+      "term": "candido",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--4aaa22e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 46.169088,
+      "term": "doomers",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "codenewsletter--ecd244a0",
+        "latent-space--26249364"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 38.632356,
+      "term": "the launch",
+      "tf_today": 30
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--46e58eaf",
+        "latent-space--4aaa22e2",
+        "latent-space--b1f04eaf"
+      ],
+      "avg_tf_baseline": 8.1667,
+      "df_today": 4,
+      "score": 37.180812,
+      "term": "typesafe",
+      "tf_today": 71
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--4aaa22e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 35.968429,
+      "term": "of jev",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "codenewsletter--ecd244a0",
+        "latent-space--26249364",
+        "latent-space--46e58eaf",
+        "latent-space--4aaa22e2"
+      ],
+      "avg_tf_baseline": 9.3077,
+      "df_today": 4,
+      "score": 30.933472,
+      "term": "launch",
+      "tf_today": 68
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--46e58eaf",
+        "latent-space--4aaa22e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 30.761144,
+      "term": "jev is the",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--46e58eaf",
+        "latent-space--b1f04eaf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 30.761144,
+      "term": "sequoia",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--46e58eaf",
+        "latent-space--4aaa22e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 25.473159,
+      "term": "jev at",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "latent-space--26249364",
+        "latent-space--4aaa22e2",
+        "latent-space--b1f04eaf"
+      ],
+      "avg_tf_baseline": 3.75,
+      "df_today": 3,
+      "score": 23.014769,
+      "term": "typesafe ai",
+      "tf_today": 29
+    }
+  ],
+  "date": "2026-10-10",
+  "evidence_article_ids": [
+    "latent-space--26249364",
+    "latent-space--46e58eaf",
+    "latent-space--4aaa22e2",
+    "latent-space--b1f04eaf"
+  ],
+  "judge": {
+    "input_tokens": 21607,
+    "model": "jev-1.13.0",
+    "pool_size": 45,
+    "signals": {
+      "arr": {
+        "dominance": 2.62,
+        "event": 0.66,
+        "form": 0.33,
+        "novelty": 0.77,
+        "specificity": 0.05
+      },
+      "candido": {
+        "dominance": 1.88,
+        "event": 0.23,
+        "form": 0.83,
+        "novelty": 0.77,
+        "specificity": 0.26
+      },
+      "claude code": {
+        "dominance": 1.95,
+        "event": 0.66,
+        "form": 0.91,
+        "novelty": 0.7,
+        "specificity": 1.99
+      },
+      "company": {
+        "dominance": 2.69,
+        "event": 0.83,
+        "form": 0.43,
+        "novelty": 0.49,
+        "specificity": 0.15
+      },
+      "decision models": {
+        "dominance": 2.86,
+        "event": 0.6,
+        "form": 0.94,
+        "novelty": 0.72,
+        "specificity": 1.77
+      },
+      "investors": {
+        "dominance": 2.78,
+        "event": 0.63,
+        "form": 0.74,
+        "novelty": 0.71,
+        "specificity": 0.02
+      },
+      "jev": {
+        "dominance": 2.98,
+        "event": 0.7,
+        "form": 0.82,
+        "novelty": 0.8,
+        "specificity": 1.87
+      },
+      "jev launch": {
+        "dominance": 2.98,
+        "event": 0.63,
+        "form": 0.72,
+        "novelty": 0.76,
+        "specificity": 1.91
+      },
+      "launch": {
+        "dominance": 2.89,
+        "event": 0.78,
+        "form": 0.73,
+        "novelty": 0.66,
+        "specificity": 0.44
+      },
+      "million": {
+        "dominance": 2.8,
+        "event": 0.57,
+        "form": 0.54,
+        "novelty": 0.43,
+        "specificity": 0.13
+      },
+      "money": {
+        "dominance": 2.94,
+        "event": 0.83,
+        "form": 0.72,
+        "novelty": 0.79,
+        "specificity": 0.07
+      },
+      "product": {
+        "dominance": 2.77,
+        "event": 0.85,
+        "form": 0.77,
+        "novelty": 0.49,
+        "specificity": 0.82
+      },
+      "raises": {
+        "dominance": 2.88,
+        "event": 0.79,
+        "form": 0.2,
+        "novelty": 0.58,
+        "specificity": 0.04
+      },
+      "typesafe ai": {
+        "dominance": 2.99,
+        "event": 0.77,
+        "form": 0.9,
+        "novelty": 0.81,
+        "specificity": 1.08
+      },
+      "valuation": {
+        "dominance": 2.64,
+        "event": 0.54,
+        "form": 0.81,
+        "novelty": 0.79,
+        "specificity": 0.01
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "jev",
+      "claude code"
+    ]
+  },
+  "label": "Jev",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://typesafe.ai/blog/series-ai",
+        "https://en.wikipedia.org/wiki/Jevons_paradox",
+        "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b"
+      ],
+      "text": "Jev is the inaugural \"System One Model\" from TypeSafe AI, designed to output structured decisions that software can execute directly without parsing natural language. It offers free output tokens, a pricing model that references Jevons Paradox — the economic principle where efficiency gains increase total resource consumption. Jev targets developers building autonomous agents and decision-making pipelines, positioning itself as a category-defining decision model rather than a general-purpose LLM."
+    },
+    "generated_at": "2026-10-10T12:32:55.956845+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "TypeSafe AI, a San Francisco lab founded by Diogo Almeida (co-inventor of RLHF and InstructGPT at OpenAI), Erik Gafni, and Sasha Sheng, launched Jev — its first \"System One Model\" that returns code-usable decisions with free output tokens. The name references Jevons Paradox. The company announced a $40M raise on 15 September 2026, followed by a Series A led by Andreessen Horowitz and Sequoia Capital. Latent Space reports Jev crossed $100M ARR and a $7.5B valuation within three weeks, while Hacker News discussions note rapid cloning of the Jev API and competing decision models from OpenAI and Microsoft. The launch has dominated AI discourse, with terms like \"typesafe,\" \"the launch,\" and \"doomers\" appearing alongside Jev in trending conversations.",
+    "why": "Jev trended today because TypeSafe AI's launch announcement and subsequent Series A funding triggered widespread coverage on Latent Space and Hacker News, claiming unprecedented metrics ($100M ARR in one week, $7.5B valuation in three weeks) and sparking debate about decision-model competition from OpenAI and Microsoft. The product's naming after Jevons Paradox and its \"free output tokens\" positioning amplified technical discussion."
+  },
+  "score": 14.187571,
+  "word": "jev"
+}
