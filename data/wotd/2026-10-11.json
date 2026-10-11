@@ -1,0 +1,223 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 62.169798,
+      "term": "version control",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "use version",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "use version control",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "dwarf",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "dwarf fortress",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "fortress",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "march 2023",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 9.0,
+      "df_today": 1,
+      "score": 3.453878,
+      "term": "version",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 3.7143,
+      "df_today": 1,
+      "score": 2.599861,
+      "term": "october 2026",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "simonwillison--4bb4761a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 2.079442,
+      "term": "about the release",
+      "tf_today": 1
+    }
+  ],
+  "date": "2026-10-11",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 11515,
+    "model": "jev-1.13.0",
+    "pool_size": 24,
+    "signals": {
+      "adams": {
+        "dominance": 1.45,
+        "event": 0.59,
+        "form": 0.8,
+        "novelty": 0.74,
+        "specificity": 0.05
+      },
+      "ago": {
+        "dominance": 1.13,
+        "event": 0.55,
+        "form": 0.2,
+        "novelty": 0.3,
+        "specificity": 0.01
+      },
+      "ago that dwarf": {
+        "dominance": 1.64,
+        "event": 0.7,
+        "form": 0.11,
+        "novelty": 0.7,
+        "specificity": 0.03
+      },
+      "benefit from version": {
+        "dominance": 1.3,
+        "event": 0.68,
+        "form": 0.17,
+        "novelty": 0.64,
+        "specificity": 0.02
+      },
+      "bit sad": {
+        "dominance": 0.84,
+        "event": 0.3,
+        "form": 0.29,
+        "novelty": 0.25,
+        "specificity": 0.01
+      },
+      "black box thingy": {
+        "dominance": 1.03,
+        "event": 0.24,
+        "form": 0.53,
+        "novelty": 0.56,
+        "specificity": 0.37
+      },
+      "box thingy": {
+        "dominance": 1.01,
+        "event": 0.27,
+        "form": 0.35,
+        "novelty": 0.53,
+        "specificity": 0.01
+      },
+      "change": {
+        "dominance": 2.22,
+        "event": 0.74,
+        "form": 0.82,
+        "novelty": 0.27,
+        "specificity": 0.15
+      },
+      "check and version": {
+        "dominance": 2.01,
+        "event": 0.72,
+        "form": 0.38,
+        "novelty": 0.54,
+        "specificity": 0.09
+      },
+      "dwarf fortress": {
+        "dominance": 2.25,
+        "event": 0.76,
+        "form": 0.94,
+        "novelty": 0.8,
+        "specificity": 0.01
+      },
+      "fortress": {
+        "dominance": 2.0,
+        "event": 0.69,
+        "form": 0.88,
+        "novelty": 0.79,
+        "specificity": 0.03
+      },
+      "i'm sad": {
+        "dominance": 1.01,
+        "event": 0.43,
+        "form": 0.18,
+        "novelty": 0.44,
+        "specificity": 0.0
+      },
+      "lodged": {
+        "dominance": 0.92,
+        "event": 0.29,
+        "form": 0.32,
+        "novelty": 0.41,
+        "specificity": 0.0
+      },
+      "october 2026": {
+        "dominance": 1.04,
+        "event": 0.67,
+        "form": 0.86,
+        "novelty": 0.51,
+        "specificity": 0.0
+      },
+      "version control": {
+        "dominance": 2.26,
+        "event": 0.79,
+        "form": 0.93,
+        "novelty": 0.74,
+        "specificity": 0.02
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}
