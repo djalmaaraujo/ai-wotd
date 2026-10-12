@@ -1,0 +1,223 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "acemoglu",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "the developer",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "developer who",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "the developer who",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "ai will replace",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "an agent is",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and engineers",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and powerpoint",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "app that",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--ef938d74"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "at step",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-10-12",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 12727,
+    "model": "jev-1.13.0",
+    "pool_size": 27,
+    "signals": {
+      "app": {
+        "dominance": 1.66,
+        "event": 0.81,
+        "form": 0.67,
+        "novelty": 0.4,
+        "specificity": 0.13
+      },
+      "better coding decisions": {
+        "dominance": 1.74,
+        "event": 0.11,
+        "form": 0.86,
+        "novelty": 0.48,
+        "specificity": 0.07
+      },
+      "claude projects": {
+        "dominance": 1.28,
+        "event": 0.13,
+        "form": 0.86,
+        "novelty": 0.54,
+        "specificity": 1.99
+      },
+      "coding decisions": {
+        "dominance": 1.7,
+        "event": 0.48,
+        "form": 0.84,
+        "novelty": 0.45,
+        "specificity": 0.3
+      },
+      "decision model race": {
+        "dominance": 1.84,
+        "event": 0.85,
+        "form": 0.85,
+        "novelty": 0.57,
+        "specificity": 0.93
+      },
+      "developer who ships": {
+        "dominance": 1.18,
+        "event": 0.15,
+        "form": 0.61,
+        "novelty": 0.58,
+        "specificity": 0.11
+      },
+      "happening inside": {
+        "dominance": 1.59,
+        "event": 0.36,
+        "form": 0.24,
+        "novelty": 0.53,
+        "specificity": 0.06
+      },
+      "human work": {
+        "dominance": 1.69,
+        "event": 0.09,
+        "form": 0.83,
+        "novelty": 0.62,
+        "specificity": 0.17
+      },
+      "inside ai labs": {
+        "dominance": 1.52,
+        "event": 0.19,
+        "form": 0.51,
+        "novelty": 0.57,
+        "specificity": 0.31
+      },
+      "joins": {
+        "dominance": 1.76,
+        "event": 0.85,
+        "form": 0.22,
+        "novelty": 0.4,
+        "specificity": 0.09
+      },
+      "joins the decision": {
+        "dominance": 1.83,
+        "event": 0.85,
+        "form": 0.22,
+        "novelty": 0.65,
+        "specificity": 0.97
+      },
+      "management often celebrates": {
+        "dominance": 1.09,
+        "event": 0.08,
+        "form": 0.27,
+        "novelty": 0.67,
+        "specificity": 0.01
+      },
+      "microsoft joins": {
+        "dominance": 1.89,
+        "event": 0.88,
+        "form": 0.4,
+        "novelty": 0.74,
+        "specificity": 0.66
+      },
+      "powerpoint": {
+        "dominance": 1.06,
+        "event": 0.8,
+        "form": 0.82,
+        "novelty": 0.69,
+        "specificity": 0.05
+      },
+      "will replace": {
+        "dominance": 1.68,
+        "event": 0.15,
+        "form": 0.15,
+        "novelty": 0.62,
+        "specificity": 0.11
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}
