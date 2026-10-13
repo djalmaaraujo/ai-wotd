@@ -1,0 +1,288 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 336.253274,
+      "term": "to use ggml-org",
+      "tf_today": 48
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 336.253274,
+      "term": "use ggml-org",
+      "tf_today": 48
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 284.346729,
+      "term": "install llama",
+      "tf_today": 42
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 284.346729,
+      "term": "local openai-compatible",
+      "tf_today": 42
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 284.346729,
+      "term": "local openai-compatible server",
+      "tf_today": 42
+    },
+    {
+      "articles": [
+        "codenewsletter--2fbfaf25",
+        "latent-space--c2ba4210",
+        "latent-space--eeeb5dab"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 234.490409,
+      "term": "muse wonder",
+      "tf_today": 44
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 233.987481,
+      "term": "lemonade",
+      "tf_today": 36
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 185.435309,
+      "term": "docker model",
+      "tf_today": 30
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 139.055436,
+      "term": "inference directly",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "latent-space--073aa391",
+        "latent-space--2459fd4f",
+        "latent-space--5bda9496",
+        "latent-space--74f1d740",
+        "latent-space--dcc1d9b9",
+        "latent-space--f2489b99"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 139.055436,
+      "term": "inference directly in",
+      "tf_today": 24
+    }
+  ],
+  "date": "2026-10-13",
+  "evidence_article_ids": [
+    "latent-space--eeeb5dab"
+  ],
+  "judge": {
+    "input_tokens": 23925,
+    "model": "jev-1.13.0",
+    "pool_size": 46,
+    "signals": {
+      "d3": {
+        "dominance": 2.17,
+        "event": 0.29,
+        "form": 0.48,
+        "novelty": 0.81,
+        "specificity": 1.55
+      },
+      "frontier model": {
+        "dominance": 2.98,
+        "event": 0.94,
+        "form": 0.93,
+        "novelty": 0.52,
+        "specificity": 1.82
+      },
+      "full": {
+        "dominance": 2.3,
+        "event": 0.83,
+        "form": 0.54,
+        "novelty": 0.54,
+        "specificity": 1.08
+      },
+      "ggml-org": {
+        "dominance": 2.31,
+        "event": 0.23,
+        "form": 0.46,
+        "novelty": 0.77,
+        "specificity": 1.69
+      },
+      "install llama": {
+        "dominance": 2.12,
+        "event": 0.13,
+        "form": 0.24,
+        "novelty": 0.63,
+        "specificity": 0.83
+      },
+      "local openai-compatible server": {
+        "dominance": 2.38,
+        "event": 0.16,
+        "form": 0.54,
+        "novelty": 0.73,
+        "specificity": 1.95
+      },
+      "meta": {
+        "dominance": 2.99,
+        "event": 0.95,
+        "form": 0.83,
+        "novelty": 0.63,
+        "specificity": 1.09
+      },
+      "meta muse wonder": {
+        "dominance": 2.94,
+        "event": 0.93,
+        "form": 0.88,
+        "novelty": 0.61,
+        "specificity": 1.99
+      },
+      "models": {
+        "dominance": 2.98,
+        "event": 0.93,
+        "form": 0.7,
+        "novelty": 0.34,
+        "specificity": 1.08
+      },
+      "msl": {
+        "dominance": 2.49,
+        "event": 0.86,
+        "form": 0.52,
+        "novelty": 0.76,
+        "specificity": 1.11
+      },
+      "muse wonder full": {
+        "dominance": 2.66,
+        "event": 0.88,
+        "form": 0.91,
+        "novelty": 0.78,
+        "specificity": 1.99
+      },
+      "openai-compatible server": {
+        "dominance": 2.11,
+        "event": 0.13,
+        "form": 0.67,
+        "novelty": 0.7,
+        "specificity": 1.99
+      },
+      "run inference directly": {
+        "dominance": 2.1,
+        "event": 0.18,
+        "form": 0.24,
+        "novelty": 0.66,
+        "specificity": 1.93
+      },
+      "vllm": {
+        "dominance": 2.44,
+        "event": 0.23,
+        "form": 0.76,
+        "novelty": 0.75,
+        "specificity": 1.98
+      },
+      "wonder full": {
+        "dominance": 2.46,
+        "event": 0.89,
+        "form": 0.69,
+        "novelty": 0.79,
+        "specificity": 1.92
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "meta muse wonder",
+      "muse wonder full"
+    ]
+  },
+  "label": "Meta Muse Wonder",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+        "https://ai.meta.com/"
+      ],
+      "text": "Meta Muse Wonder is a family of frontier large language models released by Meta's MSL (Meta Superintelligence Lab) in October 2026, comprising at least a base Muse Wonder and a larger Muse Wonder Full variant. The series adopts a tiered naming convention—Spark, Glimmer, Muse Wonder—analogous to OpenAI's and Anthropic's model hierarchies. Muse Wonder Full demonstrates competitive performance against models like Fable and Astra on certain benchmarks, though its parameter count and training details remain partially undisclosed. The release signals Meta's intent to compete at the highest tier of proprietary foundation models while the surrounding discourse emphasizes local inference optimization via ggml-org and llama.cpp tooling."
+    },
+    "generated_at": "2026-10-13T14:12:46.865761+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Meta has unveiled Muse Wonder, a new frontier model series from its MSL lab, positioning it alongside existing Spark and Glimmer lines in a tiered naming scheme mirroring OpenAI's Sol/Terra/Luna and Anthropic's Opus/Sonnet/Haiku. The launch, covered by latent.space's AI News roundup for October 10–12, 2026, marks the culmination of a 14-month push to frontier status. Muse Wonder Full reportedly beats Fable and Astra on select benchmarks, though its exact parameter scale remains unspecified. Simultaneously, community discourse highlights a surge in local inference tooling: ggml-org libraries, llama.cpp installation guides, and OpenAI-compatible local servers dominate technical discussions, signaling a parallel trend toward self-hosted deployment of high-performance models. The report notes ambiguity around whether Wonder aligns with Fable/Astra-class models after post-training, underscoring ongoing challenges in comparing partially disclosed architectures.",
+    "why": "Meta Muse Wonder trended today because latent.space published a detailed launch breakdown of the model family as part of its October 10–12 AI News digest, framing it as the 'final ball drop' in MSL's 14-month journey to frontier-lab status. The article's benchmark comparisons against Fable and Astra and its analysis of the model's tier positioning drove immediate technical discussion."
+  },
+  "score": null,
+  "word": "meta muse wonder"
+}

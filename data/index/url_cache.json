@@ -1400,6 +1400,10 @@
     "article_id": "aibreakfast--dfa17158",
     "first_seen_date": "2026-04-18"
   },
+  "https://aibreakfast.beehiiv.com/p/meta-s-frontier-model-muse-wonder": {
+    "article_id": "aibreakfast--18ce282b",
+    "first_seen_date": "2026-10-13"
+  },
   "https://aibreakfast.beehiiv.com/p/meta-s-hypernova-ar-glasses-1131": {
     "article_id": "aibreakfast--21c28efa",
     "first_seen_date": "2026-04-17"
@@ -3918,6 +3922,10 @@
     "article_id": "codenewsletter--114ae923",
     "first_seen_date": "2026-09-02"
   },
+  "https://codenewsletter.ai/p/meta-unveils-its-first-frontier-model-to-rival-claude-and-chatgpt": {
+    "article_id": "codenewsletter--2fbfaf25",
+    "first_seen_date": "2026-10-13"
+  },
   "https://codenewsletter.ai/p/microsoft-drops-three-new-ai-models-anthropic-cuts-third-party-tool-support": {
     "article_id": "codenewsletter--32372528",
     "first_seen_date": "2026-04-14"
@@ -5338,6 +5346,14 @@
   "https://github.com/ggml-org/llama.cpp/pull/30112": {
     "article_id": "latent-space--6ec18d38",
     "first_seen_date": "2026-10-09"
+  },
+  "https://github.com/ggml-org/llama.cpp/pull/30378": {
+    "article_id": "latent-space--41524700",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://github.com/ggml-org/llama.cpp/pull/30383": {
+    "article_id": "latent-space--8b94d322",
+    "first_seen_date": "2026-10-13"
   },
   "https://github.com/google-research/era/tree/main/era_applications": {
     "article_id": "latent-space--c7cea7e0",
@@ -9223,6 +9239,10 @@
     "first_seen_date": "2026-09-29",
     "status": "fetch_failed"
   },
+  "https://huggingface.co/collections/vllm-sr/decision-30": {
+    "article_id": "latent-space--1119a2f6",
+    "first_seen_date": "2026-10-13"
+  },
   "https://huggingface.co/datasets/bigscience/P3": {
     "article_id": "nlp-newsletter--49599190",
     "first_seen_date": "2026-09-23"
@@ -9270,6 +9290,30 @@
   "https://huggingface.co/ggml-org/embeddinggemma-2-GGUF": {
     "article_id": "latent-space--49572146",
     "first_seen_date": "2026-10-07"
+  },
+  "https://huggingface.co/ggml-org/vllm-d3-GGUF": {
+    "article_id": "latent-space--2459fd4f",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://huggingface.co/ggml-org/vllm-d3-edge-GGUF": {
+    "article_id": "latent-space--5bda9496",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://huggingface.co/ggml-org/vllm-d3-flash-GGUF": {
+    "article_id": "latent-space--74f1d740",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://huggingface.co/ggml-org/vllm-d3-lite-GGUF": {
+    "article_id": "latent-space--dcc1d9b9",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://huggingface.co/ggml-org/vllm-d3-mini-GGUF": {
+    "article_id": "latent-space--f2489b99",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://huggingface.co/ggml-org/vllm-d3-nano-GGUF": {
+    "article_id": "latent-space--073aa391",
+    "first_seen_date": "2026-10-13"
   },
   "https://huggingface.co/google/gemma-4-31B-it": {
     "article_id": "interconnects--cc269c47",
@@ -11653,6 +11697,10 @@
     "article_id": "latent-space--b9e389a3",
     "first_seen_date": "2026-10-08"
   },
+  "https://platform.claude.com/docs/en/managed-agents/dreams": {
+    "article_id": "latent-space--3d3236af",
+    "first_seen_date": "2026-10-13"
+  },
   "https://plato.stanford.edu/entries/justification-public": {
     "article_id": "ai-snake-oil--4b1560c5",
     "first_seen_date": "2026-09-28"
@@ -11840,6 +11888,10 @@
     "article_id": "nlp-newsletter--35329875",
     "first_seen_date": "2026-09-23"
   },
+  "https://research.meta.ai/blog/muse-wonder": {
+    "article_id": "latent-space--c2ba4210",
+    "first_seen_date": "2026-10-13"
+  },
   "https://rlhfbook.com/": {
     "article_id": "interconnects--e9eaaf5f",
     "first_seen_date": "2026-09-23"
@@ -11985,6 +12037,10 @@
     "article_id": "nlp-newsletter--59db897e",
     "first_seen_date": "2026-09-23"
   },
+  "https://signup.hosted.unionai.cloud/sign-in": {
+    "article_id": "latent-space--d44c3ee9",
+    "first_seen_date": "2026-10-13"
+  },
   "https://sigusr2.net/notes-on-not-looking-at-the-code.html": {
     "article_id": "one-useful-thing--f3263fd1",
     "first_seen_date": "2026-04-13"
@@ -12036,6 +12092,22 @@
   "https://simonwillison.net/2026/Oct/11/dwarf-fortress": {
     "article_id": "simonwillison--4bb4761a",
     "first_seen_date": "2026-10-11"
+  },
+  "https://simonwillison.net/2026/Oct/12/datasette-ports": {
+    "article_id": "simonwillison--0390200e",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://simonwillison.net/2026/Oct/12/python-3-15": {
+    "article_id": "simonwillison--43a437ea",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://simonwillison.net/2026/Oct/12/web-edit": {
+    "article_id": "simonwillison--92ad80c3",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": {
+    "article_id": "simonwillison--eb9dd245",
+    "first_seen_date": "2026-10-13"
   },
   "https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
     "article_id": "simonwillison--307d499a",
@@ -13718,6 +13790,10 @@
     "article_id": "latent-space--f1bb7c0f",
     "first_seen_date": "2026-09-24"
   },
+  "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder": {
+    "article_id": "latent-space--eeeb5dab",
+    "first_seen_date": "2026-10-13"
+  },
   "https://www.latent.space/p/ainews-not-much-happened-today-60f": {
     "article_id": "latent-space--28aae363",
     "first_seen_date": "2026-10-09"
@@ -13781,6 +13857,10 @@
   "https://www.latent.space/p/biohub-deepmind": {
     "article_id": "latent-space--41aa058a",
     "first_seen_date": "2026-10-10"
+  },
+  "https://www.latent.space/p/claude-dynamic-workflows": {
+    "article_id": "latent-space--09cc034a",
+    "first_seen_date": "2026-10-13"
   },
   "https://www.latent.space/p/devday-2026": {
     "article_id": "latent-space--eb45c526",
@@ -13985,6 +14065,10 @@
   "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai": {
     "article_id": "microsoft-research--3bba3a1b",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring": {
+    "article_id": "microsoft-research--a1395fb3",
+    "first_seen_date": "2026-10-13"
   },
   "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code": {
     "article_id": "microsoft-research--0e5691b4",
@@ -15094,6 +15178,14 @@
   "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no": {
     "article_id": "mit-tech-review-ai--8fd9b564",
     "first_seen_date": "2026-10-09"
+  },
+  "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models": {
+    "article_id": "mit-tech-review-ai--fb0ed4a1",
+    "first_seen_date": "2026-10-13"
+  },
+  "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks": {
+    "article_id": "mit-tech-review-ai--0fef9b0c",
+    "first_seen_date": "2026-10-13"
   },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",

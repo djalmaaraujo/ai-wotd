@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--f2489b99",
+  "author": null,
+  "content_chars": 4593,
+  "content_sha256": "346199dd2b98950d063ebb719cec746e3de3ebc33fc20261cc1ca3ba525ffebf",
+  "content_tokens": 1148,
+  "fetched_at": "2026-10-13T14:10:45Z",
+  "kind": "article",
+  "published_at": "2026-10-13T09:37:04+00:00",
+  "snippet": "- Notebooks - Google Colab - Kaggle - Local Apps Settings - llama.cpp How to use ggml-org/vllm-d3-mini-GGUF with llama.cpp: Install (macOS, Linux) curl -LsSf https://llama.app/install.sh | sh # Start a local OpenAI-compatible server with a web UI: llama serve -hf…",
+  "source_id": "latent-space",
+  "title": "ggml-org/vllm-d3-mini-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "ggml-org",
+      30
+    ],
+    [
+      "vllm-d3-mini-gguf",
+      30
+    ],
+    [
+      "llama",
+      23
+    ],
+    [
+      "install",
+      19
+    ],
+    [
+      "q4",
+      19
+    ],
+    [
+      "cpp",
+      15
+    ],
+    [
+      "hf",
+      15
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "server",
+      14
+    ],
+    [
+      "run",
+      13
+    ],
+    [
+      "local",
+      12
+    ],
+    [
+      "start",
+      12
+    ],
+    [
+      "hermes",
+      11
+    ],
+    [
+      "hf ggml-org",
+      11
+    ],
+    [
+      "openai-compatible",
+      8
+    ],
+    [
+      "openclaw",
+      8
+    ],
+    [
+      "pi",
+      8
+    ],
+    [
+      "to use ggml-org",
+      8
+    ],
+    [
+      "use ggml-org",
+      8
+    ],
+    [
+      "vllm-d3-mini-gguf with",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/ggml-org/vllm-d3-mini-GGUF",
+  "url_canonical": "https://huggingface.co/ggml-org/vllm-d3-mini-GGUF",
+  "via_source_id": "latent-space"
+}

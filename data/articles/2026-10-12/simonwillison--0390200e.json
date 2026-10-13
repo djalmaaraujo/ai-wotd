@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--0390200e",
+  "author": "Simon Willison",
+  "content_chars": 539,
+  "content_sha256": "8ce9843e18c5b56757ed07665ca530b56b71653b293ff0dfb233069ccf52f42d",
+  "content_tokens": 134,
+  "fetched_at": "2026-10-13T14:10:36Z",
+  "kind": "article",
+  "published_at": "2026-10-12T04:57:07+00:00",
+  "snippet": "12th October 2026 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler. Recent articles - Hello Python…",
+  "source_id": "simonwillison",
+  "title": "datasette-ports 0.4",
+  "top_terms": [
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "pid",
+      2
+    ],
+    [
+      "python",
+      2
+    ],
+    [
+      "python 3.15",
+      2
+    ],
+    [
+      "all datasette",
+      1
+    ],
+    [
+      "all datasette instances",
+      1
+    ],
+    [
+      "and displays",
+      1
+    ],
+    [
+      "and displays the",
+      1
+    ],
+    [
+      "and listing",
+      1
+    ],
+    [
+      "and listing all",
+      1
+    ],
+    [
+      "attach",
+      1
+    ],
+    [
+      "attach the",
+      1
+    ],
+    [
+      "attach the new",
+      1
+    ],
+    [
+      "blog",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "budget caps",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/12/datasette-ports",
+  "via_source_id": null
+}

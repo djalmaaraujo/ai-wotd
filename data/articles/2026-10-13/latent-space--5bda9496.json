@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--5bda9496",
+  "author": null,
+  "content_chars": 4553,
+  "content_sha256": "d027b4b854c33b834394626d3f5eefb57c50c8919f1f3cc17c260bf7b1f86d7d",
+  "content_tokens": 1138,
+  "fetched_at": "2026-10-13T14:10:45Z",
+  "kind": "article",
+  "published_at": "2026-10-13T09:37:04+00:00",
+  "snippet": "- Notebooks - Google Colab - Kaggle - Local Apps Settings - llama.cpp How to use ggml-org/vllm-d3-edge-GGUF with llama.cpp: Install (macOS, Linux) curl -LsSf https://llama.app/install.sh | sh # Start a local OpenAI-compatible server with a web UI: llama serve -hf…",
+  "source_id": "latent-space",
+  "title": "ggml-org/vllm-d3-edge-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "ggml-org",
+      30
+    ],
+    [
+      "vllm-d3-edge-gguf",
+      30
+    ],
+    [
+      "llama",
+      23
+    ],
+    [
+      "bf16",
+      19
+    ],
+    [
+      "install",
+      19
+    ],
+    [
+      "cpp",
+      15
+    ],
+    [
+      "hf",
+      15
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "server",
+      14
+    ],
+    [
+      "run",
+      13
+    ],
+    [
+      "local",
+      12
+    ],
+    [
+      "start",
+      12
+    ],
+    [
+      "hermes",
+      11
+    ],
+    [
+      "hf ggml-org",
+      11
+    ],
+    [
+      "openai-compatible",
+      8
+    ],
+    [
+      "openclaw",
+      8
+    ],
+    [
+      "pi",
+      8
+    ],
+    [
+      "to use ggml-org",
+      8
+    ],
+    [
+      "use ggml-org",
+      8
+    ],
+    [
+      "vllm-d3-edge-gguf with",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/ggml-org/vllm-d3-edge-GGUF",
+  "url_canonical": "https://huggingface.co/ggml-org/vllm-d3-edge-GGUF",
+  "via_source_id": "latent-space"
+}

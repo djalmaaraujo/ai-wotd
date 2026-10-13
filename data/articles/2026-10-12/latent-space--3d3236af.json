@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3d3236af",
+  "author": null,
+  "content_chars": 7832,
+  "content_sha256": "41cd8f120755425df98d0c8a77c100573a97edb82a84ee568a00d3dec0ec0286",
+  "content_tokens": 1958,
+  "fetched_at": "2026-10-13T14:10:47Z",
+  "kind": "article",
+  "published_at": "2026-10-12T18:18:17+00:00",
+  "snippet": "Agents write to their memory stores as they work, but these writes are local and incremental: over many sessions a memory store accumulates duplicates, contradictions, and stale entries. Dreams let Claude clean that up. A dream reads an existing memory store alongside past…",
+  "source_id": "latent-space",
+  "title": "Dreams - Claude Platform Docs",
+  "top_terms": [
+    [
+      "store",
+      43
+    ],
+    [
+      "dream",
+      41
+    ],
+    [
+      "memory",
+      35
+    ],
+    [
+      "id",
+      22
+    ],
+    [
+      "output",
+      19
+    ],
+    [
+      "input",
+      17
+    ],
+    [
+      "memory store",
+      17
+    ],
+    [
+      "dreams",
+      13
+    ],
+    [
+      "session",
+      12
+    ],
+    [
+      "pipeline",
+      10
+    ],
+    [
+      "sessions",
+      10
+    ],
+    [
+      "status",
+      10
+    ],
+    [
+      "the output",
+      10
+    ],
+    [
+      "the dream",
+      9
+    ],
+    [
+      "instructions",
+      8
+    ],
+    [
+      "running",
+      8
+    ],
+    [
+      "type",
+      8
+    ],
+    [
+      "archived",
+      7
+    ],
+    [
+      "dreaming",
+      7
+    ],
+    [
+      "the memory",
+      7
+    ]
+  ],
+  "url": "https://platform.claude.com/docs/en/managed-agents/dreams",
+  "url_canonical": "https://platform.claude.com/docs/en/managed-agents/dreams",
+  "via_source_id": "latent-space"
+}

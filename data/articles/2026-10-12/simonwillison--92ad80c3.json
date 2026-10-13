@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--92ad80c3",
+  "author": "Simon Willison",
+  "content_chars": 945,
+  "content_sha256": "e6bc42e74304eb0c8d29b5c5d080d56e864406b9bd4bd1b285165de824c38771",
+  "content_tokens": 236,
+  "fetched_at": "2026-10-13T14:10:36Z",
+  "kind": "article",
+  "published_at": "2026-10-12T15:54:36+00:00",
+  "snippet": "12th October 2026 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which…",
+  "source_id": "simonwillison",
+  "title": "web-edit 0.1a0",
+  "top_terms": [
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "files",
+      3
+    ],
+    [
+      "codex",
+      2
+    ],
+    [
+      "credentials",
+      2
+    ],
+    [
+      "edit",
+      2
+    ],
+    [
+      "editing",
+      2
+    ],
+    [
+      "files in",
+      2
+    ],
+    [
+      "folder",
+      2
+    ],
+    [
+      "from my phone",
+      2
+    ],
+    [
+      "my phone",
+      2
+    ],
+    [
+      "phone",
+      2
+    ],
+    [
+      "python",
+      2
+    ],
+    [
+      "tailscale",
+      2
+    ],
+    [
+      "web",
+      2
+    ],
+    [
+      "a0",
+      1
+    ],
+    [
+      "a0 12",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/12/web-edit",
+  "via_source_id": null
+}

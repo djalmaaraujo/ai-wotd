@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--eb9dd245",
+  "author": "Simon Willison",
+  "content_chars": 788,
+  "content_sha256": "67e8da90c7c81323d3fff2c4b15d9b8b434f7c09a248b6d0a87f1600d77b63ab",
+  "content_tokens": 197,
+  "fetched_at": "2026-10-13T14:10:36Z",
+  "kind": "article",
+  "published_at": "2026-10-13T13:32:00+00:00",
+  "snippet": "13th October 2026 If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my…",
+  "source_id": "simonwillison",
+  "title": "Quoting Geoffrey Huntley",
+  "top_terms": [
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "diagnostics",
+      3
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "diagnostics library",
+      2
+    ],
+    [
+      "geoffrey",
+      2
+    ],
+    [
+      "geoffrey huntley",
+      2
+    ],
+    [
+      "huntley",
+      2
+    ],
+    [
+      "library",
+      2
+    ],
+    [
+      "my diagnostics",
+      2
+    ],
+    [
+      "ten",
+      2
+    ],
+    [
+      "the agent",
+      2
+    ],
+    [
+      "agent isn't",
+      1
+    ],
+    [
+      "agent isn't using",
+      1
+    ],
+    [
+      "agent to",
+      1
+    ],
+    [
+      "agent to use",
+      1
+    ],
+    [
+      "agents",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley",
+  "via_source_id": null
+}
