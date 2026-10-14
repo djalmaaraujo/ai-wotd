@@ -1,0 +1,261 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--7fab0c86"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 34.538776,
+      "term": "you've",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--7fab0c86",
+        "latent-space--a517f1fc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 29.112182,
+      "term": "little bit",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--a517f1fc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 24.260151,
+      "term": "deterministic",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--6fbe82c7"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.459101,
+      "term": "the frontier of",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--7fab0c86"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.459101,
+      "term": "we've seen",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--7fab0c86",
+        "latent-space--a517f1fc"
+      ],
+      "avg_tf_baseline": 5.3636,
+      "df_today": 3,
+      "score": 16.773979,
+      "term": "we're",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--a517f1fc"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 15.79696,
+      "term": "let's",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--7fab0c86"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.931329,
+      "term": "of companies",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--a517f1fc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.931329,
+      "term": "want to talk",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "latent-space--04335a52",
+        "latent-space--7fab0c86",
+        "latent-space--a517f1fc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 12.875503,
+      "term": "so it's",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-10-14",
+  "evidence_article_ids": [
+    "latent-space--6fbe82c7"
+  ],
+  "judge": {
+    "input_tokens": 19603,
+    "model": "jev-1.13.0",
+    "pool_size": 41,
+    "signals": {
+      "benchmarks": {
+        "dominance": 1.93,
+        "event": 0.32,
+        "form": 0.84,
+        "novelty": 0.59,
+        "specificity": 1.89
+      },
+      "companies": {
+        "dominance": 2.35,
+        "event": 0.89,
+        "form": 0.63,
+        "novelty": 0.31,
+        "specificity": 0.19
+      },
+      "engineer nyc 2026": {
+        "dominance": 2.44,
+        "event": 0.77,
+        "form": 0.58,
+        "novelty": 0.76,
+        "specificity": 0.39
+      },
+      "errors may remain": {
+        "dominance": 1.86,
+        "event": 0.15,
+        "form": 0.22,
+        "novelty": 0.55,
+        "specificity": 0.2
+      },
+      "eu": {
+        "dominance": 1.84,
+        "event": 0.42,
+        "form": 0.51,
+        "novelty": 0.65,
+        "specificity": 0.03
+      },
+      "financial services": {
+        "dominance": 2.72,
+        "event": 0.54,
+        "form": 0.91,
+        "novelty": 0.79,
+        "specificity": 0.06
+      },
+      "follow the original": {
+        "dominance": 2.19,
+        "event": 0.3,
+        "form": 0.13,
+        "novelty": 0.71,
+        "specificity": 0.02
+      },
+      "gemini 4 argon": {
+        "dominance": 1.76,
+        "event": 0.87,
+        "form": 0.95,
+        "novelty": 0.56,
+        "specificity": 2.0
+      },
+      "government": {
+        "dominance": 1.9,
+        "event": 0.78,
+        "form": 0.81,
+        "novelty": 0.73,
+        "specificity": 0.01
+      },
+      "machine-generated with reviewed": {
+        "dominance": 1.83,
+        "event": 0.17,
+        "form": 0.21,
+        "novelty": 0.6,
+        "specificity": 0.68
+      },
+      "model": {
+        "dominance": 2.74,
+        "event": 0.87,
+        "form": 0.82,
+        "novelty": 0.25,
+        "specificity": 1.31
+      },
+      "nyc 2026 timestamps": {
+        "dominance": 1.95,
+        "event": 0.29,
+        "form": 0.34,
+        "novelty": 0.7,
+        "specificity": 0.11
+      },
+      "services": {
+        "dominance": 1.89,
+        "event": 0.73,
+        "form": 0.68,
+        "novelty": 0.56,
+        "specificity": 0.51
+      },
+      "singapore government": {
+        "dominance": 1.7,
+        "event": 0.81,
+        "form": 0.9,
+        "novelty": 0.84,
+        "specificity": 0.01
+      },
+      "talk": {
+        "dominance": 2.18,
+        "event": 0.75,
+        "form": 0.6,
+        "novelty": 0.36,
+        "specificity": 0.1
+      },
+      "vals": {
+        "dominance": 1.73,
+        "event": 0.32,
+        "form": 0.76,
+        "novelty": 0.74,
+        "specificity": 1.46
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "gemini 4 argon"
+    ]
+  },
+  "label": "Gemini 4 Argon",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://deepmind.google/technologies/gemini/",
+        "https://blog.google/technology/ai/google-gemini-ai-update-2025/",
+        "https://arxiv.org/abs/2312.11805"
+      ],
+      "text": "Gemini 4 Argon is a variant of Google's Gemini 4 foundation model family, optimized for coding and agentic tasks, released to general availability in June 2025. It is positioned as a high-performance, deterministic model for software engineering workflows, with benchmarks such as CursorBench measuring its code generation and editing accuracy. As part of Google DeepMind's Gemini lineup, Argon represents a specialized, production-ready checkpoint aimed at developers and enterprise AI platforms."
+    },
+    "generated_at": "2026-10-14T11:51:49.280911+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Google's Gemini 4 Argon reached general availability today, headlining the AI Engineer NYC conference where roughly 20,000 attendees gathered for keynotes spanning AI in finance, benchmarking, and investment workflows. The model had been featured as a title story two weeks prior, and independent benchmarks such as CursorBench now confirm its performance claims. Vals AI's CEO presented principles behind evaluating models like Argon, while Anthropic outlined its modern AI financial services stack and Coatue demonstrated turning news into investment decisions. The event underscores the frontier of AI x Finance as a primary deployment vector for new foundation models.",
+    "why": "Gemini 4 Argon trended because it officially launched to general availability today and was the centerpiece of the AI Engineer NYC conference, where independent benchmarking (CursorBench) validated its previously announced capabilities. The convergence of a major model release, a large industry gathering, and third-party verification drove simultaneous discussion across technical and financial audiences."
+  },
+  "score": null,
+  "word": "gemini 4 argon"
+}

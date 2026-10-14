@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--0bf30b4f",
+  "author": "Simon Willison",
+  "content_chars": 2418,
+  "content_sha256": "52779f4043fff80c8757b924ef64ecf060790aaa1700cea0d061db61fc167879",
+  "content_tokens": 604,
+  "fetched_at": "2026-10-14T11:51:05Z",
+  "kind": "article",
+  "published_at": "2026-10-13T23:00:06+00:00",
+  "snippet": "13th October 2026 - Link Blog Redesigning source control at Anthropic (via) Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May…",
+  "source_id": "simonwillison",
+  "title": "Redesigning source control at Anthropic",
+  "top_terms": [
+    [
+      "anthropic",
+      5
+    ],
+    [
+      "claude",
+      5
+    ],
+    [
+      "code",
+      5
+    ],
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "control",
+      4
+    ],
+    [
+      "source",
+      4
+    ],
+    [
+      "source control",
+      4
+    ],
+    [
+      "system",
+      4
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "built",
+      3
+    ],
+    [
+      "changes",
+      3
+    ],
+    [
+      "git",
+      3
+    ],
+    [
+      "models",
+      3
+    ],
+    [
+      "review",
+      3
+    ],
+    [
+      "scion",
+      3
+    ],
+    [
+      "adversarial",
+      2
+    ],
+    [
+      "adversarial review",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
+  "via_source_id": null
+}

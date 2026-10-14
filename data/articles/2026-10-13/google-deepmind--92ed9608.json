@@ -1,0 +1,98 @@
+{
+  "article_id": "google-deepmind--92ed9608",
+  "author": "Google DeepMind Blog",
+  "content_chars": 20188,
+  "content_sha256": "69ab12d8ad1da4b487720d0f3c6c0cb60ee00a0cdff279c211a6a74971b97e99",
+  "content_tokens": 5047,
+  "fetched_at": "2026-10-14T11:48:11Z",
+  "kind": "article",
+  "published_at": "2026-10-13T16:01:58+00:00",
+  "snippet": "Gemini 4 Argon marks a step change in physical understanding, code generation, and visual-semantic reasoning—unlocking new workflows across the robotics stack and accelerating progress toward physical AGI. You can see this leap in capability on the Embodied Reasoning (ERQA)…",
+  "source_id": "google-deepmind",
+  "title": "Gemini 4 Argon for Robotics",
+  "top_terms": [
+    [
+      "robot",
+      31
+    ],
+    [
+      "argon",
+      30
+    ],
+    [
+      "prompt",
+      21
+    ],
+    [
+      "mujoco",
+      20
+    ],
+    [
+      "dof",
+      15
+    ],
+    [
+      "real",
+      15
+    ],
+    [
+      "task",
+      15
+    ],
+    [
+      "contact",
+      14
+    ],
+    [
+      "objects",
+      14
+    ],
+    [
+      "right",
+      13
+    ],
+    [
+      "left",
+      12
+    ],
+    [
+      "video",
+      12
+    ],
+    [
+      "wrist",
+      12
+    ],
+    [
+      "camera",
+      11
+    ],
+    [
+      "hand",
+      11
+    ],
+    [
+      "object",
+      11
+    ],
+    [
+      "arm",
+      10
+    ],
+    [
+      "closed-loop",
+      10
+    ],
+    [
+      "deg",
+      10
+    ],
+    [
+      "physical",
+      10
+    ]
+  ],
+  "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+  "url_canonical": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+  "via_source_id": null
+}

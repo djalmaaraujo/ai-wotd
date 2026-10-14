@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-13T14:12:49+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-14T11:51:51+00:00</lastBuildDate>
+    <item>
+      <title>Gemini 4 Argon (2026-10-14)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-14/</link>
+      <guid isPermaLink="false">wotd-2026-10-14</guid>
+      <pubDate>2026-10-14</pubDate>
+      <description>Gemini 4 Argon trended because it officially launched to general availability today and was the centerpiece of the AI Engineer NYC conference, where independent benchmarking (CursorBench) validated its previously announced capabilities. The convergence of a major model release, a large industry gathering, and third-party verification drove simultaneous discussion across technical and financial audiences.</description>
+    </item>
     <item>
       <title>Meta Muse Wonder (2026-10-13)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-13/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-07-16</guid>
       <pubDate>2026-07-16</pubDate>
       <description>Word of the day: weekly rate limits</description>
-    </item>
-    <item>
-      <title>faster to write (2026-07-15)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-07-15/</link>
-      <guid isPermaLink="false">wotd-2026-07-15</guid>
-      <pubDate>2026-07-15</pubDate>
-      <description>Word of the day: faster to write</description>
     </item>
   </channel>
 </rss>

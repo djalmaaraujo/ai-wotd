@@ -2441,6 +2441,18 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://aie-nyc-2026-talks.swyxio.workers.dev/talks/anthropic-financial-services": {
+    "article_id": "latent-space--04335a52",
+    "first_seen_date": "2026-10-14"
+  },
+  "https://aie-nyc-2026-talks.swyxio.workers.dev/talks/frank-long-hedge-fund": {
+    "article_id": "latent-space--a517f1fc",
+    "first_seen_date": "2026-10-14"
+  },
+  "https://aie-nyc-2026-talks.swyxio.workers.dev/talks/rayan-krishnan-jagged-frontier": {
+    "article_id": "latent-space--7fab0c86",
+    "first_seen_date": "2026-10-14"
+  },
   "https://aiendgame.com/p/it-comes-down-to-a-phone-call?r=92rmhq&triedRedirect=true": {
     "article_id": "last-week-in-ai--5d8dc279",
     "first_seen_date": "2026-10-03"
@@ -4469,6 +4481,10 @@
     "article_id": "google-deepmind--7a85e4ca",
     "first_seen_date": "2026-04-13"
   },
+  "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely": {
+    "article_id": "google-deepmind--9a092320",
+    "first_seen_date": "2026-10-14"
+  },
   "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation": {
     "article_id": "google-deepmind--a003f3cf",
     "first_seen_date": "2026-06-11"
@@ -4540,6 +4556,10 @@
   "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed": {
     "article_id": "google-deepmind--319e94ac",
     "first_seen_date": "2026-04-13"
+  },
+  "https://deepmind.google/blog/gemini-4-argon-for-robotics": {
+    "article_id": "google-deepmind--92ed9608",
+    "first_seen_date": "2026-10-14"
   },
   "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence": {
     "article_id": "google-deepmind--96e087c9",
@@ -4637,6 +4657,10 @@
     "article_id": "google-deepmind--f3d9c20f",
     "first_seen_date": "2026-09-25"
   },
+  "https://deepmind.google/blog/introducing-gemini-4-argon": {
+    "article_id": "google-deepmind--a4e023fa",
+    "first_seen_date": "2026-10-14"
+  },
   "https://deepmind.google/blog/introducing-gemini-omni": {
     "article_id": "google-deepmind--8af59296",
     "first_seen_date": "2026-05-20"
@@ -4696,6 +4720,10 @@
   "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed": {
     "article_id": "google-deepmind--489c78bb",
     "first_seen_date": "2026-04-13"
+  },
+  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": {
+    "article_id": "google-deepmind--0da2424b",
+    "first_seen_date": "2026-10-14"
   },
   "https://deepmind.google/blog/opening-new-paths-in-aging-research": {
     "article_id": "google-deepmind--e81beb1b",
@@ -5793,6 +5821,10 @@
   "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
     "article_id": "huggingface-blog--405872cd",
     "first_seen_date": "2026-09-25"
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
+    "article_id": "huggingface-blog--4ff32ced",
+    "first_seen_date": "2026-10-14"
   },
   "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
     "article_id": "huggingface-blog--e9f2aca6",
@@ -9467,6 +9499,10 @@
     "article_id": "interconnects--8fb0f652",
     "first_seen_date": "2026-09-23"
   },
+  "https://jasonma2016.github.io/": {
+    "article_id": "latent-space--632a86d0",
+    "first_seen_date": "2026-10-14"
+  },
   "https://jiho-ml.com/llm-tools-ruder": {
     "article_id": "nlp-newsletter--172d1fd0",
     "first_seen_date": "2026-09-23"
@@ -10663,6 +10699,10 @@
     "article_id": "openai-blog--b323f32d",
     "first_seen_date": "2026-09-22"
   },
+  "https://openai.com/index/higgsfield-longer-videos-voice": {
+    "article_id": "openai-blog--2858479c",
+    "first_seen_date": "2026-10-14"
+  },
   "https://openai.com/index/how-agents-are-transforming-work": {
     "article_id": "openai-blog--2a293660",
     "first_seen_date": "2026-06-26"
@@ -11376,6 +11416,10 @@
   "https://openai.com/index/the-eternal-complement": {
     "article_id": "openai-blog--35345162",
     "first_seen_date": "2026-10-02"
+  },
+  "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+    "article_id": "openai-blog--2a3a43d4",
+    "first_seen_date": "2026-10-14"
   },
   "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
     "article_id": "openai-blog--b0c254c2",
@@ -12108,6 +12152,14 @@
   "https://simonwillison.net/2026/Oct/13/geoffrey-huntley": {
     "article_id": "simonwillison--eb9dd245",
     "first_seen_date": "2026-10-13"
+  },
+  "https://simonwillison.net/2026/Oct/13/llm-gemini": {
+    "article_id": "simonwillison--2eed8306",
+    "first_seen_date": "2026-10-14"
+  },
+  "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic": {
+    "article_id": "simonwillison--0bf30b4f",
+    "first_seen_date": "2026-10-14"
   },
   "https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
     "article_id": "simonwillison--307d499a",
@@ -13364,6 +13416,10 @@
     "article_id": "ai-snake-oil--53d761a9",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.dyna.co/": {
+    "article_id": "latent-space--a35e4e05",
+    "first_seen_date": "2026-10-14"
+  },
   "https://www.e-elgar.com/shop/usd/technological-revolutions-and-financial-capital-9781840649222.html": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -13758,6 +13814,10 @@
     "article_id": "latent-space--bdf24de7",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": {
+    "article_id": "latent-space--6fbe82c7",
+    "first_seen_date": "2026-10-14"
+  },
   "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b": {
     "article_id": "latent-space--13df2b95",
     "first_seen_date": "2026-09-29"
@@ -13865,6 +13925,10 @@
   "https://www.latent.space/p/devday-2026": {
     "article_id": "latent-space--eb45c526",
     "first_seen_date": "2026-10-01"
+  },
+  "https://www.latent.space/p/dyna": {
+    "article_id": "latent-space--b68c8b72",
+    "first_seen_date": "2026-10-14"
   },
   "https://www.latent.space/p/forward-deployed-engineer-best-practices": {
     "article_id": "latent-space--305da8cd",
