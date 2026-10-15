@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--7d16b967",
+  "author": null,
+  "content_chars": 5149,
+  "content_sha256": "97f68808d6aa7c2ecc96317268a81496a0db7451b751b5eef482b30365543e31",
+  "content_tokens": 1287,
+  "fetched_at": "2026-10-15T11:27:29Z",
+  "kind": "article",
+  "published_at": "2026-10-14T20:35:09+00:00",
+  "snippet": "Boltz is a family of models for biomolecular interaction prediction. Boltz-1 was the first fully open source model to approach AlphaFold3 accuracy. Our latest work Boltz-2 is a new biomolecular foundation model that goes beyond AlphaFold3 and Boltz-1 by jointly modeling complex…",
+  "source_id": "latent-space",
+  "title": "GitHub - jwohlwend/boltz: Official repository for the Boltz biomolecular interaction models · GitHub",
+  "top_terms": [
+    [
+      "boltz",
+      14
+    ],
+    [
+      "affinity",
+      11
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "boltz-1",
+      7
+    ],
+    [
+      "boltz-2",
+      7
+    ],
+    [
+      "prediction",
+      5
+    ],
+    [
+      "biomolecular",
+      4
+    ],
+    [
+      "different",
+      4
+    ],
+    [
+      "github",
+      4
+    ],
+    [
+      "instructions",
+      4
+    ],
+    [
+      "models",
+      4
+    ],
+    [
+      "predictions",
+      4
+    ],
+    [
+      "value",
+      4
+    ],
+    [
+      "accurate",
+      3
+    ],
+    [
+      "alphafold3",
+      3
+    ],
+    [
+      "author",
+      3
+    ],
+    [
+      "available",
+      3
+    ],
+    [
+      "binding",
+      3
+    ],
+    [
+      "biomolecular interaction",
+      3
+    ],
+    [
+      "code",
+      3
+    ]
+  ],
+  "url": "https://github.com/jwohlwend/boltz",
+  "url_canonical": "https://github.com/jwohlwend/boltz",
+  "via_source_id": "latent-space"
+}

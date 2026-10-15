@@ -1,0 +1,223 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 35.026383,
+      "term": "modal",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "agent fleet",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "cot",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "was reportedly",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "active parameters and",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "akshat",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "ant ling",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "b200",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "b300",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "latent-space--88c2d198"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "brundage",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-10-15",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 17445,
+    "model": "jev-1.13.0",
+    "pool_size": 38,
+    "signals": {
+      "agent fleet": {
+        "dominance": 0.52,
+        "event": 0.12,
+        "form": 0.85,
+        "novelty": 0.28,
+        "specificity": 1.73
+      },
+      "akshat": {
+        "dominance": 1.08,
+        "event": 0.28,
+        "form": 0.84,
+        "novelty": 0.85,
+        "specificity": 0.11
+      },
+      "arr": {
+        "dominance": 1.81,
+        "event": 0.77,
+        "form": 0.51,
+        "novelty": 0.54,
+        "specificity": 0.08
+      },
+      "b300": {
+        "dominance": 0.93,
+        "event": 0.18,
+        "form": 0.24,
+        "novelty": 0.28,
+        "specificity": 0.57
+      },
+      "cot": {
+        "dominance": 0.66,
+        "event": 0.25,
+        "form": 0.37,
+        "novelty": 0.3,
+        "specificity": 1.3
+      },
+      "decacorn": {
+        "dominance": 2.09,
+        "event": 0.81,
+        "form": 0.94,
+        "novelty": 0.83,
+        "specificity": 0.71
+      },
+      "erik": {
+        "dominance": 1.01,
+        "event": 0.47,
+        "form": 0.7,
+        "novelty": 0.69,
+        "specificity": 0.03
+      },
+      "executions": {
+        "dominance": 0.58,
+        "event": 0.42,
+        "form": 0.72,
+        "novelty": 0.16,
+        "specificity": 0.76
+      },
+      "infra decacorn": {
+        "dominance": 2.32,
+        "event": 0.83,
+        "form": 0.92,
+        "novelty": 0.83,
+        "specificity": 1.06
+      },
+      "leads": {
+        "dominance": 0.8,
+        "event": 0.47,
+        "form": 0.58,
+        "novelty": 0.34,
+        "specificity": 0.26
+      },
+      "llms": {
+        "dominance": 1.28,
+        "event": 0.5,
+        "form": 0.6,
+        "novelty": 0.18,
+        "specificity": 1.71
+      },
+      "modal": {
+        "dominance": 2.43,
+        "event": 0.85,
+        "form": 0.87,
+        "novelty": 0.86,
+        "specificity": 1.17
+      },
+      "mw": {
+        "dominance": 0.31,
+        "event": 0.31,
+        "form": 0.39,
+        "novelty": 0.23,
+        "specificity": 0.85
+      },
+      "nyc": {
+        "dominance": 1.43,
+        "event": 0.46,
+        "form": 0.74,
+        "novelty": 0.8,
+        "specificity": 0.07
+      },
+      "series": {
+        "dominance": 1.83,
+        "event": 0.66,
+        "form": 0.51,
+        "novelty": 0.55,
+        "specificity": 0.19
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

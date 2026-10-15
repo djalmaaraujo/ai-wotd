@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--dfcaec71",
+  "author": "Hugging Face Blog",
+  "content_chars": 4485,
+  "content_sha256": "8e66c4e8407a052b4a9d14607fec33232efb44bf4f55509fe1eedba38e7c5b45",
+  "content_tokens": 1121,
+  "fetched_at": "2026-10-15T11:24:32Z",
+  "kind": "article",
+  "published_at": "2026-10-14T16:12:42+00:00",
+  "snippet": "We introduce HiRO-ACEv2, the newest update to our High Resolution Output Ai2 Climate Emulator (HiRO-ACE) system. HiROv2 can reproduce even extremely rare rain, wind, and pressure events with high accuracy, while the full system can generate global 3 km climate data at about…",
+  "source_id": "huggingface-blog",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "top_terms": [
+    [
+      "data",
+      11
+    ],
+    [
+      "x-shield",
+      11
+    ],
+    [
+      "km",
+      9
+    ],
+    [
+      "hiro-acev2",
+      8
+    ],
+    [
+      "ace",
+      7
+    ],
+    [
+      "high-resolution",
+      7
+    ],
+    [
+      "hirov2",
+      7
+    ],
+    [
+      "wind",
+      7
+    ],
+    [
+      "events",
+      6
+    ],
+    [
+      "extreme",
+      6
+    ],
+    [
+      "pressure",
+      6
+    ],
+    [
+      "and pressure",
+      5
+    ],
+    [
+      "rain",
+      5
+    ],
+    [
+      "resolution",
+      5
+    ],
+    [
+      "climate",
+      4
+    ],
+    [
+      "extreme events",
+      4
+    ],
+    [
+      "global",
+      4
+    ],
+    [
+      "hiro",
+      4
+    ],
+    [
+      "km resolution",
+      4
+    ],
+    [
+      "model",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "url_canonical": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "via_source_id": null
+}
