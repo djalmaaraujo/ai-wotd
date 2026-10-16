@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b62e8b20",
+  "author": "Hugging Face Blog",
+  "content_chars": 21139,
+  "content_sha256": "27b4906f7afbae86ea4df20617356c7c629dd62ff705468df948513a517bde1a",
+  "content_tokens": 5284,
+  "fetched_at": "2026-10-16T11:19:20Z",
+  "kind": "article",
+  "published_at": "2026-10-15T00:00:00+00:00",
+  "snippet": "Welcome FLUX.3 Image Klein in Diffusers: The latest open image generation model from Black Forest Labs Both open checkpoints are in the FLUX.3 Image Klein collection: | Checkpoint | What it is | Defaults | |---|---|---| black-forest-labs/flux-3-image-klein | Time step distilled…",
+  "source_id": "huggingface-blog",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "top_terms": [
+    [
+      "image",
+      69
+    ],
+    [
+      "prompt",
+      39
+    ],
+    [
+      "pipe",
+      37
+    ],
+    [
+      "blocks",
+      28
+    ],
+    [
+      "text",
+      27
+    ],
+    [
+      "model",
+      25
+    ],
+    [
+      "torch",
+      25
+    ],
+    [
+      "flux.3",
+      20
+    ],
+    [
+      "id",
+      20
+    ],
+    [
+      "reference",
+      20
+    ],
+    [
+      "bbox",
+      19
+    ],
+    [
+      "diffusers",
+      17
+    ],
+    [
+      "output",
+      17
+    ],
+    [
+      "generator",
+      16
+    ],
+    [
+      "load",
+      16
+    ],
+    [
+      "tokens",
+      16
+    ],
+    [
+      "images",
+      15
+    ],
+    [
+      "fox",
+      14
+    ],
+    [
+      "components",
+      13
+    ],
+    [
+      "steps",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/flux-3",
+  "url_canonical": "https://huggingface.co/blog/flux-3",
+  "via_source_id": null
+}

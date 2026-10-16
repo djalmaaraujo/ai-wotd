@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--3cebe86e",
+  "author": "Hugging Face Blog",
+  "content_chars": 3838,
+  "content_sha256": "d1a3cf7549ee91b7a32d0f2afcb98f72db1f3f98c194d89f559c3fcefb312196",
+  "content_tokens": 959,
+  "fetched_at": "2026-10-16T11:19:20Z",
+  "kind": "article",
+  "published_at": "2026-10-15T20:34:01+00:00",
+  "snippet": "Specifically, Granite-Switch-4.1-8B and -30B models are configured to include: - A new Decision aLoRA for general-purpose decision-making (e.g. v1/systemone), - A specialized Guardian aLoRA that, on average, outperforms Jev 1.13, Microsoft-Decision-1, GPT-Luna-Decisions, and…",
+  "source_id": "huggingface-blog",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "top_terms": [
+    [
+      "granite",
+      17
+    ],
+    [
+      "adapters",
+      14
+    ],
+    [
+      "switch",
+      14
+    ],
+    [
+      "granite switch",
+      12
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "decision",
+      9
+    ],
+    [
+      "specialized",
+      9
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "base",
+      6
+    ],
+    [
+      "tasks",
+      6
+    ],
+    [
+      "decisions",
+      5
+    ],
+    [
+      "granite-switch-4.1",
+      5
+    ],
+    [
+      "jev",
+      5
+    ],
+    [
+      "custom",
+      4
+    ],
+    [
+      "adapter",
+      3
+    ],
+    [
+      "alora",
+      3
+    ],
+    [
+      "base model",
+      3
+    ],
+    [
+      "classification",
+      3
+    ],
+    [
+      "decision models",
+      3
+    ],
+    [
+      "generalist",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "url_canonical": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "via_source_id": null
+}

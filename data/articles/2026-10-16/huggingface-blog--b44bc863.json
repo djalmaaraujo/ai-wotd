@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b44bc863",
+  "author": "Hugging Face Blog",
+  "content_chars": 15173,
+  "content_sha256": "37e210f9908f6245c76cb8ddf17e729a0bbe34cd9649fc510286b803f1dcd45a",
+  "content_tokens": 3793,
+  "fetched_at": "2026-10-16T11:19:20Z",
+  "kind": "article",
+  "published_at": "2026-10-16T01:44:47+00:00",
+  "snippet": "Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan. NVIDIA — Niket Agarwal, Raviraj Joshi, Anusha Kamath, Markus Kliegl, Yev Meyer, Sriharsha Niverty, Kiran Praveen, Utkarsh Vaidya. We're excited to introduce Nemotron-pretraining-Indic-v1…",
+  "source_id": "huggingface-blog",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "top_terms": [
+    [
+      "data",
+      32
+    ],
+    [
+      "indic",
+      31
+    ],
+    [
+      "languages",
+      27
+    ],
+    [
+      "corpus",
+      19
+    ],
+    [
+      "translation",
+      15
+    ],
+    [
+      "english",
+      14
+    ],
+    [
+      "quality",
+      14
+    ],
+    [
+      "nemotron",
+      13
+    ],
+    [
+      "indian",
+      12
+    ],
+    [
+      "model",
+      12
+    ],
+    [
+      "open",
+      12
+    ],
+    [
+      "script",
+      12
+    ],
+    [
+      "text",
+      12
+    ],
+    [
+      "training",
+      12
+    ],
+    [
+      "dataset",
+      11
+    ],
+    [
+      "language",
+      11
+    ],
+    [
+      "source",
+      11
+    ],
+    [
+      "synthetic",
+      11
+    ],
+    [
+      "across",
+      10
+    ],
+    [
+      "indian languages",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "url_canonical": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "via_source_id": null
+}

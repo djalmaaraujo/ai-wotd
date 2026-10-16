@@ -1,0 +1,98 @@
+{
+  "article_id": "microsoft-research--33dd453a",
+  "author": "Srinath Setty",
+  "content_chars": 10379,
+  "content_sha256": "1ca1d90c75e98b426b77abd1ebac04fe4ec601212e2b6755ba23e8d8a9220209",
+  "content_tokens": 2594,
+  "fetched_at": "2026-10-16T11:22:07Z",
+  "kind": "article",
+  "published_at": "2026-10-15T16:00:00+00:00",
+  "snippet": "At a glance - A new form of computing. Zero-knowledge proofs let you run a workload and receive, alongside the result, a short proof that the program ran correctly. Anyone can check the proof in milliseconds, without rerunning the program, without trusting whoever ran it, and…",
+  "source_id": "microsoft-research",
+  "title": "Proof-based general-purpose computing with Magnetar",
+  "top_terms": [
+    [
+      "in new tab",
+      21
+    ],
+    [
+      "new tab",
+      21
+    ],
+    [
+      "opens",
+      21
+    ],
+    [
+      "opens in",
+      21
+    ],
+    [
+      "opens in new",
+      21
+    ],
+    [
+      "tab",
+      21
+    ],
+    [
+      "magnetar",
+      17
+    ],
+    [
+      "proof",
+      17
+    ],
+    [
+      "program",
+      15
+    ],
+    [
+      "proofs",
+      14
+    ],
+    [
+      "cryptographic",
+      10
+    ],
+    [
+      "functions",
+      10
+    ],
+    [
+      "zero-knowledge",
+      10
+    ],
+    [
+      "hash",
+      9
+    ],
+    [
+      "prove",
+      9
+    ],
+    [
+      "hash functions",
+      8
+    ],
+    [
+      "processor",
+      8
+    ],
+    [
+      "spartan",
+      8
+    ],
+    [
+      "cryptography",
+      7
+    ],
+    [
+      "security",
+      7
+    ]
+  ],
+  "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+  "url_canonical": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--bd4ed17d",
+  "author": "Hugging Face Blog",
+  "content_chars": 27932,
+  "content_sha256": "09659d8bbac6e723cfaf9d81ebdfaf5be627d0523b405b74ae5edbaea0d8b2f1",
+  "content_tokens": 6983,
+  "fetched_at": "2026-10-16T11:19:20Z",
+  "kind": "article",
+  "published_at": "2026-10-15T00:00:00+00:00",
+  "snippet": "Following Muse Glimmer, Muse Spark Open introduces a mixture-of-experts architecture at a much larger scale, and the most capable US open-weights model to date. Meta trained Muse Spark Open for agentic coding: reading a codebase, writing and debugging code, and calling tools. It…",
+  "source_id": "huggingface-blog",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "top_terms": [
+    [
+      "model",
+      99
+    ],
+    [
+      "muse",
+      44
+    ],
+    [
+      "audio",
+      39
+    ],
+    [
+      "spark",
+      36
+    ],
+    [
+      "open",
+      35
+    ],
+    [
+      "muse spark",
+      33
+    ],
+    [
+      "tokens",
+      32
+    ],
+    [
+      "muse spark open",
+      31
+    ],
+    [
+      "spark open",
+      31
+    ],
+    [
+      "true",
+      31
+    ],
+    [
+      "chat",
+      29
+    ],
+    [
+      "processor",
+      29
+    ],
+    [
+      "the model",
+      29
+    ],
+    [
+      "inputs",
+      25
+    ],
+    [
+      "text",
+      25
+    ],
+    [
+      "input",
+      24
+    ],
+    [
+      "image",
+      22
+    ],
+    [
+      "messages",
+      20
+    ],
+    [
+      "reasoning",
+      20
+    ],
+    [
+      "type",
+      19
+    ]
+  ],
+  "url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "url_canonical": "https://huggingface.co/blog/meta-muse-spark-open",
+  "via_source_id": null
+}

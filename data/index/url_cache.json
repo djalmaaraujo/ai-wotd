@@ -2477,6 +2477,10 @@
     "article_id": "latent-space--a3fc3326",
     "first_seen_date": "2026-10-02"
   },
+  "https://already-clean.goodfire.com/": {
+    "article_id": "latent-space--314a0d54",
+    "first_seen_date": "2026-10-16"
+  },
   "https://amzn.to/4aAKiFY": {
     "article_id": "ahead-of-ai--69c02c6c",
     "first_seen_date": "2026-09-23"
@@ -4238,6 +4242,10 @@
     "article_id": "codenewsletter--5e354512",
     "first_seen_date": "2026-08-14"
   },
+  "https://codenewsletter.ai/p/spacexai-s-new-voice-model": {
+    "article_id": "codenewsletter--a4ff1bd5",
+    "first_seen_date": "2026-10-16"
+  },
   "https://codenewsletter.ai/p/spacexai-ships-ai-coworkers-that-never-log-off": {
     "article_id": "codenewsletter--7b5afce0",
     "first_seen_date": "2026-08-13"
@@ -4428,6 +4436,10 @@
   "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music": {
     "article_id": "google-deepmind--5874212a",
     "first_seen_date": "2026-04-13"
+  },
+  "https://deepmind.google/blog/accelerating-antimicrobial-discovery": {
+    "article_id": "google-deepmind--00cd3322",
+    "first_seen_date": "2026-10-16"
   },
   "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education": {
     "article_id": "google-deepmind--704b0a64",
@@ -6926,6 +6938,10 @@
     "article_id": "huggingface-blog--8c606189",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/flux-3": {
+    "article_id": "huggingface-blog--b62e8b20",
+    "first_seen_date": "2026-10-16"
+  },
   "https://huggingface.co/blog/flux-qlora": {
     "article_id": "huggingface-blog--317ae2ba",
     "first_seen_date": "2026-05-06"
@@ -7277,6 +7293,10 @@
   "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2": {
     "article_id": "huggingface-blog--966c17ef",
     "first_seen_date": "2026-05-15"
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
+    "article_id": "huggingface-blog--3cebe86e",
+    "first_seen_date": "2026-10-16"
   },
   "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": {
     "article_id": "huggingface-blog--b2b987bc",
@@ -7838,6 +7858,10 @@
     "article_id": "huggingface-blog--a1d27fa0",
     "first_seen_date": "2026-08-21"
   },
+  "https://huggingface.co/blog/meta-muse-spark-open": {
+    "article_id": "huggingface-blog--bd4ed17d",
+    "first_seen_date": "2026-10-16"
+  },
   "https://huggingface.co/blog/mi300kernels": {
     "article_id": "huggingface-blog--bdf1d2e9",
     "first_seen_date": "2026-04-29"
@@ -8133,6 +8157,10 @@
   "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": {
     "article_id": "huggingface-blog--35c705f3",
     "first_seen_date": "2026-07-18"
+  },
+  "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
+    "article_id": "huggingface-blog--b44bc863",
+    "first_seen_date": "2026-10-16"
   },
   "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": {
     "article_id": "huggingface-blog--28855226",
@@ -9947,6 +9975,14 @@
     "article_id": "latent-space--4aaa22e2",
     "first_seen_date": "2026-10-10"
   },
+  "https://news.ycombinator.com/item?id=50107379": {
+    "article_id": "latent-space--44edac1d",
+    "first_seen_date": "2026-10-16"
+  },
+  "https://news.ycombinator.com/item?id=50112657": {
+    "article_id": "latent-space--394e92fe",
+    "first_seen_date": "2026-10-16"
+  },
   "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers": {
     "article_id": "ai-snake-oil--f17f91e9",
     "first_seen_date": "2026-09-23"
@@ -10949,6 +10985,10 @@
     "article_id": "openai-blog--a20aa9cd",
     "first_seen_date": "2026-09-11"
   },
+  "https://openai.com/index/introducing-the-rosalind-academic-plan": {
+    "article_id": "openai-blog--c190307e",
+    "first_seen_date": "2026-10-16"
+  },
   "https://openai.com/index/introducing-trusted-contact-in-chatgpt": {
     "article_id": "openai-blog--b72fd03b",
     "first_seen_date": "2026-05-08"
@@ -11424,6 +11464,10 @@
     "article_id": "openai-blog--d0aa2a1e",
     "first_seen_date": "2026-05-30"
   },
+  "https://openai.com/index/sullivan-cromwell": {
+    "article_id": "openai-blog--ff31c341",
+    "first_seen_date": "2026-10-16"
+  },
   "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
     "article_id": "openai-blog--e5f2c759",
     "first_seen_date": "2026-09-01"
@@ -11448,6 +11492,10 @@
     "article_id": null,
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
+  },
+  "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+    "article_id": "openai-blog--2bd5df18",
+    "first_seen_date": "2026-10-16"
   },
   "https://openai.com/index/teen-development-research-grants": {
     "article_id": "openai-blog--a7af779c",
@@ -12252,6 +12300,14 @@
   "https://simonwillison.net/2026/Oct/14/tree-appreciator": {
     "article_id": "simonwillison--8fab80cd",
     "first_seen_date": "2026-10-15"
+  },
+  "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors": {
+    "article_id": "simonwillison--dc54dca1",
+    "first_seen_date": "2026-10-16"
+  },
+  "https://simonwillison.net/2026/Oct/15/chirp-pong": {
+    "article_id": "simonwillison--46f1f6ee",
+    "first_seen_date": "2026-10-16"
   },
   "https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
     "article_id": "simonwillison--307d499a",
@@ -13931,6 +13987,10 @@
     "article_id": "latent-space--bdf24de7",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.latent.space/p/ainews-agents-disprove-polysemanticity": {
+    "article_id": "latent-space--adb86975",
+    "first_seen_date": "2026-10-16"
+  },
   "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": {
     "article_id": "latent-space--6fbe82c7",
     "first_seen_date": "2026-10-14"
@@ -14266,6 +14326,10 @@
   "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai": {
     "article_id": "microsoft-research--3bba3a1b",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar": {
+    "article_id": "microsoft-research--33dd453a",
+    "first_seen_date": "2026-10-16"
   },
   "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring": {
     "article_id": "microsoft-research--a1395fb3",
