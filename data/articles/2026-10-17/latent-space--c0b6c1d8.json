@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c0b6c1d8",
+  "author": null,
+  "content_chars": 70773,
+  "content_sha256": "e8695d45e8f0d1e25de58196a2f73c8c416fbd7da40990127479b253031e8e63",
+  "content_tokens": 17693,
+  "fetched_at": "2026-10-17T10:42:28Z",
+  "kind": "article",
+  "published_at": "2026-10-17T07:47:38+00:00",
+  "snippet": "NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16 is the full-precision release of NVIDIA Nemotron 3.5 Super VL, a vision-language model for reasoning, coding, tool use, document understanding, and video understanding. The BF16 weights support customization, domain adaptation, and…",
+  "source_id": "latent-space",
+  "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16 · Hugging Face",
+  "top_terms": [
+    [
+      "text",
+      216
+    ],
+    [
+      "synthetic",
+      186
+    ],
+    [
+      "undisclosed",
+      152
+    ],
+    [
+      "data",
+      90
+    ],
+    [
+      "gpt-oss-120b",
+      83
+    ],
+    [
+      "dataset",
+      57
+    ],
+    [
+      "deepseek-r1-0528",
+      53
+    ],
+    [
+      "model",
+      53
+    ],
+    [
+      "reasoning",
+      49
+    ],
+    [
+      "qwen2.5",
+      47
+    ],
+    [
+      "nemotron",
+      46
+    ],
+    [
+      "video",
+      41
+    ],
+    [
+      "nvidia",
+      39
+    ],
+    [
+      "sft",
+      38
+    ],
+    [
+      "download",
+      36
+    ],
+    [
+      "problems",
+      36
+    ],
+    [
+      "tokens",
+      36
+    ],
+    [
+      "b-instruct",
+      35
+    ],
+    [
+      "legacy",
+      34
+    ],
+    [
+      "legacy download",
+      34
+    ]
+  ],
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+  "url_canonical": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+  "via_source_id": "latent-space"
+}

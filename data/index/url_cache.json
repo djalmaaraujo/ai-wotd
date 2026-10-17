@@ -1440,6 +1440,10 @@
     "article_id": "aibreakfast--97e10909",
     "first_seen_date": "2026-04-19"
   },
+  "https://aibreakfast.beehiiv.com/p/microsoft-finished-a-2-8t-base-model-and-will-not-open-it": {
+    "article_id": "aibreakfast--6d56ac6b",
+    "first_seen_date": "2026-10-17"
+  },
   "https://aibreakfast.beehiiv.com/p/microsoft-launches-generative-ai-certification-program": {
     "article_id": "aibreakfast--a4c63779",
     "first_seen_date": "2026-04-21"
@@ -3950,6 +3954,10 @@
     "article_id": "codenewsletter--428363e8",
     "first_seen_date": "2026-05-02"
   },
+  "https://codenewsletter.ai/p/meta-s-new-model-runs-on-two-macs": {
+    "article_id": "codenewsletter--07258ef1",
+    "first_seen_date": "2026-10-17"
+  },
   "https://codenewsletter.ai/p/meta-ships-a-coding-agent-for-large-codebases": {
     "article_id": "codenewsletter--519794c5",
     "first_seen_date": "2026-08-07"
@@ -5499,6 +5507,10 @@
     "article_id": "latent-space--478dd1ea",
     "first_seen_date": "2026-10-07"
   },
+  "https://github.com/pro-vi/cc-stretch": {
+    "article_id": "latent-space--a5c07d86",
+    "first_seen_date": "2026-10-17"
+  },
   "https://github.com/rasbt/LLMs-from-scratch": {
     "article_id": "ahead-of-ai--f2d1876f",
     "first_seen_date": "2026-09-23"
@@ -5745,6 +5757,10 @@
   "https://huggingface.co/bartowski/ukisai_Swift-Qwen3.8-27b-GGUF": {
     "article_id": "latent-space--418d9217",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy": {
+    "article_id": "latent-space--1f937754",
+    "first_seen_date": "2026-10-17"
   },
   "https://huggingface.co/blog/1_58_llm_extreme_quantization": {
     "article_id": "huggingface-blog--fa21804a",
@@ -9459,6 +9475,18 @@
     "article_id": "latent-space--ab1c64a2",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF": {
+    "article_id": "latent-space--732405dd",
+    "first_seen_date": "2026-10-17"
+  },
+  "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-LiLiCorr-GGUF": {
+    "article_id": "latent-space--39070364",
+    "first_seen_date": "2026-10-17"
+  },
+  "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16": {
+    "article_id": "latent-space--c0b6c1d8",
+    "first_seen_date": "2026-10-17"
+  },
   "https://huggingface.co/poolside": {
     "article_id": "interconnects--8183936c",
     "first_seen_date": "2026-09-23"
@@ -9736,6 +9764,10 @@
   "https://longcat.chat/blog/longcat-2.0": {
     "article_id": "last-week-in-ai--3426662b",
     "first_seen_date": "2026-09-23"
+  },
+  "https://m.bjnews.com.cn/detail/1792137269129878.html": {
+    "article_id": "latent-space--d35e5202",
+    "first_seen_date": "2026-10-17"
   },
   "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight": {
     "article_id": "ahead-of-ai--9a8d6b76",
@@ -10394,6 +10426,10 @@
     "article_id": "openai-blog--02578b0b",
     "first_seen_date": "2026-06-12"
   },
+  "https://openai.com/index/benefit-street-partners": {
+    "article_id": "openai-blog--63087d75",
+    "first_seen_date": "2026-10-17"
+  },
   "https://openai.com/index/better-prompt-caching-for-gpt-6": {
     "article_id": "openai-blog--f6c2502b",
     "first_seen_date": "2026-09-23"
@@ -11001,6 +11037,10 @@
     "article_id": "openai-blog--33d137b5",
     "first_seen_date": "2026-09-23"
   },
+  "https://openai.com/index/itau-generative-ai": {
+    "article_id": "openai-blog--7dd0c3a0",
+    "first_seen_date": "2026-10-17"
+  },
   "https://openai.com/index/jalapeno-first-results": {
     "article_id": "openai-blog--9dde5245",
     "first_seen_date": "2026-08-26"
@@ -11443,6 +11483,10 @@
   "https://openai.com/index/speeding-up-agentic-workflows-with-websockets": {
     "article_id": "openai-blog--7c434d5d",
     "first_seen_date": "2026-04-23"
+  },
+  "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+    "article_id": "openai-blog--c427f250",
+    "first_seen_date": "2026-10-17"
   },
   "https://openai.com/index/stadler": {
     "article_id": "openai-blog--4d9b94cc",
@@ -12000,6 +12044,10 @@
     "article_id": "google-research--b29a9a14",
     "first_seen_date": "2026-09-23"
   },
+  "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
+    "article_id": "google-research--c15fdf5d",
+    "first_seen_date": "2026-10-17"
+  },
   "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation": {
     "article_id": "google-research--3fe6fbfe",
     "first_seen_date": "2026-09-30"
@@ -12308,6 +12356,10 @@
   "https://simonwillison.net/2026/Oct/15/chirp-pong": {
     "article_id": "simonwillison--46f1f6ee",
     "first_seen_date": "2026-10-16"
+  },
+  "https://simonwillison.net/2026/Oct/16/code-review": {
+    "article_id": "simonwillison--b168b0c7",
+    "first_seen_date": "2026-10-17"
   },
   "https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
     "article_id": "simonwillison--307d499a",
@@ -14019,6 +14071,10 @@
     "article_id": "latent-space--e0a25dbd",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.latent.space/p/ainews-high-taste-testers-ep-1": {
+    "article_id": "latent-space--da777346",
+    "first_seen_date": "2026-10-17"
+  },
   "https://www.latent.space/p/ainews-jev-a-system-one-model-that": {
     "article_id": "latent-space--fc124ae0",
     "first_seen_date": "2026-09-23"
@@ -15471,6 +15527,10 @@
   "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks": {
     "article_id": "mit-tech-review-ai--0fef9b0c",
     "first_seen_date": "2026-10-13"
+  },
+  "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses": {
+    "article_id": "mit-tech-review-ai--b61fcbf9",
+    "first_seen_date": "2026-10-17"
   },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",

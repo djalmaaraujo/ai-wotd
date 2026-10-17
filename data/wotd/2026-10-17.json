@@ -1,0 +1,255 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1258.5365,
+      "term": "gpt-oss-120b",
+      "tf_today": 158
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 760.590092,
+      "term": "deepseek-r1-0528",
+      "tf_today": 104
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 586.454599,
+      "term": "undisclosed",
+      "tf_today": 267
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 460.65827,
+      "term": "b-instruct",
+      "tf_today": 69
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 411.729425,
+      "term": "crawl",
+      "tf_today": 63
+    },
+    {
+      "articles": [
+        "latent-space--39070364",
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8",
+        "latent-space--da777346"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 400.301516,
+      "term": "nvidia-nemotron-3.5",
+      "tf_today": 48
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 355.788512,
+      "term": "from gpt-oss-120b",
+      "tf_today": 56
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 332.225386,
+      "term": "common crawl",
+      "tf_today": 53
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 316.663961,
+      "term": "qwen3-235b-a22b-thinking-2507",
+      "tf_today": 51
+    },
+    {
+      "articles": [
+        "latent-space--732405dd",
+        "latent-space--c0b6c1d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 278.310669,
+      "term": "qwen3-235b-a22b",
+      "tf_today": 46
+    }
+  ],
+  "date": "2026-10-17",
+  "evidence_article_ids": [
+    "latent-space--39070364",
+    "latent-space--732405dd",
+    "latent-space--c0b6c1d8",
+    "latent-space--da777346"
+  ],
+  "judge": {
+    "input_tokens": 19376,
+    "model": "jev-1.13.0",
+    "pool_size": 37,
+    "signals": {
+      "auxiliary": {
+        "dominance": 0.83,
+        "event": 0.3,
+        "form": 0.68,
+        "novelty": 0.19,
+        "specificity": 0.45
+      },
+      "b-instruct": {
+        "dominance": 0.54,
+        "event": 0.06,
+        "form": 0.38,
+        "novelty": 0.38,
+        "specificity": 1.53
+      },
+      "claude code": {
+        "dominance": 1.91,
+        "event": 0.75,
+        "form": 0.89,
+        "novelty": 0.42,
+        "specificity": 1.99
+      },
+      "code": {
+        "dominance": 1.31,
+        "event": 0.54,
+        "form": 0.86,
+        "novelty": 0.29,
+        "specificity": 0.75
+      },
+      "face": {
+        "dominance": 2.11,
+        "event": 0.7,
+        "form": 0.54,
+        "novelty": 0.54,
+        "specificity": 1.0
+      },
+      "high taste testers ep": {
+        "dominance": 1.75,
+        "event": 0.89,
+        "form": 0.6,
+        "novelty": 0.66,
+        "specificity": 0.4
+      },
+      "hugging face": {
+        "dominance": 2.61,
+        "event": 0.63,
+        "form": 0.77,
+        "novelty": 0.58,
+        "specificity": 1.13
+      },
+      "nvidia-nemotron-3.5": {
+        "dominance": 2.81,
+        "event": 0.88,
+        "form": 0.83,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "problems and solutions": {
+        "dominance": 1.09,
+        "event": 0.86,
+        "form": 0.76,
+        "novelty": 0.22,
+        "specificity": 0.17
+      },
+      "reasoning": {
+        "dominance": 2.07,
+        "event": 0.72,
+        "form": 0.93,
+        "novelty": 0.51,
+        "specificity": 1.16
+      },
+      "solution": {
+        "dominance": 0.23,
+        "event": 0.58,
+        "form": 0.71,
+        "novelty": 0.17,
+        "specificity": 0.54
+      },
+      "solutions": {
+        "dominance": 0.9,
+        "event": 0.82,
+        "form": 0.72,
+        "novelty": 0.17,
+        "specificity": 0.57
+      },
+      "stretchtext": {
+        "dominance": 1.96,
+        "event": 0.65,
+        "form": 0.79,
+        "novelty": 0.67,
+        "specificity": 1.65
+      },
+      "taste testers ep": {
+        "dominance": 1.77,
+        "event": 0.88,
+        "form": 0.53,
+        "novelty": 0.67,
+        "specificity": 0.3
+      },
+      "text": {
+        "dominance": 1.49,
+        "event": 0.81,
+        "form": 0.3,
+        "novelty": 0.34,
+        "specificity": 1.29
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "nvidia-nemotron-3.5",
+      "claude code"
+    ]
+  },
+  "label": "nvidia-nemotron-3.5",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/nvidia"
+      ],
+      "text": "NVIDIA Nemotron 3.5 is a family of vision-language models (VLMs) developed by NVIDIA that utilize hybrid architectures, combining Mamba-2, Mixture-of-Experts (MoE), and Transformer layers. These models are designed for multimodal tasks including document understanding, reasoning, and agentic workflows, with specific versions optimized for either maximum intelligence (Super-VL) or local deployment efficiency (Bolt). They represent NVIDIA's effort to provide high-performance, open-weights alternatives for developers needing scalable AI that can handle both text and visual inputs."
+    },
+    "generated_at": "2026-10-17T10:47:12.216753+00:00",
+    "model": "google/gemma-4-31b-it:free",
+    "summary": "NVIDIA is expanding its open-weights portfolio with the release of the Nemotron 3.5 series, focusing on high-efficiency vision-language models (VLMs). The company has introduced the Nemotron-3.5-Super-VL-120B, a large-scale model designed for complex reasoning, coding, and video understanding with a 1-million token context window. Simultaneously, NVIDIA released the Nemotron-3.5-Bolt-74B, which utilizes a Mamba-2-Transformer hybrid architecture and 2-bit quantization to enable local execution of agentic tasks within 24GB of memory. To further enhance performance, NVIDIA provided a LiLiCorr speculative-decoding checkpoint for the Bolt model to accelerate token generation. These releases highlight a strategic push toward hybrid architectures and memory-optimized models that balance intelligence with deployment speed for both cloud and local environments.",
+    "why": "The term trended due to the release of several new model variants on Hugging Face, specifically the Super-VL-120B for high-precision tasks and the Bolt-74B for local agentic workflows."
+  },
+  "score": 400.301516,
+  "word": "nvidia-nemotron-3.5"
+}

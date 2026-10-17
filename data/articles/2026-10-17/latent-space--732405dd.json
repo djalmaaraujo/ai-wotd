@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--732405dd",
+  "author": null,
+  "content_chars": 64989,
+  "content_sha256": "27635464e654d9fafc6cea8518a0deda215348d2a25e969d98b8e7763fe6fbbd",
+  "content_tokens": 16247,
+  "fetched_at": "2026-10-17T10:42:27Z",
+  "kind": "article",
+  "published_at": "2026-10-17T07:47:38+00:00",
+  "snippet": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB is a vision-language model (VLM) designed to run everyday agentic tasks locally, using a native 2-bit quantization to fit in 24GB of memory and run alongside other applications. It optimizes intelligence and speed per GB. It aims to achieve…",
+  "source_id": "latent-space",
+  "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "text",
+      193
+    ],
+    [
+      "synthetic",
+      167
+    ],
+    [
+      "undisclosed",
+      115
+    ],
+    [
+      "data",
+      96
+    ],
+    [
+      "model",
+      90
+    ],
+    [
+      "gpt-oss-120b",
+      75
+    ],
+    [
+      "dataset",
+      66
+    ],
+    [
+      "deepseek-r1-0528",
+      51
+    ],
+    [
+      "nvidia",
+      46
+    ],
+    [
+      "qwen2.5",
+      46
+    ],
+    [
+      "nemotron",
+      45
+    ],
+    [
+      "training",
+      36
+    ],
+    [
+      "problems",
+      35
+    ],
+    [
+      "b-instruct",
+      34
+    ],
+    [
+      "gb",
+      34
+    ],
+    [
+      "problems and",
+      33
+    ],
+    [
+      "crawl",
+      31
+    ],
+    [
+      "nvidia-nemotron-3.5",
+      30
+    ],
+    [
+      "reasoning",
+      30
+    ],
+    [
+      "from gpt-oss-120b",
+      28
+    ]
+  ],
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF",
+  "url_canonical": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF",
+  "via_source_id": "latent-space"
+}

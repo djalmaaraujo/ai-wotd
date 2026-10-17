@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1f937754",
+  "author": null,
+  "content_chars": 9967,
+  "content_sha256": "56310dbb273e26f7bdeb82deaf4db7ac82dfe8b53a2baab874f6ee8b0ac2471d",
+  "content_tokens": 2491,
+  "fetched_at": "2026-10-17T10:42:31Z",
+  "kind": "article",
+  "published_at": "2026-10-17T07:47:38+00:00",
+  "snippet": "FLUX 3 Image Klein is a 5.6B open weights model for text-to-image generation and image editing. It takes a prompt and up to 10 reference images and returns one image. Text-to-image, single-reference edits and multi-reference compositions run through the same model, with…",
+  "source_id": "latent-space",
+  "title": "black-forest-labs/flux-3-image-klein-comfy · Hugging Face",
+  "top_terms": [
+    [
+      "safetensors",
+      31
+    ],
+    [
+      "prompt",
+      28
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "upsampler",
+      20
+    ],
+    [
+      "text",
+      18
+    ],
+    [
+      "int8",
+      15
+    ],
+    [
+      "klein",
+      15
+    ],
+    [
+      "image",
+      14
+    ],
+    [
+      "flux",
+      13
+    ],
+    [
+      "gb",
+      13
+    ],
+    [
+      "bf16",
+      12
+    ],
+    [
+      "prompt upsampler",
+      11
+    ],
+    [
+      "checkpoint",
+      10
+    ],
+    [
+      "models",
+      10
+    ],
+    [
+      "base",
+      9
+    ],
+    [
+      "license",
+      9
+    ],
+    [
+      "caption",
+      8
+    ],
+    [
+      "diffusion",
+      8
+    ],
+    [
+      "distilled",
+      8
+    ],
+    [
+      "encoders",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+  "url_canonical": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+  "via_source_id": "latent-space"
+}
