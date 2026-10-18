@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--724348bc",
+  "author": "Simon Willison",
+  "content_chars": 842,
+  "content_sha256": "c6a25a72aaf7c5e237b27731dda5de9615e1376723a7a95a6e83f72388cd8943",
+  "content_tokens": 210,
+  "fetched_at": "2026-10-18T11:03:22Z",
+  "kind": "article",
+  "published_at": "2026-10-17T21:11:12+00:00",
+  "snippet": "17th October 2026 - Link Blog Inline rendering with document.currentScript. Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year…",
+  "source_id": "simonwillison",
+  "title": "Inline rendering with document​.currentScript",
+  "top_terms": [
+    [
+      "currentscript",
+      5
+    ],
+    [
+      "document",
+      5
+    ],
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "script",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "inline",
+      3
+    ],
+    [
+      "blog",
+      2
+    ],
+    [
+      "date",
+      2
+    ],
+    [
+      "getfullyear",
+      2
+    ],
+    [
+      "inline rendering",
+      2
+    ],
+    [
+      "inline rendering with",
+      2
+    ],
+    [
+      "new date",
+      2
+    ],
+    [
+      "rendering",
+      2
+    ],
+    [
+      "rendering with",
+      2
+    ],
+    [
+      "rendering with document",
+      2
+    ],
+    [
+      "replacewith",
+      2
+    ],
+    [
+      "tiny",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+  "via_source_id": null
+}

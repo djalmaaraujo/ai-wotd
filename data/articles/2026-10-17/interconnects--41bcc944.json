@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--41bcc944",
+  "author": null,
+  "content_chars": 19745,
+  "content_sha256": "1c8945c535a90fb2e5a418697ec6022fdbcc76842e35368a5dc5ae3251af2bd4",
+  "content_tokens": 4936,
+  "fetched_at": "2026-10-18T11:03:25Z",
+  "kind": "article",
+  "published_at": "2026-10-17T14:06:54+00:00",
+  "snippet": "Frontier Pre-training at Microsoft AI In June, we announced MAI-Thinking-1, a general-purpose foundation model post-trained on top of MAI-Base-1 with strong reasoning performance. We’ve recently completed pre-training our new state-of-the-art model, MAI-Base-2, an MoE foundation…",
+  "source_id": "interconnects",
+  "title": "Frontier Pre-training at Microsoft AI | Microsoft AI",
+  "top_terms": [
+    [
+      "training",
+      30
+    ],
+    [
+      "mai-base-2",
+      29
+    ],
+    [
+      "model",
+      26
+    ],
+    [
+      "scaling",
+      24
+    ],
+    [
+      "models",
+      23
+    ],
+    [
+      "data",
+      22
+    ],
+    [
+      "lr",
+      18
+    ],
+    [
+      "log",
+      15
+    ],
+    [
+      "moe",
+      15
+    ],
+    [
+      "compute",
+      14
+    ],
+    [
+      "expert",
+      13
+    ],
+    [
+      "memory",
+      13
+    ],
+    [
+      "wd",
+      12
+    ],
+    [
+      "across",
+      11
+    ],
+    [
+      "figure",
+      11
+    ],
+    [
+      "mai-base-1",
+      11
+    ],
+    [
+      "performance",
+      11
+    ],
+    [
+      "gradient",
+      10
+    ],
+    [
+      "times",
+      10
+    ],
+    [
+      "tokens",
+      10
+    ]
+  ],
+  "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+  "url_canonical": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+  "via_source_id": "interconnects"
+}
