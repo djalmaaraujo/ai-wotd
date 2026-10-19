@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--6653105d",
+  "author": "Simon Willison",
+  "content_chars": 940,
+  "content_sha256": "47421e0b91012421aca1ff40b90fe337b0bfa87289e0cc916ba18b4ec10f1695",
+  "content_tokens": 235,
+  "fetched_at": "2026-10-19T13:11:03Z",
+  "kind": "article",
+  "published_at": "2026-10-18T23:16:16+00:00",
+  "snippet": "18th October 2026 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates…",
+  "source_id": "simonwillison",
+  "title": "llm-echo 0.5",
+  "top_terms": [
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "usage",
+      4
+    ],
+    [
+      "llm",
+      3
+    ],
+    [
+      "llm-echo",
+      3
+    ],
+    [
+      "hi",
+      2
+    ],
+    [
+      "plugin",
+      2
+    ],
+    [
+      "prompt",
+      2
+    ],
+    [
+      "prompts",
+      2
+    ],
+    [
+      "release",
+      2
+    ],
+    [
+      "system",
+      2
+    ],
+    [
+      "token",
+      2
+    ],
+    [
+      "token usage",
+      2
+    ],
+    [
+      "account",
+      1
+    ],
+    [
+      "an llm",
+      1
+    ],
+    [
+      "an llm at",
+      1
+    ],
+    [
+      "and reasoning",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/18/llm-echo",
+  "via_source_id": null
+}

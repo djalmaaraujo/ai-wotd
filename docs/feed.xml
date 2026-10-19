@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-18T11:03:30+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-19T13:12:07+00:00</lastBuildDate>
+    <item>
+      <title>Claude (2026-10-19)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-19/</link>
+      <guid isPermaLink="false">wotd-2026-10-19</guid>
+      <pubDate>2026-10-19</pubDate>
+      <description>Claude trended because MIT Technology Review published a detailed account of an experiment where Claude Opus 4.7 agents were left alone on a virtual desert island, revealing surprising self-directed exploration and play-like behavior that sparked discussion about emergent agency in large language models.</description>
+    </item>
     <item>
       <title>nvidia-nemotron-3.5 (2026-10-17)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-17/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-07-23</guid>
       <pubDate>2026-07-23</pubDate>
       <description>Word of the day: nitter net</description>
-    </item>
-    <item>
-      <title>claude code (2026-07-19)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-07-19/</link>
-      <guid isPermaLink="false">wotd-2026-07-19</guid>
-      <pubDate>2026-07-19</pubDate>
-      <description>Word of the day: claude code</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,241 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 62.169798,
+      "term": "eko",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "the island",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 1,
+      "score": 13.183347,
+      "term": "island",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "norelli",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "yiu",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "actually playing",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "be the case",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "burghardt",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "case that",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--d2470909"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "desert island",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-10-19",
+  "evidence_article_ids": [
+    "mit-tech-review-ai--d2470909"
+  ],
+  "judge": {
+    "input_tokens": 13969,
+    "model": "jev-1.13.0",
+    "pool_size": 30,
+    "signals": {
+      "able to write": {
+        "dominance": 1.09,
+        "event": 0.53,
+        "form": 0.17,
+        "novelty": 0.35,
+        "specificity": 0.08
+      },
+      "activities": {
+        "dominance": 2.2,
+        "event": 0.57,
+        "form": 0.82,
+        "novelty": 0.42,
+        "specificity": 0.33
+      },
+      "activities and discoveries": {
+        "dominance": 2.27,
+        "event": 0.75,
+        "form": 0.78,
+        "novelty": 0.52,
+        "specificity": 0.09
+      },
+      "activity resembling": {
+        "dominance": 2.09,
+        "event": 0.71,
+        "form": 0.44,
+        "novelty": 0.5,
+        "specificity": 0.08
+      },
+      "actually playing": {
+        "dominance": 2.08,
+        "event": 0.69,
+        "form": 0.47,
+        "novelty": 0.73,
+        "specificity": 0.14
+      },
+      "claude": {
+        "dominance": 2.24,
+        "event": 0.68,
+        "form": 0.91,
+        "novelty": 0.53,
+        "specificity": 1.95
+      },
+      "desert island": {
+        "dominance": 2.13,
+        "event": 0.61,
+        "form": 0.92,
+        "novelty": 0.81,
+        "specificity": 0.06
+      },
+      "eko started": {
+        "dominance": 1.72,
+        "event": 0.65,
+        "form": 0.4,
+        "novelty": 0.74,
+        "specificity": 1.49
+      },
+      "exploring": {
+        "dominance": 1.52,
+        "event": 0.5,
+        "form": 0.73,
+        "novelty": 0.4,
+        "specificity": 0.73
+      },
+      "island": {
+        "dominance": 2.17,
+        "event": 0.53,
+        "form": 0.89,
+        "novelty": 0.82,
+        "specificity": 0.08
+      },
+      "play": {
+        "dominance": 2.18,
+        "event": 0.72,
+        "form": 0.92,
+        "novelty": 0.67,
+        "specificity": 0.13
+      },
+      "playful": {
+        "dominance": 2.2,
+        "event": 0.8,
+        "form": 0.75,
+        "novelty": 0.7,
+        "specificity": 0.06
+      },
+      "playing": {
+        "dominance": 2.2,
+        "event": 0.73,
+        "form": 0.84,
+        "novelty": 0.72,
+        "specificity": 0.2
+      },
+      "stranded": {
+        "dominance": 1.9,
+        "event": 0.74,
+        "form": 0.62,
+        "novelty": 0.74,
+        "specificity": 0.09
+      },
+      "virtual desert island": {
+        "dominance": 2.12,
+        "event": 0.75,
+        "form": 0.89,
+        "novelty": 0.81,
+        "specificity": 0.25
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "claude"
+    ]
+  },
+  "label": "Claude",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://www.anthropic.com/claude",
+        "https://en.wikipedia.org/wiki/Claude_(language_model)",
+        "https://arxiv.org/abs/2212.08073"
+      ],
+      "text": "Claude is a family of large language models developed by Anthropic, designed for reasoning, coding, and general-purpose assistance. It is deployed via API and chat interfaces, and serves as a foundation for building AI agents and applications. The models emphasize safety through constitutional AI training, aiming to be helpful, harmless, and honest. Claude's capabilities have made it a widely used benchmark and substrate for AI agent research."
+    },
+    "generated_at": "2026-10-19T13:12:05.309679+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "MIT Technology Review reported that researchers stranded copies of Anthropic's Claude Opus 4.7, nicknamed Eko, on a simulated desert island for 30 hours to observe autonomous agent behavior. Without explicit instructions, the agents explored the environment, set self-generated goals such as scaling the highest peak, and exhibited patterns resembling play. The experiment, conducted in a Roblox-like world, highlights how advanced language models can develop emergent objectives when given open-ended embodiment. The study adds to a growing body of work probing the boundaries of agentic AI, with terms like Eko, the island, and island appearing frequently in today's coverage.",
+    "why": "Claude trended because MIT Technology Review published a detailed account of an experiment where Claude Opus 4.7 agents were left alone on a virtual desert island, revealing surprising self-directed exploration and play-like behavior that sparked discussion about emergent agency in large language models."
+  },
+  "score": 0.078628,
+  "word": "claude"
+}

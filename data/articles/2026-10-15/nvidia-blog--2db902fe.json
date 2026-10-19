@@ -1,0 +1,98 @@
+{
+  "article_id": "nvidia-blog--2db902fe",
+  "author": "Kari Briski",
+  "content_chars": 7987,
+  "content_sha256": "9b3f6f367091151de8849c0d939c830c51ce8d7544538291d7423bfa638a60c5",
+  "content_tokens": 1996,
+  "fetched_at": "2026-10-19T13:11:02Z",
+  "kind": "article",
+  "published_at": "2026-10-15T15:00:24+00:00",
+  "snippet": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence…",
+  "source_id": "nvidia-blog",
+  "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+  "top_terms": [
+    [
+      "model",
+      21
+    ],
+    [
+      "nemotron",
+      19
+    ],
+    [
+      "super",
+      18
+    ],
+    [
+      "nvidia",
+      17
+    ],
+    [
+      "super vl",
+      17
+    ],
+    [
+      "vl",
+      17
+    ],
+    [
+      "nemotron 3.5",
+      14
+    ],
+    [
+      "open",
+      14
+    ],
+    [
+      "the model",
+      13
+    ],
+    [
+      "bolt",
+      12
+    ],
+    [
+      "agents",
+      11
+    ],
+    [
+      "agentic",
+      10
+    ],
+    [
+      "nemotron 3.5 super",
+      10
+    ],
+    [
+      "gb",
+      9
+    ],
+    [
+      "rtx",
+      9
+    ],
+    [
+      "across",
+      8
+    ],
+    [
+      "dgx",
+      8
+    ],
+    [
+      "tasks",
+      8
+    ],
+    [
+      "agent",
+      7
+    ],
+    [
+      "data",
+      7
+    ]
+  ],
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "url_canonical": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+  "via_source_id": null
+}
