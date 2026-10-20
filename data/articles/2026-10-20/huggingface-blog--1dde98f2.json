@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1dde98f2",
+  "author": "Hugging Face Blog",
+  "content_chars": 13096,
+  "content_sha256": "4a2189044659038770acde4bd4d49385d20115d917f26a59d984caec486c6973",
+  "content_tokens": 3274,
+  "fetched_at": "2026-10-20T11:32:06Z",
+  "kind": "article",
+  "published_at": "2026-10-20T00:00:00+00:00",
+  "snippet": "A quick word about who we are: we're the PyTorch team at Hugging Face. We contribute across PyTorch, and one of our focus areas is the MPS backend, where the goal is to make your Mac a first-class place to run and train PyTorch models. At the start of 2026, running even small…",
+  "source_id": "huggingface-blog",
+  "title": "MPS in PyTorch 2.15",
+  "top_terms": [
+    [
+      "torch",
+      46
+    ],
+    [
+      "mps",
+      35
+    ],
+    [
+      "metal",
+      21
+    ],
+    [
+      "faster",
+      19
+    ],
+    [
+      "pytorch",
+      15
+    ],
+    [
+      "fp8",
+      14
+    ],
+    [
+      "kernels",
+      14
+    ],
+    [
+      "tokens",
+      14
+    ],
+    [
+      "decoding",
+      13
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "gib",
+      12
+    ],
+    [
+      "mpsgraph",
+      12
+    ],
+    [
+      "scale",
+      12
+    ],
+    [
+      "dtype",
+      10
+    ],
+    [
+      "memory",
+      10
+    ],
+    [
+      "small",
+      10
+    ],
+    [
+      "device",
+      9
+    ],
+    [
+      "padding",
+      9
+    ],
+    [
+      "stream",
+      9
+    ],
+    [
+      "work",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "url_canonical": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "via_source_id": null
+}

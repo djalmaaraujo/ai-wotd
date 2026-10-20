@@ -134,6 +134,10 @@
     "article_id": "one-useful-thing--07c1cc65",
     "first_seen_date": "2026-04-13"
   },
+  "https://ai.engineer/code": {
+    "article_id": "latent-space--754c2efa",
+    "first_seen_date": "2026-10-20"
+  },
   "https://ai.engineer/code/2026": {
     "article_id": "latent-space--8107dc37",
     "first_seen_date": "2026-09-23"
@@ -847,6 +851,10 @@
   "https://aibreakfast.beehiiv.com/p/elevenlabs-sound-effects-jailbreaking-chatgpt": {
     "article_id": "aibreakfast--e3ea2e76",
     "first_seen_date": "2026-04-19"
+  },
+  "https://aibreakfast.beehiiv.com/p/elon-to-give-every-us-child-spacex-stock": {
+    "article_id": "aibreakfast--c5079bf4",
+    "first_seen_date": "2026-10-20"
   },
   "https://aibreakfast.beehiiv.com/p/elons-x-ai-releasing-llm": {
     "article_id": "aibreakfast--ce1fcbda",
@@ -2465,6 +2473,10 @@
     "article_id": "last-week-in-ai--5d8dc279",
     "first_seen_date": "2026-10-03"
   },
+  "https://aievaluatorforum.org/initiatives/embedded-evaluation-letter": {
+    "article_id": "ai-snake-oil--59c84798",
+    "first_seen_date": "2026-10-20"
+  },
   "https://aiuc.com/": {
     "article_id": "latent-space--7b57b6a5",
     "first_seen_date": "2026-09-23"
@@ -2959,6 +2971,10 @@
     "article_id": "interconnects--a3739b5a",
     "first_seen_date": "2026-09-23"
   },
+  "https://arxiv.org/abs/2407.01502": {
+    "article_id": "ai-snake-oil--0d890596",
+    "first_seen_date": "2026-10-20"
+  },
   "https://arxiv.org/abs/2407.12796": {
     "article_id": "one-useful-thing--74f2d5f5",
     "first_seen_date": "2026-04-13"
@@ -3030,6 +3046,10 @@
   "https://arxiv.org/abs/2506.08872": {
     "article_id": "one-useful-thing--ee56a638",
     "first_seen_date": "2026-04-13"
+  },
+  "https://arxiv.org/abs/2507.09089": {
+    "article_id": "ai-snake-oil--a2f07e0c",
+    "first_seen_date": "2026-10-20"
   },
   "https://arxiv.org/abs/2508.14231": {
     "article_id": "ai-snake-oil--f867d9d1",
@@ -4218,6 +4238,10 @@
     "article_id": "codenewsletter--4b3c3dce",
     "first_seen_date": "2026-04-14"
   },
+  "https://codenewsletter.ai/p/opencode-attack-exposes-user-api-keys": {
+    "article_id": "codenewsletter--5afc6011",
+    "first_seen_date": "2026-10-20"
+  },
   "https://codenewsletter.ai/p/openrouter-ships-pareto-code-hermes-agent-rivals-openclaw": {
     "article_id": "codenewsletter--c7b7eb81",
     "first_seen_date": "2026-05-12"
@@ -5201,6 +5225,11 @@
   "https://every.to/source-code/how-to-use-claude-code-for-everyday-tasks-no-programming-required": {
     "article_id": "one-useful-thing--0c5dc13b",
     "first_seen_date": "2026-04-13"
+  },
+  "https://exploitbench.ai/": {
+    "article_id": null,
+    "first_seen_date": "2026-10-20",
+    "status": "fetch_failed"
   },
   "https://factormeals.com/lwai50off": {
     "article_id": "last-week-in-ai--0b0a3cdf",
@@ -7214,6 +7243,10 @@
     "article_id": "huggingface-blog--2b048a59",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/hf-torchneuron": {
+    "article_id": "huggingface-blog--94681509",
+    "first_seen_date": "2026-10-20"
+  },
   "https://huggingface.co/blog/how-to-train-sentence-transformers": {
     "article_id": "huggingface-blog--e3250682",
     "first_seen_date": "2026-08-21"
@@ -7997,6 +8030,10 @@
   "https://huggingface.co/blog/moe-transformers": {
     "article_id": "huggingface-blog--92eef7dc",
     "first_seen_date": "2026-04-13"
+  },
+  "https://huggingface.co/blog/mps-pytorch-2-15": {
+    "article_id": "huggingface-blog--1dde98f2",
+    "first_seen_date": "2026-10-20"
   },
   "https://huggingface.co/blog/mteb": {
     "article_id": "huggingface-blog--87126e5c",
@@ -11106,6 +11143,10 @@
     "article_id": "openai-blog--f2ed2a48",
     "first_seen_date": "2026-08-27"
   },
+  "https://openai.com/index/low-resource-programming-languages": {
+    "article_id": "openai-blog--7935a5a1",
+    "first_seen_date": "2026-10-20"
+  },
   "https://openai.com/index/lseg": {
     "article_id": "openai-blog--67ad7ac7",
     "first_seen_date": "2026-06-11"
@@ -12192,6 +12233,10 @@
     "article_id": "ai-snake-oil--29107778",
     "first_seen_date": "2026-09-23"
   },
+  "https://sage.cs.princeton.edu/trends": {
+    "article_id": "ai-snake-oil--d83e208f",
+    "first_seen_date": "2026-10-20"
+  },
   "https://sarahwie.github.io/": {
     "article_id": "nlp-newsletter--04b394db",
     "first_seen_date": "2026-09-23"
@@ -12400,6 +12445,10 @@
   "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": {
     "article_id": "simonwillison--b15904ec",
     "first_seen_date": "2026-10-19"
+  },
+  "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": {
+    "article_id": "simonwillison--fee4451d",
+    "first_seen_date": "2026-10-20"
   },
   "https://simonwillison.net/2026/Oct/2/rex-s-dino-store": {
     "article_id": "simonwillison--307d499a",
@@ -14147,6 +14196,10 @@
     "article_id": "latent-space--763ef10b",
     "first_seen_date": "2026-10-03"
   },
+  "https://www.latent.space/p/ainews-not-much-happened-today-f09": {
+    "article_id": "latent-space--c3ad995a",
+    "first_seen_date": "2026-10-20"
+  },
   "https://www.latent.space/p/ainews-openai-devday-2026-dots-61": {
     "article_id": "latent-space--49b2e6da",
     "first_seen_date": "2026-09-30"
@@ -14547,6 +14600,10 @@
   "https://www.normaltech.ai/p/fact-checking-moravecs-paradox": {
     "article_id": "ai-snake-oil--321247ab",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent": {
+    "article_id": "ai-snake-oil--0d651bb4",
+    "first_seen_date": "2026-10-20"
   },
   "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai": {
     "article_id": "ai-snake-oil--d1999280",
@@ -15583,6 +15640,18 @@
   "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play": {
     "article_id": "mit-tech-review-ai--d2470909",
     "first_seen_date": "2026-10-19"
+  },
+  "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world": {
+    "article_id": "mit-tech-review-ai--54b3d2ee",
+    "first_seen_date": "2026-10-20"
+  },
+  "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else": {
+    "article_id": "mit-tech-review-ai--bf0c4f6e",
+    "first_seen_date": "2026-10-20"
+  },
+  "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub": {
+    "article_id": "mit-tech-review-ai--0de6e91d",
+    "first_seen_date": "2026-10-20"
   },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",

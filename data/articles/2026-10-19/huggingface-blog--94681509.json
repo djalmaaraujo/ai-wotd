@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--94681509",
+  "author": "Hugging Face Blog",
+  "content_chars": 10874,
+  "content_sha256": "6a32c4379553dfbd8721437f067618354974e4bd9e7cafa78145149507aca035",
+  "content_tokens": 2718,
+  "fetched_at": "2026-10-20T11:32:06Z",
+  "kind": "article",
+  "published_at": "2026-10-19T00:00:00+00:00",
+  "snippet": "TorchNeuron is a PyTorch plugin that brings a new backend for Trainium enabling support for eager mode, torch.compile and native distributed APIs like FSDP and TP. Read the Pytorch blog to learn more about TorchNeuron. Starting Oct. 20, 2026, TorchNeuron will be available as a…",
+  "source_id": "huggingface-blog",
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "top_terms": [
+    [
+      "model",
+      32
+    ],
+    [
+      "neuron",
+      29
+    ],
+    [
+      "torch",
+      24
+    ],
+    [
+      "args",
+      23
+    ],
+    [
+      "size",
+      19
+    ],
+    [
+      "tp",
+      17
+    ],
+    [
+      "import",
+      16
+    ],
+    [
+      "dataset",
+      14
+    ],
+    [
+      "training",
+      13
+    ],
+    [
+      "config",
+      12
+    ],
+    [
+      "distributed",
+      12
+    ],
+    [
+      "device",
+      11
+    ],
+    [
+      "train",
+      11
+    ],
+    [
+      "transformers",
+      11
+    ],
+    [
+      "compile",
+      10
+    ],
+    [
+      "fsdp",
+      10
+    ],
+    [
+      "script",
+      10
+    ],
+    [
+      "tokenizer",
+      10
+    ],
+    [
+      "trainium",
+      10
+    ],
+    [
+      "true",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/hf-torchneuron",
+  "url_canonical": "https://huggingface.co/blog/hf-torchneuron",
+  "via_source_id": null
+}

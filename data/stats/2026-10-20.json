@@ -1,0 +1,3097 @@
+{
+  "article_ids": [
+    "huggingface-blog--1dde98f2",
+    "latent-space--754c2efa",
+    "latent-space--c3ad995a",
+    "mit-tech-review-ai--0de6e91d"
+  ],
+  "date": "2026-10-20",
+  "document_count": 4,
+  "terms": {
+    "access": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "across": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "across the": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "adds": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "agent": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "agentic": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "agentic engineers": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "aie": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "aie code": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "already": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "and video": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "another": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "anthropic": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "around": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "attend": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "availability": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "available": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "away": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "b-a3b": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "back": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "behind": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "benefit": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "bf16": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "bias": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "big": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "breaks": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "build": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "building": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "built": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "built on": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "call": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "calls": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "candidate": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "capabilities": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "case": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "change": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "chips": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "claims": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "close": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "close to": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "coming": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "commits": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "community": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "companies": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "company": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "complex": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "construction": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "context": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "contribute": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "contributors": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cpu": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "decode": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "deep": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "demand": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "design": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "details": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "drop": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "email": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "end": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "engineering": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "engineers": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "environment": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "evals": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "every": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "everyone": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "everyone who": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "face": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "face hub": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fast": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "faster": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 21
+    },
+    "faster and": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fewer": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "final": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "finished": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "first": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fix": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "focus": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for building": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fp8": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 15
+    },
+    "free": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "full": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "gathering": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "gathering of": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gets": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "global": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "google": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "gpu": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "gpus": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "half": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "hands-on": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "head": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "heavy": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "high": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "higher": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hub": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "hugging": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "hugging face": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "hugging face hub": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hundreds": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hundreds of": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ideas": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "images": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "implementation": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "infrastructure": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "input": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "internal": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "is available": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is coming": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is free": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "kernel": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "known": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "kv": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "language": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "large": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "larger": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "late": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lead": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "leases": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "leave": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "led": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lessons": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "lets": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "limits": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "llm": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "llms": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "local": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "logits": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "m3": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "makes": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "max": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "mean": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "meet": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "memory": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 18
+    },
+    "million": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "min": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mit": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 23
+    },
+    "models": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 24
+    },
+    "moe": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "more tokens": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "move": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "moves": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "moving": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "numbers": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nvidia": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "offers": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "on another": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "openai": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "operations": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "others": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "output": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "past": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "peak": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "people": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "performance": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "power": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pricing": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "pro": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "problems": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "products": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "program": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "progress": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "public": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "put": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "python": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "qwen3.6": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rate": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "real": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "recipe": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "release": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "replaces": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reported": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "reports": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "requirements": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requires": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "result": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "results": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "review": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "right": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rising": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "run": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "run on": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "running": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "runs": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "safety": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "second": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "seconds": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "selective": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "selective gathering": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "selective gathering of": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sf": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "shows": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "size": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "solve": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "solves": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "space": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "speakers": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "special": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "specialized": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "stack": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "start": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "starts": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stay": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "still": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "stream": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "support": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "system": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "systems": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "technical": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thanks": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thanks to": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the global": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the hugging": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the hugging face": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the model": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "the program": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the release": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the result": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the safety": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thousands": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thousands of": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "three": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to attend": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to everyone": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to everyone who": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to run": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to work": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "together": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "token": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "tokens": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 20
+    },
+    "top": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "top agentic": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "top agentic engineers": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "track": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "training": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "upcoming": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "updates": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "uses": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "value": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "version": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "video": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "walk": {
+      "articles": [
+        "latent-space--754c2efa",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "weight": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "weights": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "win": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "work": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 4,
+      "tf": 15
+    },
+    "workers": {
+      "articles": [
+        "latent-space--c3ad995a",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Michelle Kim",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "workflows": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "working": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "working on": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "mit-tech-review-ai--0de6e91d"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Michelle Kim"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "workloads": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world": {
+      "articles": [
+        "latent-space--754c2efa",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "yet": {
+      "articles": [
+        "huggingface-blog--1dde98f2",
+        "latent-space--c3ad995a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "swyx & Alessio"
+      ],
+      "df": 2,
+      "tf": 2
+    }
+  }
+}
