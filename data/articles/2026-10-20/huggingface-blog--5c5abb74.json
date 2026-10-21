@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5c5abb74",
+  "author": "Hugging Face Blog",
+  "content_chars": 15500,
+  "content_sha256": "cabe00b23289e65a7b74459984478a9e93b0b52ba49d95e0c712ff9c1da23265",
+  "content_tokens": 3875,
+  "fetched_at": "2026-10-21T11:44:32Z",
+  "kind": "article",
+  "published_at": "2026-10-20T16:09:19+00:00",
+  "snippet": "📄 Tech Report | 🤗 Data | 💻 Code Today we’re introducing FairStress, a benchmark for measuring demographic fairness in LLMs beyond the choice a model ultimately makes in decisions impacting people. FairStress is available for download, and we’re also building it into Olmo-eval…",
+  "source_id": "huggingface-blog",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "top_terms": [
+    [
+      "model",
+      36
+    ],
+    [
+      "candidate",
+      28
+    ],
+    [
+      "demographic",
+      26
+    ],
+    [
+      "models",
+      21
+    ],
+    [
+      "fairstress",
+      20
+    ],
+    [
+      "identity",
+      15
+    ],
+    [
+      "across",
+      14
+    ],
+    [
+      "candidates",
+      13
+    ],
+    [
+      "minority-coded",
+      11
+    ],
+    [
+      "whether",
+      11
+    ],
+    [
+      "decisions",
+      10
+    ],
+    [
+      "stronger",
+      10
+    ],
+    [
+      "example",
+      9
+    ],
+    [
+      "the model",
+      9
+    ],
+    [
+      "b-instruct",
+      8
+    ],
+    [
+      "behavior",
+      8
+    ],
+    [
+      "choice",
+      8
+    ],
+    [
+      "clearly",
+      8
+    ],
+    [
+      "decision",
+      8
+    ],
+    [
+      "fairness",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/fairstress",
+  "url_canonical": "https://huggingface.co/blog/allenai/fairstress",
+  "via_source_id": null
+}

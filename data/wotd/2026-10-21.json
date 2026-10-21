@@ -1,0 +1,281 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1255.22702,
+      "term": "instruct",
+      "tf_today": 191
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 535.080535,
+      "term": "olmo",
+      "tf_today": 94
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--8e2ea740"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 500.603826,
+      "term": "technical report",
+      "tf_today": 89
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 379.554118,
+      "term": "granite",
+      "tf_today": 71
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae",
+        "latent-space--8e2ea740"
+      ],
+      "avg_tf_baseline": 5.8462,
+      "df_today": 3,
+      "score": 366.380895,
+      "term": "card",
+      "tf_today": 501
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 327.512043,
+      "term": "pythia",
+      "tf_today": 63
+    },
+    {
+      "articles": [
+        "latent-space--8207e710",
+        "latent-space--cfafd1f4",
+        "latent-space--e94f9629",
+        "latent-space--fa3e1af8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 317.124232,
+      "term": "tenex",
+      "tf_today": 53
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--8207e710"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 276.742929,
+      "term": "own models",
+      "tf_today": 55
+    },
+    {
+      "articles": [
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 245.739102,
+      "term": "qwen3-vl",
+      "tf_today": 50
+    },
+    {
+      "articles": [
+        "latent-space--08e20c3d",
+        "latent-space--4e703bc5",
+        "latent-space--656b1a2a",
+        "latent-space--744e4dae",
+        "latent-space--8e2ea740",
+        "latent-space--fa3e1af8"
+      ],
+      "avg_tf_baseline": 9.3478,
+      "df_today": 6,
+      "score": 223.116668,
+      "term": "runs",
+      "tf_today": 398
+    }
+  ],
+  "date": "2026-10-21",
+  "evidence_article_ids": [
+    "latent-space--113807e3",
+    "latent-space--58764d4a",
+    "latent-space--8e2ea740",
+    "latent-space--95286b6c"
+  ],
+  "judge": {
+    "input_tokens": 31782,
+    "model": "jev-1.13.0",
+    "pool_size": 64,
+    "signals": {
+      "ai-native sdlc": {
+        "dominance": 2.69,
+        "event": 0.39,
+        "form": 0.87,
+        "novelty": 0.72,
+        "specificity": 1.58
+      },
+      "alex lieberman": {
+        "dominance": 2.71,
+        "event": 0.38,
+        "form": 0.93,
+        "novelty": 0.73,
+        "specificity": 0.32
+      },
+      "baldur's gate 3": {
+        "dominance": 1.98,
+        "event": 0.67,
+        "form": 0.95,
+        "novelty": 0.82,
+        "specificity": 0.1
+      },
+      "claude opus 5.5": {
+        "dominance": 1.98,
+        "event": 0.69,
+        "form": 0.94,
+        "novelty": 0.77,
+        "specificity": 1.99
+      },
+      "deepinfer": {
+        "dominance": 2.01,
+        "event": 0.91,
+        "form": 0.82,
+        "novelty": 0.83,
+        "specificity": 1.99
+      },
+      "deepseek deepinfer": {
+        "dominance": 2.16,
+        "event": 0.92,
+        "form": 0.88,
+        "novelty": 0.77,
+        "specificity": 2.0
+      },
+      "gate 3": {
+        "dominance": 1.92,
+        "event": 0.53,
+        "form": 0.51,
+        "novelty": 0.79,
+        "specificity": 0.3
+      },
+      "inference": {
+        "dominance": 2.64,
+        "event": 0.91,
+        "form": 0.88,
+        "novelty": 0.59,
+        "specificity": 1.94
+      },
+      "lieberman": {
+        "dominance": 2.7,
+        "event": 0.39,
+        "form": 0.86,
+        "novelty": 0.8,
+        "specificity": 0.21
+      },
+      "m3.1 flash": {
+        "dominance": 1.91,
+        "event": 0.91,
+        "form": 0.84,
+        "novelty": 0.74,
+        "specificity": 2.0
+      },
+      "minimax m3.1 flash": {
+        "dominance": 1.91,
+        "event": 0.9,
+        "form": 0.91,
+        "novelty": 0.74,
+        "specificity": 2.0
+      },
+      "models": {
+        "dominance": 2.81,
+        "event": 0.89,
+        "form": 0.74,
+        "novelty": 0.4,
+        "specificity": 1.04
+      },
+      "open": {
+        "dominance": 2.78,
+        "event": 0.87,
+        "form": 0.6,
+        "novelty": 0.37,
+        "specificity": 0.99
+      },
+      "opus 5.5": {
+        "dominance": 1.96,
+        "event": 0.67,
+        "form": 0.87,
+        "novelty": 0.76,
+        "specificity": 1.98
+      },
+      "sdlc": {
+        "dominance": 2.52,
+        "event": 0.27,
+        "form": 0.71,
+        "novelty": 0.67,
+        "specificity": 0.5
+      },
+      "tenex": {
+        "dominance": 2.75,
+        "event": 0.35,
+        "form": 0.9,
+        "novelty": 0.83,
+        "specificity": 1.06
+      },
+      "transformation": {
+        "dominance": 2.54,
+        "event": 0.53,
+        "form": 0.88,
+        "novelty": 0.67,
+        "specificity": 0.59
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "inference",
+      "deepseek deepinfer",
+      "deepinfer",
+      "claude opus 5.5",
+      "opus 5.5",
+      "m3.1 flash",
+      "minimax m3.1 flash"
+    ]
+  },
+  "label": "inference",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://en.wikipedia.org/wiki/Inference_(machine_learning)",
+        "https://vllm.ai/",
+        "https://pytorch.org/docs/stable/generated/torch.inference_mode.html"
+      ],
+      "text": "Inference in AI refers to the process of running a trained model to generate predictions, completions, or embeddings for new inputs. It is the operational phase where models serve real-world requests, distinct from training. Inference systems optimize for latency, throughput, and cost, employing techniques like kv-caching, quantization, batching, and speculative decoding. The term also denotes the serving stack — model loaders, schedulers, and APIs — that powers production applications."
+    },
+    "generated_at": "2026-10-21T11:47:59.824214+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "DeepSeek dominated today's AI infrastructure conversation by open-sourcing its production inference stack, DeepInfer, at PyTorch Conference 2026. The system reportedly serves 155 trillion tokens per day per cluster at roughly 80% margins, undercutting closed-source rivals like Fireworks and Baseten. Accompanying releases include deepseek-recipe, a Rust/Python toolkit that normalizes API formats for inference backends, and 3FS, a distributed file system built for both training and inference workloads using RDMA and SSD disaggregation. The PyTorch event also highlighted ecosystem projects vLLM, DeepSpeed, and Ray, signaling continued momentum around open inference tooling.",
+    "why": "Inference trended because DeepSeek released DeepInfer, an open-source production inference stack with published performance and economics (155T tokens/day/cluster, $22M/day revenue, 81-day payback), directly challenging proprietary inference platforms. The launch was timed to PyTorch Conference 2026 and accompanied by supporting libraries (deepseek-recipe) and storage infrastructure (3FS) purpose-built for inference workloads."
+  },
+  "score": 9.917358,
+  "word": "inference"
+}

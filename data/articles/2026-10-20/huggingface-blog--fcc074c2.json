@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fcc074c2",
+  "author": "Hugging Face Blog",
+  "content_chars": 6664,
+  "content_sha256": "012f90a628cdc003c2c139367ebe9530f2f98b5b0c64e7a18dfc23046506da72",
+  "content_tokens": 1666,
+  "fetched_at": "2026-10-21T11:44:32Z",
+  "kind": "article",
+  "published_at": "2026-10-20T00:00:00+00:00",
+  "snippet": "If you ever tried to run PyTorch on a TPU, you probably ported your code to torch_xla , or you ended up having to learn JAX. With TorchTPU, a native PyTorch backend, TPU is now just another device. It opens up native support of TPU in the Hugging Face ecosystem. Transformers…",
+  "source_id": "huggingface-blog",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "top_terms": [
+    [
+      "tpu",
+      34
+    ],
+    [
+      "model",
+      16
+    ],
+    [
+      "transformers",
+      10
+    ],
+    [
+      "pytorch",
+      9
+    ],
+    [
+      "kernels",
+      8
+    ],
+    [
+      "run",
+      8
+    ],
+    [
+      "tpus",
+      8
+    ],
+    [
+      "torch",
+      7
+    ],
+    [
+      "face",
+      6
+    ],
+    [
+      "id",
+      6
+    ],
+    [
+      "import",
+      6
+    ],
+    [
+      "kernel",
+      6
+    ],
+    [
+      "support",
+      6
+    ],
+    [
+      "torchtpu",
+      6
+    ],
+    [
+      "code",
+      5
+    ],
+    [
+      "diffusers",
+      5
+    ],
+    [
+      "eager",
+      5
+    ],
+    [
+      "hugging",
+      5
+    ],
+    [
+      "hugging face",
+      5
+    ],
+    [
+      "mode",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/hf-torchtpu",
+  "url_canonical": "https://huggingface.co/blog/hf-torchtpu",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--9f04360f",
+  "author": null,
+  "content_chars": 9532,
+  "content_sha256": "bcdf6583a8c22ca94e8bb28e26541d332973a49da46717fad8a41fdb12b64742",
+  "content_tokens": 2383,
+  "fetched_at": "2026-10-21T11:47:24Z",
+  "kind": "article",
+  "published_at": "2026-10-20T17:04:21+00:00",
+  "snippet": "- Announcement: Clef decision models on the Cloudflare blog - Decision Index leaderboard: clef-evals.workers-ai-mle.workers.dev Clef is a 27B multimodal model that turns a state and a schema of typed questions into decisions. It reads the state as text, JSON, images, or video…",
+  "source_id": "interconnects",
+  "title": "Cloudflare/clef · Hugging Face",
+  "top_terms": [
+    [
+      "accuracy",
+      27
+    ],
+    [
+      "model",
+      16
+    ],
+    [
+      "question",
+      15
+    ],
+    [
+      "processor",
+      14
+    ],
+    [
+      "clef",
+      12
+    ],
+    [
+      "record",
+      11
+    ],
+    [
+      "systemone",
+      10
+    ],
+    [
+      "json",
+      9
+    ],
+    [
+      "macro-f1",
+      9
+    ],
+    [
+      "state",
+      9
+    ],
+    [
+      "instructions",
+      8
+    ],
+    [
+      "questions",
+      8
+    ],
+    [
+      "type",
+      8
+    ],
+    [
+      "images",
+      7
+    ],
+    [
+      "joint",
+      7
+    ],
+    [
+      "exact",
+      6
+    ],
+    [
+      "id",
+      6
+    ],
+    [
+      "import",
+      6
+    ],
+    [
+      "invoice",
+      6
+    ],
+    [
+      "jev",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/Cloudflare/clef",
+  "url_canonical": "https://huggingface.co/Cloudflare/clef",
+  "via_source_id": "interconnects"
+}

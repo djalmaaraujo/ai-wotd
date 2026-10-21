@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--6bc33ad9",
+  "author": "Hugging Face Blog",
+  "content_chars": 12903,
+  "content_sha256": "0468393bc8129108ede22b35e7f65f896cf00e3da9b486af5b86d67b2ccc6958",
+  "content_tokens": 3225,
+  "fetched_at": "2026-10-21T11:44:32Z",
+  "kind": "article",
+  "published_at": "2026-10-20T15:19:48+00:00",
+  "snippet": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model ALTK-Evolve learns and applies a playbook using GPT-4.1, outperforming the retail entries on τ²-bench, a customer service agent benchmark—without updating model…",
+  "source_id": "huggingface-blog",
+  "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "top_terms": [
+    [
+      "agent",
+      32
+    ],
+    [
+      "guidelines",
+      27
+    ],
+    [
+      "model",
+      24
+    ],
+    [
+      "retail",
+      20
+    ],
+    [
+      "airline",
+      16
+    ],
+    [
+      "baseline",
+      16
+    ],
+    [
+      "bench",
+      15
+    ],
+    [
+      "the agent",
+      15
+    ],
+    [
+      "lossless",
+      13
+    ],
+    [
+      "pass",
+      13
+    ],
+    [
+      "tasks",
+      13
+    ],
+    [
+      "sup3",
+      12
+    ],
+    [
+      "task",
+      12
+    ],
+    [
+      "gpt-4.1",
+      11
+    ],
+    [
+      "domain",
+      10
+    ],
+    [
+      "guideline",
+      10
+    ],
+    [
+      "accuracy",
+      9
+    ],
+    [
+      "across",
+      9
+    ],
+    [
+      "every",
+      9
+    ],
+    [
+      "learned",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "url_canonical": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "via_source_id": null
+}

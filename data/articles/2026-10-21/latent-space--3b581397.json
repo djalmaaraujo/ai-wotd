@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3b581397",
+  "author": null,
+  "content_chars": 2976,
+  "content_sha256": "241075bd0373128d738e3604d3827fcc24aadcc050ee8eb85a534047fc804b97",
+  "content_tokens": 744,
+  "fetched_at": "2026-10-21T11:47:32Z",
+  "kind": "article",
+  "published_at": "2026-10-21T06:54:09+00:00",
+  "snippet": "Models & Pricing Model prices are listed in units of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a punctuation mark. We bill model usage based on the total number of input and output tokens by the model. Model…",
+  "source_id": "latent-space",
+  "title": "Models & Pricing | DeepSeek API Docs",
+  "top_terms": [
+    [
+      "model",
+      10
+    ],
+    [
+      "api",
+      8
+    ],
+    [
+      "deepseek",
+      6
+    ],
+    [
+      "fetch",
+      6
+    ],
+    [
+      "search",
+      6
+    ],
+    [
+      "tokens",
+      6
+    ],
+    [
+      "off-peak",
+      5
+    ],
+    [
+      "peak",
+      5
+    ],
+    [
+      "pricing",
+      5
+    ],
+    [
+      "mode",
+      4
+    ],
+    [
+      "output",
+      4
+    ],
+    [
+      "usage",
+      4
+    ],
+    [
+      "and fetch",
+      3
+    ],
+    [
+      "anthropic",
+      3
+    ],
+    [
+      "balance",
+      3
+    ],
+    [
+      "calls",
+      3
+    ],
+    [
+      "input",
+      3
+    ],
+    [
+      "models",
+      3
+    ],
+    [
+      "non-thinking",
+      3
+    ],
+    [
+      "number",
+      3
+    ]
+  ],
+  "url": "https://api-docs.deepseek.com/quick_start/pricing?tool=deepseek",
+  "url_canonical": "https://api-docs.deepseek.com/quick_start/pricing?tool=deepseek",
+  "via_source_id": "latent-space"
+}

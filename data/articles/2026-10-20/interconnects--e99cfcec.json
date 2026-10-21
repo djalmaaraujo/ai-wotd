@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--e99cfcec",
+  "author": null,
+  "content_chars": 3486,
+  "content_sha256": "977c56b3395d9f84e0013d66c99924c22b741932735ead5f1025f6d641a543f2",
+  "content_tokens": 871,
+  "fetched_at": "2026-10-21T11:47:22Z",
+  "kind": "article",
+  "published_at": "2026-10-20T17:04:21+00:00",
+  "snippet": "DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale. Supported models: - DeepSeek-V4.1-Flash Supported features…",
+  "source_id": "interconnects",
+  "title": "GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models · GitHub",
+  "top_terms": [
+    [
+      "deepinfer",
+      17
+    ],
+    [
+      "inference",
+      8
+    ],
+    [
+      "prefill",
+      7
+    ],
+    [
+      "batch",
+      5
+    ],
+    [
+      "decode",
+      5
+    ],
+    [
+      "nvidia",
+      5
+    ],
+    [
+      "ascend",
+      4
+    ],
+    [
+      "deepseek-ai",
+      4
+    ],
+    [
+      "default",
+      4
+    ],
+    [
+      "github",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "set",
+      4
+    ],
+    [
+      "set deepinfer",
+      4
+    ],
+    [
+      "bounded",
+      3
+    ],
+    [
+      "deepseek-v4.1",
+      3
+    ],
+    [
+      "details",
+      3
+    ],
+    [
+      "enable",
+      3
+    ],
+    [
+      "examples",
+      3
+    ],
+    [
+      "framework",
+      3
+    ],
+    [
+      "high-performance",
+      3
+    ]
+  ],
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "url_canonical": "https://github.com/deepseek-ai/DeepInfer",
+  "via_source_id": "interconnects"
+}

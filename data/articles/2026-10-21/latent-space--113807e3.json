@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--113807e3",
+  "author": null,
+  "content_chars": 5903,
+  "content_sha256": "dde0939e2f969f6ef77bc3eee746ff73d42f2084ae3ad0683feb7c7b2543599b",
+  "content_tokens": 1475,
+  "fetched_at": "2026-10-21T11:47:32Z",
+  "kind": "article",
+  "published_at": "2026-10-21T06:54:09+00:00",
+  "snippet": "English | 中文 deepseek-recipe is a collection of Rust libraries and Python bindings that uniformly convert API requests in different formats into the Conversation format, render conversations into prompts for DeepSeek models, encode conversations into token IDs with an attached…",
+  "source_id": "latent-space",
+  "title": "GitHub - deepseek-ai/deepseek-recipe · GitHub",
+  "top_terms": [
+    [
+      "deepseek",
+      12
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "responses",
+      11
+    ],
+    [
+      "tool",
+      11
+    ],
+    [
+      "request",
+      10
+    ],
+    [
+      "json",
+      9
+    ],
+    [
+      "output",
+      9
+    ],
+    [
+      "prompt",
+      9
+    ],
+    [
+      "chat",
+      7
+    ],
+    [
+      "chat completions",
+      7
+    ],
+    [
+      "completions",
+      7
+    ],
+    [
+      "tokenizer",
+      7
+    ],
+    [
+      "tokens",
+      7
+    ],
+    [
+      "conversation",
+      6
+    ],
+    [
+      "image",
+      6
+    ],
+    [
+      "recipe",
+      6
+    ],
+    [
+      "response",
+      6
+    ],
+    [
+      "token",
+      6
+    ],
+    [
+      "conversations",
+      5
+    ],
+    [
+      "conversations into",
+      5
+    ]
+  ],
+  "url": "https://github.com/deepseek-ai/deepseek-recipe",
+  "url_canonical": "https://github.com/deepseek-ai/deepseek-recipe",
+  "via_source_id": "latent-space"
+}

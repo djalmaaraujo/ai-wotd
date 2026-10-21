@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--416aec80",
+  "author": "Simon Willison",
+  "content_chars": 911,
+  "content_sha256": "5f20ff76cb8d9a643e3b9dce057f387ce7d1ca28c00ecceffe93c3545e14a476",
+  "content_tokens": 227,
+  "fetched_at": "2026-10-21T11:47:19Z",
+  "kind": "article",
+  "published_at": "2026-10-20T23:50:25+00:00",
+  "snippet": "20th October 2026 - Link Blog eMudhra Intermediate CA Compromise. This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many…",
+  "source_id": "simonwillison",
+  "title": "eMudhra Intermediate CA Compromise",
+  "top_terms": [
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "th",
+      5
+    ],
+    [
+      "th october",
+      5
+    ],
+    [
+      "th october 2026",
+      5
+    ],
+    [
+      "ca",
+      3
+    ],
+    [
+      "emudhra",
+      3
+    ],
+    [
+      "emudhra intermediate",
+      3
+    ],
+    [
+      "emudhra intermediate ca",
+      3
+    ],
+    [
+      "intermediate",
+      3
+    ],
+    [
+      "intermediate ca",
+      3
+    ],
+    [
+      "blog",
+      2
+    ],
+    [
+      "ca compromise",
+      2
+    ],
+    [
+      "certificates",
+      2
+    ],
+    [
+      "compromise",
+      2
+    ],
+    [
+      "intermediate ca compromise",
+      2
+    ],
+    [
+      "python",
+      2
+    ],
+    [
+      "software",
+      2
+    ],
+    [
+      "trusted",
+      2
+    ],
+    [
+      "and certifi",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+  "via_source_id": null
+}

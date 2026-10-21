@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--58764d4a",
+  "author": null,
+  "content_chars": 6213,
+  "content_sha256": "d8616713a7f25c2962e5c2bd161cd3074d1ed6144c05f453ccbddc26ef473a75",
+  "content_tokens": 1553,
+  "fetched_at": "2026-10-21T11:47:30Z",
+  "kind": "article",
+  "published_at": "2026-10-21T06:54:09+00:00",
+  "snippet": "The Fire-Flyer File System (3FS) is a high-performance distributed file system designed to address the challenges of AI training and inference workloads. It leverages modern SSDs and RDMA networks to provide a shared storage layer that simplifies development of distributed…",
+  "source_id": "latent-space",
+  "title": "GitHub - deepseek-ai/3FS: A high-performance distributed file system designed to address the challenges of AI training and inference workloads. · GitHub",
+  "top_terms": [
+    [
+      "fs",
+      12
+    ],
+    [
+      "build",
+      7
+    ],
+    [
+      "storage",
+      7
+    ],
+    [
+      "throughput",
+      7
+    ],
+    [
+      "cluster",
+      6
+    ],
+    [
+      "cmake",
+      6
+    ],
+    [
+      "file",
+      6
+    ],
+    [
+      "install",
+      6
+    ],
+    [
+      "nodes",
+      6
+    ],
+    [
+      "data",
+      5
+    ],
+    [
+      "github",
+      5
+    ],
+    [
+      "method",
+      5
+    ],
+    [
+      "node",
+      5
+    ],
+    [
+      "tib",
+      5
+    ],
+    [
+      "training",
+      5
+    ],
+    [
+      "compiler",
+      4
+    ],
+    [
+      "dcmake",
+      4
+    ],
+    [
+      "deepseek-ai",
+      4
+    ],
+    [
+      "docker",
+      4
+    ],
+    [
+      "file system",
+      4
+    ]
+  ],
+  "url": "https://github.com/deepseek-ai/3fs",
+  "url_canonical": "https://github.com/deepseek-ai/3fs",
+  "via_source_id": "latent-space"
+}

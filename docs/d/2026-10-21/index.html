@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>inference — 2026-10-21 · AI WOTD</title>
+  <link rel="stylesheet" href="/ai-wotd/style.css">
+  <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
+</head>
+<body>
+  <header>
+    <a class="brand" href="/ai-wotd/">AI Word Of The Day</a>
+    <nav>
+      <a href="/ai-wotd/">Today</a>
+      <a href="/ai-wotd/archive/">Archive</a>
+      <a href="https://github.com/djalmaaraujo/ai-wotd">GitHub</a>
+    </nav>
+  </header>
+  <main>
+<article class="day">
+  <p class="date">2026-10-21</p>
+  <h1>inference</h1>
+
+  <p class="why">Inference trended because DeepSeek released DeepInfer, an open-source production inference stack with published performance and economics (155T tokens/day/cluster, $22M/day revenue, 81-day payback), directly challenging proprietary inference platforms. The launch was timed to PyTorch Conference 2026 and accompanied by supporting libraries (deepseek-recipe) and storage infrastructure (3FS) purpose-built for inference workloads.</p>
+
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>Inference in AI refers to the process of running a trained model to generate predictions, completions, or embeddings for new inputs. It is the operational phase where models serve real-world requests, distinct from training. Inference systems optimize for latency, throughput, and cost, employing techniques like kv-caching, quantization, batching, and speculative decoding. The term also denotes the serving stack — model loaders, schedulers, and APIs — that powers production applications.</p>
+    <ul class="def-refs">
+      <li><a href="https://en.wikipedia.org/wiki/Inference_(machine_learning)" rel="noreferrer">https://en.wikipedia.org/wiki/Inference_(machine_learning)</a></li>
+      <li><a href="https://vllm.ai/" rel="noreferrer">https://vllm.ai/</a></li>
+      <li><a href="https://pytorch.org/docs/stable/generated/torch.inference_mode.html" rel="noreferrer">https://pytorch.org/docs/stable/generated/torch.inference_mode.html</a></li>
+    </ul>
+  </section>
+
+  <section class="summary">
+    <h2>Today in AI</h2>
+    <p>DeepSeek dominated today&#39;s AI infrastructure conversation by open-sourcing its production inference stack, DeepInfer, at PyTorch Conference 2026. The system reportedly serves 155 trillion tokens per day per cluster at roughly 80% margins, undercutting closed-source rivals like Fireworks and Baseten. Accompanying releases include deepseek-recipe, a Rust/Python toolkit that normalizes API formats for inference backends, and 3FS, a distributed file system built for both training and inference workloads using RDMA and SSD disaggregation. The PyTorch event also highlighted ecosystem projects vLLM, DeepSpeed, and Ray, signaling continued momentum around open inference tooling.</p>
+  </section>
+
+  <section class="evidence">
+    <h2>Evidence (4)</h2>
+    <ul>
+      <li>
+        <a href="https://github.com/deepseek-ai/deepseek-recipe" rel="noreferrer">GitHub - deepseek-ai/deepseek-recipe · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-10-21
+        </span>
+<blockquote>English | 中文 deepseek-recipe is a collection of Rust libraries and Python bindings that uniformly convert API requests in different formats into the Conversation format, render conversations into prompts for DeepSeek models, encode conversations into token IDs with an attached…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/deepseek-ai/3fs" rel="noreferrer">GitHub - deepseek-ai/3FS: A high-performance distributed file system designed to address the challenges of AI training and inference workloads. · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-10-21
+        </span>
+<blockquote>The Fire-Flyer File System (3FS) is a high-performance distributed file system designed to address the challenges of AI training and inference workloads. It leverages modern SSDs and RDMA networks to provide a shared storage layer that simplifies development of distributed…</blockquote>      </li>
+      <li>
+        <a href="https://www.latent.space/p/ainews-deepseek-deepinfer-open-source" rel="noreferrer">[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</a>
+        <span class="meta">
+          latent-space · swyx &amp; Alessio          · 2026-10-21
+        </span>
+<blockquote>Proudly brought to you by SerpAPI: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents! 50% token cost of JSON. We last covered the Inference Inflection in April, and historically most of the advances have been closed source…</blockquote>      </li>
+      <li>
+        <a href="https://pytorch.org/event/pytorch-conference-2026" rel="noreferrer">PyTorch Conference 2026 - PyTorch</a>
+        <span class="meta">
+          latent-space          · 2026-10-21
+        </span>
+<blockquote>PyTorch Conference 2026 Step into the Future of AI at PyTorch Conference North America 2026 Join us in San Jose, CA, October 20-21 for PyTorch Conference North America 2026. Hosted by the PyTorch Foundation, PyTorchCon gathers top-tier AI pioneers, researchers, and developers to…</blockquote>      </li>
+    </ul>
+  </section>
+
+  <section class="candidates">
+    <h2>Candidates</h2>
+    <ol>
+      <li>instruct <span class="meta">tf=191, df=2, score=1255.23</span></li>
+      <li>olmo <span class="meta">tf=94, df=2, score=535.08</span></li>
+      <li>technical report <span class="meta">tf=89, df=2, score=500.60</span></li>
+      <li>granite <span class="meta">tf=71, df=2, score=379.55</span></li>
+      <li>card <span class="meta">tf=501, df=3, score=366.38</span></li>
+      <li>pythia <span class="meta">tf=63, df=2, score=327.51</span></li>
+      <li>tenex <span class="meta">tf=53, df=4, score=317.12</span></li>
+      <li>own models <span class="meta">tf=55, df=2, score=276.74</span></li>
+      <li>qwen3-vl <span class="meta">tf=50, df=2, score=245.74</span></li>
+      <li>runs <span class="meta">tf=398, df=6, score=223.12</span></li>
+    </ol>
+  </section>
+
+  <section class="queried-links">
+    <details>
+      <summary>All queried links (16)</summary>
+      <ul>
+        <li>
+          <a href="https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories" rel="noreferrer">Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</a>
+          <span class="meta">
+            huggingface-blog · Hugging Face Blog          </span>
+        </li>
+        <li>
+          <a href="https://bogdantruta.com/blog/claude-finished-baldurs-gate-3" rel="noreferrer">Claude Opus 5.5 finished Baldur&#39;s Gate 3 on its own in 39 hours | Bogdan Truța</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/deepseek-ai/deepseek-recipe" rel="noreferrer">GitHub - deepseek-ai/deepseek-recipe · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://agent.minimax.io/tools/m3-1-flash-preview" rel="noreferrer">MiniMax M3.1 Flash is Now Generally Available | MiniMax Agent Tools</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://api-docs.deepseek.com/quick_start/pricing?tool=deepseek" rel="noreferrer">Models &amp; Pricing | DeepSeek API Docs</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://serpapi.com/latentspace-ainews-featured" rel="noreferrer">SerpApi: Markdown Output for AI Agents</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/deepseek-ai/3fs" rel="noreferrer">GitHub - deepseek-ai/3FS: A high-performance distributed file system designed to address the challenges of AI training and inference workloads. · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://whatmodel.sh/claims" rel="noreferrer">What AI labs report vs what independent tests find · whatmodel.sh</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://thil.ooo/blog/measuring-slop" rel="noreferrer">Let&#39;s delve into the tapestry of SLOP | Thilo Michael</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/jakemanger/whatmodel" rel="noreferrer">GitHub - jakemanger/whatmodel: Find the best AI models you can run · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://www.latent.space/p/tenex" rel="noreferrer">AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess</a>
+          <span class="meta">
+            latent-space · swyx &amp; Alessio          </span>
+        </li>
+        <li>
+          <a href="https://www.latent.space/p/ainews-deepseek-deepinfer-open-source" rel="noreferrer">[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</a>
+          <span class="meta">
+            latent-space · swyx &amp; Alessio          </span>
+        </li>
+        <li>
+          <a href="https://pytorch.org/event/pytorch-conference-2026" rel="noreferrer">PyTorch Conference 2026 - PyTorch</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://alexlieberman.com/tenex" rel="noreferrer">Tenex | Alex Lieberman</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://www.tenex.co/" rel="noreferrer">Tenex | AI Transformation &amp; AI Engineering Partner</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://www.tenex.co/blog/building-an-ai-native-sdlc" rel="noreferrer">Building an AI-Native SDLC | Tenex</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+      </ul>
+    </details>
+  </section>
+
+  <nav class="pager">
+<a href="/ai-wotd/d/2026-10-20/">← 2026-10-20</a>  </nav>
+</article>
+  </main>
+  <footer>
+    <p>Updated 2026-10-21T11:48:02+00:00. Built from public RSS, newsletters, and X.
+    Short attributed snippets shown under fair use; full text is never
+    redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--ef988bf3",
+  "author": null,
+  "content_chars": 12125,
+  "content_sha256": "568899ef493cb1f4173f58a31bea42e6955a22a4d3c6859dc0139a84908d4e76",
+  "content_tokens": 3031,
+  "fetched_at": "2026-10-21T11:47:44Z",
+  "kind": "article",
+  "published_at": "2026-10-20T19:31:57+00:00",
+  "snippet": "Today, on-platform customers on SFC receive an average 25% realized discount off their compute price, via resale. That means a customer buying $100k of compute receives $25k back from selling idle capacity, on average. For a customer who bought at $4.50/GPU/hr, that brings their…",
+  "source_id": "latent-space",
+  "title": "The average customer now saves 25% with SFC | SF Compute",
+  "top_terms": [
+    [
+      "order",
+      27
+    ],
+    [
+      "hours",
+      19
+    ],
+    [
+      "price",
+      19
+    ],
+    [
+      "window",
+      19
+    ],
+    [
+      "node",
+      18
+    ],
+    [
+      "work",
+      17
+    ],
+    [
+      "capacity",
+      15
+    ],
+    [
+      "limit",
+      13
+    ],
+    [
+      "nodes",
+      12
+    ],
+    [
+      "the order",
+      12
+    ],
+    [
+      "fills",
+      11
+    ],
+    [
+      "sale",
+      11
+    ],
+    [
+      "sku",
+      11
+    ],
+    [
+      "the treasury",
+      11
+    ],
+    [
+      "treasury",
+      11
+    ],
+    [
+      "bid",
+      10
+    ],
+    [
+      "example",
+      10
+    ],
+    [
+      "sfc",
+      10
+    ],
+    [
+      "gpu",
+      9
+    ],
+    [
+      "ask",
+      8
+    ]
+  ],
+  "url": "https://sfcompute.com/news/realized-discount",
+  "url_canonical": "https://sfcompute.com/news/realized-discount",
+  "via_source_id": "latent-space"
+}

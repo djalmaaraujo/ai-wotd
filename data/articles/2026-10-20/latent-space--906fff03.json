@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--906fff03",
+  "author": null,
+  "content_chars": 4724,
+  "content_sha256": "613821fbffd8fb85de130499b63b704039406c9fb663bbcffa8b57c3b63f48eb",
+  "content_tokens": 1181,
+  "fetched_at": "2026-10-21T11:47:45Z",
+  "kind": "article",
+  "published_at": "2026-10-20T19:31:57+00:00",
+  "snippet": "Today we're releasing Elastic InfiniBand Partitions on SF Compute: isolated RDMA networks that you create, name, and manage yourself, for any physically colocated group of your instances. Distributed training lives or dies on the interconnect. The workers in a job need to…",
+  "source_id": "latent-space",
+  "title": "Introducing Elastic InfiniBand Partitions | SF Compute",
+  "top_terms": [
+    [
+      "compute",
+      12
+    ],
+    [
+      "sf",
+      11
+    ],
+    [
+      "sf compute",
+      9
+    ],
+    [
+      "instances",
+      8
+    ],
+    [
+      "partition",
+      8
+    ],
+    [
+      "partitions",
+      8
+    ],
+    [
+      "infiniband",
+      7
+    ],
+    [
+      "run",
+      7
+    ],
+    [
+      "create",
+      6
+    ],
+    [
+      "elastic",
+      5
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "sell",
+      5
+    ],
+    [
+      "allocation",
+      4
+    ],
+    [
+      "api",
+      4
+    ],
+    [
+      "fabric",
+      4
+    ],
+    [
+      "nodes",
+      4
+    ],
+    [
+      "on sf",
+      4
+    ],
+    [
+      "on sf compute",
+      4
+    ],
+    [
+      "preview",
+      4
+    ],
+    [
+      "reservation",
+      4
+    ]
+  ],
+  "url": "https://sfcompute.com/news/elastic-infiniband-partitions",
+  "url_canonical": "https://sfcompute.com/news/elastic-infiniband-partitions",
+  "via_source_id": "latent-space"
+}

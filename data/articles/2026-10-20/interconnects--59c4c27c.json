@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--59c4c27c",
+  "author": null,
+  "content_chars": 76204,
+  "content_sha256": "b52977b867b6498a21008069b4e01173aa3f906d630bac14f6e8f72bf2417c4a",
+  "content_tokens": 19051,
+  "fetched_at": "2026-10-21T11:47:24Z",
+  "kind": "article",
+  "published_at": "2026-10-20T17:04:21+00:00",
+  "snippet": "NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4 is the quantized release of NVIDIA Nemotron 3.5 Super VL, a vision-language model for reasoning, coding, tool use, document understanding, and video understanding. It uses NVFP4 quantization to reduce memory requirements, with…",
+  "source_id": "interconnects",
+  "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4 · Hugging Face",
+  "top_terms": [
+    [
+      "text",
+      220
+    ],
+    [
+      "synthetic",
+      186
+    ],
+    [
+      "undisclosed",
+      152
+    ],
+    [
+      "data",
+      91
+    ],
+    [
+      "gpt-oss-120b",
+      83
+    ],
+    [
+      "model",
+      70
+    ],
+    [
+      "dataset",
+      57
+    ],
+    [
+      "deepseek-r1-0528",
+      53
+    ],
+    [
+      "reasoning",
+      51
+    ],
+    [
+      "nemotron",
+      50
+    ],
+    [
+      "nvidia",
+      49
+    ],
+    [
+      "qwen2.5",
+      47
+    ],
+    [
+      "tokens",
+      46
+    ],
+    [
+      "video",
+      40
+    ],
+    [
+      "download",
+      38
+    ],
+    [
+      "sft",
+      38
+    ],
+    [
+      "problems",
+      36
+    ],
+    [
+      "b-instruct",
+      35
+    ],
+    [
+      "legacy",
+      34
+    ],
+    [
+      "legacy download",
+      34
+    ]
+  ],
+  "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+  "url_canonical": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+  "via_source_id": "interconnects"
+}
