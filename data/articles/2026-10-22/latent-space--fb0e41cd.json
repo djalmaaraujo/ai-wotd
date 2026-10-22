@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--fb0e41cd",
+  "author": null,
+  "content_chars": 5340,
+  "content_sha256": "0c04ece7ddced80f500d2a0dc7773bdc543e3bda7b7c18b76c5b913c0a434406",
+  "content_tokens": 1335,
+  "fetched_at": "2026-10-22T11:50:46Z",
+  "kind": "article",
+  "published_at": "2026-10-22T07:42:44+00:00",
+  "snippet": "Recursive Flint Blog | Hugging Face | Local engine | Documentation Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs…",
+  "source_id": "latent-space",
+  "title": "RecursiveSI/flint · Hugging Face",
+  "top_terms": [
+    [
+      "flint",
+      18
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "output",
+      8
+    ],
+    [
+      "layers",
+      7
+    ],
+    [
+      "recursive",
+      7
+    ],
+    [
+      "sglang",
+      7
+    ],
+    [
+      "tokens",
+      6
+    ],
+    [
+      "checkpoint",
+      5
+    ],
+    [
+      "reasoning",
+      5
+    ],
+    [
+      "scores",
+      5
+    ],
+    [
+      "attention",
+      4
+    ],
+    [
+      "code",
+      4
+    ],
+    [
+      "content",
+      4
+    ],
+    [
+      "openai",
+      4
+    ],
+    [
+      "parameters",
+      4
+    ],
+    [
+      "text",
+      4
+    ],
+    [
+      "token",
+      4
+    ],
+    [
+      "tool",
+      4
+    ],
+    [
+      "active",
+      3
+    ],
+    [
+      "api",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/RecursiveSI/flint",
+  "url_canonical": "https://huggingface.co/RecursiveSI/flint",
+  "via_source_id": "latent-space"
+}

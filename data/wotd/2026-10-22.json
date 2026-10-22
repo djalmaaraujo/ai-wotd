@@ -1,0 +1,287 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--1b5861ef",
+        "latent-space--6578fb55",
+        "latent-space--fb0e41cd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 166.24271,
+      "term": "flint",
+      "tf_today": 33
+    },
+    {
+      "articles": [
+        "latent-space--36d90dab",
+        "latent-space--6578fb55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 161.258352,
+      "term": "eagle-4",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "latent-space--2410dade",
+        "latent-space--6578fb55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 138.134331,
+      "term": "the php",
+      "tf_today": 31
+    },
+    {
+      "articles": [
+        "latent-space--2410dade",
+        "latent-space--6578fb55",
+        "latent-space--af35be7b"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 3,
+      "score": 81.146889,
+      "term": "php",
+      "tf_today": 78
+    },
+    {
+      "articles": [
+        "latent-space--1b5861ef",
+        "latent-space--203bc543",
+        "latent-space--6578fb55",
+        "latent-space--c2b464cc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 77.214217,
+      "term": "launcher",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "latent-space--6578fb55",
+        "latent-space--feb79fa4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 63.175268,
+      "term": "dram",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "latent-space--203bc543",
+        "latent-space--6578fb55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 58.283246,
+      "term": "tizen",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "latent-space--6578fb55",
+        "latent-space--c2b464cc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 48.744904,
+      "term": "dflash2",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--2410dade",
+        "latent-space--6578fb55"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 44.109958,
+      "term": "php foundation",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--203bc543",
+        "latent-space--6578fb55",
+        "latent-space--feb79fa4"
+      ],
+      "avg_tf_baseline": 2.5,
+      "df_today": 3,
+      "score": 35.835189,
+      "term": "samsung",
+      "tf_today": 35
+    }
+  ],
+  "date": "2026-10-22",
+  "evidence_article_ids": [
+    "latent-space--1b5861ef",
+    "latent-space--36d90dab",
+    "latent-space--6578fb55",
+    "latent-space--c2b464cc"
+  ],
+  "judge": {
+    "input_tokens": 26821,
+    "model": "jev-1.14.0",
+    "pool_size": 53,
+    "signals": {
+      "dram": {
+        "dominance": 1.69,
+        "event": 0.8,
+        "form": 0.7,
+        "novelty": 0.76,
+        "specificity": 0.27
+      },
+      "eagle-4": {
+        "dominance": 1.95,
+        "event": 0.9,
+        "form": 0.89,
+        "novelty": 0.72,
+        "specificity": 1.99
+      },
+      "flint": {
+        "dominance": 1.62,
+        "event": 0.71,
+        "form": 0.89,
+        "novelty": 0.7,
+        "specificity": 1.96
+      },
+      "granite": {
+        "dominance": 1.9,
+        "event": 0.82,
+        "form": 0.92,
+        "novelty": 0.38,
+        "specificity": 1.94
+      },
+      "hbm": {
+        "dominance": 1.68,
+        "event": 0.44,
+        "form": 0.71,
+        "novelty": 0.79,
+        "specificity": 1.75
+      },
+      "hyperqwen": {
+        "dominance": 1.8,
+        "event": 0.7,
+        "form": 0.79,
+        "novelty": 0.68,
+        "specificity": 1.96
+      },
+      "ibm granite": {
+        "dominance": 1.94,
+        "event": 0.89,
+        "form": 0.89,
+        "novelty": 0.46,
+        "specificity": 1.99
+      },
+      "inference": {
+        "dominance": 2.47,
+        "event": 0.83,
+        "form": 0.92,
+        "novelty": 0.44,
+        "specificity": 1.9
+      },
+      "local": {
+        "dominance": 2.05,
+        "event": 0.9,
+        "form": 0.74,
+        "novelty": 0.53,
+        "specificity": 1.09
+      },
+      "models": {
+        "dominance": 2.66,
+        "event": 0.94,
+        "form": 0.72,
+        "novelty": 0.15,
+        "specificity": 1.06
+      },
+      "patch": {
+        "dominance": 2.8,
+        "event": 0.87,
+        "form": 0.78,
+        "novelty": 0.79,
+        "specificity": 0.79
+      },
+      "php foundation": {
+        "dominance": 2.21,
+        "event": 0.75,
+        "form": 0.76,
+        "novelty": 0.84,
+        "specificity": 0.03
+      },
+      "qwen": {
+        "dominance": 1.97,
+        "event": 0.78,
+        "form": 0.87,
+        "novelty": 0.72,
+        "specificity": 1.98
+      },
+      "qwen3.8": {
+        "dominance": 2.01,
+        "event": 0.74,
+        "form": 0.83,
+        "novelty": 0.76,
+        "specificity": 2.0
+      },
+      "recursive flint": {
+        "dominance": 1.72,
+        "event": 0.76,
+        "form": 0.81,
+        "novelty": 0.71,
+        "specificity": 2.0
+      },
+      "samsung": {
+        "dominance": 1.97,
+        "event": 0.78,
+        "form": 0.93,
+        "novelty": 0.81,
+        "specificity": 0.78
+      },
+      "samsung q70b": {
+        "dominance": 1.76,
+        "event": 0.4,
+        "form": 0.87,
+        "novelty": 0.68,
+        "specificity": 0.08
+      },
+      "vulnerabilities": {
+        "dominance": 2.94,
+        "event": 0.96,
+        "form": 0.83,
+        "novelty": 0.81,
+        "specificity": 0.06
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "qwen3.8",
+      "eagle-4",
+      "qwen",
+      "inference",
+      "recursive flint",
+      "flint",
+      "ibm granite",
+      "granite"
+    ]
+  },
+  "label": "qwen3.8",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://github.com/QwenLM/Qwen",
+        "https://huggingface.co/Qwen",
+        "https://arxiv.org/abs/2407.10671"
+      ],
+      "text": "Qwen3.8 refers to the Qwen 3.8 series of large language models released by Alibaba Cloud, most prominently the 27-billion-parameter variant (Qwen3.8-27B). It is an open-weight, instruction-tuned model notable for strong reasoning and coding performance at a size that fits on 24 GB consumer GPUs when quantized. The model has become a standard benchmark target for inference-optimization research — including speculative decoding (EAGLE-4), quantization pipelines, and vLLM serving stacks — because it represents the frontier of capable models deployable on single commodity accelerators."
+    },
+    "generated_at": "2026-10-22T11:52:54.390370+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "NVIDIA expanded its local AI hardware stack at GTC Berlin with RTX Spark for personal agents, DGX Spark for developers, and DGX Station for enterprise workloads, adding Model Launcher and Wi-Fi Assistant via October software updates. In inference optimization, EAGLE-4 introduced a hardware-adaptive speculative decoding drafter benchmarked on Qwen3.8-27B across 4× NVIDIA B300 GPUs, while HyperQwen demonstrated serving the same model on a single RTX 3090 (24 GB) via vLLM at 127 tok/s single-stream and ~1,035 tok/s aggregate at 64 concurrent requests. Separately, OpenAI's Patch the Planet program, using GPT-5.6 Sol, co-discovered critical PHP vulnerabilities affecting 70% of the web alongside Wiz researchers, triggering a coordinated two-month disclosure.",
+    "why": "Qwen3.8 trended because it was the focal model for two major inference-efficiency releases today: EAGLE-4's speculative decoding paper reports speedups on Qwen3.8-27B running on 4× B300 GPUs, and HyperQwen published benchmarks and a ready-to-run vLLM pipeline showing Qwen3.8-27B achieving 127 tok/s single-stream and 1,035 tok/s aggregate throughput on a single consumer RTX 3090, making a 27B open-weight model practical on commodity hardware."
+  },
+  "score": 2.37883,
+  "word": "qwen3.8"
+}

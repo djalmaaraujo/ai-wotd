@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--50eb65d2",
+  "author": "Hugging Face Blog",
+  "content_chars": 23457,
+  "content_sha256": "9d865aca2c2ade25d859a4f1d384d917babff0f291491a161ff5b4f3c6acef2c",
+  "content_tokens": 5864,
+  "fetched_at": "2026-10-22T11:47:48Z",
+  "kind": "article",
+  "published_at": "2021-03-23T00:00:00+00:00",
+  "snippet": "Look at these smiles! Today, we announce a strategic partnership between Hugging Face and Amazon to make it easier for companies to leverage State of the Art Machine Learning models, and ship cutting-edge NLP features faster. Through this partnership, Hugging Face is leveraging…",
+  "source_id": "huggingface-blog",
+  "title": "The Partnership: Amazon SageMaker and Hugging Face",
+  "top_terms": [
+    [
+      "sagemaker",
+      74
+    ],
+    [
+      "training",
+      54
+    ],
+    [
+      "dataset",
+      47
+    ],
+    [
+      "train",
+      46
+    ],
+    [
+      "face",
+      45
+    ],
+    [
+      "hugging",
+      45
+    ],
+    [
+      "hugging face",
+      45
+    ],
+    [
+      "model",
+      39
+    ],
+    [
+      "amazon",
+      36
+    ],
+    [
+      "s3",
+      28
+    ],
+    [
+      "amazon sagemaker",
+      27
+    ],
+    [
+      "huggingface",
+      25
+    ],
+    [
+      "estimator",
+      24
+    ],
+    [
+      "test",
+      23
+    ],
+    [
+      "default",
+      22
+    ],
+    [
+      "dir",
+      22
+    ],
+    [
+      "hyperparameters",
+      21
+    ],
+    [
+      "transformers",
+      21
+    ],
+    [
+      "bucket",
+      19
+    ],
+    [
+      "data",
+      19
+    ]
+  ],
+  "url": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+  "url_canonical": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+  "via_source_id": null
+}

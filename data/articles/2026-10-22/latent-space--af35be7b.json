@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--af35be7b",
+  "author": null,
+  "content_chars": 5067,
+  "content_sha256": "448813c3a75429d8cc5a0a5cf546b4261cd579b3705c1f072346286ce47bdee3",
+  "content_tokens": 1266,
+  "fetched_at": "2026-10-22T11:50:44Z",
+  "kind": "article",
+  "published_at": "2026-10-22T07:42:44+00:00",
+  "snippet": "I know, I know. It's all you're hearing about. That, and the number 4 . Don't get me wrong, there's clearly a bug here and it really does matter. But this is not easy to exploit. It is certainly nowhere near as eay as Log4Shell/Heartbleed/RoRYaml etc. EDIT: Putting this up here…",
+  "source_id": "latent-space",
+  "title": "There isn't an easy exploit for this PHP vulnerability · Elias Taylor",
+  "top_terms": [
+    [
+      "exploit",
+      14
+    ],
+    [
+      "vulnerability",
+      10
+    ],
+    [
+      "people",
+      9
+    ],
+    [
+      "php",
+      8
+    ],
+    [
+      "don't",
+      6
+    ],
+    [
+      "it's",
+      6
+    ],
+    [
+      "llms",
+      6
+    ],
+    [
+      "server",
+      6
+    ],
+    [
+      "the server",
+      5
+    ],
+    [
+      "claude",
+      4
+    ],
+    [
+      "exploits",
+      4
+    ],
+    [
+      "github",
+      4
+    ],
+    [
+      "people have",
+      4
+    ],
+    [
+      "there's",
+      4
+    ],
+    [
+      "an exploit",
+      3
+    ],
+    [
+      "bizarre",
+      3
+    ],
+    [
+      "case",
+      3
+    ],
+    [
+      "com",
+      3
+    ],
+    [
+      "decision",
+      3
+    ],
+    [
+      "easy",
+      3
+    ]
+  ],
+  "url": "https://eliastaylor.com/noexploit",
+  "url_canonical": "https://eliastaylor.com/noexploit",
+  "via_source_id": "latent-space"
+}

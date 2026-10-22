@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--5e4ae606",
+  "author": "Hugging Face Blog",
+  "content_chars": 7984,
+  "content_sha256": "a47e5e12764ba0f68ac435d479e22ce27c7694629a12e55a6f7f5810b36a47a3",
+  "content_tokens": 1996,
+  "fetched_at": "2026-10-22T11:47:44Z",
+  "kind": "article",
+  "published_at": "2026-10-07T13:21:03+00:00",
+  "snippet": "Arabic WER: 20.92% · Parameters: 1.6B · Emirati WER (TII evaluation): 22.73% We’re introducing Falcon-ASR, our 1.6 billion parameter speech recognition model for Arabic, with a particular focus on the Emirati dialect. Developed at the Technology Innovation Institute (TII) in Abu…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing Falcon ASR",
+  "top_terms": [
+    [
+      "falcon-asr",
+      20
+    ],
+    [
+      "evaluation",
+      10
+    ],
+    [
+      "wer",
+      10
+    ],
+    [
+      "arabic",
+      9
+    ],
+    [
+      "emirati",
+      9
+    ],
+    [
+      "cer",
+      6
+    ],
+    [
+      "model",
+      6
+    ],
+    [
+      "speech",
+      6
+    ],
+    [
+      "asr",
+      5
+    ],
+    [
+      "error",
+      5
+    ],
+    [
+      "leaderboard",
+      5
+    ],
+    [
+      "public",
+      5
+    ],
+    [
+      "word",
+      5
+    ],
+    [
+      "character",
+      4
+    ],
+    [
+      "english",
+      4
+    ],
+    [
+      "error rate",
+      4
+    ],
+    [
+      "face",
+      4
+    ],
+    [
+      "falcon-emirati",
+      4
+    ],
+    [
+      "falcon3-audio",
+      4
+    ],
+    [
+      "hugging",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "url_canonical": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "via_source_id": null
+}

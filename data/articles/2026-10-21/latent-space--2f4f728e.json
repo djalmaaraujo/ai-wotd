@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--2f4f728e",
+  "author": null,
+  "content_chars": 13232,
+  "content_sha256": "a8dc66806223289c385c7cfab8e64ca2d20684e8ca224d727b33a74c86e79e9f",
+  "content_tokens": 3308,
+  "fetched_at": "2026-10-22T11:50:52Z",
+  "kind": "article",
+  "published_at": "2026-10-21T13:04:19+00:00",
+  "snippet": "- Ask Claude to write it: describe what you want in a Claude Code session - Write it yourself: follow the tutorial to learn how a mod’s code works. You don’t need Node.js, a bundler, or a build step, because Claude Code loads .js and.ts files directly. Ask Claude for a mod…",
+  "source_id": "latent-space",
+  "title": "Create a mod - Claude Code Docs",
+  "top_terms": [
+    [
+      "claude",
+      63
+    ],
+    [
+      "mod",
+      59
+    ],
+    [
+      "code",
+      41
+    ],
+    [
+      "claude code",
+      30
+    ],
+    [
+      "session",
+      25
+    ],
+    [
+      "the mod",
+      23
+    ],
+    [
+      "mods",
+      20
+    ],
+    [
+      "plugin",
+      20
+    ],
+    [
+      "hooks",
+      19
+    ],
+    [
+      "directory",
+      17
+    ],
+    [
+      "hook",
+      16
+    ],
+    [
+      "runs",
+      14
+    ],
+    [
+      "tool",
+      14
+    ],
+    [
+      "calls",
+      13
+    ],
+    [
+      "call",
+      12
+    ],
+    [
+      "command",
+      12
+    ],
+    [
+      "the session",
+      12
+    ],
+    [
+      "event",
+      11
+    ],
+    [
+      "files",
+      11
+    ],
+    [
+      "load",
+      11
+    ]
+  ],
+  "url": "https://code.claude.com/docs/en/plugins/mods/create",
+  "url_canonical": "https://code.claude.com/docs/en/plugins/mods/create",
+  "via_source_id": "latent-space"
+}

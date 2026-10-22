@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e19d6532",
+  "author": "Hugging Face Blog",
+  "content_chars": 8742,
+  "content_sha256": "593696e0ae2fc87b6e37a94f39d4ad3cce6c6a663b3ef9bc11e0e224df18dcdd",
+  "content_tokens": 2185,
+  "fetched_at": "2026-10-22T11:47:44Z",
+  "kind": "article",
+  "published_at": "2026-09-28T00:00:00+00:00",
+  "snippet": "Reinforcement Learning environments give new capabilities to agentic AI systems, and they’re a great way to measure and improve performance in your agents. Therefore, Hugging Face Hub now has a special place for RL Environments. An environment gives an agent a task, responds to…",
+  "source_id": "huggingface-blog",
+  "title": "Welcome RL Environments to the hub",
+  "top_terms": [
+    [
+      "harbor",
+      20
+    ],
+    [
+      "framework",
+      19
+    ],
+    [
+      "dataset",
+      14
+    ],
+    [
+      "environment",
+      14
+    ],
+    [
+      "environments",
+      14
+    ],
+    [
+      "task",
+      13
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "run",
+      11
+    ],
+    [
+      "tasks",
+      11
+    ],
+    [
+      "agent",
+      9
+    ],
+    [
+      "reward",
+      9
+    ],
+    [
+      "hub",
+      8
+    ],
+    [
+      "repo",
+      8
+    ],
+    [
+      "rl",
+      8
+    ],
+    [
+      "result",
+      7
+    ],
+    [
+      "tag",
+      7
+    ],
+    [
+      "directories",
+      6
+    ],
+    [
+      "docker",
+      6
+    ],
+    [
+      "env",
+      6
+    ],
+    [
+      "json",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/rl-environments",
+  "url_canonical": "https://huggingface.co/blog/rl-environments",
+  "via_source_id": null
+}

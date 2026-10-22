@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--cba2e447",
+  "author": "Hugging Face Blog",
+  "content_chars": 3367,
+  "content_sha256": "43ee4cc68134688cddd0583596630b3945dda0e3a918cf66aae05252c08a03cd",
+  "content_tokens": 841,
+  "fetched_at": "2026-10-22T11:47:44Z",
+  "kind": "article",
+  "published_at": "2021-10-05T00:00:00+00:00",
+  "snippet": "It's so easy to demonstrate a Machine Learning project thanks to Gradio. In this blog post, we'll walk you through: - the recent Gradio integration that helps you demo models from the Hub seamlessly with few lines of code leveraging the Inference API. - how to use Hugging Face…",
+  "source_id": "huggingface-blog",
+  "title": "Showcase Your Projects in Spaces using Gradio",
+  "top_terms": [
+    [
+      "interface",
+      12
+    ],
+    [
+      "gradio",
+      11
+    ],
+    [
+      "description",
+      10
+    ],
+    [
+      "story",
+      10
+    ],
+    [
+      "gr",
+      9
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "spaces",
+      8
+    ],
+    [
+      "title",
+      8
+    ],
+    [
+      "examples",
+      7
+    ],
+    [
+      "huggingface",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "demo",
+      5
+    ],
+    [
+      "french",
+      5
+    ],
+    [
+      "generator",
+      5
+    ],
+    [
+      "load",
+      5
+    ],
+    [
+      "gradio as",
+      4
+    ],
+    [
+      "import",
+      4
+    ],
+    [
+      "inference",
+      4
+    ],
+    [
+      "launch",
+      4
+    ],
+    [
+      "story generator",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/blog/gradio-spaces",
+  "url_canonical": "https://huggingface.co/blog/gradio-spaces",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c9a6de88",
+  "author": null,
+  "content_chars": 6043,
+  "content_sha256": "380bbc295304a128716f722c7b78038d8e87a4bd8ed2a4d4c8be6b513a25fa40",
+  "content_tokens": 1510,
+  "fetched_at": "2026-10-22T11:50:53Z",
+  "kind": "article",
+  "published_at": "2026-10-21T13:04:19+00:00",
+  "snippet": "PR Routing & Approval PR Routing & Approval routes pull requests to the right reviewers and can approve low-risk changes. Configure PR Routing & Approval in Automations. PR Routing & Approval runs on your pull requests. It assigns reviewers based on code ownership and commit…",
+  "source_id": "latent-space",
+  "title": "PR Routing & Approval | Cursor Docs",
+  "top_terms": [
+    [
+      "approval",
+      34
+    ],
+    [
+      "pr",
+      30
+    ],
+    [
+      "agent",
+      27
+    ],
+    [
+      "the agent",
+      25
+    ],
+    [
+      "routing",
+      21
+    ],
+    [
+      "policy",
+      20
+    ],
+    [
+      "pr routing",
+      16
+    ],
+    [
+      "review",
+      15
+    ],
+    [
+      "approve",
+      12
+    ],
+    [
+      "risk",
+      12
+    ],
+    [
+      "findings",
+      9
+    ],
+    [
+      "files",
+      8
+    ],
+    [
+      "md",
+      8
+    ],
+    [
+      "runs",
+      8
+    ],
+    [
+      "team",
+      8
+    ],
+    [
+      "criteria",
+      7
+    ],
+    [
+      "file",
+      6
+    ],
+    [
+      "pull",
+      6
+    ],
+    [
+      "reviewers",
+      6
+    ],
+    [
+      "security",
+      6
+    ]
+  ],
+  "url": "https://cursor.com/docs/approval-agents",
+  "url_canonical": "https://cursor.com/docs/approval-agents",
+  "via_source_id": "latent-space"
+}

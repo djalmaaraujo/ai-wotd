@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>qwen3.8 — 2026-10-22 · AI WOTD</title>
+  <link rel="stylesheet" href="/ai-wotd/style.css">
+  <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
+</head>
+<body>
+  <header>
+    <a class="brand" href="/ai-wotd/">AI Word Of The Day</a>
+    <nav>
+      <a href="/ai-wotd/">Today</a>
+      <a href="/ai-wotd/archive/">Archive</a>
+      <a href="https://github.com/djalmaaraujo/ai-wotd">GitHub</a>
+    </nav>
+  </header>
+  <main>
+<article class="day">
+  <p class="date">2026-10-22</p>
+  <h1>qwen3.8</h1>
+
+  <p class="why">Qwen3.8 trended because it was the focal model for two major inference-efficiency releases today: EAGLE-4&#39;s speculative decoding paper reports speedups on Qwen3.8-27B running on 4× B300 GPUs, and HyperQwen published benchmarks and a ready-to-run vLLM pipeline showing Qwen3.8-27B achieving 127 tok/s single-stream and 1,035 tok/s aggregate throughput on a single consumer RTX 3090, making a 27B open-weight model practical on commodity hardware.</p>
+
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>Qwen3.8 refers to the Qwen 3.8 series of large language models released by Alibaba Cloud, most prominently the 27-billion-parameter variant (Qwen3.8-27B). It is an open-weight, instruction-tuned model notable for strong reasoning and coding performance at a size that fits on 24 GB consumer GPUs when quantized. The model has become a standard benchmark target for inference-optimization research — including speculative decoding (EAGLE-4), quantization pipelines, and vLLM serving stacks — because it represents the frontier of capable models deployable on single commodity accelerators.</p>
+    <ul class="def-refs">
+      <li><a href="https://github.com/QwenLM/Qwen" rel="noreferrer">https://github.com/QwenLM/Qwen</a></li>
+      <li><a href="https://huggingface.co/Qwen" rel="noreferrer">https://huggingface.co/Qwen</a></li>
+      <li><a href="https://arxiv.org/abs/2407.10671" rel="noreferrer">https://arxiv.org/abs/2407.10671</a></li>
+    </ul>
+  </section>
+
+  <section class="summary">
+    <h2>Today in AI</h2>
+    <p>NVIDIA expanded its local AI hardware stack at GTC Berlin with RTX Spark for personal agents, DGX Spark for developers, and DGX Station for enterprise workloads, adding Model Launcher and Wi-Fi Assistant via October software updates. In inference optimization, EAGLE-4 introduced a hardware-adaptive speculative decoding drafter benchmarked on Qwen3.8-27B across 4× NVIDIA B300 GPUs, while HyperQwen demonstrated serving the same model on a single RTX 3090 (24 GB) via vLLM at 127 tok/s single-stream and ~1,035 tok/s aggregate at 64 concurrent requests. Separately, OpenAI&#39;s Patch the Planet program, using GPT-5.6 Sol, co-discovered critical PHP vulnerabilities affecting 70% of the web alongside Wiz researchers, triggering a coordinated two-month disclosure.</p>
+  </section>
+
+  <section class="evidence">
+    <h2>Evidence (4)</h2>
+    <ul>
+      <li>
+        <a href="https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync" rel="noreferrer">Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents | NVIDIA Blog</a>
+        <span class="meta">
+          latent-space          · 2026-10-22
+        </span>
+<blockquote>At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/eagle-hq/EAGLE-4" rel="noreferrer">GitHub - eagle-hq/EAGLE-4: Official Inference Code of EAGLE-4 · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-10-22
+        </span>
+<blockquote>One Flexible Drafter for All Batch Sizes and Hardware Paper (EAGLE-4) · EAGLE-4 draft for Qwen3.8-27B · Documentation Figure 1(a) of the EAGLE-4 paper: Qwen3.8-27B on the SPEED-Bench qualitative split, 4× NVIDIA B300, one request, temperature 0. The numbers this release measured…</blockquote>      </li>
+      <li>
+        <a href="https://www.latent.space/p/ainews-openais-patch-the-planet-program" rel="noreferrer">[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</a>
+        <span class="meta">
+          latent-space · swyx &amp; Alessio          · 2026-10-22
+        </span>
+<blockquote>Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders, a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/syv-ai/HyperQwen" rel="noreferrer">GitHub - syv-ai/HyperQwen: Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s single-user (381 when the answer quotes the prompt), ~1,035 tok/s at 64 concurrent, 150k-262k context. vLLM patches, requant pipeline, benchmarks. · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-10-22
+        </span>
+<blockquote>Large Qwen models, served fast on the GPUs people actually own. One request against stock vLLM, replayed in real time from recorded token arrivals, then 64 at once. 1080p60 MP4 · how it is made Today: Qwen3.8-27B on a single 24 GB consumer GPU with vLLM — 150k token context and…</blockquote>      </li>
+    </ul>
+  </section>
+
+  <section class="candidates">
+    <h2>Candidates</h2>
+    <ol>
+      <li>flint <span class="meta">tf=33, df=3, score=166.24</span></li>
+      <li>eagle-4 <span class="meta">tf=35, df=2, score=161.26</span></li>
+      <li>the php <span class="meta">tf=31, df=2, score=138.13</span></li>
+      <li>php <span class="meta">tf=78, df=3, score=81.15</span></li>
+      <li>launcher <span class="meta">tf=17, df=4, score=77.21</span></li>
+      <li>dram <span class="meta">tf=17, df=2, score=63.18</span></li>
+      <li>tizen <span class="meta">tf=16, df=2, score=58.28</span></li>
+      <li>dflash2 <span class="meta">tf=14, df=2, score=48.74</span></li>
+      <li>php foundation <span class="meta">tf=13, df=2, score=44.11</span></li>
+      <li>samsung <span class="meta">tf=35, df=3, score=35.84</span></li>
+    </ol>
+  </section>
+
+  <section class="queried-links">
+    <details>
+      <summary>All queried links (14)</summary>
+      <ul>
+        <li>
+          <a href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1" rel="noreferrer">Ensemble forecasting with IBM Granite time-series models</a>
+          <span class="meta">
+            huggingface-blog · Hugging Face Blog          </span>
+        </li>
+        <li>
+          <a href="https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync" rel="noreferrer">Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents | NVIDIA Blog</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/NelsonEU/arn0-tv" rel="noreferrer">GitHub - NelsonEU/arn0-tv: A custom home screen for a Samsung Q70B (Tizen 6.5) · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security" rel="noreferrer">Today&#39;s PHP Security Release, and How We&#39;re Strengthening PHP Security — The PHP Foundation — Supporting, Advancing, and Developing the PHP Language</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/eagle-hq/EAGLE-4" rel="noreferrer">GitHub - eagle-hq/EAGLE-4: Official Inference Code of EAGLE-4 · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://www.latent.space/p/ainews-openais-patch-the-planet-program" rel="noreferrer">[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</a>
+          <span class="meta">
+            latent-space · swyx &amp; Alessio          </span>
+        </li>
+        <li>
+          <a href="https://kyutai.org/blog/2026-10-20-pocket-tts-small" rel="noreferrer">The tiny TTS was actually 10x too big</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://arxiv.org/pdf/2608.20530" rel="noreferrer">https://arxiv.org/pdf/2608.20530</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://eliastaylor.com/noexploit" rel="noreferrer">There isn&#39;t an easy exploit for this PHP vulnerability · Elias Taylor</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/syv-ai/HyperQwen" rel="noreferrer">GitHub - syv-ai/HyperQwen: Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s single-user (381 when the answer quotes the prompt), ~1,035 tok/s at 64 concurrent, 150k-262k context. vLLM patches, requant pipeline, benchmarks. · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/RecursiveSI/flint" rel="noreferrer">RecursiveSI/flint · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://m.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php" rel="noreferrer">Samsung signs huge DRAM and HBM contracts - GSMArena.com news</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind" rel="noreferrer">AI’s hidden storage bill: What inference leaves behind</a>
+          <span class="meta">
+            mit-tech-review-ai · Tim Rausch          </span>
+        </li>
+        <li>
+          <a href="https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai" rel="noreferrer">Making the case for context-aware AI</a>
+          <span class="meta">
+            mit-tech-review-ai · MIT Technology Review Insights          </span>
+        </li>
+      </ul>
+    </details>
+  </section>
+
+  <nav class="pager">
+<a href="/ai-wotd/d/2026-10-21/">← 2026-10-21</a>  </nav>
+</article>
+  </main>
+  <footer>
+    <p>Updated 2026-10-22T11:52:56+00:00. Built from public RSS, newsletters, and X.
+    Short attributed snippets shown under fair use; full text is never
+    redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
+  </footer>
+</body>
+</html>

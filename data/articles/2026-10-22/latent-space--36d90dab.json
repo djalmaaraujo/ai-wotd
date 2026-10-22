@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--36d90dab",
+  "author": null,
+  "content_chars": 6892,
+  "content_sha256": "ecfc096363516bbd13b9a39896a9db3b2dc8570330ba245332b8ee351409b151",
+  "content_tokens": 1723,
+  "fetched_at": "2026-10-22T11:50:45Z",
+  "kind": "article",
+  "published_at": "2026-10-22T07:42:44+00:00",
+  "snippet": "One Flexible Drafter for All Batch Sizes and Hardware Paper (EAGLE-4) · EAGLE-4 draft for Qwen3.8-27B · Documentation Figure 1(a) of the EAGLE-4 paper: Qwen3.8-27B on the SPEED-Bench qualitative split, 4× NVIDIA B300, one request, temperature 0. The numbers this release measured…",
+  "source_id": "latent-space",
+  "title": "GitHub - eagle-hq/EAGLE-4: Official Inference Code of EAGLE-4 · GitHub",
+  "top_terms": [
+    [
+      "eagle-4",
+      26
+    ],
+    [
+      "eagle",
+      11
+    ],
+    [
+      "qwen3.8",
+      10
+    ],
+    [
+      "sglang",
+      10
+    ],
+    [
+      "measured",
+      9
+    ],
+    [
+      "license",
+      8
+    ],
+    [
+      "commercial",
+      7
+    ],
+    [
+      "tokenspeed",
+      7
+    ],
+    [
+      "amd",
+      6
+    ],
+    [
+      "b300",
+      6
+    ],
+    [
+      "engine",
+      6
+    ],
+    [
+      "contribution",
+      5
+    ],
+    [
+      "draft",
+      5
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "request",
+      5
+    ],
+    [
+      "vllm",
+      5
+    ],
+    [
+      "batch",
+      4
+    ],
+    [
+      "contributors",
+      4
+    ],
+    [
+      "eagle-4 draft",
+      4
+    ],
+    [
+      "eagle-4 pr",
+      4
+    ]
+  ],
+  "url": "https://github.com/eagle-hq/EAGLE-4",
+  "url_canonical": "https://github.com/eagle-hq/EAGLE-4",
+  "via_source_id": "latent-space"
+}

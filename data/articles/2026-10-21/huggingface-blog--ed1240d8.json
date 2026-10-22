@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--ed1240d8",
+  "author": "Hugging Face Blog",
+  "content_chars": 13983,
+  "content_sha256": "96bd889784f85731f65ecd3ceb37a39308e724a57187d3a18610980438255f1f",
+  "content_tokens": 3495,
+  "fetched_at": "2026-10-22T11:47:42Z",
+  "kind": "article",
+  "published_at": "2026-10-21T18:26:30+00:00",
+  "snippet": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required NVIDIA Kumo Relational is a pre-trained relational foundation model that makes predictions directly on enterprise databases. Given a predictive query, it gathers up to 10,000…",
+  "source_id": "huggingface-blog",
+  "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+  "top_terms": [
+    [
+      "relational",
+      51
+    ],
+    [
+      "kumo",
+      33
+    ],
+    [
+      "kumo relational",
+      28
+    ],
+    [
+      "model",
+      25
+    ],
+    [
+      "data",
+      20
+    ],
+    [
+      "context",
+      19
+    ],
+    [
+      "tables",
+      19
+    ],
+    [
+      "nvidia",
+      16
+    ],
+    [
+      "models",
+      14
+    ],
+    [
+      "query",
+      13
+    ],
+    [
+      "across",
+      12
+    ],
+    [
+      "databases",
+      12
+    ],
+    [
+      "examples",
+      11
+    ],
+    [
+      "foundation",
+      11
+    ],
+    [
+      "predictive",
+      11
+    ],
+    [
+      "https",
+      10
+    ],
+    [
+      "client",
+      9
+    ],
+    [
+      "paper",
+      8
+    ],
+    [
+      "prediction",
+      8
+    ],
+    [
+      "tasks",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "url_canonical": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "via_source_id": null
+}

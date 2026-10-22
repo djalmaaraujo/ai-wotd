@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1e8db79e",
+  "author": "Hugging Face Blog",
+  "content_chars": 13237,
+  "content_sha256": "2f55d94ea7e5393c5dabec4a09e3dc9b7285c778012a7a71b92b5491459ad641",
+  "content_tokens": 3309,
+  "fetched_at": "2026-10-22T11:47:42Z",
+  "kind": "article",
+  "published_at": "2026-10-21T17:35:36+00:00",
+  "snippet": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications. In an essay grader we run in production, that vocabulary split the text the model writes most into…",
+  "source_id": "huggingface-blog",
+  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+  "top_terms": [
+    [
+      "model",
+      26
+    ],
+    [
+      "token",
+      24
+    ],
+    [
+      "vocabulary",
+      24
+    ],
+    [
+      "every",
+      17
+    ],
+    [
+      "cost",
+      15
+    ],
+    [
+      "tokens",
+      14
+    ],
+    [
+      "grader",
+      12
+    ],
+    [
+      "the model",
+      12
+    ],
+    [
+      "vocabx",
+      11
+    ],
+    [
+      "single",
+      10
+    ],
+    [
+      "domain",
+      9
+    ],
+    [
+      "models",
+      9
+    ],
+    [
+      "sample",
+      9
+    ],
+    [
+      "the grader",
+      9
+    ],
+    [
+      "response",
+      8
+    ],
+    [
+      "the vocabulary",
+      8
+    ],
+    [
+      "already",
+      7
+    ],
+    [
+      "layer",
+      7
+    ],
+    [
+      "never",
+      7
+    ],
+    [
+      "text",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+  "url_canonical": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+  "via_source_id": null
+}

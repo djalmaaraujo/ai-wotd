@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--2410dade",
+  "author": null,
+  "content_chars": 9938,
+  "content_sha256": "d5c18ce2a3eb142eb9fc12317879de222a9e914a3bf76944f9cfb47e97d2dc3c",
+  "content_tokens": 2484,
+  "fetched_at": "2026-10-22T11:50:44Z",
+  "kind": "article",
+  "published_at": "2026-10-22T07:42:44+00:00",
+  "snippet": "Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you…",
+  "source_id": "latent-space",
+  "title": "Today's PHP Security Release, and How We're Strengthening PHP Security — The PHP Foundation — Supporting, Advancing, and Developing the PHP Language",
+  "top_terms": [
+    [
+      "php",
+      51
+    ],
+    [
+      "security",
+      30
+    ],
+    [
+      "the php",
+      27
+    ],
+    [
+      "team",
+      19
+    ],
+    [
+      "foundation",
+      15
+    ],
+    [
+      "php security",
+      15
+    ],
+    [
+      "security team",
+      14
+    ],
+    [
+      "work",
+      12
+    ],
+    [
+      "fix",
+      11
+    ],
+    [
+      "php foundation",
+      11
+    ],
+    [
+      "release",
+      11
+    ],
+    [
+      "php security team",
+      10
+    ],
+    [
+      "the php foundation",
+      10
+    ],
+    [
+      "the php security",
+      10
+    ],
+    [
+      "reports",
+      9
+    ],
+    [
+      "vulnerabilities",
+      9
+    ],
+    [
+      "oom",
+      7
+    ],
+    [
+      "problem",
+      7
+    ],
+    [
+      "th",
+      7
+    ],
+    [
+      "the oom",
+      7
+    ]
+  ],
+  "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
+  "url_canonical": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security",
+  "via_source_id": "latent-space"
+}

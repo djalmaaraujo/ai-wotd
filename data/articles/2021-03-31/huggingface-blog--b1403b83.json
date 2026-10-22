@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b1403b83",
+  "author": "Hugging Face Blog",
+  "content_chars": 22806,
+  "content_sha256": "cc309c7e481bb0c220f30f894920d16a6a5177c1b0628e60362eaf6ab38f38ab",
+  "content_tokens": 5701,
+  "fetched_at": "2026-10-22T11:47:48Z",
+  "kind": "article",
+  "published_at": "2021-03-31T00:00:00+00:00",
+  "snippet": "Transformer-based models have shown to be very useful for many NLP tasks. However, a major limitation of transformers-based models is its time & memory complexity (where is sequence length). Hence, it's computationally very expensive to apply transformer-based models on long…",
+  "source_id": "huggingface-blog",
+  "title": "Understanding BigBird's Block Sparse Attention",
+  "top_terms": [
+    [
+      "tokens",
+      100
+    ],
+    [
+      "attention",
+      81
+    ],
+    [
+      "block",
+      51
+    ],
+    [
+      "token",
+      38
+    ],
+    [
+      "random",
+      36
+    ],
+    [
+      "bigbird",
+      31
+    ],
+    [
+      "global",
+      31
+    ],
+    [
+      "model",
+      30
+    ],
+    [
+      "size",
+      24
+    ],
+    [
+      "sliding",
+      24
+    ],
+    [
+      "blocks",
+      20
+    ],
+    [
+      "let's",
+      20
+    ],
+    [
+      "sequence",
+      20
+    ],
+    [
+      "sparse",
+      19
+    ],
+    [
+      "attend",
+      16
+    ],
+    [
+      "bert",
+      16
+    ],
+    [
+      "full",
+      16
+    ],
+    [
+      "complexity",
+      15
+    ],
+    [
+      "sparse attention",
+      14
+    ],
+    [
+      "block sparse",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/big-bird",
+  "url_canonical": "https://huggingface.co/blog/big-bird",
+  "via_source_id": null
+}

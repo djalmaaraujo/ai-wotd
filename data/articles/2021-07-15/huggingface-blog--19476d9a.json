@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--19476d9a",
+  "author": "Hugging Face Blog",
+  "content_chars": 19232,
+  "content_sha256": "9fdea7dc7879f6f812fbdb4d0715abd7212e4e6b1a8bec834f6246a4a657f500",
+  "content_tokens": 4808,
+  "fetched_at": "2026-10-22T11:47:45Z",
+  "kind": "article",
+  "published_at": "2021-07-15T00:00:00+00:00",
+  "snippet": "Modern language models often require a significant amount of compute for pretraining, making it impossible to obtain them without access to tens and hundreds of GPUs or TPUs. Though in theory it might be possible to combine the resources of multiple individuals, in practice…",
+  "source_id": "huggingface-blog",
+  "title": "Deep Learning over the Internet: Training Language Models Collaboratively",
+  "top_terms": [
+    [
+      "training",
+      33
+    ],
+    [
+      "model",
+      27
+    ],
+    [
+      "language",
+      18
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "text",
+      14
+    ],
+    [
+      "dataset",
+      13
+    ],
+    [
+      "tokenizer",
+      13
+    ],
+    [
+      "bengali",
+      12
+    ],
+    [
+      "distributed",
+      12
+    ],
+    [
+      "participants",
+      12
+    ],
+    [
+      "sahajbert",
+      12
+    ],
+    [
+      "experiment",
+      11
+    ],
+    [
+      "neuropark",
+      11
+    ],
+    [
+      "pretrained",
+      11
+    ],
+    [
+      "example",
+      10
+    ],
+    [
+      "data",
+      9
+    ],
+    [
+      "peers",
+      8
+    ],
+    [
+      "volunteers",
+      8
+    ],
+    [
+      "collaborative",
+      7
+    ],
+    [
+      "join",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/collaborative-training",
+  "url_canonical": "https://huggingface.co/blog/collaborative-training",
+  "via_source_id": null
+}

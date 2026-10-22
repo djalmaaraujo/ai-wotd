@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fe9635df",
+  "author": "Hugging Face Blog",
+  "content_chars": 11296,
+  "content_sha256": "39a88afe2bdd071101acf03dc678dbba68d00d928a96ee41c9d994becb9848f2",
+  "content_tokens": 2824,
+  "fetched_at": "2026-10-22T11:47:42Z",
+  "kind": "article",
+  "published_at": "2026-10-22T07:51:31+00:00",
+  "snippet": "Four open Granite models, one extensible forecasting interface, and less guesswork about which model to use. Pre-trained time-series models can forecast without training on your dataset, but you still have to choose one. A model that handles smooth industrial signals well may…",
+  "source_id": "huggingface-blog",
+  "title": "Ensemble forecasting with IBM Granite time-series models",
+  "top_terms": [
+    [
+      "ensemble",
+      35
+    ],
+    [
+      "granite",
+      22
+    ],
+    [
+      "forecast",
+      19
+    ],
+    [
+      "forecasts",
+      16
+    ],
+    [
+      "member",
+      16
+    ],
+    [
+      "recipe",
+      14
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "rank",
+      12
+    ],
+    [
+      "default",
+      10
+    ],
+    [
+      "four",
+      10
+    ],
+    [
+      "mase",
+      10
+    ],
+    [
+      "probabilistic",
+      10
+    ],
+    [
+      "iqr",
+      9
+    ],
+    [
+      "quantile",
+      9
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "point",
+      8
+    ],
+    [
+      "probabilistic ensemble",
+      8
+    ],
+    [
+      "systems",
+      8
+    ],
+    [
+      "weights",
+      8
+    ],
+    [
+      "gift-eval",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "url_canonical": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "via_source_id": null
+}

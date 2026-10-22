@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1b5861ef",
+  "author": null,
+  "content_chars": 11528,
+  "content_sha256": "86b1e683d9f7d1323d75fb17f21df6bb6deced1933a987187d7ad1e8f02163f5",
+  "content_tokens": 2882,
+  "fetched_at": "2026-10-22T11:50:47Z",
+  "kind": "article",
+  "published_at": "2026-10-22T07:42:44+00:00",
+  "snippet": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running…",
+  "source_id": "latent-space",
+  "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents | NVIDIA Blog",
+  "top_terms": [
+    [
+      "dgx",
+      44
+    ],
+    [
+      "spark",
+      36
+    ],
+    [
+      "nvidia",
+      32
+    ],
+    [
+      "rtx",
+      23
+    ],
+    [
+      "dgx station",
+      22
+    ],
+    [
+      "local",
+      22
+    ],
+    [
+      "station",
+      22
+    ],
+    [
+      "dgx spark",
+      21
+    ],
+    [
+      "model",
+      21
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "rtx spark",
+      14
+    ],
+    [
+      "agents",
+      13
+    ],
+    [
+      "developers",
+      12
+    ],
+    [
+      "run",
+      12
+    ],
+    [
+      "systems",
+      12
+    ],
+    [
+      "gb",
+      10
+    ],
+    [
+      "available",
+      8
+    ],
+    [
+      "local ai",
+      8
+    ],
+    [
+      "open",
+      8
+    ],
+    [
+      "access",
+      7
+    ]
+  ],
+  "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+  "url_canonical": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+  "via_source_id": "latent-space"
+}

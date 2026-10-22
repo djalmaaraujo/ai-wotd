@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8155421b",
+  "author": "Hugging Face Blog",
+  "content_chars": 7140,
+  "content_sha256": "87d357110524a0e0fc8e0624af870e296b627cb7fae0d791d97d13ba4dcc93bd",
+  "content_tokens": 1785,
+  "fetched_at": "2026-10-22T11:47:45Z",
+  "kind": "article",
+  "published_at": "2021-09-14T00:00:00+00:00",
+  "snippet": "This post is the first step of a journey for Hugging Face to democratize state-of-the-art Machine Learning production performance. To get there, we will work hand in hand with our Hardware Partners, as we have with Intel below. Join us in this journey, and follow Optimum, our…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
+  "top_terms": [
+    [
+      "model",
+      18
+    ],
+    [
+      "hardware",
+      17
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "optimum",
+      11
+    ],
+    [
+      "quantization",
+      11
+    ],
+    [
+      "learning",
+      9
+    ],
+    [
+      "machine",
+      9
+    ],
+    [
+      "machine learning",
+      9
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "work",
+      8
+    ],
+    [
+      "acceleration",
+      7
+    ],
+    [
+      "the model",
+      7
+    ],
+    [
+      "transformers",
+      7
+    ],
+    [
+      "library",
+      6
+    ],
+    [
+      "production",
+      6
+    ],
+    [
+      "us",
+      6
+    ],
+    [
+      "easy",
+      5
+    ],
+    [
+      "engineers",
+      5
+    ],
+    [
+      "hardware partners",
+      5
+    ],
+    [
+      "partners",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/hardware-partners-program",
+  "url_canonical": "https://huggingface.co/blog/hardware-partners-program",
+  "via_source_id": null
+}

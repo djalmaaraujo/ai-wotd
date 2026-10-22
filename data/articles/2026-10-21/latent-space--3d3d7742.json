@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3d3d7742",
+  "author": null,
+  "content_chars": 10660,
+  "content_sha256": "23a96a1a63eec030574428452d6953efd093655c4f7fd2fc075c56fd3e156647",
+  "content_tokens": 2665,
+  "fetched_at": "2026-10-22T11:50:51Z",
+  "kind": "article",
+  "published_at": "2026-10-21T13:04:19+00:00",
+  "snippet": "What a mod can do Settings hooks, skills, status lines, and MCP servers work from outside Claude Code: each one runs a script, or gives Claude text or tools. A mod runs inside Claude Code, so it can do things they can’t:- Draw an interface you can use: a pane beside the…",
+  "source_id": "latent-space",
+  "title": "Mods overview - Claude Code Docs",
+  "top_terms": [
+    [
+      "mod",
+      52
+    ],
+    [
+      "claude",
+      50
+    ],
+    [
+      "code",
+      42
+    ],
+    [
+      "mods",
+      38
+    ],
+    [
+      "claude code",
+      33
+    ],
+    [
+      "plugin",
+      22
+    ],
+    [
+      "tool",
+      20
+    ],
+    [
+      "hooks",
+      15
+    ],
+    [
+      "run",
+      15
+    ],
+    [
+      "session",
+      15
+    ],
+    [
+      "call",
+      14
+    ],
+    [
+      "hook",
+      12
+    ],
+    [
+      "calls",
+      11
+    ],
+    [
+      "install",
+      11
+    ],
+    [
+      "settings",
+      11
+    ],
+    [
+      "prompt",
+      10
+    ],
+    [
+      "runs",
+      10
+    ],
+    [
+      "shows",
+      9
+    ],
+    [
+      "spinner",
+      8
+    ],
+    [
+      "command",
+      7
+    ]
+  ],
+  "url": "https://code.claude.com/docs/en/plugins/mods/overview",
+  "url_canonical": "https://code.claude.com/docs/en/plugins/mods/overview",
+  "via_source_id": "latent-space"
+}

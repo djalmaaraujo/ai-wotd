@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a43e8f05",
+  "author": "Hugging Face Blog",
+  "content_chars": 12197,
+  "content_sha256": "42d51c137bafd1c443d13db429f8ef6830c24c94d59d07e9e71d8c3fb31eb9aa",
+  "content_tokens": 3049,
+  "fetched_at": "2026-10-22T11:47:42Z",
+  "kind": "article",
+  "published_at": "2026-10-21T16:04:43+00:00",
+  "snippet": "Many ML practitioners have some intuition about how to make models run fast, but fewer know how to analyze why a model is slow. In Part 1 of this series, you will learn how to systematically analyze inference performance and identify where the time is spent. This post starts…",
+  "source_id": "huggingface-blog",
+  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+  "top_terms": [
+    [
+      "neuron",
+      45
+    ],
+    [
+      "device",
+      30
+    ],
+    [
+      "torch",
+      27
+    ],
+    [
+      "aten",
+      17
+    ],
+    [
+      "operation",
+      16
+    ],
+    [
+      "operations",
+      15
+    ],
+    [
+      "rms",
+      15
+    ],
+    [
+      "trace",
+      15
+    ],
+    [
+      "profile",
+      14
+    ],
+    [
+      "hardware",
+      13
+    ],
+    [
+      "self",
+      13
+    ],
+    [
+      "framework",
+      12
+    ],
+    [
+      "mean",
+      12
+    ],
+    [
+      "runtime",
+      12
+    ],
+    [
+      "key",
+      11
+    ],
+    [
+      "sq",
+      11
+    ],
+    [
+      "table",
+      11
+    ],
+    [
+      "averages",
+      10
+    ],
+    [
+      "dispatch",
+      10
+    ],
+    [
+      "norm",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+  "url_canonical": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+  "via_source_id": null
+}

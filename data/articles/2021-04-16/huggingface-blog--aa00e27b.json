@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--aa00e27b",
+  "author": "Hugging Face Blog",
+  "content_chars": 9419,
+  "content_sha256": "38d4ce581fe286be04485212c5577b613472ab9e0accd3d627810398c135efc4",
+  "content_tokens": 2354,
+  "fetched_at": "2026-10-22T11:47:47Z",
+  "kind": "article",
+  "published_at": "2021-04-16T00:00:00+00:00",
+  "snippet": "Run your raw PyTorch training scripts on any kind of device. Most high-level libraries above PyTorch provide support for distributed training and mixed precision, but the abstraction they introduce require a user to learn a new API if they want to customize the underlying…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing 🤗 Accelerate",
+  "top_terms": [
+    [
+      "model",
+      27
+    ],
+    [
+      "torch",
+      25
+    ],
+    [
+      "device",
+      22
+    ],
+    [
+      "training",
+      22
+    ],
+    [
+      "accelerator",
+      21
+    ],
+    [
+      "data",
+      20
+    ],
+    [
+      "dataset",
+      17
+    ],
+    [
+      "accelerate",
+      15
+    ],
+    [
+      "dataloader",
+      15
+    ],
+    [
+      "targets",
+      15
+    ],
+    [
+      "import",
+      14
+    ],
+    [
+      "source",
+      14
+    ],
+    [
+      "optim",
+      13
+    ],
+    [
+      "distributed",
+      11
+    ],
+    [
+      "run",
+      11
+    ],
+    [
+      "predictions",
+      10
+    ],
+    [
+      "script",
+      10
+    ],
+    [
+      "labels",
+      9
+    ],
+    [
+      "loss",
+      9
+    ],
+    [
+      "nn",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/accelerate-library",
+  "url_canonical": "https://huggingface.co/blog/accelerate-library",
+  "via_source_id": null
+}

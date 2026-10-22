@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c1551686",
+  "author": "Hugging Face Blog",
+  "content_chars": 24766,
+  "content_sha256": "e70900352c60047e45a3cb1071c13e58ec0553aca8ce87b60c3eb44c09e353fa",
+  "content_tokens": 6191,
+  "fetched_at": "2026-10-22T11:47:46Z",
+  "kind": "article",
+  "published_at": "2021-04-20T00:00:00+00:00",
+  "snippet": "Back in October 2019, my colleague Lysandre Debut published a comprehensive (at the time) inference performance benchmarking blog (1). Since then, 🤗 transformers (2) welcomed a tremendous number of new architectures and thousands of new models were added to the 🤗 hub (3) which…",
+  "source_id": "huggingface-blog",
+  "title": "Scaling-up BERT Inference on CPU (Part 1)",
+  "top_terms": [
+    [
+      "cores",
+      53
+    ],
+    [
+      "model",
+      33
+    ],
+    [
+      "cpu",
+      31
+    ],
+    [
+      "instances",
+      26
+    ],
+    [
+      "batch",
+      24
+    ],
+    [
+      "pytorch",
+      24
+    ],
+    [
+      "size",
+      23
+    ],
+    [
+      "memory",
+      21
+    ],
+    [
+      "backend",
+      20
+    ],
+    [
+      "latency",
+      20
+    ],
+    [
+      "threads",
+      20
+    ],
+    [
+      "inference",
+      19
+    ],
+    [
+      "core",
+      18
+    ],
+    [
+      "thread",
+      18
+    ],
+    [
+      "hardware",
+      17
+    ],
+    [
+      "sequence",
+      17
+    ],
+    [
+      "socket",
+      17
+    ],
+    [
+      "numa",
+      16
+    ],
+    [
+      "instance",
+      15
+    ],
+    [
+      "length",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+  "url_canonical": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+  "via_source_id": null
+}
