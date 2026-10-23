@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--af8039fe",
+  "author": null,
+  "content_chars": 3716,
+  "content_sha256": "8a30c16e9aa45b77825aa5fb70e4df98931bfccd8f00934aa67a8b1ebf8adb91",
+  "content_tokens": 929,
+  "fetched_at": "2026-10-23T11:37:51Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "What is cve.now? A free, public vulnerability feed. It merges the CVE List, GitHub Advisory Database, OSV, NVD, ENISA EUVD, CISA KEV, EPSS and Exploit-DB into one entry per vulnerability, with a short plain-English summary. You can read it as RSS, Atom or JSON Feed, query it as…",
+  "source_id": "latent-space",
+  "title": "cve.now: a free CVE feed for agents",
+  "top_terms": [
+    [
+      "cve",
+      17
+    ],
+    [
+      "feed",
+      10
+    ],
+    [
+      "api",
+      7
+    ],
+    [
+      "list",
+      7
+    ],
+    [
+      "vulnerability",
+      7
+    ],
+    [
+      "entries",
+      6
+    ],
+    [
+      "entry",
+      6
+    ],
+    [
+      "data",
+      5
+    ],
+    [
+      "epss",
+      5
+    ],
+    [
+      "kev",
+      5
+    ],
+    [
+      "osv",
+      5
+    ],
+    [
+      "stack",
+      5
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "critical",
+      4
+    ],
+    [
+      "cve list",
+      4
+    ],
+    [
+      "free",
+      4
+    ],
+    [
+      "github",
+      4
+    ],
+    [
+      "id",
+      4
+    ],
+    [
+      "json",
+      4
+    ],
+    [
+      "mcp",
+      4
+    ]
+  ],
+  "url": "https://cve.now/",
+  "url_canonical": "https://cve.now/",
+  "via_source_id": "latent-space"
+}

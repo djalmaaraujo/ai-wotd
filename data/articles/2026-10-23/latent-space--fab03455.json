@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--fab03455",
+  "author": null,
+  "content_chars": 2310,
+  "content_sha256": "2766bc10e765e00466312b682c549fdcc447956069c4e1d7eb52f22cec0d6cce",
+  "content_tokens": 577,
+  "fetched_at": "2026-10-23T11:37:56Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "Conversation | Related Flint bug report: #31000. With Flint NVFP4 on b11823 and OpenCode 2.1.2, some turns contain literal tool-call XML only in reasoning and end with | docs/models/flint covers: - README: architecture, acquisition, usage, the quantizations the kernels accept…",
+  "source_id": "latent-space",
+  "title": "models: Add Flint model (FlintForCausalLM) by alexey-rsi · Pull Request #30928 · ggml-org/llama.cpp · GitHub",
+  "top_terms": [
+    [
+      "flint",
+      10
+    ],
+    [
+      "llama",
+      8
+    ],
+    [
+      "vs",
+      8
+    ],
+    [
+      "cpp",
+      7
+    ],
+    [
+      "ggml-org",
+      4
+    ],
+    [
+      "architecture",
+      3
+    ],
+    [
+      "docs",
+      3
+    ],
+    [
+      "implementation",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "support",
+      3
+    ],
+    [
+      "tok",
+      3
+    ],
+    [
+      "benchmarks",
+      2
+    ],
+    [
+      "build",
+      2
+    ],
+    [
+      "engine",
+      2
+    ],
+    [
+      "flint support",
+      2
+    ],
+    [
+      "implementation to",
+      2
+    ],
+    [
+      "kernel",
+      2
+    ],
+    [
+      "md",
+      2
+    ],
+    [
+      "memory",
+      2
+    ],
+    [
+      "models",
+      2
+    ]
+  ],
+  "url": "https://github.com/ggml-org/llama.cpp/pull/30928",
+  "url_canonical": "https://github.com/ggml-org/llama.cpp/pull/30928",
+  "via_source_id": "latent-space"
+}

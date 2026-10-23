@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c1254d78",
+  "author": null,
+  "content_chars": 10981,
+  "content_sha256": "fe4fcb4cd296981ae7a2d1a9a9d94281c4de80cf06f44cf5a3f268b2945d7589",
+  "content_tokens": 2745,
+  "fetched_at": "2026-10-23T11:37:53Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "Expand file tree / Copy pathkitten_tts2.json More file actions 505 lines (505 loc) · 12.3 KB 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65…",
+  "source_id": "latent-space",
+  "title": "audio.cpp/model_specs/kitten_tts2.json at main · 0xShug0/audio.cpp · GitHub",
+  "top_terms": [
+    [
+      "false",
+      21
+    ],
+    [
+      "model",
+      21
+    ],
+    [
+      "name",
+      21
+    ],
+    [
+      "default",
+      19
+    ],
+    [
+      "gguf",
+      19
+    ],
+    [
+      "kitten",
+      17
+    ],
+    [
+      "description",
+      15
+    ],
+    [
+      "json",
+      15
+    ],
+    [
+      "required",
+      15
+    ],
+    [
+      "type",
+      15
+    ],
+    [
+      "config",
+      12
+    ],
+    [
+      "tts",
+      11
+    ],
+    [
+      "tts2",
+      11
+    ],
+    [
+      "license",
+      9
+    ],
+    [
+      "lm",
+      9
+    ],
+    [
+      "min",
+      9
+    ],
+    [
+      "native",
+      8
+    ],
+    [
+      "q8",
+      8
+    ],
+    [
+      "speaker",
+      8
+    ],
+    [
+      "tokenizer",
+      8
+    ]
+  ],
+  "url": "https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json",
+  "url_canonical": "https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json",
+  "via_source_id": "latent-space"
+}

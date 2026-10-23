@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--6afe97e5",
+  "author": null,
+  "content_chars": 10675,
+  "content_sha256": "6a6a08575b29511bf891693143d51a8ddb2dcbdf8e9627c86fe81e4a5e84ef64",
+  "content_tokens": 2668,
+  "fetched_at": "2026-10-23T11:38:01Z",
+  "kind": "article",
+  "published_at": "2026-10-22T17:40:57+00:00",
+  "snippet": "At Modal, we build sandboxes, among other things. Agents run in sandboxes, and agents are eating software. Today, Modal runs millions of sandboxes per day, supports up to fifty thousand concurrent sandboxes per customer, and supports a variety of use cases at scale, from…",
+  "source_id": "latent-space",
+  "title": "Scaling to 1 million concurrent sandboxes in seconds",
+  "top_terms": [
+    [
+      "sandboxes",
+      30
+    ],
+    [
+      "sandbox",
+      28
+    ],
+    [
+      "scheduling",
+      23
+    ],
+    [
+      "scale",
+      17
+    ],
+    [
+      "system",
+      12
+    ],
+    [
+      "creation",
+      11
+    ],
+    [
+      "run",
+      11
+    ],
+    [
+      "container",
+      9
+    ],
+    [
+      "nodes",
+      9
+    ],
+    [
+      "of sandboxes",
+      9
+    ],
+    [
+      "path",
+      9
+    ],
+    [
+      "create",
+      8
+    ],
+    [
+      "workers",
+      8
+    ],
+    [
+      "high",
+      7
+    ],
+    [
+      "new system",
+      7
+    ],
+    [
+      "sandbox creation",
+      7
+    ],
+    [
+      "worker",
+      7
+    ],
+    [
+      "agents",
+      6
+    ],
+    [
+      "kubernetes",
+      6
+    ],
+    [
+      "load",
+      6
+    ]
+  ],
+  "url": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+  "url_canonical": "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds",
+  "via_source_id": "latent-space"
+}

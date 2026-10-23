@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--f91afe7f",
+  "author": null,
+  "content_chars": 6169,
+  "content_sha256": "d25fbea5cb5eab292492c101c9a3a8bed73f7654fc5e3671439a18d18c019fc4",
+  "content_tokens": 1542,
+  "fetched_at": "2026-10-23T11:37:53Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "Powered by Stellon Labs. Self-contained multilingual GGUF exports of KittenML/kitten-tts-2 weights at revision f2eee74f4467855ad58fe16f1fb7b7df473263fd . Each file includes an S3 MeanFlow decoder, speaker encoders, tokenizer, and all 48 prepared voice entries. Use an audio.cpp…",
+  "source_id": "latent-space",
+  "title": "dignome/kitten_tts2 · Hugging Face",
+  "top_terms": [
+    [
+      "gguf",
+      15
+    ],
+    [
+      "decoder",
+      13
+    ],
+    [
+      "q8",
+      11
+    ],
+    [
+      "tq2",
+      10
+    ],
+    [
+      "cpu",
+      9
+    ],
+    [
+      "default",
+      9
+    ],
+    [
+      "q4",
+      9
+    ],
+    [
+      "student",
+      9
+    ],
+    [
+      "w8",
+      9
+    ],
+    [
+      "bf16",
+      8
+    ],
+    [
+      "kitten",
+      8
+    ],
+    [
+      "bytes",
+      7
+    ],
+    [
+      "models",
+      7
+    ],
+    [
+      "package",
+      7
+    ],
+    [
+      "w4",
+      7
+    ],
+    [
+      "kitten-tts2-tq2",
+      6
+    ],
+    [
+      "nvfp4",
+      6
+    ],
+    [
+      "cloning",
+      5
+    ],
+    [
+      "cuda",
+      5
+    ],
+    [
+      "embedding",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/dignome/kitten_tts2",
+  "url_canonical": "https://huggingface.co/dignome/kitten_tts2",
+  "via_source_id": "latent-space"
+}

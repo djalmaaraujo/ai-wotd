@@ -1,0 +1,98 @@
+{
+  "article_id": "microsoft-research--4b5f8db8",
+  "author": "Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
+  "content_chars": 6659,
+  "content_sha256": "af00d2d3774b449bb0eb079b4488a1eb0a9923f0e540eaaeec7d59e156d8978f",
+  "content_tokens": 1664,
+  "fetched_at": "2026-10-23T11:37:42Z",
+  "kind": "article",
+  "published_at": "2026-10-22T16:00:00+00:00",
+  "snippet": "At a glance - Brings rich interactivity to AI-generated charts: Flint-interactive enables agents to create data visualizations that users can explore directly through clicking, filtering, zooming, highlighting, and cross-chart interactions. - Makes complex interactions easier to…",
+  "source_id": "microsoft-research",
+  "title": "Flint-interactive: A language for creating interactive data visualizations",
+  "top_terms": [
+    [
+      "interactive",
+      21
+    ],
+    [
+      "data",
+      16
+    ],
+    [
+      "flint",
+      16
+    ],
+    [
+      "interactions",
+      14
+    ],
+    [
+      "chart",
+      11
+    ],
+    [
+      "interaction",
+      11
+    ],
+    [
+      "visualizations",
+      11
+    ],
+    [
+      "charts",
+      10
+    ],
+    [
+      "update",
+      9
+    ],
+    [
+      "create",
+      8
+    ],
+    [
+      "events",
+      8
+    ],
+    [
+      "semantic",
+      8
+    ],
+    [
+      "visual",
+      8
+    ],
+    [
+      "canvas",
+      7
+    ],
+    [
+      "flint-interactive",
+      7
+    ],
+    [
+      "logic",
+      7
+    ],
+    [
+      "to create",
+      7
+    ],
+    [
+      "user",
+      7
+    ],
+    [
+      "users",
+      7
+    ],
+    [
+      "agents",
+      6
+    ]
+  ],
+  "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+  "url_canonical": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+  "via_source_id": null
+}

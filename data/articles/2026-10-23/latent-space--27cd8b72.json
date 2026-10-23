@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--27cd8b72",
+  "author": null,
+  "content_chars": 6281,
+  "content_sha256": "6570ced044a5afb9c7c7d5e022644afa0408ddecf9824ad3fa81b5130376314b",
+  "content_tokens": 1570,
+  "fetched_at": "2026-10-23T11:37:52Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "A 1.7B speech language model with in-context voice cloning. It reads text and writes S3 codec tokens, which a vocoder turns into 24 kHz audio. pip install kittenml from kittenml import KittenTTS import soundfile as sf m = KittenTTS(\"KittenML/kitten-tts-2\") # a built-in voice…",
+  "source_id": "latent-space",
+  "title": "KittenML/kitten-tts-2 · Hugging Face",
+  "top_terms": [
+    [
+      "voice",
+      13
+    ],
+    [
+      "weights",
+      13
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "language",
+      8
+    ],
+    [
+      "kittenml",
+      7
+    ],
+    [
+      "audio",
+      6
+    ],
+    [
+      "bf16",
+      6
+    ],
+    [
+      "decoder",
+      6
+    ],
+    [
+      "generate",
+      6
+    ],
+    [
+      "kittentts",
+      6
+    ],
+    [
+      "packed",
+      6
+    ],
+    [
+      "bits",
+      5
+    ],
+    [
+      "language model",
+      5
+    ],
+    [
+      "lm",
+      5
+    ],
+    [
+      "mb",
+      5
+    ],
+    [
+      "rather",
+      5
+    ],
+    [
+      "rather than",
+      5
+    ],
+    [
+      "cpp",
+      4
+    ],
+    [
+      "embedding",
+      4
+    ],
+    [
+      "full",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/KittenML/kitten-tts-2",
+  "url_canonical": "https://huggingface.co/KittenML/kitten-tts-2",
+  "via_source_id": "latent-space"
+}

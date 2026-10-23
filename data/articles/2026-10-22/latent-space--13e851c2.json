@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--13e851c2",
+  "author": null,
+  "content_chars": 29685,
+  "content_sha256": "3f96ee16c11cb76055b7706e96f6cafa1bced03fba1f6bafe1b87f6a0f9d29ae",
+  "content_tokens": 7421,
+  "fetched_at": "2026-10-23T11:38:00Z",
+  "kind": "article",
+  "published_at": "2026-10-22T17:40:57+00:00",
+  "snippet": "We are in the age of inference. Billion- to trillion-parameter neural networks are run on specialized accelerators at quadrillions of operations per second to generate media, author software, and fold proteins at massive scale. Inference workloads are more variable and less…",
+  "source_id": "latent-space",
+  "title": "How we achieved truly serverless GPUs",
+  "top_terms": [
+    [
+      "container",
+      28
+    ],
+    [
+      "inference",
+      27
+    ],
+    [
+      "checkpoint",
+      23
+    ],
+    [
+      "gpu",
+      23
+    ],
+    [
+      "tens",
+      22
+    ],
+    [
+      "tens of",
+      22
+    ],
+    [
+      "minutes",
+      21
+    ],
+    [
+      "system",
+      20
+    ],
+    [
+      "gpus",
+      18
+    ],
+    [
+      "utilization",
+      18
+    ],
+    [
+      "memory",
+      17
+    ],
+    [
+      "seconds",
+      17
+    ],
+    [
+      "start",
+      16
+    ],
+    [
+      "applications",
+      15
+    ],
+    [
+      "cache",
+      14
+    ],
+    [
+      "capacity",
+      14
+    ],
+    [
+      "filesystem",
+      14
+    ],
+    [
+      "restore",
+      14
+    ],
+    [
+      "run",
+      14
+    ],
+    [
+      "application",
+      13
+    ]
+  ],
+  "url": "https://modal.com/blog/truly-serverless-gpus",
+  "url_canonical": "https://modal.com/blog/truly-serverless-gpus",
+  "via_source_id": "latent-space"
+}

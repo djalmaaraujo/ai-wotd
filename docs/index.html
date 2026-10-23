@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>qwen3.8 — 2026-10-22 · AI WOTD</title>
+  <title>Kitten TTS 2 — 2026-10-23 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -18,145 +18,123 @@
   </header>
   <main>
 <article class="day">
-  <p class="date">2026-10-22</p>
-  <h1>qwen3.8</h1>
+  <p class="date">2026-10-23</p>
+  <h1>Kitten TTS 2</h1>
 
-  <p class="why">Qwen3.8 trended because it was the focal model for two major inference-efficiency releases today: EAGLE-4&#39;s speculative decoding paper reports speedups on Qwen3.8-27B running on 4× B300 GPUs, and HyperQwen published benchmarks and a ready-to-run vLLM pipeline showing Qwen3.8-27B achieving 127 tok/s single-stream and 1,035 tok/s aggregate throughput on a single consumer RTX 3090, making a 27B open-weight model practical on commodity hardware.</p>
+  <p class="why">Kitten TTS 2 trended because its GGUF weights were newly published on Hugging Face by Stellon Labs and simultaneously wired into audio.cpp via a dedicated model spec, giving developers immediate access to quantized BF16/Q8/Q4 variants with 48 voices. The dual release — model weights and inference integration — triggered coordinated discussion across the open-source audio community.</p>
 
   <section class="definition">
     <h2>Definition</h2>
-    <p>Qwen3.8 refers to the Qwen 3.8 series of large language models released by Alibaba Cloud, most prominently the 27-billion-parameter variant (Qwen3.8-27B). It is an open-weight, instruction-tuned model notable for strong reasoning and coding performance at a size that fits on 24 GB consumer GPUs when quantized. The model has become a standard benchmark target for inference-optimization research — including speculative decoding (EAGLE-4), quantization pipelines, and vLLM serving stacks — because it represents the frontier of capable models deployable on single commodity accelerators.</p>
+    <p>Kitten TTS 2 is a small-footprint, multilingual text-to-speech model developed by KittenML. It uses a MeanFlow decoder and speaker encoders to synthesize speech from text in multiple languages, shipping with 48 built-in voice profiles. The model is distributed as quantized GGUF files (BF16, Q8, Q4) for efficient CPU/GPU inference and is supported by the audio.cpp runtime, enabling local, real-time speech generation without cloud APIs.</p>
     <ul class="def-refs">
-      <li><a href="https://github.com/QwenLM/Qwen" rel="noreferrer">https://github.com/QwenLM/Qwen</a></li>
-      <li><a href="https://huggingface.co/Qwen" rel="noreferrer">https://huggingface.co/Qwen</a></li>
-      <li><a href="https://arxiv.org/abs/2407.10671" rel="noreferrer">https://arxiv.org/abs/2407.10671</a></li>
+      <li><a href="https://huggingface.co/dignome/kitten_tts2" rel="noreferrer">https://huggingface.co/dignome/kitten_tts2</a></li>
+      <li><a href="https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json" rel="noreferrer">https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json</a></li>
+      <li><a href="https://github.com/KittenML/kitten-tts" rel="noreferrer">https://github.com/KittenML/kitten-tts</a></li>
     </ul>
   </section>
 
   <section class="summary">
     <h2>Today in AI</h2>
-    <p>NVIDIA expanded its local AI hardware stack at GTC Berlin with RTX Spark for personal agents, DGX Spark for developers, and DGX Station for enterprise workloads, adding Model Launcher and Wi-Fi Assistant via October software updates. In inference optimization, EAGLE-4 introduced a hardware-adaptive speculative decoding drafter benchmarked on Qwen3.8-27B across 4× NVIDIA B300 GPUs, while HyperQwen demonstrated serving the same model on a single RTX 3090 (24 GB) via vLLM at 127 tok/s single-stream and ~1,035 tok/s aggregate at 64 concurrent requests. Separately, OpenAI&#39;s Patch the Planet program, using GPT-5.6 Sol, co-discovered critical PHP vulnerabilities affecting 70% of the web alongside Wiz researchers, triggering a coordinated two-month disclosure.</p>
+    <p>Kitten TTS 2, a compact multilingual text-to-speech model from KittenML, gained traction today as developers integrated it into the audio.cpp inference engine and published quantized GGUF weights on Hugging Face. The model, identified by revision f2eee74f, bundles a MeanFlow decoder, speaker encoders, a tokenizer, and 48 pre-built voice profiles. Stellon Labs provided the self-contained GGUF exports under the dignome/kitten_tts2 repository, while 0xShug0 added a model specification (kitten_tts2.json) to audio.cpp enabling BF16, Q8, and Q4 quantization support. The release highlights the growing momentum of lightweight, locally runnable TTS systems that ship with diverse voice libraries and run on consumer hardware without external dependencies.</p>
   </section>
 
   <section class="evidence">
-    <h2>Evidence (4)</h2>
+    <h2>Evidence (2)</h2>
     <ul>
       <li>
-        <a href="https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync" rel="noreferrer">Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents | NVIDIA Blog</a>
+        <a href="https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json" rel="noreferrer">audio.cpp/model_specs/kitten_tts2.json at main · 0xShug0/audio.cpp · GitHub</a>
         <span class="meta">
-          latent-space          · 2026-10-22
+          latent-space          · 2026-10-23
         </span>
-<blockquote>At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running…</blockquote>      </li>
+<blockquote>Expand file tree / Copy pathkitten_tts2.json More file actions 505 lines (505 loc) · 12.3 KB 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65…</blockquote>      </li>
       <li>
-        <a href="https://github.com/eagle-hq/EAGLE-4" rel="noreferrer">GitHub - eagle-hq/EAGLE-4: Official Inference Code of EAGLE-4 · GitHub</a>
+        <a href="https://huggingface.co/dignome/kitten_tts2" rel="noreferrer">dignome/kitten_tts2 · Hugging Face</a>
         <span class="meta">
-          latent-space          · 2026-10-22
+          latent-space          · 2026-10-23
         </span>
-<blockquote>One Flexible Drafter for All Batch Sizes and Hardware Paper (EAGLE-4) · EAGLE-4 draft for Qwen3.8-27B · Documentation Figure 1(a) of the EAGLE-4 paper: Qwen3.8-27B on the SPEED-Bench qualitative split, 4× NVIDIA B300, one request, temperature 0. The numbers this release measured…</blockquote>      </li>
-      <li>
-        <a href="https://www.latent.space/p/ainews-openais-patch-the-planet-program" rel="noreferrer">[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</a>
-        <span class="meta">
-          latent-space · swyx &amp; Alessio          · 2026-10-22
-        </span>
-<blockquote>Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders, a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a…</blockquote>      </li>
-      <li>
-        <a href="https://github.com/syv-ai/HyperQwen" rel="noreferrer">GitHub - syv-ai/HyperQwen: Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s single-user (381 when the answer quotes the prompt), ~1,035 tok/s at 64 concurrent, 150k-262k context. vLLM patches, requant pipeline, benchmarks. · GitHub</a>
-        <span class="meta">
-          latent-space          · 2026-10-22
-        </span>
-<blockquote>Large Qwen models, served fast on the GPUs people actually own. One request against stock vLLM, replayed in real time from recorded token arrivals, then 64 at once. 1080p60 MP4 · how it is made Today: Qwen3.8-27B on a single 24 GB consumer GPU with vLLM — 150k token context and…</blockquote>      </li>
+<blockquote>Powered by Stellon Labs. Self-contained multilingual GGUF exports of KittenML/kitten-tts-2 weights at revision f2eee74f4467855ad58fe16f1fb7b7df473263fd . Each file includes an S3 MeanFlow decoder, speaker encoders, tokenizer, and all 48 prepared voice entries. Use an audio.cpp…</blockquote>      </li>
     </ul>
   </section>
 
   <section class="candidates">
     <h2>Candidates</h2>
     <ol>
-      <li>flint <span class="meta">tf=33, df=3, score=166.24</span></li>
-      <li>eagle-4 <span class="meta">tf=35, df=2, score=161.26</span></li>
-      <li>the php <span class="meta">tf=31, df=2, score=138.13</span></li>
-      <li>php <span class="meta">tf=78, df=3, score=81.15</span></li>
-      <li>launcher <span class="meta">tf=17, df=4, score=77.21</span></li>
-      <li>dram <span class="meta">tf=17, df=2, score=63.18</span></li>
-      <li>tizen <span class="meta">tf=16, df=2, score=58.28</span></li>
-      <li>dflash2 <span class="meta">tf=14, df=2, score=48.74</span></li>
-      <li>php foundation <span class="meta">tf=13, df=2, score=44.11</span></li>
-      <li>samsung <span class="meta">tf=35, df=3, score=35.84</span></li>
+      <li>kitten <span class="meta">tf=33, df=4, score=193.95</span></li>
+      <li>kittenml <span class="meta">tf=31, df=4, score=179.06</span></li>
+      <li>kittentts <span class="meta">tf=23, df=2, score=97.46</span></li>
+      <li>cve <span class="meta">tf=22, df=2, score=91.97</span></li>
+      <li>tts2 <span class="meta">tf=20, df=3, score=91.34</span></li>
+      <li>preset <span class="meta">tf=13, df=4, score=57.18</span></li>
+      <li>kitten-tts-2 <span class="meta">tf=13, df=3, score=51.46</span></li>
+      <li>wav <span class="meta">tf=13, df=3, score=51.46</span></li>
+      <li>bruno <span class="meta">tf=12, df=4, score=51.30</span></li>
+      <li>voice cloning <span class="meta">tf=11, df=5, score=50.11</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (14)</summary>
+      <summary>All queried links (12)</summary>
       <ul>
         <li>
-          <a href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1" rel="noreferrer">Ensemble forecasting with IBM Granite time-series models</a>
-          <span class="meta">
-            huggingface-blog · Hugging Face Blog          </span>
-        </li>
-        <li>
-          <a href="https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync" rel="noreferrer">Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents | NVIDIA Blog</a>
+          <a href="https://recursive.com/updates/introducing-recursive-flint" rel="noreferrer">Introducing Flint - Recursive</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/NelsonEU/arn0-tv" rel="noreferrer">GitHub - NelsonEU/arn0-tv: A custom home screen for a Samsung Q70B (Tizen 6.5) · GitHub</a>
+          <a href="https://huggingface.co/unsloth/flint-GGUF" rel="noreferrer">unsloth/flint-GGUF · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security" rel="noreferrer">Today&#39;s PHP Security Release, and How We&#39;re Strengthening PHP Security — The PHP Foundation — Supporting, Advancing, and Developing the PHP Language</a>
+          <a href="https://huggingface.co/KittenML/kitten-tts-2" rel="noreferrer">KittenML/kitten-tts-2 · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/eagle-hq/EAGLE-4" rel="noreferrer">GitHub - eagle-hq/EAGLE-4: Official Inference Code of EAGLE-4 · GitHub</a>
+          <a href="https://www.latent.space/p/2026" rel="noreferrer">Scaling without Slop — Latent Space</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://www.latent.space/p/ainews-openais-patch-the-planet-program" rel="noreferrer">[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</a>
-          <span class="meta">
-            latent-space · swyx &amp; Alessio          </span>
-        </li>
-        <li>
-          <a href="https://kyutai.org/blog/2026-10-20-pocket-tts-small" rel="noreferrer">The tiny TTS was actually 10x too big</a>
+          <a href="https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/KittenTTS2-GGUF" rel="noreferrer">audio-cpp/audio.cpp-gguf at main</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://arxiv.org/pdf/2608.20530" rel="noreferrer">https://arxiv.org/pdf/2608.20530</a>
+          <a href="https://cve.now/" rel="noreferrer">cve.now: a free CVE feed for agents</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://eliastaylor.com/noexploit" rel="noreferrer">There isn&#39;t an easy exploit for this PHP vulnerability · Elias Taylor</a>
+          <a href="https://latent.space/p/ainews-black-october" rel="noreferrer">[AINews] Black October</a>
+          <span class="meta">
+            latent-space · swyx .ai          </span>
+        </li>
+        <li>
+          <a href="https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json" rel="noreferrer">audio.cpp/model_specs/kitten_tts2.json at main · 0xShug0/audio.cpp · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/syv-ai/HyperQwen" rel="noreferrer">GitHub - syv-ai/HyperQwen: Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s single-user (381 when the answer quotes the prompt), ~1,035 tok/s at 64 concurrent, 150k-262k context. vLLM patches, requant pipeline, benchmarks. · GitHub</a>
+          <a href="https://github.com/KittenML/KittenTTS" rel="noreferrer">GitHub - KittenML/KittenTTS: Open-source State-of-the-art TTS model which runs on a CPU 😻 · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/RecursiveSI/flint" rel="noreferrer">RecursiveSI/flint · Hugging Face</a>
+          <a href="https://huggingface.co/dignome/kitten_tts2" rel="noreferrer">dignome/kitten_tts2 · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://m.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php" rel="noreferrer">Samsung signs huge DRAM and HBM contracts - GSMArena.com news</a>
+          <a href="https://github.com/ggml-org/llama.cpp/pull/30928" rel="noreferrer">models: Add Flint model (FlintForCausalLM) by alexey-rsi · Pull Request #30928 · ggml-org/llama.cpp · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind" rel="noreferrer">AI’s hidden storage bill: What inference leaves behind</a>
+          <a href="https://openai.com/index/openai-nask-ai-safety-security-partnership" rel="noreferrer">OpenAI and Poland’s NASK partner to advance AI safety and security</a>
           <span class="meta">
-            mit-tech-review-ai · Tim Rausch          </span>
-        </li>
-        <li>
-          <a href="https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai" rel="noreferrer">Making the case for context-aware AI</a>
-          <span class="meta">
-            mit-tech-review-ai · MIT Technology Review Insights          </span>
+            openai-blog · OpenAI Blog          </span>
         </li>
       </ul>
     </details>
@@ -167,7 +145,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-10-22T11:52:56+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-10-23T11:38:33+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>

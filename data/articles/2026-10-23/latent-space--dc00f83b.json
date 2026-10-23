@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--dc00f83b",
+  "author": null,
+  "content_chars": 10590,
+  "content_sha256": "dcf5108d4d9f3b6605fedbb212364436afb03df85aa4d2bdb7abe455dc5f3a63",
+  "content_tokens": 2647,
+  "fetched_at": "2026-10-23T11:37:52Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "Kitten-TTS is a series of sota open-source text-to-speech models, built by KittenML. Its flagship model, Kitten-TTS 2, is a 1.7B-parameter 1-bit TTS model with in-context voice cloning and expression control. It provides SOTA quality while being so efficient that it runs…",
+  "source_id": "latent-space",
+  "title": "GitHub - KittenML/KittenTTS: Open-source State-of-the-art TTS model which runs on a CPU 😻 · GitHub",
+  "top_terms": [
+    [
+      "kittenml",
+      21
+    ],
+    [
+      "voice",
+      21
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "kittentts",
+      17
+    ],
+    [
+      "generate",
+      14
+    ],
+    [
+      "cpu",
+      12
+    ],
+    [
+      "audio",
+      11
+    ],
+    [
+      "voices",
+      11
+    ],
+    [
+      "chunk",
+      10
+    ],
+    [
+      "text",
+      10
+    ],
+    [
+      "vllm",
+      10
+    ],
+    [
+      "install",
+      9
+    ],
+    [
+      "weights",
+      9
+    ],
+    [
+      "gpu",
+      8
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "reference",
+      8
+    ],
+    [
+      "wav",
+      8
+    ],
+    [
+      "cloning",
+      7
+    ],
+    [
+      "expression",
+      7
+    ],
+    [
+      "kitten-tts-2",
+      7
+    ]
+  ],
+  "url": "https://github.com/KittenML/KittenTTS",
+  "url_canonical": "https://github.com/KittenML/KittenTTS",
+  "via_source_id": "latent-space"
+}

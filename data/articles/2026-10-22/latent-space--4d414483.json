@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--4d414483",
+  "author": null,
+  "content_chars": 2488,
+  "content_sha256": "1d9bddf8443939f944ff0f34440c4d0bac3c6bc694d81e43a99a2c07e7694e81",
+  "content_tokens": 622,
+  "fetched_at": "2026-10-23T11:38:06Z",
+  "kind": "article",
+  "published_at": "2026-10-22T14:03:40+00:00",
+  "snippet": "Computer Science > Computer Vision and Pattern Recognition Title:GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra View PDF HTML (experimental)Abstract:Modern monocular 3D reconstruction methods and vision-language models…",
+  "source_id": "latent-space",
+  "title": "[2506.08194] GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra",
+  "top_terms": [
+    [
+      "geometric",
+      7
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "foundation",
+      4
+    ],
+    [
+      "foundation models",
+      4
+    ],
+    [
+      "giq",
+      4
+    ],
+    [
+      "polyhedra",
+      4
+    ],
+    [
+      "vision",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "geometric reasoning",
+      3
+    ],
+    [
+      "of vision",
+      3
+    ],
+    [
+      "reasoning",
+      3
+    ],
+    [
+      "reconstruction",
+      3
+    ],
+    [
+      "symmetry",
+      3
+    ],
+    [
+      "vision-language",
+      3
+    ],
+    [
+      "and compound",
+      2
+    ],
+    [
+      "and real",
+      2
+    ],
+    [
+      "and real polyhedra",
+      2
+    ],
+    [
+      "and vision-language",
+      2
+    ],
+    [
+      "arxiv",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2506.08194",
+  "url_canonical": "https://arxiv.org/abs/2506.08194",
+  "via_source_id": "latent-space"
+}

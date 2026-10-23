@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1ebc76e9",
+  "author": null,
+  "content_chars": 4285,
+  "content_sha256": "05dc9f386db82b0c75c2edf1490f2e0a8285b5b35d5b0caea03f34f8056ac802",
+  "content_tokens": 1071,
+  "fetched_at": "2026-10-23T11:37:56Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "Read our How to Run Flint Guide! Recursive Flint Blog | Hugging Face | Local engine | Documentation Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to…",
+  "source_id": "latent-space",
+  "title": "unsloth/flint-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "flint",
+      11
+    ],
+    [
+      "output",
+      8
+    ],
+    [
+      "layers",
+      7
+    ],
+    [
+      "recursive",
+      7
+    ],
+    [
+      "checkpoint",
+      5
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "scores",
+      5
+    ],
+    [
+      "tokens",
+      5
+    ],
+    [
+      "attention",
+      4
+    ],
+    [
+      "parameters",
+      4
+    ],
+    [
+      "reasoning",
+      4
+    ],
+    [
+      "text",
+      4
+    ],
+    [
+      "token",
+      4
+    ],
+    [
+      "active",
+      3
+    ],
+    [
+      "approximately",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "com",
+      3
+    ],
+    [
+      "configuration",
+      3
+    ],
+    [
+      "context",
+      3
+    ],
+    [
+      "head",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/unsloth/flint-GGUF",
+  "url_canonical": "https://huggingface.co/unsloth/flint-GGUF",
+  "via_source_id": "latent-space"
+}

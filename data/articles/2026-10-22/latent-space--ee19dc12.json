@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--ee19dc12",
+  "author": null,
+  "content_chars": 10152,
+  "content_sha256": "78514e360b4468cc694e73cabdde9888c95c8897841b9253f86c4710d85473f3",
+  "content_tokens": 2538,
+  "fetched_at": "2026-10-23T11:38:01Z",
+  "kind": "article",
+  "published_at": "2026-10-22T17:40:57+00:00",
+  "snippet": "If you haven’t noticed, the GPU market is highly volatile. NVIDIA repeatedly spews out new chip architectures, doubling FLOPS every few years. Everyone shifts towards the newest cards, causing temporary supply crunches and high prices. But Modal’s customers don’t want to think…",
+  "source_id": "latent-space",
+  "title": "Linear programming for fun and profit",
+  "top_terms": [
+    [
+      "cloud",
+      17
+    ],
+    [
+      "solver",
+      16
+    ],
+    [
+      "gpus",
+      12
+    ],
+    [
+      "demand",
+      10
+    ],
+    [
+      "prices",
+      10
+    ],
+    [
+      "linear",
+      9
+    ],
+    [
+      "modal",
+      9
+    ],
+    [
+      "solve",
+      9
+    ],
+    [
+      "the solver",
+      9
+    ],
+    [
+      "problem",
+      8
+    ],
+    [
+      "containers",
+      7
+    ],
+    [
+      "customers",
+      7
+    ],
+    [
+      "easy",
+      7
+    ],
+    [
+      "gpu",
+      7
+    ],
+    [
+      "price",
+      7
+    ],
+    [
+      "run",
+      7
+    ],
+    [
+      "scale",
+      7
+    ],
+    [
+      "system",
+      7
+    ],
+    [
+      "algorithm",
+      6
+    ],
+    [
+      "constraints",
+      6
+    ]
+  ],
+  "url": "https://modal.com/blog/resource-solver",
+  "url_canonical": "https://modal.com/blog/resource-solver",
+  "via_source_id": "latent-space"
+}

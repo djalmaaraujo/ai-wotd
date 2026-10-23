@@ -1,0 +1,279 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--b9160681",
+        "latent-space--c1254d78",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 193.949829,
+      "term": "kitten",
+      "tf_today": 33
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--b9160681",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 179.063022,
+      "term": "kittenml",
+      "tf_today": 31
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--dc00f83b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 97.460317,
+      "term": "kittentts",
+      "tf_today": 23
+    },
+    {
+      "articles": [
+        "latent-space--af8039fe",
+        "latent-space--b9160681"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 91.974497,
+      "term": "cve",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "latent-space--b9160681",
+        "latent-space--c1254d78",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 91.335673,
+      "term": "tts2",
+      "tf_today": 20
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--c1254d78",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 57.179575,
+      "term": "preset",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 51.461618,
+      "term": "kitten-tts-2",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 51.461618,
+      "term": "wav",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--c1254d78",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 51.298987,
+      "term": "bruno",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "latent-space--27cd8b72",
+        "latent-space--b9160681",
+        "latent-space--c1254d78",
+        "latent-space--dc00f83b",
+        "latent-space--f91afe7f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 50.112284,
+      "term": "voice cloning",
+      "tf_today": 11
+    }
+  ],
+  "date": "2026-10-23",
+  "evidence_article_ids": [
+    "latent-space--c1254d78",
+    "latent-space--f91afe7f"
+  ],
+  "judge": {
+    "input_tokens": 23838,
+    "model": "jev-1.14.0",
+    "pool_size": 47,
+    "signals": {
+      "add flint": {
+        "dominance": 2.89,
+        "event": 0.91,
+        "form": 0.25,
+        "novelty": 0.86,
+        "specificity": 1.96
+      },
+      "audio": {
+        "dominance": 2.71,
+        "event": 0.91,
+        "form": 0.73,
+        "novelty": 0.79,
+        "specificity": 0.77
+      },
+      "cloning": {
+        "dominance": 2.47,
+        "event": 0.72,
+        "form": 0.84,
+        "novelty": 0.75,
+        "specificity": 1.93
+      },
+      "flint": {
+        "dominance": 2.92,
+        "event": 0.97,
+        "form": 0.92,
+        "novelty": 0.91,
+        "specificity": 1.98
+      },
+      "flintforcausallm": {
+        "dominance": 2.71,
+        "event": 0.76,
+        "form": 0.51,
+        "novelty": 0.85,
+        "specificity": 1.99
+      },
+      "kitten tts 2": {
+        "dominance": 2.77,
+        "event": 0.75,
+        "form": 0.84,
+        "novelty": 0.91,
+        "specificity": 2.0
+      },
+      "kitten-tts 2": {
+        "dominance": 2.76,
+        "event": 0.75,
+        "form": 0.81,
+        "novelty": 0.92,
+        "specificity": 2.0
+      },
+      "kitten-tts-2": {
+        "dominance": 2.78,
+        "event": 0.8,
+        "form": 0.87,
+        "novelty": 0.92,
+        "specificity": 2.0
+      },
+      "kitten-tts2-v2": {
+        "dominance": 2.59,
+        "event": 0.65,
+        "form": 0.8,
+        "novelty": 0.91,
+        "specificity": 2.0
+      },
+      "kittenml": {
+        "dominance": 2.68,
+        "event": 0.81,
+        "form": 0.75,
+        "novelty": 0.9,
+        "specificity": 1.71
+      },
+      "kittentts 2": {
+        "dominance": 2.78,
+        "event": 0.81,
+        "form": 0.62,
+        "novelty": 0.9,
+        "specificity": 2.0
+      },
+      "open-source state-of-the-art tts": {
+        "dominance": 2.8,
+        "event": 0.83,
+        "form": 0.62,
+        "novelty": 0.84,
+        "specificity": 1.69
+      },
+      "state-of-the-art tts": {
+        "dominance": 2.64,
+        "event": 0.89,
+        "form": 0.69,
+        "novelty": 0.83,
+        "specificity": 1.63
+      },
+      "tts 2": {
+        "dominance": 2.69,
+        "event": 0.78,
+        "form": 0.48,
+        "novelty": 0.84,
+        "specificity": 1.91
+      },
+      "tts2": {
+        "dominance": 2.74,
+        "event": 0.78,
+        "form": 0.49,
+        "novelty": 0.88,
+        "specificity": 1.93
+      },
+      "voice cloning": {
+        "dominance": 2.6,
+        "event": 0.85,
+        "form": 0.93,
+        "novelty": 0.82,
+        "specificity": 1.99
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "kitten tts 2",
+      "kitten-tts 2",
+      "kitten-tts-2",
+      "flint",
+      "kitten-tts2-v2",
+      "voice cloning",
+      "cloning"
+    ]
+  },
+  "label": "Kitten TTS 2",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/dignome/kitten_tts2",
+        "https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json",
+        "https://github.com/KittenML/kitten-tts"
+      ],
+      "text": "Kitten TTS 2 is a small-footprint, multilingual text-to-speech model developed by KittenML. It uses a MeanFlow decoder and speaker encoders to synthesize speech from text in multiple languages, shipping with 48 built-in voice profiles. The model is distributed as quantized GGUF files (BF16, Q8, Q4) for efficient CPU/GPU inference and is supported by the audio.cpp runtime, enabling local, real-time speech generation without cloud APIs."
+    },
+    "generated_at": "2026-10-23T11:38:30.714838+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Kitten TTS 2, a compact multilingual text-to-speech model from KittenML, gained traction today as developers integrated it into the audio.cpp inference engine and published quantized GGUF weights on Hugging Face. The model, identified by revision f2eee74f, bundles a MeanFlow decoder, speaker encoders, a tokenizer, and 48 pre-built voice profiles. Stellon Labs provided the self-contained GGUF exports under the dignome/kitten_tts2 repository, while 0xShug0 added a model specification (kitten_tts2.json) to audio.cpp enabling BF16, Q8, and Q4 quantization support. The release highlights the growing momentum of lightweight, locally runnable TTS systems that ship with diverse voice libraries and run on consumer hardware without external dependencies.",
+    "why": "Kitten TTS 2 trended because its GGUF weights were newly published on Hugging Face by Stellon Labs and simultaneously wired into audio.cpp via a dedicated model spec, giving developers immediate access to quantized BF16/Q8/Q4 variants with 48 voices. The dual release — model weights and inference integration — triggered coordinated discussion across the open-source audio community."
+  },
+  "score": 27.631021,
+  "word": "kitten tts 2"
+}

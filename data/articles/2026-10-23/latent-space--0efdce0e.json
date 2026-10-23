@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--0efdce0e",
+  "author": null,
+  "content_chars": 7211,
+  "content_sha256": "1b0672b2f9ec12a019dc17146803b28bede5ef92662fc7588a2d60fff52907fb",
+  "content_tokens": 1802,
+  "fetched_at": "2026-10-23T11:37:54Z",
+  "kind": "article",
+  "published_at": "2026-10-23T10:09:29+00:00",
+  "snippet": "Introducing Flint We’re introducing Recursive Flint, a mixture-of-experts (MoE) model built for fast agentic coding on local hardware. Flint has 40 billion total parameters and activates just 2.5 billion per token. Our small team of people and agents built it from scratch in…",
+  "source_id": "latent-space",
+  "title": "Introducing Flint - Recursive",
+  "top_terms": [
+    [
+      "flint",
+      29
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "coding",
+      12
+    ],
+    [
+      "billion",
+      11
+    ],
+    [
+      "eureka",
+      11
+    ],
+    [
+      "eureka machine",
+      11
+    ],
+    [
+      "machine",
+      11
+    ],
+    [
+      "parameters",
+      11
+    ],
+    [
+      "inference",
+      9
+    ],
+    [
+      "models",
+      9
+    ],
+    [
+      "across",
+      7
+    ],
+    [
+      "local",
+      7
+    ],
+    [
+      "our eureka",
+      7
+    ],
+    [
+      "our eureka machine",
+      7
+    ],
+    [
+      "pro",
+      7
+    ],
+    [
+      "data",
+      6
+    ],
+    [
+      "swe-bench",
+      6
+    ],
+    [
+      "tokens",
+      6
+    ],
+    [
+      "total",
+      6
+    ],
+    [
+      "training",
+      6
+    ]
+  ],
+  "url": "https://recursive.com/updates/introducing-recursive-flint",
+  "url_canonical": "https://recursive.com/updates/introducing-recursive-flint",
+  "via_source_id": "latent-space"
+}
