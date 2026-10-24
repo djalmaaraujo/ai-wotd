@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--e80f0d7b",
+  "author": "Hugging Face Blog",
+  "content_chars": 3704,
+  "content_sha256": "3c43070242e4e3c191704b0c2639a911978e671286e178005dbc43af36edf323",
+  "content_tokens": 926,
+  "fetched_at": "2026-10-24T10:54:54Z",
+  "kind": "article",
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "snippet": "In a previous post, we introduced TorchNeuron, the native PyTorch backend for AWS Trainium (the torch-neuronx package). With it, Transformers runs its own modeling code on Trainium, as it does on any other device, so any Transformers model on the Hub may run. Which ones actually…",
+  "source_id": "huggingface-blog",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "top_terms": [
+    [
+      "model",
+      17
+    ],
+    [
+      "run",
+      11
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "trainium",
+      7
+    ],
+    [
+      "sharded",
+      6
+    ],
+    [
+      "space",
+      6
+    ],
+    [
+      "the model",
+      6
+    ],
+    [
+      "transformers",
+      6
+    ],
+    [
+      "neuron",
+      5
+    ],
+    [
+      "the space",
+      5
+    ],
+    [
+      "cores",
+      4
+    ],
+    [
+      "gives",
+      4
+    ],
+    [
+      "result",
+      4
+    ],
+    [
+      "script",
+      4
+    ],
+    [
+      "tested",
+      4
+    ],
+    [
+      "aws",
+      3
+    ],
+    [
+      "aws-neuron",
+      3
+    ],
+    [
+      "cache",
+      3
+    ],
+    [
+      "compiler",
+      3
+    ],
+    [
+      "df",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "url_canonical": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "via_source_id": null
+}

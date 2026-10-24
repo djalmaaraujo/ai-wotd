@@ -1,0 +1,98 @@
+{
+  "article_id": "aibreakfast--153520a2",
+  "author": "AI Breakfast",
+  "content_chars": 8162,
+  "content_sha256": "589faf3548b70fd2b073d847cb62aa8b940ef783f29e689c541a859b4f95d1c4",
+  "content_tokens": 2040,
+  "fetched_at": "2026-10-24T10:54:56Z",
+  "kind": "article",
+  "published_at": "2026-10-23T13:40:01+00:00",
+  "snippet": "Good morning. It's Friday, October 23rd. An AI found php2shell, and attackers got there first The PHP project shipped an emergency release on Wednesday at 14:00 UTC for two vulnerabilities now going by php2shell: CVE-2026-109618, remote code execution via out-of-memory…",
+  "source_id": "aibreakfast",
+  "title": "An AI found php2shell, and attackers got there first",
+  "top_terms": [
+    [
+      "openai",
+      8
+    ],
+    [
+      "monitor",
+      7
+    ],
+    [
+      "monitoring",
+      7
+    ],
+    [
+      "code",
+      6
+    ],
+    [
+      "the monitor",
+      6
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "two",
+      5
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "agents",
+      4
+    ],
+    [
+      "claude",
+      4
+    ],
+    [
+      "first",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "php",
+      4
+    ],
+    [
+      "research",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "us",
+      4
+    ],
+    [
+      "anthropic",
+      3
+    ],
+    [
+      "api",
+      3
+    ],
+    [
+      "attackers",
+      3
+    ],
+    [
+      "browser",
+      3
+    ]
+  ],
+  "url": "https://aibreakfast.beehiiv.com/p/an-ai-found-php2shell-and-attackers-got-there-first",
+  "url_canonical": "https://aibreakfast.beehiiv.com/p/an-ai-found-php2shell-and-attackers-got-there-first",
+  "via_source_id": null
+}

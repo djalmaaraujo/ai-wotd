@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-23T11:38:33+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-24T10:58:33+00:00</lastBuildDate>
+    <item>
+      <title>Kimi K3.1 Pro (2026-10-24)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-24/</link>
+      <guid isPermaLink="false">wotd-2026-10-24</guid>
+      <pubDate>2026-10-24</pubDate>
+      <description>Kimi K3.1 Pro trended because Moonshot AI announced a new open-weight model that beats the Fable 5.1 benchmark — a milestone previously expected only from closed-source labs — and committed to releasing full weights within weeks. The combination of a 1M-token context, highspeed API variant, and immediate availability across multiple platforms amplified developer interest.</description>
+    </item>
     <item>
       <title>Kitten TTS 2 (2026-10-23)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-23/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-08-03</guid>
       <pubDate>2026-08-03</pubDate>
       <description>Word of the day: minimax-h3</description>
-    </item>
-    <item>
-      <title>chatgpt (2026-08-02)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-02/</link>
-      <guid isPermaLink="false">wotd-2026-08-02</guid>
-      <pubDate>2026-08-02</pubDate>
-      <description>Word of the day: chatgpt</description>
     </item>
   </channel>
 </rss>

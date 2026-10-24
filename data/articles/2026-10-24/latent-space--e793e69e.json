@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e793e69e",
+  "author": null,
+  "content_chars": 20711,
+  "content_sha256": "ec71ba82eae1477402aa092ad2a4f4f61f3c88cbb7e401e6c85dec3126f4ade5",
+  "content_tokens": 5177,
+  "fetched_at": "2026-10-24T10:57:58Z",
+  "kind": "article",
+  "published_at": "2026-10-24T07:18:29+00:00",
+  "snippet": "MAFDET reads your message while you type it, and starts thinking about it before you send it. Hit Enter, and most of the work is already done. Chat interfaces make the model wait for you to press Enter before it does anything. While you type, the GPU sits idle. When you send…",
+  "source_id": "latent-space",
+  "title": "GitHub - TheLastOxygen/mafdet: You type. It already knows. Local LLMs that read and think while you type. · GitHub",
+  "top_terms": [
+    [
+      "model",
+      47
+    ],
+    [
+      "reasoning",
+      45
+    ],
+    [
+      "ahead",
+      32
+    ],
+    [
+      "enter",
+      32
+    ],
+    [
+      "mafdet",
+      31
+    ],
+    [
+      "message",
+      31
+    ],
+    [
+      "the model",
+      29
+    ],
+    [
+      "tokens",
+      27
+    ],
+    [
+      "answer",
+      26
+    ],
+    [
+      "the message",
+      17
+    ],
+    [
+      "type",
+      17
+    ],
+    [
+      "you type",
+      16
+    ],
+    [
+      "typing",
+      15
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "llama",
+      14
+    ],
+    [
+      "reasoning ahead",
+      14
+    ],
+    [
+      "the answer",
+      14
+    ],
+    [
+      "wait",
+      14
+    ],
+    [
+      "measured",
+      13
+    ],
+    [
+      "text",
+      13
+    ]
+  ],
+  "url": "https://github.com/TheLastOxygen/mafdet",
+  "url_canonical": "https://github.com/TheLastOxygen/mafdet",
+  "via_source_id": "latent-space"
+}

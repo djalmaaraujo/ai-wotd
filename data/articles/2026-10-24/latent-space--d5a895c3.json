@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d5a895c3",
+  "author": null,
+  "content_chars": 6578,
+  "content_sha256": "32c65d919f5e3a1b6b242d5c088cfc201e4374e4e848dedea955c340458e8956",
+  "content_tokens": 1644,
+  "fetched_at": "2026-10-24T10:57:59Z",
+  "kind": "article",
+  "published_at": "2026-10-24T07:18:29+00:00",
+  "snippet": "English | 한국어 Experimental UEFI unlock and direct Windows handoff for one documented RTX 3090 Founders Edition / ASUS BIOS 3057 system. v0.3.1 is a source-only pre-release: build the internal EFI for your own partition GUIDs. Firmware assets and private, partition-specific EFI…",
+  "source_id": "latent-space",
+  "title": "GitHub - impacifist/Windows-GPU-UNLOCK: Windows GPU UNLOCK: RTX3090 UEFI port, Korean no-reset Windows boot guide, verified source and benchmark evidence · GitHub",
+  "top_terms": [
+    [
+      "windows",
+      25
+    ],
+    [
+      "headless",
+      15
+    ],
+    [
+      "boot",
+      14
+    ],
+    [
+      "display",
+      11
+    ],
+    [
+      "unlock",
+      11
+    ],
+    [
+      "release",
+      8
+    ],
+    [
+      "recovery",
+      7
+    ],
+    [
+      "rtx",
+      7
+    ],
+    [
+      "firmware",
+      6
+    ],
+    [
+      "internal",
+      6
+    ],
+    [
+      "ps1",
+      6
+    ],
+    [
+      "usb",
+      6
+    ],
+    [
+      "without",
+      6
+    ],
+    [
+      "assets",
+      5
+    ],
+    [
+      "build",
+      5
+    ],
+    [
+      "efi",
+      5
+    ],
+    [
+      "guide",
+      5
+    ],
+    [
+      "internal-boot",
+      5
+    ],
+    [
+      "tools",
+      5
+    ],
+    [
+      "amd",
+      4
+    ]
+  ],
+  "url": "https://github.com/impacifist/Windows-GPU-UNLOCK",
+  "url_canonical": "https://github.com/impacifist/Windows-GPU-UNLOCK",
+  "via_source_id": "latent-space"
+}

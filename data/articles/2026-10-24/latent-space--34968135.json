@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--34968135",
+  "author": null,
+  "content_chars": 6955,
+  "content_sha256": "68dcbb4eed5e65d0c3376e6fc5c4997271028ac88737ecb079bffcf96382d6fa",
+  "content_tokens": 1738,
+  "fetched_at": "2026-10-24T10:57:59Z",
+  "kind": "article",
+  "published_at": "2026-10-24T07:18:29+00:00",
+  "snippet": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents This Linux kernel module combines the CMP unlocker's V67/PLM technique with the pre-driver timing of the UEFI approach. It runs the unlock, writes the speed selectors (SS0 0x88888888…",
+  "source_id": "latent-space",
+  "title": "GitHub - Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents · GitHub",
+  "top_terms": [
+    [
+      "nvidia",
+      17
+    ],
+    [
+      "unlock",
+      17
+    ],
+    [
+      "card",
+      14
+    ],
+    [
+      "gpu",
+      12
+    ],
+    [
+      "install",
+      11
+    ],
+    [
+      "firmware",
+      10
+    ],
+    [
+      "module",
+      10
+    ],
+    [
+      "build",
+      8
+    ],
+    [
+      "kernel",
+      8
+    ],
+    [
+      "boot",
+      7
+    ],
+    [
+      "cards",
+      7
+    ],
+    [
+      "targets",
+      7
+    ],
+    [
+      "the module",
+      7
+    ],
+    [
+      "driver",
+      6
+    ],
+    [
+      "gpu-unlock",
+      6
+    ],
+    [
+      "grub",
+      6
+    ],
+    [
+      "inputs",
+      6
+    ],
+    [
+      "line",
+      6
+    ],
+    [
+      "tflops",
+      6
+    ],
+    [
+      "bf16",
+      5
+    ]
+  ],
+  "url": "https://github.com/Zagitta/gpu-unlock",
+  "url_canonical": "https://github.com/Zagitta/gpu-unlock",
+  "via_source_id": "latent-space"
+}

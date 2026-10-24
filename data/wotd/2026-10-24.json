@@ -1,0 +1,277 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--55a9d860",
+        "latent-space--91fc885b",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 616.540084,
+      "term": "k3.1",
+      "tf_today": 81
+    },
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--55a9d860",
+        "latent-space--91fc885b",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 461.459538,
+      "term": "k3.1 pro",
+      "tf_today": 64
+    },
+    {
+      "articles": [
+        "latent-space--cbab01df",
+        "latent-space--e793e69e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 158.686224,
+      "term": "mafdet",
+      "tf_today": 33
+    },
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 146.506109,
+      "term": "kimi k3.1",
+      "tf_today": 31
+    },
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 122.685712,
+      "term": "kimi k3.1 pro",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "latent-space--b2b20c46",
+        "latent-space--e793e69e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 67.004073,
+      "term": "you type",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "latent-space--34968135",
+        "latent-space--cbab01df",
+        "latent-space--d5a895c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 53.021061,
+      "term": "tflops",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 46.783289,
+      "term": "k3.1 pro is",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 46.783289,
+      "term": "pro is",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--44ffabd7",
+        "latent-space--55a9d860",
+        "latent-space--91fc885b",
+        "latent-space--cbab01df"
+      ],
+      "avg_tf_baseline": 7.2727,
+      "df_today": 4,
+      "score": 46.256486,
+      "term": "kimi",
+      "tf_today": 87
+    }
+  ],
+  "date": "2026-10-24",
+  "evidence_article_ids": [
+    "latent-space--44ffabd7",
+    "latent-space--cbab01df"
+  ],
+  "judge": {
+    "input_tokens": 25988,
+    "model": "jev-1.14.0",
+    "pool_size": 54,
+    "signals": {
+      "advancing open": {
+        "dominance": 2.97,
+        "event": 0.95,
+        "form": 0.21,
+        "novelty": 0.52,
+        "specificity": 0.88
+      },
+      "class open weights": {
+        "dominance": 2.97,
+        "event": 0.95,
+        "form": 0.19,
+        "novelty": 0.56,
+        "specificity": 1.53
+      },
+      "fable-5.1": {
+        "dominance": 2.79,
+        "event": 0.69,
+        "form": 0.8,
+        "novelty": 0.9,
+        "specificity": 1.91
+      },
+      "gpu unlock": {
+        "dominance": 2.11,
+        "event": 0.9,
+        "form": 0.8,
+        "novelty": 0.89,
+        "specificity": 1.18
+      },
+      "gpu-unlock": {
+        "dominance": 2.14,
+        "event": 0.88,
+        "form": 0.78,
+        "novelty": 0.88,
+        "specificity": 1.28
+      },
+      "highspeed": {
+        "dominance": 2.17,
+        "event": 0.88,
+        "form": 0.57,
+        "novelty": 0.86,
+        "specificity": 1.39
+      },
+      "highspeed api": {
+        "dominance": 2.17,
+        "event": 0.89,
+        "form": 0.58,
+        "novelty": 0.83,
+        "specificity": 1.77
+      },
+      "k3.1 pro": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.89,
+        "novelty": 0.93,
+        "specificity": 2.0
+      },
+      "k3.1 pro tech blog": {
+        "dominance": 2.97,
+        "event": 0.92,
+        "form": 0.66,
+        "novelty": 0.89,
+        "specificity": 1.98
+      },
+      "kimi 3.1 pro 104 ba-2.8": {
+        "dominance": 2.96,
+        "event": 0.95,
+        "form": 0.58,
+        "novelty": 0.93,
+        "specificity": 2.0
+      },
+      "kimi k3.1 pro": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.95,
+        "novelty": 0.93,
+        "specificity": 2.0
+      },
+      "kimi k3.1 pro tech blog": {
+        "dominance": 2.98,
+        "event": 0.94,
+        "form": 0.73,
+        "novelty": 0.91,
+        "specificity": 1.99
+      },
+      "mafdet": {
+        "dominance": 1.93,
+        "event": 0.57,
+        "form": 0.8,
+        "novelty": 0.86,
+        "specificity": 1.92
+      },
+      "open": {
+        "dominance": 2.98,
+        "event": 0.96,
+        "form": 0.68,
+        "novelty": 0.44,
+        "specificity": 1.38
+      },
+      "open weights": {
+        "dominance": 2.98,
+        "event": 0.97,
+        "form": 0.88,
+        "novelty": 0.47,
+        "specificity": 1.91
+      },
+      "pro": {
+        "dominance": 2.94,
+        "event": 0.96,
+        "form": 0.57,
+        "novelty": 0.5,
+        "specificity": 1.21
+      },
+      "terminal-bench 4.0": {
+        "dominance": 1.75,
+        "event": 0.59,
+        "form": 0.89,
+        "novelty": 0.79,
+        "specificity": 2.0
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "kimi k3.1 pro",
+      "k3.1 pro",
+      "fable-5.1",
+      "open weights",
+      "mafdet",
+      "terminal-bench 4.0"
+    ]
+  },
+  "label": "Kimi K3.1 Pro",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "https://latent.space/p/ainews-kimi-31/"
+      ],
+      "text": "Kimi K3.1 Pro is a 104-billion-parameter large language model developed by Moonshot AI, trained on 2.8 trillion tokens and featuring a 1-million-token context window. Released as an open-weight model, it allows researchers and developers to download, inspect, and fine-tune the model for tasks such as coding, 3D content creation, financial research, and autonomous agent workflows. Its performance exceeds that of the Fable 5.1 benchmark, positioning it among the most capable openly available models and reducing the lead of proprietary systems. A high-speed variant, Kimi K3.1 Pro Highspeed, offers 2–3× faster inference for production use."
+    },
+    "generated_at": "2026-10-24T10:58:31.237035+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Moonshot AI released Kimi K3.1 Pro, a 104-billion-parameter open-weight model with a 1-million-token context window, marking the first model in its new K3.1 series. The model was trained on 2.8 trillion tokens and achieves benchmark scores that surpass Fable 5.1, narrowing the performance gap with leading closed-source systems to roughly one month. Moonshot also introduced Kimi K3.1 Pro Highspeed, a distilled variant offering 2–3× faster inference. Both models are immediately accessible via Kimi.ai, Kimi Work, Kimi Code, and the Kimi API, with full model weights scheduled for public release by November 4. The launch underscores the accelerating pace of open-weight development in coding, 3D generation, financial analysis, and agentic workflows.",
+    "why": "Kimi K3.1 Pro trended because Moonshot AI announced a new open-weight model that beats the Fable 5.1 benchmark — a milestone previously expected only from closed-source labs — and committed to releasing full weights within weeks. The combination of a 1M-token context, highspeed API variant, and immediate availability across multiple platforms amplified developer interest."
+  },
+  "score": 122.685712,
+  "word": "kimi k3.1 pro"
+}
