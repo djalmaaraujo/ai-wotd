@@ -4042,6 +4042,10 @@
     "article_id": "codenewsletter--ecd244a0",
     "first_seen_date": "2026-10-10"
   },
+  "https://codenewsletter.ai/p/how-devs-are-reviewing-code-when-ai-writes-it": {
+    "article_id": "codenewsletter--d2516c03",
+    "first_seen_date": "2026-10-25"
+  },
   "https://codenewsletter.ai/p/how-devs-are-using-this-viral-github-repo-that-reverse-engineers-anything": {
     "article_id": "codenewsletter--77e1d8be",
     "first_seen_date": "2026-10-18"
@@ -5777,6 +5781,30 @@
     "article_id": "ahead-of-ai--b8a4674e",
     "first_seen_date": "2026-09-23"
   },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch02": {
+    "article_id": "ahead-of-ai--c11a61c9",
+    "first_seen_date": "2026-10-25"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch02/02_setup-tips": {
+    "article_id": "ahead-of-ai--33334102",
+    "first_seen_date": "2026-10-25"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch03": {
+    "article_id": "ahead-of-ai--bd109745",
+    "first_seen_date": "2026-10-25"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch04": {
+    "article_id": "ahead-of-ai--ce50b741",
+    "first_seen_date": "2026-10-25"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch05": {
+    "article_id": "ahead-of-ai--5d6731f8",
+    "first_seen_date": "2026-10-25"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch06": {
+    "article_id": "ahead-of-ai--3ee47b20",
+    "first_seen_date": "2026-10-25"
+  },
   "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch06/02_rlvr_grpo_scripts_intro": {
     "article_id": "ahead-of-ai--077290a5",
     "first_seen_date": "2026-09-23"
@@ -5785,6 +5813,14 @@
     "article_id": null,
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch07": {
+    "article_id": "ahead-of-ai--5483213a",
+    "first_seen_date": "2026-10-25"
+  },
+  "https://github.com/rasbt/reasoning-from-scratch/tree/main/ch08": {
+    "article_id": "ahead-of-ai--eee1534d",
+    "first_seen_date": "2026-10-25"
   },
   "https://github.com/stacklok/mecatl": {
     "article_id": "latent-space--e49980fc",
@@ -10266,6 +10302,10 @@
     "article_id": "ahead-of-ai--5f3184c4",
     "first_seen_date": "2026-09-23"
   },
+  "https://magazine.sebastianraschka.com/p/building-reasoning-models": {
+    "article_id": "ahead-of-ai--6b498315",
+    "first_seen_date": "2026-10-25"
+  },
   "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling": {
     "article_id": "ahead-of-ai--0728a7eb",
     "first_seen_date": "2026-09-23"
@@ -13099,6 +13139,10 @@
   "https://simonwillison.net/2026/Oct/23/quick-study-painter": {
     "article_id": "simonwillison--40e1bd6f",
     "first_seen_date": "2026-10-24"
+  },
+  "https://simonwillison.net/2026/Oct/24/battledrones": {
+    "article_id": "simonwillison--f2517281",
+    "first_seen_date": "2026-10-25"
   },
   "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": {
     "article_id": "simonwillison--be2a363e",
