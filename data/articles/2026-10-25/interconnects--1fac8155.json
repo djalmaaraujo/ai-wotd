@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--1fac8155",
+  "author": null,
+  "content_chars": 122142,
+  "content_sha256": "1e158707512231c07444e9c3f54fe2b32ee2669cadde0e2313733bb3d380a5a0",
+  "content_tokens": 30535,
+  "fetched_at": "2026-10-26T12:59:41Z",
+  "kind": "article",
+  "published_at": "2026-10-25T11:49:00+00:00",
+  "snippet": "August 3, 2026: Added GPT-Red prompt-injection evaluation results. August 19, 2026: We corrected GPT-5.5’s pass@4 score on the hard-negative protein binding prediction evaluation from 0.4% to 1.5%. The previously reported value was its pass@1 score. GPT-5.6 is a new family of…",
+  "source_id": "interconnects",
+  "title": "GPT-5.6 System Card - OpenAI Deployment Safety Hub",
+  "top_terms": [
+    [
+      "model",
+      158
+    ],
+    [
+      "gpt-5.6",
+      154
+    ],
+    [
+      "models",
+      132
+    ],
+    [
+      "sol",
+      125
+    ],
+    [
+      "gpt-5.6 sol",
+      104
+    ],
+    [
+      "evaluation",
+      81
+    ],
+    [
+      "the model",
+      77
+    ],
+    [
+      "gpt-5.5",
+      75
+    ],
+    [
+      "access",
+      53
+    ],
+    [
+      "capabilities",
+      50
+    ],
+    [
+      "evaluations",
+      49
+    ],
+    [
+      "system",
+      49
+    ],
+    [
+      "research",
+      47
+    ],
+    [
+      "safeguards",
+      47
+    ],
+    [
+      "safety",
+      47
+    ],
+    [
+      "capability",
+      44
+    ],
+    [
+      "high",
+      42
+    ],
+    [
+      "performance",
+      42
+    ],
+    [
+      "biological",
+      41
+    ],
+    [
+      "training",
+      40
+    ]
+  ],
+  "url": "https://deploymentsafety.openai.com/gpt-5-6",
+  "url_canonical": "https://deploymentsafety.openai.com/gpt-5-6",
+  "via_source_id": "interconnects"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--8f07311a",
+  "author": null,
+  "content_chars": 22374,
+  "content_sha256": "ecf355228191c933ff4dee02af0334edbbe6fa2f8f314ca60fa3edc9fa9411ef",
+  "content_tokens": 5593,
+  "fetched_at": "2026-10-26T12:59:34Z",
+  "kind": "article",
+  "published_at": "2026-10-25T11:49:00+00:00",
+  "snippet": "./ProgramBench Can language models rebuild programs from scratch? Given only a compiled binary and its documentation, agents must architect and implement a complete codebase that reproduces the original program's behavior. | Rank | Model | Agent | Resolved The number of fully…",
+  "source_id": "interconnects",
+  "title": "ProgramBench",
+  "top_terms": [
+    [
+      "tool",
+      36
+    ],
+    [
+      "code",
+      31
+    ],
+    [
+      "rust",
+      19
+    ],
+    [
+      "fast",
+      18
+    ],
+    [
+      "terminal",
+      18
+    ],
+    [
+      "command-line",
+      17
+    ],
+    [
+      "cli",
+      16
+    ],
+    [
+      "tasks",
+      15
+    ],
+    [
+      "git",
+      14
+    ],
+    [
+      "in rust",
+      14
+    ],
+    [
+      "json",
+      14
+    ],
+    [
+      "mini-swe-agent",
+      13
+    ],
+    [
+      "programbench",
+      13
+    ],
+    [
+      "source",
+      13
+    ],
+    [
+      "written",
+      13
+    ],
+    [
+      "written in",
+      13
+    ],
+    [
+      "files",
+      12
+    ],
+    [
+      "test",
+      12
+    ],
+    [
+      "tests",
+      12
+    ],
+    [
+      "command",
+      11
+    ]
+  ],
+  "url": "https://programbench.com/",
+  "url_canonical": "https://programbench.com/",
+  "via_source_id": "interconnects"
+}

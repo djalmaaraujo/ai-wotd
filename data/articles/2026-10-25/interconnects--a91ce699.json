@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--a91ce699",
+  "author": null,
+  "content_chars": 11483,
+  "content_sha256": "571af2b5145722d0c665d277709302d901e32ab8eea5aa655a191fb0904d3b1b",
+  "content_tokens": 2870,
+  "fetched_at": "2026-10-26T12:59:36Z",
+  "kind": "article",
+  "published_at": "2026-10-25T11:49:00+00:00",
+  "snippet": "Status: Incident contained, investigation located here Last updated: October 21, 2026 20:30 UTC In the early morning of October 21, LiteLLM's release pipeline was compromised and pushed v1.107.0 to the docker registry and PyPi. This version contained compiled malware which…",
+  "source_id": "interconnects",
+  "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised | liteLLM",
+  "top_terms": [
+    [
+      "litellm",
+      25
+    ],
+    [
+      "release",
+      17
+    ],
+    [
+      "compromised",
+      16
+    ],
+    [
+      "utc",
+      16
+    ],
+    [
+      "docker",
+      14
+    ],
+    [
+      "github",
+      13
+    ],
+    [
+      "affected",
+      12
+    ],
+    [
+      "artifacts",
+      12
+    ],
+    [
+      "image",
+      11
+    ],
+    [
+      "v1.107.0",
+      11
+    ],
+    [
+      "workflow",
+      11
+    ],
+    [
+      "private",
+      9
+    ],
+    [
+      "investigation",
+      8
+    ],
+    [
+      "pypi",
+      8
+    ],
+    [
+      "attacker",
+      7
+    ],
+    [
+      "credentials",
+      7
+    ],
+    [
+      "enterprise",
+      7
+    ],
+    [
+      "the attacker",
+      7
+    ],
+    [
+      "environment",
+      6
+    ],
+    [
+      "october",
+      6
+    ]
+  ],
+  "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+  "url_canonical": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+  "via_source_id": "interconnects"
+}
