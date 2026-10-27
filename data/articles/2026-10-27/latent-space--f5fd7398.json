@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--f5fd7398",
+  "author": null,
+  "content_chars": 18077,
+  "content_sha256": "95f8d7a42885b4f69c0601a01d7495608ad62304bb9e563a214fa9ef830ca022",
+  "content_tokens": 4519,
+  "fetched_at": "2026-10-27T12:09:55Z",
+  "kind": "article",
+  "published_at": "2026-10-27T07:24:59+00:00",
+  "snippet": "For nearly two years, one comforting idea has shaped how companies and government contractors adopt open-weight AI models that anyone can download and run. If we run the weights on our own servers, the thinking goes, our data can't leave the building and our systems are secure…",
+  "source_id": "latent-space",
+  "title": "Concerning behavior from a popular open-weight AI model | Cohere",
+  "top_terms": [
+    [
+      "model",
+      32
+    ],
+    [
+      "models",
+      20
+    ],
+    [
+      "the model",
+      17
+    ],
+    [
+      "code",
+      13
+    ],
+    [
+      "security",
+      12
+    ],
+    [
+      "cloud",
+      11
+    ],
+    [
+      "data",
+      11
+    ],
+    [
+      "reasoning",
+      9
+    ],
+    [
+      "training",
+      9
+    ],
+    [
+      "weights",
+      9
+    ],
+    [
+      "file",
+      8
+    ],
+    [
+      "host",
+      8
+    ],
+    [
+      "test",
+      8
+    ],
+    [
+      "agent",
+      7
+    ],
+    [
+      "call",
+      7
+    ],
+    [
+      "cohere",
+      7
+    ],
+    [
+      "inside",
+      7
+    ],
+    [
+      "alibaba",
+      6
+    ],
+    [
+      "box",
+      6
+    ],
+    [
+      "chinese",
+      6
+    ]
+  ],
+  "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "url_canonical": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "via_source_id": "latent-space"
+}

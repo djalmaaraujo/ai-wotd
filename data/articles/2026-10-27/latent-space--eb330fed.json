@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--eb330fed",
+  "author": null,
+  "content_chars": 1552,
+  "content_sha256": "7df6ae7371fdb95e88f59f38560d6157ebf41363810e923d724c6ebf71cd3d44",
+  "content_tokens": 388,
+  "fetched_at": "2026-10-27T12:09:54Z",
+  "kind": "article",
+  "published_at": "2026-10-27T07:24:59+00:00",
+  "snippet": "- { - \"exe\": \".../Strata/engine/strata\", - \"args\": [ - \"--pack\", \".../Strata-data/packs/gyro-gyro-s\", - \"--native\", \".../Strata-data/models/gyro-Gyro-S/Qwen3.8-Flash-Next-Gyro-S-TQ1_0.gguf\", - \"--ple-gguf\"…",
+  "source_id": "latent-space",
+  "title": "Gyro S Chat Config - Pastebin.com",
+  "top_terms": [
+    [
+      "strata",
+      8
+    ],
+    [
+      "strata-data",
+      6
+    ],
+    [
+      "gyro-gyro-s",
+      5
+    ],
+    [
+      "gguf",
+      4
+    ],
+    [
+      "models",
+      4
+    ],
+    [
+      "qwen3.8",
+      4
+    ],
+    [
+      "flash-next-gyro-s-tq1",
+      3
+    ],
+    [
+      "auto",
+      2
+    ],
+    [
+      "bin",
+      2
+    ],
+    [
+      "cuda",
+      2
+    ],
+    [
+      "engine",
+      2
+    ],
+    [
+      "exe",
+      2
+    ],
+    [
+      "expert-profile",
+      2
+    ],
+    [
+      "gpu",
+      2
+    ],
+    [
+      "log",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "opt",
+      2
+    ],
+    [
+      "packs",
+      2
+    ],
+    [
+      "prefill",
+      2
+    ],
+    [
+      "tokenizer",
+      2
+    ]
+  ],
+  "url": "https://pastebin.com/n3Z7CDPV",
+  "url_canonical": "https://pastebin.com/n3Z7CDPV",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1cb97588",
+  "author": null,
+  "content_chars": 4169,
+  "content_sha256": "b53fe86c8cd761662d25028397728e77f846f181be92fecaaf33739ab015b627",
+  "content_tokens": 1042,
+  "fetched_at": "2026-10-27T12:09:55Z",
+  "kind": "article",
+  "published_at": "2026-10-27T07:24:59+00:00",
+  "snippet": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation. This is an early preview of a 4B model I am still training, with a particular focus on creating interactive 3D scenes with Three.js. Initial hands-on…",
+  "source_id": "latent-space",
+  "title": "ccore/Qwen3.5-4B-3D-Coder · Hugging Face",
+  "top_terms": [
+    [
+      "js",
+      10
+    ],
+    [
+      "three",
+      9
+    ],
+    [
+      "model",
+      7
+    ],
+    [
+      "html",
+      6
+    ],
+    [
+      "training",
+      6
+    ],
+    [
+      "cdnjs",
+      5
+    ],
+    [
+      "with three",
+      5
+    ],
+    [
+      "from cdnjs",
+      4
+    ],
+    [
+      "js from",
+      4
+    ],
+    [
+      "js from cdnjs",
+      4
+    ],
+    [
+      "scene",
+      4
+    ],
+    [
+      "voxel",
+      4
+    ],
+    [
+      "aerie",
+      3
+    ],
+    [
+      "built",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "perches",
+      3
+    ],
+    [
+      "please",
+      3
+    ],
+    [
+      "q8",
+      3
+    ],
+    [
+      "scenes",
+      3
+    ],
+    [
+      "self-contained",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+  "url_canonical": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+  "via_source_id": "latent-space"
+}

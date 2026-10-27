@@ -1,0 +1,235 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--8c747bd7",
+        "latent-space--f5fd7398"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 328.869909,
+      "term": "tmp",
+      "tf_today": 60
+    },
+    {
+      "articles": [
+        "latent-space--27b5391b",
+        "latent-space--caf148d8"
+      ],
+      "avg_tf_baseline": 4.0,
+      "df_today": 2,
+      "score": 266.443285,
+      "term": "android",
+      "tf_today": 283
+    },
+    {
+      "articles": [
+        "latent-space--27b5391b",
+        "latent-space--caf148d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 185.620457,
+      "term": "adb",
+      "tf_today": 38
+    },
+    {
+      "articles": [
+        "latent-space--8c747bd7",
+        "latent-space--caf148d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 179.454251,
+      "term": "txt",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "latent-space--27b5391b",
+        "latent-space--caf148d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 173.32406,
+      "term": "smart tv",
+      "tf_today": 36
+    },
+    {
+      "articles": [
+        "latent-space--8c747bd7",
+        "latent-space--f5fd7398"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 161.175779,
+      "term": "ls",
+      "tf_today": 34
+    },
+    {
+      "articles": [
+        "latent-space--27b5391b",
+        "latent-space--caf148d8"
+      ],
+      "avg_tf_baseline": 19.5,
+      "df_today": 2,
+      "score": 125.703687,
+      "term": "tv",
+      "tf_today": 578
+    },
+    {
+      "articles": [
+        "latent-space--8c747bd7",
+        "latent-space--f5fd7398"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 114.255678,
+      "term": "aliyuncs",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--27b5391b",
+        "latent-space--caf148d8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 114.255678,
+      "term": "debloat",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--27b5391b",
+        "latent-space--8c747bd7",
+        "latent-space--caf148d8",
+        "latent-space--f5fd7398"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 4,
+      "score": 94.67137,
+      "term": "probe",
+      "tf_today": 78
+    }
+  ],
+  "date": "2026-10-27",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 28824,
+    "model": "jev-1.14.0",
+    "pool_size": 59,
+    "signals": {
+      "cleanyourtv": {
+        "dominance": 1.94,
+        "event": 0.41,
+        "form": 0.8,
+        "novelty": 0.86,
+        "specificity": 0.93
+      },
+      "config": {
+        "dominance": 2.11,
+        "event": 0.24,
+        "form": 0.63,
+        "novelty": 0.51,
+        "specificity": 1.01
+      },
+      "debloat": {
+        "dominance": 1.81,
+        "event": 0.45,
+        "form": 0.79,
+        "novelty": 0.71,
+        "specificity": 0.17
+      },
+      "deibler": {
+        "dominance": 1.94,
+        "event": 0.67,
+        "form": 0.35,
+        "novelty": 0.77,
+        "specificity": 0.53
+      },
+      "flash-next-gyro-gguf": {
+        "dominance": 2.49,
+        "event": 0.27,
+        "form": 0.65,
+        "novelty": 0.87,
+        "specificity": 1.99
+      },
+      "gathin23": {
+        "dominance": 1.89,
+        "event": 0.47,
+        "form": 0.12,
+        "novelty": 0.85,
+        "specificity": 0.51
+      },
+      "growth": {
+        "dominance": 2.0,
+        "event": 0.69,
+        "form": 0.89,
+        "novelty": 0.52,
+        "specificity": 0.15
+      },
+      "gyro": {
+        "dominance": 2.52,
+        "event": 0.4,
+        "form": 0.74,
+        "novelty": 0.86,
+        "specificity": 1.75
+      },
+      "gyro-gyro-s": {
+        "dominance": 2.45,
+        "event": 0.25,
+        "form": 0.49,
+        "novelty": 0.87,
+        "specificity": 1.83
+      },
+      "ipo": {
+        "dominance": 1.94,
+        "event": 0.85,
+        "form": 0.72,
+        "novelty": 0.72,
+        "specificity": 0.01
+      },
+      "openskycam": {
+        "dominance": 2.26,
+        "event": 0.41,
+        "form": 0.9,
+        "novelty": 0.86,
+        "specificity": 1.07
+      },
+      "qwen3.8": {
+        "dominance": 2.56,
+        "event": 0.48,
+        "form": 0.8,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "smart tv": {
+        "dominance": 1.75,
+        "event": 0.49,
+        "form": 0.85,
+        "novelty": 0.78,
+        "specificity": 0.05
+      },
+      "strata": {
+        "dominance": 1.96,
+        "event": 0.13,
+        "form": 0.75,
+        "novelty": 0.82,
+        "specificity": 1.28
+      },
+      "strata-data": {
+        "dominance": 1.93,
+        "event": 0.08,
+        "form": 0.49,
+        "novelty": 0.78,
+        "specificity": 1.12
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--9495c0be",
+  "author": "Simon Willison",
+  "content_chars": 1345,
+  "content_sha256": "f2f0ff7a77b3f903ca9ce171aad1e0af8d50b92d3211347085117bfb81c8d4d8",
+  "content_tokens": 336,
+  "fetched_at": "2026-10-27T12:09:49Z",
+  "kind": "article",
+  "published_at": "2026-10-26T16:15:00+00:00",
+  "snippet": "26th October 2026 webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard…",
+  "source_id": "simonwillison",
+  "title": "webframe: evaluated as a scraper and a sandbox",
+  "top_terms": [
+    [
+      "october",
+      5
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "th",
+      5
+    ],
+    [
+      "th october",
+      5
+    ],
+    [
+      "th october 2026",
+      5
+    ],
+    [
+      "shot-scraper",
+      3
+    ],
+    [
+      "tool",
+      3
+    ],
+    [
+      "web",
+      3
+    ],
+    [
+      "webframe",
+      3
+    ],
+    [
+      "browser",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "doesn't",
+      2
+    ],
+    [
+      "github",
+      2
+    ],
+    [
+      "its paces",
+      2
+    ],
+    [
+      "javascript",
+      2
+    ],
+    [
+      "paces",
+      2
+    ],
+    [
+      "put",
+      2
+    ],
+    [
+      "put it",
+      2
+    ],
+    [
+      "shot-scraper javascript",
+      2
+    ],
+    [
+      "standard",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+  "via_source_id": null
+}

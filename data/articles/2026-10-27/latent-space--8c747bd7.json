@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--8c747bd7",
+  "author": null,
+  "content_chars": 14089,
+  "content_sha256": "606a59d5ced1999052dabac3accec23eb32d9a2c135b215c91df7d81b618e682",
+  "content_tokens": 3522,
+  "fetched_at": "2026-10-27T12:09:55Z",
+  "kind": "article",
+  "published_at": "2026-10-27T07:24:59+00:00",
+  "snippet": "This dataset contains the model trace and corresponding raw token IDs from the behaviour observed in https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model View the trace · Download the original data (Parquet) The trace viewer uses a Pi-compatible JSONL export…",
+  "source_id": "latent-space",
+  "title": "CohereLabs/10-2026-qwen-investigation-traces · Datasets at Hugging Face",
+  "top_terms": [
+    [
+      "probe",
+      71
+    ],
+    [
+      "http",
+      68
+    ],
+    [
+      "completion",
+      65
+    ],
+    [
+      "requesting",
+      65
+    ],
+    [
+      "requesting completion",
+      65
+    ],
+    [
+      "put",
+      59
+    ],
+    [
+      "tmp",
+      56
+    ],
+    [
+      "echo",
+      39
+    ],
+    [
+      "com",
+      36
+    ],
+    [
+      "dev",
+      35
+    ],
+    [
+      "exit",
+      34
+    ],
+    [
+      "null",
+      34
+    ],
+    [
+      "la",
+      33
+    ],
+    [
+      "ls",
+      33
+    ],
+    [
+      "aliyuncs",
+      25
+    ],
+    [
+      "trace",
+      21
+    ],
+    [
+      "file",
+      20
+    ],
+    [
+      "curl",
+      19
+    ],
+    [
+      "cat",
+      18
+    ],
+    [
+      "oss-ap-southeast-1",
+      18
+    ]
+  ],
+  "url": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
+  "url_canonical": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
+  "via_source_id": "latent-space"
+}

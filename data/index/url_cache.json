@@ -432,6 +432,10 @@
     "article_id": "aibreakfast--b67563da",
     "first_seen_date": "2026-04-18"
   },
+  "https://aibreakfast.beehiiv.com/p/anthropic-files-for-ipo": {
+    "article_id": "aibreakfast--d3811a3a",
+    "first_seen_date": "2026-10-27"
+  },
   "https://aibreakfast.beehiiv.com/p/anthropic-gets-183b-valuation": {
     "article_id": "aibreakfast--558c818d",
     "first_seen_date": "2026-04-15"
@@ -3794,6 +3798,10 @@
     "article_id": "codenewsletter--ea2a8e9c",
     "first_seen_date": "2026-08-27"
   },
+  "https://codenewsletter.ai/p/block-s-human-sounding-voice-ai-runs-on-laptops": {
+    "article_id": "codenewsletter--e47e62dc",
+    "first_seen_date": "2026-10-27"
+  },
   "https://codenewsletter.ai/p/castform-drops-its-rl-training-platform-openai-unveils-dev-mode-in-codex": {
     "article_id": "codenewsletter--d5e85391",
     "first_seen_date": "2026-06-13"
@@ -4474,6 +4482,10 @@
     "article_id": "nlp-newsletter--709fc524",
     "first_seen_date": "2026-09-23"
   },
+  "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": {
+    "article_id": "latent-space--f5fd7398",
+    "first_seen_date": "2026-10-27"
+  },
   "https://cohere.com/careers": {
     "article_id": "nlp-newsletter--ce6c7a7f",
     "first_seen_date": "2026-09-23"
@@ -5112,6 +5124,10 @@
     "article_id": "latent-space--6c2751e5",
     "first_seen_date": "2026-09-30"
   },
+  "https://docs.openskycam.org/": {
+    "article_id": "latent-space--c42bb7fc",
+    "first_seen_date": "2026-10-27"
+  },
   "https://docs.typesafe.ai/": {
     "article_id": "latent-space--d079c96c",
     "first_seen_date": "2026-09-23"
@@ -5507,6 +5523,18 @@
   "https://github.com/Dao-AILab/flash-attention/blob/main/usage.md": {
     "article_id": "nlp-newsletter--dd9cddb6",
     "first_seen_date": "2026-09-23"
+  },
+  "https://github.com/Deibler/edmund-harness": {
+    "article_id": "latent-space--5cdba95a",
+    "first_seen_date": "2026-10-27"
+  },
+  "https://github.com/Deibler/openskycam": {
+    "article_id": "latent-space--9626e1c5",
+    "first_seen_date": "2026-10-27"
+  },
+  "https://github.com/Gathin23/cleanyourtv": {
+    "article_id": "latent-space--caf148d8",
+    "first_seen_date": "2026-10-27"
   },
   "https://github.com/Interconnects-AI/tracked-models": {
     "article_id": "interconnects--d5660de5",
@@ -6043,6 +6071,10 @@
   "https://huggingface.co/Zyphra/ZAYA1-8B/blob/main/config.json": {
     "article_id": "ahead-of-ai--b24ad77e",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF/blob/main/Qwen3.8-Flash-Next-Gyro-S-TQ1_0.gguf": {
+    "article_id": "latent-space--eb55bfdc",
+    "first_seen_date": "2026-10-27"
   },
   "https://huggingface.co/arcee-ai/Trinity-Large-Preview": {
     "article_id": "ahead-of-ai--0b954e1f",
@@ -9796,6 +9828,10 @@
     "article_id": "latent-space--3326ffb2",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder": {
+    "article_id": "latent-space--1cb97588",
+    "first_seen_date": "2026-10-27"
+  },
   "https://huggingface.co/collections/prism-ml/bonsai-2": {
     "article_id": "latent-space--20851a51",
     "first_seen_date": "2026-09-23"
@@ -9816,6 +9852,10 @@
   "https://huggingface.co/collections/vllm-sr/decision-30": {
     "article_id": "latent-space--1119a2f6",
     "first_seen_date": "2026-10-13"
+  },
+  "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces": {
+    "article_id": "latent-space--8c747bd7",
+    "first_seen_date": "2026-10-27"
   },
   "https://huggingface.co/datasets/bigscience/P3": {
     "article_id": "nlp-newsletter--49599190",
@@ -10256,6 +10296,10 @@
     "article_id": "latent-space--2c44a4dd",
     "first_seen_date": "2026-10-24"
   },
+  "https://latent.space/p/ainews-anthropic-s1": {
+    "article_id": "latent-space--27b5391b",
+    "first_seen_date": "2026-10-27"
+  },
   "https://latent.space/p/ainews-black-october": {
     "article_id": "latent-space--b9160681",
     "first_seen_date": "2026-10-23"
@@ -10595,6 +10639,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fai-is-getting-good-at-math%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-24",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-anthropic-s1%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-10-27",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-black-october%2F": {
@@ -11096,6 +11145,10 @@
     "article_id": "openai-blog--68590f1e",
     "first_seen_date": "2026-05-14"
   },
+  "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+    "article_id": "openai-blog--4406cd86",
+    "first_seen_date": "2026-10-27"
+  },
   "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
     "article_id": "openai-blog--fc09d249",
     "first_seen_date": "2026-05-28"
@@ -11131,6 +11184,10 @@
   "https://openai.com/index/chatgpt-enterprise-spend-controls": {
     "article_id": "openai-blog--33900c37",
     "first_seen_date": "2026-06-19"
+  },
+  "https://openai.com/index/chatgpt-expanding-world-of-work": {
+    "article_id": "openai-blog--36b23791",
+    "first_seen_date": "2026-10-27"
   },
   "https://openai.com/index/chatgpt-for-academic-researchers": {
     "article_id": "openai-blog--dd5f6f5e",
@@ -11348,6 +11405,10 @@
     "article_id": "openai-blog--520845d2",
     "first_seen_date": "2026-08-27"
   },
+  "https://openai.com/index/fanatics-streamline-fan-experience": {
+    "article_id": "openai-blog--c924ca1e",
+    "first_seen_date": "2026-10-27"
+  },
   "https://openai.com/index/forward-deployed-engineering-means": {
     "article_id": "openai-blog--05b2dbf9",
     "first_seen_date": "2026-10-23"
@@ -11420,6 +11481,10 @@
     "article_id": "openai-blog--e07600f4",
     "first_seen_date": "2026-06-24"
   },
+  "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+    "article_id": "openai-blog--31285631",
+    "first_seen_date": "2026-10-27"
+  },
   "https://openai.com/index/gpt-6-astra": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -11440,6 +11505,10 @@
   "https://openai.com/index/gradient-labs": {
     "article_id": "openai-blog--544b188c",
     "first_seen_date": "2026-04-13"
+  },
+  "https://openai.com/index/greptile-code-review-codex-astra": {
+    "article_id": "openai-blog--af9bd354",
+    "first_seen_date": "2026-10-27"
   },
   "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
     "article_id": "openai-blog--399289c7",
@@ -11614,6 +11683,10 @@
   "https://openai.com/index/introducing-gpt-6-1-sol": {
     "article_id": "openai-blog--46b803d9",
     "first_seen_date": "2026-09-30"
+  },
+  "https://openai.com/index/introducing-gpt-6-1-terra": {
+    "article_id": "openai-blog--929ce259",
+    "first_seen_date": "2026-10-27"
   },
   "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
     "article_id": "openai-blog--8ff9eb02",
@@ -11857,6 +11930,10 @@
   "https://openai.com/index/openai-campus-network-student-club-interest-form": {
     "article_id": "openai-blog--5d7a0a74",
     "first_seen_date": "2026-05-11"
+  },
+  "https://openai.com/index/openai-cut-incident-investigation": {
+    "article_id": "openai-blog--62ae5943",
+    "first_seen_date": "2026-10-27"
   },
   "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
     "article_id": "openai-blog--f7a61178",
@@ -12562,9 +12639,17 @@
     "article_id": "nlp-newsletter--062f6c07",
     "first_seen_date": "2026-09-23"
   },
+  "https://pastebin.com/LQt1JtEq": {
+    "article_id": "latent-space--41062d3a",
+    "first_seen_date": "2026-10-27"
+  },
   "https://pastebin.com/Y5VHvzvD": {
     "article_id": "latent-space--ccc76ad1",
     "first_seen_date": "2026-09-23"
+  },
+  "https://pastebin.com/n3Z7CDPV": {
+    "article_id": "latent-space--eb330fed",
+    "first_seen_date": "2026-10-27"
   },
   "https://patchtheplanet.org/": {
     "article_id": null,
@@ -13175,6 +13260,18 @@
   "https://simonwillison.net/2026/Oct/25/seam-cutter": {
     "article_id": "simonwillison--4dcc505b",
     "first_seen_date": "2026-10-26"
+  },
+  "https://simonwillison.net/2026/Oct/26/gpt-61-terra": {
+    "article_id": "simonwillison--0ce1a848",
+    "first_seen_date": "2026-10-27"
+  },
+  "https://simonwillison.net/2026/Oct/26/jason-koebler": {
+    "article_id": "simonwillison--1039f9b3",
+    "first_seen_date": "2026-10-27"
+  },
+  "https://simonwillison.net/2026/Oct/26/webframe-evaluation": {
+    "article_id": "simonwillison--9495c0be",
+    "first_seen_date": "2026-10-27"
   },
   "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": {
     "article_id": "simonwillison--be2a363e",
@@ -16357,6 +16454,11 @@
     "article_id": "ahead-of-ai--78674732",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": {
+    "article_id": null,
+    "first_seen_date": "2026-10-27",
+    "status": "fetch_failed"
+  },
   "https://www.semafor.com/article/09/22/2026/bessent-eyed-for-trumps-ai-czar": {
     "article_id": "last-week-in-ai--4138ba1b",
     "first_seen_date": "2026-10-03"
@@ -16544,6 +16646,14 @@
   "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms": {
     "article_id": "mit-tech-review-ai--173bf51c",
     "first_seen_date": "2026-10-26"
+  },
+  "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up": {
+    "article_id": "mit-tech-review-ai--6e753e68",
+    "first_seen_date": "2026-10-27"
+  },
+  "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing": {
+    "article_id": "mit-tech-review-ai--925eeefc",
+    "first_seen_date": "2026-10-27"
   },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",
