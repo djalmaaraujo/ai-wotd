@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a62e2313",
+  "author": "Hugging Face Blog",
+  "content_chars": 3369,
+  "content_sha256": "ac39060a2670079ab3a40f129d051cad62126c8f7dfcb143442ea2fd32d7531a",
+  "content_tokens": 842,
+  "fetched_at": "2026-10-28T12:48:53Z",
+  "kind": "article",
+  "published_at": "2020-09-10T00:00:00+00:00",
+  "snippet": "In previous blog posts we introduced sparse matrices and what they could do to improve neural networks. The basic assumption is that full dense layers are often overkill and can be pruned without a significant loss in precision. In some cases sparse linear layers can even…",
+  "source_id": "huggingface-blog",
+  "title": "Block Sparse Matrices for Smaller and Faster Language Models",
+  "top_terms": [
+    [
+      "sparse",
+      12
+    ],
+    [
+      "sparsity",
+      6
+    ],
+    [
+      "block",
+      5
+    ],
+    [
+      "cutlass",
+      5
+    ],
+    [
+      "linear",
+      5
+    ],
+    [
+      "matrices",
+      5
+    ],
+    [
+      "pytorch",
+      5
+    ],
+    [
+      "sparse matrices",
+      5
+    ],
+    [
+      "dense",
+      4
+    ],
+    [
+      "improve",
+      4
+    ],
+    [
+      "versions",
+      4
+    ],
+    [
+      "blocksparselinear",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "cuda",
+      3
+    ],
+    [
+      "extension",
+      3
+    ],
+    [
+      "faster",
+      3
+    ],
+    [
+      "future",
+      3
+    ],
+    [
+      "layers",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "networks",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/pytorch_block_sparse",
+  "url_canonical": "https://huggingface.co/blog/pytorch_block_sparse",
+  "via_source_id": null
+}

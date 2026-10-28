@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--590c149d",
+  "author": null,
+  "content_chars": 2122,
+  "content_sha256": "cf52a611465eed7a5add62cf66ed63604db2e3a739c479600b60cb96eee773e0",
+  "content_tokens": 530,
+  "fetched_at": "2026-10-28T12:51:47Z",
+  "kind": "article",
+  "published_at": "2026-10-28T08:50:30+00:00",
+  "snippet": "Computer Science > Computation and Language Title:TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning View PDF HTML (experimental)Abstract:Expert human readers process large inputs (e.g., code repositories and long documents) by skimming to…",
+  "source_id": "latent-space",
+  "title": "[2610.26754] TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+  "top_terms": [
+    [
+      "token",
+      6
+    ],
+    [
+      "tokengate",
+      6
+    ],
+    [
+      "prefill",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "pruning",
+      4
+    ],
+    [
+      "times",
+      4
+    ],
+    [
+      "token pruning",
+      4
+    ],
+    [
+      "and memory-efficient",
+      3
+    ],
+    [
+      "and memory-efficient prefill",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "fast",
+      3
+    ],
+    [
+      "fast and",
+      3
+    ],
+    [
+      "fast and memory-efficient",
+      3
+    ],
+    [
+      "for fast",
+      3
+    ],
+    [
+      "for fast and",
+      3
+    ],
+    [
+      "inputs",
+      3
+    ],
+    [
+      "memory-efficient",
+      3
+    ],
+    [
+      "memory-efficient prefill",
+      3
+    ],
+    [
+      "models",
+      3
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2610.26754",
+  "url_canonical": "https://arxiv.org/abs/2610.26754",
+  "via_source_id": "latent-space"
+}

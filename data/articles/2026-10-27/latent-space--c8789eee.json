@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c8789eee",
+  "author": null,
+  "content_chars": 1649,
+  "content_sha256": "a1b14dc106757a10e5d19beed6d954d20dd52a805045c167e5ebcc501b931fd7",
+  "content_tokens": 412,
+  "fetched_at": "2026-10-28T12:51:55Z",
+  "kind": "article",
+  "published_at": "2026-10-27T14:41:25+00:00",
+  "snippet": "Aider can connect to local Ollama models. First, install aider: python -m pip install aider-install aider-install Then configure your Ollama API endpoint (usually the default): export OLLAMA_API_BASE=http://127.0.0.1:11434 # Mac/Linux setx OLLAMA_API_BASE http://127.0.0.1:11434…",
+  "source_id": "latent-space",
+  "title": "Ollama | aider",
+  "top_terms": [
+    [
+      "ollama",
+      22
+    ],
+    [
+      "aider",
+      9
+    ],
+    [
+      "api",
+      7
+    ],
+    [
+      "context",
+      6
+    ],
+    [
+      "model",
+      6
+    ],
+    [
+      "window",
+      6
+    ],
+    [
+      "context window",
+      4
+    ],
+    [
+      "key",
+      4
+    ],
+    [
+      "setx",
+      4
+    ],
+    [
+      "default",
+      3
+    ],
+    [
+      "setx ollama",
+      3
+    ],
+    [
+      "working",
+      3
+    ],
+    [
+      "working with",
+      3
+    ],
+    [
+      "after setx",
+      2
+    ],
+    [
+      "aider-install",
+      2
+    ],
+    [
+      "api-key",
+      2
+    ],
+    [
+      "base",
+      2
+    ],
+    [
+      "by default",
+      2
+    ],
+    [
+      "by ollama",
+      2
+    ],
+    [
+      "chat",
+      2
+    ]
+  ],
+  "url": "https://aider.chat/docs/llms/ollama.html",
+  "url_canonical": "https://aider.chat/docs/llms/ollama.html",
+  "via_source_id": "latent-space"
+}

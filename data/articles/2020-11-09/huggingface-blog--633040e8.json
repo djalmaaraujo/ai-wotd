@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--633040e8",
+  "author": "Hugging Face Blog",
+  "content_chars": 87274,
+  "content_sha256": "f55ac9f9ff242e52748312cdb9a8af22ff9226697b61329635c0ad1ae27b8ba2",
+  "content_tokens": 21818,
+  "fetched_at": "2026-10-28T12:48:51Z",
+  "kind": "article",
+  "published_at": "2020-11-09T00:00:00+00:00",
+  "snippet": "Transformer-based encoder-decoder models were proposed in Vaswani et al. (2017) and have recently experienced a surge of interest, e.g. Lewis et al. (2019), Raffel et al. (2019), Zhang et al. (2020), Zaheer et al. (2020), Yan et al. (2020). Similar to BERT and GPT2, massive…",
+  "source_id": "huggingface-blog",
+  "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
+  "top_terms": [
+    [
+      "encoder",
+      192
+    ],
+    [
+      "bert",
+      165
+    ],
+    [
+      "model",
+      133
+    ],
+    [
+      "crossattention",
+      122
+    ],
+    [
+      "output",
+      105
+    ],
+    [
+      "decoder",
+      95
+    ],
+    [
+      "models",
+      94
+    ],
+    [
+      "encoder-decoder",
+      80
+    ],
+    [
+      "self",
+      78
+    ],
+    [
+      "true",
+      74
+    ],
+    [
+      "features",
+      72
+    ],
+    [
+      "data",
+      66
+    ],
+    [
+      "bert2bert",
+      63
+    ],
+    [
+      "bias'",
+      61
+    ],
+    [
+      "weight'",
+      61
+    ],
+    [
+      "layernorm",
+      50
+    ],
+    [
+      "input",
+      46
+    ],
+    [
+      "pre-trained",
+      46
+    ],
+    [
+      "encoder-decoder models",
+      45
+    ],
+    [
+      "length",
+      45
+    ]
+  ],
+  "url": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+  "url_canonical": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+  "via_source_id": null
+}

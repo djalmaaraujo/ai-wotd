@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--270c8bd0",
+  "author": "Hugging Face Blog",
+  "content_chars": 4922,
+  "content_sha256": "ab2aa8a9eb511cc1ce6c4e5186d9e72e4328827574f2591cf4699e7102179346",
+  "content_tokens": 1230,
+  "fetched_at": "2026-10-28T12:48:52Z",
+  "kind": "article",
+  "published_at": "2020-11-02T00:00:00+00:00",
+  "snippet": "With cutting edge research implementations, thousands of trained models easily accessible, the Hugging Face transformers library has become critical to the success and growth of natural language processing today. For any machine learning model to achieve good performance, users…",
+  "source_id": "huggingface-blog",
+  "title": "Hyperparameter Search with Transformers and Ray Tune",
+  "top_terms": [
+    [
+      "dataset",
+      14
+    ],
+    [
+      "ray",
+      14
+    ],
+    [
+      "transformers",
+      12
+    ],
+    [
+      "tune",
+      11
+    ],
+    [
+      "hyperparameter",
+      10
+    ],
+    [
+      "search",
+      9
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "face",
+      7
+    ],
+    [
+      "hugging",
+      7
+    ],
+    [
+      "hugging face",
+      7
+    ],
+    [
+      "metrics",
+      7
+    ],
+    [
+      "trainer",
+      7
+    ],
+    [
+      "tuning",
+      7
+    ],
+    [
+      "compute",
+      6
+    ],
+    [
+      "metric",
+      6
+    ],
+    [
+      "tokenizer",
+      6
+    ],
+    [
+      "training",
+      6
+    ],
+    [
+      "args",
+      5
+    ],
+    [
+      "encoded",
+      5
+    ],
+    [
+      "eval",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ray-tune",
+  "url_canonical": "https://huggingface.co/blog/ray-tune",
+  "via_source_id": null
+}

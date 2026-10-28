@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--0e38c8b4",
+  "author": null,
+  "content_chars": 25045,
+  "content_sha256": "7975d2b2c447a132de39255df007058c15d446a6441566c0270b340f07eeb110",
+  "content_tokens": 6261,
+  "fetched_at": "2026-10-28T12:51:55Z",
+  "kind": "article",
+  "published_at": "2026-10-27T14:41:25+00:00",
+  "snippet": "This repository contains model weights and configuration files for the post-trained model in the Hugging Face Transformers format. These artifacts are compatible with Hugging Face Transformers, vLLM, SGLang, KTransformers, etc. Over recent months, we have intensified our focus…",
+  "source_id": "latent-space",
+  "title": "Qwen/Qwen3.5-9B · Hugging Face",
+  "top_terms": [
+    [
+      "qwen3.5",
+      48
+    ],
+    [
+      "model",
+      27
+    ],
+    [
+      "top",
+      24
+    ],
+    [
+      "chat",
+      22
+    ],
+    [
+      "qwen",
+      22
+    ],
+    [
+      "vllm",
+      22
+    ],
+    [
+      "penalty",
+      21
+    ],
+    [
+      "api",
+      20
+    ],
+    [
+      "following",
+      20
+    ],
+    [
+      "the following",
+      19
+    ],
+    [
+      "messages",
+      18
+    ],
+    [
+      "openai",
+      18
+    ],
+    [
+      "thinking",
+      17
+    ],
+    [
+      "tokens",
+      16
+    ],
+    [
+      "qwen3",
+      15
+    ],
+    [
+      "response",
+      15
+    ],
+    [
+      "sglang",
+      15
+    ],
+    [
+      "mode",
+      14
+    ],
+    [
+      "presence",
+      13
+    ],
+    [
+      "type",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+  "url_canonical": "https://huggingface.co/Qwen/Qwen3.5-9B",
+  "via_source_id": "latent-space"
+}

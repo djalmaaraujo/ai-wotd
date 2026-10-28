@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c4f69197",
+  "author": null,
+  "content_chars": 24813,
+  "content_sha256": "eb0d312badcdb1cb37b0f74860347355f74911ef1292383f0c62f3f7b3bbf368",
+  "content_tokens": 6203,
+  "fetched_at": "2026-10-28T12:51:51Z",
+  "kind": "article",
+  "published_at": "2026-10-27T18:53:10+00:00",
+  "snippet": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two…",
+  "source_id": "latent-space",
+  "title": "How we contain Claude across products \\ Anthropic",
+  "top_terms": [
+    [
+      "claude",
+      55
+    ],
+    [
+      "agent",
+      40
+    ],
+    [
+      "user",
+      26
+    ],
+    [
+      "code",
+      25
+    ],
+    [
+      "the agent",
+      24
+    ],
+    [
+      "claude code",
+      16
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "access",
+      14
+    ],
+    [
+      "agents",
+      14
+    ],
+    [
+      "the user",
+      14
+    ],
+    [
+      "prompt",
+      13
+    ],
+    [
+      "tool",
+      13
+    ],
+    [
+      "vm",
+      13
+    ],
+    [
+      "cowork",
+      12
+    ],
+    [
+      "inside",
+      11
+    ],
+    [
+      "anthropic",
+      10
+    ],
+    [
+      "risk",
+      10
+    ],
+    [
+      "the vm",
+      10
+    ],
+    [
+      "api",
+      9
+    ],
+    [
+      "claude cowork",
+      9
+    ]
+  ],
+  "url": "https://www.anthropic.com/research/how-we-contain-claude",
+  "url_canonical": "https://www.anthropic.com/research/how-we-contain-claude",
+  "via_source_id": "latent-space"
+}

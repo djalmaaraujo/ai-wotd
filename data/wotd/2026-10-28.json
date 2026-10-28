@@ -1,0 +1,289 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--b094c342",
+        "latent-space--dc5ff1b4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 438.193199,
+      "term": "coffee",
+      "tf_today": 78
+    },
+    {
+      "articles": [
+        "latent-space--031a495b",
+        "latent-space--590c149d",
+        "latent-space--d3cebc5f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 159.840346,
+      "term": "tokengate",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "latent-space--031a495b",
+        "latent-space--07c00511",
+        "latent-space--6514e63e",
+        "latent-space--c949d28f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 134.658478,
+      "term": "lfm3-1.7",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--b094c342",
+        "latent-space--dc5ff1b4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 110.175118,
+      "term": "starbucks",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--031a495b",
+        "latent-space--07c00511",
+        "latent-space--c949d28f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 81.312733,
+      "term": "lfm3",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "latent-space--c949d28f",
+        "latent-space--d3cebc5f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 73.18146,
+      "term": "val",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "latent-space--031a495b",
+        "latent-space--07c00511",
+        "latent-space--c949d28f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 64.759162,
+      "term": "liquid",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "latent-space--031a495b",
+        "latent-space--c949d28f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 58.283246,
+      "term": "lfm3-vl-2b",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "latent-space--b094c342",
+        "latent-space--dc5ff1b4",
+        "mit-tech-review-ai--76ea6adc"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 49.011065,
+      "term": "beverage",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--031a495b",
+        "latent-space--07c00511",
+        "latent-space--6514e63e",
+        "latent-space--c949d28f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 48.367616,
+      "term": "liquidai",
+      "tf_today": 12
+    }
+  ],
+  "date": "2026-10-28",
+  "evidence_article_ids": [
+    "latent-space--031a495b",
+    "latent-space--07c00511",
+    "latent-space--c949d28f"
+  ],
+  "judge": {
+    "input_tokens": 28931,
+    "model": "jev-1.14.0",
+    "pool_size": 58,
+    "signals": {
+      "coding interviews": {
+        "dominance": 1.95,
+        "event": 0.95,
+        "form": 0.87,
+        "novelty": 0.79,
+        "specificity": 0.07
+      },
+      "gpu": {
+        "dominance": 2.33,
+        "event": 0.87,
+        "form": 0.8,
+        "novelty": 0.66,
+        "specificity": 1.56
+      },
+      "hugging face": {
+        "dominance": 2.6,
+        "event": 0.74,
+        "form": 0.83,
+        "novelty": 0.55,
+        "specificity": 1.1
+      },
+      "learned token pruning": {
+        "dominance": 2.07,
+        "event": 0.93,
+        "form": 0.92,
+        "novelty": 0.83,
+        "specificity": 2.0
+      },
+      "lfm3": {
+        "dominance": 2.64,
+        "event": 0.93,
+        "form": 0.83,
+        "novelty": 0.74,
+        "specificity": 1.99
+      },
+      "lfm3-1.7": {
+        "dominance": 2.43,
+        "event": 0.88,
+        "form": 0.67,
+        "novelty": 0.74,
+        "specificity": 2.0
+      },
+      "lfm3-vl-2b": {
+        "dominance": 1.9,
+        "event": 0.86,
+        "form": 0.88,
+        "novelty": 0.72,
+        "specificity": 2.0
+      },
+      "liquid ai": {
+        "dominance": 2.2,
+        "event": 0.81,
+        "form": 0.82,
+        "novelty": 0.79,
+        "specificity": 1.39
+      },
+      "liquidai": {
+        "dominance": 2.08,
+        "event": 0.78,
+        "form": 0.69,
+        "novelty": 0.75,
+        "specificity": 1.38
+      },
+      "llms": {
+        "dominance": 2.78,
+        "event": 0.95,
+        "form": 0.72,
+        "novelty": 0.23,
+        "specificity": 1.59
+      },
+      "memory-efficient prefill": {
+        "dominance": 2.1,
+        "event": 0.91,
+        "form": 0.83,
+        "novelty": 0.78,
+        "specificity": 2.0
+      },
+      "prefill": {
+        "dominance": 2.04,
+        "event": 0.88,
+        "form": 0.68,
+        "novelty": 0.75,
+        "specificity": 2.0
+      },
+      "pruning": {
+        "dominance": 1.96,
+        "event": 0.9,
+        "form": 0.88,
+        "novelty": 0.75,
+        "specificity": 2.0
+      },
+      "rtx 4090": {
+        "dominance": 1.7,
+        "event": 0.84,
+        "form": 0.9,
+        "novelty": 0.71,
+        "specificity": 1.96
+      },
+      "token pruning": {
+        "dominance": 2.07,
+        "event": 0.91,
+        "form": 0.93,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "tokengate": {
+        "dominance": 2.11,
+        "event": 0.9,
+        "form": 0.83,
+        "novelty": 0.86,
+        "specificity": 1.95
+      },
+      "tokens": {
+        "dominance": 2.17,
+        "event": 0.87,
+        "form": 0.81,
+        "novelty": 0.63,
+        "specificity": 1.9
+      },
+      "unlock": {
+        "dominance": 2.19,
+        "event": 0.89,
+        "form": 0.79,
+        "novelty": 0.77,
+        "specificity": 1.2
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "lfm3",
+      "tokengate",
+      "learned token pruning",
+      "token pruning",
+      "memory-efficient prefill",
+      "tokens",
+      "pruning",
+      "lfm3-vl-2b",
+      "rtx 4090"
+    ]
+  },
+  "label": "LFM3",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "https://huggingface.co/LiquidAI/LFM3-VL-2B"
+      ],
+      "text": "LFM3 is Liquid AI's latest family of efficient foundation models built on a proprietary \"tri-hybrid architecture\" that blends liquid neural network dynamics with attention and other components to achieve high performance at very small parameter counts. The family includes text (LFM3-1.7B) and vision-language (LFM3-VL-2B) variants, both offering 256K-token context windows, 4-bit quantization footprints around 1 GB for on-device deployment, and post-training for agentic workflows. The VL model adds an in-house vision encoder, video understanding, and explicit step-by-step reasoning. LFM3 matters because it pushes frontier capabilities — long context, multimodal reasoning, agentic behavior — into the mobile and edge compute envelope, enabling local-first AI applications without cloud dependency."
+    },
+    "generated_at": "2026-10-28T12:53:27.431300+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Liquid AI released the LFM3 model family on Hugging Face, headlined by the 1.7B-parameter text model (LFM3-1.7B) and the 2B-parameter vision-language model (LFM3-VL-2B). Both are built on a new \"tri-hybrid architecture\" and target on-device deployment: the text model fits in ~1 GB at 4-bit quantization with a 256K-token context window and agentic post-training for Hermes Agent, Pi, and OpenClaw harnesses; the vision-language variant adds an in-house vision encoder, video understanding, step-by-step reasoning, and spatial reasoning. Meanwhile, Anthropic announced it is dropping traditional coding interviews in favor of evaluating \"hunger\" over tenure, and Google Genie, Artificial Analysis, and FrontierCode shipped annual incremental updates. The trending terms lfm3-1.7 and lfm3 reflect the model launch, while coffee and starbucks appear as unrelated noise in the corpus.",
+    "why": "LFM3 trended because Liquid AI published two Hugging Face model cards — LFM3-1.7B and LFM3-VL-2B — detailing a new tri-hybrid architecture, 256K context, agentic training, sub-1GB edge footprint, and the first LFM vision model with video input and reasoning capabilities, driving concentrated discussion across the tracked sources."
+  },
+  "score": 81.312733,
+  "word": "lfm3"
+}

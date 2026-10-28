@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a5a0fb0a",
+  "author": "Hugging Face Blog",
+  "content_chars": 35790,
+  "content_sha256": "3c4b24477555983925f9fd1844765eacaef2e2e6895bc0160a126c98d60df465",
+  "content_tokens": 8947,
+  "fetched_at": "2026-10-28T12:48:49Z",
+  "kind": "article",
+  "published_at": "2021-03-12T00:00:00+00:00",
+  "snippet": "Wav2Vec2 is a pretrained model for Automatic Speech Recognition (ASR) and was released in September 2020 by Alexei Baevski, Michael Auli, and Alex Conneau. Using a novel contrastive pretraining objective, Wav2Vec2 learns powerful speech representations from more than 50.000…",
+  "source_id": "huggingface-blog",
+  "title": "Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers",
+  "top_terms": [
+    [
+      "pad",
+      66
+    ],
+    [
+      "model",
+      57
+    ],
+    [
+      "data",
+      37
+    ],
+    [
+      "batch",
+      36
+    ],
+    [
+      "speech",
+      35
+    ],
+    [
+      "timit",
+      35
+    ],
+    [
+      "input",
+      32
+    ],
+    [
+      "rate",
+      31
+    ],
+    [
+      "dataset",
+      30
+    ],
+    [
+      "audio",
+      29
+    ],
+    [
+      "processor",
+      29
+    ],
+    [
+      "training",
+      28
+    ],
+    [
+      "output",
+      26
+    ],
+    [
+      "feature",
+      25
+    ],
+    [
+      "the model",
+      25
+    ],
+    [
+      "token",
+      25
+    ],
+    [
+      "length",
+      24
+    ],
+    [
+      "padding",
+      24
+    ],
+    [
+      "train",
+      24
+    ],
+    [
+      "sampling",
+      23
+    ]
+  ],
+  "url": "https://huggingface.co/blog/fine-tune-wav2vec2-english",
+  "url_canonical": "https://huggingface.co/blog/fine-tune-wav2vec2-english",
+  "via_source_id": null
+}

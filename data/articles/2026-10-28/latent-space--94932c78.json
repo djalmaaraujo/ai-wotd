@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--94932c78",
+  "author": null,
+  "content_chars": 15725,
+  "content_sha256": "120f9da08befcf393a2b18a8ce10229befa4448ea323e1ad8240a22407882744",
+  "content_tokens": 3931,
+  "fetched_at": "2026-10-28T12:51:49Z",
+  "kind": "article",
+  "published_at": "2026-10-28T08:50:30+00:00",
+  "snippet": "New to this project? Start with the copy-paste Quick Start. This Linux kernel module enables the SM speed-select override before the stock NVIDIA driver starts. RTX 4090 (10de:2684 , AD102) support has demonstrated approximately 2× FP16 and BF16 tensor throughput with FP32…",
+  "source_id": "latent-space",
+  "title": "GitHub - JustAResearcher/gpu-unlock-ada: GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally · GitHub",
+  "top_terms": [
+    [
+      "rtx",
+      37
+    ],
+    [
+      "card",
+      27
+    ],
+    [
+      "firmware",
+      26
+    ],
+    [
+      "nvidia",
+      23
+    ],
+    [
+      "unlock",
+      23
+    ],
+    [
+      "exact",
+      22
+    ],
+    [
+      "gpu",
+      22
+    ],
+    [
+      "matched",
+      21
+    ],
+    [
+      "experimental",
+      20
+    ],
+    [
+      "report",
+      19
+    ],
+    [
+      "tf",
+      19
+    ],
+    [
+      "fp32",
+      16
+    ],
+    [
+      "module",
+      15
+    ],
+    [
+      "rtx 4090",
+      14
+    ],
+    [
+      "one card",
+      13
+    ],
+    [
+      "boot",
+      12
+    ],
+    [
+      "ad103",
+      11
+    ],
+    [
+      "kernel",
+      11
+    ],
+    [
+      "payload",
+      11
+    ],
+    [
+      "rtx 4070",
+      11
+    ]
+  ],
+  "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+  "url_canonical": "https://github.com/JustAResearcher/gpu-unlock-ada",
+  "via_source_id": "latent-space"
+}

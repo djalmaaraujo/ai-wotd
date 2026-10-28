@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d3cebc5f",
+  "author": null,
+  "content_chars": 12343,
+  "content_sha256": "6ea7ff21ede08dd3d74f976004e49925cc5e8cc54d7e00d14b69bec9937ef322",
+  "content_tokens": 3085,
+  "fetched_at": "2026-10-28T12:51:48Z",
+  "kind": "article",
+  "published_at": "2026-10-28T08:50:30+00:00",
+  "snippet": "LLMs that can skim their context to selectively read the tokens that matter. Skimming beats full reads: up to 11x speedup & 3x lower memory for long-context prefill. Paper · Quick start · How it works · Reproducing results Current language models read all tokens of their input…",
+  "source_id": "latent-space",
+  "title": "GitHub - token-gate-llms/TokenGate: https://arxiv.org/abs/2610.26754 Process all your context faster with LLMs that can skim and read what matters · GitHub",
+  "top_terms": [
+    [
+      "gate",
+      23
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "niah",
+      19
+    ],
+    [
+      "tokengate",
+      18
+    ],
+    [
+      "dataset",
+      14
+    ],
+    [
+      "train",
+      14
+    ],
+    [
+      "prefill",
+      13
+    ],
+    [
+      "python",
+      12
+    ],
+    [
+      "split",
+      12
+    ],
+    [
+      "tokens",
+      12
+    ],
+    [
+      "py",
+      11
+    ],
+    [
+      "base",
+      10
+    ],
+    [
+      "datasets",
+      10
+    ],
+    [
+      "training",
+      10
+    ],
+    [
+      "answer",
+      9
+    ],
+    [
+      "eval",
+      9
+    ],
+    [
+      "example",
+      9
+    ],
+    [
+      "run",
+      9
+    ],
+    [
+      "state",
+      9
+    ],
+    [
+      "test",
+      9
+    ]
+  ],
+  "url": "https://github.com/token-gate-llms/TokenGate",
+  "url_canonical": "https://github.com/token-gate-llms/TokenGate",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e8e6bdc9",
+  "author": null,
+  "content_chars": 5336,
+  "content_sha256": "a3bd547d0a97559bf4086a4ec7412b4c4cdf8aaef81e5346ed1b6b7135178fc7",
+  "content_tokens": 1334,
+  "fetched_at": "2026-10-28T12:51:48Z",
+  "kind": "article",
+  "published_at": "2026-10-28T08:50:30+00:00",
+  "snippet": "Board-specific research into a volatile, pre-OS tensor-compute unlock on an ASUS RTX 2080 Ti (TU102, SM75). One physical v4 run succeeded on 2026-10-22. This repository publishes the loader source, host-side tests, benchmark code and measured results. It is not a general-purpose…",
+  "source_id": "latent-space",
+  "title": "GitHub - haohervchb/Turing-unlock: 2080ti TU102 doing the unlock trick · GitHub",
+  "top_terms": [
+    [
+      "firmware",
+      8
+    ],
+    [
+      "tools",
+      8
+    ],
+    [
+      "dma",
+      7
+    ],
+    [
+      "gpu",
+      7
+    ],
+    [
+      "tu102",
+      7
+    ],
+    [
+      "build",
+      6
+    ],
+    [
+      "run",
+      6
+    ],
+    [
+      "unlock",
+      6
+    ],
+    [
+      "mining",
+      5
+    ],
+    [
+      "tests",
+      5
+    ],
+    [
+      "cuda",
+      4
+    ],
+    [
+      "path",
+      4
+    ],
+    [
+      "results",
+      4
+    ],
+    [
+      "tensor",
+      4
+    ],
+    [
+      "test",
+      4
+    ],
+    [
+      "ti",
+      4
+    ],
+    [
+      "bash",
+      3
+    ],
+    [
+      "bash tools",
+      3
+    ],
+    [
+      "benchmark",
+      3
+    ],
+    [
+      "card",
+      3
+    ]
+  ],
+  "url": "https://github.com/haohervchb/Turing-unlock",
+  "url_canonical": "https://github.com/haohervchb/Turing-unlock",
+  "via_source_id": "latent-space"
+}

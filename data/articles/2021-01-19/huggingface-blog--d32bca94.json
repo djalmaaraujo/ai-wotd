@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--d32bca94",
+  "author": "Hugging Face Blog",
+  "content_chars": 13107,
+  "content_sha256": "18da1a68ac1498ddc83d06a5901c1a9420eee5f1f00c1a9234563673dfa06e6c",
+  "content_tokens": 3276,
+  "fetched_at": "2026-10-28T12:48:51Z",
+  "kind": "article",
+  "published_at": "2021-01-19T00:00:00+00:00",
+  "snippet": "A guest blog post by Hugging Face fellow Stas Bekman As recent Machine Learning models have been growing much faster than the amount of GPU memory added to newly released cards, many users are unable to train or even just load some of those huge models onto their hardware. While…",
+  "source_id": "huggingface-blog",
+  "title": "Fit More and Train Faster With ZeRO via DeepSpeed and FairScale",
+  "top_terms": [
+    [
+      "deepspeed",
+      31
+    ],
+    [
+      "fairscale",
+      18
+    ],
+    [
+      "gpu",
+      17
+    ],
+    [
+      "memory",
+      16
+    ],
+    [
+      "zero",
+      15
+    ],
+    [
+      "size",
+      14
+    ],
+    [
+      "train",
+      14
+    ],
+    [
+      "bs",
+      13
+    ],
+    [
+      "model",
+      12
+    ],
+    [
+      "training",
+      12
+    ],
+    [
+      "batch",
+      10
+    ],
+    [
+      "it's",
+      10
+    ],
+    [
+      "paper",
+      10
+    ],
+    [
+      "trainer",
+      10
+    ],
+    [
+      "command",
+      9
+    ],
+    [
+      "transformers",
+      9
+    ],
+    [
+      "command line",
+      8
+    ],
+    [
+      "ddp",
+      8
+    ],
+    [
+      "line",
+      8
+    ],
+    [
+      "deepspeed and",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+  "url_canonical": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+  "via_source_id": null
+}

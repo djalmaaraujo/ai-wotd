@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c243a735",
+  "author": "Hugging Face Blog",
+  "content_chars": 20212,
+  "content_sha256": "314ae83c20c3b1a753367663ec9a1a8169447c7e98b3db20bb10f07a59ae08a4",
+  "content_tokens": 5053,
+  "fetched_at": "2026-10-28T12:48:54Z",
+  "kind": "article",
+  "published_at": "2020-03-01T00:00:00+00:00",
+  "snippet": "Note: Edited on July 2023 with up-to-date references and examples. In recent years, there has been an increasing interest in open-ended language generation thanks to the rise of large transformer-based language models trained on millions of webpages, including OpenAI's ChatGPT…",
+  "source_id": "huggingface-blog",
+  "title": "How to generate text: using different decoding methods for language generation with Transformers",
+  "top_terms": [
+    [
+      "output",
+      42
+    ],
+    [
+      "words",
+      30
+    ],
+    [
+      "probability",
+      29
+    ],
+    [
+      "set",
+      29
+    ],
+    [
+      "word",
+      29
+    ],
+    [
+      "beam",
+      28
+    ],
+    [
+      "model",
+      27
+    ],
+    [
+      "sampling",
+      27
+    ],
+    [
+      "search",
+      24
+    ],
+    [
+      "sample",
+      21
+    ],
+    [
+      "generation",
+      20
+    ],
+    [
+      "tokens",
+      19
+    ],
+    [
+      "true",
+      19
+    ],
+    [
+      "dog",
+      18
+    ],
+    [
+      "print",
+      18
+    ],
+    [
+      "seed",
+      18
+    ],
+    [
+      "top",
+      18
+    ],
+    [
+      "beam search",
+      17
+    ],
+    [
+      "enjoy",
+      17
+    ],
+    [
+      "walking",
+      17
+    ]
+  ],
+  "url": "https://huggingface.co/blog/how-to-generate",
+  "url_canonical": "https://huggingface.co/blog/how-to-generate",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b44a544d",
+  "author": "Hugging Face Blog",
+  "content_chars": 46871,
+  "content_sha256": "b3d89fcf29e2f0823595646e597d2b74fea3b372b52ec4ff590c516dc24ffeb3",
+  "content_tokens": 11717,
+  "fetched_at": "2026-10-28T12:48:54Z",
+  "kind": "article",
+  "published_at": "2020-07-03T00:00:00+00:00",
+  "snippet": "The Reformer model as introduced by Kitaev, Kaiser et al. (2020) is one of the most memory-efficient transformer models for long sequence modeling as of today. Recently, long sequence modeling has experienced a surge of interest as can be seen by the many submissions from this…",
+  "source_id": "huggingface-blog",
+  "title": "The Reformer - Pushing the limits of language modeling",
+  "top_terms": [
+    [
+      "self-attention",
+      80
+    ],
+    [
+      "memory",
+      76
+    ],
+    [
+      "config",
+      68
+    ],
+    [
+      "model",
+      66
+    ],
+    [
+      "layers",
+      65
+    ],
+    [
+      "input",
+      61
+    ],
+    [
+      "vectors",
+      57
+    ],
+    [
+      "reformer",
+      51
+    ],
+    [
+      "output",
+      48
+    ],
+    [
+      "size",
+      47
+    ],
+    [
+      "layer",
+      46
+    ],
+    [
+      "forward",
+      42
+    ],
+    [
+      "positional",
+      42
+    ],
+    [
+      "chunk",
+      40
+    ],
+    [
+      "transformer",
+      37
+    ],
+    [
+      "axial",
+      36
+    ],
+    [
+      "lsh",
+      34
+    ],
+    [
+      "let's",
+      32
+    ],
+    [
+      "local",
+      32
+    ],
+    [
+      "feed",
+      31
+    ]
+  ],
+  "url": "https://huggingface.co/blog/reformer",
+  "url_canonical": "https://huggingface.co/blog/reformer",
+  "via_source_id": null
+}

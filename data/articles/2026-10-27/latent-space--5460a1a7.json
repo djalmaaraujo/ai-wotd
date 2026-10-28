@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--5460a1a7",
+  "author": null,
+  "content_chars": 9287,
+  "content_sha256": "ef9077e6095f934a2204343560aff266fd5a65a6632afe90e1015b5772689482",
+  "content_tokens": 2321,
+  "fetched_at": "2026-10-28T12:51:57Z",
+  "kind": "article",
+  "published_at": "2026-10-27T14:41:25+00:00",
+  "snippet": "Qwen3.8-Flash-Next with NVMe offload For Qwen3.8-Flash-Next, the package is larger than its label suggests. Alongside the 125B main model with 6B active parameters, the package includes an n-gram lookup table and an MTP component, bringing the total to about 180B parameters. But…",
+  "source_id": "latent-space",
+  "title": "Running AI locally: what computer do you really need? | Voltti",
+  "top_terms": [
+    [
+      "model",
+      29
+    ],
+    [
+      "gb",
+      26
+    ],
+    [
+      "ram",
+      13
+    ],
+    [
+      "runtime",
+      13
+    ],
+    [
+      "flash",
+      12
+    ],
+    [
+      "tokens",
+      12
+    ],
+    [
+      "context",
+      11
+    ],
+    [
+      "gb of",
+      11
+    ],
+    [
+      "memory",
+      11
+    ],
+    [
+      "maya",
+      10
+    ],
+    [
+      "ollama",
+      10
+    ],
+    [
+      "second",
+      10
+    ],
+    [
+      "system",
+      9
+    ],
+    [
+      "system ram",
+      9
+    ],
+    [
+      "fit",
+      8
+    ],
+    [
+      "glm-5.3",
+      8
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "per second",
+      8
+    ],
+    [
+      "quantization",
+      8
+    ],
+    [
+      "qwen3.8",
+      8
+    ]
+  ],
+  "url": "https://voltti.ai/en/insights/running-ai-locally-what-computer-do-you-really-need",
+  "url_canonical": "https://voltti.ai/en/insights/running-ai-locally-what-computer-do-you-really-need",
+  "via_source_id": "latent-space"
+}

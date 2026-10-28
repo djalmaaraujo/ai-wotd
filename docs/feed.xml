@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-27T12:10:03+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-28T12:53:29+00:00</lastBuildDate>
+    <item>
+      <title>LFM3 (2026-10-28)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-28/</link>
+      <guid isPermaLink="false">wotd-2026-10-28</guid>
+      <pubDate>2026-10-28</pubDate>
+      <description>LFM3 trended because Liquid AI published two Hugging Face model cards — LFM3-1.7B and LFM3-VL-2B — detailing a new tri-hybrid architecture, 256K context, agentic training, sub-1GB edge footprint, and the first LFM vision model with video input and reasoning capabilities, driving concentrated discussion across the tracked sources.</description>
+    </item>
     <item>
       <title>None (2026-10-27)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-27/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-08-10</guid>
       <pubDate>2026-08-10</pubDate>
       <description>Word of the day: claude opus system</description>
-    </item>
-    <item>
-      <title>meta (2026-08-06)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-06/</link>
-      <guid isPermaLink="false">wotd-2026-08-06</guid>
-      <pubDate>2026-08-06</pubDate>
-      <description>Word of the day: meta</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--14027e6c",
+  "author": null,
+  "content_chars": 266,
+  "content_sha256": "dba14cfc38c15ac85d49915c5db90819876f2fd1ca72823f58c321bc782ef7b6",
+  "content_tokens": 66,
+  "fetched_at": "2026-10-28T12:51:58Z",
+  "kind": "article",
+  "published_at": "2026-10-27T14:41:25+00:00",
+  "snippet": "v1.19.4 Core Improvements - Upgraded the bundled Bun runtime to 1.4.4, which includes security fixes for Brotli, TLS, HTTP/1.1, HTTP/2, HTTP/3, WebSocket, and fetch , and updates root certificates to NSS 3.131.1. fetch , and updates root certificates to NSS 3.131.1.",
+  "source_id": "latent-space",
+  "title": "Release v1.19.4 · anomalyco/opencode · GitHub",
+  "top_terms": [
+    [
+      "http",
+      3
+    ],
+    [
+      "and updates",
+      2
+    ],
+    [
+      "and updates root",
+      2
+    ],
+    [
+      "certificates",
+      2
+    ],
+    [
+      "certificates to",
+      2
+    ],
+    [
+      "certificates to nss",
+      2
+    ],
+    [
+      "fetch",
+      2
+    ],
+    [
+      "nss",
+      2
+    ],
+    [
+      "nss 3.131.1",
+      2
+    ],
+    [
+      "root",
+      2
+    ],
+    [
+      "root certificates",
+      2
+    ],
+    [
+      "root certificates to",
+      2
+    ],
+    [
+      "to nss",
+      2
+    ],
+    [
+      "to nss 3.131.1",
+      2
+    ],
+    [
+      "updates",
+      2
+    ],
+    [
+      "updates root",
+      2
+    ],
+    [
+      "updates root certificates",
+      2
+    ],
+    [
+      "v1.19.4",
+      2
+    ],
+    [
+      "and fetch",
+      1
+    ],
+    [
+      "anomalyco",
+      1
+    ]
+  ],
+  "url": "https://github.com/anomalyco/opencode/releases/tag/v1.19.4",
+  "url_canonical": "https://github.com/anomalyco/opencode/releases/tag/v1.19.4",
+  "via_source_id": "latent-space"
+}

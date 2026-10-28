@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--1ffa88f3",
+  "author": "Hugging Face Blog",
+  "content_chars": 4845,
+  "content_sha256": "98a53bf5a7004896a202943208b943535530983abb6efd0381b532a0627bd02c",
+  "content_tokens": 1211,
+  "fetched_at": "2026-10-28T12:48:51Z",
+  "kind": "article",
+  "published_at": "2021-01-18T00:00:00+00:00",
+  "snippet": "🤗 Transformers has become the default library for data scientists all around the world to explore state of the art NLP models and build new NLP features. With over 5,000 pre-trained and fine-tuned models available, in over 250 languages, it is a rich playground, easily…",
+  "source_id": "huggingface-blog",
+  "title": "How we sped up transformer inference 100x for 🤗 API customers",
+  "top_terms": [
+    [
+      "model",
+      9
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "hardware",
+      7
+    ],
+    [
+      "inference",
+      7
+    ],
+    [
+      "transformers",
+      6
+    ],
+    [
+      "architecture",
+      5
+    ],
+    [
+      "performance",
+      5
+    ],
+    [
+      "the model",
+      5
+    ],
+    [
+      "accelerated",
+      4
+    ],
+    [
+      "api",
+      4
+    ],
+    [
+      "best",
+      4
+    ],
+    [
+      "customers",
+      4
+    ],
+    [
+      "face",
+      4
+    ],
+    [
+      "hugging",
+      4
+    ],
+    [
+      "hugging face",
+      4
+    ],
+    [
+      "learning",
+      4
+    ],
+    [
+      "libraries",
+      4
+    ],
+    [
+      "machine",
+      4
+    ],
+    [
+      "machine learning",
+      4
+    ],
+    [
+      "nlp",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/blog/accelerated-inference",
+  "url_canonical": "https://huggingface.co/blog/accelerated-inference",
+  "via_source_id": null
+}

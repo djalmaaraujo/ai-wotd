@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--6514e63e",
+  "author": null,
+  "content_chars": 772,
+  "content_sha256": "d122cc7f7cfb1820bd71096ac36d846ad3e8b304cf15c484a0616a4b469aea83",
+  "content_tokens": 193,
+  "fetched_at": "2026-10-28T12:51:49Z",
+  "kind": "article",
+  "published_at": "2026-10-28T08:50:30+00:00",
+  "snippet": "GGUF version of LFM3-1.7B for local inference on CPUs and GPUs. Find architecture and usage details in the original model card. Requires an LFM3-compatible llama.cpp build. Add a quantization tag to pick a file. llama-cli -hf LiquidAI/LFM3-1.7B-GGUF:Q4_K_M \\ --temp 0.1 --top-k…",
+  "source_id": "latent-space",
+  "title": "LiquidAI/LFM3-1.7B-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "lfm3-1.7",
+      6
+    ],
+    [
+      "b-gguf",
+      3
+    ],
+    [
+      "cpp",
+      3
+    ],
+    [
+      "gguf",
+      3
+    ],
+    [
+      "lfm3-1.7 b-gguf",
+      3
+    ],
+    [
+      "liquidai",
+      3
+    ],
+    [
+      "llama",
+      3
+    ],
+    [
+      "q4",
+      3
+    ],
+    [
+      "temp",
+      3
+    ],
+    [
+      "top-k",
+      3
+    ],
+    [
+      "b-qad-q4",
+      2
+    ],
+    [
+      "build",
+      2
+    ],
+    [
+      "hf",
+      2
+    ],
+    [
+      "hf liquidai",
+      2
+    ],
+    [
+      "lfm3-1.7 b-qad-q4",
+      2
+    ],
+    [
+      "llama-cli",
+      2
+    ],
+    [
+      "quantization",
+      2
+    ],
+    [
+      "repeat-penalty",
+      2
+    ],
+    [
+      "usage",
+      2
+    ],
+    [
+      "accuracy",
+      1
+    ]
+  ],
+  "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF",
+  "url_canonical": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF",
+  "via_source_id": "latent-space"
+}

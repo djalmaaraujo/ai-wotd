@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--b6b661fd",
+  "author": "Hugging Face Blog",
+  "content_chars": 38382,
+  "content_sha256": "e6f053f1e3e0b1a52728489b096c36d81a2927043570e96cad9841b5a6f0fd4e",
+  "content_tokens": 9595,
+  "fetched_at": "2026-10-28T12:48:49Z",
+  "kind": "article",
+  "published_at": "2025-07-10T12:54:19+00:00",
+  "snippet": "Numina & Kimi Team We're excited to announce the release of Kimina-Prover-72B, our state-of-the-art theorem proving model trained with the Kimi k1.5[1] RL pipeline based on Qwen2.5-72B [2]. Alongside it, we are also releasing two distilled variants: Kimina-Prover-Distill-8B and…",
+  "source_id": "huggingface-blog",
+  "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+  "top_terms": [
+    [
+      "real",
+      192
+    ],
+    [
+      "cos",
+      116
+    ],
+    [
+      "rw",
+      80
+    ],
+    [
+      "sin",
+      70
+    ],
+    [
+      "fin",
+      69
+    ],
+    [
+      "linarith",
+      42
+    ],
+    [
+      "sqrt",
+      36
+    ],
+    [
+      "simp",
+      35
+    ],
+    [
+      "omega",
+      34
+    ],
+    [
+      "sum",
+      33
+    ],
+    [
+      "by omega",
+      31
+    ],
+    [
+      "proof",
+      31
+    ],
+    [
+      "mul",
+      30
+    ],
+    [
+      "model",
+      29
+    ],
+    [
+      "by rw",
+      27
+    ],
+    [
+      "complex",
+      27
+    ],
+    [
+      "finset",
+      27
+    ],
+    [
+      "sq",
+      27
+    ],
+    [
+      "apply",
+      25
+    ],
+    [
+      "eq",
+      24
+    ]
+  ],
+  "url": "https://huggingface.co/blog/project-numina/kimina-prover",
+  "url_canonical": "https://huggingface.co/blog/project-numina/kimina-prover",
+  "via_source_id": null
+}

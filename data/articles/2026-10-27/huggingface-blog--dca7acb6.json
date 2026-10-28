@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--dca7acb6",
+  "author": "Hugging Face Blog",
+  "content_chars": 17921,
+  "content_sha256": "f507409c3cfdce1c9db7aa7de3fd3313603ddd5e589539aa544ede49b511cf68",
+  "content_tokens": 4480,
+  "fetched_at": "2026-10-28T12:48:49Z",
+  "kind": "article",
+  "published_at": "2026-10-27T17:16:52+00:00",
+  "snippet": "LFM3 is our new generation of Liquid Foundation Models (LFMs), built to be the starting point for specialized intelligence. It brings text, vision, audio, omni, and decision models onto one shared backbone, all in the 2B parameter range. This means you can pick the model for…",
+  "source_id": "huggingface-blog",
+  "title": "Build specialized multimodal models with LFM3",
+  "top_terms": [
+    [
+      "model",
+      57
+    ],
+    [
+      "audio",
+      39
+    ],
+    [
+      "text",
+      31
+    ],
+    [
+      "true",
+      24
+    ],
+    [
+      "torch",
+      22
+    ],
+    [
+      "device",
+      21
+    ],
+    [
+      "lfm3-1.7",
+      17
+    ],
+    [
+      "lfm3",
+      16
+    ],
+    [
+      "transformers",
+      16
+    ],
+    [
+      "vision",
+      16
+    ],
+    [
+      "speech",
+      15
+    ],
+    [
+      "models",
+      14
+    ],
+    [
+      "tokens",
+      14
+    ],
+    [
+      "lfm3-vl-2b",
+      12
+    ],
+    [
+      "processor",
+      12
+    ],
+    [
+      "run",
+      12
+    ],
+    [
+      "video",
+      12
+    ],
+    [
+      "import",
+      11
+    ],
+    [
+      "inputs",
+      11
+    ],
+    [
+      "tool",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "url_canonical": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "via_source_id": null
+}

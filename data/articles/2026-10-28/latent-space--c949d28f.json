@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c949d28f",
+  "author": null,
+  "content_chars": 19772,
+  "content_sha256": "7b00a757c28ba1aaf686b1d6d658694fc75c351d7703fd13a127e1152f240dde",
+  "content_tokens": 4943,
+  "fetched_at": "2026-10-28T12:51:50Z",
+  "kind": "article",
+  "published_at": "2026-10-28T08:50:30+00:00",
+  "snippet": "LFM3-VL-2B is a vision-language model for on-device visual understanding. It takes text, images, and video as input, and combines the LFM3 language model with a new in-house vision encoder. New in LFM3-VL-2B: - Video understanding: the first LFM vision model that takes video as…",
+  "source_id": "latent-space",
+  "title": "LiquidAI/LFM3-VL-2B · Hugging Face",
+  "top_terms": [
+    [
+      "model",
+      23
+    ],
+    [
+      "tool",
+      22
+    ],
+    [
+      "video",
+      18
+    ],
+    [
+      "vision",
+      18
+    ],
+    [
+      "image",
+      17
+    ],
+    [
+      "reasoning",
+      17
+    ],
+    [
+      "lfm3-vl-2b",
+      14
+    ],
+    [
+      "tokens",
+      14
+    ],
+    [
+      "true",
+      12
+    ],
+    [
+      "text",
+      11
+    ],
+    [
+      "val",
+      11
+    ],
+    [
+      "chat",
+      9
+    ],
+    [
+      "cpp",
+      9
+    ],
+    [
+      "llama",
+      9
+    ],
+    [
+      "sglang",
+      9
+    ],
+    [
+      "template",
+      9
+    ],
+    [
+      "lfm3",
+      8
+    ],
+    [
+      "models",
+      8
+    ],
+    [
+      "start",
+      8
+    ],
+    [
+      "support",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+  "url_canonical": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+  "via_source_id": "latent-space"
+}

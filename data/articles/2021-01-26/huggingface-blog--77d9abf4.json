@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--77d9abf4",
+  "author": "Hugging Face Blog",
+  "content_chars": 12433,
+  "content_sha256": "be53f7d3352849f5d33e18a575facd0999d99ec25a01503f61faacd92073455d",
+  "content_tokens": 3108,
+  "fetched_at": "2026-10-28T12:48:50Z",
+  "kind": "article",
+  "published_at": "2021-01-26T00:00:00+00:00",
+  "snippet": "In the last few months, the Hugging Face team has been working hard on improving Transformers’ TensorFlow models to make them more robust and faster. The recent improvements are mainly focused on two aspects: - Computational performance: BERT, RoBERTa, ELECTRA and MPNet have…",
+  "source_id": "huggingface-blog",
+  "title": "Faster TensorFlow models in Hugging Face Transformers",
+  "top_terms": [
+    [
+      "serving",
+      43
+    ],
+    [
+      "model",
+      42
+    ],
+    [
+      "tensorflow",
+      31
+    ],
+    [
+      "name",
+      28
+    ],
+    [
+      "savedmodel",
+      24
+    ],
+    [
+      "input",
+      21
+    ],
+    [
+      "tf",
+      21
+    ],
+    [
+      "inputs",
+      20
+    ],
+    [
+      "tensor",
+      19
+    ],
+    [
+      "bert",
+      16
+    ],
+    [
+      "batch",
+      14
+    ],
+    [
+      "ids",
+      14
+    ],
+    [
+      "shape",
+      14
+    ],
+    [
+      "dtype",
+      13
+    ],
+    [
+      "import",
+      13
+    ],
+    [
+      "grpc",
+      12
+    ],
+    [
+      "output",
+      12
+    ],
+    [
+      "the model",
+      12
+    ],
+    [
+      "token",
+      12
+    ],
+    [
+      "transformers",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/tf-serving",
+  "url_canonical": "https://huggingface.co/blog/tf-serving",
+  "via_source_id": null
+}

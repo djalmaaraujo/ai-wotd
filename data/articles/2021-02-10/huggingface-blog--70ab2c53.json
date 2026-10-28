@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--70ab2c53",
+  "author": "Hugging Face Blog",
+  "content_chars": 7513,
+  "content_sha256": "acb3eea4b622f0a78ccfb91793cb195f949cd075dee35d5158d162fb4c1ce2e1",
+  "content_tokens": 1878,
+  "fetched_at": "2026-10-28T12:48:50Z",
+  "kind": "article",
+  "published_at": "2021-02-10T00:00:00+00:00",
+  "snippet": "A guest blog post by Amog Kamsetty from the Anyscale team Huggingface Transformers recently added the Retrieval Augmented Generation (RAG) model, a new NLP architecture that leverages external documents (like Wikipedia) to augment its knowledge and achieve state of the art…",
+  "source_id": "huggingface-blog",
+  "title": "Retrieval Augmented Generation with Huggingface Transformers and Ray",
+  "top_terms": [
+    [
+      "retrieval",
+      31
+    ],
+    [
+      "ray",
+      29
+    ],
+    [
+      "rag",
+      22
+    ],
+    [
+      "implementation",
+      14
+    ],
+    [
+      "training",
+      14
+    ],
+    [
+      "distributed",
+      13
+    ],
+    [
+      "document",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "retrieve",
+      9
+    ],
+    [
+      "sec",
+      9
+    ],
+    [
+      "document retrieval",
+      8
+    ],
+    [
+      "huggingface",
+      8
+    ],
+    [
+      "the ray",
+      8
+    ],
+    [
+      "contextual",
+      7
+    ],
+    [
+      "documents",
+      7
+    ],
+    [
+      "transformers",
+      7
+    ],
+    [
+      "dir",
+      6
+    ],
+    [
+      "multiple",
+      6
+    ],
+    [
+      "performance",
+      6
+    ],
+    [
+      "processes",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ray-rag",
+  "url_canonical": "https://huggingface.co/blog/ray-rag",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9f30d14d",
+  "author": "Hugging Face Blog",
+  "content_chars": 47249,
+  "content_sha256": "ef7f7b7203dd4ba71618ab732ad6af360950044990437103fe2c8cd2314fdf31",
+  "content_tokens": 11812,
+  "fetched_at": "2026-10-28T12:48:53Z",
+  "kind": "article",
+  "published_at": "2020-10-10T00:00:00+00:00",
+  "snippet": "!pip install transformers==4.2.1 !pip install sentencepiece==0.1.95 The transformer-based encoder-decoder model was introduced by Vaswani et al. in the famous Attention is all you need paper and is today the de-facto standard encoder-decoder architecture in natural language…",
+  "source_id": "huggingface-blog",
+  "title": "Transformer-based Encoder-Decoder Models",
+  "top_terms": [
+    [
+      "input",
+      187
+    ],
+    [
+      "vector",
+      166
+    ],
+    [
+      "decoder",
+      110
+    ],
+    [
+      "vectors",
+      92
+    ],
+    [
+      "encoder",
+      82
+    ],
+    [
+      "sequence",
+      70
+    ],
+    [
+      "target",
+      67
+    ],
+    [
+      "model",
+      66
+    ],
+    [
+      "ids",
+      65
+    ],
+    [
+      "output",
+      56
+    ],
+    [
+      "the input",
+      52
+    ],
+    [
+      "transformer-based",
+      49
+    ],
+    [
+      "models",
+      48
+    ],
+    [
+      "hidden",
+      43
+    ],
+    [
+      "input vector",
+      43
+    ],
+    [
+      "self-attention",
+      41
+    ],
+    [
+      "distribution",
+      39
+    ],
+    [
+      "encoder-decoder",
+      39
+    ],
+    [
+      "target vector",
+      39
+    ],
+    [
+      "word",
+      37
+    ]
+  ],
+  "url": "https://huggingface.co/blog/encoder-decoder",
+  "url_canonical": "https://huggingface.co/blog/encoder-decoder",
+  "via_source_id": null
+}
