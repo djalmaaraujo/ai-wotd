@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--651bac87",
+  "author": null,
+  "content_chars": 2993,
+  "content_sha256": "b7bf72da99010e7782b7f03912d2cd2b9e4167b5ec62fc4926ef3d3e0e390220",
+  "content_tokens": 748,
+  "fetched_at": "2026-10-29T12:59:40Z",
+  "kind": "article",
+  "published_at": "2026-10-28T19:48:05+00:00",
+  "snippet": "Multigres is in Private Alpha. It's free during the Alpha for organizations on a paid plan, for up to two projects, but pricing may change once it leaves Alpha. It isn't covered by the uptime SLA, and Supabase isn't targeting production or mission-critical workloads with it…",
+  "source_id": "latent-space",
+  "title": "Multigres | Supabase Docs",
+  "top_terms": [
+    [
+      "multigres",
+      19
+    ],
+    [
+      "project",
+      10
+    ],
+    [
+      "alpha",
+      9
+    ],
+    [
+      "access",
+      5
+    ],
+    [
+      "availability",
+      5
+    ],
+    [
+      "high",
+      5
+    ],
+    [
+      "high availability",
+      5
+    ],
+    [
+      "the alpha",
+      5
+    ],
+    [
+      "available",
+      4
+    ],
+    [
+      "postgres",
+      4
+    ],
+    [
+      "projects",
+      4
+    ],
+    [
+      "supabase",
+      4
+    ],
+    [
+      "cluster",
+      3
+    ],
+    [
+      "compatibility",
+      3
+    ],
+    [
+      "database",
+      3
+    ],
+    [
+      "during the alpha",
+      3
+    ],
+    [
+      "free",
+      3
+    ],
+    [
+      "isn't",
+      3
+    ],
+    [
+      "plan",
+      3
+    ],
+    [
+      "private",
+      3
+    ]
+  ],
+  "url": "https://supabase.com/docs/guides/database/multigres",
+  "url_canonical": "https://supabase.com/docs/guides/database/multigres",
+  "via_source_id": "latent-space"
+}

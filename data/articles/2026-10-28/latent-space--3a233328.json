@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3a233328",
+  "author": null,
+  "content_chars": 5384,
+  "content_sha256": "95d262a5acf1073577c87b91c676db0191b709871f54bae32f1ab5320f607226",
+  "content_tokens": 1346,
+  "fetched_at": "2026-10-29T12:59:38Z",
+  "kind": "article",
+  "published_at": "2026-10-28T19:48:05+00:00",
+  "snippet": "Today at Supabase Select, we announced new tools that let your coding agent set up your backend, test changes locally, and deploy the services behind your app. We also gave your users’ agents a way to work inside your app as the signed-in user. Your agent already writes your…",
+  "source_id": "latent-space",
+  "title": "Build anything: Supabase from code, and an MCP server for your app",
+  "top_terms": [
+    [
+      "supabase",
+      26
+    ],
+    [
+      "agent",
+      16
+    ],
+    [
+      "server",
+      11
+    ],
+    [
+      "config",
+      10
+    ],
+    [
+      "app",
+      9
+    ],
+    [
+      "mcp",
+      9
+    ],
+    [
+      "service",
+      9
+    ],
+    [
+      "mcp server",
+      8
+    ],
+    [
+      "code",
+      7
+    ],
+    [
+      "schema",
+      7
+    ],
+    [
+      "your app",
+      7
+    ],
+    [
+      "agents",
+      6
+    ],
+    [
+      "compute",
+      6
+    ],
+    [
+      "deploy",
+      6
+    ],
+    [
+      "your agent",
+      6
+    ],
+    [
+      "add",
+      5
+    ],
+    [
+      "dashboard",
+      5
+    ],
+    [
+      "database",
+      5
+    ],
+    [
+      "edge",
+      5
+    ],
+    [
+      "in the dashboard",
+      5
+    ]
+  ],
+  "url": "https://supabase.com/blog/select-2026-build-anything",
+  "url_canonical": "https://supabase.com/blog/select-2026-build-anything",
+  "via_source_id": "latent-space"
+}

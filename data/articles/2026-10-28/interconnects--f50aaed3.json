@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--f50aaed3",
+  "author": null,
+  "content_chars": 5797,
+  "content_sha256": "d9f7f9ad7a130791cd7fec0bbde4aee3b79261976625a365b78167f7e0e765c5",
+  "content_tokens": 1449,
+  "fetched_at": "2026-10-29T12:59:24Z",
+  "kind": "article",
+  "published_at": "2026-10-28T12:58:39+00:00",
+  "snippet": "| Model | ||||| |---|---|---|---|---|---| | 1 | Opus 5.5 Max | 57.8% | $13.43 | 218,363 | 185 | | 2 | Opus 5.5 Extra High | 56.0% | $6.98 | 101,083 | 109 | | 3 | Opus 5.5 High | 56.0% | $3.97 | 53,078 | 68 | | 4 | Sonnet 5.5 Max | 55.5% | $7.05 | 271,920 | 170 | | 5 | Sonnet 5.5…",
+  "source_id": "interconnects",
+  "title": "Cursor · CursorBench",
+  "top_terms": [
+    [
+      "high",
+      31
+    ],
+    [
+      "gpt-5.6",
+      17
+    ],
+    [
+      "low",
+      17
+    ],
+    [
+      "medium",
+      16
+    ],
+    [
+      "max",
+      14
+    ],
+    [
+      "extra",
+      13
+    ],
+    [
+      "extra high",
+      13
+    ],
+    [
+      "muse",
+      12
+    ],
+    [
+      "sonnet",
+      12
+    ],
+    [
+      "opus",
+      10
+    ],
+    [
+      "flash",
+      9
+    ],
+    [
+      "grok",
+      8
+    ],
+    [
+      "luna",
+      7
+    ],
+    [
+      "terra",
+      7
+    ],
+    [
+      "glm",
+      6
+    ],
+    [
+      "glm 5.3",
+      6
+    ],
+    [
+      "gpt-5.6 sol",
+      6
+    ],
+    [
+      "gpt-5.6 terra",
+      6
+    ],
+    [
+      "muse spark",
+      6
+    ],
+    [
+      "muse spark 1.3",
+      6
+    ]
+  ],
+  "url": "https://cursor.com/cursorbench",
+  "url_canonical": "https://cursor.com/cursorbench",
+  "via_source_id": "interconnects"
+}

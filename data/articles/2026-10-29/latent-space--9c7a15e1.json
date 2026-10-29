@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--9c7a15e1",
+  "author": null,
+  "content_chars": 11848,
+  "content_sha256": "cf15d554627aa8b27716ecbbfa7992f705d976c62c04ea8d5ebbca31eddf1dc1",
+  "content_tokens": 2962,
+  "fetched_at": "2026-10-29T12:59:31Z",
+  "kind": "article",
+  "published_at": "2026-10-29T05:55:19+00:00",
+  "snippet": "d1-Omni-2B is a decision model for text, pictures, and audio, built on LFM3-Omni-2B. It returns calibrated answers in one forward pass, without generating tokens. - Native audio: clips and spoken questions go through the same pass as text and pictures, and spoken questions score…",
+  "source_id": "latent-space",
+  "title": "LiquidAI/d1-Omni-2B · Hugging Face",
+  "top_terms": [
+    [
+      "type",
+      21
+    ],
+    [
+      "ms",
+      19
+    ],
+    [
+      "audio",
+      18
+    ],
+    [
+      "instructions",
+      14
+    ],
+    [
+      "questions",
+      14
+    ],
+    [
+      "number",
+      13
+    ],
+    [
+      "text",
+      13
+    ],
+    [
+      "state",
+      11
+    ],
+    [
+      "decision",
+      10
+    ],
+    [
+      "decisions",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "answers",
+      8
+    ],
+    [
+      "every",
+      8
+    ],
+    [
+      "image",
+      8
+    ],
+    [
+      "rate",
+      8
+    ],
+    [
+      "spoken",
+      8
+    ],
+    [
+      "call",
+      7
+    ],
+    [
+      "clip",
+      7
+    ],
+    [
+      "d1-omni-2b",
+      7
+    ],
+    [
+      "liquid",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/LiquidAI/d1-Omni-2B",
+  "url_canonical": "https://huggingface.co/LiquidAI/d1-Omni-2B",
+  "via_source_id": "latent-space"
+}

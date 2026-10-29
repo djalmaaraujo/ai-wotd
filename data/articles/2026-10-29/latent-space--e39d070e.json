@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e39d070e",
+  "author": null,
+  "content_chars": 1495,
+  "content_sha256": "c592c493727e4c056f90fa1d991eb098cf5a7edfaab4ac6f6c0edab9627840d2",
+  "content_tokens": 373,
+  "fetched_at": "2026-10-29T12:59:35Z",
+  "kind": "article",
+  "published_at": "2026-10-29T05:55:19+00:00",
+  "snippet": "Conversation auRose94 pushed a commit to auRose94/llama.cpp that referenced this pull request Oct 28, 2026 * model : add LiquidAI/d1-2B and LiquidAI/d1-omni-2B Assisted-by: Claude Opus 5.5 * convert : keep the speech task templates out of the d1 GGUFs Assisted-by: Claude Opus…",
+  "source_id": "latent-space",
+  "title": "model : add LiquidAI/d1-2B and LiquidAI/d1-omni-2B by tdakhran · Pull Request #31275 · ggml-org/llama.cpp · GitHub",
+  "top_terms": [
+    [
+      "applied",
+      11
+    ],
+    [
+      "be applied",
+      10
+    ],
+    [
+      "cannot be applied",
+      7
+    ],
+    [
+      "suggestion",
+      7
+    ],
+    [
+      "suggestions",
+      7
+    ],
+    [
+      "suggestions cannot",
+      6
+    ],
+    [
+      "suggestions cannot be",
+      6
+    ],
+    [
+      "add",
+      4
+    ],
+    [
+      "liquidai",
+      4
+    ],
+    [
+      "pull",
+      4
+    ],
+    [
+      "pull request",
+      4
+    ],
+    [
+      "request",
+      4
+    ],
+    [
+      "this suggestion",
+      4
+    ],
+    [
+      "applied while",
+      3
+    ],
+    [
+      "batch",
+      3
+    ],
+    [
+      "be applied while",
+      3
+    ],
+    [
+      "can be applied",
+      3
+    ],
+    [
+      "commit",
+      3
+    ],
+    [
+      "unicode",
+      3
+    ],
+    [
+      "add liquidai",
+      2
+    ]
+  ],
+  "url": "https://github.com/ggml-org/llama.cpp/pull/31275",
+  "url_canonical": "https://github.com/ggml-org/llama.cpp/pull/31275",
+  "via_source_id": "latent-space"
+}

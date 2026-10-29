@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d5d68c98",
+  "author": null,
+  "content_chars": 10080,
+  "content_sha256": "b2732d99a4dfcd1a895dcfe03e5877af26fac7a908782e512cbf71e1799f9844",
+  "content_tokens": 2520,
+  "fetched_at": "2026-10-29T12:59:30Z",
+  "kind": "article",
+  "published_at": "2026-10-29T05:55:19+00:00",
+  "snippet": "d1-2B is a decision model for text, pictures, and video, built on LFM3-VL-2B. It returns calibrated answers in one forward pass, without generating tokens. - Best-in-class: it leads the open d1 models on average and on our board of over a hundred decision benchmarks, ahead of…",
+  "source_id": "latent-space",
+  "title": "LiquidAI/d1-2B · Hugging Face",
+  "top_terms": [
+    [
+      "ms",
+      20
+    ],
+    [
+      "type",
+      15
+    ],
+    [
+      "questions",
+      13
+    ],
+    [
+      "number",
+      12
+    ],
+    [
+      "state",
+      12
+    ],
+    [
+      "decision",
+      11
+    ],
+    [
+      "instructions",
+      11
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "text",
+      10
+    ],
+    [
+      "answers",
+      9
+    ],
+    [
+      "call",
+      7
+    ],
+    [
+      "choice",
+      7
+    ],
+    [
+      "d1-2b",
+      7
+    ],
+    [
+      "decisions",
+      7
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "liquid",
+      7
+    ],
+    [
+      "models",
+      7
+    ],
+    [
+      "tokens",
+      7
+    ],
+    [
+      "box",
+      6
+    ],
+    [
+      "criteria",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/LiquidAI/d1-2B",
+  "url_canonical": "https://huggingface.co/LiquidAI/d1-2B",
+  "via_source_id": "latent-space"
+}

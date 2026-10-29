@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8a10eb7c",
+  "author": "Hugging Face Blog",
+  "content_chars": 16116,
+  "content_sha256": "ac5123a3726735839d01be658f5eba07c6222e62f77b83c05c17ad5af7677993",
+  "content_tokens": 4029,
+  "fetched_at": "2026-10-29T12:56:23Z",
+  "kind": "article",
+  "published_at": "2026-10-28T14:58:17+00:00",
+  "snippet": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt One open model for multilingual transcription, speaker attribution, translation, and audio Q&A, with top leaderboard results, plus the open Granary v2 data pipeline and…",
+  "source_id": "huggingface-blog",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "top_terms": [
+    [
+      "transcribe",
+      31
+    ],
+    [
+      "model",
+      24
+    ],
+    [
+      "speech",
+      20
+    ],
+    [
+      "nemotron",
+      18
+    ],
+    [
+      "audio",
+      16
+    ],
+    [
+      "granary",
+      16
+    ],
+    [
+      "wer",
+      16
+    ],
+    [
+      "granary v2",
+      15
+    ],
+    [
+      "v2",
+      15
+    ],
+    [
+      "face",
+      14
+    ],
+    [
+      "hugging",
+      14
+    ],
+    [
+      "hugging face",
+      14
+    ],
+    [
+      "nemotron 3.5",
+      14
+    ],
+    [
+      "nemotron 3.5 transcribe",
+      14
+    ],
+    [
+      "nvidia",
+      14
+    ],
+    [
+      "training",
+      14
+    ],
+    [
+      "asr",
+      13
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "medical",
+      12
+    ],
+    [
+      "english",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "url_canonical": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "via_source_id": null
+}

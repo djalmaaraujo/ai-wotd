@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--a4bd6bb8",
+  "author": null,
+  "content_chars": 2327,
+  "content_sha256": "d9774931649d0de8e7006ca11d4319e8cba6ab4bdb5027f363fe4b63d9e4e2e1",
+  "content_tokens": 581,
+  "fetched_at": "2026-10-29T12:59:39Z",
+  "kind": "article",
+  "published_at": "2026-10-28T19:48:05+00:00",
+  "snippet": "One runtime,two shapes of work Sandboxes, APIs, and background jobs usually mean three vendors and a database somewhere else. Compute runs them all in Supabase alongside your application backend. Isolated environments for agent code Execute code in a secure, isolated environment…",
+  "source_id": "latent-space",
+  "title": "Compute | Supabase",
+  "top_terms": [
+    [
+      "agent",
+      4
+    ],
+    [
+      "code",
+      4
+    ],
+    [
+      "compute",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "database",
+      3
+    ],
+    [
+      "jobs",
+      3
+    ],
+    [
+      "nothing",
+      3
+    ],
+    [
+      "reach",
+      3
+    ],
+    [
+      "runtime",
+      3
+    ],
+    [
+      "secrets",
+      3
+    ],
+    [
+      "services",
+      3
+    ],
+    [
+      "supabase",
+      3
+    ],
+    [
+      "work",
+      3
+    ],
+    [
+      "workload",
+      3
+    ],
+    [
+      "access",
+      2
+    ],
+    [
+      "agents",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "always-on",
+      2
+    ],
+    [
+      "and resume",
+      2
+    ],
+    [
+      "any language",
+      2
+    ]
+  ],
+  "url": "https://supabase.com/compute",
+  "url_canonical": "https://supabase.com/compute",
+  "via_source_id": "latent-space"
+}

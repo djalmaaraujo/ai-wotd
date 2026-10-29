@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--ced927e1",
+  "author": null,
+  "content_chars": 23127,
+  "content_sha256": "d65a448f80493f5f38377ebc072178a8395821853821f4aa646a5bf69efae58d",
+  "content_tokens": 5781,
+  "fetched_at": "2026-10-29T12:59:30Z",
+  "kind": "article",
+  "published_at": "2026-10-29T05:55:19+00:00",
+  "snippet": "LFM3-Omni-2B is Liquid AI's first omni-modal model in the LFM3 family: a single end-to-end model that understands text, images, video and audio, and answers in text and speech. It is built for on-device use: one model replaces a separate ASR model, vision-language model, LLM and…",
+  "source_id": "latent-space",
+  "title": "LiquidAI/LFM3-Omni-2B · Hugging Face",
+  "top_terms": [
+    [
+      "audio",
+      68
+    ],
+    [
+      "text",
+      68
+    ],
+    [
+      "true",
+      48
+    ],
+    [
+      "model",
+      38
+    ],
+    [
+      "outputs",
+      33
+    ],
+    [
+      "video",
+      32
+    ],
+    [
+      "inputs",
+      30
+    ],
+    [
+      "processor",
+      30
+    ],
+    [
+      "speech",
+      28
+    ],
+    [
+      "generation",
+      26
+    ],
+    [
+      "prompt",
+      26
+    ],
+    [
+      "conversation",
+      25
+    ],
+    [
+      "return",
+      23
+    ],
+    [
+      "system",
+      23
+    ],
+    [
+      "tokens",
+      23
+    ],
+    [
+      "image",
+      22
+    ],
+    [
+      "answer",
+      21
+    ],
+    [
+      "chat",
+      21
+    ],
+    [
+      "content",
+      19
+    ],
+    [
+      "mode",
+      19
+    ]
+  ],
+  "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+  "url_canonical": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+  "via_source_id": "latent-space"
+}

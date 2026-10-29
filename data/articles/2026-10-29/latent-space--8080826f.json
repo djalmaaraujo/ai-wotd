@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--8080826f",
+  "author": null,
+  "content_chars": 18631,
+  "content_sha256": "092ee83112783467226bd2c335fb6a9a26c7235e4bc660f865792f236a750f86",
+  "content_tokens": 4657,
+  "fetched_at": "2026-10-29T12:59:30Z",
+  "kind": "article",
+  "published_at": "2026-10-29T05:55:19+00:00",
+  "snippet": "LFM3-Audio-2B is a compact, fully featured audio model that runs locally on laptops and edge devices. It takes text or audio as input and responds with text, speech, or both. - Voice chat: ask questions aloud and receive streaming replies in text and speech. For text-only…",
+  "source_id": "latent-space",
+  "title": "LiquidAI/LFM3-Audio-2B · Hugging Face",
+  "top_terms": [
+    [
+      "audio",
+      86
+    ],
+    [
+      "text",
+      48
+    ],
+    [
+      "true",
+      46
+    ],
+    [
+      "speech",
+      37
+    ],
+    [
+      "model",
+      29
+    ],
+    [
+      "tokens",
+      23
+    ],
+    [
+      "outputs",
+      21
+    ],
+    [
+      "processor",
+      21
+    ],
+    [
+      "return",
+      21
+    ],
+    [
+      "tool",
+      21
+    ],
+    [
+      "calls",
+      19
+    ],
+    [
+      "input",
+      19
+    ],
+    [
+      "device",
+      18
+    ],
+    [
+      "conversation",
+      17
+    ],
+    [
+      "inputs",
+      17
+    ],
+    [
+      "prompt",
+      17
+    ],
+    [
+      "content",
+      16
+    ],
+    [
+      "role",
+      16
+    ],
+    [
+      "system",
+      16
+    ],
+    [
+      "english",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/LiquidAI/LFM3-Audio-2B",
+  "url_canonical": "https://huggingface.co/LiquidAI/LFM3-Audio-2B",
+  "via_source_id": "latent-space"
+}

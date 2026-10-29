@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fe8a9a38",
+  "author": "Hugging Face Blog",
+  "content_chars": 16370,
+  "content_sha256": "37c8a3239dff8f7049c28fda5fbcfc5be000e5b6975e617ed309c3147da32f52",
+  "content_tokens": 4092,
+  "fetched_at": "2026-10-29T12:56:23Z",
+  "kind": "article",
+  "published_at": "2026-10-29T00:00:00+00:00",
+  "snippet": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms Language models can do a lot. They write, summarize, translate, and call tools. But they're only a small part of what machine learning can do. Say a customer calls your…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "top_terms": [
+    [
+      "model",
+      32
+    ],
+    [
+      "parakeet",
+      27
+    ],
+    [
+      "models",
+      18
+    ],
+    [
+      "core",
+      14
+    ],
+    [
+      "decision",
+      12
+    ],
+    [
+      "let",
+      12
+    ],
+    [
+      "mlx",
+      12
+    ],
+    [
+      "anyspeechrecognizer",
+      11
+    ],
+    [
+      "language",
+      11
+    ],
+    [
+      "api",
+      10
+    ],
+    [
+      "backend",
+      10
+    ],
+    [
+      "probabilities",
+      10
+    ],
+    [
+      "anydecisionmodel",
+      9
+    ],
+    [
+      "live",
+      9
+    ],
+    [
+      "mattt",
+      9
+    ],
+    [
+      "results",
+      9
+    ],
+    [
+      "sortformer",
+      9
+    ],
+    [
+      "speech",
+      9
+    ],
+    [
+      "swift",
+      9
+    ],
+    [
+      "apple",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "url_canonical": "https://huggingface.co/blog/anydecisionmodel",
+  "via_source_id": null
+}

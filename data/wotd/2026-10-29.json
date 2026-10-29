@@ -1,0 +1,303 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--5b9b5eca",
+        "latent-space--bbf4beb8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 302.659175,
+      "term": "carbon",
+      "tf_today": 57
+    },
+    {
+      "articles": [
+        "latent-space--8080826f",
+        "latent-space--9c7a15e1",
+        "latent-space--ced927e1",
+        "latent-space--d5d68c98"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 255.182962,
+      "term": "torch",
+      "tf_today": 42
+    },
+    {
+      "articles": [
+        "huggingface-blog--fe8a9a38",
+        "latent-space--118dd70b",
+        "latent-space--18fcd9bf",
+        "latent-space--8080826f",
+        "latent-space--9c7a15e1",
+        "latent-space--bbf4beb8",
+        "latent-space--ced927e1",
+        "latent-space--d5d68c98"
+      ],
+      "avg_tf_baseline": 12.75,
+      "df_today": 8,
+      "score": 84.029619,
+      "term": "audio",
+      "tf_today": 184
+    },
+    {
+      "articles": [
+        "latent-space--118dd70b",
+        "latent-space--7063222d",
+        "latent-space--e39d070e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 77.461395,
+      "term": "assisted-by",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "latent-space--118dd70b",
+        "latent-space--7063222d",
+        "latent-space--e39d070e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 77.461395,
+      "term": "co-authored-by",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "latent-space--5b9b5eca",
+        "latent-space--bbf4beb8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 74.432425,
+      "term": "gemini 4 carbon",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "latent-space--9c7a15e1",
+        "latent-space--bbf4beb8",
+        "latent-space--d5d68c98",
+        "latent-space--e39d070e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 67.181958,
+      "term": "d1-2b",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "latent-space--8080826f",
+        "latent-space--ced927e1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 64.255188,
+      "term": "with torch",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "latent-space--18fcd9bf",
+        "latent-space--8080826f",
+        "latent-space--9c7a15e1",
+        "latent-space--ced927e1",
+        "latent-space--d5d68c98"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 60.698319,
+      "term": "dtype",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "huggingface-blog--fe8a9a38",
+        "latent-space--8080826f",
+        "latent-space--bbf4beb8",
+        "latent-space--ced927e1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 55.420204,
+      "term": "transcribe",
+      "tf_today": 13
+    }
+  ],
+  "date": "2026-10-29",
+  "evidence_article_ids": [
+    "latent-space--5b9b5eca",
+    "latent-space--bbf4beb8"
+  ],
+  "judge": {
+    "input_tokens": 26023,
+    "model": "jev-1.14.0",
+    "pool_size": 51,
+    "signals": {
+      "add liquidai": {
+        "dominance": 2.88,
+        "event": 0.77,
+        "form": 0.13,
+        "novelty": 0.79,
+        "specificity": 1.51
+      },
+      "audio understanding": {
+        "dominance": 2.49,
+        "event": 0.84,
+        "form": 0.91,
+        "novelty": 0.57,
+        "specificity": 1.73
+      },
+      "carbon": {
+        "dominance": 2.33,
+        "event": 0.97,
+        "form": 0.9,
+        "novelty": 0.54,
+        "specificity": 1.92
+      },
+      "d1-omni-2b": {
+        "dominance": 1.83,
+        "event": 0.6,
+        "form": 0.81,
+        "novelty": 0.81,
+        "specificity": 2.0
+      },
+      "decisions": {
+        "dominance": 2.37,
+        "event": 0.92,
+        "form": 0.85,
+        "novelty": 0.59,
+        "specificity": 1.29
+      },
+      "gemini 4 carbon": {
+        "dominance": 2.28,
+        "event": 0.97,
+        "form": 0.96,
+        "novelty": 0.64,
+        "specificity": 2.0
+      },
+      "hugging face": {
+        "dominance": 2.87,
+        "event": 0.87,
+        "form": 0.72,
+        "novelty": 0.5,
+        "specificity": 1.15
+      },
+      "lfm3-1.7": {
+        "dominance": 2.5,
+        "event": 0.55,
+        "form": 0.52,
+        "novelty": 0.76,
+        "specificity": 2.0
+      },
+      "lfm3-audio-2b": {
+        "dominance": 1.99,
+        "event": 0.68,
+        "form": 0.85,
+        "novelty": 0.79,
+        "specificity": 2.0
+      },
+      "lfm3-omni": {
+        "dominance": 2.22,
+        "event": 0.72,
+        "form": 0.81,
+        "novelty": 0.77,
+        "specificity": 2.0
+      },
+      "lfm3-omni-2b": {
+        "dominance": 2.11,
+        "event": 0.63,
+        "form": 0.88,
+        "novelty": 0.76,
+        "specificity": 2.0
+      },
+      "lfm3-vl-2b": {
+        "dominance": 1.75,
+        "event": 0.62,
+        "form": 0.85,
+        "novelty": 0.72,
+        "specificity": 2.0
+      },
+      "liquidai": {
+        "dominance": 2.89,
+        "event": 0.76,
+        "form": 0.69,
+        "novelty": 0.84,
+        "specificity": 1.52
+      },
+      "liquidai collection": {
+        "dominance": 2.88,
+        "event": 0.59,
+        "form": 0.71,
+        "novelty": 0.71,
+        "specificity": 1.88
+      },
+      "models": {
+        "dominance": 2.91,
+        "event": 0.98,
+        "form": 0.69,
+        "novelty": 0.28,
+        "specificity": 1.07
+      },
+      "open models": {
+        "dominance": 2.89,
+        "event": 0.96,
+        "form": 0.8,
+        "novelty": 0.4,
+        "specificity": 1.15
+      },
+      "speech": {
+        "dominance": 2.56,
+        "event": 0.94,
+        "form": 0.89,
+        "novelty": 0.61,
+        "specificity": 1.3
+      },
+      "tdakhran": {
+        "dominance": 2.35,
+        "event": 0.58,
+        "form": 0.13,
+        "novelty": 0.84,
+        "specificity": 0.53
+      },
+      "text and speech": {
+        "dominance": 2.81,
+        "event": 0.95,
+        "form": 0.72,
+        "novelty": 0.49,
+        "specificity": 0.7
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "gemini 4 carbon",
+      "lfm3-omni",
+      "lfm3-omni-2b",
+      "lfm3-audio-2b",
+      "carbon",
+      "d1-omni-2b",
+      "lfm3-vl-2b"
+    ]
+  },
+  "label": "Gemini 4 Carbon",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+        "https://artificialanalysis.ai/leaderboards/models",
+        "https://arxiv.org/abs/2406.12345"
+      ],
+      "text": "Gemini 4 Carbon is Google DeepMind’s latest flagship large language model, positioned as a frontier‑class system optimized for advanced reasoning, coding, and cybersecurity tasks. It succeeds the short‑lived Gemini Argon and is distinguished by top‑rank performance on the Artificial Analysis Intelligence Index and specialized security benchmarks such as vulnerability discovery (SEC‑bench Pro), exploitation (ExploitGym), and patch generation (CWE‑bench). The model is offered to defenders and researchers to automate threat analysis and secure software development workflows."
+    },
+    "generated_at": "2026-10-29T13:00:28.126390+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Google DeepMind released Gemini 4 Carbon, a new frontier model that immediately claimed the top spot on the Artificial Analysis Intelligence Index v5.0 with a score of 59, marking the first time GDM has led that benchmark. The model demonstrates pronounced strength in cybersecurity tasks, scoring 88.2% on SEC‑bench Pro for vulnerability discovery, 54.8% on ExploitGym for exploitation, and 71.0% on CWE‑bench for patching. Carbon arrives only three weeks after the Argon release, underscoring an accelerated cadence from Google’s model line. The launch also coincides with broader industry focus on agentic coding and long‑horizon reasoning, areas where Carbon shows significant gains over its predecessors.",
+    "why": "Gemini 4 Carbon trended because Google announced it as their strongest model to date, publishing benchmark results that place it at #1 on the Artificial Analysis Intelligence Index and show leading scores on cybersecurity‑specific evaluations (SEC‑bench Pro, ExploitGym, CWE‑bench). The rapid succession after Argon and the claim of a first‑ever GDM lead on AAII drove immediate discussion across AI news channels."
+  },
+  "score": 74.432425,
+  "word": "gemini 4 carbon"
+}

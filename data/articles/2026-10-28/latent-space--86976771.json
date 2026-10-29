@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--86976771",
+  "author": null,
+  "content_chars": 6058,
+  "content_sha256": "769d5d6ac61b838f4836101de25a8dc2eb6068220a36dd9820f0a60337d519b0",
+  "content_tokens": 1514,
+  "fetched_at": "2026-10-29T12:59:39Z",
+  "kind": "article",
+  "published_at": "2026-10-28T19:48:05+00:00",
+  "snippet": "Today at Supabase Select, we announced Multigres for high availability and scalable connection pooling, and OrioleDB for high performance storage. We launched dbarena, an open benchmarks site for comparing managed Postgres providers’ performance results and costs. Every Supabase…",
+  "source_id": "latent-space",
+  "title": "Scale without limits: Multigres, OrioleDB, and dbarena",
+  "top_terms": [
+    [
+      "postgres",
+      16
+    ],
+    [
+      "orioledb",
+      14
+    ],
+    [
+      "multigres",
+      11
+    ],
+    [
+      "dbarena",
+      10
+    ],
+    [
+      "every",
+      9
+    ],
+    [
+      "storage",
+      7
+    ],
+    [
+      "database",
+      6
+    ],
+    [
+      "heap",
+      6
+    ],
+    [
+      "open",
+      6
+    ],
+    [
+      "project",
+      6
+    ],
+    [
+      "public",
+      6
+    ],
+    [
+      "supabase",
+      6
+    ],
+    [
+      "benchmarks",
+      5
+    ],
+    [
+      "source",
+      5
+    ],
+    [
+      "vacuum",
+      5
+    ],
+    [
+      "alpha",
+      4
+    ],
+    [
+      "bit",
+      4
+    ],
+    [
+      "bloat",
+      4
+    ],
+    [
+      "heap storage",
+      4
+    ],
+    [
+      "high",
+      4
+    ]
+  ],
+  "url": "https://supabase.com/blog/select-2026-scale-without-limits",
+  "url_canonical": "https://supabase.com/blog/select-2026-scale-without-limits",
+  "via_source_id": "latent-space"
+}
