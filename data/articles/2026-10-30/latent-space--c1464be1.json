@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c1464be1",
+  "author": null,
+  "content_chars": 14932,
+  "content_sha256": "2f2e7b6ac10b881ceecd184c5dd2eed7e0854cb49be0192d30c1fd2df0709a6b",
+  "content_tokens": 3733,
+  "fetched_at": "2026-10-30T12:52:56Z",
+  "kind": "article",
+  "published_at": "2026-10-30T08:24:29+00:00",
+  "snippet": "Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace…",
+  "source_id": "latent-space",
+  "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+  "top_terms": [
+    [
+      "mistral",
+      38
+    ],
+    [
+      "model",
+      36
+    ],
+    [
+      "api",
+      33
+    ],
+    [
+      "large",
+      22
+    ],
+    [
+      "large 4",
+      21
+    ],
+    [
+      "mistral large",
+      21
+    ],
+    [
+      "mistral large 4",
+      21
+    ],
+    [
+      "openai",
+      21
+    ],
+    [
+      "reasoning",
+      21
+    ],
+    [
+      "tool",
+      20
+    ],
+    [
+      "key",
+      17
+    ],
+    [
+      "image",
+      14
+    ],
+    [
+      "print",
+      14
+    ],
+    [
+      "base",
+      13
+    ],
+    [
+      "messages",
+      13
+    ],
+    [
+      "tokens",
+      13
+    ],
+    [
+      "vllm",
+      13
+    ],
+    [
+      "content",
+      12
+    ],
+    [
+      "response",
+      12
+    ],
+    [
+      "client",
+      11
+    ]
+  ],
+  "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+  "url_canonical": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+  "via_source_id": "latent-space"
+}

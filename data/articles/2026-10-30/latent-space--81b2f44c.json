@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--81b2f44c",
+  "author": null,
+  "content_chars": 33923,
+  "content_sha256": "8feeb18518b0fc33df8aa1b3e521db94c9431d605f33ba405d3193fc4c8f226a",
+  "content_tokens": 8480,
+  "fetched_at": "2026-10-30T12:52:48Z",
+  "kind": "article",
+  "published_at": "2026-10-30T08:24:29+00:00",
+  "snippet": "Disclosure: Bun was acquired by Anthropic in December 2025. I and others on the Bun team work at Anthropic. I used a pre-release version of Claude Fable 5 for much of the Rust rewrite. Bun started as a line-for-line port of esbuild's JavaScript & TypeScript transpiler from Go to…",
+  "source_id": "latent-space",
+  "title": "Rewriting Bun in Rust | Bun Blog",
+  "top_terms": [
+    [
+      "code",
+      70
+    ],
+    [
+      "bun",
+      69
+    ],
+    [
+      "rust",
+      54
+    ],
+    [
+      "zig",
+      54
+    ],
+    [
+      "claude",
+      32
+    ],
+    [
+      "memory",
+      28
+    ],
+    [
+      "test",
+      27
+    ],
+    [
+      "rewrite",
+      22
+    ],
+    [
+      "every",
+      18
+    ],
+    [
+      "bun's",
+      17
+    ],
+    [
+      "the code",
+      17
+    ],
+    [
+      "mb",
+      16
+    ],
+    [
+      "review",
+      16
+    ],
+    [
+      "run",
+      16
+    ],
+    [
+      "file",
+      15
+    ],
+    [
+      "workflow",
+      15
+    ],
+    [
+      "work",
+      14
+    ],
+    [
+      "adversarial",
+      13
+    ],
+    [
+      "tests",
+      13
+    ],
+    [
+      "bugs",
+      12
+    ]
+  ],
+  "url": "https://bun.com/blog/bun-in-rust",
+  "url_canonical": "https://bun.com/blog/bun-in-rust",
+  "via_source_id": "latent-space"
+}

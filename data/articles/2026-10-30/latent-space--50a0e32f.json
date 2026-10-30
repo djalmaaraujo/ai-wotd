@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--50a0e32f",
+  "author": null,
+  "content_chars": 6517,
+  "content_sha256": "15f4a4b514639c6d87bd690efb1cadd25fdad758012c5936ef59d0a7c48e5daa",
+  "content_tokens": 1629,
+  "fetched_at": "2026-10-30T12:52:47Z",
+  "kind": "article",
+  "published_at": "2026-10-30T08:24:29+00:00",
+  "snippet": "We've been experimenting with running coding agents autonomously for weeks. Our goal is to understand how far we can push the frontier of agentic coding for projects that typically take human teams months to complete. This post describes what we've learned from running hundreds…",
+  "source_id": "latent-space",
+  "title": "Scaling long-running autonomous coding · Cursor",
+  "top_terms": [
+    [
+      "agents",
+      21
+    ],
+    [
+      "work",
+      8
+    ],
+    [
+      "agent",
+      7
+    ],
+    [
+      "tasks",
+      6
+    ],
+    [
+      "coding",
+      5
+    ],
+    [
+      "still",
+      5
+    ],
+    [
+      "system",
+      5
+    ],
+    [
+      "code",
+      4
+    ],
+    [
+      "codebase",
+      4
+    ],
+    [
+      "coordination",
+      4
+    ],
+    [
+      "cursor",
+      4
+    ],
+    [
+      "locks",
+      4
+    ],
+    [
+      "long",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "next",
+      4
+    ],
+    [
+      "problems",
+      4
+    ],
+    [
+      "projects",
+      4
+    ],
+    [
+      "single",
+      4
+    ],
+    [
+      "structure",
+      4
+    ],
+    [
+      "workers",
+      4
+    ]
+  ],
+  "url": "https://cursor.com/blog/scaling-agents",
+  "url_canonical": "https://cursor.com/blog/scaling-agents",
+  "via_source_id": "latent-space"
+}

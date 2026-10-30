@@ -2595,6 +2595,16 @@
     "first_seen_date": "2026-10-02",
     "status": "fetch_failed"
   },
+  "https://app.ai.engineer/e/aie-code-summit": {
+    "article_id": null,
+    "first_seen_date": "2026-10-30",
+    "status": "fetch_failed"
+  },
+  "https://app.ai.engineer/e/aie-code-summit?discount=LS30": {
+    "article_id": null,
+    "first_seen_date": "2026-10-30",
+    "status": "fetch_failed"
+  },
   "https://archerhume.com/posts/jevs-architecture-unmasked?v=3": {
     "article_id": "latent-space--a2bc3070",
     "first_seen_date": "2026-09-23"
@@ -3288,6 +3298,10 @@
     "article_id": "latent-space--590c149d",
     "first_seen_date": "2026-10-28"
   },
+  "https://arxiv.org/abs/2610.34855": {
+    "article_id": "latent-space--cddc6988",
+    "first_seen_date": "2026-10-30"
+  },
   "https://arxiv.org/html/2409.11363v1": {
     "article_id": "ai-snake-oil--51926990",
     "first_seen_date": "2026-09-23"
@@ -3554,6 +3568,10 @@
   "https://build.nvidia.com/nvidia/nemotron-3-ultra-550b-a55b/modelcard": {
     "article_id": "ahead-of-ai--e4a0226e",
     "first_seen_date": "2026-09-23"
+  },
+  "https://bun.com/blog/bun-in-rust": {
+    "article_id": "latent-space--81b2f44c",
+    "first_seen_date": "2026-10-30"
   },
   "https://can%20wikipedia%20help%20offline%20reinforcement%20learning/": {
     "article_id": null,
@@ -4050,6 +4068,10 @@
   "https://codenewsletter.ai/p/google-s-computer-use-model-openai-s-agent-builder": {
     "article_id": "codenewsletter--f2051986",
     "first_seen_date": "2026-04-14"
+  },
+  "https://codenewsletter.ai/p/google-s-new-frontier-model-hunts-bugs-across-codebases": {
+    "article_id": "codenewsletter--76436599",
+    "first_seen_date": "2026-10-30"
   },
   "https://codenewsletter.ai/p/google-s-new-model-hunts-and-patches-security-bugs": {
     "article_id": "codenewsletter--9352d55f",
@@ -4604,6 +4626,10 @@
   "https://cursor.com/blog/composer": {
     "article_id": "ai-snake-oil--9edc6913",
     "first_seen_date": "2026-10-15"
+  },
+  "https://cursor.com/blog/scaling-agents": {
+    "article_id": "latent-space--50a0e32f",
+    "first_seen_date": "2026-10-30"
   },
   "https://cursor.com/cursorbench": {
     "article_id": "interconnects--f50aaed3",
@@ -5255,6 +5281,14 @@
     "article_id": "latent-space--af35be7b",
     "first_seen_date": "2026-10-22"
   },
+  "https://elorian.ai/": {
+    "article_id": "latent-space--363a1570",
+    "first_seen_date": "2026-10-30"
+  },
+  "https://elorian.ai/blog/introducing-glimpse": {
+    "article_id": "latent-space--d8f7efe6",
+    "first_seen_date": "2026-10-30"
+  },
   "https://emollick.itch.io/world-simulator": {
     "article_id": "one-useful-thing--fc8a8805",
     "first_seen_date": "2026-04-13"
@@ -5565,6 +5599,10 @@
     "article_id": "nlp-newsletter--8f46e7f7",
     "first_seen_date": "2026-09-23"
   },
+  "https://getartcraft.com/": {
+    "article_id": "latent-space--6d215d2e",
+    "first_seen_date": "2026-10-30"
+  },
   "https://gist.github.com/swyxio/e8b1d6a32fe816b97aab988ac121783f": {
     "article_id": "latent-space--7722f4c1",
     "first_seen_date": "2026-09-23"
@@ -5636,6 +5674,10 @@
   "https://github.com/QwenLM/qwen-code": {
     "article_id": "ahead-of-ai--f20381f6",
     "first_seen_date": "2026-09-23"
+  },
+  "https://github.com/QwenLM/qwen-code/pull/15762": {
+    "article_id": "latent-space--3509f829",
+    "first_seen_date": "2026-10-30"
   },
   "https://github.com/RittikaJ/opencode-qwen-local-setup": {
     "article_id": "latent-space--f9dfc046",
@@ -5709,6 +5751,10 @@
     "article_id": "latent-space--239485e4",
     "first_seen_date": "2026-09-29"
   },
+  "https://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth": {
+    "article_id": "latent-space--789d95a0",
+    "first_seen_date": "2026-10-30"
+  },
   "https://github.com/arcee-ai/trinity-large-tech-report": {
     "article_id": "ahead-of-ai--325f41d6",
     "first_seen_date": "2026-09-23"
@@ -5753,6 +5799,10 @@
   "https://github.com/eric-mitchell/direct-preference-optimization": {
     "article_id": "nlp-newsletter--49cd9d83",
     "first_seen_date": "2026-09-23"
+  },
+  "https://github.com/ethanwsussman/Yang--Mills-LLM-experiment": {
+    "article_id": "latent-space--d178e2b4",
+    "first_seen_date": "2026-10-30"
   },
   "https://github.com/ggml-org/llama.cpp/pull/29761": {
     "article_id": "latent-space--c0f4a398",
@@ -6724,6 +6774,10 @@
   "https://huggingface.co/blog/annotated-diffusion": {
     "article_id": "huggingface-blog--6af9a32e",
     "first_seen_date": "2026-08-21"
+  },
+  "https://huggingface.co/blog/announcing-project-protostar": {
+    "article_id": "huggingface-blog--ab40fe03",
+    "first_seen_date": "2026-10-30"
   },
   "https://huggingface.co/blog/anydecisionmodel": {
     "article_id": "huggingface-blog--fe8a9a38",
@@ -7909,6 +7963,10 @@
     "article_id": "huggingface-blog--3cebe86e",
     "first_seen_date": "2026-10-16"
   },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+    "article_id": "huggingface-blog--afb9e78c",
+    "first_seen_date": "2026-10-30"
+  },
   "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": {
     "article_id": "huggingface-blog--b2b987bc",
     "first_seen_date": "2026-06-02"
@@ -8520,6 +8578,10 @@
   "https://huggingface.co/blog/mistral-coreml": {
     "article_id": "huggingface-blog--88648bbf",
     "first_seen_date": "2026-05-12"
+  },
+  "https://huggingface.co/blog/mistral-large4": {
+    "article_id": "huggingface-blog--d8748e80",
+    "first_seen_date": "2026-10-30"
   },
   "https://huggingface.co/blog/mixtral": {
     "article_id": "huggingface-blog--586400ef",
@@ -10150,6 +10212,10 @@
     "article_id": "latent-space--f91afe7f",
     "first_seen_date": "2026-10-23"
   },
+  "https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF": {
+    "article_id": "latent-space--c1307c58",
+    "first_seen_date": "2026-10-30"
+  },
   "https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF": {
     "article_id": "latent-space--0169ef76",
     "first_seen_date": "2026-10-03"
@@ -10205,6 +10271,10 @@
   "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B/blob/main/LICENSE.md": {
     "article_id": "interconnects--5f2b991f",
     "first_seen_date": "2026-10-18"
+  },
+  "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B": {
+    "article_id": "latent-space--c1464be1",
+    "first_seen_date": "2026-10-30"
   },
   "https://huggingface.co/moonshotai/Kimi-K2.5": {
     "article_id": "ahead-of-ai--cd72fdfb",
@@ -10549,6 +10619,10 @@
     "article_id": "latent-space--b9160681",
     "first_seen_date": "2026-10-23"
   },
+  "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference": {
+    "article_id": "latent-space--724b9739",
+    "first_seen_date": "2026-10-30"
+  },
   "https://latent.space/p/ainews-gemini-4-carbon": {
     "article_id": "latent-space--bbf4beb8",
     "first_seen_date": "2026-10-29"
@@ -10556,6 +10630,10 @@
   "https://latent.space/p/ainews-kimi-31": {
     "article_id": "latent-space--cbab01df",
     "first_seen_date": "2026-10-24"
+  },
+  "https://latent.space/p/elorian": {
+    "article_id": "latent-space--2f5bf006",
+    "first_seen_date": "2026-10-30"
   },
   "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": {
     "article_id": "latent-space--44af309f",
@@ -10779,6 +10857,10 @@
     "article_id": "last-week-in-ai--42f2a815",
     "first_seen_date": "2026-10-09"
   },
+  "https://mistral.ai/news/mistral-large-4-oss": {
+    "article_id": "latent-space--1ffdc5d2",
+    "first_seen_date": "2026-10-30"
+  },
   "https://mistral.ai/research": {
     "article_id": "latent-space--041d624b",
     "first_seen_date": "2026-10-09"
@@ -10929,6 +11011,11 @@
     "first_seen_date": "2026-10-23",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-building-aie-code-the-top-coding-agent-conference%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-10-30",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-gemini-4-carbon%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-29",
@@ -10937,6 +11024,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-kimi-31%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-24",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Felorian%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-10-30",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fhow_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands%2F": {
@@ -11944,6 +12036,10 @@
     "article_id": "openai-blog--16c21494",
     "first_seen_date": "2026-07-30"
   },
+  "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+    "article_id": "openai-blog--2be0d8c0",
+    "first_seen_date": "2026-10-30"
+  },
   "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment": {
     "article_id": "openai-blog--f74924e8",
     "first_seen_date": "2026-04-13"
@@ -12557,6 +12653,10 @@
     "article_id": "openai-blog--11212e04",
     "first_seen_date": "2026-09-23"
   },
+  "https://openai.com/index/ropes-gray-ai-diligence": {
+    "article_id": "openai-blog--1ce34dc5",
+    "first_seen_date": "2026-10-30"
+  },
   "https://openai.com/index/running-codex-safely": {
     "article_id": "openai-blog--0fdb31f0",
     "first_seen_date": "2026-05-09"
@@ -12809,6 +12909,10 @@
   "https://openai.com/index/update-on-the-openai-foundation": {
     "article_id": "openai-blog--edae1430",
     "first_seen_date": "2026-04-13"
+  },
+  "https://openai.com/index/updated-model-spec": {
+    "article_id": "openai-blog--2d1f8500",
+    "first_seen_date": "2026-10-30"
   },
   "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
     "article_id": "openai-blog--a8c3c4b1",
@@ -13415,6 +13519,11 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2r2NuDAAAAAJ&citation_for_view=2r2NuDAAAAAJ%3AW7OEmFMy1HYC": {
+    "article_id": null,
+    "first_seen_date": "2026-10-30",
+    "status": "fetch_failed"
+  },
   "https://scottaaronson.blog/?p=10062": {
     "article_id": "latent-space--fe4909d3",
     "first_seen_date": "2026-09-23"
@@ -13726,6 +13835,18 @@
   "https://simonwillison.net/2026/Oct/28/vibe-game-development": {
     "article_id": "simonwillison--8b15e171",
     "first_seen_date": "2026-10-29"
+  },
+  "https://simonwillison.net/2026/Oct/29/api-credits": {
+    "article_id": "simonwillison--d5f1c138",
+    "first_seen_date": "2026-10-30"
+  },
+  "https://simonwillison.net/2026/Oct/29/ben-hylak": {
+    "article_id": "simonwillison--1aa759dd",
+    "first_seen_date": "2026-10-30"
+  },
+  "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": {
+    "article_id": "simonwillison--99f520b5",
+    "first_seen_date": "2026-10-30"
   },
   "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": {
     "article_id": "simonwillison--be2a363e",
@@ -15878,6 +15999,10 @@
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
   },
+  "https://www.mercor.com/": {
+    "article_id": "latent-space--c63b3717",
+    "first_seen_date": "2026-10-30"
+  },
   "https://www.meta.com/superintelligence?srsltid=AU7gw4XKcgMv1WYya2PFc2kUjMo91dGE7wynRverFh7HmN5-rEmKYJag": {
     "article_id": "interconnects--c1924550",
     "first_seen_date": "2026-10-18"
@@ -15962,6 +16087,10 @@
   "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white": {
     "article_id": "microsoft-research--138c3d90",
     "first_seen_date": "2026-10-21"
+  },
+  "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97": {
+    "article_id": "microsoft-research--560698a3",
+    "first_seen_date": "2026-10-30"
   },
   "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us": {
     "article_id": "microsoft-research--dfc2998d",
@@ -16880,6 +17009,10 @@
     "article_id": "interconnects--3235ae4d",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.proofatlas.ai/open-problems": {
+    "article_id": "latent-space--2e4910d0",
+    "first_seen_date": "2026-10-30"
+  },
   "https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis": {
     "article_id": "one-useful-thing--458275bd",
     "first_seen_date": "2026-04-13"
@@ -17527,6 +17660,11 @@
   "https://www.worldlabs.ai/blog/rtfm": {
     "article_id": "latent-space--f8ec6ff1",
     "first_seen_date": "2026-09-25"
+  },
+  "https://www.wsgr.com/en/insights/wilson-sonsini-advises-elorian-on-dollar55-million-seed-financing-as-company-emerges-from-stealth.html": {
+    "article_id": null,
+    "first_seen_date": "2026-10-30",
+    "status": "fetch_failed"
   },
   "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628": {
     "article_id": null,

@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-10-29T13:00:30+00:00</lastBuildDate>
+    <lastBuildDate>2026-10-30T12:53:21+00:00</lastBuildDate>
+    <item>
+      <title>Mistral Large 4 (2026-10-30)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-30/</link>
+      <guid isPermaLink="false">wotd-2026-10-30</guid>
+      <pubDate>2026-10-30</pubDate>
+      <description>Mistral Large 4 trended today because Mistral AI officially released the model weights as open-weight on Hugging Face and announced it via their news channel, marking their largest and most capable model to date with a 1-trillion-parameter MoE architecture trained on proprietary European infrastructure. The release emphasizes coding, cybersecurity, and reasoning efficiency with three reasoning modes, directly targeting enterprise and sovereign AI deployment needs.</description>
+    </item>
     <item>
       <title>Gemini 4 Carbon (2026-10-29)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-29/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-08-13</guid>
       <pubDate>2026-08-13</pubDate>
       <description>Word of the day: video</description>
-    </item>
-    <item>
-      <title>vision (2026-08-11)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-11/</link>
-      <guid isPermaLink="false">wotd-2026-08-11</guid>
-      <pubDate>2026-08-11</pubDate>
-      <description>Word of the day: vision</description>
     </item>
   </channel>
 </rss>

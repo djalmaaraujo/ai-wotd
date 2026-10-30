@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c1307c58",
+  "author": null,
+  "content_chars": 4592,
+  "content_sha256": "37f9a71bae97f3b1bb86fd29407ba163d7c731318cb0f9a5678e555d159581c6",
+  "content_tokens": 1148,
+  "fetched_at": "2026-10-30T12:52:57Z",
+  "kind": "article",
+  "published_at": "2026-10-30T08:24:29+00:00",
+  "snippet": "- Notebooks - Google Colab - Kaggle - Local Apps Settings - llama.cpp How to use ggml-org/Mistral-Large-4-1T-A52B-GGUF with llama.cpp: Install (macOS, Linux) curl -LsSf https://llama.app/install.sh | sh # Start a local OpenAI-compatible server with a web UI: llama serve -hf…",
+  "source_id": "latent-space",
+  "title": "ggml-org/Mistral-Large-4-1T-A52B-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "ggml-org",
+      29
+    ],
+    [
+      "mistral-large-4-1t-a52b-gguf",
+      28
+    ],
+    [
+      "llama",
+      25
+    ],
+    [
+      "install",
+      19
+    ],
+    [
+      "q4",
+      17
+    ],
+    [
+      "cpp",
+      14
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "hf",
+      13
+    ],
+    [
+      "server",
+      13
+    ],
+    [
+      "run",
+      12
+    ],
+    [
+      "hermes",
+      11
+    ],
+    [
+      "local",
+      11
+    ],
+    [
+      "start",
+      11
+    ],
+    [
+      "hf ggml-org",
+      9
+    ],
+    [
+      "mistral-large-4-1t-a52b-gguf with",
+      8
+    ],
+    [
+      "openclaw",
+      8
+    ],
+    [
+      "pi",
+      8
+    ],
+    [
+      "serve",
+      8
+    ],
+    [
+      "to use ggml-org",
+      8
+    ],
+    [
+      "use ggml-org",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF",
+  "url_canonical": "https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF",
+  "via_source_id": "latent-space"
+}

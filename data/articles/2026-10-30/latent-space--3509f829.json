@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3509f829",
+  "author": null,
+  "content_chars": 5393,
+  "content_sha256": "0fc021def735c2ba0ad3ca3f1b538014d34770b3ddb944d63fa39229a9d66f36",
+  "content_tokens": 1348,
+  "fetched_at": "2026-10-30T12:52:56Z",
+  "kind": "article",
+  "published_at": "2026-10-30T08:24:29+00:00",
+  "snippet": "Conversation The Qwen 1M rules stopped at qwen3.x, so every qwen4 spelling fell through to the 256K family row and auto-compaction fired at 22% of the real window. Add a family row for the generation, as suggested in review of #15758. | ⏳ Approval still deferred — 1 PR CI…",
+  "source_id": "latent-space",
+  "title": "fix(core): size the qwen4 generation at 1M by wenshao · Pull Request #15762 · QwenLM/qwen-code · GitHub",
+  "top_terms": [
+    [
+      "pr",
+      16
+    ],
+    [
+      "code",
+      12
+    ],
+    [
+      "ci",
+      10
+    ],
+    [
+      "row",
+      9
+    ],
+    [
+      "qwen4",
+      8
+    ],
+    [
+      "qwen",
+      6
+    ],
+    [
+      "diff",
+      5
+    ],
+    [
+      "reviewed",
+      5
+    ],
+    [
+      "table",
+      5
+    ],
+    [
+      "change",
+      4
+    ],
+    [
+      "family",
+      4
+    ],
+    [
+      "generation",
+      4
+    ],
+    [
+      "path",
+      4
+    ],
+    [
+      "review",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "add",
+      3
+    ],
+    [
+      "max-2026-09-02",
+      3
+    ],
+    [
+      "max-2026-09-02 reviewed",
+      3
+    ],
+    [
+      "max-2026-09-02 reviewed at",
+      3
+    ],
+    [
+      "ordered",
+      3
+    ]
+  ],
+  "url": "https://github.com/QwenLM/qwen-code/pull/15762",
+  "url_canonical": "https://github.com/QwenLM/qwen-code/pull/15762",
+  "via_source_id": "latent-space"
+}

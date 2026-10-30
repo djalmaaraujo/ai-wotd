@@ -1,0 +1,270 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--81b2f44c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 4356.847136,
+      "term": "assert",
+      "tf_today": 512
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--724b9739"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 2994.422209,
+      "term": "proof would",
+      "tf_today": 371
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--6d215d2e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1883.677138,
+      "term": "geometry",
+      "tf_today": 250
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--3509f829",
+        "latent-space--50a0e32f",
+        "latent-space--724b9739",
+        "latent-space--789d95a0",
+        "latent-space--d178e2b4"
+      ],
+      "avg_tf_baseline": 15.1176,
+      "df_today": 6,
+      "score": 1449.494186,
+      "term": "problem",
+      "tf_today": 2658
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--789d95a0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1386.404488,
+      "term": "proved",
+      "tf_today": 193
+    },
+    {
+      "articles": [
+        "latent-space--1ffdc5d2",
+        "latent-space--2e4910d0",
+        "latent-space--724b9739",
+        "latent-space--81b2f44c"
+      ],
+      "avg_tf_baseline": 4.7692,
+      "df_today": 4,
+      "score": 1278.312194,
+      "term": "range",
+      "tf_today": 1019
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--50a0e32f"
+      ],
+      "avg_tf_baseline": 5.4286,
+      "df_today": 2,
+      "score": 1277.03789,
+      "term": "status",
+      "tf_today": 1403
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--d178e2b4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1267.553559,
+      "term": "manuscript",
+      "tf_today": 179
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--724b9739"
+      ],
+      "avg_tf_baseline": 3.75,
+      "df_today": 2,
+      "score": 1238.897091,
+      "term": "uncertainty",
+      "tf_today": 988
+    },
+    {
+      "articles": [
+        "latent-space--2e4910d0",
+        "latent-space--3509f829",
+        "latent-space--724b9739"
+      ],
+      "avg_tf_baseline": 6.4286,
+      "df_today": 3,
+      "score": 1173.706354,
+      "term": "family",
+      "tf_today": 1354
+    }
+  ],
+  "date": "2026-10-30",
+  "evidence_article_ids": [
+    "latent-space--1ffdc5d2",
+    "latent-space--724b9739",
+    "latent-space--c1464be1"
+  ],
+  "judge": {
+    "input_tokens": 31277,
+    "model": "jev-1.14.0",
+    "pool_size": 65,
+    "signals": {
+      "agent conference": {
+        "dominance": 1.92,
+        "event": 0.38,
+        "form": 0.72,
+        "novelty": 0.67,
+        "specificity": 1.31
+      },
+      "aie code": {
+        "dominance": 1.93,
+        "event": 0.34,
+        "form": 0.79,
+        "novelty": 0.72,
+        "specificity": 1.78
+      },
+      "building aie code": {
+        "dominance": 1.93,
+        "event": 0.43,
+        "form": 0.56,
+        "novelty": 0.67,
+        "specificity": 1.49
+      },
+      "bun": {
+        "dominance": 1.92,
+        "event": 0.82,
+        "form": 0.92,
+        "novelty": 0.78,
+        "specificity": 1.47
+      },
+      "chonk": {
+        "dominance": 2.91,
+        "event": 0.94,
+        "form": 0.85,
+        "novelty": 0.68,
+        "specificity": 1.89
+      },
+      "claude": {
+        "dominance": 1.85,
+        "event": 0.79,
+        "form": 0.9,
+        "novelty": 0.6,
+        "specificity": 1.91
+      },
+      "coding": {
+        "dominance": 2.94,
+        "event": 0.93,
+        "form": 0.9,
+        "novelty": 0.52,
+        "specificity": 0.72
+      },
+      "coding agent conference": {
+        "dominance": 1.95,
+        "event": 0.43,
+        "form": 0.81,
+        "novelty": 0.66,
+        "specificity": 1.57
+      },
+      "large 4": {
+        "dominance": 2.94,
+        "event": 0.94,
+        "form": 0.65,
+        "novelty": 0.59,
+        "specificity": 1.98
+      },
+      "le chonk": {
+        "dominance": 2.87,
+        "event": 0.88,
+        "form": 0.88,
+        "novelty": 0.68,
+        "specificity": 1.98
+      },
+      "llm-assessed importance": {
+        "dominance": 1.95,
+        "event": 0.81,
+        "form": 0.84,
+        "novelty": 0.7,
+        "specificity": 1.73
+      },
+      "mistral large 4": {
+        "dominance": 2.89,
+        "event": 0.93,
+        "form": 0.95,
+        "novelty": 0.72,
+        "specificity": 2.0
+      },
+      "open": {
+        "dominance": 2.69,
+        "event": 0.94,
+        "form": 0.63,
+        "novelty": 0.43,
+        "specificity": 1.47
+      },
+      "rewriting bun": {
+        "dominance": 1.96,
+        "event": 0.79,
+        "form": 0.61,
+        "novelty": 0.69,
+        "specificity": 0.91
+      },
+      "top 500 open math problems": {
+        "dominance": 1.97,
+        "event": 0.79,
+        "form": 0.91,
+        "novelty": 0.71,
+        "specificity": 1.66
+      },
+      "yang--mills-llm-experiment": {
+        "dominance": 1.88,
+        "event": 0.44,
+        "form": 0.4,
+        "novelty": 0.7,
+        "specificity": 1.71
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "mistral large 4",
+      "le chonk",
+      "chonk",
+      "claude"
+    ]
+  },
+  "label": "Mistral Large 4",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://mistral.ai/news/mistral-large-4-oss",
+        "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+        "https://en.wikipedia.org/wiki/Mistral_AI"
+      ],
+      "text": "Mistral Large 4 is a 1-trillion-parameter natively multimodal Mixture-of-Experts (MoE) large language model developed by Mistral AI, featuring 49 billion active parameters per token (52 billion including embeddings). Released as open-weight in July 2025, it was trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's European datacenters. The model unifies instruction following, reasoning, coding, and agentic workflows, with particular strength in cybersecurity, finance, and legal domains. Its open-weight license and European training make it a sovereign AI option for self-hosted deployment."
+    },
+    "generated_at": "2026-10-30T12:53:19.216665+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Mistral AI released Mistral Large 4, a 1-trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token, trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in the company's European datacenters. The model, codenamed Le Chonk, is fully open-weight and leads open-weight benchmarks in coding and defensive cybersecurity tasks while unifying instruction following, reasoning, and agentic workflows. Mistral positions it as a sovereign AI option with self-hosted deployment flexibility. The release coincides with the AI Engineer CODE conference focusing on agentic engineering, where Mistral's model is positioned for agentic coding workloads. The Hugging Face repository shows the model surpasses frontier closed models on cybersecurity, finance, and law benchmarks.",
+    "why": "Mistral Large 4 trended today because Mistral AI officially released the model weights as open-weight on Hugging Face and announced it via their news channel, marking their largest and most capable model to date with a 1-trillion-parameter MoE architecture trained on proprietary European infrastructure. The release emphasizes coding, cybersecurity, and reasoning efficiency with three reasoning modes, directly targeting enterprise and sovereign AI deployment needs."
+  },
+  "score": 35.072489,
+  "word": "mistral large 4"
+}

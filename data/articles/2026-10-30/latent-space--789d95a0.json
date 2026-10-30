@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--789d95a0",
+  "author": null,
+  "content_chars": 3129,
+  "content_sha256": "2ba4d89cd2a862e76fe8440273371d8ab51d109a22361b62b122862724bc7106",
+  "content_tokens": 782,
+  "fetched_at": "2026-10-30T12:52:54Z",
+  "kind": "article",
+  "published_at": "2026-10-30T08:24:29+00:00",
+  "snippet": "A deterministic algorithm solves 3-SAT on n variables in time 2o(n), which refutes the Exponential Time Hypothesis (ETH). The algorithm in fact solves the harder problem #3-SAT, counting the satisfying assignments, in time 2O(n log log n / √log n). The result is purely…",
+  "source_id": "latent-space",
+  "title": "formal-math/eth at 16a5ce41304fcdaea4e0be7c132e1c361dc26da5 · anthropics/formal-math · GitHub",
+  "top_terms": [
+    [
+      "lean",
+      11
+    ],
+    [
+      "eth",
+      5
+    ],
+    [
+      "paper",
+      5
+    ],
+    [
+      "proofs",
+      5
+    ],
+    [
+      "algorithm",
+      4
+    ],
+    [
+      "check",
+      4
+    ],
+    [
+      "file",
+      4
+    ],
+    [
+      "sat",
+      4
+    ],
+    [
+      "the paper",
+      4
+    ],
+    [
+      "axioms",
+      3
+    ],
+    [
+      "choice",
+      3
+    ],
+    [
+      "claude",
+      3
+    ],
+    [
+      "lake",
+      3
+    ],
+    [
+      "log",
+      3
+    ],
+    [
+      "mainresults",
+      3
+    ],
+    [
+      "mathlib",
+      3
+    ],
+    [
+      "the proofs",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "algorithm for",
+      2
+    ],
+    [
+      "build",
+      2
+    ]
+  ],
+  "url": "https://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth",
+  "url_canonical": "https://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth",
+  "via_source_id": "latent-space"
+}

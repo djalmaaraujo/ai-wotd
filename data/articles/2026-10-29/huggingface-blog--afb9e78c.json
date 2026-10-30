@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--afb9e78c",
+  "author": "Hugging Face Blog",
+  "content_chars": 1465,
+  "content_sha256": "89b4f4212be91ee7a6a32d28868b89341981b04e627b8d8cfa5d4a51ae7105e7",
+  "content_tokens": 366,
+  "fetched_at": "2026-10-30T12:49:52Z",
+  "kind": "article",
+  "published_at": "2026-10-29T13:37:07+00:00",
+  "snippet": "Just over a week ago, we released Granite Switch 4.1, showing that our modular Switch architecture lets you configure a language model with specialized, cache-efficient adapters — adding new expertise on a single endpoint. Granite Switch 4.1.1 is a patch release. The version…",
+  "source_id": "huggingface-blog",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "top_terms": [
+    [
+      "model",
+      5
+    ],
+    [
+      "granite",
+      4
+    ],
+    [
+      "switch",
+      4
+    ],
+    [
+      "adapter",
+      3
+    ],
+    [
+      "adapters",
+      3
+    ],
+    [
+      "decision",
+      3
+    ],
+    [
+      "granite switch",
+      3
+    ],
+    [
+      "models",
+      3
+    ],
+    [
+      "software",
+      3
+    ],
+    [
+      "test",
+      3
+    ],
+    [
+      "update",
+      3
+    ],
+    [
+      "asr",
+      2
+    ],
+    [
+      "asr model",
+      2
+    ],
+    [
+      "decision adapter",
+      2
+    ],
+    [
+      "features",
+      2
+    ],
+    [
+      "granite switch 4.1.1",
+      2
+    ],
+    [
+      "latest",
+      2
+    ],
+    [
+      "means",
+      2
+    ],
+    [
+      "multilingual",
+      2
+    ],
+    [
+      "patch",
+      2
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "url_canonical": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "via_source_id": null
+}

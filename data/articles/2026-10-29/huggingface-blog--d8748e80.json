@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--d8748e80",
+  "author": "Hugging Face Blog",
+  "content_chars": 15175,
+  "content_sha256": "2339c8e221ae831337d3e516afa4f40acfad99facc599437b670d476319eb93e",
+  "content_tokens": 3793,
+  "fetched_at": "2026-10-30T12:49:52Z",
+  "kind": "article",
+  "published_at": "2026-10-29T00:00:00+00:00",
+  "snippet": "Mistral Large 4 (aka Le Chonk) is a multimodal, multilingual, Mixture-of-Experts (MoE) model from Mistral. It takes text and images as input and generates text. It has about 1T total, 49B active parameter, and a context window of 1M tokens. The model is released in two official…",
+  "source_id": "huggingface-blog",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "top_terms": [
+    [
+      "model",
+      38
+    ],
+    [
+      "mistral",
+      30
+    ],
+    [
+      "large",
+      23
+    ],
+    [
+      "large 4",
+      22
+    ],
+    [
+      "mistral large",
+      22
+    ],
+    [
+      "mistral large 4",
+      22
+    ],
+    [
+      "the model",
+      15
+    ],
+    [
+      "size",
+      13
+    ],
+    [
+      "reasoning",
+      12
+    ],
+    [
+      "image",
+      11
+    ],
+    [
+      "text",
+      11
+    ],
+    [
+      "messages",
+      10
+    ],
+    [
+      "chat",
+      9
+    ],
+    [
+      "llama",
+      9
+    ],
+    [
+      "run",
+      9
+    ],
+    [
+      "tok",
+      9
+    ],
+    [
+      "vulnerability",
+      9
+    ],
+    [
+      "content",
+      8
+    ],
+    [
+      "generation",
+      8
+    ],
+    [
+      "inference",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "url_canonical": "https://huggingface.co/blog/mistral-large4",
+  "via_source_id": null
+}
