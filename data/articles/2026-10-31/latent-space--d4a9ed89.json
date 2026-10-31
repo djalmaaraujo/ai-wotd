@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d4a9ed89",
+  "author": null,
+  "content_chars": 1543,
+  "content_sha256": "952a6fc528a84c286939738cf874e2e8aba73047ef405a156de0289f22d0e34e",
+  "content_tokens": 385,
+  "fetched_at": "2026-10-31T12:24:37Z",
+  "kind": "article",
+  "published_at": "2026-10-31T05:00:48+00:00",
+  "snippet": "Conversation lukekim added a commit to spiceai/llama.cpp that referenced this pull request Oct 29, 2026 Brings in Mistral Large 4 (mistral-large4, ggml-org#31376) and its DSpark drafter. The fork's split-model gather is kept on the DSpark Markov head's bias, now computed through…",
+  "source_id": "latent-space",
+  "title": "model: mistral large 4 le chonk by ngxson · Pull Request #31376 · ggml-org/llama.cpp · GitHub",
+  "top_terms": [
+    [
+      "applied",
+      11
+    ],
+    [
+      "be applied",
+      10
+    ],
+    [
+      "cannot be applied",
+      7
+    ],
+    [
+      "suggestion",
+      7
+    ],
+    [
+      "suggestions",
+      7
+    ],
+    [
+      "suggestions cannot",
+      6
+    ],
+    [
+      "suggestions cannot be",
+      6
+    ],
+    [
+      "pull",
+      4
+    ],
+    [
+      "pull request",
+      4
+    ],
+    [
+      "request",
+      4
+    ],
+    [
+      "this suggestion",
+      4
+    ],
+    [
+      "applied while",
+      3
+    ],
+    [
+      "batch",
+      3
+    ],
+    [
+      "be applied while",
+      3
+    ],
+    [
+      "can be applied",
+      3
+    ],
+    [
+      "commit",
+      3
+    ],
+    [
+      "unicode",
+      3
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "add this",
+      2
+    ],
+    [
+      "add this suggestion",
+      2
+    ]
+  ],
+  "url": "https://github.com/ggml-org/llama.cpp/pull/31376",
+  "url_canonical": "https://github.com/ggml-org/llama.cpp/pull/31376",
+  "via_source_id": "latent-space"
+}

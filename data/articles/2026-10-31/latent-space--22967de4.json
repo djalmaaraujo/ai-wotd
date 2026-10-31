@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--22967de4",
+  "author": null,
+  "content_chars": 2112,
+  "content_sha256": "e43422e1337cc32afdb9747c34d0495f5ad609432006e5fd44a7c495696a3d8a",
+  "content_tokens": 528,
+  "fetched_at": "2026-10-31T12:24:38Z",
+  "kind": "article",
+  "published_at": "2026-10-31T05:00:48+00:00",
+  "snippet": "A 31B Gemma that texts like a person and still does the work. No system prompt needed. This repo has the full BF16 weights for vLLM, SGLang and transformers. Results, examples and how it was made are on the main card: Gemma-4-31B-Humanlike-Chat-GGUF. \"Base\" here always means…",
+  "source_id": "latent-space",
+  "title": "LessThanThreeAI/Gemma-4-31B-Humanlike-Chat · Hugging Face",
+  "top_terms": [
+    [
+      "vllm",
+      6
+    ],
+    [
+      "google's",
+      5
+    ],
+    [
+      "reference",
+      5
+    ],
+    [
+      "card",
+      4
+    ],
+    [
+      "bf16",
+      3
+    ],
+    [
+      "effort",
+      3
+    ],
+    [
+      "gb",
+      3
+    ],
+    [
+      "gemma",
+      3
+    ],
+    [
+      "main",
+      3
+    ],
+    [
+      "main card",
+      3
+    ],
+    [
+      "repo",
+      3
+    ],
+    [
+      "the main",
+      3
+    ],
+    [
+      "the main card",
+      3
+    ],
+    [
+      "thinking",
+      3
+    ],
+    [
+      "weights",
+      3
+    ],
+    [
+      "base",
+      2
+    ],
+    [
+      "bf16 weights",
+      2
+    ],
+    [
+      "blackwell",
+      2
+    ],
+    [
+      "check",
+      2
+    ],
+    [
+      "discord",
+      2
+    ]
+  ],
+  "url": "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat",
+  "url_canonical": "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat",
+  "via_source_id": "latent-space"
+}

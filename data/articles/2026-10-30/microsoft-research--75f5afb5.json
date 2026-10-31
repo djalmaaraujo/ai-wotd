@@ -1,0 +1,98 @@
+{
+  "article_id": "microsoft-research--75f5afb5",
+  "author": "Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, Chandra Inguva, Jenny Chen, Minha Hwang, Sam Ade Jacobs",
+  "content_chars": 13198,
+  "content_sha256": "88216306b29dadcf7bc37ab876aa47b9f10348965de91f8775895de9bce29cc9",
+  "content_tokens": 3299,
+  "fetched_at": "2026-10-31T12:24:27Z",
+  "kind": "article",
+  "published_at": "2026-10-30T13:05:28+00:00",
+  "snippet": "At a glance - Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. - To resolve this…",
+  "source_id": "microsoft-research",
+  "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+  "top_terms": [
+    [
+      "evaluation",
+      35
+    ],
+    [
+      "data",
+      30
+    ],
+    [
+      "synthetic",
+      25
+    ],
+    [
+      "environments",
+      17
+    ],
+    [
+      "copilot",
+      16
+    ],
+    [
+      "enterprise",
+      16
+    ],
+    [
+      "industry",
+      16
+    ],
+    [
+      "microsoft",
+      15
+    ],
+    [
+      "real",
+      14
+    ],
+    [
+      "quality",
+      13
+    ],
+    [
+      "realistic",
+      11
+    ],
+    [
+      "across",
+      9
+    ],
+    [
+      "microsoft copilot",
+      9
+    ],
+    [
+      "organizational",
+      9
+    ],
+    [
+      "automated",
+      8
+    ],
+    [
+      "environment",
+      8
+    ],
+    [
+      "generation",
+      8
+    ],
+    [
+      "synthetic environments",
+      8
+    ],
+    [
+      "teams",
+      8
+    ],
+    [
+      "organizations",
+      7
+    ]
+  ],
+  "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+  "url_canonical": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+  "via_source_id": null
+}

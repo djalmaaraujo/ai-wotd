@@ -1,0 +1,276 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--22967de4",
+        "latent-space--353a77ce",
+        "latent-space--4fe03003",
+        "latent-space--56a58ec9",
+        "latent-space--8c9e8793",
+        "latent-space--dc0d0c48",
+        "latent-space--f9c1fb61"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 140.642432,
+      "term": "kl",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "latent-space--109a8f95",
+        "latent-space--22967de4",
+        "latent-space--353a77ce",
+        "latent-space--56a58ec9",
+        "latent-space--8c9e8793",
+        "latent-space--f9c1fb61"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 61.558785,
+      "term": "chats",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "latent-space--353a77ce",
+        "latent-space--4fe03003",
+        "latent-space--56a58ec9",
+        "latent-space--dc0d0c48"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 57.179575,
+      "term": "quant",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--353a77ce",
+        "latent-space--4fe03003"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 45.74366,
+      "term": "gsq-rco",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--22967de4",
+        "latent-space--353a77ce",
+        "latent-space--56a58ec9",
+        "latent-space--8c9e8793",
+        "latent-space--f9c1fb61"
+      ],
+      "avg_tf_baseline": 2.75,
+      "df_today": 5,
+      "score": 44.863563,
+      "term": "google's",
+      "tf_today": 37
+    },
+    {
+      "articles": [
+        "latent-space--22967de4",
+        "latent-space--353a77ce",
+        "latent-space--56a58ec9",
+        "latent-space--8c9e8793",
+        "latent-space--f9c1fb61"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 43.961413,
+      "term": "gemma-4-31b-it",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "latent-space--4fe03003",
+        "latent-space--56a58ec9",
+        "latent-space--dc0d0c48"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 41.00096,
+      "term": "q5",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--353a77ce",
+        "latent-space--4fe03003"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 36.445298,
+      "term": "kld",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--4fe03003",
+        "latent-space--dc0d0c48"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 36.445298,
+      "term": "xxs",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--22967de4",
+        "latent-space--56a58ec9",
+        "latent-space--8c9e8793",
+        "latent-space--f9c1fb61"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 34.538776,
+      "term": "google's gemma",
+      "tf_today": 9
+    }
+  ],
+  "date": "2026-10-31",
+  "evidence_article_ids": [
+    "latent-space--22967de4",
+    "latent-space--353a77ce",
+    "latent-space--56a58ec9"
+  ],
+  "judge": {
+    "input_tokens": 21185,
+    "model": "jev-1.14.0",
+    "pool_size": 40,
+    "signals": {
+      "deepseek-v4.1": {
+        "dominance": 1.92,
+        "event": 0.79,
+        "form": 0.89,
+        "novelty": 0.7,
+        "specificity": 2.0
+      },
+      "face": {
+        "dominance": 1.87,
+        "event": 0.41,
+        "form": 0.46,
+        "novelty": 0.53,
+        "specificity": 1.01
+      },
+      "flash-1017": {
+        "dominance": 1.67,
+        "event": 0.81,
+        "form": 0.63,
+        "novelty": 0.75,
+        "specificity": 1.97
+      },
+      "gemma-4-31b-humanlike-chat": {
+        "dominance": 2.93,
+        "event": 0.69,
+        "form": 0.86,
+        "novelty": 0.83,
+        "specificity": 2.0
+      },
+      "gemma-4-31b-it": {
+        "dominance": 2.83,
+        "event": 0.36,
+        "form": 0.83,
+        "novelty": 0.69,
+        "specificity": 2.0
+      },
+      "gemma4": {
+        "dominance": 2.82,
+        "event": 0.51,
+        "form": 0.74,
+        "novelty": 0.73,
+        "specificity": 1.99
+      },
+      "google's gemma 4": {
+        "dominance": 2.84,
+        "event": 0.25,
+        "form": 0.85,
+        "novelty": 0.68,
+        "specificity": 2.0
+      },
+      "hugging face": {
+        "dominance": 2.67,
+        "event": 0.54,
+        "form": 0.8,
+        "novelty": 0.51,
+        "specificity": 1.35
+      },
+      "humanlike-gemma": {
+        "dominance": 2.85,
+        "event": 0.59,
+        "form": 0.83,
+        "novelty": 0.82,
+        "specificity": 1.98
+      },
+      "quant": {
+        "dominance": 1.95,
+        "event": 0.41,
+        "form": 0.77,
+        "novelty": 0.65,
+        "specificity": 1.97
+      },
+      "rtx pro 6000": {
+        "dominance": 1.48,
+        "event": 0.11,
+        "form": 0.8,
+        "novelty": 0.75,
+        "specificity": 1.99
+      },
+      "run locally guide": {
+        "dominance": 1.96,
+        "event": 0.71,
+        "form": 0.4,
+        "novelty": 0.55,
+        "specificity": 0.87
+      },
+      "unsloth": {
+        "dominance": 1.59,
+        "event": 0.65,
+        "form": 0.88,
+        "novelty": 0.77,
+        "specificity": 1.95
+      },
+      "vllm": {
+        "dominance": 2.04,
+        "event": 0.1,
+        "form": 0.86,
+        "novelty": 0.51,
+        "specificity": 1.99
+      },
+      "weights": {
+        "dominance": 2.44,
+        "event": 0.59,
+        "form": 0.74,
+        "novelty": 0.44,
+        "specificity": 1.93
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "gemma-4-31b-humanlike-chat",
+      "humanlike-gemma",
+      "deepseek-v4.1",
+      "unsloth"
+    ]
+  },
+  "label": "Gemma-4-31B-Humanlike-Chat",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat",
+        "https://huggingface.co/google/gemma-4-31B-it",
+        "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-GGUF"
+      ],
+      "text": "Gemma-4-31B-Humanlike-Chat is a community fine-tune of Google's Gemma-4-31B-it (a 31-billion-parameter open-weight language model) created by the Hugging Face user LessThanThreeAI. It is optimized for natural, concise conversation without requiring a system prompt, while preserving the base model's ability to perform tool calls and structured generation. The model is distributed in both BF16 (for vLLM, SGLang, Transformers) and GGUF (for llama.cpp) formats, making it runnable on consumer and datacenter GPUs."
+    },
+    "generated_at": "2026-10-31T12:24:56.026634+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "A new fine-tune of Google's Gemma-4-31B-it model has surged on Hugging Face, released by LessThanThreeAI under the name Gemma-4-31B-Humanlike-Chat. The 31-billion-parameter model is marketed as conversational without requiring a system prompt, while retaining tool-calling and structured-output capabilities compatible with vLLM, SGLang, and transformers. Both BF16 and GGUF weight variants were published, with benchmarks showing the model prefers shorter, more natural replies compared to the base instruct version. The release coincides with broader scrutiny of Google's AI strategy: a Latent Space report notes the company acknowledged AI Overviews are cannibalizing search traffic, contributing to a $500 billion market-cap drop. Developers are discussing quantization (quant) trade-offs and KL-divergence (kl) metrics in the model's training, while the GSQ-RCO tag appears in related evaluation chatter.",
+    "why": "Gemma-4-31B-Humanlike-Chat trended because LessThanThreeAI published two Hugging Face repositories (BF16 and GGUF) on the same day, offering a drop-in, no-system-prompt alternative to Google's official Gemma-4-31B-it that immediately attracted attention for its 'humanlike' chat style and tool-use retention. The launch sparked discussion around quantization options and KL-divergence training details, amplifying its visibility in open-model circles."
+  },
+  "score": 26.366695,
+  "word": "gemma-4-31b-humanlike-chat"
+}

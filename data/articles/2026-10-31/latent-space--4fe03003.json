@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--4fe03003",
+  "author": null,
+  "content_chars": 13004,
+  "content_sha256": "0527553e267f0e4c03f6b3d1f81e443f83622eb932311edce2e536c256451827",
+  "content_tokens": 3251,
+  "fetched_at": "2026-10-31T12:24:37Z",
+  "kind": "article",
+  "published_at": "2026-10-31T05:00:48+00:00",
+  "snippet": "DeepSeek-V4.1-Flash-1017 is the new update to V4.1-Flash, making it the strongest open model to date for coding, agentic tasks and more. With 1M context, its 552B backbone + 196B Engram parameters support SSD offloading to reduce RAM/VRAM needs. This guide shows how to run…",
+  "source_id": "latent-space",
+  "title": "DeepSeek-V4.1-Flash: Run Locally Guide | Unsloth Documentation",
+  "top_terms": [
+    [
+      "gb",
+      34
+    ],
+    [
+      "engram",
+      19
+    ],
+    [
+      "deepseek-v4.1",
+      18
+    ],
+    [
+      "xl",
+      16
+    ],
+    [
+      "quants",
+      15
+    ],
+    [
+      "unsloth",
+      14
+    ],
+    [
+      "model",
+      12
+    ],
+    [
+      "table",
+      11
+    ],
+    [
+      "gsq-rco",
+      9
+    ],
+    [
+      "kld",
+      9
+    ],
+    [
+      "ram",
+      9
+    ],
+    [
+      "aime25",
+      8
+    ],
+    [
+      "deepseek",
+      8
+    ],
+    [
+      "mxfp8",
+      8
+    ],
+    [
+      "ud-iq1",
+      8
+    ],
+    [
+      "xxs",
+      8
+    ],
+    [
+      "bit",
+      7
+    ],
+    [
+      "context",
+      7
+    ],
+    [
+      "guide",
+      7
+    ],
+    [
+      "iq4",
+      7
+    ]
+  ],
+  "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash",
+  "url_canonical": "https://unsloth.ai/docs/models/deepseek-v4.1-flash",
+  "via_source_id": "latent-space"
+}

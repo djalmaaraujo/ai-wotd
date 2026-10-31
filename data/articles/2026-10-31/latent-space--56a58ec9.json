@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--56a58ec9",
+  "author": null,
+  "content_chars": 17031,
+  "content_sha256": "6f99dd234ef2172fe7c80727087e2d28758474064f27cc8546d0a6fd2022226d",
+  "content_tokens": 4257,
+  "fetched_at": "2026-10-31T12:24:38Z",
+  "kind": "article",
+  "published_at": "2026-10-31T05:00:48+00:00",
+  "snippet": "A 31B Gemma that texts like a person and still does the work. No system prompt needed. Text it and it texts back like someone you know. Ask for a formal email, a tool call or a proper explanation and it does that, then goes back to texting. Quick start · Download · vLLM /…",
+  "source_id": "latent-space",
+  "title": "LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "model",
+      26
+    ],
+    [
+      "chat",
+      25
+    ],
+    [
+      "thinking",
+      20
+    ],
+    [
+      "google",
+      19
+    ],
+    [
+      "google's",
+      19
+    ],
+    [
+      "gb",
+      18
+    ],
+    [
+      "tool",
+      17
+    ],
+    [
+      "base",
+      16
+    ],
+    [
+      "gguf",
+      16
+    ],
+    [
+      "vs",
+      15
+    ],
+    [
+      "bf16",
+      13
+    ],
+    [
+      "gemma",
+      13
+    ],
+    [
+      "lora",
+      12
+    ],
+    [
+      "endpoint",
+      11
+    ],
+    [
+      "humanlike",
+      11
+    ],
+    [
+      "reply",
+      11
+    ],
+    [
+      "vllm",
+      11
+    ],
+    [
+      "kl",
+      10
+    ],
+    [
+      "prompt",
+      10
+    ],
+    [
+      "replies",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-GGUF",
+  "url_canonical": "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-GGUF",
+  "via_source_id": "latent-space"
+}

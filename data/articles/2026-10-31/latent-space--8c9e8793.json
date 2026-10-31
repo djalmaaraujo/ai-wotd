@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--8c9e8793",
+  "author": null,
+  "content_chars": 2356,
+  "content_sha256": "30def2df321fb9d67cd2c74522320dcb99b464cfc86dda06f6aba387558c1ea8",
+  "content_tokens": 589,
+  "fetched_at": "2026-10-31T12:24:38Z",
+  "kind": "article",
+  "published_at": "2026-10-31T05:00:48+00:00",
+  "snippet": "A 31B Gemma that texts like a person and still does the work, in FP8. No system prompt needed. Results, examples and how it was made are on the main card: Gemma-4-31B-Humanlike-Chat-GGUF. \"Base\" here always means Google's google/gemma-4-31B-it , the official release. It is not…",
+  "source_id": "latent-space",
+  "title": "LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-FP8 · Hugging Face",
+  "top_terms": [
+    [
+      "fp8",
+      6
+    ],
+    [
+      "google's",
+      5
+    ],
+    [
+      "reference",
+      5
+    ],
+    [
+      "vllm",
+      5
+    ],
+    [
+      "bf16",
+      4
+    ],
+    [
+      "card",
+      4
+    ],
+    [
+      "weights",
+      4
+    ],
+    [
+      "effort",
+      3
+    ],
+    [
+      "gb",
+      3
+    ],
+    [
+      "gemma",
+      3
+    ],
+    [
+      "main",
+      3
+    ],
+    [
+      "main card",
+      3
+    ],
+    [
+      "the main",
+      3
+    ],
+    [
+      "the main card",
+      3
+    ],
+    [
+      "thinking",
+      3
+    ],
+    [
+      "base",
+      2
+    ],
+    [
+      "bf16 weights",
+      2
+    ],
+    [
+      "blackwell",
+      2
+    ],
+    [
+      "check",
+      2
+    ],
+    [
+      "discord",
+      2
+    ]
+  ],
+  "url": "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-FP8",
+  "url_canonical": "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat-FP8",
+  "via_source_id": "latent-space"
+}

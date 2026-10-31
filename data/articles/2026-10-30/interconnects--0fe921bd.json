@@ -1,0 +1,98 @@
+{
+  "article_id": "interconnects--0fe921bd",
+  "author": null,
+  "content_chars": 16819,
+  "content_sha256": "6166bb09f9f48c812ae05a7e012a47f5febca507f88f01b1ce57f8772815989e",
+  "content_tokens": 4204,
+  "fetched_at": "2026-10-31T12:24:32Z",
+  "kind": "article",
+  "published_at": "2026-10-30T17:36:56+00:00",
+  "snippet": "Overview GLM 5.3, a widely available open-weight model released by Z.ai in August, can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. The window between a fix…",
+  "source_id": "interconnects",
+  "title": "Open-weight AI models can exploit the patch gap | Epoch AI",
+  "top_terms": [
+    [
+      "firefox",
+      28
+    ],
+    [
+      "model",
+      21
+    ],
+    [
+      "glm",
+      19
+    ],
+    [
+      "glm 5.3",
+      19
+    ],
+    [
+      "gap",
+      18
+    ],
+    [
+      "models",
+      18
+    ],
+    [
+      "exploit",
+      17
+    ],
+    [
+      "patch",
+      17
+    ],
+    [
+      "the model",
+      16
+    ],
+    [
+      "patch gap",
+      15
+    ],
+    [
+      "release",
+      15
+    ],
+    [
+      "security",
+      15
+    ],
+    [
+      "software",
+      15
+    ],
+    [
+      "access",
+      14
+    ],
+    [
+      "the patch",
+      14
+    ],
+    [
+      "the patch gap",
+      14
+    ],
+    [
+      "attacks",
+      13
+    ],
+    [
+      "available",
+      13
+    ],
+    [
+      "users",
+      13
+    ],
+    [
+      "vulnerabilities",
+      13
+    ]
+  ],
+  "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+  "url_canonical": "https://epoch.ai/publications/open-weight-models-patch-gap",
+  "via_source_id": "interconnects"
+}
