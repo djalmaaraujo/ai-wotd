@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--3d7aa52a",
+  "author": "Simon Willison",
+  "content_chars": 837,
+  "content_sha256": "da6459e1237debb2675d0aa6a625f045dca98541ac4995c6630c00c18cfdc399",
+  "content_tokens": 209,
+  "fetched_at": "2026-11-01T13:19:44Z",
+  "kind": "article",
+  "published_at": "2026-10-31T22:10:01+00:00",
+  "snippet": "31st October 2026 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent…",
+  "source_id": "simonwillison",
+  "title": "datasette-llm 0.1a9",
+  "top_terms": [
+    [
+      "october",
+      6
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "datasette",
+      3
+    ],
+    [
+      "default",
+      3
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "datasette agent",
+      2
+    ],
+    [
+      "datasette-agent",
+      2
+    ],
+    [
+      "datasette-llm",
+      2
+    ],
+    [
+      "db",
+      2
+    ],
+    [
+      "default model",
+      2
+    ],
+    [
+      "internal",
+      2
+    ],
+    [
+      "vibe",
+      2
+    ],
+    [
+      "a9",
+      1
+    ],
+    [
+      "a9 31",
+      1
+    ],
+    [
+      "a9 31 st",
+      1
+    ],
+    [
+      "agent in",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--5ee623cb",
+  "author": "Simon Willison",
+  "content_chars": 2168,
+  "content_sha256": "668c9aa18d12e4537454275e7b61402a849eb4b7c700118215fe1fef4dcd9949",
+  "content_tokens": 542,
+  "fetched_at": "2026-11-01T13:19:44Z",
+  "kind": "article",
+  "published_at": "2026-10-31T23:15:22+00:00",
+  "snippet": "31st October 2026 - Link Blog How We Took Over ChatGPT Accounts (via) Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where…",
+  "source_id": "simonwillison",
+  "title": "How We Took Over ChatGPT Accounts",
+  "top_terms": [
+    [
+      "html",
+      6
+    ],
+    [
+      "october",
+      6
+    ],
+    [
+      "october 2026",
+      5
+    ],
+    [
+      "openai",
+      5
+    ],
+    [
+      "chatgpt",
+      4
+    ],
+    [
+      "iframe",
+      4
+    ],
+    [
+      "sandboxed",
+      4
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th october",
+      4
+    ],
+    [
+      "th october 2026",
+      4
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "javascript",
+      3
+    ],
+    [
+      "private",
+      3
+    ],
+    [
+      "accounts",
+      2
+    ],
+    [
+      "apis",
+      2
+    ],
+    [
+      "apis and",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "blog",
+      2
+    ],
+    [
+      "chatgpt accounts",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+  "url_canonical": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+  "via_source_id": null
+}

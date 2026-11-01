@@ -2613,6 +2613,10 @@
     "first_seen_date": "2026-10-30",
     "status": "fetch_failed"
   },
+  "https://arcawealth.ai/": {
+    "article_id": "latent-space--2c1e706b",
+    "first_seen_date": "2026-11-01"
+  },
   "https://archerhume.com/posts/jevs-architecture-unmasked?v=3": {
     "article_id": "latent-space--a2bc3070",
     "first_seen_date": "2026-09-23"
@@ -10704,6 +10708,10 @@
     "article_id": "latent-space--cbab01df",
     "first_seen_date": "2026-10-24"
   },
+  "https://latent.space/p/arca": {
+    "article_id": "latent-space--26263892",
+    "first_seen_date": "2026-11-01"
+  },
   "https://latent.space/p/elorian": {
     "article_id": "latent-space--2f5bf006",
     "first_seen_date": "2026-10-30"
@@ -11001,6 +11009,10 @@
     "article_id": "ai-snake-oil--737c11f2",
     "first_seen_date": "2026-10-02"
   },
+  "https://news.latent.space/": {
+    "article_id": "latent-space--c3c07e4b",
+    "first_seen_date": "2026-11-01"
+  },
   "https://news.smol.ai/": {
     "article_id": "latent-space--87805e1c",
     "first_seen_date": "2026-09-23"
@@ -11102,6 +11114,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-kimi-31%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-24",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Farca%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-01",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Felorian%2F": {
@@ -13949,6 +13966,14 @@
   "https://simonwillison.net/2026/Oct/30/nesformer": {
     "article_id": "simonwillison--87496956",
     "first_seen_date": "2026-10-31"
+  },
+  "https://simonwillison.net/2026/Oct/31/datasette-llm": {
+    "article_id": "simonwillison--3d7aa52a",
+    "first_seen_date": "2026-11-01"
+  },
+  "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": {
+    "article_id": "simonwillison--5ee623cb",
+    "first_seen_date": "2026-11-01"
   },
   "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words": {
     "article_id": "simonwillison--a1e2d07d",
