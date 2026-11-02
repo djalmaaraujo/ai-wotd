@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--9e118874",
+  "author": "Simon Willison",
+  "content_chars": 1240,
+  "content_sha256": "86a8e99f882370d1d7f423bea48ca97edfef7c4806798971d9e1295092098739",
+  "content_tokens": 310,
+  "fetched_at": "2026-11-02T15:47:00Z",
+  "kind": "article",
+  "published_at": "2026-11-01T23:24:22+00:00",
+  "snippet": "1st November 2026 I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's…",
+  "source_id": "simonwillison",
+  "title": "If in doubt, delete the uv.lock file",
+  "top_terms": [
+    [
+      "uv",
+      7
+    ],
+    [
+      "lock",
+      6
+    ],
+    [
+      "python",
+      5
+    ],
+    [
+      "file",
+      4
+    ],
+    [
+      "october",
+      4
+    ],
+    [
+      "dependency",
+      3
+    ],
+    [
+      "error",
+      3
+    ],
+    [
+      "lock file",
+      3
+    ],
+    [
+      "october 2026",
+      3
+    ],
+    [
+      "python 3.15",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th october",
+      3
+    ],
+    [
+      "th october 2026",
+      3
+    ],
+    [
+      "version",
+      3
+    ],
+    [
+      "build",
+      2
+    ],
+    [
+      "delete",
+      2
+    ],
+    [
+      "delete the",
+      2
+    ],
+    [
+      "delete the uv",
+      2
+    ],
+    [
+      "doubt",
+      2
+    ],
+    [
+      "failed",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+  "via_source_id": null
+}

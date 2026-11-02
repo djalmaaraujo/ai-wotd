@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-01T13:19:52+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-02T15:55:53+00:00</lastBuildDate>
+    <item>
+      <title>computer-use agents (2026-11-02)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-02/</link>
+      <guid isPermaLink="false">wotd-2026-11-02</guid>
+      <pubDate>2026-11-02</pubDate>
+      <description>The term trended because Vercel announced a desktop platform that allows any coding agent to drive a user&#39;s desktop, directly enabling computer-use agents to perform actions across applications. Simultaneously, MIT Technology Review published an article declaring the arrival of the &#34;agentic web,&#34; framing computer-use agents as the realization of Tim Berners-Lee&#39;s decades-old vision of autonomous software agents navigating the web on users&#39; behalf.</description>
+    </item>
     <item>
       <title>Gemma-4-31B-Humanlike-Chat (2026-10-31)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-31/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-08-18</guid>
       <pubDate>2026-08-18</pubDate>
       <description>Word of the day: design</description>
-    </item>
-    <item>
-      <title>ai systems (2026-08-16)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-16/</link>
-      <guid isPermaLink="false">wotd-2026-08-16</guid>
-      <pubDate>2026-08-16</pubDate>
-      <description>Word of the day: ai systems</description>
     </item>
   </channel>
 </rss>

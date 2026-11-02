@@ -1,0 +1,7479 @@
+{
+  "article_ids": [
+    "codenewsletter--58bd7ec8",
+    "mit-tech-review-ai--3438f0b5",
+    "mit-tech-review-ai--a1595303",
+    "openai-blog--c8e6a8d3",
+    "simonwillison--8f5fc18b"
+  ],
+  "date": "2026-11-02",
+  "document_count": 5,
+  "terms": {
+    "about agi": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "about agi and": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "according": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "according to": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "across": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "active": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "actually": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "adoption": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "after alphago": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "against go champion": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "agent": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 21
+    },
+    "agentic": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 24
+    },
+    "agentic coding": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "agents": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 78
+    },
+    "agents for": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "agents in": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "agi": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "agi and": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "agi and new": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai agents": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "ai coding": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai hype": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai hype breathless": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai safety": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai safety folks": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai spending": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai still": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai still isn": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai world": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai world an": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "alphago": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "already": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "alternative": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "amazon": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "an agentic": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "an exclusive": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "an exclusive interview": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "analysis": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "and new capabilities": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "announced": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "answers": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "answers to": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "anthropic": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "apart": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "apart pretty": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "apart pretty quickly": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "app": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "appeared": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "approach": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "apps": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "are failing": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "are failing to": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "asked": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "astra": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "at it wrong": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "be fooled": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "be fooled by": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "become": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "become the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "becomes": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "before they die": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "better": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "big": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "billions": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "billions on": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "billions on border": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "blog": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "blog post": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "blog post has": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "border": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "border surveillance": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "breathless": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "breathless claims": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "breathless claims about": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "build an": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "building": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "built": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "businesses": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 12
+    },
+    "busy": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "buy": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "by this summer": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "called": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "called the": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cammarata": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "capabilities": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "capabilities fall": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "capabilities fall apart": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "capacity": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "case": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cash": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "catch": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "catch people": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "catch people before": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "celebrating": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "champion": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "champion lee": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "champion lee sedol": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "change": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "change the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "changed": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "changes": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "changing": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "cheaper": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "claim": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claim that": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claims": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "claims about": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claims about agi": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 17
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "clear": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "click": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "cloud": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 24
+    },
+    "coding": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 15
+    },
+    "coding agents": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "collected": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "collected by": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "companies": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 12
+    },
+    "company": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "complete": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "compute": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "computer": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "computer-use": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "computer-use agents": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "connected": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "connected get": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "connected get the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "connections": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "consider": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "considered": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "consumer": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "consumption": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "content": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "control": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "control over": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "controls": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cost": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "costs": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "couple": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "couple of": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "create": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "crossings": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "current": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "customer": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cut": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "data": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "david": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deaths": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deaths near": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deaths near the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "decide": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "decided": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "decided to": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deep": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deep dive": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deep dive artificial": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "default": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "deliver": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "demand": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "deploy": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "design": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "developer": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "developers": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "development": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "die": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "directly": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "discover": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "discover special": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "discover special offers": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "dive": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "dive artificial": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "dive artificial intelligence": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "economics": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "economics of": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "efficient": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engineers": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "enough": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "enough to": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "entire": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "especially": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "events": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "every": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "everyone": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "everything": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "exactly": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "exclusive": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "exclusive interview": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "exclusive interview with": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "executive": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "expanding": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "expensive": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "experiment": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "experiment with": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "explosive": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "explosive claim": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "explosive claim that": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "failing": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "failing to": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "failing to deliver": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall apart": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fall apart pretty": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "faster": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "faster responses": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "faster responses to": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "feature": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fewer": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "first": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 12
+    },
+    "first time": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "flat": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "folks": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "folks celebrating": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fooled": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "fooled by": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fooled by this": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for agents": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "for the first": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "formerly": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "free": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "from mit": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "from mit technology": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "frontier": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "fully": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "gains": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "get the latest": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "global": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "go champion": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "go champion lee": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "goes": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "good": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "google": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "gpt-6": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gpt-6 astra": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "grow": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "grows": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "growth": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "has ai safety": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "headcount": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "heavy": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "held": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "help": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "openai-blog--c8e6a8d3",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "OpenAI Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "high": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hype": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hype breathless": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hype breathless claims": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "idea": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "in september": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "increasingly": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "increasingly powered": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "increasingly powered by": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "individual": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inside": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "instead": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "instead of": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "interview": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "interview with": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "interview with nick": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "into the machinery": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "investigation": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "investigation of": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "investigation of deaths": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "investment": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is whether": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it catch": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it catch people": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it wrong": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "join": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "keep": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "keeps": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lab": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "language": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "language of": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "large": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "last": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "last year": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "latest": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "latest updates": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "latest updates from": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lead": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "learn": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "lee": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lee sedol": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "less": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "let": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "licensed": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "line": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "llms": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "llms don": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "looking": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "looking at": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "looking at it": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "machinery": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "machinery that": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "machinery that made": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "made that win": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "makes": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "making": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "management": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "marketing": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "match": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "match against": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "match against go": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "meanwhile": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "meme": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "metrics": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "mit": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "mit technology": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "mit technology review": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "model": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 13
+    },
+    "model to": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "models": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "more efficient": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "more powerful": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "natural": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "near": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "near the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "near the towers": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "never": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "new capabilities": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "new capabilities fall": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "newer": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "news": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "next": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "nick": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nick cammarata": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "number": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "numbers": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "obvious": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of ai hype": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of deaths": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of deaths near": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "offers": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "older": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "on border": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on border surveillance": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "openai": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "OpenAI Blog"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "operate": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "operations": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "option": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "order": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "our investigation": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "our investigation of": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "output": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "overhead": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "page": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "paid": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "paper": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "past": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "people": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 21
+    },
+    "people before": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "people before they": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "personal": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "planned": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "planning": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "platform": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "point": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "possible": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "power": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "powered": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "powered by": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "powered by ai": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "powerful": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "pretty": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pretty quickly": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pretty quickly under": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pricing": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "private": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "process": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "produced": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "produced by": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "product": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "production": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "promised": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "promised faster": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "promised faster responses": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "prompts": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "proprietary": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "published": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "put": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "put together": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quality": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "question": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "questions": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "quickly": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quickly under": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quickly under scrutiny": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rate": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rather": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "rather than": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "real": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "reason": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reason ten": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reason ten years": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recent": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "recommending": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "replacement": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reportedly": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "request": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "requests": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "require": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "requires": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "research": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "researcher": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "researcher whose": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "researchers": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "resources": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "responses": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "responses to": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "responses to crossings": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "result": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "results": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "revenue": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "review": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "review discover": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "review discover special": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rise": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "routine": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "run": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "running": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "runs": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "safety": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safety folks": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "safety folks celebrating": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "saw": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "screenshots": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "scrutiny": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "second": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "security": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sedol": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "seems": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "seems to": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "seems to be": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "september": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "service": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "services": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "share": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "shipped": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "show": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "showing": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "shows": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "signal": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "simple": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "site": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "software": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "special": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "special offers": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "spend": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "spending": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "spent": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "spent billions": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "spent billions on": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sponsored": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "start": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "stay": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stay connected": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stay connected get": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "step": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "still": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 11
+    },
+    "still be": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "still isn": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "stop": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "stories": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "story": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "story about": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "strong": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "subscribe": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "success": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "summer": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "summer of": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "summer of ai": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "surveillance": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "surveillance towers": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tapping": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tapping into": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tapping into the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tasks": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "team": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "technology": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "technology review": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "technology review discover": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tell": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ten": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ten years": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ten years after": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "test": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "testing": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tests": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "text": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "that win": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "that win possible": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the agent": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the ai world": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the businesses": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the companies": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the company": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the economics": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the economics of": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the explosive": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the explosive claim": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the first": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "the first time": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the latest": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "the latest updates": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the machinery": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the machinery that": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the past": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the point": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the question": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "the real": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the researcher": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the researcher whose": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the result": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the top": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the towers": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the towers found": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the us": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the us spent": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the work": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the wrong": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "they are failing": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "they die": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this summer": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "this summer of": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "those numbers": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "though": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "to build": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "to crossings": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to deliver": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to help": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "together": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "tokens": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "tool": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "tool that": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "top": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "top stories": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "total": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "towers": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "towers found": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "towers found they": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "track": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "traditional": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "trending": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "true": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "try": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "turn": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "two": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 11
+    },
+    "type": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "typing": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "under scrutiny": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "upcoming": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "upcoming events": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updates": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updates from": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "updates from mit": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "upended": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "upended the": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "upended the ai": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 13
+    },
+    "us spent": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us spent billions": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "usage": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "useful": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "users": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "version": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "viable": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "video": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "view": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "viral": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "viral blog": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "viral blog post": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vision": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "voice": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "watching": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "way": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "we were looking": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "went": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "were looking": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "were looking at": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "whether": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "whether they": {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "authors": [
+        "Grace Huckins",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "whose": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "win": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "win possible": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with nick": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with nick cammarata": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "without": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "word": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "word viral": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "word viral blog": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "work": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins",
+        "OpenAI Blog"
+      ],
+      "df": 4,
+      "tf": 16
+    },
+    "work with": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "openai-blog--c8e6a8d3"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "OpenAI Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "workflow": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "working": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "world": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "world an": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "world an exclusive": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "written": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "wrong": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "years after alphago": {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Affan Syed",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "yet": {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Grace Huckins"
+      ],
+      "df": 2,
+      "tf": 4
+    }
+  }
+}

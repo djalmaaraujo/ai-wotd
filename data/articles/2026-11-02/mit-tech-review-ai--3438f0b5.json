@@ -1,0 +1,98 @@
+{
+  "article_id": "mit-tech-review-ai--3438f0b5",
+  "author": "Affan Syed",
+  "content_chars": 7039,
+  "content_sha256": "102c20a361cb342d9c40e13157ce27fa8ce5ebe471e050d3dff0ce942c6e5bdf",
+  "content_tokens": 1759,
+  "fetched_at": "2026-11-02T15:47:02Z",
+  "kind": "article",
+  "published_at": "2026-11-02T13:10:32+00:00",
+  "snippet": "Sponsored Provided byHPE When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more…",
+  "source_id": "mit-tech-review-ai",
+  "title": "Stop counting tokens, start counting what ships",
+  "top_terms": [
+    [
+      "cost",
+      10
+    ],
+    [
+      "capacity",
+      9
+    ],
+    [
+      "code",
+      8
+    ],
+    [
+      "hpe",
+      7
+    ],
+    [
+      "models",
+      7
+    ],
+    [
+      "usage",
+      7
+    ],
+    [
+      "work",
+      7
+    ],
+    [
+      "model",
+      6
+    ],
+    [
+      "owned",
+      6
+    ],
+    [
+      "owned capacity",
+      6
+    ],
+    [
+      "cost per",
+      5
+    ],
+    [
+      "frontier",
+      5
+    ],
+    [
+      "software",
+      5
+    ],
+    [
+      "coding",
+      4
+    ],
+    [
+      "costs",
+      4
+    ],
+    [
+      "gateway",
+      4
+    ],
+    [
+      "inference",
+      4
+    ],
+    [
+      "merged",
+      4
+    ],
+    [
+      "open-weight",
+      4
+    ],
+    [
+      "open-weight models",
+      4
+    ]
+  ],
+  "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+  "url_canonical": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+  "via_source_id": null
+}

@@ -1,0 +1,255 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "avg_tf_baseline": 22.8261,
+      "df_today": 4,
+      "score": 29.115504,
+      "term": "agents",
+      "tf_today": 78
+    },
+    {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "an agentic",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "computer-use",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "computer-use agents",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "the economics",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 11.587953,
+      "term": "towers",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--58bd7ec8",
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 11.2727,
+      "df_today": 3,
+      "score": 11.307599,
+      "term": "agentic",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "avg_tf_baseline": 3.4286,
+      "df_today": 2,
+      "score": 8.07959,
+      "term": "businesses",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--a1595303",
+        "simonwillison--8f5fc18b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "formerly",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--3438f0b5",
+        "mit-tech-review-ai--a1595303"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 7.48599,
+      "term": "grows",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-11-02",
+  "evidence_article_ids": [
+    "codenewsletter--58bd7ec8",
+    "mit-tech-review-ai--a1595303"
+  ],
+  "judge": {
+    "input_tokens": 14705,
+    "model": "jev-1.14.0",
+    "pool_size": 30,
+    "signals": {
+      "agentic": {
+        "dominance": 2.9,
+        "event": 0.88,
+        "form": 0.65,
+        "novelty": 0.47,
+        "specificity": 1.68
+      },
+      "agents": {
+        "dominance": 2.93,
+        "event": 0.94,
+        "form": 0.89,
+        "novelty": 0.3,
+        "specificity": 1.53
+      },
+      "ai spending": {
+        "dominance": 2.1,
+        "event": 0.2,
+        "form": 0.81,
+        "novelty": 0.59,
+        "specificity": 0.51
+      },
+      "businesses": {
+        "dominance": 2.55,
+        "event": 0.9,
+        "form": 0.74,
+        "novelty": 0.43,
+        "specificity": 0.09
+      },
+      "collected": {
+        "dominance": 0.84,
+        "event": 0.42,
+        "form": 0.22,
+        "novelty": 0.33,
+        "specificity": 0.03
+      },
+      "computer-use agents": {
+        "dominance": 2.29,
+        "event": 0.74,
+        "form": 0.83,
+        "novelty": 0.27,
+        "specificity": 1.94
+      },
+      "economics": {
+        "dominance": 2.23,
+        "event": 0.74,
+        "form": 0.89,
+        "novelty": 0.57,
+        "specificity": 0.13
+      },
+      "experiment": {
+        "dominance": 0.74,
+        "event": 0.54,
+        "form": 0.85,
+        "novelty": 0.39,
+        "specificity": 0.47
+      },
+      "failing": {
+        "dominance": 1.13,
+        "event": 0.55,
+        "form": 0.72,
+        "novelty": 0.13,
+        "specificity": 0.22
+      },
+      "failing to deliver": {
+        "dominance": 0.79,
+        "event": 0.29,
+        "form": 0.46,
+        "novelty": 0.13,
+        "specificity": 0.11
+      },
+      "grid protectors program": {
+        "dominance": 1.92,
+        "event": 0.95,
+        "form": 0.91,
+        "novelty": 0.82,
+        "specificity": 0.88
+      },
+      "grows": {
+        "dominance": 0.7,
+        "event": 0.57,
+        "form": 0.4,
+        "novelty": 0.12,
+        "specificity": 0.13
+      },
+      "increasingly powered": {
+        "dominance": 1.5,
+        "event": 0.72,
+        "form": 0.25,
+        "novelty": 0.09,
+        "specificity": 0.2
+      },
+      "investigation": {
+        "dominance": 0.73,
+        "event": 0.17,
+        "form": 0.87,
+        "novelty": 0.13,
+        "specificity": 0.16
+      },
+      "protectors program": {
+        "dominance": 1.93,
+        "event": 0.95,
+        "form": 0.8,
+        "novelty": 0.83,
+        "specificity": 1.14
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "computer-use agents"
+    ]
+  },
+  "label": "computer-use agents",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://en.wikipedia.org/wiki/Software_agent",
+        "https://www.anthropic.com/research/computer-use",
+        "https://arxiv.org/abs/2404.07128"
+      ],
+      "text": "Computer-use agents are AI systems that can interact with graphical user interfaces—clicking, typing, scrolling, and navigating applications—much like a human user. Unlike traditional chatbots or code generators, they operate the desktop environment directly, enabling end-to-end task automation such as filling forms, extracting data from legacy software, or orchestrating multi-step workflows across programs. This capability matters because it extends AI beyond text generation into general-purpose computer operation, unlocking automation for tasks without APIs."
+    },
+    "generated_at": "2026-11-02T15:55:50.598886+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Vercel launched a desktop environment that lets coding agents control a user's computer, marking a step toward the \"agentic web\" envisioned by Tim Berners-Lee. The MIT Technology Review traces this lineage to the Semantic Web concept, where autonomous software agents navigate the internet on behalf of users. Meanwhile, Anthropic expanded its text watermarking and Big Tech reported massive quarterly AI spending. The term \"computer-use agents\" appeared in two articles today, reflecting growing interest in agents that can operate desktop interfaces directly rather than just generating code or text. Vercel's move signals a shift from chat-based assistants to agents that execute tasks across applications.",
+    "why": "The term trended because Vercel announced a desktop platform that allows any coding agent to drive a user's desktop, directly enabling computer-use agents to perform actions across applications. Simultaneously, MIT Technology Review published an article declaring the arrival of the \"agentic web,\" framing computer-use agents as the realization of Tim Berners-Lee's decades-old vision of autonomous software agents navigating the web on users' behalf."
+  },
+  "score": 11.587953,
+  "word": "computer-use agents"
+}
