@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--290ff9a4",
+  "author": null,
+  "content_chars": 11573,
+  "content_sha256": "ea7f29a78422be2a7b40ee05c3d6d52da98782cc166101da6a37653556f879a9",
+  "content_tokens": 2893,
+  "fetched_at": "2026-11-03T14:11:00Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "Reference implementation for Model Compression with Exact Budget Constraints via Riemannian Manifolds (Helcig and Alistarh, 2026). Budget-constrained discrete assignment: pick one of K options for each of N groups so as to minimize a non-decomposable objective L (e.g. model loss…",
+  "source_id": "latent-space",
+  "title": "GitHub - IST-DASLab/RCO: RCO: Optimization of Non-Decomposable Objectives under Exact Budget Constraints for LLM Quantization and Pruning · GitHub",
+  "top_terms": [
+    [
+      "py",
+      35
+    ],
+    [
+      "rco",
+      22
+    ],
+    [
+      "checkpoint",
+      20
+    ],
+    [
+      "run",
+      20
+    ],
+    [
+      "search",
+      19
+    ],
+    [
+      "data",
+      14
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "hf",
+      12
+    ],
+    [
+      "prune",
+      11
+    ],
+    [
+      "pruned",
+      11
+    ],
+    [
+      "vllm",
+      11
+    ],
+    [
+      "budget",
+      10
+    ],
+    [
+      "group",
+      10
+    ],
+    [
+      "layer",
+      10
+    ],
+    [
+      "pt",
+      10
+    ],
+    [
+      "quant",
+      10
+    ],
+    [
+      "quantization",
+      10
+    ],
+    [
+      "bitwidth",
+      9
+    ],
+    [
+      "build",
+      9
+    ],
+    [
+      "experts",
+      9
+    ]
+  ],
+  "url": "https://github.com/IST-DASLab/RCO",
+  "url_canonical": "https://github.com/IST-DASLab/RCO",
+  "via_source_id": "latent-space"
+}

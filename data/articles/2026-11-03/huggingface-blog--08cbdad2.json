@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--08cbdad2",
+  "author": "Hugging Face Blog",
+  "content_chars": 9520,
+  "content_sha256": "70c2548bb9b7506eda35f73eab80e7d3f1b9a9781b9eba8d05b9ec655c126fb7",
+  "content_tokens": 2380,
+  "fetched_at": "2026-11-03T14:07:49Z",
+  "kind": "article",
+  "published_at": "2026-11-03T00:00:00+00:00",
+  "snippet": "On July 30, 2026, Transformers enabled PyTorch's scaled dot-product attention (SDPA) for T5. As a side effect, UMT5's decoder could attend to future tokens. During training, it could peek at the answer it was supposed to predict. Nothing crashed, and the bug stayed in main for…",
+  "source_id": "huggingface-blog",
+  "title": "Transformers Model Integration Contracts",
+  "top_terms": [
+    [
+      "model",
+      27
+    ],
+    [
+      "fixture",
+      12
+    ],
+    [
+      "weights",
+      12
+    ],
+    [
+      "real",
+      11
+    ],
+    [
+      "tests",
+      10
+    ],
+    [
+      "checkpoint",
+      9
+    ],
+    [
+      "contract",
+      8
+    ],
+    [
+      "attention",
+      7
+    ],
+    [
+      "cpu",
+      7
+    ],
+    [
+      "keep",
+      7
+    ],
+    [
+      "outputs",
+      7
+    ],
+    [
+      "path",
+      7
+    ],
+    [
+      "running",
+      7
+    ],
+    [
+      "training",
+      7
+    ],
+    [
+      "transformers",
+      7
+    ],
+    [
+      "usage",
+      7
+    ],
+    [
+      "baselines",
+      6
+    ],
+    [
+      "build",
+      6
+    ],
+    [
+      "layers",
+      6
+    ],
+    [
+      "random",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "url_canonical": "https://huggingface.co/blog/transformers-mic",
+  "via_source_id": null
+}

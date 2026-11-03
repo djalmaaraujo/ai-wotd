@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-02T15:55:53+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-03T14:11:58+00:00</lastBuildDate>
+    <item>
+      <title>Highly-Accurate Low-Precision Scalar Quantization (2026-11-03)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-03/</link>
+      <guid isPermaLink="false">wotd-2026-11-03</guid>
+      <pubDate>2026-11-03</pubDate>
+      <description>The term trended because the GSQ preprint and accompanying GitHub release were published today, introducing a novel scalar quantization method that uses Gumbel-Softmax sampling to achieve near-vector-quantization accuracy at 2–3 bits per parameter while maintaining deployment simplicity. The paper directly addresses a key deployment bottleneck — scalar methods plateauing at 3–4 bits — and positions GSQ as a practical drop-in replacement for GPTQ and AWQ.</description>
+    </item>
     <item>
       <title>computer-use agents (2026-11-02)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-02/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-08-19</guid>
       <pubDate>2026-08-19</pubDate>
       <description>Word of the day: app</description>
-    </item>
-    <item>
-      <title>design (2026-08-18)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-18/</link>
-      <guid isPermaLink="false">wotd-2026-08-18</guid>
-      <pubDate>2026-08-18</pubDate>
-      <description>Word of the day: design</description>
     </item>
   </channel>
 </rss>

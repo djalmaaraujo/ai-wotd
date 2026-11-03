@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e4c45b88",
+  "author": null,
+  "content_chars": 4627,
+  "content_sha256": "7e0a9f496594dacafe6cb2f46754830731ce699e6a66e05d514ee36af2b70b3b",
+  "content_tokens": 1156,
+  "fetched_at": "2026-11-03T14:11:03Z",
+  "kind": "article",
+  "published_at": "2026-11-02T23:01:02+00:00",
+  "snippet": "Legora is an agentic system that supports lawyers in research, review, and drafting across complex matters. In early 2026, as rapid gains in model capabilities made longer and more autonomous legal work possible, Legora began replacing its existing AI assistant with a…",
+  "source_id": "latent-space",
+  "title": "How Legora runs 2,000 parallel agent evals on Modal Sandboxes",
+  "top_terms": [
+    [
+      "agent",
+      14
+    ],
+    [
+      "legora",
+      14
+    ],
+    [
+      "modal",
+      10
+    ],
+    [
+      "sandboxes",
+      9
+    ],
+    [
+      "run",
+      8
+    ],
+    [
+      "evals",
+      7
+    ],
+    [
+      "runs",
+      6
+    ],
+    [
+      "full",
+      5
+    ],
+    [
+      "legora's",
+      5
+    ],
+    [
+      "sandbox",
+      5
+    ],
+    [
+      "team",
+      5
+    ],
+    [
+      "able",
+      4
+    ],
+    [
+      "able to",
+      4
+    ],
+    [
+      "across",
+      4
+    ],
+    [
+      "application",
+      4
+    ],
+    [
+      "docker",
+      4
+    ],
+    [
+      "documents",
+      4
+    ],
+    [
+      "environments",
+      4
+    ],
+    [
+      "eval",
+      4
+    ],
+    [
+      "to run",
+      4
+    ]
+  ],
+  "url": "https://modal.com/blog/how-legora-runs-thousand-scale-parallel-agent-evals-on-modal-sandboxes",
+  "url_canonical": "https://modal.com/blog/how-legora-runs-thousand-scale-parallel-agent-evals-on-modal-sandboxes",
+  "via_source_id": "latent-space"
+}

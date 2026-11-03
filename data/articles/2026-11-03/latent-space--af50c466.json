@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--af50c466",
+  "author": null,
+  "content_chars": 38684,
+  "content_sha256": "cd5a200dc1579fa5822a1caafe275e2ab5cfd5b94af8334824a00f1ef653ca24",
+  "content_tokens": 9671,
+  "fetched_at": "2026-11-03T14:10:56Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "How well do Large Language Models perform in Arithmetic tasks? Abstract Large language models have emerged abilities including chain-of-thought to answer math word problems step by step Wei et al. (2022b). Solving math word problems not only requires abilities to disassemble…",
+  "source_id": "latent-space",
+  "title": "How well do Large Language Models perform in Arithmetic tasks?",
+  "top_terms": [
+    [
+      "al",
+      84
+    ],
+    [
+      "et",
+      84
+    ],
+    [
+      "et al",
+      84
+    ],
+    [
+      "arithmetic",
+      56
+    ],
+    [
+      "chatgpt",
+      52
+    ],
+    [
+      "models",
+      46
+    ],
+    [
+      "language",
+      41
+    ],
+    [
+      "llms",
+      40
+    ],
+    [
+      "arxiv",
+      38
+    ],
+    [
+      "ability",
+      37
+    ],
+    [
+      "cal",
+      29
+    ],
+    [
+      "gpt-4",
+      29
+    ],
+    [
+      "language models",
+      29
+    ],
+    [
+      "math",
+      26
+    ],
+    [
+      "model",
+      24
+    ],
+    [
+      "acc",
+      21
+    ],
+    [
+      "arithmetic ability",
+      20
+    ],
+    [
+      "eqa",
+      20
+    ],
+    [
+      "expressions",
+      20
+    ],
+    [
+      "large",
+      20
+    ]
+  ],
+  "url": "https://arxiv.org/html/2304.02015v1",
+  "url_canonical": "https://arxiv.org/html/2304.02015v1",
+  "via_source_id": "latent-space"
+}

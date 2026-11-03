@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--b9edf87f",
+  "author": null,
+  "content_chars": 33045,
+  "content_sha256": "4e858d43845ff5e554e64357bd8be0c0d49e632a543cab35feacf09a12bfda2f",
+  "content_tokens": 8261,
+  "fetched_at": "2026-11-03T14:10:59Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "Paper: GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling (preprint) Authors: Alireza Dadgarnia, Soroush Tabesh, Mahdi Nikdan, Michael Helcig, Eldar Kurtić, Max Kleinegger, Dan Alistarh — ISTA / ETH Zürich / TU Wien / Red Hat AI GSQ is a…",
+  "source_id": "latent-space",
+  "title": "GitHub - IST-DASLab/GSQ: Gumbel-Softmax post-training quantization for LLMs (1–3 bit scalar, INT/GGUF-compatible). · GitHub",
+  "top_terms": [
+    [
+      "gsq",
+      85
+    ],
+    [
+      "run",
+      72
+    ],
+    [
+      "config",
+      64
+    ],
+    [
+      "yaml",
+      53
+    ],
+    [
+      "model",
+      49
+    ],
+    [
+      "scripts",
+      45
+    ],
+    [
+      "sh",
+      43
+    ],
+    [
+      "wandb",
+      38
+    ],
+    [
+      "py",
+      34
+    ],
+    [
+      "layer",
+      33
+    ],
+    [
+      "configs",
+      27
+    ],
+    [
+      "default",
+      26
+    ],
+    [
+      "gptq",
+      26
+    ],
+    [
+      "bit",
+      24
+    ],
+    [
+      "checkpoint",
+      24
+    ],
+    [
+      "env",
+      24
+    ],
+    [
+      "quantization",
+      24
+    ],
+    [
+      "uv",
+      24
+    ],
+    [
+      "bash",
+      23
+    ],
+    [
+      "bash scripts",
+      23
+    ]
+  ],
+  "url": "https://github.com/IST-DASLab/GSQ",
+  "url_canonical": "https://github.com/IST-DASLab/GSQ",
+  "via_source_id": "latent-space"
+}

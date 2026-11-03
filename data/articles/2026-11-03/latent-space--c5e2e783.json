@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c5e2e783",
+  "author": null,
+  "content_chars": 12933,
+  "content_sha256": "7cb4111a4118fb18d60fe2b2a2bc4bf32115873565effd2684d3147877e3b285",
+  "content_tokens": 3233,
+  "fetched_at": "2026-11-03T14:10:57Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "Non-uniform GGUF quantizations of a 763B-parameter, 384-expert MoE, produced with GSQ and RCO. Update, October 27, 2026. The files now use llama.cpp's own DeepSeek-V4.1 layout and load in llama.cpp b11870 or newer, including images. Downloaded the earlier files? You do not need…",
+  "source_id": "latent-space",
+  "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "gguf",
+      24
+    ],
+    [
+      "deepseek-v4.1",
+      23
+    ],
+    [
+      "build",
+      22
+    ],
+    [
+      "gb",
+      18
+    ],
+    [
+      "quantization",
+      18
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "engram",
+      12
+    ],
+    [
+      "download",
+      11
+    ],
+    [
+      "every",
+      11
+    ],
+    [
+      "iq2",
+      11
+    ],
+    [
+      "llama",
+      11
+    ],
+    [
+      "chat",
+      10
+    ],
+    [
+      "shards",
+      10
+    ],
+    [
+      "base",
+      9
+    ],
+    [
+      "cpp",
+      9
+    ],
+    [
+      "file",
+      9
+    ],
+    [
+      "files",
+      9
+    ],
+    [
+      "template",
+      9
+    ],
+    [
+      "budget",
+      8
+    ],
+    [
+      "gsq",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+  "url_canonical": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+  "via_source_id": "latent-space"
+}

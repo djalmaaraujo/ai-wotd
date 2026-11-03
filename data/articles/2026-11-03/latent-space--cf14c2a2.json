@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--cf14c2a2",
+  "author": null,
+  "content_chars": 2405,
+  "content_sha256": "acf33c49323cfc11f0eb02225cd24b72d1358f2fe304584676ace4e4fdde9294",
+  "content_tokens": 601,
+  "fetched_at": "2026-11-03T14:10:59Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "Computer Science > Machine Learning Title:Model Compression with Exact Budget Constraints via Riemannian Manifolds View PDF HTML (experimental)Abstract:Assigning one of K options to each of N groups under a total cost budget is a recurring problem in efficient AI, arising in…",
+  "source_id": "latent-space",
+  "title": "[2605.00649] Model Compression with Exact Budget Constraints via Riemannian Manifolds",
+  "top_terms": [
+    [
+      "budget",
+      6
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "cost",
+      4
+    ],
+    [
+      "riemannian",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "compression",
+      3
+    ],
+    [
+      "loss",
+      3
+    ],
+    [
+      "methods",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "rco",
+      3
+    ],
+    [
+      "vector",
+      3
+    ],
+    [
+      "actual",
+      2
+    ],
+    [
+      "actual loss",
+      2
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "available",
+      2
+    ],
+    [
+      "budget constraints",
+      2
+    ],
+    [
+      "budget constraints via",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "collaborators",
+      2
+    ],
+    [
+      "compression with",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2605.00649",
+  "url_canonical": "https://arxiv.org/abs/2605.00649",
+  "via_source_id": "latent-space"
+}

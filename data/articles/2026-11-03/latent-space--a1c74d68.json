@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--a1c74d68",
+  "author": null,
+  "content_chars": 2688,
+  "content_sha256": "88e70fa8e402e039c5b0ac3cfd73344cf6fd182c69bb7c6e623b5aefe9690d8c",
+  "content_tokens": 672,
+  "fetched_at": "2026-11-03T14:10:58Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "Computer Science > Computation and Language Title:GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling View PDF HTML (experimental)Abstract:Quantization has become a standard tool for efficient LLM deployment, especially for local…",
+  "source_id": "latent-space",
+  "title": "[2604.18556] GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling",
+  "top_terms": [
+    [
+      "quantization",
+      8
+    ],
+    [
+      "scalar",
+      8
+    ],
+    [
+      "gsq",
+      7
+    ],
+    [
+      "scalar quantization",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "gumbel-softmax",
+      4
+    ],
+    [
+      "models",
+      4
+    ],
+    [
+      "accuracy",
+      3
+    ],
+    [
+      "bits",
+      3
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "grid",
+      3
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "available",
+      2
+    ],
+    [
+      "bits per",
+      2
+    ],
+    [
+      "bits per parameter",
+      2
+    ],
+    [
+      "bpp",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "collaborators",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "deployment",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2604.18556",
+  "url_canonical": "https://arxiv.org/abs/2604.18556",
+  "via_source_id": "latent-space"
+}

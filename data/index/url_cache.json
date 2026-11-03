@@ -1352,6 +1352,10 @@
     "article_id": "aibreakfast--1b5ac564",
     "first_seen_date": "2026-04-17"
   },
+  "https://aibreakfast.beehiiv.com/p/is-openai-having-trouble-raising-money": {
+    "article_id": "aibreakfast--29a3e24c",
+    "first_seen_date": "2026-11-03"
+  },
   "https://aibreakfast.beehiiv.com/p/it-s-here-chatgpt-agent-6f0f": {
     "article_id": "aibreakfast--bcbdb000",
     "first_seen_date": "2026-04-17"
@@ -3246,6 +3250,14 @@
     "article_id": "ahead-of-ai--cddac46e",
     "first_seen_date": "2026-09-23"
   },
+  "https://arxiv.org/abs/2604.18556": {
+    "article_id": "latent-space--a1c74d68",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://arxiv.org/abs/2605.00649": {
+    "article_id": "latent-space--cf14c2a2",
+    "first_seen_date": "2026-11-03"
+  },
   "https://arxiv.org/abs/2605.05365": {
     "article_id": "ahead-of-ai--5b0a9554",
     "first_seen_date": "2026-09-23"
@@ -3314,6 +3326,10 @@
     "article_id": "latent-space--cddc6988",
     "first_seen_date": "2026-10-30"
   },
+  "https://arxiv.org/html/2304.02015v1": {
+    "article_id": "latent-space--af50c466",
+    "first_seen_date": "2026-11-03"
+  },
   "https://arxiv.org/html/2409.11363v1": {
     "article_id": "ai-snake-oil--51926990",
     "first_seen_date": "2026-09-23"
@@ -3365,6 +3381,10 @@
   "https://arxiv.org/pdf/2609.26368": {
     "article_id": "latent-space--752ccf27",
     "first_seen_date": "2026-09-29"
+  },
+  "https://asp.net/": {
+    "article_id": "latent-space--c0f53585",
+    "first_seen_date": "2026-11-03"
   },
   "https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit": {
     "article_id": "ai-snake-oil--b783fc6b",
@@ -3648,6 +3668,10 @@
   "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
     "article_id": "last-week-in-ai--0caa9b15",
     "first_seen_date": "2026-09-23"
+  },
+  "https://claude.com/blog/claude-for-the-legal-industry": {
+    "article_id": "latent-space--1506de61",
+    "first_seen_date": "2026-11-03"
   },
   "https://claude.com/download": {
     "article_id": "one-useful-thing--c3975225",
@@ -3996,6 +4020,10 @@
   "https://codenewsletter.ai/p/deepseek-goes-toe-to-toe-with-gemini": {
     "article_id": "codenewsletter--9bcdfd9f",
     "first_seen_date": "2026-04-14"
+  },
+  "https://codenewsletter.ai/p/deepseek-lets-you-build-agent-plugins-with-a-prompt": {
+    "article_id": "codenewsletter--91f442a0",
+    "first_seen_date": "2026-11-03"
   },
   "https://codenewsletter.ai/p/deepseek-open-sources-engine-behind-its-cheap-ai": {
     "article_id": "codenewsletter--4c945cea",
@@ -5591,6 +5619,10 @@
     "article_id": "latent-space--69a40f78",
     "first_seen_date": "2026-09-23"
   },
+  "https://forwardeployed.com/": {
+    "article_id": "latent-space--8a1bd1ec",
+    "first_seen_date": "2026-11-03"
+  },
   "https://friendr.nl/": {
     "article_id": "latent-space--c6183fcb",
     "first_seen_date": "2026-09-29"
@@ -5691,6 +5723,14 @@
     "article_id": "latent-space--caf148d8",
     "first_seen_date": "2026-10-27"
   },
+  "https://github.com/IST-DASLab/GSQ": {
+    "article_id": "latent-space--b9edf87f",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://github.com/IST-DASLab/RCO": {
+    "article_id": "latent-space--290ff9a4",
+    "first_seen_date": "2026-11-03"
+  },
   "https://github.com/Interconnects-AI/tracked-models": {
     "article_id": "interconnects--d5660de5",
     "first_seen_date": "2026-09-23"
@@ -5710,6 +5750,10 @@
   "https://github.com/NelsonEU/arn0-tv": {
     "article_id": "latent-space--203bc543",
     "first_seen_date": "2026-10-22"
+  },
+  "https://github.com/PhialsBasement/Strata/tree/dsv41-kv-splice": {
+    "article_id": "latent-space--61f206cd",
+    "first_seen_date": "2026-11-03"
   },
   "https://github.com/QwenLM/qwen-code": {
     "article_id": "ahead-of-ai--f20381f6",
@@ -6233,6 +6277,14 @@
   "https://huggingface.co/HuggingJoost/Swift-Qwen3.8-27B-NVFP4-GGUF": {
     "article_id": "latent-space--7264baef",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF": {
+    "article_id": "latent-space--bc551291",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF": {
+    "article_id": "latent-space--c5e2e783",
+    "first_seen_date": "2026-11-03"
   },
   "https://huggingface.co/KittenML/kitten-tts-2": {
     "article_id": "latent-space--27cd8b72",
@@ -9935,6 +9987,10 @@
     "article_id": "huggingface-blog--b55bf825",
     "first_seen_date": "2026-09-22"
   },
+  "https://huggingface.co/blog/transformers-mic": {
+    "article_id": "huggingface-blog--08cbdad2",
+    "first_seen_date": "2026-11-03"
+  },
   "https://huggingface.co/blog/transformers-model-definition": {
     "article_id": "huggingface-blog--8749711e",
     "first_seen_date": "2026-05-06"
@@ -10716,9 +10772,21 @@
     "article_id": "latent-space--cbab01df",
     "first_seen_date": "2026-10-24"
   },
+  "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of": {
+    "article_id": "latent-space--e93d69f8",
+    "first_seen_date": "2026-11-03"
+  },
   "https://latent.space/p/arca": {
     "article_id": "latent-space--26263892",
     "first_seen_date": "2026-11-01"
+  },
+  "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora": {
+    "article_id": "latent-space--79144288",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": {
+    "article_id": "latent-space--a7aa5617",
+    "first_seen_date": "2026-11-03"
   },
   "https://latent.space/p/elorian": {
     "article_id": "latent-space--2f5bf006",
@@ -10755,6 +10823,22 @@
   "https://learninpublic.org/": {
     "article_id": "latent-space--d89a97ad",
     "first_seen_date": "2026-10-01"
+  },
+  "https://legora.com/": {
+    "article_id": "latent-space--b660e5e4",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://legora.com/blog/series-e": {
+    "article_id": "latent-space--604188f2",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://legora.com/newsroom/legora-acquires-qura-to-build-the-world%E2%80%99s-leading-ai-native-legal-research-platform": {
+    "article_id": "latent-space--d8f8e27c",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://legora.com/newsroom/legora-is-acquiring-wexler": {
+    "article_id": "latent-space--c66a13c2",
+    "first_seen_date": "2026-11-03"
   },
   "https://lightning.ai/pages/community/lora-insights": {
     "article_id": "nlp-newsletter--58595ad1",
@@ -10971,6 +11055,10 @@
     "article_id": "latent-space--e83ad1c0",
     "first_seen_date": "2026-10-23"
   },
+  "https://modal.com/blog/how-legora-runs-thousand-scale-parallel-agent-evals-on-modal-sandboxes": {
+    "article_id": "latent-space--e4c45b88",
+    "first_seen_date": "2026-11-03"
+  },
   "https://modal.com/blog/resource-solver": {
     "article_id": "latent-space--ee19dc12",
     "first_seen_date": "2026-10-23"
@@ -11124,9 +11212,24 @@
     "first_seen_date": "2026-10-24",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-03",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Farca%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-01",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fbuilding-ai-for-lawyers-jacob-lauritzen-cto-of-legora%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-03",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fbuilding_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-03",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Felorian%2F": {
@@ -12091,6 +12194,10 @@
     "article_id": "openai-blog--84982879",
     "first_seen_date": "2026-07-24"
   },
+  "https://openai.com/index/heimstaden": {
+    "article_id": "openai-blog--fb137ad8",
+    "first_seen_date": "2026-11-03"
+  },
   "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": {
     "article_id": "openai-blog--14729479",
     "first_seen_date": "2026-06-24"
@@ -12807,6 +12914,10 @@
   "https://openai.com/index/scaling-codex-to-enterprises-worldwide": {
     "article_id": "openai-blog--5ce601bb",
     "first_seen_date": "2026-04-22"
+  },
+  "https://openai.com/index/scaling-git-at-openai": {
+    "article_id": "openai-blog--4379fd04",
+    "first_seen_date": "2026-11-03"
   },
   "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
     "article_id": "openai-blog--f10e02b9",
@@ -13807,6 +13918,18 @@
     "article_id": "simonwillison--8f5fc18b",
     "first_seen_date": "2026-11-02"
   },
+  "https://simonwillison.net/2026/Nov/2/llm": {
+    "article_id": "simonwillison--bfaaed9c",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": {
+    "article_id": "simonwillison--c23da0ab",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://simonwillison.net/2026/Nov/3/october-newsletter": {
+    "article_id": "simonwillison--441bde13",
+    "first_seen_date": "2026-11-03"
+  },
   "https://simonwillison.net/2026/Oct/1/matthew-green": {
     "article_id": "simonwillison--f25b9339",
     "first_seen_date": "2026-10-01"
@@ -14567,6 +14690,10 @@
   "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto": {
     "article_id": "interconnects--a3fd7a10",
     "first_seen_date": "2026-10-31"
+  },
+  "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says": {
+    "article_id": "latent-space--be6825f3",
+    "first_seen_date": "2026-11-03"
   },
   "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics": {
     "article_id": "latent-space--0cadb39c",
@@ -16059,6 +16186,10 @@
     "article_id": "latent-space--376aa963",
     "first_seen_date": "2026-09-29"
   },
+  "https://www.latent.space/p/unsupervised-learning-2026": {
+    "article_id": "latent-space--51359d90",
+    "first_seen_date": "2026-11-03"
+  },
   "https://www.lawfaremedia.org/article/ai-won-t-automatically-make-legal-services-cheaper": {
     "article_id": "ai-snake-oil--da47877e",
     "first_seen_date": "2026-09-23"
@@ -17503,6 +17634,10 @@
     "article_id": "mit-tech-review-ai--630d0bc4",
     "first_seen_date": "2026-10-29"
   },
+  "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics": {
+    "article_id": "mit-tech-review-ai--eb35b3a3",
+    "first_seen_date": "2026-11-03"
+  },
   "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships": {
     "article_id": "mit-tech-review-ai--3438f0b5",
     "first_seen_date": "2026-11-02"
@@ -17510,6 +17645,14 @@
   "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here": {
     "article_id": "mit-tech-review-ai--a1595303",
     "first_seen_date": "2026-11-02"
+  },
+  "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test": {
+    "article_id": "mit-tech-review-ai--7bcfc35c",
+    "first_seen_date": "2026-11-03"
+  },
+  "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment": {
+    "article_id": "mit-tech-review-ai--004ad8f5",
+    "first_seen_date": "2026-11-03"
   },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",

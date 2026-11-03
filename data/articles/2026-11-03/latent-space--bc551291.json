@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--bc551291",
+  "author": null,
+  "content_chars": 11706,
+  "content_sha256": "9c60186b523ca6edab59ed7f13778655b61d021da1bf2eba58fe031c7963e68e",
+  "content_tokens": 2926,
+  "fetched_at": "2026-11-03T14:10:57Z",
+  "kind": "article",
+  "published_at": "2026-11-03T05:35:00+00:00",
+  "snippet": "A 763B-parameter mixture-of-experts model at 1 bit per parameter, with half of its 384 experts per layer removed and the rest quantized, built for code and agentic workflows. 72.1 GB of transformer weights, 1.05 bits per parameter measured against the original model's…",
+  "source_id": "latent-space",
+  "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "experts",
+      21
+    ],
+    [
+      "deepseek-v4.1",
+      19
+    ],
+    [
+      "gguf",
+      19
+    ],
+    [
+      "xxs",
+      18
+    ],
+    [
+      "iq2",
+      17
+    ],
+    [
+      "layer",
+      17
+    ],
+    [
+      "model",
+      17
+    ],
+    [
+      "the unpruned",
+      14
+    ],
+    [
+      "unpruned",
+      14
+    ],
+    [
+      "release",
+      13
+    ],
+    [
+      "engram",
+      12
+    ],
+    [
+      "gb",
+      12
+    ],
+    [
+      "per layer",
+      11
+    ],
+    [
+      "quantization",
+      11
+    ],
+    [
+      "coder",
+      10
+    ],
+    [
+      "file",
+      10
+    ],
+    [
+      "the unpruned release",
+      10
+    ],
+    [
+      "transformer",
+      10
+    ],
+    [
+      "unpruned release",
+      10
+    ],
+    [
+      "flash-1017-gsq-rco-coder-iq2",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+  "url_canonical": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+  "via_source_id": "latent-space"
+}

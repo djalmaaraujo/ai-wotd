@@ -1,0 +1,293 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--a1c74d68",
+        "latent-space--b9edf87f",
+        "latent-space--bc551291",
+        "latent-space--c5e2e783",
+        "latent-space--e93d69f8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 752.907363,
+      "term": "gsq",
+      "tf_today": 104
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--af50c466",
+        "latent-space--e93d69f8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 526.666667,
+      "term": "et",
+      "tf_today": 88
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--af50c466",
+        "latent-space--e93d69f8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 526.666667,
+      "term": "et al",
+      "tf_today": 88
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--bc551291",
+        "latent-space--c5e2e783",
+        "latent-space--cf14c2a2",
+        "latent-space--e93d69f8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 216.5572,
+      "term": "rco",
+      "tf_today": 38
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--a1c74d68",
+        "latent-space--b9edf87f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 149.184323,
+      "term": "gptq",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--a1c74d68",
+        "latent-space--b9edf87f",
+        "latent-space--bc551291",
+        "latent-space--c5e2e783"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 126.703754,
+      "term": "scalar",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "latent-space--af50c466",
+        "latent-space--b9edf87f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 104.734372,
+      "term": "acc",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--b9edf87f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 89.338624,
+      "term": "dir",
+      "tf_today": 23
+    },
+    {
+      "articles": [
+        "latent-space--af50c466",
+        "latent-space--b9edf87f",
+        "latent-space--bc551291",
+        "latent-space--c5e2e783",
+        "mit-tech-review-ai--004ad8f5"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 88.540532,
+      "term": "preprint",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "latent-space--290ff9a4",
+        "latent-space--b9edf87f",
+        "latent-space--bc551291",
+        "latent-space--c5e2e783",
+        "latent-space--e93d69f8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 76.434275,
+      "term": "per layer",
+      "tf_today": 17
+    }
+  ],
+  "date": "2026-11-03",
+  "evidence_article_ids": [
+    "latent-space--a1c74d68",
+    "latent-space--b9edf87f"
+  ],
+  "judge": {
+    "input_tokens": 28264,
+    "model": "jev-1.14.0",
+    "pool_size": 55,
+    "signals": {
+      "compression": {
+        "dominance": 2.95,
+        "event": 0.9,
+        "form": 0.9,
+        "novelty": 0.81,
+        "specificity": 1.89
+      },
+      "exact budget constraints": {
+        "dominance": 2.63,
+        "event": 0.82,
+        "form": 0.71,
+        "novelty": 0.86,
+        "specificity": 1.9
+      },
+      "gsq": {
+        "dominance": 2.76,
+        "event": 0.77,
+        "form": 0.74,
+        "novelty": 0.85,
+        "specificity": 1.98
+      },
+      "gumbel": {
+        "dominance": 2.45,
+        "event": 0.83,
+        "form": 0.77,
+        "novelty": 0.85,
+        "specificity": 1.99
+      },
+      "gumbel-softmax": {
+        "dominance": 2.42,
+        "event": 0.87,
+        "form": 0.91,
+        "novelty": 0.86,
+        "specificity": 2.0
+      },
+      "gumbel-softmax sampling": {
+        "dominance": 2.4,
+        "event": 0.89,
+        "form": 0.91,
+        "novelty": 0.86,
+        "specificity": 2.0
+      },
+      "highly-accurate low-precision scalar quantization": {
+        "dominance": 2.84,
+        "event": 0.91,
+        "form": 0.89,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "ist-daslab": {
+        "dominance": 2.64,
+        "event": 0.81,
+        "form": 0.36,
+        "novelty": 0.82,
+        "specificity": 1.41
+      },
+      "low-precision scalar quantization": {
+        "dominance": 2.8,
+        "event": 0.93,
+        "form": 0.91,
+        "novelty": 0.79,
+        "specificity": 2.0
+      },
+      "model compression": {
+        "dominance": 2.95,
+        "event": 0.92,
+        "form": 0.93,
+        "novelty": 0.8,
+        "specificity": 1.99
+      },
+      "pruning": {
+        "dominance": 2.36,
+        "event": 0.68,
+        "form": 0.9,
+        "novelty": 0.69,
+        "specificity": 1.99
+      },
+      "quantization": {
+        "dominance": 2.93,
+        "event": 0.91,
+        "form": 0.92,
+        "novelty": 0.78,
+        "specificity": 2.0
+      },
+      "quantization for llms": {
+        "dominance": 2.94,
+        "event": 0.92,
+        "form": 0.82,
+        "novelty": 0.77,
+        "specificity": 2.0
+      },
+      "quantizer": {
+        "dominance": 2.36,
+        "event": 0.75,
+        "form": 0.84,
+        "novelty": 0.68,
+        "specificity": 1.97
+      },
+      "riemannian": {
+        "dominance": 2.43,
+        "event": 0.79,
+        "form": 0.66,
+        "novelty": 0.85,
+        "specificity": 1.63
+      },
+      "riemannian manifolds": {
+        "dominance": 2.46,
+        "event": 0.82,
+        "form": 0.88,
+        "novelty": 0.86,
+        "specificity": 1.68
+      },
+      "scalar quantization": {
+        "dominance": 2.75,
+        "event": 0.87,
+        "form": 0.94,
+        "novelty": 0.78,
+        "specificity": 2.0
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "highly-accurate low-precision scalar quantization",
+      "quantization for llms",
+      "model compression",
+      "quantization",
+      "compression",
+      "low-precision scalar quantization",
+      "scalar quantization",
+      "gumbel-softmax",
+      "gumbel-softmax sampling",
+      "pruning"
+    ]
+  },
+  "label": "Highly-Accurate Low-Precision Scalar Quantization",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://arxiv.org/abs/2604.18556",
+        "https://github.com/IST-DASLab/GSQ",
+        "https://en.wikipedia.org/wiki/Quantization_(machine_learning)"
+      ],
+      "text": "Highly-Accurate Low-Precision Scalar Quantization refers to a class of post-training quantization techniques that compress large language model weights to 1–3 bits per parameter using scalar (per-weight) quantization grids, while preserving model accuracy close to that of more complex vector or trellis quantization. GSQ exemplifies this approach by learning optimal quantization grids per coordinate and scales per group via a differentiable Gumbel-Softmax relaxation, enabling gradient-based optimization of the discrete quantization mapping. This matters because it allows extreme compression for local and edge inference without the implementation complexity or hardware incompatibility of vector quantization, and it integrates directly with existing INT/GGUF runtimes."
+    },
+    "generated_at": "2026-11-03T14:11:56.723142+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "A new quantization method called GSQ (Gumbel-Softmax Quantization) from researchers at ISTA, ETH Zürich, TU Wien, and Red Hat AI is drawing attention for closing the accuracy gap between simple scalar post-training quantization and more complex vector or trellis approaches. The preprint demonstrates that GSQ achieves highly-accurate low-precision scalar quantization at 1–3 bits per parameter while remaining compatible with INT and GGUF formats. The technique learns per-coordinate grid assignments and per-group scales using a Gumbel-Softmax relaxation, outperforming established methods like GPTQ, AWQ, and QuIP at ultra-low bit widths. The GitHub release from IST-DASLab provides immediate implementation access, signaling rapid adoption potential for local LLM inference.",
+    "why": "The term trended because the GSQ preprint and accompanying GitHub release were published today, introducing a novel scalar quantization method that uses Gumbel-Softmax sampling to achieve near-vector-quantization accuracy at 2–3 bits per parameter while maintaining deployment simplicity. The paper directly addresses a key deployment bottleneck — scalar methods plateauing at 3–4 bits — and positions GSQ as a practical drop-in replacement for GPTQ and AWQ."
+  },
+  "score": null,
+  "word": "highly-accurate low-precision scalar quantization"
+}
