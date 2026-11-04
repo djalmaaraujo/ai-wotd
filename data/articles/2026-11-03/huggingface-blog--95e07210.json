@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--95e07210",
+  "author": "Hugging Face Blog",
+  "content_chars": 11040,
+  "content_sha256": "82e22df792c38301b8879ebcbfea92871fc5e125c7547a74ff991d28f6350a77",
+  "content_tokens": 2760,
+  "fetched_at": "2026-11-04T14:27:57Z",
+  "kind": "article",
+  "published_at": "2026-11-03T16:35:36+00:00",
+  "snippet": "Ask a frontier model for a slide deck and you'll get a good one. Ask for ten and they start to look alike: the same tasteful defaults, the same house style, a faint \"AI-generated deck\" look. That's fine until you want the deck to look like your template. Frontier models have…",
+  "source_id": "huggingface-blog",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "top_terms": [
+    [
+      "slide",
+      24
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "deck",
+      15
+    ],
+    [
+      "decks",
+      13
+    ],
+    [
+      "palette",
+      13
+    ],
+    [
+      "harness",
+      11
+    ],
+    [
+      "coder",
+      10
+    ],
+    [
+      "design",
+      10
+    ],
+    [
+      "every",
+      10
+    ],
+    [
+      "first",
+      10
+    ],
+    [
+      "the model",
+      10
+    ],
+    [
+      "code",
+      9
+    ],
+    [
+      "data",
+      9
+    ],
+    [
+      "two",
+      9
+    ],
+    [
+      "designer",
+      8
+    ],
+    [
+      "the coder",
+      8
+    ],
+    [
+      "the harness",
+      8
+    ],
+    [
+      "brief",
+      7
+    ],
+    [
+      "makes",
+      7
+    ],
+    [
+      "output",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "url_canonical": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "via_source_id": null
+}

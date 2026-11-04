@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fd8987bb",
+  "author": "Hugging Face Blog",
+  "content_chars": 4086,
+  "content_sha256": "fe47fe4ec3fe76cad191aaeb9e4bd2470dcab67602cb6e329e4b121d0be79d27",
+  "content_tokens": 1021,
+  "fetched_at": "2026-11-04T14:27:58Z",
+  "kind": "article",
+  "published_at": "2026-11-03T00:00:00+00:00",
+  "snippet": "CWE-bench is designed to test the limits of frontier cyber capabilities. In our continued pursuit to push the horizon at Collinear AI, CWE-bench v2 opens up a public set of 100 tasks that anyone can run and evaluate their models on. The setup is the same as before. An agent gets…",
+  "source_id": "huggingface-blog",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "top_terms": [
+    [
+      "model",
+      8
+    ],
+    [
+      "cwe-bench",
+      7
+    ],
+    [
+      "models",
+      7
+    ],
+    [
+      "set",
+      7
+    ],
+    [
+      "tasks",
+      7
+    ],
+    [
+      "every",
+      6
+    ],
+    [
+      "pass",
+      6
+    ],
+    [
+      "task",
+      6
+    ],
+    [
+      "dataset",
+      5
+    ],
+    [
+      "instruction",
+      5
+    ],
+    [
+      "gemini",
+      4
+    ],
+    [
+      "harbor",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "the dataset",
+      4
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "claude",
+      3
+    ],
+    [
+      "dataset page",
+      3
+    ],
+    [
+      "every task",
+      3
+    ],
+    [
+      "fix",
+      3
+    ],
+    [
+      "hf",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "url_canonical": "https://huggingface.co/blog/cwe-bench",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--a1bc105e",
+  "author": "Simon Willison",
+  "content_chars": 7822,
+  "content_sha256": "a792f7c41c3b20387d849b0be24089414c0a1a74fb959a9cec759bf070dbc832",
+  "content_tokens": 1955,
+  "fetched_at": "2026-11-04T14:30:49Z",
+  "kind": "article",
+  "published_at": "2026-11-03T16:29:48+00:00",
+  "snippet": "Qwen 3.8 27B on my laptop can interpret model weights, too 3rd November 2026 Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the…",
+  "source_id": "simonwillison",
+  "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "top_terms": [
+    [
+      "weights",
+      17
+    ],
+    [
+      "game",
+      13
+    ],
+    [
+      "qwen",
+      11
+    ],
+    [
+      "agent",
+      10
+    ],
+    [
+      "model",
+      9
+    ],
+    [
+      "paper",
+      8
+    ],
+    [
+      "reasoning",
+      8
+    ],
+    [
+      "ball",
+      7
+    ],
+    [
+      "breakout",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "moving",
+      6
+    ],
+    [
+      "prompt",
+      6
+    ],
+    [
+      "qwen 3.8",
+      6
+    ],
+    [
+      "reward",
+      6
+    ],
+    [
+      "the paper",
+      6
+    ],
+    [
+      "astra",
+      5
+    ],
+    [
+      "channel0",
+      5
+    ],
+    [
+      "laptop",
+      5
+    ],
+    [
+      "moves",
+      5
+    ],
+    [
+      "paddle",
+      5
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+  "via_source_id": null
+}

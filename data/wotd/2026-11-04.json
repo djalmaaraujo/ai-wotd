@@ -1,0 +1,233 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 8.756596,
+      "term": "manage",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 1.8333,
+      "df_today": 2,
+      "score": 3.402723,
+      "term": "interview",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 26.88,
+      "df_today": 2,
+      "score": 3.173496,
+      "term": "agent",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 25.2083,
+      "df_today": 2,
+      "score": 2.747252,
+      "term": "agents",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 11.6087,
+      "df_today": 2,
+      "score": 2.26294,
+      "term": "agentic",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 1.5,
+      "df_today": 2,
+      "score": 2.197225,
+      "term": "ai security",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 11.2353,
+      "df_today": 2,
+      "score": 1.943352,
+      "term": "security",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 1.647918,
+      "term": "limited to",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 2.25,
+      "df_today": 2,
+      "score": 1.464816,
+      "term": "dive",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--afa858be",
+        "mit-tech-review-ai--f10568d5"
+      ],
+      "avg_tf_baseline": 2.4,
+      "df_today": 2,
+      "score": 1.373265,
+      "term": "promised",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-11-04",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 14879,
+    "model": "jev-1.14.0",
+    "pool_size": 32,
+    "signals": {
+      "agent": {
+        "dominance": 2.84,
+        "event": 0.92,
+        "form": 0.88,
+        "novelty": 0.25,
+        "specificity": 1.54
+      },
+      "agentic": {
+        "dominance": 2.85,
+        "event": 0.9,
+        "form": 0.59,
+        "novelty": 0.29,
+        "specificity": 1.65
+      },
+      "agents": {
+        "dominance": 2.84,
+        "event": 0.93,
+        "form": 0.85,
+        "novelty": 0.23,
+        "specificity": 1.36
+      },
+      "ai security": {
+        "dominance": 2.76,
+        "event": 0.85,
+        "form": 0.89,
+        "novelty": 0.35,
+        "specificity": 1.09
+      },
+      "data": {
+        "dominance": 1.8,
+        "event": 0.52,
+        "form": 0.8,
+        "novelty": 0.56,
+        "specificity": 0.87
+      },
+      "increasingly": {
+        "dominance": 1.13,
+        "event": 0.71,
+        "form": 0.15,
+        "novelty": 0.25,
+        "specificity": 0.01
+      },
+      "interview": {
+        "dominance": 0.97,
+        "event": 0.06,
+        "form": 0.8,
+        "novelty": 0.66,
+        "specificity": 0.07
+      },
+      "latest": {
+        "dominance": 0.88,
+        "event": 0.79,
+        "form": 0.63,
+        "novelty": 0.41,
+        "specificity": 0.11
+      },
+      "manage": {
+        "dominance": 1.04,
+        "event": 0.14,
+        "form": 0.32,
+        "novelty": 0.31,
+        "specificity": 0.16
+      },
+      "pricing": {
+        "dominance": 0.95,
+        "event": 0.2,
+        "form": 0.84,
+        "novelty": 0.44,
+        "specificity": 0.09
+      },
+      "problem": {
+        "dominance": 2.07,
+        "event": 0.82,
+        "form": 0.7,
+        "novelty": 0.26,
+        "specificity": 0.23
+      },
+      "security": {
+        "dominance": 2.76,
+        "event": 0.82,
+        "form": 0.93,
+        "novelty": 0.39,
+        "specificity": 0.7
+      },
+      "systems": {
+        "dominance": 1.85,
+        "event": 0.85,
+        "form": 0.68,
+        "novelty": 0.26,
+        "specificity": 0.64
+      },
+      "tools": {
+        "dominance": 1.87,
+        "event": 0.88,
+        "form": 0.8,
+        "novelty": 0.18,
+        "specificity": 1.02
+      },
+      "workflows": {
+        "dominance": 1.49,
+        "event": 0.68,
+        "form": 0.85,
+        "novelty": 0.39,
+        "specificity": 0.75
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

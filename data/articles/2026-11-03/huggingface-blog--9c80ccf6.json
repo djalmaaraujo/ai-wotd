@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9c80ccf6",
+  "author": "Hugging Face Blog",
+  "content_chars": 9584,
+  "content_sha256": "47cba6b08ae154981c076c891f5a59f935b70a4689bbaa8a04b1c31add20a760",
+  "content_tokens": 2396,
+  "fetched_at": "2026-11-04T14:27:57Z",
+  "kind": "article",
+  "published_at": "2026-11-03T17:15:21+00:00",
+  "snippet": "📄 Tech Report | 🤗 Data | 💻 Code We’re introducing StateBench, a benchmark for long-context state tracking—how well language models keep track of information about entities in long documents as they evolve. State tracking underlies tasks from reading code, where variables are…",
+  "source_id": "huggingface-blog",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "top_terms": [
+    [
+      "models",
+      20
+    ],
+    [
+      "problems",
+      20
+    ],
+    [
+      "state",
+      15
+    ],
+    [
+      "tracking",
+      14
+    ],
+    [
+      "state tracking",
+      12
+    ],
+    [
+      "levels",
+      11
+    ],
+    [
+      "statebench",
+      10
+    ],
+    [
+      "deltanet",
+      9
+    ],
+    [
+      "gated",
+      9
+    ],
+    [
+      "gated deltanet",
+      9
+    ],
+    [
+      "state-tracking",
+      9
+    ],
+    [
+      "architectures",
+      8
+    ],
+    [
+      "finite",
+      8
+    ],
+    [
+      "four",
+      8
+    ],
+    [
+      "general",
+      8
+    ],
+    [
+      "variable",
+      8
+    ],
+    [
+      "aperiodic",
+      7
+    ],
+    [
+      "assignments",
+      7
+    ],
+    [
+      "different",
+      7
+    ],
+    [
+      "general finite",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "url_canonical": "https://huggingface.co/blog/allenai/statebench",
+  "via_source_id": null
+}

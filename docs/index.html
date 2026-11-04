@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Highly-Accurate Low-Precision Scalar Quantization — 2026-11-03 · AI WOTD</title>
+  <title>No word — 2026-11-04 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -17,154 +17,109 @@
     </nav>
   </header>
   <main>
-<article class="day">
-  <p class="date">2026-11-03</p>
-  <h1>Highly-Accurate Low-Precision Scalar Quantization</h1>
+<article class="day quiet">
+  <p class="date">2026-11-04</p>
+  <h1>no word today</h1>
 
-  <p class="why">The term trended because the GSQ preprint and accompanying GitHub release were published today, introducing a novel scalar quantization method that uses Gumbel-Softmax sampling to achieve near-vector-quantization accuracy at 2–3 bits per parameter while maintaining deployment simplicity. The paper directly addresses a key deployment bottleneck — scalar methods plateauing at 3–4 bits — and positions GSQ as a practical drop-in replacement for GPTQ and AWQ.</p>
-
-  <section class="definition">
-    <h2>Definition</h2>
-    <p>Highly-Accurate Low-Precision Scalar Quantization refers to a class of post-training quantization techniques that compress large language model weights to 1–3 bits per parameter using scalar (per-weight) quantization grids, while preserving model accuracy close to that of more complex vector or trellis quantization. GSQ exemplifies this approach by learning optimal quantization grids per coordinate and scales per group via a differentiable Gumbel-Softmax relaxation, enabling gradient-based optimization of the discrete quantization mapping. This matters because it allows extreme compression for local and edge inference without the implementation complexity or hardware incompatibility of vector quantization, and it integrates directly with existing INT/GGUF runtimes.</p>
-    <ul class="def-refs">
-      <li><a href="https://arxiv.org/abs/2604.18556" rel="noreferrer">https://arxiv.org/abs/2604.18556</a></li>
-      <li><a href="https://github.com/IST-DASLab/GSQ" rel="noreferrer">https://github.com/IST-DASLab/GSQ</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Quantization_(machine_learning)" rel="noreferrer">https://en.wikipedia.org/wiki/Quantization_(machine_learning)</a></li>
-    </ul>
-  </section>
-
-  <section class="summary">
-    <h2>Today in AI</h2>
-    <p>A new quantization method called GSQ (Gumbel-Softmax Quantization) from researchers at ISTA, ETH Zürich, TU Wien, and Red Hat AI is drawing attention for closing the accuracy gap between simple scalar post-training quantization and more complex vector or trellis approaches. The preprint demonstrates that GSQ achieves highly-accurate low-precision scalar quantization at 1–3 bits per parameter while remaining compatible with INT and GGUF formats. The technique learns per-coordinate grid assignments and per-group scales using a Gumbel-Softmax relaxation, outperforming established methods like GPTQ, AWQ, and QuIP at ultra-low bit widths. The GitHub release from IST-DASLab provides immediate implementation access, signaling rapid adoption potential for local LLM inference.</p>
-  </section>
-
-  <section class="evidence">
-    <h2>Evidence (2)</h2>
-    <ul>
-      <li>
-        <a href="https://arxiv.org/abs/2604.18556" rel="noreferrer">[2604.18556] GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling</a>
-        <span class="meta">
-          latent-space          · 2026-11-03
-        </span>
-<blockquote>Computer Science &gt; Computation and Language Title:GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling View PDF HTML (experimental)Abstract:Quantization has become a standard tool for efficient LLM deployment, especially for local…</blockquote>      </li>
-      <li>
-        <a href="https://github.com/IST-DASLab/GSQ" rel="noreferrer">GitHub - IST-DASLab/GSQ: Gumbel-Softmax post-training quantization for LLMs (1–3 bit scalar, INT/GGUF-compatible). · GitHub</a>
-        <span class="meta">
-          latent-space          · 2026-11-03
-        </span>
-<blockquote>Paper: GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling (preprint) Authors: Alireza Dadgarnia, Soroush Tabesh, Mahdi Nikdan, Michael Helcig, Eldar Kurtić, Max Kleinegger, Dan Alistarh — ISTA / ETH Zürich / TU Wien / Red Hat AI GSQ is a…</blockquote>      </li>
-    </ul>
-  </section>
+  <p class="why">
+    Nothing in today&rsquo;s corpus held up as a word of the day. The trending score
+    had 10 candidates,
+    and none of them was a specific AI term the day&rsquo;s coverage was actually about.
+    Rather than print the top of a bad list, this day stays empty.
+  </p>
 
   <section class="candidates">
-    <h2>Candidates</h2>
+    <h2>Closest calls</h2>
     <ol>
-      <li>gsq <span class="meta">tf=104, df=5, score=752.91</span></li>
-      <li>et <span class="meta">tf=88, df=3, score=526.67</span></li>
-      <li>et al <span class="meta">tf=88, df=3, score=526.67</span></li>
-      <li>rco <span class="meta">tf=38, df=5, score=216.56</span></li>
-      <li>gptq <span class="meta">tf=32, df=3, score=149.18</span></li>
-      <li>scalar <span class="meta">tf=25, df=5, score=126.70</span></li>
-      <li>acc <span class="meta">tf=26, df=2, score=104.73</span></li>
-      <li>dir <span class="meta">tf=23, df=2, score=89.34</span></li>
-      <li>preprint <span class="meta">tf=19, df=5, score=88.54</span></li>
-      <li>per layer <span class="meta">tf=17, df=5, score=76.43</span></li>
+      <li>agent
+        <span class="meta">specificity=1.54,
+          coverage=2.84,
+          new=0.25</span>
+      </li>
+      <li>agentic
+        <span class="meta">specificity=1.65,
+          coverage=2.85,
+          new=0.29</span>
+      </li>
+      <li>agents
+        <span class="meta">specificity=1.36,
+          coverage=2.84,
+          new=0.23</span>
+      </li>
+      <li>ai security
+        <span class="meta">specificity=1.09,
+          coverage=2.76,
+          new=0.35</span>
+      </li>
+      <li>data
+        <span class="meta">specificity=0.87,
+          coverage=1.80,
+          new=0.56</span>
+      </li>
+      <li>increasingly
+        <span class="meta">specificity=0.01,
+          coverage=1.13,
+          new=0.25</span>
+      </li>
+      <li>interview
+        <span class="meta">specificity=0.07,
+          coverage=0.97,
+          new=0.66</span>
+      </li>
+      <li>latest
+        <span class="meta">specificity=0.11,
+          coverage=0.88,
+          new=0.41</span>
+      </li>
+      <li>manage
+        <span class="meta">specificity=0.16,
+          coverage=1.04,
+          new=0.31</span>
+      </li>
+      <li>pricing
+        <span class="meta">specificity=0.09,
+          coverage=0.95,
+          new=0.44</span>
+      </li>
+      <li>problem
+        <span class="meta">specificity=0.23,
+          coverage=2.07,
+          new=0.26</span>
+      </li>
+      <li>security
+        <span class="meta">specificity=0.70,
+          coverage=2.76,
+          new=0.39</span>
+      </li>
+      <li>systems
+        <span class="meta">specificity=0.64,
+          coverage=1.85,
+          new=0.26</span>
+      </li>
+      <li>tools
+        <span class="meta">specificity=1.02,
+          coverage=1.87,
+          new=0.18</span>
+      </li>
+      <li>workflows
+        <span class="meta">specificity=0.75,
+          coverage=1.49,
+          new=0.39</span>
+      </li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (18)</summary>
+      <summary>All queried links (2)</summary>
       <ul>
         <li>
-          <a href="https://codenewsletter.ai/p/deepseek-lets-you-build-agent-plugins-with-a-prompt" rel="noreferrer">DeepSeek lets you build agent plugins with a prompt</a>
-          <span class="meta">
-            codenewsletter · Code Newsletter          </span>
+          <a href="https://codenewsletter.ai/p/postman-can-quietly-install-plugins-into-your-coding-agents" rel="noreferrer">Postman can quietly install plugins into your coding agents</a>
+          <span class="meta">codenewsletter · Code Newsletter</span>
         </li>
         <li>
-          <a href="https://huggingface.co/blog/transformers-mic" rel="noreferrer">Transformers Model Integration Contracts</a>
-          <span class="meta">
-            huggingface-blog · Hugging Face Blog          </span>
-        </li>
-        <li>
-          <a href="https://github.com/IST-DASLab/RCO" rel="noreferrer">GitHub - IST-DASLab/RCO: RCO: Optimization of Non-Decomposable Objectives under Exact Budget Constraints for LLM Quantization and Pruning · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://github.com/PhialsBasement/Strata/tree/dsv41-kv-splice" rel="noreferrer">GitHub - PhialsBasement/Strata at dsv41-kv-splice · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://arxiv.org/abs/2604.18556" rel="noreferrer">[2604.18556] GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://arxiv.org/html/2304.02015v1" rel="noreferrer">How well do Large Language Models perform in Arithmetic tasks?</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://github.com/IST-DASLab/GSQ" rel="noreferrer">GitHub - IST-DASLab/GSQ: Gumbel-Softmax post-training quantization for LLMs (1–3 bit scalar, INT/GGUF-compatible). · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF" rel="noreferrer">ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF · Hugging Face</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says" rel="noreferrer">Anthropic expected to receive high &#39;junk&#39; rating from credit agencies following IPO, FT report says | TechCrunch</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://asp.net/" rel="noreferrer">ASP.NET Core, an open-source web development framework | .NET</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF" rel="noreferrer">ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF · Hugging Face</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://arxiv.org/abs/2605.00649" rel="noreferrer">[2605.00649] Model Compression with Exact Budget Constraints via Riemannian Manifolds</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of" rel="noreferrer">[AINews] LLMs can read &amp; write neural network weights: &#34;Weight Space Programming&#34; cuts Autoresearch out of the RSI loop</a>
-          <span class="meta">
-            latent-space · swyx .ai          </span>
-        </li>
-        <li>
-          <a href="https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment" rel="noreferrer">How “reverse game theory” could keep AI agents in check</a>
-          <span class="meta">
-            mit-tech-review-ai · Amit Katwala          </span>
-        </li>
-        <li>
-          <a href="https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test" rel="noreferrer">Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test</a>
-          <span class="meta">
-            mit-tech-review-ai · James O&#39;Donnell          </span>
-        </li>
-        <li>
-          <a href="https://openai.com/index/heimstaden" rel="noreferrer">Heimstaden is changing residential real estate management with AI</a>
-          <span class="meta">
-            openai-blog · OpenAI Blog          </span>
-        </li>
-        <li>
-          <a href="https://simonwillison.net/2026/Nov/3/october-newsletter" rel="noreferrer">October sponsors-only newsletter</a>
-          <span class="meta">
-            simonwillison · Simon Willison          </span>
-        </li>
-        <li>
-          <a href="https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location" rel="noreferrer">I discovered a sound that leaks your exact location (and it&#39;s everywhere) - YouTube</a>
-          <span class="meta">
-            simonwillison · Simon Willison          </span>
+          <a href="https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage" rel="noreferrer">Securing the agentic enterprise with data lineage</a>
+          <span class="meta">mit-tech-review-ai · MIT Technology Review Insights</span>
         </li>
       </ul>
     </details>
@@ -175,7 +130,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-03T14:11:58+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-04T14:30:56+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>
