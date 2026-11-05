@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--256c047e",
+  "author": null,
+  "content_chars": 17539,
+  "content_sha256": "21a32772fb0d4f45e95038993b676a7b5cc72d7e1308fcb71f31058800d2ac03",
+  "content_tokens": 4384,
+  "fetched_at": "2026-11-05T14:38:38Z",
+  "kind": "article",
+  "published_at": "2026-11-04T19:17:30+00:00",
+  "snippet": "Towards Subquadratic Ultra-Long Context Attention One global attention layer under D-LSA and N-LSA. Keys are pooled and clustered into buckets, and a query scores the bucket centroids, then attends only to the selected long-range keys plus the sink and window. Latent Sparse…",
+  "source_id": "latent-space",
+  "title": "GitHub - Prefrontal-AI/latent-sparse-attention: Code for Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention · GitHub",
+  "top_terms": [
+    [
+      "lsa",
+      74
+    ],
+    [
+      "yaml",
+      35
+    ],
+    [
+      "native",
+      24
+    ],
+    [
+      "attention",
+      21
+    ],
+    [
+      "root",
+      21
+    ],
+    [
+      "configs",
+      20
+    ],
+    [
+      "data",
+      19
+    ],
+    [
+      "hf",
+      18
+    ],
+    [
+      "run",
+      18
+    ],
+    [
+      "training",
+      18
+    ],
+    [
+      "evaluate",
+      17
+    ],
+    [
+      "maps",
+      17
+    ],
+    [
+      "site",
+      17
+    ],
+    [
+      "flat",
+      15
+    ],
+    [
+      "released",
+      13
+    ],
+    [
+      "d-lsa",
+      12
+    ],
+    [
+      "flash",
+      12
+    ],
+    [
+      "mycluster",
+      12
+    ],
+    [
+      "decay",
+      11
+    ],
+    [
+      "evaluation",
+      11
+    ]
+  ],
+  "url": "https://github.com/Prefrontal-AI/latent-sparse-attention",
+  "url_canonical": "https://github.com/Prefrontal-AI/latent-sparse-attention",
+  "via_source_id": "latent-space"
+}

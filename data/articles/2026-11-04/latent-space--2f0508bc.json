@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--2f0508bc",
+  "author": null,
+  "content_chars": 5663,
+  "content_sha256": "8f2ffddd7453d622c952ca9494a706dba2438128cd8f165027bf6559271a141e",
+  "content_tokens": 1415,
+  "fetched_at": "2026-11-05T14:38:39Z",
+  "kind": "article",
+  "published_at": "2026-11-04T19:17:30+00:00",
+  "snippet": "Primary source: x.com Why it matters If other researchers reproduce the result, small open models could be repaired with targeted weight edits instead of retraining runs, cutting the cost of fixing known failure modes. The authors' Gemma result sets the boundary: the method…",
+  "source_id": "latent-space",
+  "title": "GPT-6 Astra edited 0.016% of Qwen's weights and its math score went up 6x",
+  "top_terms": [
+    [
+      "authors",
+      15
+    ],
+    [
+      "weights",
+      15
+    ],
+    [
+      "the authors",
+      14
+    ],
+    [
+      "astra",
+      13
+    ],
+    [
+      "model",
+      9
+    ],
+    [
+      "qwen",
+      6
+    ],
+    [
+      "math-500",
+      5
+    ],
+    [
+      "result",
+      5
+    ],
+    [
+      "the qwen",
+      5
+    ],
+    [
+      "edited",
+      4
+    ],
+    [
+      "experiments",
+      4
+    ],
+    [
+      "loops",
+      4
+    ],
+    [
+      "mit",
+      4
+    ],
+    [
+      "networks",
+      4
+    ],
+    [
+      "ppo",
+      4
+    ],
+    [
+      "reading",
+      4
+    ],
+    [
+      "small",
+      4
+    ],
+    [
+      "takehi",
+      4
+    ],
+    [
+      "the weights",
+      4
+    ],
+    [
+      "training",
+      4
+    ]
+  ],
+  "url": "https://runtimewire.com/article/gpt-6-astra-edits-qwen-weights-weight-space-programming",
+  "url_canonical": "https://runtimewire.com/article/gpt-6-astra-edits-qwen-weights-weight-space-programming",
+  "via_source_id": "latent-space"
+}

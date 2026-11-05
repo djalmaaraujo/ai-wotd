@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--55693ca4",
+  "author": "Hugging Face Blog",
+  "content_chars": 10542,
+  "content_sha256": "2b3a6f46ab5406f65d014ac4170ece5d412de51402bdaf70b23131283e79852a",
+  "content_tokens": 2635,
+  "fetched_at": "2026-11-05T14:35:00Z",
+  "kind": "article",
+  "published_at": "2026-11-04T17:50:10+00:00",
+  "snippet": "A 2-billion-parameter model that extracts exactly the fields you ask for, from any document type, outperforming every frontier LLM we tested, at a fraction of the cost. In April, we released DharmaOCR-LITE, a model specialized for OCR across a wide range of documents, from…",
+  "source_id": "huggingface-blog",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "top_terms": [
+    [
+      "fields",
+      16
+    ],
+    [
+      "model",
+      16
+    ],
+    [
+      "field",
+      14
+    ],
+    [
+      "document",
+      12
+    ],
+    [
+      "every",
+      11
+    ],
+    [
+      "datasets",
+      10
+    ],
+    [
+      "frontier",
+      10
+    ],
+    [
+      "co",
+      9
+    ],
+    [
+      "huggingface",
+      9
+    ],
+    [
+      "back",
+      7
+    ],
+    [
+      "cost",
+      7
+    ],
+    [
+      "documents",
+      7
+    ],
+    [
+      "invoices",
+      7
+    ],
+    [
+      "schema",
+      7
+    ],
+    [
+      "brazilian",
+      6
+    ],
+    [
+      "line",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "ocr",
+      6
+    ],
+    [
+      "page",
+      6
+    ],
+    [
+      "system",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "url_canonical": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "via_source_id": null
+}

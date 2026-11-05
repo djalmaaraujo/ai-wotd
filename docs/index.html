@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>No word — 2026-11-04 · AI WOTD</title>
+  <title>Axion 1.0 — 2026-11-05 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -17,109 +17,152 @@
     </nav>
   </header>
   <main>
-<article class="day quiet">
-  <p class="date">2026-11-04</p>
-  <h1>no word today</h1>
+<article class="day">
+  <p class="date">2026-11-05</p>
+  <h1>Axion 1.0</h1>
 
-  <p class="why">
-    Nothing in today&rsquo;s corpus held up as a word of the day. The trending score
-    had 10 candidates,
-    and none of them was a specific AI term the day&rsquo;s coverage was actually about.
-    Rather than print the top of a bad list, this day stays empty.
-  </p>
+  <p class="why">Axion 1.0 trended today because ByteDance publicly released the complete open-source package — model weights for both 122B and 35B variants, training datasets, reproduction code, and a detailed arXiv paper — all on the same day. The release&#39;s emphasis on a minimal three-stage recipe (2 SFT + RL) that matches or exceeds proprietary agents on benchmarks like HLE, FrontierScience, and SEAL-0 sparked immediate discussion across AI research channels.</p>
+
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>Axion 1.0 is a family of open-source agent foundation models developed by ByteDance that combines strong scientific reasoning, tool use, and information-seeking abilities with a streamlined training approach: two lightweight supervised fine-tuning stages followed by reinforcement learning, without mid-training, DPO, or on-policy distillation. Released in 122B dense and 35B Mixture-of-Experts variants, the models are designed for agentic tasks such as multi-step problem solving, web-based research, and code execution. The fully open release includes weights, training data, code, and a reproducible recipe, positioning Axion 1.0 as a community resource for advancing open agent research.</p>
+    <ul class="def-refs">
+      <li><a href="https://arxiv.org/abs/2611.03233" rel="noreferrer">https://arxiv.org/abs/2611.03233</a></li>
+      <li><a href="https://github.com/bytedance/axion1_0" rel="noreferrer">https://github.com/bytedance/axion1_0</a></li>
+      <li><a href="https://huggingface.co/Axion1-0" rel="noreferrer">https://huggingface.co/Axion1-0</a></li>
+    </ul>
+  </section>
+
+  <section class="summary">
+    <h2>Today in AI</h2>
+    <p>ByteDance released Axion 1.0, a fully open agent foundation model family that achieves frontier-level performance with a radically simplified training recipe — two supervised fine-tuning stages followed by reinforcement learning, omitting mid-training, DPO, and on-policy distillation. The 122B and 35B (MoE) checkpoints are available on Hugging Face alongside training data and code on GitHub. Axion 1.0-122B scores 59.0 on HLE with restricted web access, 87.0 on FrontierScience Olympiad, and 66.7 on FrontierScience Research, while the 35B variant reaches 62.2 on SEAL-0. The project, led by ByteDance researchers with academic collaborators from Duke, UMD, and UB, demonstrates that high-quality data and a lean three-stage pipeline can yield strong scientific reasoning, tool use, and information-seeking capabilities. Meanwhile, other Chinese labs are also making waves: MiniMax and Moonshot appear in today&#39;s trending terms, and Xiaomi&#39;s AI activity registers heavily in the corpus.</p>
+  </section>
+
+  <section class="evidence">
+    <h2>Evidence (5)</h2>
+    <ul>
+      <li>
+        <a href="https://huggingface.co/datasets/Axion1-0/axion-training-data" rel="noreferrer">Axion1-0/axion-training-data · Datasets at Hugging Face</a>
+        <span class="meta">
+          latent-space          · 2026-11-05
+        </span>
+<blockquote>id stringlengths 13 13 | question stringlengths 212 4.16k | response stringlengths 220 410k | num_messages int64 3 135 | messages listlengths 3 135 | |---|---|---|---|---| stage1-000000 | A standard potassium poly(vinylsulfate) solution contains PVSK polymer chains at…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/bytedance/axion1_0" rel="noreferrer">GitHub - bytedance/axion1_0: Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released. · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-11-05
+        </span>
+<blockquote>Yuqi Jia1 · Yunjie Tian2,† · Jiayu Zheng2 · Yijun Liang3 · Jingchen Sun4 · Mengyu Zhao2 · Di Fu2 1 Duke University 2 ByteDance 3 University of Maryland, College Park 4 University at Buffalo † Project Lead - Three-stage training. Two stages of supervised fine-tuning (SFT)…</blockquote>      </li>
+      <li>
+        <a href="https://arxiv.org/abs/2611.03233" rel="noreferrer">[2611.03233] Axion 1.0: Open Agent Foundation Models, Simplified</a>
+        <span class="meta">
+          latent-space          · 2026-11-05
+        </span>
+<blockquote>Computer Science &gt; Artificial Intelligence Title:Axion 1.0: Open Agent Foundation Models, Simplified View PDF HTML (experimental)Abstract:We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple…</blockquote>      </li>
+      <li>
+        <a href="https://huggingface.co/Axion1-0/Axion-1.0-35B" rel="noreferrer">Axion1-0/Axion-1.0-35B · Hugging Face</a>
+        <span class="meta">
+          latent-space          · 2026-11-05
+        </span>
+<blockquote>Paper · Project · Code · Training Data This repository provides a reproduction checkpoint of Axion 1.0-35B, following the recipe described in Axion 1.0: Open Agent Foundation Models, Simplified. The model is designed for scientific reasoning, information seeking, and…</blockquote>      </li>
+      <li>
+        <a href="https://latent.space/p/ainews-it-s-swapping-season" rel="noreferrer">[AINews] It&#39;s Swapping Season</a>
+        <span class="meta">
+          latent-space · swyx .ai          · 2026-11-05
+        </span>
+<blockquote>As much as there are headlines about changing sides all over the timeline today, there have been major moves in AI as well: Cat Wu leaving Anthropic/Claude Code team where she was Head of Product since inception (our podcast here) and is joining OpenAI to lead Core Products PM…</blockquote>      </li>
+    </ul>
+  </section>
 
   <section class="candidates">
-    <h2>Closest calls</h2>
+    <h2>Candidates</h2>
     <ol>
-      <li>agent
-        <span class="meta">specificity=1.54,
-          coverage=2.84,
-          new=0.25</span>
-      </li>
-      <li>agentic
-        <span class="meta">specificity=1.65,
-          coverage=2.85,
-          new=0.29</span>
-      </li>
-      <li>agents
-        <span class="meta">specificity=1.36,
-          coverage=2.84,
-          new=0.23</span>
-      </li>
-      <li>ai security
-        <span class="meta">specificity=1.09,
-          coverage=2.76,
-          new=0.35</span>
-      </li>
-      <li>data
-        <span class="meta">specificity=0.87,
-          coverage=1.80,
-          new=0.56</span>
-      </li>
-      <li>increasingly
-        <span class="meta">specificity=0.01,
-          coverage=1.13,
-          new=0.25</span>
-      </li>
-      <li>interview
-        <span class="meta">specificity=0.07,
-          coverage=0.97,
-          new=0.66</span>
-      </li>
-      <li>latest
-        <span class="meta">specificity=0.11,
-          coverage=0.88,
-          new=0.41</span>
-      </li>
-      <li>manage
-        <span class="meta">specificity=0.16,
-          coverage=1.04,
-          new=0.31</span>
-      </li>
-      <li>pricing
-        <span class="meta">specificity=0.09,
-          coverage=0.95,
-          new=0.44</span>
-      </li>
-      <li>problem
-        <span class="meta">specificity=0.23,
-          coverage=2.07,
-          new=0.26</span>
-      </li>
-      <li>security
-        <span class="meta">specificity=0.70,
-          coverage=2.76,
-          new=0.39</span>
-      </li>
-      <li>systems
-        <span class="meta">specificity=0.64,
-          coverage=1.85,
-          new=0.26</span>
-      </li>
-      <li>tools
-        <span class="meta">specificity=1.02,
-          coverage=1.87,
-          new=0.18</span>
-      </li>
-      <li>workflows
-        <span class="meta">specificity=0.75,
-          coverage=1.49,
-          new=0.39</span>
-      </li>
+      <li>xiaomi <span class="meta">tf=234, df=2, score=1642.56</span></li>
+      <li>axion <span class="meta">tf=35, df=5, score=215.01</span></li>
+      <li>axion 1.0 <span class="meta">tf=28, df=5, score=161.63</span></li>
+      <li>minimax <span class="meta">tf=233, df=2, score=94.28</span></li>
+      <li>moonshot <span class="meta">tf=235, df=3, score=91.71</span></li>
+      <li>di <span class="meta">tf=14, df=4, score=59.58</span></li>
+      <li>anthropic <span class="meta">tf=251, df=5, score=53.96</span></li>
+      <li>agent foundation <span class="meta">tf=9, df=5, score=35.53</span></li>
+      <li>deepseek <span class="meta">tf=250, df=3, score=32.98</span></li>
+      <li>foundation models <span class="meta">tf=8, df=5, score=30.13</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (2)</summary>
+      <summary>All queried links (14)</summary>
       <ul>
         <li>
-          <a href="https://codenewsletter.ai/p/postman-can-quietly-install-plugins-into-your-coding-agents" rel="noreferrer">Postman can quietly install plugins into your coding agents</a>
-          <span class="meta">codenewsletter · Code Newsletter</span>
+          <a href="https://codenewsletter.ai/p/openai-unveils-a-new-image-model-that-generates-50-faster" rel="noreferrer">OpenAI unveils a new image model that generates 50% faster</a>
+          <span class="meta">
+            codenewsletter · Code Newsletter          </span>
         </li>
         <li>
-          <a href="https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage" rel="noreferrer">Securing the agentic enterprise with data lineage</a>
-          <span class="meta">mit-tech-review-ai · MIT Technology Review Insights</span>
+          <a href="https://huggingface.co/blog/phonon-tts" rel="noreferrer">A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</a>
+          <span class="meta">
+            huggingface-blog · Hugging Face Blog          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro" rel="noreferrer">moonshotai/Kimi-K3.1-Pro · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://dirac.run/labs-market-share" rel="noreferrer">Token Market Share by Lab — Dirac</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://cleanyour.tv/" rel="noreferrer">CleanYourTV: remove ads and bloat from Android TV and Google TV</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://www.conductor.build/announcement" rel="noreferrer">Conductor is joining Meta</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/datasets/Axion1-0/axion-training-data" rel="noreferrer">Axion1-0/axion-training-data · Datasets at Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/ValerioDolci/frontier-weight-edit" rel="noreferrer">GitHub - ValerioDolci/frontier-weight-edit: A frontier model edits another model&#39;s weights by hand (Gemma 4 12B, EN-&gt;IT tense). Plus an awareness experiment: tampering Qwen3.8-27B into a hidden brand preference with 0.06% of its weights. · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/bytedance/axion1_0" rel="noreferrer">GitHub - bytedance/axion1_0: Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released. · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://jtechforums.org/t/how-much-would-something-like-this-cost-to-install-by-a-mechanic/5556" rel="noreferrer">How much would something like this cost to install by a mechanic? - Hardware - JTech Forums</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://arxiv.org/abs/2611.03233" rel="noreferrer">[2611.03233] Axion 1.0: Open Agent Foundation Models, Simplified</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/Axion1-0/Axion-1.0-35B" rel="noreferrer">Axion1-0/Axion-1.0-35B · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://latent.space/p/ainews-it-s-swapping-season" rel="noreferrer">[AINews] It&#39;s Swapping Season</a>
+          <span class="meta">
+            latent-space · swyx .ai          </span>
+        </li>
+        <li>
+          <a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure" rel="noreferrer">Setting a new standard for responsible AI infrastructure</a>
+          <span class="meta">
+            openai-blog · OpenAI Blog          </span>
         </li>
       </ul>
     </details>
@@ -130,7 +173,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-04T14:30:56+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-05T14:38:56+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>

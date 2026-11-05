@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d70d685b",
+  "author": null,
+  "content_chars": 14684,
+  "content_sha256": "94fa88e3ac5138586ac37a06b42de930dddcb36b2ea39bbea6f677637df5bffd",
+  "content_tokens": 3671,
+  "fetched_at": "2026-11-05T14:38:38Z",
+  "kind": "article",
+  "published_at": "2026-11-04T19:17:30+00:00",
+  "snippet": "A frontier model edited a small model's weights and fixed it. That is the claim in a November 2, 2026 blog post from four MIT CSAIL researchers. They say GPT-6 Astra can natively read and write neural network weights, with no gradient descent and no training loop, and that…",
+  "source_id": "latent-space",
+  "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1% | explainx.ai Blog | explainx.ai",
+  "top_terms": [
+    [
+      "weights",
+      36
+    ],
+    [
+      "astra",
+      29
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "authors",
+      14
+    ],
+    [
+      "percent",
+      14
+    ],
+    [
+      "the authors",
+      13
+    ],
+    [
+      "small",
+      12
+    ],
+    [
+      "experiment",
+      11
+    ],
+    [
+      "loops",
+      11
+    ],
+    [
+      "game",
+      10
+    ],
+    [
+      "gpt-6",
+      10
+    ],
+    [
+      "gpt-6 astra",
+      10
+    ],
+    [
+      "passes",
+      10
+    ],
+    [
+      "forward",
+      9
+    ],
+    [
+      "forward passes",
+      9
+    ],
+    [
+      "network",
+      9
+    ],
+    [
+      "language",
+      8
+    ],
+    [
+      "math",
+      8
+    ],
+    [
+      "qwen",
+      8
+    ],
+    [
+      "qwen3.5",
+      8
+    ]
+  ],
+  "url": "https://explainx.ai/blog/weight-space-programming-gpt-6-astra-edits-qwen3-5-0-8b-weights-math-7-9-to-48-1-mit-csail-2026",
+  "url_canonical": "https://explainx.ai/blog/weight-space-programming-gpt-6-astra-edits-qwen3-5-0-8b-weights-math-7-9-to-48-1-mit-csail-2026",
+  "via_source_id": "latent-space"
+}

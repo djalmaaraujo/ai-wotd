@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--70a5e214",
+  "author": null,
+  "content_chars": 9880,
+  "content_sha256": "7795396f00c73d613986e7da14a50b3384dfb96a9b1b7f7b75fcd700302c7e9a",
+  "content_tokens": 2470,
+  "fetched_at": "2026-11-05T14:38:21Z",
+  "kind": "article",
+  "published_at": "2026-11-05T06:24:09+00:00",
+  "snippet": "Can a frontier model steer another model's behaviour, precisely and only where we want, by editing its weights by hand? In November 2026 MIT CSAIL published Sparks of Weight-Space Programming (Takehi, Teoh, Zhang, Khattab): GPT-6 Astra read the weights of Qwen3.5-0.8B and edited…",
+  "source_id": "latent-space",
+  "title": "GitHub - ValerioDolci/frontier-weight-edit: A frontier model edits another model's weights by hand (Gemma 4 12B, EN->IT tense). Plus an awareness experiment: tampering Qwen3.8-27B into a hidden brand preference with 0.06% of its weights. · GitHub",
+  "top_terms": [
+    [
+      "edit",
+      13
+    ],
+    [
+      "e50c",
+      11
+    ],
+    [
+      "every",
+      11
+    ],
+    [
+      "gemma",
+      11
+    ],
+    [
+      "scripts",
+      11
+    ],
+    [
+      "claude",
+      10
+    ],
+    [
+      "di",
+      10
+    ],
+    [
+      "edits",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "sentences",
+      10
+    ],
+    [
+      "json",
+      8
+    ],
+    [
+      "judge",
+      8
+    ],
+    [
+      "py",
+      8
+    ],
+    [
+      "python",
+      8
+    ],
+    [
+      "weights",
+      8
+    ],
+    [
+      "base",
+      7
+    ],
+    [
+      "change",
+      7
+    ],
+    [
+      "evaluate",
+      7
+    ],
+    [
+      "form",
+      7
+    ],
+    [
+      "imperfetto",
+      7
+    ]
+  ],
+  "url": "https://github.com/ValerioDolci/frontier-weight-edit",
+  "url_canonical": "https://github.com/ValerioDolci/frontier-weight-edit",
+  "via_source_id": "latent-space"
+}

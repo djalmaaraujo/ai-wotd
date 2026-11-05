@@ -1,0 +1,283 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--0c1e0805",
+        "latent-space--16c37c52"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 1642.555299,
+      "term": "xiaomi",
+      "tf_today": 234
+    },
+    {
+      "articles": [
+        "latent-space--622506f9",
+        "latent-space--93d09ea1",
+        "latent-space--97e6bfdd",
+        "latent-space--e5214351",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 215.011136,
+      "term": "axion",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "latent-space--622506f9",
+        "latent-space--93d09ea1",
+        "latent-space--97e6bfdd",
+        "latent-space--e5214351",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 161.6302,
+      "term": "axion 1.0",
+      "tf_today": 28
+    },
+    {
+      "articles": [
+        "latent-space--0c1e0805",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 8.6667,
+      "df_today": 2,
+      "score": 94.284135,
+      "term": "minimax",
+      "tf_today": 233
+    },
+    {
+      "articles": [
+        "latent-space--025ecca5",
+        "latent-space--0c1e0805",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 10.0,
+      "df_today": 3,
+      "score": 91.71432,
+      "term": "moonshot",
+      "tf_today": 235
+    },
+    {
+      "articles": [
+        "latent-space--622506f9",
+        "latent-space--70a5e214",
+        "latent-space--93d09ea1",
+        "latent-space--e5214351"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 59.577104,
+      "term": "di",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "codenewsletter--549f7487",
+        "latent-space--025ecca5",
+        "latent-space--0c1e0805",
+        "latent-space--70a5e214",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 22.0455,
+      "df_today": 5,
+      "score": 53.962016,
+      "term": "anthropic",
+      "tf_today": 251
+    },
+    {
+      "articles": [
+        "latent-space--622506f9",
+        "latent-space--93d09ea1",
+        "latent-space--97e6bfdd",
+        "latent-space--e5214351",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 35.525599,
+      "term": "agent foundation",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "latent-space--025ecca5",
+        "latent-space--0c1e0805",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 29.9167,
+      "df_today": 3,
+      "score": 32.981215,
+      "term": "deepseek",
+      "tf_today": 250
+    },
+    {
+      "articles": [
+        "latent-space--622506f9",
+        "latent-space--93d09ea1",
+        "latent-space--97e6bfdd",
+        "latent-space--e5214351",
+        "latent-space--f0c52122"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 30.133366,
+      "term": "foundation models",
+      "tf_today": 8
+    }
+  ],
+  "date": "2026-11-05",
+  "evidence_article_ids": [
+    "latent-space--622506f9",
+    "latent-space--93d09ea1",
+    "latent-space--97e6bfdd",
+    "latent-space--e5214351",
+    "latent-space--f0c52122"
+  ],
+  "judge": {
+    "input_tokens": 26663,
+    "model": "jev-1.14.0",
+    "pool_size": 53,
+    "signals": {
+      "agent foundation models": {
+        "dominance": 2.39,
+        "event": 0.94,
+        "form": 0.86,
+        "novelty": 0.46,
+        "specificity": 1.84
+      },
+      "axion 1.0": {
+        "dominance": 2.43,
+        "event": 0.94,
+        "form": 0.94,
+        "novelty": 0.87,
+        "specificity": 2.0
+      },
+      "axion1": {
+        "dominance": 2.35,
+        "event": 0.93,
+        "form": 0.78,
+        "novelty": 0.86,
+        "specificity": 1.97
+      },
+      "axion1-0": {
+        "dominance": 2.44,
+        "event": 0.92,
+        "form": 0.6,
+        "novelty": 0.86,
+        "specificity": 1.99
+      },
+      "conductor": {
+        "dominance": 1.93,
+        "event": 0.97,
+        "form": 0.92,
+        "novelty": 0.85,
+        "specificity": 1.71
+      },
+      "foundation models": {
+        "dominance": 2.78,
+        "event": 0.96,
+        "form": 0.91,
+        "novelty": 0.34,
+        "specificity": 1.82
+      },
+      "frontier-level": {
+        "dominance": 2.27,
+        "event": 0.95,
+        "form": 0.72,
+        "novelty": 0.45,
+        "specificity": 1.33
+      },
+      "hugging face": {
+        "dominance": 2.45,
+        "event": 0.74,
+        "form": 0.73,
+        "novelty": 0.37,
+        "specificity": 1.21
+      },
+      "it's swapping season": {
+        "dominance": 2.08,
+        "event": 0.87,
+        "form": 0.8,
+        "novelty": 0.73,
+        "specificity": 0.1
+      },
+      "kimi-k3.1": {
+        "dominance": 1.63,
+        "event": 0.66,
+        "form": 0.84,
+        "novelty": 0.84,
+        "specificity": 2.0
+      },
+      "open agent foundation": {
+        "dominance": 2.35,
+        "event": 0.88,
+        "form": 0.58,
+        "novelty": 0.61,
+        "specificity": 1.79
+      },
+      "open agent foundation models": {
+        "dominance": 2.45,
+        "event": 0.95,
+        "form": 0.84,
+        "novelty": 0.66,
+        "specificity": 1.78
+      },
+      "openai": {
+        "dominance": 2.17,
+        "event": 0.96,
+        "form": 0.89,
+        "novelty": 0.66,
+        "specificity": 1.04
+      },
+      "swapping season": {
+        "dominance": 2.1,
+        "event": 0.85,
+        "form": 0.89,
+        "novelty": 0.77,
+        "specificity": 0.11
+      },
+      "token market share": {
+        "dominance": 1.96,
+        "event": 0.58,
+        "form": 0.92,
+        "novelty": 0.67,
+        "specificity": 1.82
+      },
+      "training recipe": {
+        "dominance": 2.31,
+        "event": 0.87,
+        "form": 0.86,
+        "novelty": 0.78,
+        "specificity": 1.96
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "axion 1.0",
+      "training recipe",
+      "kimi-k3.1"
+    ]
+  },
+  "label": "Axion 1.0",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://arxiv.org/abs/2611.03233",
+        "https://github.com/bytedance/axion1_0",
+        "https://huggingface.co/Axion1-0"
+      ],
+      "text": "Axion 1.0 is a family of open-source agent foundation models developed by ByteDance that combines strong scientific reasoning, tool use, and information-seeking abilities with a streamlined training approach: two lightweight supervised fine-tuning stages followed by reinforcement learning, without mid-training, DPO, or on-policy distillation. Released in 122B dense and 35B Mixture-of-Experts variants, the models are designed for agentic tasks such as multi-step problem solving, web-based research, and code execution. The fully open release includes weights, training data, code, and a reproducible recipe, positioning Axion 1.0 as a community resource for advancing open agent research."
+    },
+    "generated_at": "2026-11-05T14:38:54.473835+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "ByteDance released Axion 1.0, a fully open agent foundation model family that achieves frontier-level performance with a radically simplified training recipe — two supervised fine-tuning stages followed by reinforcement learning, omitting mid-training, DPO, and on-policy distillation. The 122B and 35B (MoE) checkpoints are available on Hugging Face alongside training data and code on GitHub. Axion 1.0-122B scores 59.0 on HLE with restricted web access, 87.0 on FrontierScience Olympiad, and 66.7 on FrontierScience Research, while the 35B variant reaches 62.2 on SEAL-0. The project, led by ByteDance researchers with academic collaborators from Duke, UMD, and UB, demonstrates that high-quality data and a lean three-stage pipeline can yield strong scientific reasoning, tool use, and information-seeking capabilities. Meanwhile, other Chinese labs are also making waves: MiniMax and Moonshot appear in today's trending terms, and Xiaomi's AI activity registers heavily in the corpus.",
+    "why": "Axion 1.0 trended today because ByteDance publicly released the complete open-source package — model weights for both 122B and 35B variants, training datasets, reproduction code, and a detailed arXiv paper — all on the same day. The release's emphasis on a minimal three-stage recipe (2 SFT + RL) that matches or exceeds proprietary agents on benchmarks like HLE, FrontierScience, and SEAL-0 sparked immediate discussion across AI research channels."
+  },
+  "score": 161.6302,
+  "word": "axion 1.0"
+}

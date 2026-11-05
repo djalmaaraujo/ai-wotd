@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--93d09ea1",
+  "author": null,
+  "content_chars": 6342,
+  "content_sha256": "c5a9d9a47dfa9cce9a1d721fd1d726c384c6d7c5be53fe47e672236c8bc1702d",
+  "content_tokens": 1585,
+  "fetched_at": "2026-11-05T14:38:07Z",
+  "kind": "article",
+  "published_at": "2026-11-05T06:24:09+00:00",
+  "snippet": "Yuqi Jia1 · Yunjie Tian2,† · Jiayu Zheng2 · Yijun Liang3 · Jingchen Sun4 · Mengyu Zhao2 · Di Fu2 1 Duke University 2 ByteDance 3 University of Maryland, College Park 4 University at Buffalo † Project Lead - Three-stage training. Two stages of supervised fine-tuning (SFT)…",
+  "source_id": "latent-space",
+  "title": "GitHub - bytedance/axion1_0: Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released. · GitHub",
+  "top_terms": [
+    [
+      "sft",
+      17
+    ],
+    [
+      "axion",
+      14
+    ],
+    [
+      "training",
+      14
+    ],
+    [
+      "data",
+      12
+    ],
+    [
+      "axion 1.0",
+      10
+    ],
+    [
+      "rl",
+      10
+    ],
+    [
+      "stage",
+      9
+    ],
+    [
+      "agent",
+      7
+    ],
+    [
+      "checkpoint",
+      7
+    ],
+    [
+      "evaluation",
+      7
+    ],
+    [
+      "model",
+      7
+    ],
+    [
+      "two-stage",
+      6
+    ],
+    [
+      "export",
+      5
+    ],
+    [
+      "ii",
+      5
+    ],
+    [
+      "paper",
+      5
+    ],
+    [
+      "recipe",
+      5
+    ],
+    [
+      "stage ii",
+      5
+    ],
+    [
+      "two-stage sft",
+      5
+    ],
+    [
+      "uses",
+      5
+    ],
+    [
+      "answers",
+      4
+    ]
+  ],
+  "url": "https://github.com/bytedance/axion1_0",
+  "url_canonical": "https://github.com/bytedance/axion1_0",
+  "via_source_id": "latent-space"
+}

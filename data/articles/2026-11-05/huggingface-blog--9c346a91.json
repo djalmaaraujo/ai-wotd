@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--9c346a91",
+  "author": "Hugging Face Blog",
+  "content_chars": 8171,
+  "content_sha256": "b2dda9042396d5f22b3369cdb6ec0c2c77a46ca07fe3209880cf12c66a31c605",
+  "content_tokens": 2042,
+  "fetched_at": "2026-11-05T14:35:00Z",
+  "kind": "article",
+  "published_at": "2026-11-05T00:00:00+00:00",
+  "snippet": "Two weeks ago, we opened up Phonon, our small text-to-speech model that runs on your own device. It needs no server and no network, and what you type stays with you. We've been very happy with the reception so far. So here's the story of the launch: why we built Phonon, what it…",
+  "source_id": "huggingface-blog",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "top_terms": [
+    [
+      "phonon",
+      31
+    ],
+    [
+      "audio",
+      22
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "voice",
+      14
+    ],
+    [
+      "models",
+      10
+    ],
+    [
+      "tts",
+      10
+    ],
+    [
+      "latents",
+      9
+    ],
+    [
+      "processor",
+      9
+    ],
+    [
+      "device",
+      8
+    ],
+    [
+      "text",
+      8
+    ],
+    [
+      "transformers",
+      8
+    ],
+    [
+      "outputs",
+      7
+    ],
+    [
+      "hugging",
+      6
+    ],
+    [
+      "runs",
+      6
+    ],
+    [
+      "face",
+      5
+    ],
+    [
+      "first",
+      5
+    ],
+    [
+      "gradium",
+      5
+    ],
+    [
+      "hugging face",
+      5
+    ],
+    [
+      "num",
+      5
+    ],
+    [
+      "prompt",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "url_canonical": "https://huggingface.co/blog/phonon-tts",
+  "via_source_id": null
+}

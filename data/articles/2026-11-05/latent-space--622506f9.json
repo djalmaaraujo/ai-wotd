@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--622506f9",
+  "author": null,
+  "content_chars": 10905,
+  "content_sha256": "3441742b9fadef89a2ff7b8a1b3388c316fccf03dc8f8976e5549a00deeaac2d",
+  "content_tokens": 2726,
+  "fetched_at": "2026-11-05T14:38:08Z",
+  "kind": "article",
+  "published_at": "2026-11-05T06:24:09+00:00",
+  "snippet": "id stringlengths 13 13 | question stringlengths 212 4.16k | response stringlengths 220 410k | num_messages int64 3 135 | messages listlengths 3 135 | |---|---|---|---|---| stage1-000000 | A standard potassium poly(vinylsulfate) solution contains PVSK polymer chains at…",
+  "source_id": "latent-space",
+  "title": "Axion1-0/axion-training-data · Datasets at Hugging Face",
+  "top_terms": [
+    [
+      "assistant",
+      13
+    ],
+    [
+      "system",
+      13
+    ],
+    [
+      "truncated",
+      12
+    ],
+    [
+      "answer",
+      11
+    ],
+    [
+      "content",
+      11
+    ],
+    [
+      "messages",
+      11
+    ],
+    [
+      "role",
+      11
+    ],
+    [
+      "conduct",
+      10
+    ],
+    [
+      "core",
+      10
+    ],
+    [
+      "core function",
+      10
+    ],
+    [
+      "core function is",
+      10
+    ],
+    [
+      "deep",
+      10
+    ],
+    [
+      "deep research",
+      10
+    ],
+    [
+      "deep research assistant",
+      10
+    ],
+    [
+      "function",
+      10
+    ],
+    [
+      "function is",
+      10
+    ],
+    [
+      "function is to",
+      10
+    ],
+    [
+      "is to conduct",
+      10
+    ],
+    [
+      "research",
+      10
+    ],
+    [
+      "research assistant",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/datasets/Axion1-0/axion-training-data",
+  "url_canonical": "https://huggingface.co/datasets/Axion1-0/axion-training-data",
+  "via_source_id": "latent-space"
+}

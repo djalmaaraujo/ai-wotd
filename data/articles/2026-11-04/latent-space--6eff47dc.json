@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--6eff47dc",
+  "author": null,
+  "content_chars": 2253,
+  "content_sha256": "973bd2f58b93f834d6be0cfcf4bdf0f8b536471dac1049851593535ba6b13026",
+  "content_tokens": 563,
+  "fetched_at": "2026-11-05T14:38:27Z",
+  "kind": "article",
+  "published_at": "2026-11-04T19:17:30+00:00",
+  "snippet": "Computer Science > Artificial Intelligence Title:Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention View PDF HTML (experimental)Abstract:Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where…",
+  "source_id": "latent-space",
+  "title": "[2610.42147] Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+  "top_terms": [
+    [
+      "attention",
+      14
+    ],
+    [
+      "context",
+      9
+    ],
+    [
+      "ultra-long",
+      6
+    ],
+    [
+      "ultra-long context",
+      6
+    ],
+    [
+      "sparse",
+      5
+    ],
+    [
+      "sparse attention",
+      5
+    ],
+    [
+      "accuracy",
+      4
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "latent",
+      4
+    ],
+    [
+      "at ultra-long",
+      3
+    ],
+    [
+      "at ultra-long context",
+      3
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "full attention",
+      3
+    ],
+    [
+      "latent sparse",
+      3
+    ],
+    [
+      "latent sparse attention",
+      3
+    ],
+    [
+      "lsa",
+      3
+    ],
+    [
+      "models",
+      3
+    ],
+    [
+      "tokens",
+      3
+    ],
+    [
+      "towards",
+      3
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2610.42147",
+  "url_canonical": "https://arxiv.org/abs/2610.42147",
+  "via_source_id": "latent-space"
+}

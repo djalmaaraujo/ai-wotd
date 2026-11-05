@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3dc25169",
+  "author": null,
+  "content_chars": 18289,
+  "content_sha256": "5ae1ae27e1a14c9d13930789eae55c57a8420e5213ee26fc944b6b8558934b06",
+  "content_tokens": 4572,
+  "fetched_at": "2026-11-05T14:38:38Z",
+  "kind": "article",
+  "published_at": "2026-11-04T19:17:30+00:00",
+  "snippet": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, using a variety of recent tools and algorithms or even via direct weight editing. These results show sparks of Weight-Space Programming, which may extend beyond what we’d…",
+  "source_id": "latent-space",
+  "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "top_terms": [
+    [
+      "astra",
+      46
+    ],
+    [
+      "weights",
+      45
+    ],
+    [
+      "network",
+      41
+    ],
+    [
+      "forward",
+      24
+    ],
+    [
+      "neural",
+      24
+    ],
+    [
+      "forward passes",
+      21
+    ],
+    [
+      "passes",
+      21
+    ],
+    [
+      "networks",
+      20
+    ],
+    [
+      "neural network",
+      18
+    ],
+    [
+      "llms",
+      15
+    ],
+    [
+      "the weights",
+      15
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "trained",
+      13
+    ],
+    [
+      "programming",
+      12
+    ],
+    [
+      "weight-space",
+      12
+    ],
+    [
+      "weight-space programming",
+      12
+    ],
+    [
+      "write",
+      12
+    ],
+    [
+      "language",
+      10
+    ],
+    [
+      "layer",
+      10
+    ],
+    [
+      "network weights",
+      10
+    ]
+  ],
+  "url": "https://rikiyat.github.io/blog/weight-space-programming",
+  "url_canonical": "https://rikiyat.github.io/blog/weight-space-programming",
+  "via_source_id": "latent-space"
+}
