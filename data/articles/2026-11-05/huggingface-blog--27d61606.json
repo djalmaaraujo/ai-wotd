@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--27d61606",
+  "author": "Hugging Face Blog",
+  "content_chars": 8840,
+  "content_sha256": "5ff8d4548198b9e8f444c52dc52d8558947ea3ce7e9a49bdd677d2f3280b1b91",
+  "content_tokens": 2210,
+  "fetched_at": "2026-11-06T14:12:45Z",
+  "kind": "article",
+  "published_at": "2026-11-05T19:35:16+00:00",
+  "snippet": "NVIDIA Cosmos world model development platform adds four new open-weight checkpoints to its Cosmos 3 model family for generating interactive world simulation and multi-sensor multi-view driving scenes: - 🌦️ Cosmos3-Nano-Transfer-Auto : Generate multi-view driving data with…",
+  "source_id": "huggingface-blog",
+  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+  "top_terms": [
+    [
+      "controls",
+      17
+    ],
+    [
+      "driving",
+      10
+    ],
+    [
+      "open",
+      10
+    ],
+    [
+      "video",
+      10
+    ],
+    [
+      "camera",
+      9
+    ],
+    [
+      "data",
+      9
+    ],
+    [
+      "model",
+      9
+    ],
+    [
+      "observations",
+      9
+    ],
+    [
+      "training",
+      9
+    ],
+    [
+      "generation",
+      8
+    ],
+    [
+      "history",
+      8
+    ],
+    [
+      "simulation",
+      8
+    ],
+    [
+      "lidar",
+      7
+    ],
+    [
+      "stage",
+      7
+    ],
+    [
+      "actions",
+      6
+    ],
+    [
+      "cosmos",
+      6
+    ],
+    [
+      "generated",
+      6
+    ],
+    [
+      "generates",
+      6
+    ],
+    [
+      "inference",
+      6
+    ],
+    [
+      "run",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "url_canonical": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--a50fd701",
+  "author": null,
+  "content_chars": 5152,
+  "content_sha256": "6af0254b8d16271ca131efac68413bcd34bc8c82ab6f6abbf41f8fe2b82ea6ba",
+  "content_tokens": 1288,
+  "fetched_at": "2026-11-06T14:15:39Z",
+  "kind": "article",
+  "published_at": "2026-11-06T10:35:21+00:00",
+  "snippet": "m10dis (\"M10 distributed\") runs Qwen3.8-Flash-Next-FP8, a 48-layer mixture-of-experts model with 512 experts per layer, on one consumer GPU plus 24 Maxwell GPUs from 2016: - 1× RTX 3070 Ti (8 GB) runs attention, linear attention (GDN), the router and the hyper-connections, all…",
+  "source_id": "latent-space",
+  "title": "GitHub - crgregersen/m10dis: Qwen3.8-Flash-Next-FP8 (48-layer MoE, 512 experts) on one RTX 3070 Ti plus 24 Maxwell GPUs from six Tesla M10 cards. PCIe multicast, GPU page-table remapping, 96 tok/s decode. · GitHub",
+  "top_terms": [
+    [
+      "md",
+      17
+    ],
+    [
+      "m10",
+      10
+    ],
+    [
+      "rtx",
+      10
+    ],
+    [
+      "layer",
+      8
+    ],
+    [
+      "docs",
+      6
+    ],
+    [
+      "gpu",
+      6
+    ],
+    [
+      "uvm",
+      6
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "gb",
+      5
+    ],
+    [
+      "gpus",
+      5
+    ],
+    [
+      "kernel",
+      5
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "page-table",
+      5
+    ],
+    [
+      "results",
+      5
+    ],
+    [
+      "runs",
+      5
+    ],
+    [
+      "worker",
+      5
+    ],
+    [
+      "write",
+      5
+    ],
+    [
+      "cards",
+      4
+    ],
+    [
+      "exchange",
+      4
+    ],
+    [
+      "expert",
+      4
+    ]
+  ],
+  "url": "https://github.com/crgregersen/m10dis",
+  "url_canonical": "https://github.com/crgregersen/m10dis",
+  "via_source_id": "latent-space"
+}

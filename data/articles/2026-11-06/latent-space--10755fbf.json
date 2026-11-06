@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--10755fbf",
+  "author": null,
+  "content_chars": 10577,
+  "content_sha256": "96eaab96998a4a083fb2c2c1664316129e599204040ab239411a23e372382ac3",
+  "content_tokens": 2644,
+  "fetched_at": "2026-11-06T14:15:37Z",
+  "kind": "article",
+  "published_at": "2026-11-06T10:35:21+00:00",
+  "snippet": "Imagine a world with no APIs for LLM inference. You could chat with models and give them tasks, but not integrate AI into your own workflows, systems, and custom applications. A few companies would have the capacity to run models on their own production servers; everyone else…",
+  "source_id": "latent-space",
+  "title": "One Year of Tinker: Turning Your Expertise into Custom Models - Thinking Machines Lab",
+  "top_terms": [
+    [
+      "models",
+      27
+    ],
+    [
+      "tinker",
+      22
+    ],
+    [
+      "training",
+      15
+    ],
+    [
+      "post-training",
+      10
+    ],
+    [
+      "users",
+      10
+    ],
+    [
+      "custom",
+      9
+    ],
+    [
+      "knowledge",
+      9
+    ],
+    [
+      "fine-tuning",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "customers",
+      7
+    ],
+    [
+      "data",
+      7
+    ],
+    [
+      "expertise",
+      7
+    ],
+    [
+      "frontier",
+      6
+    ],
+    [
+      "run",
+      6
+    ],
+    [
+      "best",
+      5
+    ],
+    [
+      "better",
+      5
+    ],
+    [
+      "cost",
+      5
+    ],
+    [
+      "custom models",
+      5
+    ],
+    [
+      "experience",
+      5
+    ],
+    [
+      "infrastructure",
+      5
+    ]
+  ],
+  "url": "https://thinkingmachines.ai/news/one-year-of-tinker",
+  "url_canonical": "https://thinkingmachines.ai/news/one-year-of-tinker",
+  "via_source_id": "latent-space"
+}

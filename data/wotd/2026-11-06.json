@@ -1,0 +1,262 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--1feebd43",
+        "latent-space--22a490e0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 270.49499,
+      "term": "inkling 2",
+      "tf_today": 54
+    },
+    {
+      "articles": [
+        "latent-space--1feebd43",
+        "latent-space--22a490e0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 270.49499,
+      "term": "inkling 2 small",
+      "tf_today": 54
+    },
+    {
+      "articles": [
+        "latent-space--10755fbf",
+        "latent-space--1feebd43",
+        "latent-space--22a490e0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 178.740437,
+      "term": "tinker",
+      "tf_today": 36
+    },
+    {
+      "articles": [
+        "latent-space--1feebd43",
+        "latent-space--22a490e0",
+        "latent-space--4ed34b4d",
+        "latent-space--a50fd701"
+      ],
+      "avg_tf_baseline": 6.0,
+      "df_today": 4,
+      "score": 131.009294,
+      "term": "row",
+      "tf_today": 198
+    },
+    {
+      "articles": [
+        "latent-space--1feebd43",
+        "latent-space--4ed34b4d"
+      ],
+      "avg_tf_baseline": 2.3333,
+      "df_today": 2,
+      "score": 102.875383,
+      "term": "highest",
+      "tf_today": 86
+    },
+    {
+      "articles": [
+        "latent-space--22a490e0",
+        "latent-space--ffd0512e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 96.566275,
+      "term": "viggle",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "huggingface-blog--f855f5a2",
+        "latent-space--1feebd43",
+        "latent-space--22a490e0",
+        "latent-space--4ed34b4d"
+      ],
+      "avg_tf_baseline": 9.6316,
+      "df_today": 4,
+      "score": 80.633814,
+      "term": "score",
+      "tf_today": 196
+    },
+    {
+      "articles": [
+        "huggingface-blog--f855f5a2",
+        "latent-space--1feebd43",
+        "latent-space--22a490e0",
+        "latent-space--4ed34b4d"
+      ],
+      "avg_tf_baseline": 10.6667,
+      "df_today": 4,
+      "score": 78.577416,
+      "term": "reported",
+      "tf_today": 209
+    },
+    {
+      "articles": [
+        "codenewsletter--e19c3098",
+        "mit-tech-review-ai--b71c92fa"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 71.148641,
+      "term": "cleaning",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "latent-space--10755fbf",
+        "latent-space--1feebd43",
+        "latent-space--22a490e0",
+        "latent-space--38446edb",
+        "latent-space--a6c306cf"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 67.58185,
+      "term": "thinking machines",
+      "tf_today": 15
+    }
+  ],
+  "date": "2026-11-06",
+  "evidence_article_ids": [
+    "latent-space--1feebd43",
+    "latent-space--22a490e0"
+  ],
+  "judge": {
+    "input_tokens": 28916,
+    "model": "jev-1.14.0",
+    "pool_size": 58,
+    "signals": {
+      "a-594b": {
+        "dominance": 2.26,
+        "event": 0.88,
+        "form": 0.13,
+        "novelty": 0.84,
+        "specificity": 1.89
+      },
+      "asr leaderboard": {
+        "dominance": 1.91,
+        "event": 0.93,
+        "form": 0.69,
+        "novelty": 0.68,
+        "specificity": 1.98
+      },
+      "critical": {
+        "dominance": 2.58,
+        "event": 0.96,
+        "form": 0.74,
+        "novelty": 0.78,
+        "specificity": 1.37
+      },
+      "inkling 2 small": {
+        "dominance": 2.49,
+        "event": 0.97,
+        "form": 0.93,
+        "novelty": 0.89,
+        "specificity": 2.0
+      },
+      "lab": {
+        "dominance": 2.45,
+        "event": 0.75,
+        "form": 0.75,
+        "novelty": 0.56,
+        "specificity": 0.97
+      },
+      "linux": {
+        "dominance": 1.8,
+        "event": 0.68,
+        "form": 0.9,
+        "novelty": 0.75,
+        "specificity": 0.07
+      },
+      "m10dis": {
+        "dominance": 1.81,
+        "event": 0.44,
+        "form": 0.73,
+        "novelty": 0.79,
+        "specificity": 1.94
+      },
+      "machines lab": {
+        "dominance": 2.53,
+        "event": 0.86,
+        "form": 0.56,
+        "novelty": 0.85,
+        "specificity": 1.05
+      },
+      "moe": {
+        "dominance": 1.87,
+        "event": 0.73,
+        "form": 0.57,
+        "novelty": 0.63,
+        "specificity": 1.97
+      },
+      "nvidia rtx spark laptop": {
+        "dominance": 1.91,
+        "event": 0.66,
+        "form": 0.88,
+        "novelty": 0.83,
+        "specificity": 1.89
+      },
+      "openai": {
+        "dominance": 2.73,
+        "event": 0.97,
+        "form": 0.9,
+        "novelty": 0.72,
+        "specificity": 1.09
+      },
+      "robot": {
+        "dominance": 1.99,
+        "event": 0.82,
+        "form": 0.93,
+        "novelty": 0.77,
+        "specificity": 0.43
+      },
+      "small": {
+        "dominance": 2.37,
+        "event": 0.9,
+        "form": 0.61,
+        "novelty": 0.54,
+        "specificity": 1.66
+      },
+      "thinking machines lab": {
+        "dominance": 2.73,
+        "event": 0.92,
+        "form": 0.89,
+        "novelty": 0.88,
+        "specificity": 1.15
+      },
+      "tinker": {
+        "dominance": 2.56,
+        "event": 0.76,
+        "form": 0.86,
+        "novelty": 0.84,
+        "specificity": 1.62
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "inkling 2 small",
+      "nvidia rtx spark laptop"
+    ]
+  },
+  "label": "Inkling 2 Small",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://thinkingmachines.ai/news/inkling-2-small",
+        "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/"
+      ],
+      "text": "Inkling 2 Small is a Mixture-of-Experts (MoE) large language model developed by Thinking Machines Lab. It contains 594 billion total parameters with 17 billion active per forward pass, accepts both text and image inputs, and offers variable inference effort. Released in 2025, it was pre-trained from scratch in under 68 hours on fewer than 12 trillion tokens using NVFP4 precision and a single joint reinforcement-learning run, achieving a score of 31 on the Artificial Analysis Intelligence Index."
+    },
+    "generated_at": "2026-11-06T14:16:13.272649+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Thinking Machines Lab released Inkling 2 Small, its second-generation Mixture-of-Experts model with 594 billion total parameters and 17 billion active parameters. The model supports image inputs and variable compute effort, achieving a score of 31 on the Artificial Analysis Intelligence Index — surpassing the lab's prior models on agentic coding, vision, knowledge work, and reasoning. According to the company, the gains stem from improvements across the training pipeline, including more efficient pre-training and a large, unified reinforcement-learning run. A companion report notes the model was pre-trained from scratch in under 68 hours on fewer than 12 trillion tokens using native NVFP4 precision, with a single joint RL run, and outperforms Muse Spark. The launch signals that Thinking Machines, after early cofounder departures, has established itself as a high-functioning frontier neolab.",
+    "why": "Inkling 2 Small trended because Thinking Machines Lab announced its release today with detailed architecture and benchmark data, and a widely read Latent Space newsletter issue highlighted its unusually fast 68-hour, sub-12T-token training run and competitive performance against Muse Spark."
+  },
+  "score": 270.49499,
+  "word": "inkling 2 small"
+}

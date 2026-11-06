@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--f855f5a2",
+  "author": "Hugging Face Blog",
+  "content_chars": 24425,
+  "content_sha256": "8917c5095cbe4f330fe6ee17ef5f0b69b1b1ecd4dedde4c3fcd786d380a8495b",
+  "content_tokens": 6106,
+  "fetched_at": "2026-11-06T14:12:45Z",
+  "kind": "article",
+  "published_at": "2026-11-06T14:00:48+00:00",
+  "snippet": "💻 Code | 📊 Data | 🤖 Models | 📖 Documentation Robots are learning to fold laundry, sort parts, and handle unfamiliar objects. But those demonstrations are often rather narrow and don't explain what a robot has learned or why it fails. To study a complex system, scientists often…",
+  "source_id": "huggingface-blog",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "top_terms": [
+    [
+      "models",
+      36
+    ],
+    [
+      "robot",
+      33
+    ],
+    [
+      "model",
+      30
+    ],
+    [
+      "toyblocks",
+      30
+    ],
+    [
+      "tasks",
+      28
+    ],
+    [
+      "training",
+      24
+    ],
+    [
+      "blocks",
+      23
+    ],
+    [
+      "agent",
+      21
+    ],
+    [
+      "task",
+      21
+    ],
+    [
+      "block",
+      20
+    ],
+    [
+      "maniflow",
+      19
+    ],
+    [
+      "the agent",
+      19
+    ],
+    [
+      "data",
+      18
+    ],
+    [
+      "skills",
+      17
+    ],
+    [
+      "demonstrations",
+      14
+    ],
+    [
+      "simulation",
+      14
+    ],
+    [
+      "skill",
+      14
+    ],
+    [
+      "actions",
+      13
+    ],
+    [
+      "molmo",
+      13
+    ],
+    [
+      "molmo 2",
+      13
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "url_canonical": "https://huggingface.co/blog/allenai/toyblocks",
+  "via_source_id": null
+}

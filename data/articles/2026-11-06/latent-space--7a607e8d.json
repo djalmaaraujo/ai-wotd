@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--7a607e8d",
+  "author": null,
+  "content_chars": 9953,
+  "content_sha256": "28f2075453dad38c8e533c48aa381b9dafb890a53bf308a368d7e56706306427",
+  "content_tokens": 2488,
+  "fetched_at": "2026-11-06T14:15:40Z",
+  "kind": "article",
+  "published_at": "2026-11-06T10:35:21+00:00",
+  "snippet": "Can you run Linux on the Nvidia RTX Spark laptop? Yes, but it comes with a serious catch. Linux installs and runs on RTX Spark laptops like the MSI Prestige N16 Flip AI Plus, including GPU acceleration through Nvidia’s open kernel driver. The problem is clock speed: once the…",
+  "source_id": "latent-space",
+  "title": "Linux on the Nvidia RTX Spark Laptop: What Actually Works | MindStudio",
+  "top_terms": [
+    [
+      "linux",
+      43
+    ],
+    [
+      "windows",
+      32
+    ],
+    [
+      "laptop",
+      26
+    ],
+    [
+      "gpu",
+      25
+    ],
+    [
+      "nvidia",
+      21
+    ],
+    [
+      "driver",
+      17
+    ],
+    [
+      "power",
+      17
+    ],
+    [
+      "spark",
+      16
+    ],
+    [
+      "the laptop",
+      15
+    ],
+    [
+      "per second",
+      11
+    ],
+    [
+      "second",
+      11
+    ],
+    [
+      "tokens",
+      11
+    ],
+    [
+      "tokens per",
+      11
+    ],
+    [
+      "tokens per second",
+      11
+    ],
+    [
+      "wsl",
+      11
+    ],
+    [
+      "rtx",
+      10
+    ],
+    [
+      "rtx spark",
+      10
+    ],
+    [
+      "gb",
+      9
+    ],
+    [
+      "clock",
+      8
+    ],
+    [
+      "native",
+      8
+    ]
+  ],
+  "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+  "url_canonical": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+  "via_source_id": "latent-space"
+}

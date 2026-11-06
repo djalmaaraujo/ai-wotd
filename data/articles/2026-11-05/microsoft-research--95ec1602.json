@@ -1,0 +1,98 @@
+{
+  "article_id": "microsoft-research--95ec1602",
+  "author": "Alex Lavaee, Matthai Philipose",
+  "content_chars": 35298,
+  "content_sha256": "a0fe93d8c4e1bacf5b47fc223bf2dc638f02ff23358dbf8c668df0c11a5e3c54",
+  "content_tokens": 8824,
+  "fetched_at": "2026-11-06T14:15:32Z",
+  "kind": "article",
+  "published_at": "2026-11-05T16:00:00+00:00",
+  "snippet": "At a glance - Formal methods for everyday software. PDD Kit helps you turn your intent into a formal spec, then proves the code your agent writes for every input and uses tests where a proof can’t reach. It takes formal methods beyond niche, specialist work to engineers without…",
+  "source_id": "microsoft-research",
+  "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+  "top_terms": [
+    [
+      "password",
+      66
+    ],
+    [
+      "login",
+      63
+    ],
+    [
+      "proof",
+      53
+    ],
+    [
+      "code",
+      52
+    ],
+    [
+      "spec",
+      47
+    ],
+    [
+      "pdd",
+      40
+    ],
+    [
+      "kit",
+      39
+    ],
+    [
+      "pdd kit",
+      38
+    ],
+    [
+      "verus",
+      38
+    ],
+    [
+      "email",
+      36
+    ],
+    [
+      "token",
+      34
+    ],
+    [
+      "matches",
+      33
+    ],
+    [
+      "hash",
+      28
+    ],
+    [
+      "the proof",
+      26
+    ],
+    [
+      "formal",
+      24
+    ],
+    [
+      "tests",
+      24
+    ],
+    [
+      "bcrypt",
+      23
+    ],
+    [
+      "intent",
+      23
+    ],
+    [
+      "role",
+      23
+    ],
+    [
+      "username",
+      23
+    ]
+  ],
+  "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+  "url_canonical": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1feebd43",
+  "author": null,
+  "content_chars": 35512,
+  "content_sha256": "2db90f88a3e554865330d04b04b89e1cf628c69472ad9b4c6dfa35e9231d5a2c",
+  "content_tokens": 8878,
+  "fetched_at": "2026-11-06T14:15:38Z",
+  "kind": "article",
+  "published_at": "2026-11-06T10:35:21+00:00",
+  "snippet": "Today we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active, and supports image inputs and variable effort. Inkling 2 Small far surpasses our previous models’ scores on the Artificial Analysis…",
+  "source_id": "latent-space",
+  "title": "Introducing Inkling 2 Small - Thinking Machines Lab",
+  "top_terms": [
+    [
+      "in this row",
+      194
+    ],
+    [
+      "reported",
+      194
+    ],
+    [
+      "row",
+      194
+    ],
+    [
+      "this row",
+      194
+    ],
+    [
+      "score",
+      179
+    ],
+    [
+      "reported score",
+      170
+    ],
+    [
+      "reported score in",
+      170
+    ],
+    [
+      "score in",
+      170
+    ],
+    [
+      "score in this",
+      170
+    ],
+    [
+      "second-highest",
+      86
+    ],
+    [
+      "second-highest reported",
+      86
+    ],
+    [
+      "second-highest reported score",
+      86
+    ],
+    [
+      "highest",
+      84
+    ],
+    [
+      "highest reported",
+      84
+    ],
+    [
+      "highest reported score",
+      84
+    ],
+    [
+      "inkling",
+      64
+    ],
+    [
+      "small",
+      54
+    ],
+    [
+      "inkling 2",
+      50
+    ],
+    [
+      "inkling 2 small",
+      50
+    ],
+    [
+      "model",
+      33
+    ]
+  ],
+  "url": "https://thinkingmachines.ai/news/inkling-2-small",
+  "url_canonical": "https://thinkingmachines.ai/news/inkling-2-small",
+  "via_source_id": "latent-space"
+}
