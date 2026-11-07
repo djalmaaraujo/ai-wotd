@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e752e529",
+  "author": null,
+  "content_chars": 11012,
+  "content_sha256": "4cebf8fd8334e563ed20274ea191395967f84b27d2d3b440298644bc2496e7f1",
+  "content_tokens": 2753,
+  "fetched_at": "2026-11-07T12:59:14Z",
+  "kind": "article",
+  "published_at": "2026-11-07T03:04:53+00:00",
+  "snippet": "CCORE GLB-3D-Coder is a specialized 4B coding model for low-poly game assets and procedural scenes. Describe a character, prop, building, or environment, and the model writes a complete Three.js HTML/JavaScript page with a preview and an Export GLB button. Open the page, inspect…",
+  "source_id": "latent-space",
+  "title": "ccore/Qwen3.5-4B-GLB-3D-Coder · Hugging Face",
+  "top_terms": [
+    [
+      "create",
+      31
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "glb",
+      12
+    ],
+    [
+      "ccore",
+      10
+    ],
+    [
+      "models",
+      10
+    ],
+    [
+      "prompt",
+      9
+    ],
+    [
+      "qwen3.5",
+      9
+    ],
+    [
+      "gguf",
+      8
+    ],
+    [
+      "small",
+      8
+    ],
+    [
+      "the model",
+      8
+    ],
+    [
+      "weights",
+      8
+    ],
+    [
+      "asset",
+      7
+    ],
+    [
+      "assets",
+      7
+    ],
+    [
+      "html",
+      7
+    ],
+    [
+      "animation",
+      6
+    ],
+    [
+      "checkpoint",
+      6
+    ],
+    [
+      "original",
+      6
+    ],
+    [
+      "stone",
+      6
+    ],
+    [
+      "training",
+      6
+    ],
+    [
+      "both models",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
+  "url_canonical": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
+  "via_source_id": "latent-space"
+}

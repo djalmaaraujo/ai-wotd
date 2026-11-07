@@ -3493,6 +3493,10 @@
     "article_id": "latent-space--5b9b5eca",
     "first_seen_date": "2026-10-29"
   },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash": {
+    "article_id": "latent-space--6c2406a6",
+    "first_seen_date": "2026-11-07"
+  },
   "https://blog.google/products/search/search-language-understanding-bert": {
     "article_id": "nlp-newsletter--39b8ff87",
     "first_seen_date": "2026-09-23"
@@ -5377,6 +5381,10 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://dubeykartikay.com/posts/ai-agent-rearchitecture-lessons": {
+    "article_id": "latent-space--2ace6a9f",
+    "first_seen_date": "2026-11-07"
+  },
   "https://earendil.com/posts/pi-1-0": {
     "article_id": "latent-space--cbc79b4b",
     "first_seen_date": "2026-10-02"
@@ -5899,6 +5907,10 @@
     "article_id": "latent-space--14027e6c",
     "first_seen_date": "2026-10-28"
   },
+  "https://github.com/anthropics/claude-code/issues/107757": {
+    "article_id": "latent-space--a9049394",
+    "first_seen_date": "2026-11-07"
+  },
   "https://github.com/anthropics/claude-code/issues/91870": {
     "article_id": "latent-space--239485e4",
     "first_seen_date": "2026-09-29"
@@ -6031,6 +6043,10 @@
   "https://github.com/huggingface/transformers": {
     "article_id": "ahead-of-ai--a4f6761c",
     "first_seen_date": "2026-09-23"
+  },
+  "https://github.com/hydralauncher/hydra": {
+    "article_id": "latent-space--c4124ad4",
+    "first_seen_date": "2026-11-07"
   },
   "https://github.com/ickma2311/jev-baselines-eval": {
     "article_id": "latent-space--e44bdd32",
@@ -6373,6 +6389,10 @@
   "https://huggingface.co/KittenML/kitten-tts-2": {
     "article_id": "latent-space--27cd8b72",
     "first_seen_date": "2026-10-23"
+  },
+  "https://huggingface.co/LastMachine/Qwen3-8B-ZeroZero-Heretic": {
+    "article_id": "latent-space--0945d5d6",
+    "first_seen_date": "2026-11-07"
   },
   "https://huggingface.co/LessThanThreeAI/Gemma-4-31B-Humanlike-Chat": {
     "article_id": "latent-space--22967de4",
@@ -10371,6 +10391,10 @@
     "article_id": "latent-space--1cb97588",
     "first_seen_date": "2026-10-27"
   },
+  "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder": {
+    "article_id": "latent-space--e752e529",
+    "first_seen_date": "2026-11-07"
+  },
   "https://huggingface.co/collections/LiquidAI/lfm3": {
     "article_id": "latent-space--c77f7aac",
     "first_seen_date": "2026-10-29"
@@ -10588,6 +10612,11 @@
   "https://huggingface.co/spaces/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat": {
     "article_id": "latent-space--9f864a85",
     "first_seen_date": "2026-10-03"
+  },
+  "https://huggingface.co/spaces/ccore/RIFTWARD": {
+    "article_id": null,
+    "first_seen_date": "2026-11-07",
+    "status": "fetch_failed"
   },
   "https://huggingface.co/spaces/webml-community/ternary-bonsai-2-webgpu-kernels": {
     "article_id": "latent-space--14406940",
@@ -10889,6 +10918,10 @@
     "article_id": "latent-space--031a495b",
     "first_seen_date": "2026-10-28"
   },
+  "https://latent.space/p/ainews-anthropic-ipo-whither-now": {
+    "article_id": "latent-space--65f92076",
+    "first_seen_date": "2026-11-07"
+  },
   "https://latent.space/p/ainews-anthropic-s1": {
     "article_id": "latent-space--27b5391b",
     "first_seen_date": "2026-10-27"
@@ -10940,6 +10973,10 @@
   "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora": {
     "article_id": "latent-space--a7aa5617",
     "first_seen_date": "2026-11-03"
+  },
+  "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich": {
+    "article_id": "latent-space--b3590721",
+    "first_seen_date": "2026-11-07"
   },
   "https://latent.space/p/elorian": {
     "article_id": "latent-space--2f5bf006",
@@ -11151,6 +11188,10 @@
     "article_id": "ai-snake-oil--787b5119",
     "first_seen_date": "2026-09-23"
   },
+  "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment": {
+    "article_id": "latent-space--ea81c7d9",
+    "first_seen_date": "2026-11-07"
+  },
   "https://metr.org/notes/2026-02-10-simpler-ai-timelines-model": {
     "article_id": "ai-snake-oil--647309fd",
     "first_seen_date": "2026-09-23"
@@ -11347,6 +11388,11 @@
     "first_seen_date": "2026-10-28",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-anthropic-ipo-whither-now%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-07",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-anthropic-s1%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-27",
@@ -11410,6 +11456,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fbuilding_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-03",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fcontrolling-biology-fabian-theis-helmholtz-munich%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-07",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Felorian%2F": {
@@ -12757,6 +12808,10 @@
     "article_id": "openai-blog--efc2dff7",
     "first_seen_date": "2026-06-30"
   },
+  "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+    "article_id": "openai-blog--e60076df",
+    "first_seen_date": "2026-11-07"
+  },
   "https://openai.com/index/merge-builds-with-openai": {
     "article_id": "openai-blog--21817690",
     "first_seen_date": "2026-11-06"
@@ -12982,6 +13037,10 @@
   "https://openai.com/index/partnering-with-codeai": {
     "article_id": "openai-blog--f2aa154d",
     "first_seen_date": "2026-08-19"
+  },
+  "https://openai.com/index/partnering-with-hacktron": {
+    "article_id": "openai-blog--91fb3f2f",
+    "first_seen_date": "2026-11-07"
   },
   "https://openai.com/index/patch-the-planet": {
     "article_id": "openai-blog--5d19cfa6",
@@ -13677,6 +13736,10 @@
     "article_id": "latent-space--e310d17b",
     "first_seen_date": "2026-09-23"
   },
+  "https://polymarket.com/event/anthropic-ipo-by": {
+    "article_id": "latent-space--11c7e5ba",
+    "first_seen_date": "2026-11-07"
+  },
   "https://poolside.ai/": {
     "article_id": "ahead-of-ai--c1d7d460",
     "first_seen_date": "2026-09-23"
@@ -14197,6 +14260,10 @@
   "https://simonwillison.net/2026/Nov/5/paul-ford": {
     "article_id": "simonwillison--4d381038",
     "first_seen_date": "2026-11-06"
+  },
+  "https://simonwillison.net/2026/Nov/6/nilay-patel": {
+    "article_id": "simonwillison--473288e5",
+    "first_seen_date": "2026-11-07"
   },
   "https://simonwillison.net/2026/Oct/1/matthew-green": {
     "article_id": "simonwillison--f25b9339",
@@ -15457,6 +15524,10 @@
     "article_id": "one-useful-thing--497251e6",
     "first_seen_date": "2026-04-13"
   },
+  "https://www.anthropic.com/research/redesigning-source-control": {
+    "article_id": "latent-space--e3c7be19",
+    "first_seen_date": "2026-11-07"
+  },
   "https://www.anthropic.com/research/riemann-zeta": {
     "article_id": "interconnects--af2b853b",
     "first_seen_date": "2026-09-23"
@@ -15493,6 +15564,11 @@
   "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
+    "status": "fetch_failed"
+  },
+  "https://www.backblaze.com/cloud-storage/landing/ad/ai": {
+    "article_id": null,
+    "first_seen_date": "2026-11-07",
     "status": "fetch_failed"
   },
   "https://www.baseten.co/blog/how-we-built-the-worlds-fastest-api-for-glm-52": {
@@ -16722,6 +16798,10 @@
   "https://www.nature.com/articles/s41586-026-10658-6": {
     "article_id": "latent-space--bd21a16c",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.nature.com/articles/s41587-026-03307-w": {
+    "article_id": "latent-space--0b149d18",
+    "first_seen_date": "2026-11-07"
   },
   "https://www.nature.com/articles/s41746-025-02008-z": {
     "article_id": "one-useful-thing--86a108d6",

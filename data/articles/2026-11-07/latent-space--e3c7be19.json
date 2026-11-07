@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e3c7be19",
+  "author": null,
+  "content_chars": 21880,
+  "content_sha256": "3f2d94b98e17e0f74b5e197f5c73c34acc689d8ec723090a5dc332692593d643",
+  "content_tokens": 5470,
+  "fetched_at": "2026-11-07T12:59:17Z",
+  "kind": "article",
+  "published_at": "2026-11-07T03:04:53+00:00",
+  "snippet": "At Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven’t seen before. The…",
+  "source_id": "latent-space",
+  "title": "Redesigning source control at Anthropic \\ Anthropic",
+  "top_terms": [
+    [
+      "scion",
+      36
+    ],
+    [
+      "git",
+      31
+    ],
+    [
+      "code",
+      21
+    ],
+    [
+      "client",
+      20
+    ],
+    [
+      "control",
+      18
+    ],
+    [
+      "data",
+      17
+    ],
+    [
+      "claude",
+      16
+    ],
+    [
+      "source",
+      16
+    ],
+    [
+      "source control",
+      16
+    ],
+    [
+      "system",
+      14
+    ],
+    [
+      "every",
+      13
+    ],
+    [
+      "server",
+      13
+    ],
+    [
+      "the client",
+      13
+    ],
+    [
+      "repository",
+      11
+    ],
+    [
+      "scale",
+      11
+    ],
+    [
+      "built",
+      10
+    ],
+    [
+      "changes",
+      10
+    ],
+    [
+      "ci",
+      10
+    ],
+    [
+      "commit",
+      9
+    ],
+    [
+      "example",
+      9
+    ]
+  ],
+  "url": "https://www.anthropic.com/research/redesigning-source-control",
+  "url_canonical": "https://www.anthropic.com/research/redesigning-source-control",
+  "via_source_id": "latent-space"
+}

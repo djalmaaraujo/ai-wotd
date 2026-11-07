@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-06T14:16:15+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-07T12:59:41+00:00</lastBuildDate>
+    <item>
+      <title>GLB-3D-Coder (2026-11-07)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-07/</link>
+      <guid isPermaLink="false">wotd-2026-11-07</guid>
+      <pubDate>2026-11-07</pubDate>
+      <description>GLB-3D-Coder trended today because CCORE published the model on Hugging Face with a clear demo loop — natural-language prompt to runnable Three.js page to GLB asset — targeting a concrete workflow for indie game developers and 3D content creators.</description>
+    </item>
     <item>
       <title>Inkling 2 Small (2026-11-06)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-06/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-08-31</guid>
       <pubDate>2026-08-31</pubDate>
       <description>Word of the day: human</description>
-    </item>
-    <item>
-      <title>anthropic (2026-08-28)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-08-28/</link>
-      <guid isPermaLink="false">wotd-2026-08-28</guid>
-      <pubDate>2026-08-28</pubDate>
-      <description>Word of the day: anthropic</description>
     </item>
   </channel>
 </rss>
