@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--bf84304e",
+  "author": "Simon Willison",
+  "content_chars": 1338,
+  "content_sha256": "85653bee08a938e67d19fd884ac1acc24e7f2d943b34a6920706ab0b88ee935e",
+  "content_tokens": 334,
+  "fetched_at": "2026-11-08T13:21:41Z",
+  "kind": "article",
+  "published_at": "2026-11-07T23:57:46+00:00",
+  "snippet": "7th November 2026 - Link Blog datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages. I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in…",
+  "source_id": "simonwillison",
+  "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+  "top_terms": [
+    [
+      "datasette",
+      6
+    ],
+    [
+      "link",
+      6
+    ],
+    [
+      "next",
+      6
+    ],
+    [
+      "firefox",
+      4
+    ],
+    [
+      "http",
+      4
+    ],
+    [
+      "pages",
+      4
+    ],
+    [
+      "november",
+      3
+    ],
+    [
+      "november 2026",
+      3
+    ],
+    [
+      "october",
+      3
+    ],
+    [
+      "page",
+      3
+    ],
+    [
+      "rel",
+      3
+    ],
+    [
+      "serve",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "an http",
+      2
+    ],
+    [
+      "blog",
+      2
+    ],
+    [
+      "don't",
+      2
+    ],
+    [
+      "don't serve",
+      2
+    ],
+    [
+      "don't serve link",
+      2
+    ],
+    [
+      "feature",
+      2
+    ],
+    [
+      "firefox for",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+  "via_source_id": null
+}
