@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--6d597e0a",
+  "author": "Simon Willison",
+  "content_chars": 1993,
+  "content_sha256": "d0c57ddac3c2ea313e435fd37abab5cccd4b5677070a144d268cd319cd333375",
+  "content_tokens": 498,
+  "fetched_at": "2026-11-09T16:14:17Z",
+  "kind": "article",
+  "published_at": "2026-11-08T22:26:00+00:00",
+  "snippet": "8th November 2026 I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up…",
+  "source_id": "simonwillison",
+  "title": "parse_number() as a SQLite extension: C vs Rust",
+  "top_terms": [
+    [
+      "ns",
+      12
+    ],
+    [
+      "extension",
+      6
+    ],
+    [
+      "rust",
+      6
+    ],
+    [
+      "november",
+      4
+    ],
+    [
+      "november 2026",
+      4
+    ],
+    [
+      "number",
+      4
+    ],
+    [
+      "parse",
+      4
+    ],
+    [
+      "research",
+      4
+    ],
+    [
+      "sqlite",
+      4
+    ],
+    [
+      "the rust",
+      4
+    ],
+    [
+      "extension was",
+      3
+    ],
+    [
+      "function",
+      3
+    ],
+    [
+      "kb",
+      3
+    ],
+    [
+      "report",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "fast",
+      2
+    ],
+    [
+      "file",
+      2
+    ],
+    [
+      "function for",
+      2
+    ],
+    [
+      "october",
+      2
+    ],
+    [
+      "point",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+  "via_source_id": null
+}

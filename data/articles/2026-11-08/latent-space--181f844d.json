@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--181f844d",
+  "author": null,
+  "content_chars": 9099,
+  "content_sha256": "a68e46c3fba3c43041789f7b5d5bfca9553c032382707b763b85ce70b578ed97",
+  "content_tokens": 2274,
+  "fetched_at": "2026-11-09T16:14:25Z",
+  "kind": "article",
+  "published_at": "2026-11-08T21:41:44+00:00",
+  "snippet": "Across the industry, agentic coding has gone from new and exciting to table stakes, and as underlying models continue to improve, unattended coding agents have gone from possibility to reality. Minions are Stripe’s homegrown coding agents. They’re fully unattended and built to…",
+  "source_id": "latent-space",
+  "title": "Minions: Stripe’s one-shot, end-to-end coding agents | Stripe Dot Dev Blog",
+  "top_terms": [
+    [
+      "stripe",
+      24
+    ],
+    [
+      "minions",
+      22
+    ],
+    [
+      "minion",
+      21
+    ],
+    [
+      "code",
+      18
+    ],
+    [
+      "agents",
+      13
+    ],
+    [
+      "ci",
+      10
+    ],
+    [
+      "engineers",
+      10
+    ],
+    [
+      "run",
+      10
+    ],
+    [
+      "coding",
+      9
+    ],
+    [
+      "agent",
+      8
+    ],
+    [
+      "at stripe",
+      7
+    ],
+    [
+      "internal",
+      7
+    ],
+    [
+      "tests",
+      7
+    ],
+    [
+      "tools",
+      7
+    ],
+    [
+      "minion run",
+      6
+    ],
+    [
+      "push",
+      6
+    ],
+    [
+      "runs",
+      6
+    ],
+    [
+      "context",
+      5
+    ],
+    [
+      "developer",
+      5
+    ],
+    [
+      "engineer",
+      5
+    ]
+  ],
+  "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+  "url_canonical": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+  "via_source_id": "latent-space"
+}

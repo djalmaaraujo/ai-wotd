@@ -1368,6 +1368,10 @@
     "article_id": "aibreakfast--2d442cff",
     "first_seen_date": "2026-04-19"
   },
+  "https://aibreakfast.beehiiv.com/p/jensen-huang-admits-to-affair-investigation-ensues": {
+    "article_id": "aibreakfast--5bc2b749",
+    "first_seen_date": "2026-11-09"
+  },
   "https://aibreakfast.beehiiv.com/p/latest-humanoid-robots": {
     "article_id": "aibreakfast--893b157c",
     "first_seen_date": "2026-04-18"
@@ -4197,6 +4201,10 @@
     "article_id": "codenewsletter--e77815b3",
     "first_seen_date": "2026-07-08"
   },
+  "https://codenewsletter.ai/p/higgsfield-s-live-video-editor-is-coming-to-your-agents": {
+    "article_id": "codenewsletter--88d6c062",
+    "first_seen_date": "2026-11-09"
+  },
   "https://codenewsletter.ai/p/how-developers-at-spacexai-use-grok-bot": {
     "article_id": "codenewsletter--e4feb30a",
     "first_seen_date": "2026-09-20"
@@ -4204,6 +4212,10 @@
   "https://codenewsletter.ai/p/how-devs-are-customizing-claude-code-with-mods": {
     "article_id": "codenewsletter--ecd244a0",
     "first_seen_date": "2026-10-10"
+  },
+  "https://codenewsletter.ai/p/how-devs-are-cutting-ai-coding-token-costs": {
+    "article_id": "codenewsletter--4d7b4428",
+    "first_seen_date": "2026-11-09"
   },
   "https://codenewsletter.ai/p/how-devs-are-reviewing-code-when-ai-writes-it": {
     "article_id": "codenewsletter--d2516c03",
@@ -4648,6 +4660,10 @@
   "https://codenewsletter.ai/p/zyphra-drops-zaya1-8b-anthropic-secures-a-major-compute-boost": {
     "article_id": "codenewsletter--e3e9511c",
     "first_seen_date": "2026-05-08"
+  },
+  "https://coder.com/": {
+    "article_id": "latent-space--e5e1f86b",
+    "first_seen_date": "2026-11-09"
   },
   "https://cohere.com/": {
     "article_id": "nlp-newsletter--709fc524",
@@ -6971,6 +6987,10 @@
     "article_id": "huggingface-blog--4dee9402",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
+    "article_id": "huggingface-blog--372a39b4",
+    "first_seen_date": "2026-11-09"
+  },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "article_id": "huggingface-blog--65451309",
     "first_seen_date": "2026-07-08"
@@ -9075,6 +9095,10 @@
     "article_id": "huggingface-blog--b1798161",
     "first_seen_date": "2026-04-17"
   },
+  "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+    "article_id": "huggingface-blog--4d5ded7b",
+    "first_seen_date": "2026-11-09"
+  },
   "https://huggingface.co/blog/nvidia/nemotron-personas-india": {
     "article_id": "huggingface-blog--93c94406",
     "first_seen_date": "2026-04-21"
@@ -10978,6 +11002,10 @@
     "article_id": "latent-space--b3590721",
     "first_seen_date": "2026-11-07"
   },
+  "https://latent.space/p/cs146s": {
+    "article_id": "latent-space--c9b1dfd5",
+    "first_seen_date": "2026-11-09"
+  },
   "https://latent.space/p/elorian": {
     "article_id": "latent-space--2f5bf006",
     "first_seen_date": "2026-10-30"
@@ -10997,6 +11025,10 @@
   "https://latent.space/p/offline-coding": {
     "article_id": "latent-space--b2d321f4",
     "first_seen_date": "2026-10-28"
+  },
+  "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco": {
+    "article_id": "latent-space--00ff0084",
+    "first_seen_date": "2026-11-09"
   },
   "https://latent.space/p/opus55": {
     "article_id": "latent-space--cde695b0",
@@ -11273,6 +11305,10 @@
     "article_id": "latent-space--1b8f1add",
     "first_seen_date": "2026-10-03"
   },
+  "https://monaco.com/": {
+    "article_id": "latent-space--b57f3e6a",
+    "first_seen_date": "2026-11-09"
+  },
   "https://mp.weixin.qq.com/s/qg0NU3NNUbp1co2PdkAPAg": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -11463,6 +11499,11 @@
     "first_seen_date": "2026-11-07",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fcs146s%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-09",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Felorian%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-30",
@@ -11486,6 +11527,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Foffline-coding%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-28",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fone_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-09",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fopus55%2F": {
@@ -14269,6 +14315,18 @@
     "article_id": "simonwillison--bf84304e",
     "first_seen_date": "2026-11-08"
   },
+  "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": {
+    "article_id": "simonwillison--6d597e0a",
+    "first_seen_date": "2026-11-09"
+  },
+  "https://simonwillison.net/2026/Nov/9/details-summary": {
+    "article_id": "simonwillison--4a850c6a",
+    "first_seen_date": "2026-11-09"
+  },
+  "https://simonwillison.net/2026/Nov/9/hn-50421091": {
+    "article_id": "simonwillison--e9477871",
+    "first_seen_date": "2026-11-09"
+  },
   "https://simonwillison.net/2026/Oct/1/matthew-green": {
     "article_id": "simonwillison--f25b9339",
     "first_seen_date": "2026-10-01"
@@ -14749,6 +14807,10 @@
     "article_id": "ai-snake-oil--bc99d0f3",
     "first_seen_date": "2026-09-23"
   },
+  "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents": {
+    "article_id": "latent-space--181f844d",
+    "first_seen_date": "2026-11-09"
+  },
   "https://successar.github.io/": {
     "article_id": "nlp-newsletter--432cfdff",
     "first_seen_date": "2026-09-23"
@@ -15126,6 +15188,10 @@
   "https://themarkup.org/artificial-intelligence/2024/03/29/nycs-ai-chatbot-tells-businesses-to-break-the-law": {
     "article_id": "ai-snake-oil--10906d47",
     "first_seen_date": "2026-09-23"
+  },
+  "https://themodernsoftware.dev/": {
+    "article_id": "latent-space--c96afaaa",
+    "first_seen_date": "2026-11-09"
   },
   "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security": {
     "article_id": "latent-space--2410dade",
@@ -15912,6 +15978,10 @@
     "article_id": "interconnects--ddcaa4e4",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.faros.ai/blog/ai-software-engineering": {
+    "article_id": "latent-space--95501945",
+    "first_seen_date": "2026-11-09"
+  },
   "https://www.fda.gov/medical-devices/medical-device-regulatory-science-research-programs-conducted-osel/regulatory-evaluation-new-artificial-intelligence-ai-uses-improving-and-automating-medical-practices": {
     "article_id": "ai-snake-oil--8c8fbbb9",
     "first_seen_date": "2026-09-23"
@@ -15970,6 +16040,14 @@
     "article_id": null,
     "first_seen_date": "2026-09-24",
     "status": "fetch_failed"
+  },
+  "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html": {
+    "article_id": "latent-space--71e10689",
+    "first_seen_date": "2026-11-09"
+  },
+  "https://www.getbasis.ai/blogs/how-we-made-our-monorepo-ergonomic-for-agents": {
+    "article_id": "latent-space--06a29899",
+    "first_seen_date": "2026-11-09"
   },
   "https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2505.09388&sa=D&source=editors&ust=1784335866765677&usg=AOvVaw2w7tIIoTJq1rjhrQwKsUnn": {
     "article_id": null,
@@ -16775,6 +16853,14 @@
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
   },
+  "https://www.mihaileric.com/Demystifying-Claude-Code": {
+    "article_id": "latent-space--798c7495",
+    "first_seen_date": "2026-11-09"
+  },
+  "https://www.mihaileric.com/The-Emperor-Has-No-Clothes": {
+    "article_id": "latent-space--26608709",
+    "first_seen_date": "2026-11-09"
+  },
   "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop": {
     "article_id": "latent-space--7a607e8d",
     "first_seen_date": "2026-11-06"
@@ -16782,6 +16868,10 @@
   "https://www.modulardeeplearning.com/": {
     "article_id": "nlp-newsletter--2db3289c",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.monaco.com/blog/agent-developer-workspaces": {
+    "article_id": "latent-space--e492a759",
+    "first_seen_date": "2026-11-09"
   },
   "https://www.nature.com/articles/323533a0": {
     "article_id": "ai-snake-oil--f0f3b6fd",
@@ -18053,6 +18143,10 @@
   "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future": {
     "article_id": "mit-tech-review-ai--b71c92fa",
     "first_seen_date": "2026-11-06"
+  },
+  "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry": {
+    "article_id": "mit-tech-review-ai--936a0b6b",
+    "first_seen_date": "2026-11-09"
   },
   "https://www.techtimes.com/articles/326410/20260903/openais-astra-uses-hidden-reasoning-loops-that-erode-ai-safety-monitoring.htm": {
     "article_id": "latent-space--638e7496",

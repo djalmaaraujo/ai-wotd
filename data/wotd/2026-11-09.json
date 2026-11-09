@@ -1,0 +1,254 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 22.873857,
+      "term": "and financial",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.07811,
+      "term": "secrets",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "avg_tf_baseline": 1.0,
+      "df_today": 2,
+      "score": 13.811126,
+      "term": "statistics",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "avg_tf_baseline": 6.1429,
+      "df_today": 3,
+      "score": 12.312574,
+      "term": "financial",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 11.955824,
+      "term": "addition",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.116467,
+      "term": "pr descriptions",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.116467,
+      "term": "the financial",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.535388,
+      "term": "affair",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.535388,
+      "term": "command to",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.535388,
+      "term": "consistently",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-11-09",
+  "evidence_article_ids": [
+    "huggingface-blog--4d5ded7b"
+  ],
+  "judge": {
+    "input_tokens": 17184,
+    "model": "jev-1.14.0",
+    "pool_size": 34,
+    "signals": {
+      "affair": {
+        "dominance": 2.77,
+        "event": 0.92,
+        "form": 0.84,
+        "novelty": 0.89,
+        "specificity": 0.0
+      },
+      "agents": {
+        "dominance": 2.28,
+        "event": 0.89,
+        "form": 0.73,
+        "novelty": 0.2,
+        "specificity": 1.27
+      },
+      "dataset capturing japan's demographics": {
+        "dominance": 1.92,
+        "event": 0.93,
+        "form": 0.74,
+        "novelty": 0.79,
+        "specificity": 1.88
+      },
+      "descriptions behind": {
+        "dominance": 1.77,
+        "event": 0.26,
+        "form": 0.08,
+        "novelty": 0.39,
+        "specificity": 0.15
+      },
+      "financial": {
+        "dominance": 1.6,
+        "event": 0.73,
+        "form": 0.81,
+        "novelty": 0.43,
+        "specificity": 0.21
+      },
+      "financial context": {
+        "dominance": 1.7,
+        "event": 0.85,
+        "form": 0.85,
+        "novelty": 0.5,
+        "specificity": 0.21
+      },
+      "hide": {
+        "dominance": 1.66,
+        "event": 0.19,
+        "form": 0.6,
+        "novelty": 0.34,
+        "specificity": 0.08
+      },
+      "hide your slop": {
+        "dominance": 1.85,
+        "event": 0.28,
+        "form": 0.44,
+        "novelty": 0.6,
+        "specificity": 0.36
+      },
+      "huang": {
+        "dominance": 2.83,
+        "event": 0.94,
+        "form": 0.89,
+        "novelty": 0.88,
+        "specificity": 0.14
+      },
+      "jensen huang": {
+        "dominance": 2.65,
+        "event": 0.95,
+        "form": 0.96,
+        "novelty": 0.91,
+        "specificity": 0.19
+      },
+      "nemotron-personas-finance-japan": {
+        "dominance": 1.96,
+        "event": 0.9,
+        "form": 0.88,
+        "novelty": 0.78,
+        "specificity": 1.99
+      },
+      "pr descriptions behind": {
+        "dominance": 1.89,
+        "event": 0.29,
+        "form": 0.09,
+        "novelty": 0.54,
+        "specificity": 0.58
+      },
+      "secrets": {
+        "dominance": 1.67,
+        "event": 0.61,
+        "form": 0.75,
+        "novelty": 0.46,
+        "specificity": 0.23
+      },
+      "slop pr descriptions": {
+        "dominance": 1.88,
+        "event": 0.14,
+        "form": 0.66,
+        "novelty": 0.56,
+        "specificity": 1.26
+      },
+      "synthetic dataset capturing japan's demographics": {
+        "dominance": 1.94,
+        "event": 0.9,
+        "form": 0.82,
+        "novelty": 0.79,
+        "specificity": 1.93
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "synthetic dataset capturing japan's demographics",
+      "nemotron-personas-finance-japan"
+    ]
+  },
+  "label": "Synthetic Dataset Capturing Japan's Demographics",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "https://en.wikipedia.org/wiki/Synthetic_data",
+        "https://arxiv.org/abs/2301.07593"
+      ],
+      "text": "A synthetic dataset capturing Japan's demographics refers to an artificially generated collection of persona profiles that statistically mirror the Japanese population's age distribution, household composition, income levels, asset ownership, and other socioeconomic attributes. In AI, such datasets are used to train and evaluate models — particularly in finance, healthcare, and public policy — where real personal data is inaccessible due to privacy laws like Japan's APPI. By preserving aggregate statistical properties without exposing individual records, these datasets enable development of fair, representative, and compliant AI systems. Nemotron-Personas-Finance-Japan is a domain-specific instance tailored for financial services applications such as credit scoring, fraud detection, and personalized advisory agents."
+    },
+    "generated_at": "2026-11-09T16:15:16.945194+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "NVIDIA released Nemotron-Personas-Finance-Japan, a synthetic dataset modeling Japan's demographics and financial contexts, on Hugging Face today. The dataset uses a compound AI approach to generate personas grounded in real-world statistical distributions of household structures, asset holdings, and demographic attributes. This addresses strict privacy regulations and compliance requirements that limit the use of real financial data in Japan. The publication highlights how synthetic data is becoming critical for training agentic AI systems in regulated sectors like finance, where access to authentic personal information is constrained. The term \"financial\" appeared frequently across the corpus, reflecting the domain focus, while \"statistics\" underscores the reliance on census and survey data to ensure representativeness.",
+    "why": "The phrase trended because NVIDIA announced the Nemotron-Personas-Finance-Japan dataset via a Hugging Face blog post, explicitly framing it as a synthetic dataset capturing Japan's demographics and financial context. The release targets a high-value use case — financial AI agents — where privacy laws prevent using real customer data, making the dataset immediately relevant to researchers and enterprises building compliant models."
+  },
+  "score": null,
+  "word": "synthetic dataset capturing japan's demographics"
+}

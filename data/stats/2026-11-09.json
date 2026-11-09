@@ -1,0 +1,6738 @@
+{
+  "article_ids": [
+    "aibreakfast--5bc2b749",
+    "codenewsletter--88d6c062",
+    "huggingface-blog--372a39b4",
+    "huggingface-blog--4d5ded7b",
+    "mit-tech-review-ai--936a0b6b",
+    "simonwillison--4a850c6a",
+    "simonwillison--e9477871"
+  ],
+  "date": "2026-11-09",
+  "document_count": 7,
+  "terms": {
+    "accelerate": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "access": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "account": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "across": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 4,
+      "tf": 15
+    },
+    "active": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "actually": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "add": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "addition": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "addition is": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "additional": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "adjust": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "advanced": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "affair": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "agent": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 12
+    },
+    "agentic": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "agentic coding": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "agents": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 24
+    },
+    "agents to": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ai agents": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "algorithms": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "almost": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "along": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "alongside": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "already": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "always": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "and financial": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "and model": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and test": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "anthropic": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "anthropic is": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "anything": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "api": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "app": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "applications": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "approach": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "around": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "asked": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "author": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "automated": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "available": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "back": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "back as": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "background": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "banks": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "based": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "based on": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "beats": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "become": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "become more": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "behind": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "benchmark": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "best": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "better": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "bottleneck": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "breakdown": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "breaking": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 15
+    },
+    "build ai": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "build and": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "building": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "built": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "bureau": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "bureau and": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "business": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "by anthropic": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "calls": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "can interpret": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "can interpret model": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "capabilities": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "capable": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "capable of": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "career": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "census": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "census bureau": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "census bureau and": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "centers": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "ceo": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "challenge": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "change": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "changed": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "changes": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "chat": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "check": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 18
+    },
+    "claude code": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "claude code or": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "claude opus": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "claude opus 5.5": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "clear": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cloud": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 20
+    },
+    "code or": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "code or codex": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "codex": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "coding": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 17
+    },
+    "coding agents": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "coming": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "command": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "command to": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "commands": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "comment": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "companies": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "company": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "complete": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "complete the": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "comprehensive": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "compute": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "connect": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "consistent": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "consistently": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "constraints": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "context": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "conversational": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cost": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "create": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "current": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "customer": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "cut": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "data": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 5,
+      "tf": 38
+    },
+    "data centers": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "dataset": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 15
+    },
+    "datasets": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "deal": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "decisions": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "deeper": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "definitely": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "descriptions": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "descriptions behind": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "detailed": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "details": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 15
+    },
+    "develop": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "developers": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "development": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 10
+    },
+    "different": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "digital": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "directly": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "discover": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "dive": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "diverse": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "dropped": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "easier": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "easy": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "easy to": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "edit": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "editor": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "editorial": {
+      "articles": [
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "effort": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "else": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "enabled": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "engineers": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "enough": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "entirely": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "environment": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "especially": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "essay": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "estimate": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "evaluate": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "events": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "every": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 11
+    },
+    "example": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "examples": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "exclusive": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "executive": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "existing": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "experimental": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "experiments": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "expertise": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "far": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "fast": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "faster": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "feedback": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "feel": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fields": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "file": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "finally": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "financial": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 25
+    },
+    "firm": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "first": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 10
+    },
+    "fixes": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "following": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for example": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for the next": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for vibe": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for vibe game": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "form": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "foundation": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "framework": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "framework for": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "friday": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "full": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 5
+    },
+    "fully": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "furthermore": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "future": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "game": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "game development": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "generate": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "generation": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "genuinely": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "github": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "give": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "given": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "gives": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "goal": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "goal is": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "goal is to": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "good": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "google": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "group": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "groups": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "help": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "helps": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "hidden": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "hide": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "hide your": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "hide your slop": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "high": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "hook": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "https": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "huang": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "human": {
+      "articles": [
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "humans": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "import": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "in line": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "including": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 9
+    },
+    "independent": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "independently": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "individual": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "industry": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "inference": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inflection": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inflection point": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inflection point for": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "information": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "inside": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "insights": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instant": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instead": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "instead of": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "interpret": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "interpret model": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "interpret model weights": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is built": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it turns": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it turns out": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it's": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "jensen": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "jensen huang": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "journal": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "js": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "judgment": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "kb": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "keep": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "knowledge": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lab": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "language": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "laptop": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "laptop can": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "laptop can interpret": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "large": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "late": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "launched": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "least": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "left": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "lets": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "level": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "lies": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lies in": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "life": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "limited": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "line": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "links": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "llm": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "llms": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "load": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "long": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "longer": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "looking": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "lot": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "lower": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "majority": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "majority of": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "managing": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "match": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "match or": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "matter": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "matters": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "measures": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "medium": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "memory": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "merge": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mobile": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 19
+    },
+    "model performance": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model weights": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "modeling": {
+      "articles": [
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "models": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 18
+    },
+    "models and": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "modern": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "money": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "morning": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "multi-turn": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "multiple": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "must": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "my laptop": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "my laptop can": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "names": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "national": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nd": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nd november": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nd november 2026": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "needed": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "next": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "noise": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "november": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "november 2026": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "nvidia": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "october": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "october 2026": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "october inflection": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "october inflection point": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "of information": {
+      "articles": [
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on my laptop": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "open": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "open-source": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "openai": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "opened": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "opus": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "opus 5.5": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "opus 5.5 medium": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "or codex": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "output": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "outputs": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "overall": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "pairs": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "particularly": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "path": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "patterns": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "people": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "perfectly": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "performance": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "physical": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "pipeline": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "planned": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "plugin": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "point": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "point for": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "point for vibe": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "possibilities": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "power": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "pr": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 15
+    },
+    "pr descriptions": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "pr descriptions behind": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "practical": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "precisely": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "president": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "private": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "problems": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "product": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "project": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "projects": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "provide": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "public": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "put": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "queue": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "quietly": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "qwen": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "qwen 3.8": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rarely": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rate": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rd": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rd november": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rd november 2026": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reach": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "readers": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reading": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "real": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "reason": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "recent": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "recent articles": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "records": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "redaction": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reduces": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reference": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "relationship": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "relationship with": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "release": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "released": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "remove": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "render": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "replacing": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "reports": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "repos": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "represent": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "required": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "requirements": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "requires": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "researchers": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "resources": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "results": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "review": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "right": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "risk": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "roughly": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "run": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "running": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "safety": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "scale": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "scaling": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "seconds": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "secrets": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "security": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "selected": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "selected to": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "senior": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "set": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "shared": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "short": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "showed": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "shows": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "since": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "skills": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "slop": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "slop pr": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "slop pr descriptions": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "small": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "someone": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "sometimes": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "specialized": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "speed": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "spending": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "split": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "staff": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "started": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "starting": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "state": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "statistics": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "step": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "steps": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "still": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "strict": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "strong": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "summary": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 15
+    },
+    "super": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "super intelligence": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "support": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "systems": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "taken": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "takes": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "target": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "team": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "teams": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "terms": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "test": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "testing": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "text": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "th": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "th november": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "th november 2026": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "th october": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "th october 2026": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the agent": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the best": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "the code": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "the command": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the current": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the financial": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the first": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "the following": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the full": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "the model": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the next": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the october": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the october inflection": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the practical": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the real": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the results": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the target": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the team": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the user": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the way": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the work": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thinking": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "this morning": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "three": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "times": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "to build": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "to complete": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to complete the": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to connect": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to generate": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "to give": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "to help": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "to test": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "to understand": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "today's": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "together": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "tokens": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "tool": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "toolset": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "top": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "total": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "toward": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "training": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "training and": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "trick": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "trouble": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "turn": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "turns": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "turns out": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "two": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "types": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "understand": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "unique": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "us": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "useful": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "user": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "users": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "valuable": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "value": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "variables": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vibe": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "vibe game": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "vibe game development": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "video": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "view": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "walk": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "way": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "way to": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "weights": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "went": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "whether": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "huggingface-blog--4d5ded7b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "whether it": {
+      "articles": [
+        "huggingface-blog--372a39b4",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "without": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 12
+    },
+    "word": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "work": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4",
+        "mit-tech-review-ai--936a0b6b",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "MIT Technology Review Insights",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 8
+    },
+    "worked": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "working": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "works": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "huggingface-blog--372a39b4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "world": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "worth": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "write": {
+      "articles": [
+        "codenewsletter--88d6c062",
+        "simonwillison--4a850c6a"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "written": {
+      "articles": [
+        "huggingface-blog--4d5ded7b",
+        "mit-tech-review-ai--936a0b6b"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "MIT Technology Review Insights"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your feedback": {
+      "articles": [
+        "aibreakfast--5bc2b749",
+        "codenewsletter--88d6c062"
+      ],
+      "authors": [
+        "AI Breakfast",
+        "Code Newsletter"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "your slop": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "your slop pr": {
+      "articles": [
+        "simonwillison--4a850c6a",
+        "simonwillison--e9477871"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}
