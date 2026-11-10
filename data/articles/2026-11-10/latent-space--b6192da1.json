@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--b6192da1",
+  "author": null,
+  "content_chars": 10418,
+  "content_sha256": "ad0666bdd35daf2c659e649653cd3b6822de07379fa1c9409fa40c7bcca39a7f",
+  "content_tokens": 2604,
+  "fetched_at": "2026-11-10T14:52:15Z",
+  "kind": "article",
+  "published_at": "2026-11-10T06:34:44+00:00",
+  "snippet": "The fastest inference engine for Qwen3.8-27B and Qwen3.8 Flash-Next on the NVIDIA GeForce RTX 5090. Over 500 tokens/s for one coding agent and up to 2,800 tokens/s for a team of twelve, on Windows 11 and Linux. A launcher sets it up and shows, before you load, what every setting…",
+  "source_id": "latent-space",
+  "title": "GitHub - perkel666/MegaCapybara: The fastest inference engine for Qwen3.8-27B on the NVIDIA RTX 5090: up to 500 tokens/s for one agent and up to 2,000 tokens/s for many, contexts up to 1M tokens, and a launcher that shows what every setting costs. Windows and Linux. · GitHub",
+  "top_terms": [
+    [
+      "tok",
+      19
+    ],
+    [
+      "tokens",
+      17
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "agent",
+      12
+    ],
+    [
+      "context",
+      11
+    ],
+    [
+      "every",
+      11
+    ],
+    [
+      "launcher",
+      11
+    ],
+    [
+      "qwen3.8",
+      11
+    ],
+    [
+      "agents",
+      10
+    ],
+    [
+      "next",
+      10
+    ],
+    [
+      "rtx",
+      10
+    ],
+    [
+      "rtx 5090",
+      10
+    ],
+    [
+      "megacapybara",
+      9
+    ],
+    [
+      "small",
+      9
+    ],
+    [
+      "linux",
+      8
+    ],
+    [
+      "original",
+      8
+    ],
+    [
+      "size",
+      8
+    ],
+    [
+      "speed",
+      8
+    ],
+    [
+      "the launcher",
+      8
+    ],
+    [
+      "tiny",
+      8
+    ]
+  ],
+  "url": "https://github.com/perkel666/MegaCapybara",
+  "url_canonical": "https://github.com/perkel666/MegaCapybara",
+  "via_source_id": "latent-space"
+}

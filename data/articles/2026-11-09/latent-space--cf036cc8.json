@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--cf036cc8",
+  "author": null,
+  "content_chars": 1141,
+  "content_sha256": "03b3ca38c933a28d93a50fa357f5a360b26ed239a5fe72a6109cc0a4df795b0d",
+  "content_tokens": 285,
+  "fetched_at": "2026-11-10T14:52:26Z",
+  "kind": "article",
+  "published_at": "2026-11-09T17:15:53+00:00",
+  "snippet": "Can AI models accurately interpret the visual artifacts routinely encountered in professional life sciences workflows? In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots…",
+  "source_id": "latent-space",
+  "title": "ATLAS Visual Life Sciences (VIALS) Benchmark | Handshake",
+  "top_terms": [
+    [
+      "visual",
+      6
+    ],
+    [
+      "artifacts",
+      4
+    ],
+    [
+      "images",
+      4
+    ],
+    [
+      "interpret",
+      4
+    ],
+    [
+      "life",
+      4
+    ],
+    [
+      "life sciences",
+      4
+    ],
+    [
+      "sciences",
+      4
+    ],
+    [
+      "workflows",
+      4
+    ],
+    [
+      "in professional",
+      3
+    ],
+    [
+      "in professional life",
+      3
+    ],
+    [
+      "life sciences workflows",
+      3
+    ],
+    [
+      "professional",
+      3
+    ],
+    [
+      "professional life",
+      3
+    ],
+    [
+      "professional life sciences",
+      3
+    ],
+    [
+      "sciences workflows",
+      3
+    ],
+    [
+      "scientists",
+      3
+    ],
+    [
+      "accurately",
+      2
+    ],
+    [
+      "accurately interpret",
+      2
+    ],
+    [
+      "benchmark",
+      2
+    ],
+    [
+      "decisions",
+      2
+    ]
+  ],
+  "url": "https://joinhandshake.com/research/benchmarks/vials",
+  "url_canonical": "https://joinhandshake.com/research/benchmarks/vials",
+  "via_source_id": "latent-space"
+}

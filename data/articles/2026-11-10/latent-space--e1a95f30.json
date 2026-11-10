@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e1a95f30",
+  "author": null,
+  "content_chars": 5168,
+  "content_sha256": "562f2d09a0fb231966b158283f7c1e7f11e1efd4d3c4859e0b4196bf1df3eabf",
+  "content_tokens": 1292,
+  "fetched_at": "2026-11-10T14:52:24Z",
+  "kind": "article",
+  "published_at": "2026-11-10T06:34:44+00:00",
+  "snippet": "The prompt given to DeepSeek V4.1 Flash (max effort) in AgenC Core 0.19.32, with REA connected as an MCP server, to reverse-engineer Sopwith (1984, MS-DOS) from its original executable and rebuild it as a Chrome game. One prompt, no follow-ups. You are working in /work inside an…",
+  "source_id": "latent-space",
+  "title": "agenc-core/showcase/sopwith-rea/PROMPT.md at showcase/sopwith-rea-prompt · tetsuo-ai/agenc-core · GitHub",
+  "top_terms": [
+    [
+      "game",
+      16
+    ],
+    [
+      "work",
+      16
+    ],
+    [
+      "original",
+      12
+    ],
+    [
+      "rea",
+      10
+    ],
+    [
+      "sw",
+      8
+    ],
+    [
+      "the original",
+      8
+    ],
+    [
+      "data",
+      7
+    ],
+    [
+      "exe",
+      6
+    ],
+    [
+      "frames",
+      6
+    ],
+    [
+      "the game",
+      6
+    ],
+    [
+      "and data",
+      4
+    ],
+    [
+      "binary",
+      4
+    ],
+    [
+      "dosbox",
+      4
+    ],
+    [
+      "every",
+      4
+    ],
+    [
+      "ground",
+      4
+    ],
+    [
+      "md",
+      4
+    ],
+    [
+      "reference",
+      4
+    ],
+    [
+      "the binary",
+      4
+    ],
+    [
+      "the ground",
+      4
+    ],
+    [
+      "with rea",
+      4
+    ]
+  ],
+  "url": "https://github.com/tetsuo-ai/agenc-core/blob/showcase/sopwith-rea-prompt/showcase/sopwith-rea/PROMPT.md",
+  "url_canonical": "https://github.com/tetsuo-ai/agenc-core/blob/showcase/sopwith-rea-prompt/showcase/sopwith-rea/PROMPT.md",
+  "via_source_id": "latent-space"
+}

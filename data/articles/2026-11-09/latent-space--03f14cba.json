@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--03f14cba",
+  "author": null,
+  "content_chars": 17602,
+  "content_sha256": "80aaf017b9e892c9a66359bd4524a814ffe549b36f2cfb86d72b7a1d1c1fda7d",
+  "content_tokens": 4400,
+  "fetched_at": "2026-11-10T14:52:26Z",
+  "kind": "article",
+  "published_at": "2026-11-09T17:15:53+00:00",
+  "snippet": "TL;DR The gap: Existing finance benchmarks test agentic financial reasoning, data retrieval, and tool use through static, fully specified tasks. These one-off requests in clean contexts are not reflective of actual deployment. In reality, analysts must operate under ambiguity…",
+  "source_id": "latent-space",
+  "title": "ATLAS-Finance: Evaluating AI Agents Inside a Bank | Handshake",
+  "top_terms": [
+    [
+      "agent",
+      25
+    ],
+    [
+      "financial",
+      22
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "models",
+      15
+    ],
+    [
+      "the agent",
+      15
+    ],
+    [
+      "atlas-finance",
+      13
+    ],
+    [
+      "finance",
+      12
+    ],
+    [
+      "steps",
+      11
+    ],
+    [
+      "task",
+      11
+    ],
+    [
+      "must",
+      10
+    ],
+    [
+      "rubric",
+      10
+    ],
+    [
+      "treatment",
+      10
+    ],
+    [
+      "work",
+      10
+    ],
+    [
+      "wrong",
+      10
+    ],
+    [
+      "agents",
+      9
+    ],
+    [
+      "every",
+      9
+    ],
+    [
+      "issues",
+      9
+    ],
+    [
+      "across",
+      8
+    ],
+    [
+      "benchmark",
+      8
+    ],
+    [
+      "built",
+      8
+    ]
+  ],
+  "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank",
+  "url_canonical": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank",
+  "via_source_id": "latent-space"
+}

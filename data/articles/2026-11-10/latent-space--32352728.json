@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--32352728",
+  "author": null,
+  "content_chars": 3535,
+  "content_sha256": "dce4107e6f68f267de9a2c9a0169911021e533918368ce937a457ee5cd245a7b",
+  "content_tokens": 883,
+  "fetched_at": "2026-11-10T14:52:14Z",
+  "kind": "article",
+  "published_at": "2026-11-10T06:34:44+00:00",
+  "snippet": "DSpine for Qwen3.8-27B DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth. This checkpoint is a five-layer draft model for Qwen3.8-27B, with block size 16 and an…",
+  "source_id": "latent-space",
+  "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+  "top_terms": [
+    [
+      "dspine",
+      13
+    ],
+    [
+      "dflash2",
+      7
+    ],
+    [
+      "workbuddy",
+      7
+    ],
+    [
+      "qwen3.8",
+      5
+    ],
+    [
+      "tokens",
+      5
+    ],
+    [
+      "draft",
+      4
+    ],
+    [
+      "temperature",
+      4
+    ],
+    [
+      "xhigh",
+      4
+    ],
+    [
+      "ar",
+      3
+    ],
+    [
+      "bench",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "low",
+      3
+    ],
+    [
+      "office",
+      3
+    ],
+    [
+      "sampling",
+      3
+    ],
+    [
+      "sglang",
+      3
+    ],
+    [
+      "temperature sampling",
+      3
+    ],
+    [
+      "web",
+      3
+    ],
+    [
+      "adjacent",
+      2
+    ],
+    [
+      "and sun",
+      2
+    ],
+    [
+      "arxiv",
+      2
+    ]
+  ],
+  "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+  "url_canonical": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+  "via_source_id": "latent-space"
+}

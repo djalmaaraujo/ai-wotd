@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--608a08f5",
+  "author": null,
+  "content_chars": 14228,
+  "content_sha256": "e9c57958d09effc9d6ec61364f6d16e6280191f1622224c05be45ea3396ee3e7",
+  "content_tokens": 3557,
+  "fetched_at": "2026-11-10T14:52:26Z",
+  "kind": "article",
+  "published_at": "2026-11-09T17:15:53+00:00",
+  "snippet": "In the pharmaceutical and biotech industries, high-value R&D workflows like drug discovery involve accurately interpreting visual artifacts like gel blots, microscopy images, and flow cytometry plots. The scale and sensitivity of drug discovery create two major needs for…",
+  "source_id": "latent-space",
+  "title": "VIALS: Nemotron Post-Training for Scientific VQA | Handshake",
+  "top_terms": [
+    [
+      "spots",
+      47
+    ],
+    [
+      "left",
+      34
+    ],
+    [
+      "labeled",
+      27
+    ],
+    [
+      "gel",
+      25
+    ],
+    [
+      "spot",
+      24
+    ],
+    [
+      "ticks",
+      21
+    ],
+    [
+      "pi",
+      20
+    ],
+    [
+      "right",
+      18
+    ],
+    [
+      "arrows",
+      17
+    ],
+    [
+      "top",
+      17
+    ],
+    [
+      "larvae",
+      16
+    ],
+    [
+      "dark",
+      15
+    ],
+    [
+      "early",
+      15
+    ],
+    [
+      "early larvae",
+      15
+    ],
+    [
+      "bottom",
+      14
+    ],
+    [
+      "protein",
+      14
+    ],
+    [
+      "row",
+      14
+    ],
+    [
+      "ova",
+      13
+    ],
+    [
+      "image",
+      12
+    ],
+    [
+      "two",
+      12
+    ]
+  ],
+  "url": "https://joinhandshake.com/research/ai/vials-nemotron-post-training",
+  "url_canonical": "https://joinhandshake.com/research/ai/vials-nemotron-post-training",
+  "via_source_id": "latent-space"
+}

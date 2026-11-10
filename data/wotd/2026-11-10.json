@@ -1,0 +1,289 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--def3c669",
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb",
+        "latent-space--581de70b",
+        "simonwillison--93f1e9c7",
+        "simonwillison--d51c2a13",
+        "simonwillison--e3b3f484"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 920.974795,
+      "term": "fable 5.2",
+      "tf_today": 110
+    },
+    {
+      "articles": [
+        "latent-space--48ed97eb",
+        "latent-space--96771c18",
+        "latent-space--e1a95f30"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 637.829683,
+      "term": "agenc",
+      "tf_today": 103
+    },
+    {
+      "articles": [
+        "codenewsletter--def3c669",
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 301.881161,
+      "term": "mythos 5.2",
+      "tf_today": 56
+    },
+    {
+      "articles": [
+        "codenewsletter--def3c669",
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb",
+        "simonwillison--93f1e9c7",
+        "simonwillison--d51c2a13",
+        "simonwillison--e3b3f484"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 209.038605,
+      "term": "claude fable 5.2",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 175.836587,
+      "term": "claude mythos 5.2",
+      "tf_today": 39
+    },
+    {
+      "articles": [
+        "codenewsletter--def3c669",
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb",
+        "latent-space--581de70b",
+        "simonwillison--93f1e9c7",
+        "simonwillison--d51c2a13",
+        "simonwillison--e3b3f484"
+      ],
+      "avg_tf_baseline": 6.5714,
+      "df_today": 7,
+      "score": 135.83133,
+      "term": "fable",
+      "tf_today": 191
+    },
+    {
+      "articles": [
+        "codenewsletter--def3c669",
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 108.603218,
+      "term": "fable 5.2 and",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "latent-space--48ed97eb",
+        "latent-space--4e151071",
+        "latent-space--e1a95f30"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 3,
+      "score": 89.053595,
+      "term": "rea",
+      "tf_today": 64
+    },
+    {
+      "articles": [
+        "latent-space--32352728",
+        "latent-space--48ed97eb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 84.309956,
+      "term": "dspine",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "latent-space--42f7259e",
+        "latent-space--48ed97eb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 74.42166,
+      "term": "and claude mythos",
+      "tf_today": 20
+    }
+  ],
+  "date": "2026-11-10",
+  "evidence_article_ids": [
+    "codenewsletter--def3c669",
+    "latent-space--42f7259e",
+    "latent-space--48ed97eb",
+    "simonwillison--93f1e9c7",
+    "simonwillison--d51c2a13",
+    "simonwillison--e3b3f484"
+  ],
+  "judge": {
+    "input_tokens": 24852,
+    "model": "jev-1.14.0",
+    "pool_size": 47,
+    "signals": {
+      "agenc": {
+        "dominance": 1.66,
+        "event": 0.56,
+        "form": 0.69,
+        "novelty": 0.67,
+        "specificity": 1.66
+      },
+      "agenc-core": {
+        "dominance": 1.71,
+        "event": 0.51,
+        "form": 0.72,
+        "novelty": 0.75,
+        "specificity": 1.92
+      },
+      "alphaproof code": {
+        "dominance": 1.94,
+        "event": 0.96,
+        "form": 0.86,
+        "novelty": 0.86,
+        "specificity": 2.0
+      },
+      "atomic agent": {
+        "dominance": 1.7,
+        "event": 0.46,
+        "form": 0.9,
+        "novelty": 0.66,
+        "specificity": 1.91
+      },
+      "claude fable 5.2": {
+        "dominance": 2.99,
+        "event": 0.97,
+        "form": 0.94,
+        "novelty": 0.9,
+        "specificity": 2.0
+      },
+      "claude mythos 5.2": {
+        "dominance": 2.22,
+        "event": 0.97,
+        "form": 0.94,
+        "novelty": 0.89,
+        "specificity": 2.0
+      },
+      "cooperative multi-agent rl": {
+        "dominance": 1.63,
+        "event": 0.86,
+        "form": 0.83,
+        "novelty": 0.44,
+        "specificity": 2.0
+      },
+      "ember": {
+        "dominance": 1.83,
+        "event": 0.93,
+        "form": 0.9,
+        "novelty": 0.77,
+        "specificity": 1.86
+      },
+      "fable 5.2": {
+        "dominance": 2.99,
+        "event": 0.97,
+        "form": 0.93,
+        "novelty": 0.91,
+        "specificity": 2.0
+      },
+      "inference": {
+        "dominance": 2.13,
+        "event": 0.9,
+        "form": 0.89,
+        "novelty": 0.63,
+        "specificity": 1.92
+      },
+      "megacapybara": {
+        "dominance": 1.61,
+        "event": 0.54,
+        "form": 0.77,
+        "novelty": 0.82,
+        "specificity": 1.87
+      },
+      "model": {
+        "dominance": 2.84,
+        "event": 0.97,
+        "form": 0.83,
+        "novelty": 0.34,
+        "specificity": 1.39
+      },
+      "muse ember": {
+        "dominance": 1.87,
+        "event": 0.94,
+        "form": 0.91,
+        "novelty": 0.77,
+        "specificity": 1.99
+      },
+      "mythos 5.2": {
+        "dominance": 1.73,
+        "event": 0.96,
+        "form": 0.89,
+        "novelty": 0.88,
+        "specificity": 1.99
+      },
+      "qwen3.8": {
+        "dominance": 1.74,
+        "event": 0.46,
+        "form": 0.85,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "rea": {
+        "dominance": 1.83,
+        "event": 0.37,
+        "form": 0.68,
+        "novelty": 0.64,
+        "specificity": 1.62
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "claude fable 5.2",
+      "fable 5.2",
+      "claude mythos 5.2",
+      "alphaproof code",
+      "inference",
+      "mythos 5.2",
+      "muse ember",
+      "ember",
+      "cooperative multi-agent rl"
+    ]
+  },
+  "label": "Claude Fable 5.2",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://en.wikipedia.org/wiki/Claude_(language_model)",
+        "https://www.anthropic.com/pricing"
+      ],
+      "text": "Claude Fable 5.2 is Anthropic's latest flagship large language model, positioned as the high-capability tier in the Claude 5.x family. It is optimized for complex reasoning, code generation, and multimodal vision tasks, targeting professional software engineering, scientific research, and advanced agentic workflows. The model succeeds Claude Fable 5.1 and competes directly with top-tier models such as Google's Gemini 4 Carbon and OpenAI's GPT-6 series. Its release reflects the industry pattern of periodic frontier-model refreshes that push benchmark ceilings while adjusting token pricing."
+    },
+    "generated_at": "2026-11-10T14:53:00.273516+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, upgraded flagship models that reclaim the top LLM benchmark position from Gemini 4 Carbon. Fable 5.2 introduces a 20% per-token price reduction — $8 per million input and $40 per million output tokens versus the previous $10/$50 — though benchmarks indicate it consumes more tokens per task. The models demonstrate advances in coding, reasoning, and vision, with Anthropic reporting use cases including infeasible software migrations, electronic device design, black-hole physics problems, robotics evaluations, and formalizing the proof of Fermat's Last Theorem in 30 hours. Meta AI simultaneously launched Muse Ember, a small efficient model priced 80x lower than Fable 5.2, highlighting the widening gap between frontier and commodity tiers.",
+    "why": "Claude Fable 5.2 trended because Anthropic's official launch announcement coincided with the model retaking the #1 spot on major LLM leaderboards, a 20% price cut that sparked cost-performance debate, and documented breakthrough applications in formal mathematics and hardware design that circulated widely among AI practitioners."
+  },
+  "score": 209.038605,
+  "word": "claude fable 5.2"
+}
