@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--df28f3c8",
+  "author": null,
+  "content_chars": 2787,
+  "content_sha256": "867d993362ee1e00021b0d61bca78c45bd03e49d274457909ffd1ab11149ae05",
+  "content_tokens": 696,
+  "fetched_at": "2026-11-11T14:18:56Z",
+  "kind": "article",
+  "published_at": "2026-11-11T09:34:28+00:00",
+  "snippet": "Qwen3.8-Flash-Next (MoE, 180B parameters) with every routed expert and dense projection ternary, in one 40.4 GB GGUF file. That is 4.6 times smaller than the FP8 release. It was made in two steps: - Conversion with ttf-conversion, layer by layer on one GPU: - ternary GPTQ on the…",
+  "source_id": "latent-space",
+  "title": "oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "gb",
+      9
+    ],
+    [
+      "ttf",
+      7
+    ],
+    [
+      "ternary",
+      6
+    ],
+    [
+      "tokens",
+      5
+    ],
+    [
+      "fp8",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "oguzeldereli",
+      4
+    ],
+    [
+      "ttf-home",
+      4
+    ],
+    [
+      "ttf-qwen3.8",
+      4
+    ],
+    [
+      "ttf-ternary",
+      4
+    ],
+    [
+      "chat",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "cpp",
+      3
+    ],
+    [
+      "engine",
+      3
+    ],
+    [
+      "experts",
+      3
+    ],
+    [
+      "file",
+      3
+    ],
+    [
+      "flash-next",
+      3
+    ],
+    [
+      "gguf",
+      3
+    ],
+    [
+      "layer",
+      3
+    ],
+    [
+      "llama",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF",
+  "url_canonical": "https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF",
+  "via_source_id": "latent-space"
+}

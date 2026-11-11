@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--b0d713b4",
+  "author": null,
+  "content_chars": 7854,
+  "content_sha256": "636b1385e06fe7d1178f1f6bff96869d75a0d2c499741ebe4668793addeea52f",
+  "content_tokens": 1963,
+  "fetched_at": "2026-11-11T14:19:05Z",
+  "kind": "article",
+  "published_at": "2026-11-10T18:56:32+00:00",
+  "snippet": "Building Frontier AI with AI Naive-N0.5-Flash is an open-weight 309B MoE model with 15.5B active parameters, built for coding and AI R&D. It supports a native 1M-token context window through a hybrid of Sliding-Window Attention (SWA) and lightweight DeepSeek Sparse Attention…",
+  "source_id": "latent-space",
+  "title": "GitHub - NaiveAI-Labs/Naive-N0.5-Flash: Naive-N0.5-Flash is an open-weight 309B MoE model with 15.5B active parameters, built for coding and AI R&D. · GitHub",
+  "top_terms": [
+    [
+      "flash",
+      26
+    ],
+    [
+      "model",
+      22
+    ],
+    [
+      "attention",
+      20
+    ],
+    [
+      "naive-n0.5",
+      20
+    ],
+    [
+      "tokens",
+      15
+    ],
+    [
+      "dsa",
+      14
+    ],
+    [
+      "scores",
+      11
+    ],
+    [
+      "blog",
+      10
+    ],
+    [
+      "layers",
+      10
+    ],
+    [
+      "swa",
+      9
+    ],
+    [
+      "sparse",
+      8
+    ],
+    [
+      "context",
+      7
+    ],
+    [
+      "gpt-5.6",
+      7
+    ],
+    [
+      "score",
+      7
+    ],
+    [
+      "scores come",
+      7
+    ],
+    [
+      "scores come from",
+      7
+    ],
+    [
+      "sparse attention",
+      7
+    ],
+    [
+      "inference",
+      6
+    ],
+    [
+      "architecture",
+      5
+    ],
+    [
+      "deepseek",
+      5
+    ]
+  ],
+  "url": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash",
+  "url_canonical": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash",
+  "via_source_id": "latent-space"
+}

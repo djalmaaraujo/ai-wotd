@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--0bf64e02",
+  "author": null,
+  "content_chars": 5370,
+  "content_sha256": "d274fd3ff8c2274ab2cc3ea7338759304a8d289a5d6024be7435cf1906b71165",
+  "content_tokens": 1342,
+  "fetched_at": "2026-11-11T14:19:03Z",
+  "kind": "article",
+  "published_at": "2026-11-10T20:05:17+00:00",
+  "snippet": "Remote MCP Server Resend hosts the MCP server at:plugin.json identifies the plugin, skills/ holds the skills, and mcp.json points at https://mcp.resend.com/mcp . Each tab below matches the install on that client’s page at resend.com. - Claude - Copilot - Claude Code - Cursor…",
+  "source_id": "latent-space",
+  "title": "MCP Server - Resend",
+  "top_terms": [
+    [
+      "mcp",
+      18
+    ],
+    [
+      "server",
+      17
+    ],
+    [
+      "list",
+      15
+    ],
+    [
+      "create",
+      14
+    ],
+    [
+      "resend",
+      14
+    ],
+    [
+      "http",
+      12
+    ],
+    [
+      "remove",
+      12
+    ],
+    [
+      "update",
+      12
+    ],
+    [
+      "and remove",
+      11
+    ],
+    [
+      "email",
+      11
+    ],
+    [
+      "api",
+      10
+    ],
+    [
+      "mcp server",
+      10
+    ],
+    [
+      "claude",
+      9
+    ],
+    [
+      "default",
+      7
+    ],
+    [
+      "emails",
+      7
+    ],
+    [
+      "key",
+      7
+    ],
+    [
+      "send",
+      7
+    ],
+    [
+      "client",
+      6
+    ],
+    [
+      "contact",
+      6
+    ],
+    [
+      "port",
+      6
+    ]
+  ],
+  "url": "https://resend.com/docs/mcp-server",
+  "url_canonical": "https://resend.com/docs/mcp-server",
+  "via_source_id": "latent-space"
+}

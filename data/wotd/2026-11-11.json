@@ -1,0 +1,309 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--4fcc5376",
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 1154.710641,
+      "term": "ttf",
+      "tf_today": 140
+    },
+    {
+      "articles": [
+        "latent-space--4fcc5376",
+        "latent-space--91d06925",
+        "latent-space--dfd925c6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 204.325939,
+      "term": "deletion",
+      "tf_today": 41
+    },
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--4fcc5376",
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 179.063022,
+      "term": "ttf-ternary",
+      "tf_today": 31
+    },
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 174.048376,
+      "term": "ttf-qwen3.8",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "latent-space--4fcc5376",
+        "latent-space--91d06925",
+        "latent-space--dfd925c6"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 161.175779,
+      "term": "deletion tuning",
+      "tf_today": 34
+    },
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 149.184323,
+      "term": "tq1",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 146.664441,
+      "term": "q38",
+      "tf_today": 28
+    },
+    {
+      "articles": [
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 131.312883,
+      "term": "ttfconv",
+      "tf_today": 31
+    },
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 126.703754,
+      "term": "oguzeldereli",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "latent-space--3409397e",
+        "latent-space--4fcc5376",
+        "latent-space--6158289d",
+        "latent-space--a2e6d25f",
+        "latent-space--c8400044",
+        "latent-space--df28f3c8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 6,
+      "score": 101.484081,
+      "term": "ttf-conversion",
+      "tf_today": 20
+    }
+  ],
+  "date": "2026-11-11",
+  "evidence_article_ids": [
+    "latent-space--3409397e",
+    "latent-space--4fcc5376",
+    "latent-space--6158289d",
+    "latent-space--a2e6d25f",
+    "latent-space--c8400044",
+    "latent-space--df28f3c8"
+  ],
+  "judge": {
+    "input_tokens": 30760,
+    "model": "jev-1.14.0",
+    "pool_size": 61,
+    "signals": {
+      "codex cloud": {
+        "dominance": 1.99,
+        "event": 0.94,
+        "form": 0.9,
+        "novelty": 0.72,
+        "specificity": 1.99
+      },
+      "deleting weights": {
+        "dominance": 1.91,
+        "event": 0.85,
+        "form": 0.86,
+        "novelty": 0.76,
+        "specificity": 1.97
+      },
+      "deletion tuning": {
+        "dominance": 1.91,
+        "event": 0.77,
+        "form": 0.93,
+        "novelty": 0.82,
+        "specificity": 1.99
+      },
+      "gguf": {
+        "dominance": 2.82,
+        "event": 0.87,
+        "form": 0.74,
+        "novelty": 0.76,
+        "specificity": 1.99
+      },
+      "mercor": {
+        "dominance": 2.87,
+        "event": 0.96,
+        "form": 0.92,
+        "novelty": 0.78,
+        "specificity": 1.03
+      },
+      "oguzeldereli": {
+        "dominance": 2.81,
+        "event": 0.67,
+        "form": 0.14,
+        "novelty": 0.89,
+        "specificity": 1.14
+      },
+      "q38": {
+        "dominance": 2.46,
+        "event": 0.82,
+        "form": 0.52,
+        "novelty": 0.84,
+        "specificity": 1.94
+      },
+      "qwen3.8": {
+        "dominance": 2.88,
+        "event": 0.89,
+        "form": 0.86,
+        "novelty": 0.79,
+        "specificity": 2.0
+      },
+      "series": {
+        "dominance": 2.79,
+        "event": 0.87,
+        "form": 0.66,
+        "novelty": 0.7,
+        "specificity": 0.12
+      },
+      "ternary": {
+        "dominance": 2.93,
+        "event": 0.93,
+        "form": 0.86,
+        "novelty": 0.88,
+        "specificity": 1.99
+      },
+      "trits": {
+        "dominance": 2.7,
+        "event": 0.81,
+        "form": 0.72,
+        "novelty": 0.89,
+        "specificity": 1.91
+      },
+      "ttf-conversion": {
+        "dominance": 2.69,
+        "event": 0.57,
+        "form": 0.84,
+        "novelty": 0.88,
+        "specificity": 1.99
+      },
+      "ttf-qwen3.8": {
+        "dominance": 2.64,
+        "event": 0.84,
+        "form": 0.72,
+        "novelty": 0.86,
+        "specificity": 1.99
+      },
+      "ttf-ternary": {
+        "dominance": 2.94,
+        "event": 0.69,
+        "form": 0.84,
+        "novelty": 0.89,
+        "specificity": 1.99
+      },
+      "valuation": {
+        "dominance": 2.82,
+        "event": 0.83,
+        "form": 0.83,
+        "novelty": 0.76,
+        "specificity": 0.02
+      },
+      "weight": {
+        "dominance": 2.64,
+        "event": 0.86,
+        "form": 0.87,
+        "novelty": 0.75,
+        "specificity": 1.93
+      },
+      "weights": {
+        "dominance": 2.77,
+        "event": 0.93,
+        "form": 0.8,
+        "novelty": 0.73,
+        "specificity": 1.94
+      },
+      "weights in llm": {
+        "dominance": 2.86,
+        "event": 0.94,
+        "form": 0.3,
+        "novelty": 0.68,
+        "specificity": 1.91
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "ternary",
+      "ttf-ternary",
+      "qwen3.8",
+      "ttf-conversion",
+      "weights",
+      "weight",
+      "deletion tuning",
+      "codex cloud",
+      "deleting weights"
+    ]
+  },
+  "label": "ternary",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF",
+        "https://github.com/oguzeldereli/ttf-ternary",
+        "https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF"
+      ],
+      "text": "Ternary refers to neural network models that use weights restricted to the set {-1, 0, +1} (ternary weights) scaled by row and column factors, rather than continuous floating-point values. This approach, known as ttf-ternary or ttf-Qwen3.8, reduces memory requirements by approximately 6x compared to standard models, enabling deployment on consumer GPUs and CPUs. The two-timescale threshold flips (TTF) method allows training these models without full-precision master weights, using a low-rank accumulator instead. This efficiency makes large models like Qwen3.8-27B feasible to run on 12 GB GPUs, as demonstrated by the ttf-Qwen3.8-27B-GGUF release."
+    },
+    "generated_at": "2026-11-11T14:21:30.846311+00:00",
+    "model": "openrouter/free",
+    "summary": "Today's AI landscape is dominated by the emergence of ternary neural network architectures, which represent a significant shift in model efficiency. The ttf-ternary framework and ttf-Qwen3.8-27B-GGUF model demonstrate how models can be trained and deployed using ternary weights ({-1, 0, +1} scaled by row and column factors) instead of full-precision floating point representations. This approach, known as two-timescale threshold flips (TTF), reduces memory requirements by approximately 6x compared to standard models, enabling deployment on consumer hardware. The ttf-Qwen3.8-27B-GGUF model, for instance, runs on a 12 GB GPU with 1.6 bits per weight, while the ttf-Qwen3.8-Flash-Next-GGUF achieves 4.6x compression over FP8 releases. These innovations are being actively developed and released by the open-source community, with projects like ttf-ternary and ttf-home providing tools for training, converting, and running ternary models on various hardware.",
+    "why": "The term 'ternary' trended today due to the widespread adoption and release of ttf-ternary and ttf-Qwen3.8-27B-GGUF models, which demonstrate that ternary-weighted neural networks can achieve competitive performance while dramatically reducing memory footprint. The evidence shows that ttf-ternary uses two-timescale threshold flips (TTF) to train models with weights in {-1, 0, +1} without full-precision master weights, and the ttf-Qwen3.8-27B-GGUF model runs on a 12 GB GPU with 1.6 bits per weight, making it feasible to deploy on consumer hardware. This efficiency breakthrough is driving interest across the AI community."
+  },
+  "score": 29.76895,
+  "word": "ternary"
+}

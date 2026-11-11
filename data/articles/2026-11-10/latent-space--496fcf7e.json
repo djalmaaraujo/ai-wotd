@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--496fcf7e",
+  "author": null,
+  "content_chars": 48981,
+  "content_sha256": "c9aebe029cb7f0906afae5ae4c9de831a8930c01d7bc905e81179580e914511c",
+  "content_tokens": 12245,
+  "fetched_at": "2026-11-11T14:19:14Z",
+  "kind": "article",
+  "published_at": "2026-11-10T18:56:32+00:00",
+  "snippet": "problem stringlengths 20 1.73k | solution stringlengths 45 3.36k | answer stringlengths 1 53 | subject stringclasses 7 values | level int64 1 5 | unique_id stringlengths 20 40 | |---|---|---|---|---|---| Convert the point $(0,3)$ in rectangular coordinates to polar coordinates…",
+  "source_id": "latent-space",
+  "title": "HuggingFaceH4/MATH-500 · Datasets at Hugging Face",
+  "top_terms": [
+    [
+      "frac",
+      140
+    ],
+    [
+      "json",
+      100
+    ],
+    [
+      "test",
+      100
+    ],
+    [
+      "algebra",
+      88
+    ],
+    [
+      "sqrt",
+      79
+    ],
+    [
+      "begin",
+      57
+    ],
+    [
+      "pmatrix",
+      50
+    ],
+    [
+      "number",
+      46
+    ],
+    [
+      "boxed",
+      45
+    ],
+    [
+      "end",
+      44
+    ],
+    [
+      "cdot",
+      41
+    ],
+    [
+      "intermediate",
+      38
+    ],
+    [
+      "pi",
+      37
+    ],
+    [
+      "align",
+      36
+    ],
+    [
+      "draw",
+      36
+    ],
+    [
+      "prealgebra",
+      36
+    ],
+    [
+      "right",
+      30
+    ],
+    [
+      "circ",
+      28
+    ],
+    [
+      "precalculus",
+      28
+    ],
+    [
+      "sin",
+      27
+    ]
+  ],
+  "url": "https://huggingface.co/datasets/HuggingFaceH4/MATH-500",
+  "url_canonical": "https://huggingface.co/datasets/HuggingFaceH4/MATH-500",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>ternary — 2026-11-11 · AI WOTD</title>
+  <link rel="stylesheet" href="/ai-wotd/style.css">
+  <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
+</head>
+<body>
+  <header>
+    <a class="brand" href="/ai-wotd/">AI Word Of The Day</a>
+    <nav>
+      <a href="/ai-wotd/">Today</a>
+      <a href="/ai-wotd/archive/">Archive</a>
+      <a href="https://github.com/djalmaaraujo/ai-wotd">GitHub</a>
+    </nav>
+  </header>
+  <main>
+<article class="day">
+  <p class="date">2026-11-11</p>
+  <h1>ternary</h1>
+
+  <p class="why">The term &#39;ternary&#39; trended today due to the widespread adoption and release of ttf-ternary and ttf-Qwen3.8-27B-GGUF models, which demonstrate that ternary-weighted neural networks can achieve competitive performance while dramatically reducing memory footprint. The evidence shows that ttf-ternary uses two-timescale threshold flips (TTF) to train models with weights in {-1, 0, +1} without full-precision master weights, and the ttf-Qwen3.8-27B-GGUF model runs on a 12 GB GPU with 1.6 bits per weight, making it feasible to deploy on consumer hardware. This efficiency breakthrough is driving interest across the AI community.</p>
+
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>Ternary refers to neural network models that use weights restricted to the set {-1, 0, +1} (ternary weights) scaled by row and column factors, rather than continuous floating-point values. This approach, known as ttf-ternary or ttf-Qwen3.8, reduces memory requirements by approximately 6x compared to standard models, enabling deployment on consumer GPUs and CPUs. The two-timescale threshold flips (TTF) method allows training these models without full-precision master weights, using a low-rank accumulator instead. This efficiency makes large models like Qwen3.8-27B feasible to run on 12 GB GPUs, as demonstrated by the ttf-Qwen3.8-27B-GGUF release.</p>
+    <ul class="def-refs">
+      <li><a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF" rel="noreferrer">https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF</a></li>
+      <li><a href="https://github.com/oguzeldereli/ttf-ternary" rel="noreferrer">https://github.com/oguzeldereli/ttf-ternary</a></li>
+      <li><a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF" rel="noreferrer">https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF</a></li>
+    </ul>
+  </section>
+
+  <section class="summary">
+    <h2>Today in AI</h2>
+    <p>Today&#39;s AI landscape is dominated by the emergence of ternary neural network architectures, which represent a significant shift in model efficiency. The ttf-ternary framework and ttf-Qwen3.8-27B-GGUF model demonstrate how models can be trained and deployed using ternary weights ({-1, 0, +1} scaled by row and column factors) instead of full-precision floating point representations. This approach, known as two-timescale threshold flips (TTF), reduces memory requirements by approximately 6x compared to standard models, enabling deployment on consumer hardware. The ttf-Qwen3.8-27B-GGUF model, for instance, runs on a 12 GB GPU with 1.6 bits per weight, while the ttf-Qwen3.8-Flash-Next-GGUF achieves 4.6x compression over FP8 releases. These innovations are being actively developed and released by the open-source community, with projects like ttf-ternary and ttf-home providing tools for training, converting, and running ternary models on various hardware.</p>
+  </section>
+
+  <section class="evidence">
+    <h2>Evidence (6)</h2>
+    <ul>
+      <li>
+        <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-27B-GGUF · Hugging Face</a>
+        <span class="meta">
+          latent-space          · 2026-11-11
+        </span>
+<blockquote>Qwen3.8-27B with every linear layer ternary ({-1, 0, +1} times row and column scales), as GGUF files of 1.6 bits per ternary weight that run entirely on a 12 GB GPU. Two variants: | file | size | what differs | |---|---|---| ttf-Qwen3.8-27B-adapters-r0.2-TQ1_P.gguf | 8.20 GB |…</blockquote>      </li>
+      <li>
+        <a href="https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate" rel="noreferrer">[AINews] Mercor $750m Series D at $20B valuation, $3B run rate</a>
+        <span class="meta">
+          latent-space · swyx .ai          · 2026-11-11
+        </span>
+<blockquote>Our usual bar for making a fundraise a title story these days is a decacorn ($10B) valuation. We missed Mercor’s $10B Series C last year when it had less than $500m in revenue, but knew we wouldn’t have to wait too long til the next round, since it crossed $1B in Feb and $2B in…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/oguzeldereli/ttf-ternary" rel="noreferrer">GitHub - oguzeldereli/ttf-ternary: Two-timescale threshold flips (TTF): training and converting ternary {-1,0,1} LLMs without full-precision master weights. ~1 byte of optimizer state per weight; 23B trains on a 16 GB GPU, Qwen3.8-27B converted and recovered on one 24 GB card. · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-11-11
+        </span>
+<blockquote>Train ternary ({-1, 0, +1}) language models without full-precision master weights. The weights stay packed at 1.6 bits (5 trits per byte) for the whole of training. The optimizer state is low-rank, about one byte per weight in place of the 12-16 bytes of master weights plus…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/oguzeldereli/ttf-conversion" rel="noreferrer">GitHub - oguzeldereli/ttf-conversion: Qwen3.5 / 3.8 to ternary with TTF-trainable ternary adapters · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-11-11
+        </span>
+<blockquote>Convert a full-precision Qwen3.5 / Qwen3.8 model into a ternary network: weights in {−1, 0, +1} times row and column scales, optionally with low-rank adapters and a fine residual of extra digits. The conversion is its own code base. It builds its models with ttf-core (the Qwen…</blockquote>      </li>
+      <li>
+        <a href="https://github.com/oguzeldereli/ttf-home" rel="noreferrer">GitHub - oguzeldereli/ttf-home: Ternary language models on a home computer: run, train, convert, fine-tune, export to GGUF · GitHub</a>
+        <span class="meta">
+          latent-space          · 2026-11-11
+        </span>
+<blockquote>Ternary language models on a home computer: - run the released ternary Qwen3.8 models; - train a model from scratch; - convert a Qwen3.5 / 3.8 model to ternary and keep training it; - fine-tune on your own text; - run the result fast on a consumer GPU or CPU. One command line…</blockquote>      </li>
+      <li>
+        <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF · Hugging Face</a>
+        <span class="meta">
+          latent-space          · 2026-11-11
+        </span>
+<blockquote>Qwen3.8-Flash-Next (MoE, 180B parameters) with every routed expert and dense projection ternary, in one 40.4 GB GGUF file. That is 4.6 times smaller than the FP8 release. It was made in two steps: - Conversion with ttf-conversion, layer by layer on one GPU: - ternary GPTQ on the…</blockquote>      </li>
+    </ul>
+  </section>
+
+  <section class="candidates">
+    <h2>Candidates</h2>
+    <ol>
+      <li>ttf <span class="meta">tf=140, df=6, score=1154.71</span></li>
+      <li>deletion <span class="meta">tf=41, df=3, score=204.33</span></li>
+      <li>ttf-ternary <span class="meta">tf=31, df=6, score=179.06</span></li>
+      <li>ttf-qwen3.8 <span class="meta">tf=32, df=5, score=174.05</span></li>
+      <li>deletion tuning <span class="meta">tf=34, df=3, score=161.18</span></li>
+      <li>tq1 <span class="meta">tf=32, df=3, score=149.18</span></li>
+      <li>q38 <span class="meta">tf=28, df=5, score=146.66</span></li>
+      <li>ttfconv <span class="meta">tf=31, df=2, score=131.31</span></li>
+      <li>oguzeldereli <span class="meta">tf=25, df=5, score=126.70</span></li>
+      <li>ttf-conversion <span class="meta">tf=20, df=6, score=101.48</span></li>
+    </ol>
+  </section>
+
+  <section class="queried-links">
+    <details>
+      <summary>All queried links (18)</summary>
+      <ul>
+        <li>
+          <a href="https://codenewsletter.ai/p/minimax-gives-devs-open-weights-for-16mp-images" rel="noreferrer">MiniMax gives devs open weights for 16MP images</a>
+          <span class="meta">
+            codenewsletter · Code Newsletter          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/blog/qvac/botpsy" rel="noreferrer">BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</a>
+          <span class="meta">
+            huggingface-blog · Hugging Face Blog          </span>
+        </li>
+        <li>
+          <a href="https://latent.space/p/codex-work" rel="noreferrer">AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</a>
+          <span class="meta">
+            latent-space · Richard MacManus          </span>
+        </li>
+        <li>
+          <a href="https://www.mercor.com/blog/update-on-mercor-security-incident" rel="noreferrer">Mercor Data Breach: Investigation Findings and Updates</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-27B-GGUF · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate" rel="noreferrer">[AINews] Mercor $750m Series D at $20B valuation, $3B run rate</a>
+          <span class="meta">
+            latent-space · swyx .ai          </span>
+        </li>
+        <li>
+          <a href="https://github.com/oguzeldereli/ttf-ternary" rel="noreferrer">GitHub - oguzeldereli/ttf-ternary: Two-timescale threshold flips (TTF): training and converting ternary {-1,0,1} LLMs without full-precision master weights. ~1 byte of optimizer state per weight; 23B trains on a 16 GB GPU, Qwen3.8-27B converted and recovered on one 24 GB card. · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://dealroom.co/news/171271-mercor-raises-750m-series-d-at-20b-valuation-to-push-into-enterprise-ai" rel="noreferrer">Mercor raises $750M Series D at $20B valuation to push into enterprise AI | Dealroom News</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://arxiv.org/abs/2611.10866" rel="noreferrer">[2611.10866] The Surprising Effectiveness of Deleting Weights in LLM Post-Training</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/oguzeldereli/ttf-conversion" rel="noreferrer">GitHub - oguzeldereli/ttf-conversion: Qwen3.5 / 3.8 to ternary with TTF-trainable ternary adapters · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://community.openai.com/t/meet-the-all-new-codex-cloud/1402399" rel="noreferrer">Meet the all new Codex Cloud - Codex - OpenAI Developer Community</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/oguzeldereli/ttf-home" rel="noreferrer">GitHub - oguzeldereli/ttf-home: Ternary language models on a home computer: run, train, convert, fine-tune, export to GGUF · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://aie-codex-workshop.openai.chatgpt.site/" rel="noreferrer">New ways of working with Codex</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c" rel="noreferrer">Mercor quintuples valuation to $10B with $350M Series C | TechCrunch</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://agenticlearning.ai/deleting-weights" rel="noreferrer">The Surprising Effectiveness of Deleting Weights in LLM Post-Training | Agentic Learning AI Lab</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://openai.com/index/gilbert-tobin-sam-nickless" rel="noreferrer">Gilbert + Tobin rethinks the business of law with AI</a>
+          <span class="meta">
+            openai-blog · OpenAI Blog          </span>
+        </li>
+        <li>
+          <a href="https://openai.com/index/chatgpt-plus-for-veterans" rel="noreferrer">ChatGPT Plus for veterans and servicemembers</a>
+          <span class="meta">
+            openai-blog · OpenAI Blog          </span>
+        </li>
+      </ul>
+    </details>
+  </section>
+
+  <nav class="pager">
+<a href="/ai-wotd/d/2026-11-10/">← 2026-11-10</a>  </nav>
+</article>
+  </main>
+  <footer>
+    <p>Updated 2026-11-11T14:21:33+00:00. Built from public RSS, newsletters, and X.
+    Short attributed snippets shown under fair use; full text is never
+    redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
+  </footer>
+</body>
+</html>

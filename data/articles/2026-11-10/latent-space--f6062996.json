@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--f6062996",
+  "author": null,
+  "content_chars": 11834,
+  "content_sha256": "fa13e0ca370cdc64db059c0d5d57da56a3eb7f9d7b6338ae9c409e2e9fef3fc3",
+  "content_tokens": 2958,
+  "fetched_at": "2026-11-11T14:19:02Z",
+  "kind": "article",
+  "published_at": "2026-11-10T20:05:17+00:00",
+  "snippet": "Model Context Protocol (MCP) has become the standard way for AI agents to use external tools. But there is a tension at its core: agents need many tools to do useful work, yet every tool added fills the model's context window, leaving less room for the actual task. Code Mode is…",
+  "source_id": "latent-space",
+  "title": "Code Mode: give agents an entire API in 1,000 tokens | Cloudflare Blog",
+  "top_terms": [
+    [
+      "mcp",
+      32
+    ],
+    [
+      "cloudflare",
+      31
+    ],
+    [
+      "code",
+      31
+    ],
+    [
+      "agent",
+      23
+    ],
+    [
+      "zone",
+      21
+    ],
+    [
+      "api",
+      20
+    ],
+    [
+      "path",
+      20
+    ],
+    [
+      "server",
+      20
+    ],
+    [
+      "id",
+      18
+    ],
+    [
+      "method",
+      16
+    ],
+    [
+      "the agent",
+      16
+    ],
+    [
+      "waf",
+      16
+    ],
+    [
+      "code mode",
+      15
+    ],
+    [
+      "mode",
+      15
+    ],
+    [
+      "zones",
+      15
+    ],
+    [
+      "ddos",
+      14
+    ],
+    [
+      "rulesets",
+      14
+    ],
+    [
+      "mcp server",
+      13
+    ],
+    [
+      "ruleset",
+      13
+    ],
+    [
+      "firewall",
+      12
+    ]
+  ],
+  "url": "https://blog.cloudflare.com/code-mode-mcp",
+  "url_canonical": "https://blog.cloudflare.com/code-mode-mcp",
+  "via_source_id": "latent-space"
+}

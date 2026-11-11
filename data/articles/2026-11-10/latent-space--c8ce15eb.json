@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c8ce15eb",
+  "author": null,
+  "content_chars": 12451,
+  "content_sha256": "331e4d30f853b74a2ff5ce023946f7c50be717fbfe4901729acb20b9542cd2a8",
+  "content_tokens": 3112,
+  "fetched_at": "2026-11-11T14:19:10Z",
+  "kind": "article",
+  "published_at": "2026-11-10T18:56:32+00:00",
+  "snippet": "Building frontier AI models is no longer just a research endeavor. It now requires a complex, industrial-scale R&D system. At leading AI companies, these systems rely on large teams of experts. Architecture, infrastructure, training, inference, deployment, and evaluation are…",
+  "source_id": "latent-space",
+  "title": "NaiveAI",
+  "top_terms": [
+    [
+      "attention",
+      27
+    ],
+    [
+      "flash",
+      25
+    ],
+    [
+      "model",
+      24
+    ],
+    [
+      "naive-n0.5",
+      17
+    ],
+    [
+      "dsa",
+      16
+    ],
+    [
+      "tokens",
+      15
+    ],
+    [
+      "layers",
+      13
+    ],
+    [
+      "sparse",
+      13
+    ],
+    [
+      "context",
+      12
+    ],
+    [
+      "models",
+      12
+    ],
+    [
+      "swa",
+      12
+    ],
+    [
+      "training",
+      12
+    ],
+    [
+      "indexer",
+      11
+    ],
+    [
+      "scores",
+      11
+    ],
+    [
+      "sparse attention",
+      11
+    ],
+    [
+      "ai models",
+      10
+    ],
+    [
+      "architecture",
+      8
+    ],
+    [
+      "full",
+      8
+    ],
+    [
+      "inference",
+      8
+    ],
+    [
+      "researchers",
+      8
+    ]
+  ],
+  "url": "https://naive.ai/en/research",
+  "url_canonical": "https://naive.ai/en/research",
+  "via_source_id": "latent-space"
+}

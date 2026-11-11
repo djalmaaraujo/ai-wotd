@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--c8400044",
+  "author": null,
+  "content_chars": 13958,
+  "content_sha256": "8b449b8baed99e1e98c4172a9bd5cb19343bec9b849197e5f4834287828a1795",
+  "content_tokens": 3489,
+  "fetched_at": "2026-11-11T14:18:55Z",
+  "kind": "article",
+  "published_at": "2026-11-11T09:34:28+00:00",
+  "snippet": "Ternary language models on a home computer: - run the released ternary Qwen3.8 models; - train a model from scratch; - convert a Qwen3.5 / 3.8 model to ternary and keep training it; - fine-tune on your own text; - run the result fast on a consumer GPU or CPU. One command line…",
+  "source_id": "latent-space",
+  "title": "GitHub - oguzeldereli/ttf-home: Ternary language models on a home computer: run, train, convert, fine-tune, export to GGUF · GitHub",
+  "top_terms": [
+    [
+      "ttf",
+      64
+    ],
+    [
+      "gb",
+      29
+    ],
+    [
+      "llama",
+      26
+    ],
+    [
+      "tok",
+      23
+    ],
+    [
+      "cpp",
+      21
+    ],
+    [
+      "cuda",
+      21
+    ],
+    [
+      "gguf",
+      19
+    ],
+    [
+      "ternary",
+      19
+    ],
+    [
+      "tq1",
+      19
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "build",
+      17
+    ],
+    [
+      "engine",
+      17
+    ],
+    [
+      "gpu",
+      15
+    ],
+    [
+      "cpu",
+      14
+    ],
+    [
+      "models",
+      14
+    ],
+    [
+      "export",
+      12
+    ],
+    [
+      "data",
+      11
+    ],
+    [
+      "patches",
+      11
+    ],
+    [
+      "pip",
+      11
+    ],
+    [
+      "q38",
+      11
+    ]
+  ],
+  "url": "https://github.com/oguzeldereli/ttf-home",
+  "url_canonical": "https://github.com/oguzeldereli/ttf-home",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--efe18cf8",
+  "author": null,
+  "content_chars": 20054,
+  "content_sha256": "64586f3e8447e3a31113780857f4ca0d781f5800acf0a3c9affe9a6d8de2a20b",
+  "content_tokens": 5013,
+  "fetched_at": "2026-11-11T14:19:03Z",
+  "kind": "article",
+  "published_at": "2026-11-10T20:05:17+00:00",
+  "snippet": "The Model Context Protocol (MCP) can empower LLM agents with potentially hundreds of tools to solve real-world tasks. But how do we make those tools maximally effective? In this post, we describe our most effective techniques for improving performance in a variety of agentic AI…",
+  "source_id": "latent-space",
+  "title": "Writing effective tools for AI agents \\ Anthropic",
+  "top_terms": [
+    [
+      "tools",
+      81
+    ],
+    [
+      "tool",
+      63
+    ],
+    [
+      "agents",
+      55
+    ],
+    [
+      "claude",
+      24
+    ],
+    [
+      "evaluation",
+      23
+    ],
+    [
+      "your tools",
+      19
+    ],
+    [
+      "context",
+      17
+    ],
+    [
+      "responses",
+      16
+    ],
+    [
+      "tasks",
+      16
+    ],
+    [
+      "response",
+      15
+    ],
+    [
+      "example",
+      14
+    ],
+    [
+      "agent",
+      13
+    ],
+    [
+      "calls",
+      12
+    ],
+    [
+      "effective",
+      12
+    ],
+    [
+      "descriptions",
+      11
+    ],
+    [
+      "mcp",
+      11
+    ],
+    [
+      "search",
+      11
+    ],
+    [
+      "call",
+      10
+    ],
+    [
+      "tool calls",
+      9
+    ],
+    [
+      "tool descriptions",
+      9
+    ]
+  ],
+  "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+  "url_canonical": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+  "via_source_id": "latent-space"
+}

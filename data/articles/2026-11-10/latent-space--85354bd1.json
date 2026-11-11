@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--85354bd1",
+  "author": null,
+  "content_chars": 9637,
+  "content_sha256": "77f543809d3e28602391efc699dc242919dd027b9d961c7473a3f17c51c5aa28",
+  "content_tokens": 2409,
+  "fetched_at": "2026-11-11T14:19:09Z",
+  "kind": "article",
+  "published_at": "2026-11-10T18:56:32+00:00",
+  "snippet": "Fast single-stream inference for Naive-N0.5-Flash. NaiveRT combines fused CUDA kernels, speculative decoding, and GPU-driven execution across eight Blackwell GPUs. It is designed to shorten individual generations—particularly long agentic tasks and RL rollouts—with reproducible…",
+  "source_id": "latent-space",
+  "title": "GitHub - NaiveAI-Labs/NaiveRT: NaiveRT: a self-contained TP8 inference runtime for the Naive N series on eight Blackwell GPUs with UMMA support. One persistent CUDA graph per rank runs draft, eight-row verify, top-p sampling and cache commit with no host in the loop: 1,700 tokens/s at batch size 1, one-second peaks above 2,000. · GitHub",
+  "top_terms": [
+    [
+      "naivert",
+      35
+    ],
+    [
+      "tokens",
+      22
+    ],
+    [
+      "draft",
+      16
+    ],
+    [
+      "generation",
+      15
+    ],
+    [
+      "checkpoint",
+      12
+    ],
+    [
+      "execution",
+      11
+    ],
+    [
+      "target",
+      11
+    ],
+    [
+      "export",
+      10
+    ],
+    [
+      "export naivert",
+      10
+    ],
+    [
+      "host",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "output",
+      10
+    ],
+    [
+      "rate",
+      9
+    ],
+    [
+      "api",
+      8
+    ],
+    [
+      "naive-n0.5",
+      8
+    ],
+    [
+      "studio",
+      8
+    ],
+    [
+      "cuda",
+      7
+    ],
+    [
+      "device",
+      7
+    ],
+    [
+      "kernels",
+      7
+    ],
+    [
+      "prefill",
+      7
+    ]
+  ],
+  "url": "https://github.com/NaiveAI-Labs/NaiveRT",
+  "url_canonical": "https://github.com/NaiveAI-Labs/NaiveRT",
+  "via_source_id": "latent-space"
+}

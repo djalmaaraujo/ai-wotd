@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--f5c7ca31",
+  "author": null,
+  "content_chars": 46674,
+  "content_sha256": "c6ebcb7bf9ab66491607f76a4eedaf1e5ad216897fe4eecaaf2038d1240acad9",
+  "content_tokens": 11668,
+  "fetched_at": "2026-11-11T14:19:01Z",
+  "kind": "article",
+  "published_at": "2026-11-10T20:05:17+00:00",
+  "snippet": "Claude Code Is a New Gatekeeper When a developer says “add a database” and lets Claude Code handle it, the agent doesn't just suggest. It installs packages, writes imports, configures connections, and commits code. The tool it picks is the tool that ships. As more developers let…",
+  "source_id": "latent-space",
+  "title": "Full Report: What Claude Code Actually Chooses | Amplifying",
+  "top_terms": [
+    [
+      "picks",
+      70
+    ],
+    [
+      "tool",
+      69
+    ],
+    [
+      "js",
+      68
+    ],
+    [
+      "custom",
+      66
+    ],
+    [
+      "opus",
+      54
+    ],
+    [
+      "models",
+      52
+    ],
+    [
+      "tools",
+      49
+    ],
+    [
+      "diy",
+      47
+    ],
+    [
+      "categories",
+      42
+    ],
+    [
+      "python",
+      42
+    ],
+    [
+      "primary",
+      39
+    ],
+    [
+      "code",
+      38
+    ],
+    [
+      "claude",
+      37
+    ],
+    [
+      "model",
+      35
+    ],
+    [
+      "opus 4.6",
+      34
+    ],
+    [
+      "claude code",
+      33
+    ],
+    [
+      "next",
+      32
+    ],
+    [
+      "category",
+      31
+    ],
+    [
+      "sonnet",
+      29
+    ],
+    [
+      "alt",
+      24
+    ]
+  ],
+  "url": "https://amplifying.ai/research/claude-code-picks/report",
+  "url_canonical": "https://amplifying.ai/research/claude-code-picks/report",
+  "via_source_id": "latent-space"
+}

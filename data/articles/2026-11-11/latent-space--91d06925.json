@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--91d06925",
+  "author": null,
+  "content_chars": 1928,
+  "content_sha256": "373fb0f6ea5fa2245a7749b674239ab867540155b09af7aa91e88d8d3b10db91",
+  "content_tokens": 482,
+  "fetched_at": "2026-11-11T14:18:56Z",
+  "kind": "article",
+  "published_at": "2026-11-11T09:34:28+00:00",
+  "snippet": "Computer Science > Machine Learning Title:The Surprising Effectiveness of Deleting Weights in LLM Post-Training View PDF HTML (experimental)Abstract:How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer…",
+  "source_id": "latent-space",
+  "title": "[2611.10866] The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+  "top_terms": [
+    [
+      "learning",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "fft",
+      4
+    ],
+    [
+      "fine-tuning",
+      4
+    ],
+    [
+      "llm",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "deletion",
+      3
+    ],
+    [
+      "deletion tuning",
+      3
+    ],
+    [
+      "llm post-training",
+      3
+    ],
+    [
+      "post-training",
+      3
+    ],
+    [
+      "reinforcement",
+      3
+    ],
+    [
+      "reinforcement learning",
+      3
+    ],
+    [
+      "tuning",
+      3
+    ],
+    [
+      "weights",
+      3
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "and random",
+      2
+    ],
+    [
+      "and random sparse",
+      2
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "collaborators",
+      2
+    ],
+    [
+      "data",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2611.10866",
+  "url_canonical": "https://arxiv.org/abs/2611.10866",
+  "via_source_id": "latent-space"
+}

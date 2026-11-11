@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--a2e6d25f",
+  "author": null,
+  "content_chars": 10331,
+  "content_sha256": "7431cde2223fed2b6b79e462ce307e94a37aded15f7b125024c0ea70de3e4314",
+  "content_tokens": 2582,
+  "fetched_at": "2026-11-11T14:18:55Z",
+  "kind": "article",
+  "published_at": "2026-11-11T09:34:28+00:00",
+  "snippet": "Convert a full-precision Qwen3.5 / Qwen3.8 model into a ternary network: weights in {−1, 0, +1} times row and column scales, optionally with low-rank adapters and a fine residual of extra digits. The conversion is its own code base. It builds its models with ttf-core (the Qwen…",
+  "source_id": "latent-space",
+  "title": "GitHub - oguzeldereli/ttf-conversion: Qwen3.5 / 3.8 to ternary with TTF-trainable ternary adapters · GitHub",
+  "top_terms": [
+    [
+      "ttfconv",
+      26
+    ],
+    [
+      "data",
+      17
+    ],
+    [
+      "adapters",
+      15
+    ],
+    [
+      "conversion",
+      15
+    ],
+    [
+      "ternary",
+      15
+    ],
+    [
+      "ttf",
+      15
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "py",
+      12
+    ],
+    [
+      "rank",
+      11
+    ],
+    [
+      "bin",
+      9
+    ],
+    [
+      "gptq",
+      9
+    ],
+    [
+      "q38",
+      9
+    ],
+    [
+      "wiki",
+      9
+    ],
+    [
+      "convert",
+      8
+    ],
+    [
+      "ext",
+      8
+    ],
+    [
+      "fold",
+      8
+    ],
+    [
+      "gb",
+      8
+    ],
+    [
+      "rounding",
+      8
+    ],
+    [
+      "scripts",
+      8
+    ],
+    [
+      "ttf-core",
+      8
+    ]
+  ],
+  "url": "https://github.com/oguzeldereli/ttf-conversion",
+  "url_canonical": "https://github.com/oguzeldereli/ttf-conversion",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--6158289d",
+  "author": null,
+  "content_chars": 14123,
+  "content_sha256": "7dcd6adc1a15a89bb06874df70739a6074ec0b6a9c858d1f239460560977a48d",
+  "content_tokens": 3530,
+  "fetched_at": "2026-11-11T14:18:54Z",
+  "kind": "article",
+  "published_at": "2026-11-11T09:34:28+00:00",
+  "snippet": "Train ternary ({-1, 0, +1}) language models without full-precision master weights. The weights stay packed at 1.6 bits (5 trits per byte) for the whole of training. The optimizer state is low-rank, about one byte per weight in place of the 12-16 bytes of master weights plus…",
+  "source_id": "latent-space",
+  "title": "GitHub - oguzeldereli/ttf-ternary: Two-timescale threshold flips (TTF): training and converting ternary {-1,0,1} LLMs without full-precision master weights. ~1 byte of optimizer state per weight; 23B trains on a 16 GB GPU, Qwen3.8-27B converted and recovered on one 24 GB card. · GitHub",
+  "top_terms": [
+    [
+      "ttf",
+      40
+    ],
+    [
+      "py",
+      24
+    ],
+    [
+      "data",
+      21
+    ],
+    [
+      "gb",
+      17
+    ],
+    [
+      "python",
+      17
+    ],
+    [
+      "rank",
+      17
+    ],
+    [
+      "runs",
+      17
+    ],
+    [
+      "ternary",
+      17
+    ],
+    [
+      "train",
+      17
+    ],
+    [
+      "gpu",
+      15
+    ],
+    [
+      "master",
+      15
+    ],
+    [
+      "tokens",
+      14
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "recipe",
+      13
+    ],
+    [
+      "bitnet",
+      12
+    ],
+    [
+      "scripts",
+      12
+    ],
+    [
+      "state",
+      12
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "step",
+      10
+    ],
+    [
+      "weights",
+      10
+    ]
+  ],
+  "url": "https://github.com/oguzeldereli/ttf-ternary",
+  "url_canonical": "https://github.com/oguzeldereli/ttf-ternary",
+  "via_source_id": "latent-space"
+}

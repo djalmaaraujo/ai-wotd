@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--ae899103",
+  "author": "Hugging Face Blog",
+  "content_chars": 21542,
+  "content_sha256": "4cf5e7af6d6c4f12edd3b737198b8ee7581cd952f9ab016416b61ec976f03bec",
+  "content_tokens": 5385,
+  "fetched_at": "2026-11-11T14:16:00Z",
+  "kind": "article",
+  "published_at": "2026-11-10T00:00:00+00:00",
+  "snippet": "Large Language Models (LLMs) are exceptionally good at generating text. We use them to answer questions, write code, reason about problems, and so much more. But not every problem requires generating text. Consider a customer support system receiving the following message: \"I…",
+  "source_id": "huggingface-blog",
+  "title": "Decision Models in Hugging Face",
+  "top_terms": [
+    [
+      "model",
+      65
+    ],
+    [
+      "decision",
+      44
+    ],
+    [
+      "models",
+      25
+    ],
+    [
+      "refund",
+      24
+    ],
+    [
+      "the model",
+      21
+    ],
+    [
+      "probability",
+      20
+    ],
+    [
+      "technical",
+      19
+    ],
+    [
+      "questions",
+      18
+    ],
+    [
+      "request",
+      18
+    ],
+    [
+      "choice",
+      17
+    ],
+    [
+      "state",
+      16
+    ],
+    [
+      "transformers",
+      16
+    ],
+    [
+      "type",
+      16
+    ],
+    [
+      "billing",
+      15
+    ],
+    [
+      "inputs",
+      15
+    ],
+    [
+      "pipeline",
+      15
+    ],
+    [
+      "decision model",
+      14
+    ],
+    [
+      "decision models",
+      14
+    ],
+    [
+      "twice",
+      14
+    ],
+    [
+      "classification",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/blog/decision",
+  "url_canonical": "https://huggingface.co/blog/decision",
+  "via_source_id": null
+}

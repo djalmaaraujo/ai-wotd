@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--dc04f5af",
+  "author": null,
+  "content_chars": 2113,
+  "content_sha256": "93fa37fdf438320117d0ff91702d62f643f73e4fb2d85c1d2d68bc665384714f",
+  "content_tokens": 528,
+  "fetched_at": "2026-11-11T14:19:01Z",
+  "kind": "article",
+  "published_at": "2026-11-10T20:05:17+00:00",
+  "snippet": "Style with any tools Make your emails look beautiful with Tailwind or inline CSS. email-template.tsx import { Body, Button, Container, Head, Heading, Html, Img, Preview, Section, Tailwind, Text } from 'react-email';interface WelcomeEmailProps {username?: string;company?…",
+  "source_id": "latent-space",
+  "title": "React Email",
+  "top_terms": [
+    [
+      "classname",
+      9
+    ],
+    [
+      "email",
+      7
+    ],
+    [
+      "text",
+      7
+    ],
+    [
+      "company",
+      6
+    ],
+    [
+      "section",
+      5
+    ],
+    [
+      "username",
+      5
+    ],
+    [
+      "strong",
+      4
+    ],
+    [
+      "tailwind",
+      4
+    ],
+    [
+      "text-sm",
+      4
+    ],
+    [
+      "text-white",
+      4
+    ],
+    [
+      "body",
+      3
+    ],
+    [
+      "container",
+      3
+    ],
+    [
+      "example",
+      3
+    ],
+    [
+      "heading",
+      3
+    ],
+    [
+      "html",
+      3
+    ],
+    [
+      "preview",
+      3
+    ],
+    [
+      "px",
+      3
+    ],
+    [
+      "react",
+      3
+    ],
+    [
+      "react email",
+      3
+    ],
+    [
+      "text classname",
+      3
+    ]
+  ],
+  "url": "https://react.email/",
+  "url_canonical": "https://react.email/",
+  "via_source_id": "latent-space"
+}

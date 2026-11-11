@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-10T14:53:02+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-11T14:21:33+00:00</lastBuildDate>
+    <item>
+      <title>ternary (2026-11-11)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-11/</link>
+      <guid isPermaLink="false">wotd-2026-11-11</guid>
+      <pubDate>2026-11-11</pubDate>
+      <description>The term &#39;ternary&#39; trended today due to the widespread adoption and release of ttf-ternary and ttf-Qwen3.8-27B-GGUF models, which demonstrate that ternary-weighted neural networks can achieve competitive performance while dramatically reducing memory footprint. The evidence shows that ttf-ternary uses two-timescale threshold flips (TTF) to train models with weights in {-1, 0, +1} without full-precision master weights, and the ttf-Qwen3.8-27B-GGUF model runs on a 12 GB GPU with 1.6 bits per weight, making it feasible to deploy on consumer hardware. This efficiency breakthrough is driving interest across the AI community.</description>
+    </item>
     <item>
       <title>Claude Fable 5.2 (2026-11-10)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-10/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-09-07</guid>
       <pubDate>2026-09-07</pubDate>
       <description>Word of the day: independent</description>
-    </item>
-    <item>
-      <title>about hours (2026-09-03)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-03/</link>
-      <guid isPermaLink="false">wotd-2026-09-03</guid>
-      <pubDate>2026-09-03</pubDate>
-      <description>Word of the day: about hours</description>
     </item>
   </channel>
 </rss>
