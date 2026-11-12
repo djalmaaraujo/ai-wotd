@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--01b4c030",
+  "author": null,
+  "content_chars": 11668,
+  "content_sha256": "c114cc6f976aa22bce8ac386b0184129b7cc576b0e9438b1cd3069257ae1c703",
+  "content_tokens": 2917,
+  "fetched_at": "2026-11-12T15:11:02Z",
+  "kind": "article",
+  "published_at": "2026-11-12T05:26:54+00:00",
+  "snippet": "Use MiniMax-H3-Image directly via API. - Global: platform.minimax.io | CN: platform.minimax.cn API docs: Use MiniMax-H3-Image directly via App. - WebApp Global: hailuoai.video | CN: hailuoai.com - Desktop Global: agent.minimax.io | CN: agent.minimax.cn MiniMax-H3-Image is a…",
+  "source_id": "latent-space",
+  "title": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
+  "top_terms": [
+    [
+      "api",
+      28
+    ],
+    [
+      "minimax-h3-image",
+      27
+    ],
+    [
+      "image",
+      24
+    ],
+    [
+      "minimax",
+      22
+    ],
+    [
+      "prompt",
+      20
+    ],
+    [
+      "size",
+      18
+    ],
+    [
+      "images",
+      16
+    ],
+    [
+      "txt",
+      15
+    ],
+    [
+      "revised",
+      14
+    ],
+    [
+      "text",
+      13
+    ],
+    [
+      "editing",
+      12
+    ],
+    [
+      "minimaxai",
+      12
+    ],
+    [
+      "reference",
+      12
+    ],
+    [
+      "edit",
+      11
+    ],
+    [
+      "encoder",
+      11
+    ],
+    [
+      "png",
+      11
+    ],
+    [
+      "t2i",
+      11
+    ],
+    [
+      "image editing",
+      10
+    ],
+    [
+      "minimax api",
+      10
+    ],
+    [
+      "sglang",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+  "url_canonical": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+  "via_source_id": "latent-space"
+}

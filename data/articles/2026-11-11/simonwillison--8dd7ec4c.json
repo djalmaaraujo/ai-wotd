@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--8dd7ec4c",
+  "author": "Simon Willison",
+  "content_chars": 866,
+  "content_sha256": "c037d96b73f5502f30175369db42909599732142e26580866f07f44e3dc2554b",
+  "content_tokens": 216,
+  "fetched_at": "2026-11-12T15:10:57Z",
+  "kind": "article",
+  "published_at": "2026-11-11T17:19:52+00:00",
+  "snippet": "11th November 2026 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w. LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API…",
+  "source_id": "simonwillison",
+  "title": "llm 0.37.2",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "llm",
+      4
+    ],
+    [
+      "api",
+      3
+    ],
+    [
+      "key",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "daniel",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "openai",
+      2
+    ],
+    [
+      "providers",
+      2
+    ],
+    [
+      "reported",
+      2
+    ],
+    [
+      "accidentally",
+      1
+    ],
+    [
+      "accidentally send",
+      1
+    ],
+    [
+      "accidentally send your",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "add command",
+      1
+    ],
+    [
+      "and ghsa-r639-rr7r-x72w",
+      1
+    ],
+    [
+      "api endpoints",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/11/llm/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/11/llm",
+  "via_source_id": null
+}

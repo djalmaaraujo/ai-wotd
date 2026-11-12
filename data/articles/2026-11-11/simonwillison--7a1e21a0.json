@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--7a1e21a0",
+  "author": "Simon Willison",
+  "content_chars": 979,
+  "content_sha256": "ed6eb29bc1d23858affb21df1a8cb4f9b89587aaf51216b489b51b5f83315439",
+  "content_tokens": 244,
+  "fetched_at": "2026-11-12T15:10:57Z",
+  "kind": "article",
+  "published_at": "2026-11-11T21:18:30+00:00",
+  "snippet": "11th November 2026 - Link Blog aws-emulator. Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the…",
+  "source_id": "simonwillison",
+  "title": "aws-emulator",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "aws-emulator",
+      2
+    ],
+    [
+      "blog",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "to run",
+      2
+    ],
+    [
+      "agents",
+      1
+    ],
+    [
+      "an official",
+      1
+    ],
+    [
+      "an official emulator",
+      1
+    ],
+    [
+      "api",
+      1
+    ],
+    [
+      "api key",
+      1
+    ],
+    [
+      "api key to",
+      1
+    ],
+    [
+      "as part",
+      1
+    ],
+    [
+      "as part of",
+      1
+    ],
+    [
+      "aws",
+      1
+    ],
+    [
+      "aws to",
+      1
+    ],
+    [
+      "aws to run",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+  "via_source_id": null
+}

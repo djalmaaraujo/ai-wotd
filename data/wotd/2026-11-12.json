@@ -1,0 +1,301 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--144f76f9",
+        "latent-space--01b4c030"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 179.832873,
+      "term": "dit",
+      "tf_today": 39
+    },
+    {
+      "articles": [
+        "codenewsletter--329dec21",
+        "latent-space--17cc8341",
+        "latent-space--652c6088"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 52.129966,
+      "term": "decision 1",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--11840178",
+        "latent-space--17cc8341",
+        "latent-space--cc4f0eaa"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 52.129966,
+      "term": "ernie",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--17cc8341",
+        "latent-space--652c6088"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 51.986039,
+      "term": "decisions api",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "latent-space--cc4f0eaa",
+        "latent-space--e1664d93"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 51.986039,
+      "term": "uv",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "latent-space--17cc8341",
+        "latent-space--cc4f0eaa"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 47.390879,
+      "term": "ernie-5.5",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--17cc8341",
+        "latent-space--cc4f0eaa"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 42.884682,
+      "term": "baidu",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "codenewsletter--329dec21",
+        "latent-space--17cc8341",
+        "latent-space--652c6088"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 42.321664,
+      "term": "gemini decision",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "codenewsletter--329dec21",
+        "latent-space--17cc8341",
+        "latent-space--652c6088"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 42.321664,
+      "term": "gemini decision 1",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "huggingface-blog--144f76f9",
+        "latent-space--01b4c030",
+        "latent-space--6910d4cb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 37.584213,
+      "term": "vae",
+      "tf_today": 11
+    }
+  ],
+  "date": "2026-11-12",
+  "evidence_article_ids": [
+    "codenewsletter--329dec21",
+    "latent-space--17cc8341",
+    "latent-space--652c6088"
+  ],
+  "judge": {
+    "input_tokens": 26612,
+    "model": "jev-1.14.0",
+    "pool_size": 53,
+    "signals": {
+      "d-day": {
+        "dominance": 2.91,
+        "event": 0.82,
+        "form": 0.78,
+        "novelty": 0.82,
+        "specificity": 0.6
+      },
+      "decision 1": {
+        "dominance": 2.94,
+        "event": 0.97,
+        "form": 0.65,
+        "novelty": 0.9,
+        "specificity": 1.88
+      },
+      "decision models": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.92,
+        "novelty": 0.9,
+        "specificity": 1.85
+      },
+      "decisions api": {
+        "dominance": 2.95,
+        "event": 0.97,
+        "form": 0.76,
+        "novelty": 0.89,
+        "specificity": 1.94
+      },
+      "definitive fine-tuning guide": {
+        "dominance": 1.94,
+        "event": 0.73,
+        "form": 0.88,
+        "novelty": 0.74,
+        "specificity": 1.34
+      },
+      "deleting weights": {
+        "dominance": 1.78,
+        "event": 0.94,
+        "form": 0.85,
+        "novelty": 0.77,
+        "specificity": 1.97
+      },
+      "ernie-5.5": {
+        "dominance": 1.56,
+        "event": 0.61,
+        "form": 0.84,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "fast": {
+        "dominance": 2.66,
+        "event": 0.85,
+        "form": 0.63,
+        "novelty": 0.54,
+        "specificity": 0.75
+      },
+      "fine-tuning": {
+        "dominance": 1.9,
+        "event": 0.7,
+        "form": 0.9,
+        "novelty": 0.53,
+        "specificity": 1.99
+      },
+      "gemini decision 1": {
+        "dominance": 2.94,
+        "event": 0.97,
+        "form": 0.94,
+        "novelty": 0.91,
+        "specificity": 2.0
+      },
+      "gemini decisions api": {
+        "dominance": 2.93,
+        "event": 0.97,
+        "form": 0.92,
+        "novelty": 0.88,
+        "specificity": 2.0
+      },
+      "hugging face": {
+        "dominance": 2.45,
+        "event": 0.7,
+        "form": 0.76,
+        "novelty": 0.55,
+        "specificity": 1.22
+      },
+      "minimax-h3-image": {
+        "dominance": 2.15,
+        "event": 0.75,
+        "form": 0.84,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "minimaxai": {
+        "dominance": 2.17,
+        "event": 0.73,
+        "form": 0.71,
+        "novelty": 0.72,
+        "specificity": 1.2
+      },
+      "model": {
+        "dominance": 2.84,
+        "event": 0.96,
+        "form": 0.58,
+        "novelty": 0.22,
+        "specificity": 1.16
+      },
+      "models": {
+        "dominance": 2.96,
+        "event": 0.97,
+        "form": 0.66,
+        "novelty": 0.36,
+        "specificity": 1.05
+      },
+      "post-training": {
+        "dominance": 1.77,
+        "event": 0.87,
+        "form": 0.84,
+        "novelty": 0.43,
+        "specificity": 1.96
+      },
+      "releases": {
+        "dominance": 2.83,
+        "event": 0.97,
+        "form": 0.74,
+        "novelty": 0.41,
+        "specificity": 0.74
+      },
+      "system": {
+        "dominance": 2.51,
+        "event": 0.85,
+        "form": 0.83,
+        "novelty": 0.68,
+        "specificity": 1.72
+      },
+      "weights": {
+        "dominance": 1.54,
+        "event": 0.82,
+        "form": 0.8,
+        "novelty": 0.54,
+        "specificity": 1.92
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "gemini decision 1",
+      "gemini decisions api",
+      "decision models",
+      "minimax-h3-image",
+      "deleting weights",
+      "ernie-5.5",
+      "fine-tuning",
+      "post-training",
+      "weights"
+    ]
+  },
+  "label": "Gemini Decision 1",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+        "https://latent.space/p/ainews-d-day-decision-models-day/",
+        "https://codenewsletter.ai/p/google-s-decision-model-scores-1-000-questions-at-once"
+      ],
+      "text": "Gemini Decision 1 (gemini-decision-1) is a calibrated multimodal model from Google designed for fast, closed-set decision tasks. Unlike generative LLMs that produce open-ended text, it takes a single multimodal input (text, image, audio, video, or PDF up to 256K tokens) and a set of up to 1,000 independent questions, then returns structured decisions for each — such as tool selection, policy compliance, model routing, or context relevance scores. It is served through the Gemini Decisions API in Google AI Studio, offering deterministic, low-latency (~200 ms) inference at a fixed price per million input tokens. The model represents a new class of \"decision models\" optimized for agentic control flow rather than content generation."
+    },
+    "generated_at": "2026-11-12T15:11:47.280619+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Google launched Gemini Decision 1, a calibrated multimodal decision model accessible via the new Gemini Decisions API in Google AI Studio. The model evaluates up to 1,000 independent questions in a single pass across text, images, audio, video, and PDFs (256K token context) with roughly 200 ms end-to-end latency at $0.10 per million input tokens. Sundar Pichai and Logan Kilpatrick announced the release, positioning it as the first production-grade decision model from a major lab — beating Anthropic to market. The API targets bounded-choice tasks such as tool selection, policy checks, model routing, and context grading, returning structured decisions rather than generated text. The launch coincides with broader industry focus on decision models as a new primitive for agentic workflows, and developers are already comparing it to the iPhone-era shift in AI device paradigms.",
+    "why": "Gemini Decision 1 trended because Google surprised the industry by shipping the first production-ready decision model from a major lab, announcing it alongside a dedicated Decisions API with concrete pricing ($0.10/M input), latency (~200 ms), and throughput (1,000 questions per call) metrics. The launch was covered simultaneously by Google's official blog and prominent AI newsletters, framing it as a competitive milestone against Anthropic."
+  },
+  "score": 42.321664,
+  "word": "gemini decision 1"
+}

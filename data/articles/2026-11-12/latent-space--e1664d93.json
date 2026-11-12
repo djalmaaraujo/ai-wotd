@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e1664d93",
+  "author": null,
+  "content_chars": 8548,
+  "content_sha256": "3d34a4f6dbd10532a85117cdea80862f633c914ce9577e44fa642cdef8d592d1",
+  "content_tokens": 2137,
+  "fetched_at": "2026-11-12T15:11:05Z",
+  "kind": "article",
+  "published_at": "2026-11-12T05:26:54+00:00",
+  "snippet": "Jack Lu1*, Zhenbang Yang1*, Mike Lasby2, Tejas Pote2, Yani Ioannou2, Mengye Ren1 1New York University, 2University of Calgary, *Equal contribution Official code for Deletion Tuning, a post-training method that learns which pretrained weights of an LLM to delete. How little of a…",
+  "source_id": "latent-space",
+  "title": "GitHub - agentic-learning-ai-lab/deleting-weights: Public code release for the paper \"The Surprising Effectiveness of Deleting Weights in LLM Post-Training\" · GitHub",
+  "top_terms": [
+    [
+      "grpo",
+      30
+    ],
+    [
+      "mask",
+      25
+    ],
+    [
+      "sdft",
+      23
+    ],
+    [
+      "llama1b",
+      21
+    ],
+    [
+      "outputs",
+      21
+    ],
+    [
+      "scripts",
+      18
+    ],
+    [
+      "sh",
+      18
+    ],
+    [
+      "sft",
+      16
+    ],
+    [
+      "bash",
+      15
+    ],
+    [
+      "bash scripts",
+      14
+    ],
+    [
+      "masks",
+      14
+    ],
+    [
+      "src",
+      14
+    ],
+    [
+      "py",
+      13
+    ],
+    [
+      "qwen2.5",
+      13
+    ],
+    [
+      "base",
+      12
+    ],
+    [
+      "evaluate",
+      12
+    ],
+    [
+      "train",
+      12
+    ],
+    [
+      "uv",
+      12
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "deletion",
+      10
+    ]
+  ],
+  "url": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+  "url_canonical": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--cc4f0eaa",
+  "author": null,
+  "content_chars": 12176,
+  "content_sha256": "28fac77055ae5b60e9e3a6593bd5e6c13e91b60fc8e50baa19c4facd5fa88aac",
+  "content_tokens": 3044,
+  "fetched_at": "2026-11-12T15:11:03Z",
+  "kind": "article",
+  "published_at": "2026-11-12T05:26:54+00:00",
+  "snippet": "ERNIE 5.5 Flash is an efficient sparse Mixture-of-Experts (MoE) language model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens with a training context of up to 128K; fine-tuning and inference support a 1M-token context. Different…",
+  "source_id": "latent-space",
+  "title": "baidu/ERNIE-5.5-Flash-Base-BF16 · Hugging Face",
+  "top_terms": [
+    [
+      "shot",
+      29
+    ],
+    [
+      "attention",
+      17
+    ],
+    [
+      "em",
+      15
+    ],
+    [
+      "ernie-5.5",
+      12
+    ],
+    [
+      "training",
+      12
+    ],
+    [
+      "context",
+      11
+    ],
+    [
+      "head",
+      11
+    ],
+    [
+      "layers",
+      11
+    ],
+    [
+      "baidu",
+      10
+    ],
+    [
+      "ernie",
+      10
+    ],
+    [
+      "expert",
+      10
+    ],
+    [
+      "moe",
+      10
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "activated",
+      7
+    ],
+    [
+      "base",
+      7
+    ],
+    [
+      "flash-base",
+      7
+    ],
+    [
+      "inference",
+      7
+    ],
+    [
+      "latent",
+      7
+    ],
+    [
+      "llm-judge",
+      7
+    ],
+    [
+      "pre-training",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16",
+  "url_canonical": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16",
+  "via_source_id": "latent-space"
+}

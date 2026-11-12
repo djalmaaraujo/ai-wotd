@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>ternary — 2026-11-11 · AI WOTD</title>
+  <title>Gemini Decision 1 — 2026-11-12 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -18,175 +18,147 @@
   </header>
   <main>
 <article class="day">
-  <p class="date">2026-11-11</p>
-  <h1>ternary</h1>
+  <p class="date">2026-11-12</p>
+  <h1>Gemini Decision 1</h1>
 
-  <p class="why">The term &#39;ternary&#39; trended today due to the widespread adoption and release of ttf-ternary and ttf-Qwen3.8-27B-GGUF models, which demonstrate that ternary-weighted neural networks can achieve competitive performance while dramatically reducing memory footprint. The evidence shows that ttf-ternary uses two-timescale threshold flips (TTF) to train models with weights in {-1, 0, +1} without full-precision master weights, and the ttf-Qwen3.8-27B-GGUF model runs on a 12 GB GPU with 1.6 bits per weight, making it feasible to deploy on consumer hardware. This efficiency breakthrough is driving interest across the AI community.</p>
+  <p class="why">Gemini Decision 1 trended because Google surprised the industry by shipping the first production-ready decision model from a major lab, announcing it alongside a dedicated Decisions API with concrete pricing ($0.10/M input), latency (~200 ms), and throughput (1,000 questions per call) metrics. The launch was covered simultaneously by Google&#39;s official blog and prominent AI newsletters, framing it as a competitive milestone against Anthropic.</p>
 
   <section class="definition">
     <h2>Definition</h2>
-    <p>Ternary refers to neural network models that use weights restricted to the set {-1, 0, +1} (ternary weights) scaled by row and column factors, rather than continuous floating-point values. This approach, known as ttf-ternary or ttf-Qwen3.8, reduces memory requirements by approximately 6x compared to standard models, enabling deployment on consumer GPUs and CPUs. The two-timescale threshold flips (TTF) method allows training these models without full-precision master weights, using a low-rank accumulator instead. This efficiency makes large models like Qwen3.8-27B feasible to run on 12 GB GPUs, as demonstrated by the ttf-Qwen3.8-27B-GGUF release.</p>
+    <p>Gemini Decision 1 (gemini-decision-1) is a calibrated multimodal model from Google designed for fast, closed-set decision tasks. Unlike generative LLMs that produce open-ended text, it takes a single multimodal input (text, image, audio, video, or PDF up to 256K tokens) and a set of up to 1,000 independent questions, then returns structured decisions for each — such as tool selection, policy compliance, model routing, or context relevance scores. It is served through the Gemini Decisions API in Google AI Studio, offering deterministic, low-latency (~200 ms) inference at a fixed price per million input tokens. The model represents a new class of &#34;decision models&#34; optimized for agentic control flow rather than content generation.</p>
     <ul class="def-refs">
-      <li><a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF" rel="noreferrer">https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF</a></li>
-      <li><a href="https://github.com/oguzeldereli/ttf-ternary" rel="noreferrer">https://github.com/oguzeldereli/ttf-ternary</a></li>
-      <li><a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF" rel="noreferrer">https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF</a></li>
+      <li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api" rel="noreferrer">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</a></li>
+      <li><a href="https://latent.space/p/ainews-d-day-decision-models-day/" rel="noreferrer">https://latent.space/p/ainews-d-day-decision-models-day/</a></li>
+      <li><a href="https://codenewsletter.ai/p/google-s-decision-model-scores-1-000-questions-at-once" rel="noreferrer">https://codenewsletter.ai/p/google-s-decision-model-scores-1-000-questions-at-once</a></li>
     </ul>
   </section>
 
   <section class="summary">
     <h2>Today in AI</h2>
-    <p>Today&#39;s AI landscape is dominated by the emergence of ternary neural network architectures, which represent a significant shift in model efficiency. The ttf-ternary framework and ttf-Qwen3.8-27B-GGUF model demonstrate how models can be trained and deployed using ternary weights ({-1, 0, +1} scaled by row and column factors) instead of full-precision floating point representations. This approach, known as two-timescale threshold flips (TTF), reduces memory requirements by approximately 6x compared to standard models, enabling deployment on consumer hardware. The ttf-Qwen3.8-27B-GGUF model, for instance, runs on a 12 GB GPU with 1.6 bits per weight, while the ttf-Qwen3.8-Flash-Next-GGUF achieves 4.6x compression over FP8 releases. These innovations are being actively developed and released by the open-source community, with projects like ttf-ternary and ttf-home providing tools for training, converting, and running ternary models on various hardware.</p>
+    <p>Google launched Gemini Decision 1, a calibrated multimodal decision model accessible via the new Gemini Decisions API in Google AI Studio. The model evaluates up to 1,000 independent questions in a single pass across text, images, audio, video, and PDFs (256K token context) with roughly 200 ms end-to-end latency at $0.10 per million input tokens. Sundar Pichai and Logan Kilpatrick announced the release, positioning it as the first production-grade decision model from a major lab — beating Anthropic to market. The API targets bounded-choice tasks such as tool selection, policy checks, model routing, and context grading, returning structured decisions rather than generated text. The launch coincides with broader industry focus on decision models as a new primitive for agentic workflows, and developers are already comparing it to the iPhone-era shift in AI device paradigms.</p>
   </section>
 
   <section class="evidence">
-    <h2>Evidence (6)</h2>
+    <h2>Evidence (3)</h2>
     <ul>
       <li>
-        <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-27B-GGUF · Hugging Face</a>
+        <a href="https://codenewsletter.ai/p/google-s-decision-model-scores-1-000-questions-at-once" rel="noreferrer">Google’s decision model scores 1,000 questions at once</a>
         <span class="meta">
-          latent-space          · 2026-11-11
+          codenewsletter · Code Newsletter          · 2026-11-12
         </span>
-<blockquote>Qwen3.8-27B with every linear layer ternary ({-1, 0, +1} times row and column scales), as GGUF files of 1.6 bits per ternary weight that run entirely on a 12 GB GPU. Two variants: | file | size | what differs | |---|---|---| ttf-Qwen3.8-27B-adapters-r0.2-TQ1_P.gguf | 8.20 GB |…</blockquote>      </li>
+<blockquote>Google’s decision model scores 1,000 questions at once Google’s decision model scores 1,000 questions at once Also: Learn T3 Code Nov 12, 2026 Welcome back. Ever since Jev, big tech has been obsessed with decision models. Google just dropped its best one yet, capable of…</blockquote>      </li>
       <li>
-        <a href="https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate" rel="noreferrer">[AINews] Mercor $750m Series D at $20B valuation, $3B run rate</a>
+        <a href="https://latent.space/p/ainews-d-day-decision-models-day" rel="noreferrer">[AINews] D-Day (Decision Models Day)</a>
         <span class="meta">
-          latent-space · swyx .ai          · 2026-11-11
+          latent-space · swyx .ai          · 2026-11-12
         </span>
-<blockquote>Our usual bar for making a fundraise a title story these days is a decacorn ($10B) valuation. We missed Mercor’s $10B Series C last year when it had less than $500m in revenue, but knew we wouldn’t have to wait too long til the next round, since it crossed $1B in Feb and $2B in…</blockquote>      </li>
+<blockquote>Richard covered Diogo’s triumphant return to AIE talking about the Jevolution with their most notable production customers since crossing $100M ARR In a BIG surprise, Google beat Anthropic to launching a production decision model, with Sundar and Logan announcing Gemini Decision…</blockquote>      </li>
       <li>
-        <a href="https://github.com/oguzeldereli/ttf-ternary" rel="noreferrer">GitHub - oguzeldereli/ttf-ternary: Two-timescale threshold flips (TTF): training and converting ternary {-1,0,1} LLMs without full-precision master weights. ~1 byte of optimizer state per weight; 23B trains on a 16 GB GPU, Qwen3.8-27B converted and recovered on one 24 GB card. · GitHub</a>
+        <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api" rel="noreferrer">Gemini Decisions API: Fast multimodal decisions</a>
         <span class="meta">
-          latent-space          · 2026-11-11
+          latent-space          · 2026-11-12
         </span>
-<blockquote>Train ternary ({-1, 0, +1}) language models without full-precision master weights. The weights stay packed at 1.6 bits (5 trits per byte) for the whole of training. The optimizer state is low-rank, about one byte per weight in place of the 12-16 bytes of master weights plus…</blockquote>      </li>
-      <li>
-        <a href="https://github.com/oguzeldereli/ttf-conversion" rel="noreferrer">GitHub - oguzeldereli/ttf-conversion: Qwen3.5 / 3.8 to ternary with TTF-trainable ternary adapters · GitHub</a>
-        <span class="meta">
-          latent-space          · 2026-11-11
-        </span>
-<blockquote>Convert a full-precision Qwen3.5 / Qwen3.8 model into a ternary network: weights in {−1, 0, +1} times row and column scales, optionally with low-rank adapters and a fine residual of extra digits. The conversion is its own code base. It builds its models with ttf-core (the Qwen…</blockquote>      </li>
-      <li>
-        <a href="https://github.com/oguzeldereli/ttf-home" rel="noreferrer">GitHub - oguzeldereli/ttf-home: Ternary language models on a home computer: run, train, convert, fine-tune, export to GGUF · GitHub</a>
-        <span class="meta">
-          latent-space          · 2026-11-11
-        </span>
-<blockquote>Ternary language models on a home computer: - run the released ternary Qwen3.8 models; - train a model from scratch; - convert a Qwen3.5 / 3.8 model to ternary and keep training it; - fine-tune on your own text; - run the result fast on a consumer GPU or CPU. One command line…</blockquote>      </li>
-      <li>
-        <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF · Hugging Face</a>
-        <span class="meta">
-          latent-space          · 2026-11-11
-        </span>
-<blockquote>Qwen3.8-Flash-Next (MoE, 180B parameters) with every routed expert and dense projection ternary, in one 40.4 GB GGUF file. That is 4.6 times smaller than the FP8 release. It was made in two steps: - Conversion with ttf-conversion, layer by layer on one GPU: - ternary GPTQ on the…</blockquote>      </li>
+<blockquote>Gemini Decisions API: Fast, calibrated multimodal decisions Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio. The…</blockquote>      </li>
     </ul>
   </section>
 
   <section class="candidates">
     <h2>Candidates</h2>
     <ol>
-      <li>ttf <span class="meta">tf=140, df=6, score=1154.71</span></li>
-      <li>deletion <span class="meta">tf=41, df=3, score=204.33</span></li>
-      <li>ttf-ternary <span class="meta">tf=31, df=6, score=179.06</span></li>
-      <li>ttf-qwen3.8 <span class="meta">tf=32, df=5, score=174.05</span></li>
-      <li>deletion tuning <span class="meta">tf=34, df=3, score=161.18</span></li>
-      <li>tq1 <span class="meta">tf=32, df=3, score=149.18</span></li>
-      <li>q38 <span class="meta">tf=28, df=5, score=146.66</span></li>
-      <li>ttfconv <span class="meta">tf=31, df=2, score=131.31</span></li>
-      <li>oguzeldereli <span class="meta">tf=25, df=5, score=126.70</span></li>
-      <li>ttf-conversion <span class="meta">tf=20, df=6, score=101.48</span></li>
+      <li>dit <span class="meta">tf=39, df=2, score=179.83</span></li>
+      <li>decision 1 <span class="meta">tf=14, df=3, score=52.13</span></li>
+      <li>ernie <span class="meta">tf=14, df=3, score=52.13</span></li>
+      <li>decisions api <span class="meta">tf=15, df=2, score=51.99</span></li>
+      <li>uv <span class="meta">tf=15, df=2, score=51.99</span></li>
+      <li>ernie-5.5 <span class="meta">tf=14, df=2, score=47.39</span></li>
+      <li>baidu <span class="meta">tf=13, df=2, score=42.88</span></li>
+      <li>gemini decision <span class="meta">tf=12, df=3, score=42.32</span></li>
+      <li>gemini decision 1 <span class="meta">tf=12, df=3, score=42.32</span></li>
+      <li>vae <span class="meta">tf=11, df=3, score=37.58</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (18)</summary>
+      <summary>All queried links (16)</summary>
       <ul>
         <li>
-          <a href="https://codenewsletter.ai/p/minimax-gives-devs-open-weights-for-16mp-images" rel="noreferrer">MiniMax gives devs open weights for 16MP images</a>
+          <a href="https://codenewsletter.ai/p/google-s-decision-model-scores-1-000-questions-at-once" rel="noreferrer">Google’s decision model scores 1,000 questions at once</a>
           <span class="meta">
             codenewsletter · Code Newsletter          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/blog/qvac/botpsy" rel="noreferrer">BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</a>
+          <a href="https://huggingface.co/blog/3d-lora-finetuning" rel="noreferrer">The Definitive Fine-Tuning Guide for 3D Generation Models</a>
           <span class="meta">
             huggingface-blog · Hugging Face Blog          </span>
         </li>
         <li>
-          <a href="https://latent.space/p/codex-work" rel="noreferrer">AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</a>
-          <span class="meta">
-            latent-space · Richard MacManus          </span>
-        </li>
-        <li>
-          <a href="https://www.mercor.com/blog/update-on-mercor-security-incident" rel="noreferrer">Mercor Data Breach: Investigation Findings and Updates</a>
+          <a href="https://huggingface.co/MiniMaxAI/MiniMax-H3-Image" rel="noreferrer">MiniMaxAI/MiniMax-H3-Image · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-27B-GGUF · Hugging Face</a>
+          <a href="https://comma.ai/" rel="noreferrer">comma.ai — make driving chill</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate" rel="noreferrer">[AINews] Mercor $750m Series D at $20B valuation, $3B run rate</a>
+          <a href="https://github.com/ggml-org/llama.cpp/pull/31925" rel="noreferrer">model : add ERNIE 5.5 by FakerVSdonk · Pull Request #31925 · ggml-org/llama.cpp · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://latent.space/p/ainews-d-day-decision-models-day" rel="noreferrer">[AINews] D-Day (Decision Models Day)</a>
           <span class="meta">
             latent-space · swyx .ai          </span>
         </li>
         <li>
-          <a href="https://github.com/oguzeldereli/ttf-ternary" rel="noreferrer">GitHub - oguzeldereli/ttf-ternary: Two-timescale threshold flips (TTF): training and converting ternary {-1,0,1} LLMs without full-precision master weights. ~1 byte of optimizer state per weight; 23B trains on a 16 GB GPU, Qwen3.8-27B converted and recovered on one 24 GB card. · GitHub</a>
+          <a href="https://alignment.openai.com/" rel="noreferrer">Research and Releases · OpenAI Alignment</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://dealroom.co/news/171271-mercor-raises-750m-series-d-at-20b-valuation-to-push-into-enterprise-ai" rel="noreferrer">Mercor raises $750M Series D at $20B valuation to push into enterprise AI | Dealroom News</a>
+          <a href="https://embedl.com/nvidia/alpamayo2-edge/thor?tab=run" rel="noreferrer">Alpamayo 2 Edge on Jetson AGX Thor - run it live - Embedl</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://arxiv.org/abs/2611.10866" rel="noreferrer">[2611.10866] The Surprising Effectiveness of Deleting Weights in LLM Post-Training</a>
+          <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api" rel="noreferrer">Gemini Decisions API: Fast multimodal decisions</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/oguzeldereli/ttf-conversion" rel="noreferrer">GitHub - oguzeldereli/ttf-conversion: Qwen3.5 / 3.8 to ternary with TTF-trainable ternary adapters · GitHub</a>
+          <a href="https://huggingface.co/Comfy-Org/MiniMax-H3-Image" rel="noreferrer">Comfy-Org/MiniMax-H3-Image · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://community.openai.com/t/meet-the-all-new-codex-cloud/1402399" rel="noreferrer">Meet the all new Codex Cloud - Codex - OpenAI Developer Community</a>
+          <a href="https://latent.space/p/jev-revolution" rel="noreferrer">The Jev Revolution: What Engineers Are Already Building with System One Models</a>
+          <span class="meta">
+            latent-space · Richard MacManus          </span>
+        </li>
+        <li>
+          <a href="https://serpapi.com/latentspace-ainews-extract-featured" rel="noreferrer">Extract API - SerpApi</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/oguzeldereli/ttf-home" rel="noreferrer">GitHub - oguzeldereli/ttf-home: Ternary language models on a home computer: run, train, convert, fine-tune, export to GGUF · GitHub</a>
+          <a href="https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16" rel="noreferrer">baidu/ERNIE-5.5-Flash-Base-BF16 · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://aie-codex-workshop.openai.chatgpt.site/" rel="noreferrer">New ways of working with Codex</a>
+          <a href="https://github.com/agentic-learning-ai-lab/deleting-weights" rel="noreferrer">GitHub - agentic-learning-ai-lab/deleting-weights: Public code release for the paper &#34;The Surprising Effectiveness of Deleting Weights in LLM Post-Training&#34; · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c" rel="noreferrer">Mercor quintuples valuation to $10B with $350M Series C | TechCrunch</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF" rel="noreferrer">oguzeldereli/ttf-Qwen3.8-Flash-Next-GGUF · Hugging Face</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://agenticlearning.ai/deleting-weights" rel="noreferrer">The Surprising Effectiveness of Deleting Weights in LLM Post-Training | Agentic Learning AI Lab</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://openai.com/index/gilbert-tobin-sam-nickless" rel="noreferrer">Gilbert + Tobin rethinks the business of law with AI</a>
+          <a href="https://openai.com/business/customer-stories/holidays-extras-codex" rel="noreferrer">Holiday Extras is rethinking what it can build with Codex</a>
           <span class="meta">
             openai-blog · OpenAI Blog          </span>
         </li>
         <li>
-          <a href="https://openai.com/index/chatgpt-plus-for-veterans" rel="noreferrer">ChatGPT Plus for veterans and servicemembers</a>
+          <a href="https://openai.com/index/children-first-declaration" rel="noreferrer">Supporting research on AI and children’s safety</a>
           <span class="meta">
             openai-blog · OpenAI Blog          </span>
         </li>
@@ -199,7 +171,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-11T14:21:33+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-12T15:11:50+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>

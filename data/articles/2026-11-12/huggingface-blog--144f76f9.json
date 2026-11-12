@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--144f76f9",
+  "author": "Hugging Face Blog",
+  "content_chars": 23699,
+  "content_sha256": "7e72ed5cdb5431c836744cdeb31efe2d612f1c0ad043cef7ef99e85cb678db5b",
+  "content_tokens": 5924,
+  "fetched_at": "2026-11-12T15:08:11Z",
+  "kind": "article",
+  "published_at": "2026-11-12T00:00:00+00:00",
+  "snippet": "TLDR; In this blog, we provide fine-tuning scripts and containers to fine-tune TRELLIS.2, a popular 3D model on your 3D assets, that can run both locally and on Hugging Face Jobs. If you are interested in fine-tuning, you can use our scripts with few arguments (assuming you…",
+  "source_id": "huggingface-blog",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "top_terms": [
+    [
+      "flow",
+      40
+    ],
+    [
+      "shape",
+      40
+    ],
+    [
+      "hf",
+      39
+    ],
+    [
+      "lora",
+      36
+    ],
+    [
+      "dit",
+      34
+    ],
+    [
+      "model",
+      30
+    ],
+    [
+      "flow dit",
+      29
+    ],
+    [
+      "your-username",
+      28
+    ],
+    [
+      "run",
+      24
+    ],
+    [
+      "training",
+      24
+    ],
+    [
+      "adapters",
+      21
+    ],
+    [
+      "cfg",
+      20
+    ],
+    [
+      "data",
+      18
+    ],
+    [
+      "ss",
+      18
+    ],
+    [
+      "steps",
+      17
+    ],
+    [
+      "token",
+      17
+    ],
+    [
+      "dataset",
+      16
+    ],
+    [
+      "latents",
+      16
+    ],
+    [
+      "trellis.2",
+      16
+    ],
+    [
+      "jobs",
+      15
+    ]
+  ],
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "url_canonical": "https://huggingface.co/blog/3d-lora-finetuning",
+  "via_source_id": null
+}
