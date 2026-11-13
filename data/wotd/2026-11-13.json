@@ -1,0 +1,277 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--34648260",
+        "latent-space--cebcafb9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 515.116601,
+      "term": "mr",
+      "tf_today": 92
+    },
+    {
+      "articles": [
+        "codenewsletter--9686f7db",
+        "latent-space--bde1fa4c",
+        "latent-space--ddb17d90"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 259.344113,
+      "term": "hydrogen",
+      "tf_today": 49
+    },
+    {
+      "articles": [
+        "latent-space--104dc6c0",
+        "latent-space--aa9bb4d7",
+        "latent-space--e64d6a4b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 207.330732,
+      "term": "psd",
+      "tf_today": 41
+    },
+    {
+      "articles": [
+        "latent-space--104dc6c0",
+        "latent-space--aa9bb4d7",
+        "latent-space--e64d6a4b",
+        "latent-space--f420da02"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 184.445828,
+      "term": "photocraft",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "latent-space--e64d6a4b",
+        "latent-space--f420da02"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 160.579644,
+      "term": "parity",
+      "tf_today": 36
+    },
+    {
+      "articles": [
+        "latent-space--104dc6c0",
+        "latent-space--e64d6a4b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 154.934495,
+      "term": "brush",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "latent-space--34648260",
+        "latent-space--bde1fa4c",
+        "latent-space--cebcafb9"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 127.561089,
+      "term": "kress",
+      "tf_today": 28
+    },
+    {
+      "articles": [
+        "latent-space--104dc6c0",
+        "latent-space--e64d6a4b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 95.430201,
+      "term": "transform",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "codenewsletter--9686f7db",
+        "latent-space--bde1fa4c",
+        "latent-space--ddb17d90"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 93.327063,
+      "term": "gemini 4 hydrogen",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "latent-space--34648260",
+        "latent-space--bde1fa4c",
+        "latent-space--cebcafb9"
+      ],
+      "avg_tf_baseline": 4.6667,
+      "df_today": 3,
+      "score": 88.477652,
+      "term": "huang",
+      "tf_today": 126
+    }
+  ],
+  "date": "2026-11-13",
+  "evidence_article_ids": [
+    "latent-space--104dc6c0",
+    "latent-space--aa9bb4d7",
+    "latent-space--e64d6a4b",
+    "latent-space--f420da02"
+  ],
+  "judge": {
+    "input_tokens": 29578,
+    "model": "jev-1.14.0",
+    "pool_size": 59,
+    "signals": {
+      "announces ceo transition": {
+        "dominance": 2.98,
+        "event": 0.91,
+        "form": 0.58,
+        "novelty": 0.63,
+        "specificity": 0.02
+      },
+      "artcraft": {
+        "dominance": 2.5,
+        "event": 0.63,
+        "form": 0.83,
+        "novelty": 0.87,
+        "specificity": 1.68
+      },
+      "artcraft cloned photoshop": {
+        "dominance": 2.5,
+        "event": 0.54,
+        "form": 0.48,
+        "novelty": 0.86,
+        "specificity": 1.73
+      },
+      "board": {
+        "dominance": 2.75,
+        "event": 0.77,
+        "form": 0.74,
+        "novelty": 0.7,
+        "specificity": 0.04
+      },
+      "chinese spy": {
+        "dominance": 2.81,
+        "event": 0.68,
+        "form": 0.74,
+        "novelty": 0.53,
+        "specificity": 0.01
+      },
+      "cloned photoshop": {
+        "dominance": 2.62,
+        "event": 0.48,
+        "form": 0.49,
+        "novelty": 0.84,
+        "specificity": 0.92
+      },
+      "gemini 4 hydrogen": {
+        "dominance": 1.87,
+        "event": 0.92,
+        "form": 0.91,
+        "novelty": 0.67,
+        "specificity": 2.0
+      },
+      "huang": {
+        "dominance": 2.98,
+        "event": 0.97,
+        "form": 0.85,
+        "novelty": 0.57,
+        "specificity": 0.29
+      },
+      "hydrogen": {
+        "dominance": 1.88,
+        "event": 0.89,
+        "form": 0.89,
+        "novelty": 0.67,
+        "specificity": 1.89
+      },
+      "jensen huang": {
+        "dominance": 2.98,
+        "event": 0.97,
+        "form": 0.96,
+        "novelty": 0.57,
+        "specificity": 0.42
+      },
+      "nvidia": {
+        "dominance": 2.98,
+        "event": 0.97,
+        "form": 0.92,
+        "novelty": 0.66,
+        "specificity": 1.04
+      },
+      "nvidia announces ceo transition": {
+        "dominance": 2.98,
+        "event": 0.93,
+        "form": 0.81,
+        "novelty": 0.66,
+        "specificity": 0.13
+      },
+      "nvidia board": {
+        "dominance": 2.72,
+        "event": 0.91,
+        "form": 0.86,
+        "novelty": 0.68,
+        "specificity": 0.08
+      },
+      "photo": {
+        "dominance": 2.43,
+        "event": 0.7,
+        "form": 0.76,
+        "novelty": 0.81,
+        "specificity": 0.21
+      },
+      "photocraft": {
+        "dominance": 2.59,
+        "event": 0.55,
+        "form": 0.91,
+        "novelty": 0.87,
+        "specificity": 1.85
+      },
+      "resignation": {
+        "dominance": 2.98,
+        "event": 0.95,
+        "form": 0.87,
+        "novelty": 0.68,
+        "specificity": 0.01
+      },
+      "spy": {
+        "dominance": 2.8,
+        "event": 0.62,
+        "form": 0.78,
+        "novelty": 0.53,
+        "specificity": 0.0
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "photocraft",
+      "hydrogen",
+      "gemini 4 hydrogen"
+    ]
+  },
+  "label": "PhotoCraft",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://getartcraft.com/apps/photocraft",
+        "https://github.com/storytold/photocraft",
+        "https://latent.space/p/artcraft/"
+      ],
+      "text": "PhotoCraft is an open-source, cross-platform raster graphics editor developed by ArtCraft as a drop-in replacement for Adobe Photoshop. Built in Rust with a native compositor targeting Metal, Vulkan, DirectX 12, and WebGPU, it replicates Photoshop's UI, shortcuts, layer system, adjustment layers, filters, smart objects, and PSD/PSB file format with byte-for-byte round-trip accuracy. It runs offline, requires no web runtime, and is positioned as the first release in ArtCraft's broader strategy to recreate proprietary creative software as community-owned, AI-extensible alternatives."
+    },
+    "generated_at": "2026-11-13T14:34:21.096025+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "ArtCraft, a fledgling company founded by Brandon Thomas, presented its ambitious open-source strategy at the AI Engineer Code Summit in San Francisco. The centerpiece is PhotoCraft, a Photoshop-compatible image editor written entirely in Rust that runs natively on Metal, Vulkan, DirectX 12, and WebGPU without Electron. The application achieves near-perfect PSD/PSB round-trip fidelity — 134 of 135 real-world test files match byte-for-byte — and replicates Photoshop's menus, shortcuts, panels, and tools including 16 adjustment layers, 70-plus live-preview filters, and smart objects. ArtCraft has released 17 open-source clones of popular software tools to date, and Thomas signaled intentions to extend the approach beyond imaging, having already replicated Adobe Acrobat. The project's public parity tracker on GitHub documents ongoing compatibility work against Photoshop 26.6.1.",
+    "why": "PhotoCraft trended today because ArtCraft founder Brandon Thomas demoed the Rust-based Photoshop clone at the AI Engineer Code Summit in San Francisco, framing it as a manifesto for AI-era open-source software that replicates proprietary creative tools with native performance and full file-format parity."
+  },
+  "score": 184.445828,
+  "word": "photocraft"
+}

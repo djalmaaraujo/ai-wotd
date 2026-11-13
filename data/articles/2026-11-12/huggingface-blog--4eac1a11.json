@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--4eac1a11",
+  "author": "Hugging Face Blog",
+  "content_chars": 11900,
+  "content_sha256": "cbf7505e911f1043cb90ffe65addcb8c3715cf5e9a8f7000c4ab07c3e2d2bb4e",
+  "content_tokens": 2975,
+  "fetched_at": "2026-11-13T14:30:56Z",
+  "kind": "article",
+  "published_at": "2026-11-12T19:07:35+00:00",
+  "snippet": "LLMs rely on their context to generate the next set of tokens. Over a long trajectory, the context fills with numerous types of components: a system prompt, past conversation turns, instructions that act on retrieved documents, tool responses or user data, requirements…",
+  "source_id": "huggingface-blog",
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "top_terms": [
+    [
+      "llmon",
+      29
+    ],
+    [
+      "data",
+      23
+    ],
+    [
+      "model",
+      22
+    ],
+    [
+      "open",
+      21
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "exec",
+      13
+    ],
+    [
+      "instruction",
+      13
+    ],
+    [
+      "close",
+      12
+    ],
+    [
+      "end",
+      12
+    ],
+    [
+      "block",
+      11
+    ],
+    [
+      "structure",
+      11
+    ],
+    [
+      "the model",
+      11
+    ],
+    [
+      "chat",
+      10
+    ],
+    [
+      "json",
+      7
+    ],
+    [
+      "prompt",
+      7
+    ],
+    [
+      "the llmon",
+      7
+    ],
+    [
+      "context",
+      6
+    ],
+    [
+      "granite",
+      6
+    ],
+    [
+      "granite 4.1",
+      6
+    ],
+    [
+      "instructions",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "url_canonical": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "via_source_id": null
+}

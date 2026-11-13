@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--9dd1f25b",
+  "author": null,
+  "content_chars": 2939,
+  "content_sha256": "feab9a4ae926d18e0a8d80fe3888e343953230655b8b6f2e1ddc45c5291b1c81",
+  "content_tokens": 734,
+  "fetched_at": "2026-11-13T14:33:51Z",
+  "kind": "article",
+  "published_at": "2026-11-13T09:04:13+00:00",
+  "snippet": "Vocabulary pruning for byte-level BPE GGUF models. A multilingual vocab is mostly dead weight for English and code work. Dropping the unused tokens shrinks token_embd.weight and output.weight , which is where a large fraction of a small quant's file size lives. Rows are gathered…",
+  "source_id": "latent-space",
+  "title": "GitHub - bsaleh03/ASCII-Condensed-prune-tools · GitHub",
+  "top_terms": [
+    [
+      "vocab",
+      11
+    ],
+    [
+      "gguf",
+      8
+    ],
+    [
+      "policy",
+      7
+    ],
+    [
+      "tokens",
+      7
+    ],
+    [
+      "kept",
+      6
+    ],
+    [
+      "p1m",
+      6
+    ],
+    [
+      "prune",
+      6
+    ],
+    [
+      "py",
+      6
+    ],
+    [
+      "characters",
+      5
+    ],
+    [
+      "ascii",
+      4
+    ],
+    [
+      "bpe",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "py src",
+      4
+    ],
+    [
+      "source",
+      4
+    ],
+    [
+      "src",
+      4
+    ],
+    [
+      "byte",
+      3
+    ],
+    [
+      "policy p1m",
+      3
+    ],
+    [
+      "rows",
+      3
+    ],
+    [
+      "set",
+      3
+    ],
+    [
+      "still",
+      3
+    ]
+  ],
+  "url": "https://github.com/bsaleh03/ASCII-Condensed-prune-tools",
+  "url_canonical": "https://github.com/bsaleh03/ASCII-Condensed-prune-tools",
+  "via_source_id": "latent-space"
+}

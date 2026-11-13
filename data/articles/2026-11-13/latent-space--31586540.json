@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--31586540",
+  "author": null,
+  "content_chars": 4558,
+  "content_sha256": "4698dfc62183f63fa95cb5735fe74676368243804418bdfade948211e0a9b81d",
+  "content_tokens": 1139,
+  "fetched_at": "2026-11-13T14:33:52Z",
+  "kind": "article",
+  "published_at": "2026-11-13T09:04:13+00:00",
+  "snippet": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 300+ supported cars. Quick start: bash <(curl -fsSL openpilot.comma.ai) To use openpilot in a car, you need four things: - Supported Device: a comma four, available at…",
+  "source_id": "latent-space",
+  "title": "GitHub - commaai/openpilot: openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · GitHub",
+  "top_terms": [
+    [
+      "comma",
+      23
+    ],
+    [
+      "openpilot",
+      21
+    ],
+    [
+      "software",
+      8
+    ],
+    [
+      "branch",
+      7
+    ],
+    [
+      "data",
+      7
+    ],
+    [
+      "car",
+      6
+    ],
+    [
+      "supported",
+      6
+    ],
+    [
+      "cars",
+      5
+    ],
+    [
+      "four",
+      5
+    ],
+    [
+      "openpilot is",
+      5
+    ],
+    [
+      "system",
+      5
+    ],
+    [
+      "comma four",
+      4
+    ],
+    [
+      "commaai",
+      4
+    ],
+    [
+      "development",
+      4
+    ],
+    [
+      "installer",
+      4
+    ],
+    [
+      "nightly",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "tests",
+      4
+    ],
+    [
+      "url",
+      4
+    ],
+    [
+      "user",
+      4
+    ]
+  ],
+  "url": "https://github.com/commaai/openpilot",
+  "url_canonical": "https://github.com/commaai/openpilot",
+  "via_source_id": "latent-space"
+}

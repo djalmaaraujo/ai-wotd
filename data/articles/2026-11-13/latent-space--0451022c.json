@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--0451022c",
+  "author": null,
+  "content_chars": 8791,
+  "content_sha256": "b2c84fee0dd85987c51b83f6f291c7be516c7453432c61d121a96579f89c3b47",
+  "content_tokens": 2197,
+  "fetched_at": "2026-11-13T14:33:50Z",
+  "kind": "article",
+  "published_at": "2026-11-13T09:04:13+00:00",
+  "snippet": "Qwen3.8-27B is a 27B parameter dense model Qwen, featuring vision and reasoning capabilities, a 256K context window, and runs locally on 17GB RAM/VRAM setups. Qwen3.8 excels at agentic coding, vision and chat tasks, and can now run via Unsloth GGUFs, NVFP4 and Unsloth Desktop…",
+  "source_id": "latent-space",
+  "title": "Qwen3.8 - How to Run Locally | Unsloth Documentation",
+  "top_terms": [
+    [
+      "qwen3.8",
+      30
+    ],
+    [
+      "unsloth",
+      23
+    ],
+    [
+      "gb",
+      19
+    ],
+    [
+      "run",
+      15
+    ],
+    [
+      "accuracy",
+      12
+    ],
+    [
+      "benchmarks",
+      11
+    ],
+    [
+      "quants",
+      11
+    ],
+    [
+      "nvfp4",
+      10
+    ],
+    [
+      "top",
+      10
+    ],
+    [
+      "penalty",
+      9
+    ],
+    [
+      "thinking",
+      9
+    ],
+    [
+      "desktop",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "unsloth desktop",
+      8
+    ],
+    [
+      "context",
+      7
+    ],
+    [
+      "ram",
+      7
+    ],
+    [
+      "bit",
+      6
+    ],
+    [
+      "chat",
+      6
+    ],
+    [
+      "cuda",
+      6
+    ],
+    [
+      "dggml",
+      6
+    ]
+  ],
+  "url": "https://unsloth.ai/docs/models/qwen3.8",
+  "url_canonical": "https://unsloth.ai/docs/models/qwen3.8",
+  "via_source_id": "latent-space"
+}

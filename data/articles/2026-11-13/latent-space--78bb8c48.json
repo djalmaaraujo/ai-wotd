@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--78bb8c48",
+  "author": null,
+  "content_chars": 11520,
+  "content_sha256": "58a1cc9c6d0d558c3cdfeaded08424d05fec6913a568077948095e47fb1d190d",
+  "content_tokens": 2880,
+  "fetched_at": "2026-11-13T14:33:52Z",
+  "kind": "article",
+  "published_at": "2026-11-13T09:04:13+00:00",
+  "snippet": "An interactive world model. You give it one start image, then hold keys; it generates the video that follows, one frame at a time, and streams it to a browser while you play. The architecture is Summaryformer. It is my own design: I arrived at it after testing a lot of ideas on…",
+  "source_id": "latent-space",
+  "title": "lucidml/gta · Hugging Face",
+  "top_terms": [
+    [
+      "frame",
+      42
+    ],
+    [
+      "py",
+      25
+    ],
+    [
+      "start",
+      19
+    ],
+    [
+      "summary",
+      18
+    ],
+    [
+      "tokens",
+      17
+    ],
+    [
+      "frames",
+      15
+    ],
+    [
+      "image",
+      15
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "raw",
+      13
+    ],
+    [
+      "server",
+      13
+    ],
+    [
+      "start image",
+      13
+    ],
+    [
+      "the start",
+      13
+    ],
+    [
+      "keys",
+      12
+    ],
+    [
+      "the start image",
+      10
+    ],
+    [
+      "window",
+      10
+    ],
+    [
+      "latent",
+      9
+    ],
+    [
+      "memory",
+      9
+    ],
+    [
+      "attention",
+      8
+    ],
+    [
+      "every",
+      8
+    ],
+    [
+      "planes",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/lucidml/gta",
+  "url_canonical": "https://huggingface.co/lucidml/gta",
+  "via_source_id": "latent-space"
+}

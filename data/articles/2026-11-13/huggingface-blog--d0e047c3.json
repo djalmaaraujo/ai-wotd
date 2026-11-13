@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--d0e047c3",
+  "author": "Hugging Face Blog",
+  "content_chars": 4065,
+  "content_sha256": "b34e8386e67b8b1ad412fdcedba21f99060a0d42dec30dbd231d6cc3ad1e163b",
+  "content_tokens": 1016,
+  "fetched_at": "2026-11-13T14:30:56Z",
+  "kind": "article",
+  "published_at": "2026-11-13T14:05:22+00:00",
+  "snippet": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level…",
+  "source_id": "huggingface-blog",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "top_terms": [
+    [
+      "llama",
+      11
+    ],
+    [
+      "cpp",
+      10
+    ],
+    [
+      "macos",
+      6
+    ],
+    [
+      "api",
+      5
+    ],
+    [
+      "ggml",
+      5
+    ],
+    [
+      "ggml-org",
+      5
+    ],
+    [
+      "linux",
+      5
+    ],
+    [
+      "change",
+      4
+    ],
+    [
+      "continue",
+      4
+    ],
+    [
+      "hardware",
+      4
+    ],
+    [
+      "library",
+      4
+    ],
+    [
+      "support",
+      4
+    ],
+    [
+      "v1.0.0",
+      4
+    ],
+    [
+      "windows",
+      4
+    ],
+    [
+      "backends",
+      3
+    ],
+    [
+      "continue to",
+      3
+    ],
+    [
+      "developers",
+      3
+    ],
+    [
+      "every",
+      3
+    ],
+    [
+      "face",
+      3
+    ],
+    [
+      "hf",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "url_canonical": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "via_source_id": null
+}
