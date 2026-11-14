@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1bbb7ce6",
+  "author": null,
+  "content_chars": 268,
+  "content_sha256": "b75b6e240eab1f955ef119c6806c7f1dc86b74d1e337ff90a2d16d00b26ba068",
+  "content_tokens": 67,
+  "fetched_at": "2026-11-14T13:30:44Z",
+  "kind": "article",
+  "published_at": "2026-11-14T08:31:02+00:00",
+  "snippet": "AI in Production Cloudflare shares lessons from large-scale deployment. LinkedIn explains how it serves a small model for ads ranking at over 10K queries per second with scoring latency under 80 ms. Other sessions cover multimodal data pipelines and private inference.",
+  "source_id": "latent-space",
+  "title": "SGLang Summit 2026",
+  "top_terms": [
+    [
+      "ads",
+      1
+    ],
+    [
+      "ads ranking",
+      1
+    ],
+    [
+      "ads ranking at",
+      1
+    ],
+    [
+      "ai in production",
+      1
+    ],
+    [
+      "and private",
+      1
+    ],
+    [
+      "and private inference",
+      1
+    ],
+    [
+      "cloudflare",
+      1
+    ],
+    [
+      "cloudflare shares",
+      1
+    ],
+    [
+      "cloudflare shares lessons",
+      1
+    ],
+    [
+      "cover",
+      1
+    ],
+    [
+      "cover multimodal",
+      1
+    ],
+    [
+      "cover multimodal data",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "data pipelines",
+      1
+    ],
+    [
+      "data pipelines and",
+      1
+    ],
+    [
+      "deployment",
+      1
+    ],
+    [
+      "explains",
+      1
+    ],
+    [
+      "explains how",
+      1
+    ],
+    [
+      "explains how it",
+      1
+    ],
+    [
+      "for ads",
+      1
+    ]
+  ],
+  "url": "https://www.sglang.io/summit",
+  "url_canonical": "https://www.sglang.io/summit",
+  "via_source_id": "latent-space"
+}

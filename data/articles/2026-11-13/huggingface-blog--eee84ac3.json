@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--eee84ac3",
+  "author": "Hugging Face Blog",
+  "content_chars": 7931,
+  "content_sha256": "c7d3f0cfac1597613a9c18d5293bad5920a12988af7c8836efade4f0945994f3",
+  "content_tokens": 1982,
+  "fetched_at": "2026-11-14T13:27:47Z",
+  "kind": "article",
+  "published_at": "2026-11-13T17:02:35+00:00",
+  "snippet": "Truly useful AI assistants need to be able to help users who ask misguided questions—not just users who ask the right question with the right amount of detail. We’re releasing XYBench, a benchmark of 8K+ questions that tests how AI assistants respond to requests based on…",
+  "source_id": "huggingface-blog",
+  "title": "XYBench: Helping with the problem behind the question",
+  "top_terms": [
+    [
+      "request",
+      18
+    ],
+    [
+      "goal",
+      14
+    ],
+    [
+      "xybench",
+      14
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "underlying",
+      11
+    ],
+    [
+      "whether",
+      11
+    ],
+    [
+      "stated",
+      10
+    ],
+    [
+      "stated request",
+      10
+    ],
+    [
+      "the stated",
+      10
+    ],
+    [
+      "the stated request",
+      10
+    ],
+    [
+      "the underlying",
+      10
+    ],
+    [
+      "the underlying goal",
+      10
+    ],
+    [
+      "underlying goal",
+      10
+    ],
+    [
+      "answers",
+      9
+    ],
+    [
+      "questions",
+      9
+    ],
+    [
+      "solution",
+      9
+    ],
+    [
+      "problem",
+      8
+    ],
+    [
+      "approach",
+      7
+    ],
+    [
+      "question",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "url_canonical": "https://huggingface.co/blog/allenai/xybench",
+  "via_source_id": null
+}

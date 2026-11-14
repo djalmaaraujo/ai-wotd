@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--b13a2f4a",
+  "author": "Simon Willison",
+  "content_chars": 668,
+  "content_sha256": "752e3ad1ceaf9332dbc0d167f9fc2ebb62e57f1025866e0e44c434bbe8451ce3",
+  "content_tokens": 167,
+  "fetched_at": "2026-11-14T13:30:35Z",
+  "kind": "article",
+  "published_at": "2026-11-13T23:02:45+00:00",
+  "snippet": "13th November 2026 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by…",
+  "source_id": "simonwillison",
+  "title": "datasette-cluster-map 0.19",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "datasette",
+      2
+    ],
+    [
+      "a42",
+      1
+    ],
+    [
+      "also demonstrating",
+      1
+    ],
+    [
+      "also demonstrating datasette's",
+      1
+    ],
+    [
+      "and depends",
+      1
+    ],
+    [
+      "and depends on",
+      1
+    ],
+    [
+      "and still",
+      1
+    ],
+    [
+      "and still one",
+      1
+    ],
+    [
+      "are requested",
+      1
+    ],
+    [
+      "are requested with",
+      1
+    ],
+    [
+      "beep",
+      1
+    ],
+    [
+      "beep with",
+      1
+    ],
+    [
+      "beep with claude",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "bureau",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+  "via_source_id": null
+}

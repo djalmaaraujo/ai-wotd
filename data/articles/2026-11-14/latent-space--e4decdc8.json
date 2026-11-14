@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e4decdc8",
+  "author": null,
+  "content_chars": 23398,
+  "content_sha256": "d3570199c226e520cc74a4f672ead8877e3c0d73900e92c9818d9c22e7b59e21",
+  "content_tokens": 5849,
+  "fetched_at": "2026-11-14T13:30:43Z",
+  "kind": "article",
+  "published_at": "2026-11-14T08:31:02+00:00",
+  "snippet": "Blog post: https://huggingface.co/blog/ggml-org/llama-cpp-v1 Overview llama.cpp v1.0.0 removes the deprecated public API and promotes the NextN/speculative API to llama.h , adds OCP FP8 KV caches, a host-memory MoE expert cache with a configurable CPU share, and loading of…",
+  "source_id": "latent-space",
+  "title": "Release v1.0.0 · ggml-org/llama.cpp · GitHub",
+  "top_terms": [
+    [
+      "add",
+      44
+    ],
+    [
+      "fix",
+      33
+    ],
+    [
+      "server",
+      28
+    ],
+    [
+      "support",
+      26
+    ],
+    [
+      "cuda",
+      25
+    ],
+    [
+      "llama",
+      23
+    ],
+    [
+      "mtmd",
+      23
+    ],
+    [
+      "ui",
+      23
+    ],
+    [
+      "ggml",
+      21
+    ],
+    [
+      "ci",
+      19
+    ],
+    [
+      "model",
+      19
+    ],
+    [
+      "vulkan",
+      18
+    ],
+    [
+      "chat",
+      15
+    ],
+    [
+      "graph",
+      15
+    ],
+    [
+      "moe",
+      15
+    ],
+    [
+      "sycl",
+      15
+    ],
+    [
+      "api",
+      14
+    ],
+    [
+      "opencl",
+      13
+    ],
+    [
+      "set",
+      13
+    ],
+    [
+      "tests",
+      12
+    ]
+  ],
+  "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+  "url_canonical": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+  "via_source_id": "latent-space"
+}

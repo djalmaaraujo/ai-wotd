@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--9bbd79aa",
+  "author": "Simon Willison",
+  "content_chars": 861,
+  "content_sha256": "6ebb215a05491ebad6a1bcfeeff23ce7f379ba82a1ae4e15db23a6c1ee72145c",
+  "content_tokens": 215,
+  "fetched_at": "2026-11-14T13:30:35Z",
+  "kind": "article",
+  "published_at": "2026-11-13T22:30:54+00:00",
+  "snippet": "13th November 2026 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that…",
+  "source_id": "simonwillison",
+  "title": "datasette-leaflet 0.3",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "policy",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "datasette",
+      2
+    ],
+    [
+      "datasette-leaflet",
+      2
+    ],
+    [
+      "header",
+      2
+    ],
+    [
+      "openstreetmap",
+      2
+    ],
+    [
+      "plugins",
+      2
+    ],
+    [
+      "referrer",
+      2
+    ],
+    [
+      "tile",
+      2
+    ],
+    [
+      "beep",
+      1
+    ],
+    [
+      "beep with",
+      1
+    ],
+    [
+      "beep with claude",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "bundled",
+      1
+    ],
+    [
+      "bundled leaflet",
+      1
+    ],
+    [
+      "bundled leaflet so",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/13/datasette-leaflet",
+  "via_source_id": null
+}

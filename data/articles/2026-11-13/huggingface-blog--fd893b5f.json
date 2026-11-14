@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fd893b5f",
+  "author": "Hugging Face Blog",
+  "content_chars": 10478,
+  "content_sha256": "33d3caf114219cb76aa19aa8e7cb440be261245a6f4a4d69e04625a55ba678f8",
+  "content_tokens": 2619,
+  "fetched_at": "2026-11-14T13:27:47Z",
+  "kind": "article",
+  "published_at": "2026-11-13T18:00:39+00:00",
+  "snippet": "This walkthrough showcases a beverage can pick-and-place task that uses the UR17G arm, Robotiq 2F-140 gripper, and beverage can to compose a scene in Isaac Sim, check their behavior, and run a pick-and-place example with agent-generated controls. For robotics workflows, SimReady…",
+  "source_id": "huggingface-blog",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "top_terms": [
+    [
+      "gripper",
+      24
+    ],
+    [
+      "isaac",
+      23
+    ],
+    [
+      "isaac sim",
+      23
+    ],
+    [
+      "sim",
+      23
+    ],
+    [
+      "robot",
+      21
+    ],
+    [
+      "arm",
+      20
+    ],
+    [
+      "simready",
+      19
+    ],
+    [
+      "agent",
+      18
+    ],
+    [
+      "assets",
+      17
+    ],
+    [
+      "scene",
+      14
+    ],
+    [
+      "simulation",
+      14
+    ],
+    [
+      "asset",
+      13
+    ],
+    [
+      "beverage",
+      12
+    ],
+    [
+      "beverage can",
+      12
+    ],
+    [
+      "example",
+      12
+    ],
+    [
+      "robotiq",
+      12
+    ],
+    [
+      "the arm",
+      12
+    ],
+    [
+      "settings",
+      11
+    ],
+    [
+      "task",
+      11
+    ],
+    [
+      "in isaac",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "url_canonical": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "via_source_id": null
+}

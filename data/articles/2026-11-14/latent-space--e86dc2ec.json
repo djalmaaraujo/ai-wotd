@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e86dc2ec",
+  "author": null,
+  "content_chars": 14277,
+  "content_sha256": "c3125bec3b2c2685a3b511204acfad78df17238c31d4d1377620c3c7b78ba5f0",
+  "content_tokens": 3569,
+  "fetched_at": "2026-11-14T13:30:42Z",
+  "kind": "article",
+  "published_at": "2026-11-14T08:31:02+00:00",
+  "snippet": "Overview ggml 1.0.0 prunes the deprecated public API and the legacy DIAG_MASK ops, adds configurable YaRN truncation and FP8 support, and brings broad performance work across backends: few-row quantized matmuls and MoE fusion on CUDA/Metal, a Vulkan prefill FlashAttention path…",
+  "source_id": "latent-space",
+  "title": "Release v1.0.0 · ggml-org/ggml · GitHub",
+  "top_terms": [
+    [
+      "llama",
+      216
+    ],
+    [
+      "add",
+      25
+    ],
+    [
+      "cuda",
+      25
+    ],
+    [
+      "added",
+      22
+    ],
+    [
+      "support",
+      20
+    ],
+    [
+      "ggml",
+      19
+    ],
+    [
+      "vulkan",
+      19
+    ],
+    [
+      "moe",
+      15
+    ],
+    [
+      "opencl",
+      14
+    ],
+    [
+      "sycl",
+      14
+    ],
+    [
+      "fix",
+      12
+    ],
+    [
+      "metal",
+      11
+    ],
+    [
+      "f32",
+      10
+    ],
+    [
+      "hexagon",
+      10
+    ],
+    [
+      "kernel",
+      10
+    ],
+    [
+      "fa",
+      9
+    ],
+    [
+      "mul",
+      9
+    ],
+    [
+      "webgpu",
+      9
+    ],
+    [
+      "buffer",
+      8
+    ],
+    [
+      "fixed",
+      8
+    ]
+  ],
+  "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "url_canonical": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "via_source_id": "latent-space"
+}

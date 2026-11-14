@@ -1,0 +1,271 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 124.937317,
+      "term": "sycl",
+      "tf_today": 29
+    },
+    {
+      "articles": [
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 113.961394,
+      "term": "opencl",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 108.542894,
+      "term": "mtmd",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--11103657",
+        "latent-space--5e8016f4",
+        "latent-space--61ef22e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 96.573222,
+      "term": "manifesto",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "latent-space--61ef22e2",
+        "latent-space--aa0bf7a7",
+        "latent-space--df89b115"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 90.876648,
+      "term": "langsmith",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 72.09729,
+      "term": "hexagon",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "interconnects--9303e592",
+        "interconnects--e72bf67c"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 67.133209,
+      "term": "deepinfer",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 62.239339,
+      "term": "webgpu",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "latent-space--26e59711",
+        "latent-space--61ef22e2",
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 58.132811,
+      "term": "deprecated",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--e4decdc8",
+        "latent-space--e86dc2ec"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 57.41979,
+      "term": "buffer",
+      "tf_today": 16
+    }
+  ],
+  "date": "2026-11-14",
+  "evidence_article_ids": [
+    "interconnects--d22189d5",
+    "interconnects--e72bf67c",
+    "latent-space--1bbb7ce6",
+    "latent-space--26e59711",
+    "latent-space--61ef22e2"
+  ],
+  "judge": {
+    "input_tokens": 30249,
+    "model": "jev-1.14.0",
+    "pool_size": 62,
+    "signals": {
+      "ai slop": {
+        "dominance": 2.95,
+        "event": 0.91,
+        "form": 0.92,
+        "novelty": 0.87,
+        "specificity": 1.42
+      },
+      "deepinfer": {
+        "dominance": 1.96,
+        "event": 0.76,
+        "form": 0.8,
+        "novelty": 0.79,
+        "specificity": 1.98
+      },
+      "deprecated": {
+        "dominance": 2.18,
+        "event": 0.75,
+        "form": 0.42,
+        "novelty": 0.72,
+        "specificity": 0.64
+      },
+      "ggml": {
+        "dominance": 2.08,
+        "event": 0.94,
+        "form": 0.89,
+        "novelty": 0.66,
+        "specificity": 1.97
+      },
+      "langchain": {
+        "dominance": 2.06,
+        "event": 0.86,
+        "form": 0.92,
+        "novelty": 0.82,
+        "specificity": 1.98
+      },
+      "langchain raises": {
+        "dominance": 2.05,
+        "event": 0.89,
+        "form": 0.25,
+        "novelty": 0.81,
+        "specificity": 1.68
+      },
+      "llama": {
+        "dominance": 2.03,
+        "event": 0.88,
+        "form": 0.92,
+        "novelty": 0.54,
+        "specificity": 1.97
+      },
+      "manifesto": {
+        "dominance": 2.96,
+        "event": 0.91,
+        "form": 0.89,
+        "novelty": 0.88,
+        "specificity": 0.28
+      },
+      "open-source": {
+        "dominance": 2.86,
+        "event": 0.94,
+        "form": 0.8,
+        "novelty": 0.33,
+        "specificity": 0.64
+      },
+      "release v1.0.0": {
+        "dominance": 2.17,
+        "event": 0.68,
+        "form": 0.79,
+        "novelty": 0.65,
+        "specificity": 0.8
+      },
+      "sglang": {
+        "dominance": 2.02,
+        "event": 0.84,
+        "form": 0.9,
+        "novelty": 0.87,
+        "specificity": 1.99
+      },
+      "sglang 1.0 release tracker": {
+        "dominance": 1.94,
+        "event": 0.45,
+        "form": 0.77,
+        "novelty": 0.79,
+        "specificity": 1.99
+      },
+      "sglang summit 2026": {
+        "dominance": 1.87,
+        "event": 0.77,
+        "form": 0.92,
+        "novelty": 0.82,
+        "specificity": 1.89
+      },
+      "slop": {
+        "dominance": 2.95,
+        "event": 0.89,
+        "form": 0.86,
+        "novelty": 0.88,
+        "specificity": 1.13
+      },
+      "summit 2026": {
+        "dominance": 2.02,
+        "event": 0.75,
+        "form": 0.43,
+        "novelty": 0.75,
+        "specificity": 0.72
+      },
+      "v1.0.0": {
+        "dominance": 2.35,
+        "event": 0.86,
+        "form": 0.78,
+        "novelty": 0.66,
+        "specificity": 1.11
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "sglang",
+      "langchain",
+      "deepinfer",
+      "sglang summit 2026",
+      "ggml",
+      "llama"
+    ]
+  },
+  "label": "SGLang",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://github.com/sgl-project/sglang",
+        "https://arxiv.org/abs/2312.07104",
+        "https://www.sglang.io/"
+      ],
+      "text": "SGLang (Structured Generation Language) is an open-source high-performance inference framework for large language models developed by the SGLang project (sgl-project). It provides a frontend language for expressing complex LLM programs — including multi-turn chat, tool use, and structured output — and a backend runtime with optimized kernels, continuous batching, tensor parallelism, and memory-efficient attention. SGLang is used to serve models such as Llama, Qwen, and DeepSeek at scale in production environments, competing with frameworks like vLLM and TensorRT-LLM."
+    },
+    "generated_at": "2026-11-14T13:30:59.952091+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "SGLang reached its 1.0 stability milestone this week, marked by a summit where Cloudflare and LinkedIn detailed production deployments serving over 10,000 queries per second with sub-80-millisecond latency. The release hardens the inference framework's APIs, replaces silent configuration changes with explicit errors, and defines a compatibility policy for the 1.x series. Meanwhile, DeepSeek open-sourced DeepInfer, its high-performance inference engine supporting DeepSeek-V4.1-Flash with optimized kernels, MoE expert parallelism, and asynchronous scheduling. Thinking Machines published Inkling-2-Small, a multimodal model for agentic and retrieval-augmented workloads. The broader community also rallied around a \"No AI Slop\" manifesto signed by conference speakers, emphasizing quality standards for generated content.",
+    "why": "SGLang trended because it announced its 1.0 stability release at the SGLang Summit, where major users including Cloudflare and LinkedIn presented concrete production metrics — LinkedIn serving ads ranking at 10K+ QPS with <80ms latency — validating the framework for large-scale inference."
+  },
+  "score": 7.451457,
+  "word": "sglang"
+}

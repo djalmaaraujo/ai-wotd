@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--61ef22e2",
+  "author": "swyx .ai",
+  "content_chars": 22330,
+  "content_sha256": "a5bc1564bc4396ba1b5f5fb7c3472c065b8e6b24aacf219e111855a841024655",
+  "content_tokens": 5582,
+  "fetched_at": "2026-11-14T13:30:41Z",
+  "kind": "article",
+  "published_at": "2026-11-14T08:31:02+00:00",
+  "snippet": "Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit. However, today’s title story goes to the No AI Slop manifesto, which…",
+  "source_id": "latent-space",
+  "title": "[AINews] The No AI Slop Manifesto",
+  "top_terms": [
+    [
+      "flash",
+      20
+    ],
+    [
+      "model",
+      19
+    ],
+    [
+      "models",
+      13
+    ],
+    [
+      "qwen",
+      13
+    ],
+    [
+      "preview",
+      12
+    ],
+    [
+      "commenter",
+      11
+    ],
+    [
+      "cpp",
+      10
+    ],
+    [
+      "inference",
+      10
+    ],
+    [
+      "llama",
+      10
+    ],
+    [
+      "max",
+      10
+    ],
+    [
+      "technical",
+      10
+    ],
+    [
+      "coding",
+      9
+    ],
+    [
+      "commenters",
+      9
+    ],
+    [
+      "qwen 4",
+      9
+    ],
+    [
+      "activity",
+      8
+    ],
+    [
+      "cards",
+      8
+    ],
+    [
+      "faster",
+      8
+    ],
+    [
+      "performance",
+      8
+    ],
+    [
+      "reports",
+      8
+    ],
+    [
+      "rtx",
+      8
+    ]
+  ],
+  "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+  "url_canonical": "https://latent.space/p/ainews-the-no-ai-slop-manifesto",
+  "via_source_id": null
+}

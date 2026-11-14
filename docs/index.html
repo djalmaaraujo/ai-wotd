@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>PhotoCraft — 2026-11-13 · AI WOTD</title>
+  <title>SGLang — 2026-11-14 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -18,160 +18,156 @@
   </header>
   <main>
 <article class="day">
-  <p class="date">2026-11-13</p>
-  <h1>PhotoCraft</h1>
+  <p class="date">2026-11-14</p>
+  <h1>SGLang</h1>
 
-  <p class="why">PhotoCraft trended today because ArtCraft founder Brandon Thomas demoed the Rust-based Photoshop clone at the AI Engineer Code Summit in San Francisco, framing it as a manifesto for AI-era open-source software that replicates proprietary creative tools with native performance and full file-format parity.</p>
+  <p class="why">SGLang trended because it announced its 1.0 stability release at the SGLang Summit, where major users including Cloudflare and LinkedIn presented concrete production metrics — LinkedIn serving ads ranking at 10K+ QPS with &lt;80ms latency — validating the framework for large-scale inference.</p>
 
   <section class="definition">
     <h2>Definition</h2>
-    <p>PhotoCraft is an open-source, cross-platform raster graphics editor developed by ArtCraft as a drop-in replacement for Adobe Photoshop. Built in Rust with a native compositor targeting Metal, Vulkan, DirectX 12, and WebGPU, it replicates Photoshop&#39;s UI, shortcuts, layer system, adjustment layers, filters, smart objects, and PSD/PSB file format with byte-for-byte round-trip accuracy. It runs offline, requires no web runtime, and is positioned as the first release in ArtCraft&#39;s broader strategy to recreate proprietary creative software as community-owned, AI-extensible alternatives.</p>
+    <p>SGLang (Structured Generation Language) is an open-source high-performance inference framework for large language models developed by the SGLang project (sgl-project). It provides a frontend language for expressing complex LLM programs — including multi-turn chat, tool use, and structured output — and a backend runtime with optimized kernels, continuous batching, tensor parallelism, and memory-efficient attention. SGLang is used to serve models such as Llama, Qwen, and DeepSeek at scale in production environments, competing with frameworks like vLLM and TensorRT-LLM.</p>
     <ul class="def-refs">
-      <li><a href="https://getartcraft.com/apps/photocraft" rel="noreferrer">https://getartcraft.com/apps/photocraft</a></li>
-      <li><a href="https://github.com/storytold/photocraft" rel="noreferrer">https://github.com/storytold/photocraft</a></li>
-      <li><a href="https://latent.space/p/artcraft/" rel="noreferrer">https://latent.space/p/artcraft/</a></li>
+      <li><a href="https://github.com/sgl-project/sglang" rel="noreferrer">https://github.com/sgl-project/sglang</a></li>
+      <li><a href="https://arxiv.org/abs/2312.07104" rel="noreferrer">https://arxiv.org/abs/2312.07104</a></li>
+      <li><a href="https://www.sglang.io/" rel="noreferrer">https://www.sglang.io/</a></li>
     </ul>
   </section>
 
   <section class="summary">
     <h2>Today in AI</h2>
-    <p>ArtCraft, a fledgling company founded by Brandon Thomas, presented its ambitious open-source strategy at the AI Engineer Code Summit in San Francisco. The centerpiece is PhotoCraft, a Photoshop-compatible image editor written entirely in Rust that runs natively on Metal, Vulkan, DirectX 12, and WebGPU without Electron. The application achieves near-perfect PSD/PSB round-trip fidelity — 134 of 135 real-world test files match byte-for-byte — and replicates Photoshop&#39;s menus, shortcuts, panels, and tools including 16 adjustment layers, 70-plus live-preview filters, and smart objects. ArtCraft has released 17 open-source clones of popular software tools to date, and Thomas signaled intentions to extend the approach beyond imaging, having already replicated Adobe Acrobat. The project&#39;s public parity tracker on GitHub documents ongoing compatibility work against Photoshop 26.6.1.</p>
+    <p>SGLang reached its 1.0 stability milestone this week, marked by a summit where Cloudflare and LinkedIn detailed production deployments serving over 10,000 queries per second with sub-80-millisecond latency. The release hardens the inference framework&#39;s APIs, replaces silent configuration changes with explicit errors, and defines a compatibility policy for the 1.x series. Meanwhile, DeepSeek open-sourced DeepInfer, its high-performance inference engine supporting DeepSeek-V4.1-Flash with optimized kernels, MoE expert parallelism, and asynchronous scheduling. Thinking Machines published Inkling-2-Small, a multimodal model for agentic and retrieval-augmented workloads. The broader community also rallied around a &#34;No AI Slop&#34; manifesto signed by conference speakers, emphasizing quality standards for generated content.</p>
   </section>
 
   <section class="evidence">
-    <h2>Evidence (4)</h2>
+    <h2>Evidence (5)</h2>
     <ul>
       <li>
-        <a href="https://craft.wiki/apps/photocraft/workflows" rel="noreferrer">Workflows | Craft Wiki</a>
+        <a href="https://huggingface.co/thinkingmachines/Inkling-2-Small" rel="noreferrer">thinkingmachines/Inkling-2-Small · Hugging Face</a>
         <span class="meta">
-          latent-space          · 2026-11-13
+          interconnects          · 2026-11-14
         </span>
-<blockquote>Workflows PhotoCraft’s menus are File, Edit, Image, Layer, Type, Select, Filter, View, Window and Help. If you can’t find a command, choose Edit › Search… (Ctrl+F, or ⌘F on a Mac) and type its name. In this guide, Ctrl is ⌘ on a Mac, and Alt is Option. Adjust colors without…</blockquote>      </li>
+<blockquote>NVFP4 | MXFP8 | Playground | Tinker Cookbook | Acceptable Use Inkling 2 Small is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The…</blockquote>      </li>
       <li>
-        <a href="https://getartcraft.com/apps/photocraft" rel="noreferrer">PhotoCraft: The image editor you already know how to use. - ArtCraft</a>
+        <a href="https://github.com/deepseek-ai/deepinfer" rel="noreferrer">GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models · GitHub</a>
         <span class="meta">
-          latent-space          · 2026-11-13
+          interconnects          · 2026-11-14
         </span>
-<blockquote>Platform 01 01 PhotoCraft Layers, masks, adjustment layers, layer styles, type, vectors and brushes in a native app written entirely in Rust. Open source, offline, and yours. 02 Highlights 01 The menus, shortcuts, panels and tools your hands already know. Productive on day one…</blockquote>      </li>
+<blockquote>DeepInfer is the high-performance inference framework that powers DeepSeek&#39;s large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale. Supported models: - DeepSeek-V4.1-Flash Supported features…</blockquote>      </li>
       <li>
-        <a href="https://github.com/storytold/photocraft/blob/main/docs/target-app-parity.md" rel="noreferrer">photocraft/docs/target-app-parity.md at main · storytold/photocraft · GitHub</a>
+        <a href="https://www.sglang.io/summit" rel="noreferrer">SGLang Summit 2026</a>
         <span class="meta">
-          latent-space          · 2026-11-13
+          latent-space          · 2026-11-14
         </span>
-<blockquote>Last reviewed: 2026-10-12 · Last updated: 2026-11-10 · Change: minor (JPEG Options shows the size the file will have, FILE-215-19 partial; Image Processor accepts copies of the current or all open documents, including unsaved edits; languages are measured with cargo xtask…</blockquote>      </li>
+<blockquote>AI in Production Cloudflare shares lessons from large-scale deployment. LinkedIn explains how it serves a small model for ads ranking at over 10K queries per second with scoring latency under 80 ms. Other sessions cover multimodal data pipelines and private inference.</blockquote>      </li>
       <li>
-        <a href="https://latent.space/p/artcraft" rel="noreferrer">AI Ambition: ArtCraft Cloned Photoshop and Now Wants to &#34;Rebuild Everything&#34;</a>
+        <a href="https://github.com/sgl-project/sglang/issues/50045" rel="noreferrer">SGLang 1.0 Release Tracker · Issue #50045 · sgl-project/sglang · GitHub</a>
         <span class="meta">
-          latent-space · Richard MacManus          · 2026-11-13
+          latent-space          · 2026-11-14
         </span>
-<blockquote>The theme of day two of the AI Engineer Code Summit in San Francisco was increasing ambition using AI. And there have been few projects as ambitious as ArtCraft in the AI era. So far the fledgling company has released 17 open source versions of popular software tools, starting…</blockquote>      </li>
+<blockquote>You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert SGLang 1.0 is a stability release. The…</blockquote>      </li>
+      <li>
+        <a href="https://latent.space/p/ainews-the-no-ai-slop-manifesto" rel="noreferrer">[AINews] The No AI Slop Manifesto</a>
+        <span class="meta">
+          latent-space · swyx .ai          · 2026-11-14
+        </span>
+<blockquote>Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit. However, today’s title story goes to the No AI Slop manifesto, which…</blockquote>      </li>
     </ul>
   </section>
 
   <section class="candidates">
     <h2>Candidates</h2>
     <ol>
-      <li>mr <span class="meta">tf=92, df=2, score=515.12</span></li>
-      <li>hydrogen <span class="meta">tf=49, df=3, score=259.34</span></li>
-      <li>psd <span class="meta">tf=41, df=3, score=207.33</span></li>
-      <li>photocraft <span class="meta">tf=35, df=4, score=184.45</span></li>
-      <li>parity <span class="meta">tf=36, df=2, score=160.58</span></li>
-      <li>brush <span class="meta">tf=35, df=2, score=154.93</span></li>
-      <li>kress <span class="meta">tf=28, df=3, score=127.56</span></li>
-      <li>transform <span class="meta">tf=24, df=2, score=95.43</span></li>
-      <li>gemini 4 hydrogen <span class="meta">tf=22, df=3, score=93.33</span></li>
-      <li>huang <span class="meta">tf=126, df=3, score=88.48</span></li>
+      <li>sycl <span class="meta">tf=29, df=2, score=124.94</span></li>
+      <li>opencl <span class="meta">tf=27, df=2, score=113.96</span></li>
+      <li>mtmd <span class="meta">tf=26, df=2, score=108.54</span></li>
+      <li>manifesto <span class="meta">tf=22, df=3, score=96.57</span></li>
+      <li>langsmith <span class="meta">tf=21, df=3, score=90.88</span></li>
+      <li>hexagon <span class="meta">tf=19, df=2, score=72.10</span></li>
+      <li>deepinfer <span class="meta">tf=18, df=2, score=67.13</span></li>
+      <li>webgpu <span class="meta">tf=17, df=2, score=62.24</span></li>
+      <li>deprecated <span class="meta">tf=14, df=4, score=58.13</span></li>
+      <li>buffer <span class="meta">tf=16, df=2, score=57.42</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (17)</summary>
+      <summary>All queried links (15)</summary>
       <ul>
         <li>
-          <a href="https://codenewsletter.ai/p/google-gives-devs-a-faster-coding-model" rel="noreferrer">Google gives devs a faster coding model</a>
+          <a href="https://www.interconnects.ai/p/open-source-ai-without-jensen" rel="noreferrer">Open-source AI without Jensen</a>
           <span class="meta">
-            codenewsletter · Code Newsletter          </span>
+            interconnects · Nathan Lambert          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1" rel="noreferrer">llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</a>
+          <a href="https://huggingface.co/thinkingmachines/Inkling-2-Small" rel="noreferrer">thinkingmachines/Inkling-2-Small · Hugging Face</a>
           <span class="meta">
-            huggingface-blog · Hugging Face Blog          </span>
+            interconnects          </span>
         </li>
         <li>
-          <a href="https://unsloth.ai/docs/models/qwen3.8" rel="noreferrer">Qwen3.8 - How to Run Locally | Unsloth Documentation</a>
+          <a href="https://github.com/deepseek-ai/deepinfer" rel="noreferrer">GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models · GitHub</a>
           <span class="meta">
-            latent-space          </span>
+            interconnects          </span>
         </li>
         <li>
-          <a href="https://craft.wiki/apps/photocraft/workflows" rel="noreferrer">Workflows | Craft Wiki</a>
+          <a href="https://natolambert.com/slides/2026/fireworks/talk.html" rel="noreferrer">How Open Models Win</a>
           <span class="meta">
-            latent-space          </span>
+            interconnects          </span>
         </li>
         <li>
-          <a href="https://github.com/commaai/openpilot" rel="noreferrer">GitHub - commaai/openpilot: openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns" rel="noreferrer">Nvidia Updates: Huang’s Resignation Reverberates Through A.I. Industry - The New York Times</a>
+          <a href="https://www.slopmanifesto.com/" rel="noreferrer">No AI Slop: A Manifesto</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://vast.ai/" rel="noreferrer">Rent GPUs | Vast.ai</a>
+          <a href="https://www.sglang.io/summit" rel="noreferrer">SGLang Summit 2026</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board" rel="noreferrer">Statement From the Independent Members of the NVIDIA Board | NVIDIA Newsroom</a>
+          <a href="https://github.com/sgl-project/sglang/issues/50045" rel="noreferrer">SGLang 1.0 Release Tracker · Issue #50045 · sgl-project/sglang · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/lucidml/gta" rel="noreferrer">lucidml/gta · Hugging Face</a>
+          <a href="https://deepgram.com/" rel="noreferrer">Enterprise voice AI: STT, TTS &amp; agent APIs | Deepgram</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://ipo.anthropic.com/us" rel="noreferrer">Anthropic’s Initial Public Offering</a>
+          <a href="https://news.ycombinator.com/item?id=50488769" rel="noreferrer">No AI Slop: A Manifesto | Hacker News</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/bsaleh03/ASCII-Condensed-prune-tools" rel="noreferrer">GitHub - bsaleh03/ASCII-Condensed-prune-tools · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://getartcraft.com/apps/photocraft" rel="noreferrer">PhotoCraft: The image editor you already know how to use. - ArtCraft</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia" rel="noreferrer">[AINews] Jensen Huang resigns after 33 years leading NVIDIA</a>
+          <a href="https://latent.space/p/ainews-the-no-ai-slop-manifesto" rel="noreferrer">[AINews] The No AI Slop Manifesto</a>
           <span class="meta">
             latent-space · swyx .ai          </span>
         </li>
         <li>
-          <a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition" rel="noreferrer">NVIDIA Announces CEO Transition | NVIDIA Newsroom</a>
+          <a href="https://capitalg.com/insights/doubling-down-on-langchain" rel="noreferrer">Doubling Down on LangChain</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity" rel="noreferrer">Gemini 4 Hydrogen and Orchestrator | Google Antigravity Blog</a>
+          <a href="https://llama.app/" rel="noreferrer">Llama · Your AI, on your computer</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/storytold/photocraft/blob/main/docs/target-app-parity.md" rel="noreferrer">photocraft/docs/target-app-parity.md at main · storytold/photocraft · GitHub</a>
+          <a href="https://www.langchain.com/blog/series-c" rel="noreferrer">LangChain Raises $300M Series C at $3B Valuation</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://latent.space/p/artcraft" rel="noreferrer">AI Ambition: ArtCraft Cloned Photoshop and Now Wants to &#34;Rebuild Everything&#34;</a>
+          <a href="https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0" rel="noreferrer">Release v1.0.0 · ggml-org/llama.cpp · GitHub</a>
           <span class="meta">
-            latent-space · Richard MacManus          </span>
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" rel="noreferrer">Release v1.0.0 · ggml-org/ggml · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
         </li>
       </ul>
     </details>
@@ -182,7 +178,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-13T14:34:23+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-14T13:31:02+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>
