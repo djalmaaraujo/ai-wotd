@@ -1,0 +1,301 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "ahead-of-ai--2d5706b7",
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296",
+        "ahead-of-ai--e05da0a8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 5,
+      "score": 375.310629,
+      "term": "positional",
+      "tf_today": 50
+    },
+    {
+      "articles": [
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 215.150984,
+      "term": "relative position",
+      "tf_today": 38
+    },
+    {
+      "articles": [
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296",
+        "ahead-of-ai--5ce6b9e0",
+        "ahead-of-ai--e05da0a8"
+      ],
+      "avg_tf_baseline": 4.9167,
+      "df_today": 5,
+      "score": 213.275884,
+      "term": "position",
+      "tf_today": 206
+    },
+    {
+      "articles": [
+        "ahead-of-ai--2d5706b7",
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296",
+        "ahead-of-ai--5ce6b9e0",
+        "ahead-of-ai--db859454",
+        "ahead-of-ai--e05da0a8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 194.753997,
+      "term": "rotary",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 186.81738,
+      "term": "roformer",
+      "tf_today": 34
+    },
+    {
+      "articles": [
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 172.918192,
+      "term": "self-attention",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 171.031586,
+      "term": "equation",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--db859454"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 161.162167,
+      "term": "self",
+      "tf_today": 102
+    },
+    {
+      "articles": [
+        "ahead-of-ai--309a4115",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--56599296",
+        "ahead-of-ai--e05da0a8"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 155.401901,
+      "term": "position embedding",
+      "tf_today": 27
+    },
+    {
+      "articles": [
+        "ahead-of-ai--01b84093",
+        "ahead-of-ai--38fb7fe8",
+        "ahead-of-ai--5ce6b9e0",
+        "ahead-of-ai--db859454"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 148.013037,
+      "term": "init",
+      "tf_today": 26
+    }
+  ],
+  "date": "2026-11-15",
+  "evidence_article_ids": [
+    "ahead-of-ai--309a4115",
+    "ahead-of-ai--38fb7fe8",
+    "ahead-of-ai--56599296"
+  ],
+  "judge": {
+    "input_tokens": 27410,
+    "model": "jev-1.14.0",
+    "pool_size": 55,
+    "signals": {
+      "embedding": {
+        "dominance": 2.91,
+        "event": 0.52,
+        "form": 0.89,
+        "novelty": 0.76,
+        "specificity": 1.95
+      },
+      "encoding": {
+        "dominance": 2.82,
+        "event": 0.51,
+        "form": 0.85,
+        "novelty": 0.83,
+        "specificity": 1.84
+      },
+      "fractional rotation": {
+        "dominance": 2.01,
+        "event": 0.69,
+        "form": 0.89,
+        "novelty": 0.74,
+        "specificity": 1.97
+      },
+      "length generalization": {
+        "dominance": 1.83,
+        "event": 0.57,
+        "form": 0.93,
+        "novelty": 0.61,
+        "specificity": 2.0
+      },
+      "partial rope": {
+        "dominance": 2.02,
+        "event": 0.74,
+        "form": 0.84,
+        "novelty": 0.76,
+        "specificity": 2.0
+      },
+      "pos": {
+        "dominance": 2.72,
+        "event": 0.44,
+        "form": 0.43,
+        "novelty": 0.61,
+        "specificity": 1.32
+      },
+      "position embedding": {
+        "dominance": 2.99,
+        "event": 0.67,
+        "form": 0.86,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "position encoding": {
+        "dominance": 2.98,
+        "event": 0.68,
+        "form": 0.89,
+        "novelty": 0.78,
+        "specificity": 2.0
+      },
+      "position information": {
+        "dominance": 2.98,
+        "event": 0.68,
+        "form": 0.78,
+        "novelty": 0.84,
+        "specificity": 1.89
+      },
+      "positional encoding": {
+        "dominance": 2.99,
+        "event": 0.66,
+        "form": 0.94,
+        "novelty": 0.79,
+        "specificity": 2.0
+      },
+      "positional information": {
+        "dominance": 2.99,
+        "event": 0.66,
+        "form": 0.86,
+        "novelty": 0.82,
+        "specificity": 1.92
+      },
+      "positions": {
+        "dominance": 2.94,
+        "event": 0.51,
+        "form": 0.69,
+        "novelty": 0.76,
+        "specificity": 1.54
+      },
+      "rope": {
+        "dominance": 2.97,
+        "event": 0.69,
+        "form": 0.71,
+        "novelty": 0.82,
+        "specificity": 1.99
+      },
+      "rotary position embedding": {
+        "dominance": 2.98,
+        "event": 0.69,
+        "form": 0.94,
+        "novelty": 0.77,
+        "specificity": 2.0
+      },
+      "rotation": {
+        "dominance": 2.72,
+        "event": 0.52,
+        "form": 0.88,
+        "novelty": 0.83,
+        "specificity": 1.85
+      },
+      "transformer": {
+        "dominance": 2.8,
+        "event": 0.48,
+        "form": 0.92,
+        "novelty": 0.62,
+        "specificity": 1.99
+      },
+      "transformer with rotary": {
+        "dominance": 2.91,
+        "event": 0.49,
+        "form": 0.33,
+        "novelty": 0.67,
+        "specificity": 1.99
+      },
+      "transformers": {
+        "dominance": 2.84,
+        "event": 0.37,
+        "form": 0.89,
+        "novelty": 0.57,
+        "specificity": 1.99
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "rotary position embedding",
+      "position embedding",
+      "position encoding",
+      "positional encoding",
+      "positional information",
+      "embedding",
+      "rotation",
+      "partial rope",
+      "fractional rotation",
+      "length generalization"
+    ]
+  },
+  "label": "Rotary Position Embedding",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://arxiv.org/abs/2104.09864",
+        "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "https://huggingface.co/docs/transformers/en/model_doc/llama#rope"
+      ],
+      "text": "Rotary Position Embedding (RoPE) is a positional encoding technique for transformers that represents token positions by rotating query and key vectors in a complex plane. Instead of adding fixed or learned position vectors, RoPE applies a rotation matrix parameterized by the token's absolute position, which causes the attention score between two tokens to depend only on their relative distance. This property allows models to generalize better to longer sequences and has become the default in major open-weight LLMs such as LLaMA, Mistral, and Gemma."
+    },
+    "generated_at": "2026-11-15T13:56:53.909574+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "The AI community is revisiting positional encoding mechanisms, with Rotary Position Embedding (RoPE) drawing renewed attention through both foundational research and educational deep dives. The original RoFormer paper from 2021, which introduced RoPE as a method to encode absolute positions via rotation in complex space, remains a primary reference. Meanwhile, Sebastian Raschka's comprehensive article breaks down RoPE's mathematics and provides a PyTorch implementation, contextualizing it alongside other positional strategies used in 2026 open-weight models. This dual focus on the seminal arXiv:2104.09864 work and practical tutorials signals ongoing efforts to understand and optimize how transformers handle sequence order.",
+    "why": "Rotary Position Embedding trended today because Sebastian Raschka published a detailed tutorial explaining RoPE's mechanism with visual examples and code, while the original RoFormer paper continues to be cited as the authoritative source. The combination of accessible implementation guidance and persistent academic relevance drove simultaneous interest in the term and its variants like 'rotary' and 'roformer'."
+  },
+  "score": 64.273648,
+  "word": "rotary position embedding"
+}

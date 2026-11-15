@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--bdd71494",
+  "author": null,
+  "content_chars": 422,
+  "content_sha256": "fc37bc69f074adbcfcc727a7b823262f3455fcb01b6b8e6273d712a31fe3ac57",
+  "content_tokens": 105,
+  "fetched_at": "2026-11-15T13:56:15Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "- bpe-from-scratch-simple.ipynb contains optional (bonus) code that explains and shows how the BPE tokenizer works under the hood; this is geared for simplicity and readability. - bpe-from-scratch.ipynb implements a more sophisticated (and much more complicated) BPE tokenizer…",
+  "source_id": "ahead-of-ai",
+  "title": "LLMs-from-scratch/ch02/05_bpe-from-scratch at main · rasbt/LLMs-from-scratch · GitHub",
+  "top_terms": [
+    [
+      "bpe",
+      2
+    ],
+    [
+      "bpe tokenizer",
+      2
+    ],
+    [
+      "bpe-from-scratch",
+      2
+    ],
+    [
+      "ipynb",
+      2
+    ],
+    [
+      "llms-from-scratch",
+      2
+    ],
+    [
+      "tokenizer",
+      2
+    ],
+    [
+      "additional",
+      1
+    ],
+    [
+      "additional functionality",
+      1
+    ],
+    [
+      "additional functionality for",
+      1
+    ],
+    [
+      "all the edge",
+      1
+    ],
+    [
+      "also has additional",
+      1
+    ],
+    [
+      "and readability",
+      1
+    ],
+    [
+      "and shows",
+      1
+    ],
+    [
+      "and shows how",
+      1
+    ],
+    [
+      "as tiktoken",
+      1
+    ],
+    [
+      "as tiktoken with",
+      1
+    ],
+    [
+      "at main",
+      1
+    ],
+    [
+      "behaves",
+      1
+    ],
+    [
+      "behaves similarly",
+      1
+    ],
+    [
+      "behaves similarly as",
+      1
+    ]
+  ],
+  "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch02/05_bpe-from-scratch",
+  "url_canonical": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch02/05_bpe-from-scratch",
+  "via_source_id": "ahead-of-ai"
+}

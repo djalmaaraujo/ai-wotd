@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--204a0ac3",
+  "author": null,
+  "content_chars": 2317,
+  "content_sha256": "97e3198983d200b424303a43fa2cdb3c33522b45c83dc74c4a947287b2179e8a",
+  "content_tokens": 579,
+  "fetched_at": "2026-11-15T13:56:15Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "- Libraries - Transformers How to use openai-community/gpt2-xl with Transformers: # Use a pipeline as a high-level helper from transformers import pipeline pipe = pipeline(\"text-generation\", model=\"openai-community/gpt2-xl\") # pip install -U transformers accelerate # Load model…",
+  "source_id": "ahead-of-ai",
+  "title": "config.json · openai-community/gpt2-xl at main",
+  "top_terms": [
+    [
+      "gpt2-xl",
+      16
+    ],
+    [
+      "openai-community",
+      16
+    ],
+    [
+      "model",
+      12
+    ],
+    [
+      "sglang",
+      8
+    ],
+    [
+      "docker",
+      7
+    ],
+    [
+      "install",
+      7
+    ],
+    [
+      "pip",
+      7
+    ],
+    [
+      "server",
+      7
+    ],
+    [
+      "curl",
+      6
+    ],
+    [
+      "vllm",
+      6
+    ],
+    [
+      "transformers",
+      5
+    ],
+    [
+      "docker model",
+      4
+    ],
+    [
+      "from pip",
+      4
+    ],
+    [
+      "gpt2-xl with",
+      4
+    ],
+    [
+      "json",
+      4
+    ],
+    [
+      "to use openai-community",
+      4
+    ],
+    [
+      "use openai-community",
+      4
+    ],
+    [
+      "api",
+      3
+    ],
+    [
+      "application",
+      3
+    ],
+    [
+      "call",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/openai-community/gpt2-xl/blob/main/config.json",
+  "url_canonical": "https://huggingface.co/openai-community/gpt2-xl/blob/main/config.json",
+  "via_source_id": "ahead-of-ai"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--309a4115",
+  "author": null,
+  "content_chars": 39681,
+  "content_sha256": "119eca42d57a609e74c1fa71f3831e601ae3feb965fc04d4186642aeba01cf4d",
+  "content_tokens": 9920,
+  "fetched_at": "2026-11-15T13:56:16Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "RoFormer: Enhanced Transformer with Rotary Position Embedding Abstract Position encoding recently has shown effective in the transformer architecture. It enables valuable supervision for dependency modeling between elements at different positions of the sequence. In this paper…",
+  "source_id": "ahead-of-ai",
+  "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+  "top_terms": [
+    [
+      "al",
+      107
+    ],
+    [
+      "et",
+      106
+    ],
+    [
+      "et al",
+      106
+    ],
+    [
+      "position",
+      88
+    ],
+    [
+      "relative",
+      39
+    ],
+    [
+      "rope",
+      39
+    ],
+    [
+      "information",
+      33
+    ],
+    [
+      "equation",
+      32
+    ],
+    [
+      "relative position",
+      30
+    ],
+    [
+      "encoding",
+      28
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "roformer",
+      28
+    ],
+    [
+      "proposed",
+      26
+    ],
+    [
+      "language",
+      25
+    ],
+    [
+      "embedding",
+      24
+    ],
+    [
+      "position information",
+      24
+    ],
+    [
+      "self-attention",
+      24
+    ],
+    [
+      "learning",
+      23
+    ],
+    [
+      "position encoding",
+      20
+    ],
+    [
+      "section",
+      20
+    ]
+  ],
+  "url": "https://arxiv.org/html/2104.09864v5",
+  "url_canonical": "https://arxiv.org/html/2104.09864v5",
+  "via_source_id": "ahead-of-ai"
+}

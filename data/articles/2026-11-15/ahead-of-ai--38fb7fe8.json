@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--38fb7fe8",
+  "author": "Sebastian Raschka, PhD",
+  "content_chars": 50179,
+  "content_sha256": "e4a6b5144d97219a76a0cdf2485fc064cb8531b2a90e010d86153dbe60f68942",
+  "content_tokens": 12544,
+  "fetched_at": "2026-11-15T13:56:14Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE. It’s essentially a comprehensive journey where we will work through the mechanisms with visual examples, a little math, and a small PyTorch…",
+  "source_id": "ahead-of-ai",
+  "title": "Understanding Positional Embeddings in Modern LLMs",
+  "top_terms": [
+    [
+      "position",
+      105
+    ],
+    [
+      "rope",
+      84
+    ],
+    [
+      "query",
+      67
+    ],
+    [
+      "attention",
+      61
+    ],
+    [
+      "token",
+      59
+    ],
+    [
+      "key",
+      55
+    ],
+    [
+      "figure",
+      47
+    ],
+    [
+      "pair",
+      45
+    ],
+    [
+      "head",
+      40
+    ],
+    [
+      "example",
+      37
+    ],
+    [
+      "embedding",
+      36
+    ],
+    [
+      "first",
+      35
+    ],
+    [
+      "feature",
+      34
+    ],
+    [
+      "positional",
+      34
+    ],
+    [
+      "positions",
+      34
+    ],
+    [
+      "vector",
+      34
+    ],
+    [
+      "vectors",
+      33
+    ],
+    [
+      "pairs",
+      31
+    ],
+    [
+      "rotation",
+      31
+    ],
+    [
+      "torch",
+      31
+    ]
+  ],
+  "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+  "url_canonical": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+  "via_source_id": null
+}

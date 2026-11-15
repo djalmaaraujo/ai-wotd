@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--56599296",
+  "author": null,
+  "content_chars": 2354,
+  "content_sha256": "6bf304c15f3f7df71f658dc4f6194834ca667dce7cd374738ef4ec1e4d6a6018",
+  "content_tokens": 588,
+  "fetched_at": "2026-11-15T13:56:15Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "Computer Science > Computation and Language Title:RoFormer: Enhanced Transformer with Rotary Position Embedding View PDF HTML (experimental)Abstract:Position encoding recently has shown effective in the transformer architecture. It enables valuable supervision for dependency…",
+  "source_id": "ahead-of-ai",
+  "title": "[2104.09864] RoFormer: Enhanced Transformer with Rotary Position Embedding",
+  "top_terms": [
+    [
+      "position",
+      8
+    ],
+    [
+      "kb",
+      5
+    ],
+    [
+      "utc",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "embedding",
+      4
+    ],
+    [
+      "position embedding",
+      4
+    ],
+    [
+      "roformer",
+      4
+    ],
+    [
+      "rotary",
+      4
+    ],
+    [
+      "rotary position",
+      4
+    ],
+    [
+      "rotary position embedding",
+      4
+    ],
+    [
+      "transformer",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "dependency",
+      3
+    ],
+    [
+      "enhanced",
+      3
+    ],
+    [
+      "enhanced transformer",
+      3
+    ],
+    [
+      "enhanced transformer with",
+      3
+    ],
+    [
+      "experimental",
+      3
+    ],
+    [
+      "relative",
+      3
+    ],
+    [
+      "rope",
+      3
+    ],
+    [
+      "transformer with",
+      3
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2104.09864",
+  "url_canonical": "https://arxiv.org/abs/2104.09864",
+  "via_source_id": "ahead-of-ai"
+}

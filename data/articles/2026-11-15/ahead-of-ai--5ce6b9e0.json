@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--5ce6b9e0",
+  "author": null,
+  "content_chars": 4681,
+  "content_sha256": "d7090c33bff1d68963dcb0a83ddc18790838eeedabc10e3c400c5a874c190344",
+  "content_tokens": 1170,
+  "fetched_at": "2026-11-15T13:56:18Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "| { | | \"architectures\": [ | | \"MiniMaxM3SparseForConditionalGeneration\" | | ], | | \"auto_map\": { | | \"AutoConfig\": \"configuration_minimax_m3_vl.MiniMaxM3VLConfig\" | | }, | | \"model_type\": \"minimax_m3_vl\", | | \"text_config\": { | | \"hidden_size\": 6144, | | \"intermediate_size\"…",
+  "source_id": "ahead-of-ai",
+  "title": "config.json · MiniMaxAI/MiniMax-M3 at main",
+  "top_terms": [
+    [
+      "size",
+      16
+    ],
+    [
+      "num",
+      12
+    ],
+    [
+      "sparse",
+      11
+    ],
+    [
+      "hidden",
+      8
+    ],
+    [
+      "attention",
+      7
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "config",
+      6
+    ],
+    [
+      "token",
+      6
+    ],
+    [
+      "heads",
+      5
+    ],
+    [
+      "index",
+      5
+    ],
+    [
+      "norm",
+      5
+    ],
+    [
+      "patch",
+      5
+    ],
+    [
+      "true",
+      5
+    ],
+    [
+      "type",
+      5
+    ],
+    [
+      "vision",
+      5
+    ],
+    [
+      "compression",
+      4
+    ],
+    [
+      "dim",
+      4
+    ],
+    [
+      "intermediate",
+      4
+    ],
+    [
+      "merge",
+      4
+    ],
+    [
+      "rope",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3/blob/main/config.json",
+  "url_canonical": "https://huggingface.co/MiniMaxAI/MiniMax-M3/blob/main/config.json",
+  "via_source_id": "ahead-of-ai"
+}

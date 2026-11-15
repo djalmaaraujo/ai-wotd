@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--e05da0a8",
+  "author": null,
+  "content_chars": 2356,
+  "content_sha256": "86556a5f55f29307bf0a9d24e752ffdd6f0e57e1aa3354653f7913313484139c",
+  "content_tokens": 589,
+  "fetched_at": "2026-11-15T13:56:18Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "Computer Science > Computation and Language Title:The Impact of Positional Encoding on Length Generalization in Transformers View PDF HTML (experimental)Abstract:Length generalization, the ability to generalize from small training context sizes to larger ones, is a critical…",
+  "source_id": "ahead-of-ai",
+  "title": "[2305.19466] The Impact of Positional Encoding on Length Generalization in Transformers",
+  "top_terms": [
+    [
+      "encoding",
+      7
+    ],
+    [
+      "generalization",
+      7
+    ],
+    [
+      "length",
+      7
+    ],
+    [
+      "length generalization",
+      7
+    ],
+    [
+      "positional",
+      6
+    ],
+    [
+      "positional encoding",
+      6
+    ],
+    [
+      "transformers",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "pe",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "generalization in",
+      3
+    ],
+    [
+      "impact",
+      3
+    ],
+    [
+      "impact of",
+      3
+    ],
+    [
+      "length generalization in",
+      3
+    ],
+    [
+      "nope",
+      3
+    ],
+    [
+      "position",
+      3
+    ],
+    [
+      "relative",
+      3
+    ],
+    [
+      "tasks",
+      3
+    ],
+    [
+      "absolute",
+      2
+    ],
+    [
+      "alibi",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2305.19466",
+  "url_canonical": "https://arxiv.org/abs/2305.19466",
+  "via_source_id": "ahead-of-ai"
+}

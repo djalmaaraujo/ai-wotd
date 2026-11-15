@@ -1,0 +1,98 @@
+{
+  "article_id": "ahead-of-ai--2d5706b7",
+  "author": null,
+  "content_chars": 1798,
+  "content_sha256": "010c0e9f286fba0fad79ecd752052ac2cfa5e0f60182c8944bac6e362eb171c0",
+  "content_tokens": 449,
+  "fetched_at": "2026-11-15T13:56:18Z",
+  "kind": "article",
+  "published_at": "2026-11-15T12:10:37+00:00",
+  "snippet": "Computer Science > Machine Learning Title:Fractional Rotation, Full Potential? Investigating Performance and Convergence of Partial RoPE View PDF HTML (experimental)Abstract:Rotary Positional Embedding (RoPE) is widely used in transformers to encode relative positional…",
+  "source_id": "ahead-of-ai",
+  "title": "[2603.11611] Fractional Rotation, Full Potential? Investigating Performance and Convergence of Partial RoPE",
+  "top_terms": [
+    [
+      "rope",
+      10
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "convergence",
+      4
+    ],
+    [
+      "partial",
+      4
+    ],
+    [
+      "partial rope",
+      4
+    ],
+    [
+      "and convergence",
+      3
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "convergence of",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "positional",
+      3
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "and convergence of",
+      2
+    ],
+    [
+      "applying",
+      2
+    ],
+    [
+      "applying rope",
+      2
+    ],
+    [
+      "applying rope to",
+      2
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "collaborators",
+      2
+    ],
+    [
+      "convergence of partial",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "dimensions",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2603.11611",
+  "url_canonical": "https://arxiv.org/abs/2603.11611",
+  "via_source_id": "ahead-of-ai"
+}
