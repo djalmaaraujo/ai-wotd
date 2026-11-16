@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--f205cec2",
+  "author": "Simon Willison",
+  "content_chars": 591,
+  "content_sha256": "a01c96b028a55deb4f12d69d3292968a65bbf03a15655cb18680fce385996eab",
+  "content_tokens": 147,
+  "fetched_at": "2026-11-16T15:42:39Z",
+  "kind": "article",
+  "published_at": "2026-11-15T03:49:47+00:00",
+  "snippet": "15th November 2026 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Recent…",
+  "source_id": "simonwillison",
+  "title": "datasette-agent 0.6a0",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "datasette",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "for datasette",
+      2
+    ],
+    [
+      "a0",
+      1
+    ],
+    [
+      "a0 15",
+      1
+    ],
+    [
+      "a0 15 th",
+      1
+    ],
+    [
+      "about your data",
+      1
+    ],
+    [
+      "accumulated",
+      1
+    ],
+    [
+      "accumulated small",
+      1
+    ],
+    [
+      "accumulated small fixes",
+      1
+    ],
+    [
+      "adds",
+      1
+    ],
+    [
+      "adds an",
+      1
+    ],
+    [
+      "adds an agent",
+      1
+    ],
+    [
+      "agent plugin",
+      1
+    ],
+    [
+      "agent plugin for",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/15/datasette-agent",
+  "via_source_id": null
+}

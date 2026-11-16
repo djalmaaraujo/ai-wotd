@@ -1,0 +1,236 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "mit-tech-review-ai--9152c900",
+        "openai-blog--1cdfcee8",
+        "openai-blog--3d4c30c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 35.155593,
+      "term": "partnership",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900"
+      ],
+      "avg_tf_baseline": 5.5882,
+      "df_today": 2,
+      "score": 26.410662,
+      "term": "business",
+      "tf_today": 46
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.459101,
+      "term": "the business",
+      "tf_today": 6
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.931329,
+      "term": "ai tools",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "openai-blog--05e4af4e",
+        "openai-blog--d575d690"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 10.729586,
+      "term": "healthcare",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900"
+      ],
+      "avg_tf_baseline": 7.2,
+      "df_today": 2,
+      "score": 7.51295,
+      "term": "enterprise",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900",
+        "openai-blog--05e4af4e",
+        "openai-blog--d575d690"
+      ],
+      "avg_tf_baseline": 31.2609,
+      "df_today": 4,
+      "score": 7.021255,
+      "term": "agents",
+      "tf_today": 35
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "every new",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--1170fa7b",
+        "mit-tech-review-ai--9152c900"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "hours to",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "mit-tech-review-ai--9152c900",
+        "openai-blog--3d4c30c3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.931472,
+      "term": "partnership with",
+      "tf_today": 3
+    }
+  ],
+  "date": "2026-11-16",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 16589,
+    "model": "jev-1.14.0",
+    "pool_size": 35,
+    "signals": {
+      "across": {
+        "dominance": 1.9,
+        "event": 0.57,
+        "form": 0.23,
+        "novelty": 0.47,
+        "specificity": 0.19
+      },
+      "agent": {
+        "dominance": 2.53,
+        "event": 0.86,
+        "form": 0.89,
+        "novelty": 0.31,
+        "specificity": 1.54
+      },
+      "agents": {
+        "dominance": 2.57,
+        "event": 0.91,
+        "form": 0.85,
+        "novelty": 0.34,
+        "specificity": 1.29
+      },
+      "ai agents": {
+        "dominance": 2.51,
+        "event": 0.89,
+        "form": 0.89,
+        "novelty": 0.31,
+        "specificity": 1.37
+      },
+      "ai tools": {
+        "dominance": 2.44,
+        "event": 0.95,
+        "form": 0.82,
+        "novelty": 0.15,
+        "specificity": 0.95
+      },
+      "business": {
+        "dominance": 2.52,
+        "event": 0.95,
+        "form": 0.86,
+        "novelty": 0.54,
+        "specificity": 0.23
+      },
+      "chatgpt": {
+        "dominance": 1.4,
+        "event": 0.72,
+        "form": 0.89,
+        "novelty": 0.59,
+        "specificity": 1.99
+      },
+      "enterprise": {
+        "dominance": 1.97,
+        "event": 0.48,
+        "form": 0.87,
+        "novelty": 0.56,
+        "specificity": 0.61
+      },
+      "healthcare": {
+        "dominance": 2.57,
+        "event": 0.92,
+        "form": 0.92,
+        "novelty": 0.75,
+        "specificity": 0.22
+      },
+      "king": {
+        "dominance": 1.66,
+        "event": 0.7,
+        "form": 0.85,
+        "novelty": 0.79,
+        "specificity": 0.08
+      },
+      "media division": {
+        "dominance": 1.79,
+        "event": 0.82,
+        "form": 0.8,
+        "novelty": 0.7,
+        "specificity": 0.01
+      },
+      "openai": {
+        "dominance": 2.88,
+        "event": 0.94,
+        "form": 0.82,
+        "novelty": 0.58,
+        "specificity": 1.03
+      },
+      "partnership": {
+        "dominance": 2.59,
+        "event": 0.95,
+        "form": 0.76,
+        "novelty": 0.73,
+        "specificity": 0.03
+      },
+      "trust": {
+        "dominance": 1.29,
+        "event": 0.7,
+        "form": 0.89,
+        "novelty": 0.55,
+        "specificity": 0.32
+      },
+      "work across": {
+        "dominance": 2.15,
+        "event": 0.72,
+        "form": 0.11,
+        "novelty": 0.42,
+        "specificity": 0.24
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

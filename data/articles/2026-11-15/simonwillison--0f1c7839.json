@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--0f1c7839",
+  "author": "Simon Willison",
+  "content_chars": 603,
+  "content_sha256": "fcaadfa63de70426fdbb0c05a0e1cef005670e65262ec79f8ff3f4f75ddfe8e2",
+  "content_tokens": 150,
+  "fetched_at": "2026-11-16T15:42:39Z",
+  "kind": "article",
+  "published_at": "2026-11-15T23:18:17+00:00",
+  "snippet": "15th November 2026 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from/<route>.db by actors who were denied access to it…",
+  "source_id": "simonwillison",
+  "title": "datasette 0.65.6",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "route",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "database",
+      2
+    ],
+    [
+      "db",
+      2
+    ],
+    [
+      "name",
+      2
+    ],
+    [
+      "security",
+      2
+    ],
+    [
+      "a43",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "access to",
+      1
+    ],
+    [
+      "access to it",
+      1
+    ],
+    [
+      "actors",
+      1
+    ],
+    [
+      "actors who",
+      1
+    ],
+    [
+      "actors who were",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "backported",
+      1
+    ],
+    [
+      "be downloaded",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/15/datasette-2",
+  "via_source_id": null
+}

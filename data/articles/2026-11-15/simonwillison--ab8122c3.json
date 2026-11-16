@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--ab8122c3",
+  "author": "Simon Willison",
+  "content_chars": 2382,
+  "content_sha256": "5f4529daa378caa29cbecdab3435dfad2e9e04a6d99593b7f5eca41f7c042e8e",
+  "content_tokens": 595,
+  "fetched_at": "2026-11-16T15:42:39Z",
+  "kind": "article",
+  "published_at": "2026-11-15T23:20:27+00:00",
+  "snippet": "15th November 2026 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as…",
+  "source_id": "simonwillison",
+  "title": "datasette 1.0a43",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "datasette",
+      3
+    ],
+    [
+      "facet-results",
+      3
+    ],
+    [
+      "firefox",
+      3
+    ],
+    [
+      "row",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "active-view-transition",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "css",
+      2
+    ],
+    [
+      "dozens",
+      2
+    ],
+    [
+      "dozens of",
+      2
+    ],
+    [
+      "fixes",
+      2
+    ],
+    [
+      "html",
+      2
+    ],
+    [
+      "i've",
+      2
+    ],
+    [
+      "in firefox",
+      2
+    ],
+    [
+      "json",
+      2
+    ],
+    [
+      "method",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/15/datasette",
+  "via_source_id": null
+}

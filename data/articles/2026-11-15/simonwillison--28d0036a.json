@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--28d0036a",
+  "author": "Simon Willison",
+  "content_chars": 931,
+  "content_sha256": "7bd90b6f5afd8241e77286ec3ffc55ac6febbfa17d1eeb26362cb4358374d702",
+  "content_tokens": 232,
+  "fetched_at": "2026-11-16T15:42:39Z",
+  "kind": "article",
+  "published_at": "2026-11-15T04:02:45+00:00",
+  "snippet": "15th November 2026 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the…",
+  "source_id": "simonwillison",
+  "title": "datasette-apps 0.4a0",
+  "top_terms": [
+    [
+      "app",
+      5
+    ],
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "datasette",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "a0",
+      2
+    ],
+    [
+      "an app",
+      2
+    ],
+    [
+      "app that",
+      2
+    ],
+    [
+      "apps",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "details",
+      2
+    ],
+    [
+      "link",
+      2
+    ],
+    [
+      "link to",
+      2
+    ],
+    [
+      "url",
+      2
+    ],
+    [
+      "a0 15",
+      1
+    ],
+    [
+      "a0 15 th",
+      1
+    ],
+    [
+      "a0 adds",
+      1
+    ],
+    [
+      "a0 adds support",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+  "via_source_id": null
+}
