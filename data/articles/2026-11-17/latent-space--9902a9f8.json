@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--9902a9f8",
+  "author": null,
+  "content_chars": 3472,
+  "content_sha256": "465111a159aa4c756aff137e903b7e46cefc8c1a63cd3fb2681888e01bb0cdd4",
+  "content_tokens": 868,
+  "fetched_at": "2026-11-17T15:59:47Z",
+  "kind": "article",
+  "published_at": "2026-11-17T09:24:56+00:00",
+  "snippet": "Basalt is a local inference engine for large language models: Qwen3.8-Flash-Next, DeepSeek-V4.1-Flash and Qwen3.8-27B. It runs on an NVIDIA Blackwell GPU (sm_120) on Linux and Windows x64, with what does not fit in VRAM (the experts of a mixture-of-experts model) in system RAM…",
+  "source_id": "latent-space",
+  "title": "GitHub - jesdga95/basalt: Local inference engine optimized for NVIDIA Blackwell · GitHub",
+  "top_terms": [
+    [
+      "basalt",
+      13
+    ],
+    [
+      "qwen3.8",
+      12
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "build",
+      6
+    ],
+    [
+      "yes",
+      6
+    ],
+    [
+      "bin",
+      5
+    ],
+    [
+      "default",
+      5
+    ],
+    [
+      "flash-next",
+      5
+    ],
+    [
+      "precision",
+      5
+    ],
+    [
+      "blackwell",
+      4
+    ],
+    [
+      "gpu",
+      4
+    ],
+    [
+      "guide",
+      4
+    ],
+    [
+      "linux",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "platforms",
+      4
+    ],
+    [
+      "video",
+      4
+    ],
+    [
+      "windows",
+      4
+    ],
+    [
+      "building",
+      3
+    ],
+    [
+      "by default",
+      3
+    ],
+    [
+      "cmake",
+      3
+    ]
+  ],
+  "url": "https://github.com/jesdga95/basalt",
+  "url_canonical": "https://github.com/jesdga95/basalt",
+  "via_source_id": "latent-space"
+}

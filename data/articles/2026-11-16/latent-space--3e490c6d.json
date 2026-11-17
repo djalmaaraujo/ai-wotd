@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3e490c6d",
+  "author": null,
+  "content_chars": 9391,
+  "content_sha256": "d22f59ad1e3e99361d52f1018dbf5a2a405017bc90d64ff104e2d6a5d59804a0",
+  "content_tokens": 2347,
+  "fetched_at": "2026-11-17T15:59:51Z",
+  "kind": "article",
+  "published_at": "2026-11-16T21:38:03+00:00",
+  "snippet": "High-Resolution Image Synthesis with Latent Diffusion Models (A.K.A. LDM & Stable Diffusion ) Robin Rombach1,2 , Andreas Blattmann1,2 , Dominik Lorenz1,2 , Patrick Esser3 , Björn Ommer1,2 1 LMU Munich , 2 IWR, Heidelberg University , 3 Runway CVPR 2022 (ORAL) Press Releases…",
+  "source_id": "latent-space",
+  "title": "High-Resolution Image Synthesis with Latent Diffusion Models - Computer Vision & Learning Group",
+  "top_terms": [
+    [
+      "figure",
+      35
+    ],
+    [
+      "samples",
+      26
+    ],
+    [
+      "model",
+      19
+    ],
+    [
+      "models",
+      16
+    ],
+    [
+      "steps",
+      16
+    ],
+    [
+      "dataset",
+      14
+    ],
+    [
+      "ddim",
+      12
+    ],
+    [
+      "image",
+      12
+    ],
+    [
+      "ddim steps",
+      11
+    ],
+    [
+      "samples from",
+      11
+    ],
+    [
+      "imagenet",
+      10
+    ],
+    [
+      "synthesis",
+      10
+    ],
+    [
+      "best",
+      9
+    ],
+    [
+      "diffusion",
+      9
+    ],
+    [
+      "fid",
+      9
+    ],
+    [
+      "our best",
+      9
+    ],
+    [
+      "resolution",
+      9
+    ],
+    [
+      "results",
+      9
+    ],
+    [
+      "diffusion models",
+      8
+    ],
+    [
+      "ldm",
+      8
+    ]
+  ],
+  "url": "https://ommer-lab.com/research/latent-diffusion-models",
+  "url_canonical": "https://ommer-lab.com/research/latent-diffusion-models",
+  "via_source_id": "latent-space"
+}

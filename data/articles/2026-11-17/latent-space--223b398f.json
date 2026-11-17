@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--223b398f",
+  "author": null,
+  "content_chars": 4767,
+  "content_sha256": "f118289d009ff184e7bceae0d5ee86f9a89ef666f5532be951c4a5f9d4f7f9e4",
+  "content_tokens": 1191,
+  "fetched_at": "2026-11-17T15:59:47Z",
+  "kind": "article",
+  "published_at": "2026-11-17T09:24:56+00:00",
+  "snippet": "Capable AI on hardware you own. Defense systems, robots and field equipment need a capable model on board, often with no network and a tight power budget. VECTRA is a programmable chip that runs the most capable model that fits a 20 W budget, today a 27B-class model, beside the…",
+  "source_id": "latent-space",
+  "title": "Valley Semiconductor",
+  "top_terms": [
+    [
+      "model",
+      16
+    ],
+    [
+      "chip",
+      10
+    ],
+    [
+      "fpga",
+      8
+    ],
+    [
+      "power",
+      8
+    ],
+    [
+      "bit",
+      7
+    ],
+    [
+      "core",
+      7
+    ],
+    [
+      "silicon",
+      7
+    ],
+    [
+      "design",
+      6
+    ],
+    [
+      "hardware",
+      6
+    ],
+    [
+      "memory",
+      6
+    ],
+    [
+      "systems",
+      6
+    ],
+    [
+      "token",
+      6
+    ],
+    [
+      "capable",
+      5
+    ],
+    [
+      "first",
+      5
+    ],
+    [
+      "measured",
+      5
+    ],
+    [
+      "models",
+      5
+    ],
+    [
+      "per token",
+      5
+    ],
+    [
+      "bit-exact",
+      4
+    ],
+    [
+      "capable model",
+      4
+    ],
+    [
+      "defense",
+      4
+    ]
+  ],
+  "url": "https://valleysemiconductor.com/",
+  "url_canonical": "https://valleysemiconductor.com/",
+  "via_source_id": "latent-space"
+}

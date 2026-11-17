@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--e34a03b0",
+  "author": null,
+  "content_chars": 39322,
+  "content_sha256": "ba7d18d4d709c4aa31492e7230ea730996184a9f03b3944656ba3f21c5e9a8fd",
+  "content_tokens": 9830,
+  "fetched_at": "2026-11-17T15:59:42Z",
+  "kind": "article",
+  "published_at": "2026-11-17T09:24:56+00:00",
+  "snippet": "Introduction AI inference is becoming increasingly heterogeneous. New model architectures are released every week, inference traffic shifts across different batch sizes and sequence lengths, and hardware platforms continue to proliferate. Achieving peak performance across all…",
+  "source_id": "latent-space",
+  "title": "Last year we built megakernels. This year we deleted them: The road to Together Compiler",
+  "top_terms": [
+    [
+      "kernel",
+      69
+    ],
+    [
+      "agents",
+      44
+    ],
+    [
+      "kernels",
+      43
+    ],
+    [
+      "inductor",
+      31
+    ],
+    [
+      "operations",
+      29
+    ],
+    [
+      "optimization",
+      29
+    ],
+    [
+      "launch",
+      28
+    ],
+    [
+      "memory",
+      27
+    ],
+    [
+      "gpu",
+      26
+    ],
+    [
+      "megakernels",
+      25
+    ],
+    [
+      "performance",
+      22
+    ],
+    [
+      "megakernel",
+      21
+    ],
+    [
+      "across",
+      19
+    ],
+    [
+      "fusion",
+      19
+    ],
+    [
+      "overhead",
+      18
+    ],
+    [
+      "inference",
+      16
+    ],
+    [
+      "model",
+      16
+    ],
+    [
+      "pytorch",
+      16
+    ],
+    [
+      "torch",
+      16
+    ],
+    [
+      "two",
+      16
+    ]
+  ],
+  "url": "https://www.together.ai/blog/road-to-together-compiler",
+  "url_canonical": "https://www.together.ai/blog/road-to-together-compiler",
+  "via_source_id": "latent-space"
+}

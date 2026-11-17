@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d54d29e9",
+  "author": null,
+  "content_chars": 1751,
+  "content_sha256": "1a88b0976c2ce82623420f3409d822194114cbaa104387a208830471eb8c835c",
+  "content_tokens": 437,
+  "fetched_at": "2026-11-17T15:59:52Z",
+  "kind": "article",
+  "published_at": "2026-11-16T21:38:03+00:00",
+  "snippet": "Computer Science > Computer Vision and Pattern Recognition Title:SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis View PDF HTML (experimental)Abstract:We present SDXL, a latent diffusion model for text-to-image synthesis. Compared to previous versions…",
+  "source_id": "latent-space",
+  "title": "[2307.01952] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+  "top_terms": [
+    [
+      "sdxl",
+      8
+    ],
+    [
+      "diffusion",
+      5
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "arxivlabs",
+      4
+    ],
+    [
+      "community",
+      3
+    ],
+    [
+      "image",
+      3
+    ],
+    [
+      "latent",
+      3
+    ],
+    [
+      "latent diffusion",
+      3
+    ],
+    [
+      "synthesis",
+      3
+    ],
+    [
+      "arxiv",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "collaborators",
+      2
+    ],
+    [
+      "compared",
+      2
+    ],
+    [
+      "computer",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "diffusion models",
+      2
+    ],
+    [
+      "diffusion models for",
+      2
+    ],
+    [
+      "experimental",
+      2
+    ],
+    [
+      "for high-resolution",
+      2
+    ],
+    [
+      "for high-resolution image",
+      2
+    ]
+  ],
+  "url": "https://arxiv.org/abs/2307.01952",
+  "url_canonical": "https://arxiv.org/abs/2307.01952",
+  "via_source_id": "latent-space"
+}

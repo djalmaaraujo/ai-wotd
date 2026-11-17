@@ -1,0 +1,263 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--5363010a",
+        "latent-space--9714ca49"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 214.39243,
+      "term": "clairic",
+      "tf_today": 46
+    },
+    {
+      "articles": [
+        "latent-space--c8d1945d",
+        "latent-space--e34a03b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 103.732129,
+      "term": "megakernels",
+      "tf_today": 26
+    },
+    {
+      "articles": [
+        "latent-space--14834b43",
+        "latent-space--5363010a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 78.577553,
+      "term": "quarter",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "latent-space--966e8492",
+        "latent-space--c8d1945d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 73.709491,
+      "term": "qwen4-max",
+      "tf_today": 20
+    },
+    {
+      "articles": [
+        "latent-space--5363010a",
+        "latent-space--7a2f3884",
+        "latent-space--9714ca49"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 69.736713,
+      "term": "workers ai",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "latent-space--14834b43",
+        "latent-space--5363010a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 64.157776,
+      "term": "third quarter",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "latent-space--5363010a",
+        "latent-space--9714ca49"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 59.480808,
+      "term": "clef",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "latent-space--c8d1945d",
+        "latent-space--d5fd16a3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 54.874869,
+      "term": "inside-llm",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "latent-space--7a2f3884",
+        "latent-space--e34a03b0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 54.874869,
+      "term": "tps",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "latent-space--9902a9f8",
+        "latent-space--c8d1945d"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 50.344374,
+      "term": "basalt",
+      "tf_today": 15
+    }
+  ],
+  "date": "2026-11-17",
+  "evidence_article_ids": [
+    "latent-space--5363010a",
+    "latent-space--9714ca49"
+  ],
+  "judge": {
+    "input_tokens": 28003,
+    "model": "jev-1.14.0",
+    "pool_size": 55,
+    "signals": {
+      "annualized revenue run rate": {
+        "dominance": 2.15,
+        "event": 0.86,
+        "form": 0.88,
+        "novelty": 0.8,
+        "specificity": 0.04
+      },
+      "cf": {
+        "dominance": 2.47,
+        "event": 0.93,
+        "form": 0.29,
+        "novelty": 0.77,
+        "specificity": 1.07
+      },
+      "clairic": {
+        "dominance": 2.22,
+        "event": 0.96,
+        "form": 0.9,
+        "novelty": 0.91,
+        "specificity": 1.96
+      },
+      "cloudflare": {
+        "dominance": 2.95,
+        "event": 0.96,
+        "form": 0.94,
+        "novelty": 0.83,
+        "specificity": 1.07
+      },
+      "cloudflare joins": {
+        "dominance": 2.79,
+        "event": 0.77,
+        "form": 0.17,
+        "novelty": 0.81,
+        "specificity": 0.61
+      },
+      "extraction models": {
+        "dominance": 2.01,
+        "event": 0.97,
+        "form": 0.92,
+        "novelty": 0.8,
+        "specificity": 1.88
+      },
+      "labels": {
+        "dominance": 2.49,
+        "event": 0.74,
+        "form": 0.54,
+        "novelty": 0.48,
+        "specificity": 0.71
+      },
+      "model": {
+        "dominance": 2.93,
+        "event": 0.96,
+        "form": 0.66,
+        "novelty": 0.24,
+        "specificity": 1.07
+      },
+      "models": {
+        "dominance": 2.97,
+        "event": 0.97,
+        "form": 0.79,
+        "novelty": 0.31,
+        "specificity": 1.05
+      },
+      "neolab": {
+        "dominance": 2.62,
+        "event": 0.77,
+        "form": 0.87,
+        "novelty": 0.9,
+        "specificity": 1.81
+      },
+      "qwen4-max": {
+        "dominance": 1.9,
+        "event": 0.96,
+        "form": 0.93,
+        "novelty": 0.77,
+        "specificity": 2.0
+      },
+      "revenue run rate": {
+        "dominance": 2.18,
+        "event": 0.83,
+        "form": 0.88,
+        "novelty": 0.78,
+        "specificity": 0.03
+      },
+      "run rate": {
+        "dominance": 2.11,
+        "event": 0.76,
+        "form": 0.79,
+        "novelty": 0.73,
+        "specificity": 0.06
+      },
+      "system one extraction": {
+        "dominance": 2.31,
+        "event": 0.95,
+        "form": 0.67,
+        "novelty": 0.85,
+        "specificity": 1.94
+      },
+      "system one models": {
+        "dominance": 2.52,
+        "event": 0.93,
+        "form": 0.87,
+        "novelty": 0.82,
+        "specificity": 1.94
+      },
+      "workers ai": {
+        "dominance": 1.99,
+        "event": 0.96,
+        "form": 0.86,
+        "novelty": 0.79,
+        "specificity": 1.99
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "system one models",
+      "clairic",
+      "extraction models",
+      "workers ai",
+      "qwen4-max"
+    ]
+  },
+  "label": "System One models",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://blog.cloudflare.com/clairic-extraction-model",
+        "https://latent.space/p/cloudflare/"
+      ],
+      "text": "System One models refer to a newly proposed class of specialized, lightweight neural models designed for fast, deterministic extraction and computation tasks — such as parsing, forecasting, or structured value estimation — from unstructured inputs. Contrasted with general-purpose System Two-style LLMs that perform open-ended reasoning, System One models prioritize low latency, high accuracy on narrow tasks, and cost efficiency, often deployed at the edge. The term was coined by TypeSafe and adopted by Cloudflare for its Clairic and Clef models, representing a shift toward modular, task-specific architectures in the AI stack."
+    },
+    "generated_at": "2026-11-17T16:00:18.710172+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Cloudflare declared itself a \"neolab\" at the AI Engineer Code Summit, unveiling two System One models — Clef and Clairic — hosted on its Workers AI platform. The announcement positions Cloudflare alongside a new category of model builders distinct from OpenAI and Anthropic. Clairic, the first extraction model in this class, targets structured value retrieval from unstructured inputs with claims of higher accuracy, lower latency, and reduced cost versus general-purpose LLMs. The System One designation originated from TypeSafe a month earlier and has quickly drawn industry attention. Cloudflare plans to open-weight Clairic soon, signaling a push toward specialized, efficient model architectures over monolithic foundations.",
+    "why": "System One models trended because Cloudflare used the AI Engineer Code Summit to launch the first concrete implementations — Clef and Clairic — under this new category, framing them as a distinct model class for extraction tasks. The term gained traction after TypeSafe introduced it weeks earlier, and Cloudflare's adoption by a major infrastructure provider gave it immediate credibility and distribution via Workers AI."
+  },
+  "score": 25.086059,
+  "word": "system one models"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--19ded957",
+  "author": null,
+  "content_chars": 5501,
+  "content_sha256": "d8e1b39517624375afe37cb5983f4cce2a5c506d84155969f04629cd5c71412e",
+  "content_tokens": 1375,
+  "fetched_at": "2026-11-17T15:59:49Z",
+  "kind": "article",
+  "published_at": "2026-11-16T21:38:03+00:00",
+  "snippet": "Starting today, an initial version of FLUX 3 Video for generation from text and images is generally available via the BFL API and select partners. The model generates clips up to 20 seconds long in HD resolution, with Full HD output via upscaling and native audio created…",
+  "source_id": "latent-space",
+  "title": "FLUX 3 Video, Part 1: Generation | Black Forest Labs",
+  "top_terms": [
+    [
+      "video",
+      31
+    ],
+    [
+      "flux",
+      28
+    ],
+    [
+      "flux 3",
+      27
+    ],
+    [
+      "flux 3 video",
+      14
+    ],
+    [
+      "generation",
+      12
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "audio",
+      8
+    ],
+    [
+      "models",
+      7
+    ],
+    [
+      "capabilities",
+      6
+    ],
+    [
+      "full",
+      5
+    ],
+    [
+      "image",
+      5
+    ],
+    [
+      "multiple",
+      5
+    ],
+    [
+      "natural",
+      5
+    ],
+    [
+      "and audio",
+      4
+    ],
+    [
+      "available",
+      4
+    ],
+    [
+      "bfl",
+      4
+    ],
+    [
+      "dialogue",
+      4
+    ],
+    [
+      "existing",
+      4
+    ],
+    [
+      "hd",
+      4
+    ],
+    [
+      "image-to-video",
+      4
+    ]
+  ],
+  "url": "https://bfl.ai/blog/flux-3-video",
+  "url_canonical": "https://bfl.ai/blog/flux-3-video",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--7a2f3884",
+  "author": null,
+  "content_chars": 11939,
+  "content_sha256": "8d25362ab9ed9e9feb4b2815d67f3f0fd9fb32a152b58fd4da1a0b1fcbc15a98",
+  "content_tokens": 2984,
+  "fetched_at": "2026-11-17T15:59:36Z",
+  "kind": "article",
+  "published_at": "2026-11-17T15:00:00+00:00",
+  "snippet": "We're making Cloudflare the best place for building and deploying agents. But reliable agents aren't built on prompts alone; they require a robust, coordinated infrastructure of underlying primitives. At Cloudflare, we have been building these primitives for years: Durable…",
+  "source_id": "latent-space",
+  "title": "Powering the agents: Workers AI now runs large models, starting with Kimi K2.5 | Cloudflare Blog",
+  "top_terms": [
+    [
+      "model",
+      30
+    ],
+    [
+      "request",
+      17
+    ],
+    [
+      "tokens",
+      17
+    ],
+    [
+      "kimi",
+      16
+    ],
+    [
+      "workers",
+      15
+    ],
+    [
+      "agents",
+      14
+    ],
+    [
+      "requests",
+      14
+    ],
+    [
+      "workers ai",
+      14
+    ],
+    [
+      "k2.5",
+      12
+    ],
+    [
+      "kimi k2.5",
+      12
+    ],
+    [
+      "agent",
+      11
+    ],
+    [
+      "inference",
+      11
+    ],
+    [
+      "models",
+      11
+    ],
+    [
+      "the model",
+      11
+    ],
+    [
+      "api",
+      10
+    ],
+    [
+      "cloudflare",
+      9
+    ],
+    [
+      "prefill",
+      9
+    ],
+    [
+      "res",
+      9
+    ],
+    [
+      "id",
+      8
+    ],
+    [
+      "input",
+      8
+    ]
+  ],
+  "url": "https://blog.cloudflare.com/workers-ai-large-models",
+  "url_canonical": "https://blog.cloudflare.com/workers-ai-large-models",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--9714ca49",
+  "author": null,
+  "content_chars": 25162,
+  "content_sha256": "c6208179e759c0aeb3169975ef1b54a64e4de06a04cd810442f04a71470eec3a",
+  "content_tokens": 6290,
+  "fetched_at": "2026-11-17T15:59:36Z",
+  "kind": "article",
+  "published_at": "2026-11-17T15:00:00+00:00",
+  "snippet": "Today, we're announcing a preview of a new class of System One-style models: extraction models. Our first one, Clairic, is available hosted on Workers AI as @cf/cloudflare/clairic. We intend to release the model open-weights soon. Clairic is an extraction model that is able to…",
+  "source_id": "latent-space",
+  "title": "Introducing Clairic, a new System One class of extraction models | Cloudflare Blog",
+  "top_terms": [
+    [
+      "clairic",
+      40
+    ],
+    [
+      "model",
+      38
+    ],
+    [
+      "type",
+      37
+    ],
+    [
+      "values",
+      35
+    ],
+    [
+      "value",
+      33
+    ],
+    [
+      "input",
+      25
+    ],
+    [
+      "null",
+      25
+    ],
+    [
+      "number",
+      25
+    ],
+    [
+      "confidence",
+      24
+    ],
+    [
+      "models",
+      23
+    ],
+    [
+      "system",
+      23
+    ],
+    [
+      "text",
+      20
+    ],
+    [
+      "extraction",
+      19
+    ],
+    [
+      "days",
+      18
+    ],
+    [
+      "data",
+      17
+    ],
+    [
+      "every",
+      17
+    ],
+    [
+      "guess",
+      16
+    ],
+    [
+      "damage",
+      15
+    ],
+    [
+      "system one",
+      15
+    ],
+    [
+      "the input",
+      15
+    ]
+  ],
+  "url": "https://blog.cloudflare.com/clairic-extraction-model",
+  "url_canonical": "https://blog.cloudflare.com/clairic-extraction-model",
+  "via_source_id": "latent-space"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "mit-tech-review-ai--85c688d0",
+  "author": "Sudhi Sinha",
+  "content_chars": 6921,
+  "content_sha256": "2000ffab9193558d8d2f8addb7a26389e7b0225f154196ec9849ddc9c8009194",
+  "content_tokens": 1730,
+  "fetched_at": "2026-11-17T15:59:31Z",
+  "kind": "article",
+  "published_at": "2026-11-16T16:04:28+00:00",
+  "snippet": "Sponsored Provided byUL Solutions In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring…",
+  "source_id": "mit-tech-review-ai",
+  "title": "Building trustworthy AI by fencing it in, not predicting it",
+  "top_terms": [
+    [
+      "trust",
+      13
+    ],
+    [
+      "agents",
+      6
+    ],
+    [
+      "human",
+      4
+    ],
+    [
+      "limits",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "predictable",
+      4
+    ],
+    [
+      "safety",
+      4
+    ],
+    [
+      "system",
+      4
+    ],
+    [
+      "systems",
+      4
+    ],
+    [
+      "technology",
+      4
+    ],
+    [
+      "architecture",
+      3
+    ],
+    [
+      "behavior",
+      3
+    ],
+    [
+      "boundaries",
+      3
+    ],
+    [
+      "built",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "conditions",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "determinism",
+      3
+    ],
+    [
+      "determinism paradox",
+      3
+    ],
+    [
+      "deterministic",
+      3
+    ]
+  ],
+  "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+  "url_canonical": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+  "via_source_id": null
+}

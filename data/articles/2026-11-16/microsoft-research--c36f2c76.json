@@ -1,0 +1,98 @@
+{
+  "article_id": "microsoft-research--c36f2c76",
+  "author": "Aaron J. Li, Weijia Xu, Chandan Singh, Jeevana Priya Inala, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao",
+  "content_chars": 5722,
+  "content_sha256": "f86d39c513949e54fd242234d9c0589bb50562cb0be76bb15cc8436bf82fa8f1",
+  "content_tokens": 1430,
+  "fetched_at": "2026-11-17T15:59:29Z",
+  "kind": "article",
+  "published_at": "2026-11-16T17:01:35+00:00",
+  "snippet": "At a glance - Developers use AI coding agents in the same codebases day after day, yet agents often start each session from scratch: rediscovering familiar facts, loading unused tools, and repeating unsuccessful approaches. - TokenEconomizer is an open-source plugin that learns…",
+  "source_id": "microsoft-research",
+  "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+  "top_terms": [
+    [
+      "agent",
+      16
+    ],
+    [
+      "tokeneconomizer",
+      15
+    ],
+    [
+      "repository",
+      14
+    ],
+    [
+      "agents",
+      11
+    ],
+    [
+      "tasks",
+      10
+    ],
+    [
+      "coding",
+      9
+    ],
+    [
+      "the agent",
+      9
+    ],
+    [
+      "coding agents",
+      8
+    ],
+    [
+      "model",
+      8
+    ],
+    [
+      "costs",
+      7
+    ],
+    [
+      "ai coding",
+      6
+    ],
+    [
+      "cost",
+      6
+    ],
+    [
+      "every",
+      6
+    ],
+    [
+      "open-source",
+      6
+    ],
+    [
+      "session",
+      6
+    ],
+    [
+      "tools",
+      6
+    ],
+    [
+      "without",
+      6
+    ],
+    [
+      "ai coding agents",
+      5
+    ],
+    [
+      "an agent",
+      5
+    ],
+    [
+      "developers",
+      5
+    ]
+  ],
+  "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+  "url_canonical": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+  "via_source_id": null
+}

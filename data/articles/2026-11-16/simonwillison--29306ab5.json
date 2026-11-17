@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--29306ab5",
+  "author": "Simon Willison",
+  "content_chars": 994,
+  "content_sha256": "28cabf17ccd3e502fc6d5210a3726fc01297e19ec9b8c8ccee6632e1451430b3",
+  "content_tokens": 248,
+  "fetched_at": "2026-11-17T15:59:30Z",
+  "kind": "article",
+  "published_at": "2026-11-16T23:57:26+00:00",
+  "snippet": "16th November 2026 A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code. Short version: in SQLite 3.54.0 the following SQL…",
+  "source_id": "simonwillison",
+  "title": "llm 0.37.3",
+  "top_terms": [
+    [
+      "json",
+      7
+    ],
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "select",
+      5
+    ],
+    [
+      "select json",
+      5
+    ],
+    [
+      "array",
+      3
+    ],
+    [
+      "bug",
+      3
+    ],
+    [
+      "fix",
+      3
+    ],
+    [
+      "returns",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "th november",
+      3
+    ],
+    [
+      "th november 2026",
+      3
+    ],
+    [
+      "a'",
+      2
+    ],
+    [
+      "bug fix",
+      2
+    ],
+    [
+      "homebrew",
+      2
+    ],
+    [
+      "llm",
+      2
+    ],
+    [
+      "object",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "returns this",
+      2
+    ],
+    [
+      "sql",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/16/llm/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/16/llm",
+  "via_source_id": null
+}
