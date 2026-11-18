@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a22446ce",
+  "author": "Hugging Face Blog",
+  "content_chars": 13408,
+  "content_sha256": "31d62623c661bfbad8068710c4f8c009ff7fca3eefc845f281a91e0043f76d48",
+  "content_tokens": 3352,
+  "fetched_at": "2026-11-18T15:35:27Z",
+  "kind": "article",
+  "published_at": "2026-11-18T15:00:23+00:00",
+  "snippet": "Real-time forecasting, anomaly detection, and optimization, powered by IBM time-series models with more than 50 million downloads. Now available natively on Confluent, in the cloud and on premises, running on CPUs. Every business generates a continuous record of change: a…",
+  "source_id": "huggingface-blog",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "top_terms": [
+    [
+      "models",
+      25
+    ],
+    [
+      "forecast",
+      19
+    ],
+    [
+      "data",
+      15
+    ],
+    [
+      "store",
+      13
+    ],
+    [
+      "every",
+      12
+    ],
+    [
+      "figure",
+      12
+    ],
+    [
+      "range",
+      12
+    ],
+    [
+      "across",
+      11
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "order",
+      11
+    ],
+    [
+      "time-series",
+      11
+    ],
+    [
+      "confluent",
+      9
+    ],
+    [
+      "expected",
+      9
+    ],
+    [
+      "anomaly",
+      8
+    ],
+    [
+      "context",
+      8
+    ],
+    [
+      "series",
+      8
+    ],
+    [
+      "anomaly detection",
+      7
+    ],
+    [
+      "detection",
+      7
+    ],
+    [
+      "point",
+      7
+    ],
+    [
+      "run",
+      7
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "url_canonical": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "via_source_id": null
+}

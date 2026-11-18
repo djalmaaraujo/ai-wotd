@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--09f7ae0a",
+  "author": "Simon Willison",
+  "content_chars": 2179,
+  "content_sha256": "428868b8d4cce1a0c9366021ea22486c031a63167a1e92b41a20a15a0f951cf5",
+  "content_tokens": 544,
+  "fetched_at": "2026-11-18T15:38:17Z",
+  "kind": "article",
+  "published_at": "2026-11-17T22:52:29+00:00",
+  "snippet": "17th November 2026 - Link Blog External sandboxes for coding agents. I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to…",
+  "source_id": "simonwillison",
+  "title": "External sandboxes for coding agents",
+  "top_terms": [
+    [
+      "sandbox",
+      9
+    ],
+    [
+      "code",
+      6
+    ],
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "external",
+      4
+    ],
+    [
+      "python",
+      4
+    ],
+    [
+      "server",
+      4
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th november",
+      4
+    ],
+    [
+      "th november 2026",
+      4
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "agents",
+      3
+    ],
+    [
+      "alpine",
+      3
+    ],
+    [
+      "alpine linux",
+      3
+    ],
+    [
+      "api",
+      3
+    ],
+    [
+      "inside",
+      3
+    ],
+    [
+      "linux",
+      3
+    ],
+    [
+      "pattern",
+      3
+    ],
+    [
+      "running",
+      3
+    ],
+    [
+      "runs",
+      3
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+  "via_source_id": null
+}

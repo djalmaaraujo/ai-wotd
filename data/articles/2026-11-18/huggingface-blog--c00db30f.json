@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c00db30f",
+  "author": "Hugging Face Blog",
+  "content_chars": 3894,
+  "content_sha256": "112382122c75b2d004c80c1611f2079ff4d13e67222596bff3bdf7d1d7e8748c",
+  "content_tokens": 973,
+  "fetched_at": "2026-11-18T15:35:27Z",
+  "kind": "article",
+  "published_at": "2026-11-18T00:00:00+00:00",
+  "snippet": "Today we're open sourcing Rumble-2-Flash under the Apache 2.0 license. It's a 0.5B-parameter speech recognition model for 40+ languages that competes with models 3-60x its size. - Runs anywhere: native support in 🤗 Transformers and vLLM, no custom code - 40+ languages: automatic…",
+  "source_id": "huggingface-blog",
+  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "top_terms": [
+    [
+      "model",
+      14
+    ],
+    [
+      "rumble-2-flash",
+      9
+    ],
+    [
+      "audio",
+      6
+    ],
+    [
+      "transformers",
+      5
+    ],
+    [
+      "english",
+      4
+    ],
+    [
+      "language",
+      4
+    ],
+    [
+      "open",
+      4
+    ],
+    [
+      "qwen3-asr",
+      4
+    ],
+    [
+      "student",
+      4
+    ],
+    [
+      "batches",
+      3
+    ],
+    [
+      "calls",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "hour",
+      3
+    ],
+    [
+      "id",
+      3
+    ],
+    [
+      "inputs",
+      3
+    ],
+    [
+      "languages",
+      3
+    ],
+    [
+      "larger",
+      3
+    ],
+    [
+      "output",
+      3
+    ],
+    [
+      "processor",
+      3
+    ],
+    [
+      "runs",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/rumble-2-flash",
+  "url_canonical": "https://huggingface.co/blog/rumble-2-flash",
+  "via_source_id": null
+}

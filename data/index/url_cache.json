@@ -1740,6 +1740,10 @@
     "article_id": "aibreakfast--857cf1e0",
     "first_seen_date": "2026-04-17"
   },
+  "https://aibreakfast.beehiiv.com/p/openai-crossed-its-own-self-improvement-line": {
+    "article_id": "aibreakfast--f4b98047",
+    "first_seen_date": "2026-11-18"
+  },
   "https://aibreakfast.beehiiv.com/p/openai-cuts-cursor-access-following-spacex-buyout": {
     "article_id": "aibreakfast--474907d6",
     "first_seen_date": "2026-09-01"
@@ -2654,6 +2658,11 @@
     "article_id": "latent-space--3b581397",
     "first_seen_date": "2026-10-21"
   },
+  "https://apnews.com/article/3026bcbe04ab57b844884382e583422a": {
+    "article_id": null,
+    "first_seen_date": "2026-11-18",
+    "status": "fetch_failed"
+  },
   "https://app.ai.engineer/e/ai-engineer-new-york-2026?discount=LS-NYC26": {
     "article_id": null,
     "first_seen_date": "2026-10-02",
@@ -2728,6 +2737,11 @@
   "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks": {
     "article_id": "interconnects--78d6007f",
     "first_seen_date": "2026-10-26"
+  },
+  "https://artificialanalysis.ai/es/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-6-2-sol": {
+    "article_id": null,
+    "first_seen_date": "2026-11-18",
+    "status": "fetch_failed"
   },
   "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index": {
     "article_id": "ahead-of-ai--d2df8dad",
@@ -3655,6 +3669,10 @@
     "article_id": null,
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
+  },
+  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem": {
+    "article_id": "latent-space--0eb0b02a",
+    "first_seen_date": "2026-11-18"
   },
   "https://blogs.nvidia.com/blog/2026-ces-special-presentation": {
     "article_id": "nvidia-blog--57f36dbb",
@@ -4705,6 +4723,10 @@
     "article_id": "codenewsletter--d7475104",
     "first_seen_date": "2026-06-23"
   },
+  "https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents": {
+    "article_id": "codenewsletter--ac8f0512",
+    "first_seen_date": "2026-11-18"
+  },
   "https://codenewsletter.ai/p/slack-native-coding-agents-are-here": {
     "article_id": "codenewsletter--229da45d",
     "first_seen_date": "2026-08-21"
@@ -4868,6 +4890,10 @@
   "https://copilot.microsoft.com/": {
     "article_id": "one-useful-thing--d9b0102a",
     "first_seen_date": "2026-04-13"
+  },
+  "https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini": {
+    "article_id": "latent-space--c7978c3c",
+    "first_seen_date": "2026-11-18"
   },
   "https://craft.wiki/apps/photocraft/workflows": {
     "article_id": "latent-space--104dc6c0",
@@ -8672,6 +8698,10 @@
     "article_id": "huggingface-blog--7de88776",
     "first_seen_date": "2026-07-01"
   },
+  "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": {
+    "article_id": "huggingface-blog--a22446ce",
+    "first_seen_date": "2026-11-18"
+  },
   "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis": {
     "article_id": "huggingface-blog--a4ade685",
     "first_seen_date": "2026-04-16"
@@ -9948,6 +9978,10 @@
     "article_id": "huggingface-blog--33bfe80d",
     "first_seen_date": "2026-04-21"
   },
+  "https://huggingface.co/blog/rumble-2-flash": {
+    "article_id": "huggingface-blog--c00db30f",
+    "first_seen_date": "2026-11-18"
+  },
   "https://huggingface.co/blog/run-comfyui-workflows-on-spaces": {
     "article_id": "huggingface-blog--a6ab0102",
     "first_seen_date": "2026-06-12"
@@ -10945,6 +10979,10 @@
     "article_id": "interconnects--cc269c47",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
+    "article_id": "latent-space--2bd618d9",
+    "first_seen_date": "2026-11-18"
+  },
   "https://huggingface.co/knoopx/Swift-Qwen3.8-27B-NInfer": {
     "article_id": "latent-space--0e10e97a",
     "first_seen_date": "2026-09-23"
@@ -10952,6 +10990,10 @@
   "https://huggingface.co/lucidml/gta": {
     "article_id": "latent-space--78bb8c48",
     "first_seen_date": "2026-11-13"
+  },
+  "https://huggingface.co/maxwell-model/Maxwell-V1-Flash": {
+    "article_id": "latent-space--f8b2247a",
+    "first_seen_date": "2026-11-18"
   },
   "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/blob/main/LICENSE": {
     "article_id": "interconnects--7c70134d",
@@ -11040,6 +11082,10 @@
   "https://huggingface.co/raincandy-u/MacroStories": {
     "article_id": "latent-space--4db5ac6b",
     "first_seen_date": "2026-10-09"
+  },
+  "https://huggingface.co/sensenova/SenseNova-Loop-9B": {
+    "article_id": "latent-space--32058322",
+    "first_seen_date": "2026-11-18"
   },
   "https://huggingface.co/spaces/LessThanThreeAI/Humanlike-Chat": {
     "article_id": null,
@@ -11436,6 +11482,10 @@
     "article_id": "latent-space--353a77ce",
     "first_seen_date": "2026-10-31"
   },
+  "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol": {
+    "article_id": "latent-space--f1293974",
+    "first_seen_date": "2026-11-18"
+  },
   "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark": {
     "article_id": "latent-space--22a490e0",
     "first_seen_date": "2026-11-06"
@@ -11767,6 +11817,10 @@
     "article_id": "interconnects--41bcc944",
     "first_seen_date": "2026-10-18"
   },
+  "https://mihoyo-gamer.github.io/": {
+    "article_id": "latent-space--dfbce20a",
+    "first_seen_date": "2026-11-18"
+  },
   "https://mimo.xiaomi.com/mimo-v2-5": {
     "article_id": "latent-space--7636414d",
     "first_seen_date": "2026-11-11"
@@ -12016,6 +12070,11 @@
     "first_seen_date": "2026-10-31",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-18",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-06",
@@ -12256,6 +12315,10 @@
   "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition": {
     "article_id": "latent-space--cebcafb9",
     "first_seen_date": "2026-11-13"
+  },
+  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027": {
+    "article_id": "latent-space--640e83bb",
+    "first_seen_date": "2026-11-18"
   },
   "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board": {
     "article_id": "latent-space--3abe9f98",
@@ -13387,6 +13450,10 @@
     "article_id": "openai-blog--929ce259",
     "first_seen_date": "2026-10-27"
   },
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+    "article_id": "openai-blog--4058f8b6",
+    "first_seen_date": "2026-11-18"
+  },
   "https://openai.com/index/introducing-gpt-6-cyber": {
     "article_id": "openai-blog--a271995e",
     "first_seen_date": "2026-11-06"
@@ -13498,6 +13565,10 @@
   "https://openai.com/index/kuken": {
     "article_id": "openai-blog--2c9c3998",
     "first_seen_date": "2026-11-10"
+  },
+  "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+    "article_id": "openai-blog--639edb07",
+    "first_seen_date": "2026-11-18"
   },
   "https://openai.com/index/learn-teach-chatgpt-work-codex": {
     "article_id": "openai-blog--da3b3953",
@@ -14640,6 +14711,10 @@
     "article_id": "ai-snake-oil--6a2f1d17",
     "first_seen_date": "2026-09-23"
   },
+  "https://research.ftserussell.com/products/index-notices/home/getnotice?id=2622497": {
+    "article_id": "latent-space--ccda3f1e",
+    "first_seen_date": "2026-11-18"
+  },
   "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain": {
     "article_id": "google-research--9ed583a1",
     "first_seen_date": "2026-09-23"
@@ -14974,6 +15049,10 @@
     "article_id": "latent-space--b138c115",
     "first_seen_date": "2026-11-12"
   },
+  "https://serpapi.com/latentspace-ainews-extract-link": {
+    "article_id": "latent-space--a7e14135",
+    "first_seen_date": "2026-11-18"
+  },
   "https://serpapi.com/latentspace-ainews-featured": {
     "article_id": "latent-space--4e703bc5",
     "first_seen_date": "2026-10-21"
@@ -15142,9 +15221,25 @@
     "article_id": "simonwillison--29306ab5",
     "first_seen_date": "2026-11-17"
   },
+  "https://simonwillison.net/2026/Nov/17/datasette-lite": {
+    "article_id": "simonwillison--3f632f9a",
+    "first_seen_date": "2026-11-18"
+  },
+  "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents": {
+    "article_id": "simonwillison--09f7ae0a",
+    "first_seen_date": "2026-11-18"
+  },
   "https://simonwillison.net/2026/Nov/17/go-proverbs": {
     "article_id": "simonwillison--81ca4fb9",
     "first_seen_date": "2026-11-17"
+  },
+  "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol": {
+    "article_id": "simonwillison--fa161853",
+    "first_seen_date": "2026-11-18"
+  },
+  "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser": {
+    "article_id": "simonwillison--fa1e13f9",
+    "first_seen_date": "2026-11-18"
   },
   "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": {
     "article_id": "simonwillison--8f5fc18b",
@@ -17321,6 +17416,10 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round": {
+    "article_id": "latent-space--2f516889",
+    "first_seen_date": "2026-11-18"
+  },
   "https://www.jmlr.org/history.html": {
     "article_id": "nlp-newsletter--37d5a0d2",
     "first_seen_date": "2026-09-23"
@@ -17819,6 +17918,10 @@
   "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white": {
     "article_id": "microsoft-research--138c3d90",
     "first_seen_date": "2026-10-21"
+  },
+  "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future": {
+    "article_id": "microsoft-research--858f4cc8",
+    "first_seen_date": "2026-11-18"
   },
   "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset": {
     "article_id": "microsoft-research--250bd53d",
@@ -19226,6 +19329,14 @@
   "https://www.technologyreview.com/2026/11/17/1148203/research-reports": {
     "article_id": "mit-tech-review-ai--9739a78a",
     "first_seen_date": "2026-11-17"
+  },
+  "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere": {
+    "article_id": "mit-tech-review-ai--75b87355",
+    "first_seen_date": "2026-11-18"
+  },
+  "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans": {
+    "article_id": "mit-tech-review-ai--17cd91a5",
+    "first_seen_date": "2026-11-18"
   },
   "https://www.techpolicy.press/america-needs-better-ai-ambitions": {
     "article_id": "ai-snake-oil--cca6c101",

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--32058322",
+  "author": null,
+  "content_chars": 12400,
+  "content_sha256": "b064f15e9746f21cf9805be7f97b99866e0cb5bf531dc492eb5d0ba8b03648bb",
+  "content_tokens": 3100,
+  "fetched_at": "2026-11-18T15:38:25Z",
+  "kind": "article",
+  "published_at": "2026-11-18T10:19:04+00:00",
+  "snippet": "English | 简体中文 🔥 2026-11-18: Added download links for the AWQ and GGUF weights. 🔥 2026-11-17: We release SenseNova-Loop-9B, with model weights and code available to the community. 🔥 2026-10-31: We release SenseNova-Loop-9B-Preview, with model weights and code available to the…",
+  "source_id": "latent-space",
+  "title": "sensenova/SenseNova-Loop-9B · Hugging Face",
+  "top_terms": [
+    [
+      "model",
+      38
+    ],
+    [
+      "looped",
+      17
+    ],
+    [
+      "the model",
+      16
+    ],
+    [
+      "release",
+      15
+    ],
+    [
+      "sensenova-loop-9b",
+      14
+    ],
+    [
+      "weights",
+      13
+    ],
+    [
+      "layers",
+      11
+    ],
+    [
+      "mhc",
+      11
+    ],
+    [
+      "layer",
+      10
+    ],
+    [
+      "loop",
+      10
+    ],
+    [
+      "bit",
+      9
+    ],
+    [
+      "computation",
+      9
+    ],
+    [
+      "decoder",
+      9
+    ],
+    [
+      "loops",
+      9
+    ],
+    [
+      "tasks",
+      9
+    ],
+    [
+      "block",
+      8
+    ],
+    [
+      "git",
+      8
+    ],
+    [
+      "inference",
+      8
+    ],
+    [
+      "parameters",
+      8
+    ],
+    [
+      "streams",
+      8
+    ]
+  ],
+  "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+  "url_canonical": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+  "via_source_id": "latent-space"
+}

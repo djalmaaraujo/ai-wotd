@@ -1,0 +1,275 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "aibreakfast--f4b98047",
+        "latent-space--640e83bb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 98.60029,
+      "term": "gaap",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "aibreakfast--f4b98047",
+        "latent-space--640e83bb",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 85.410384,
+      "term": "vera",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "aibreakfast--f4b98047",
+        "latent-space--640e83bb",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 59.646597,
+      "term": "rubin",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "aibreakfast--f4b98047",
+        "latent-space--640e83bb",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 54.722146,
+      "term": "vera rubin",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "latent-space--32058322",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 50.344374,
+      "term": "sensenova-loop-9b",
+      "tf_today": 15
+    },
+    {
+      "articles": [
+        "aibreakfast--f4b98047",
+        "latent-space--640e83bb"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 45.894324,
+      "term": "gross",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--32058322",
+        "latent-space--f8b2247a"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 37.259264,
+      "term": "mhc",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "latent-space--c7978c3c",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 37.259264,
+      "term": "olala",
+      "tf_today": 12
+    },
+    {
+      "articles": [
+        "latent-space--c7978c3c",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.088494,
+      "term": "ovhcloud",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "aibreakfast--f4b98047",
+        "codenewsletter--ac8f0512",
+        "latent-space--f1293974"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 23.12868,
+      "term": "gpt-6.2",
+      "tf_today": 8
+    }
+  ],
+  "date": "2026-11-18",
+  "evidence_article_ids": [
+    "aibreakfast--f4b98047",
+    "codenewsletter--ac8f0512",
+    "latent-space--f1293974"
+  ],
+  "judge": {
+    "input_tokens": 29217,
+    "model": "jev-1.14.0",
+    "pool_size": 56,
+    "signals": {
+      "astra": {
+        "dominance": 2.91,
+        "event": 0.97,
+        "form": 0.88,
+        "novelty": 0.89,
+        "specificity": 1.91
+      },
+      "chatgpt": {
+        "dominance": 1.71,
+        "event": 0.6,
+        "form": 0.89,
+        "novelty": 0.31,
+        "specificity": 1.99
+      },
+      "figaro": {
+        "dominance": 1.91,
+        "event": 0.86,
+        "form": 0.84,
+        "novelty": 0.8,
+        "specificity": 0.14
+      },
+      "frontier": {
+        "dominance": 2.76,
+        "event": 0.89,
+        "form": 0.88,
+        "novelty": 0.69,
+        "specificity": 1.43
+      },
+      "frontier model": {
+        "dominance": 2.74,
+        "event": 0.96,
+        "form": 0.89,
+        "novelty": 0.56,
+        "specificity": 1.77
+      },
+      "gpt-6.2 astra": {
+        "dominance": 2.88,
+        "event": 0.97,
+        "form": 0.91,
+        "novelty": 0.91,
+        "specificity": 2.0
+      },
+      "groupe figaro": {
+        "dominance": 1.9,
+        "event": 0.9,
+        "form": 0.87,
+        "novelty": 0.83,
+        "specificity": 0.2
+      },
+      "hugging face": {
+        "dominance": 2.46,
+        "event": 0.93,
+        "form": 0.78,
+        "novelty": 0.56,
+        "specificity": 1.13
+      },
+      "ignite 2026": {
+        "dominance": 1.94,
+        "event": 0.51,
+        "form": 0.9,
+        "novelty": 0.81,
+        "specificity": 0.37
+      },
+      "le figaro": {
+        "dominance": 1.9,
+        "event": 0.9,
+        "form": 0.92,
+        "novelty": 0.82,
+        "specificity": 0.09
+      },
+      "le groupe figaro": {
+        "dominance": 1.94,
+        "event": 0.89,
+        "form": 0.88,
+        "novelty": 0.82,
+        "specificity": 0.2
+      },
+      "model": {
+        "dominance": 2.85,
+        "event": 0.96,
+        "form": 0.67,
+        "novelty": 0.22,
+        "specificity": 1.07
+      },
+      "models": {
+        "dominance": 2.93,
+        "event": 0.97,
+        "form": 0.74,
+        "novelty": 0.37,
+        "specificity": 1.05
+      },
+      "olala mini": {
+        "dominance": 1.84,
+        "event": 0.91,
+        "form": 0.92,
+        "novelty": 0.85,
+        "specificity": 1.99
+      },
+      "openai": {
+        "dominance": 2.97,
+        "event": 0.97,
+        "form": 0.87,
+        "novelty": 0.5,
+        "specificity": 1.08
+      },
+      "sensenova-loop-9b": {
+        "dominance": 1.57,
+        "event": 0.91,
+        "form": 0.92,
+        "novelty": 0.8,
+        "specificity": 2.0
+      },
+      "sol": {
+        "dominance": 1.88,
+        "event": 0.94,
+        "form": 0.74,
+        "novelty": 0.83,
+        "specificity": 1.87
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "gpt-6.2 astra",
+      "astra",
+      "olala mini",
+      "sensenova-loop-9b",
+      "chatgpt"
+    ]
+  },
+  "label": "GPT-6.2 Astra",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://openai.com",
+        "https://artificialanalysis.ai",
+        "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/"
+      ],
+      "text": "GPT-6.2 Astra is a large language model released by OpenAI in November 2026, positioned as the company's second-tier frontier model behind an unreleased flagship. It scores 62 on the Artificial Analysis Intelligence Index, placing it just below the leading Fable 5.2 (65). Astra is optimized for intelligence-per-dollar efficiency rather than raw capability, with its companion model GPT-6.2 Sol delivering comparable performance at roughly 15% of the inference cost. The release reflects OpenAI's strategy of tiered model deployment balancing performance, cost, and accessibility for developers and enterprise users."
+    },
+    "generated_at": "2026-11-18T15:38:51.677342+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 18, 2026, two days before Anthropic's anticipated public debut. According to Artificial Analysis benchmarks, the new Astra scores 62 on the Intelligence Index, trailing Fable 5.2's 65, while Sol matches the previous Astra's performance at roughly 15% of the cost per task. The launch underscores OpenAI's lead in cost efficiency — delivering the highest intelligence per dollar — even as Anthropic retains the absolute performance crown. Developer reaction has been sharply divided, with influencers criticizing the incremental gains over September's Astra. Meanwhile, SID.ai introduced models designed to replace traditional RAG pipelines with agent-based search, signaling a shift in how AI systems retrieve and synthesize information at scale.",
+    "why": "GPT-6.2 Astra trended because OpenAI shipped a major frontier model update with concrete benchmark data showing a 62 Intelligence Index score and significant cost reductions via its companion Sol variant, sparking immediate debate over whether the performance gains justify the hype. The release timing — directly preceding Anthropic's expected market entry — amplified attention across AI newsletters and benchmarking platforms."
+  },
+  "score": 15.362449,
+  "word": "gpt-6.2 astra"
+}

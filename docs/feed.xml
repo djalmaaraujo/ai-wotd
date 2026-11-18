@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-17T16:00:20+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-18T15:38:53+00:00</lastBuildDate>
+    <item>
+      <title>GPT-6.2 Astra (2026-11-18)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-18/</link>
+      <guid isPermaLink="false">wotd-2026-11-18</guid>
+      <pubDate>2026-11-18</pubDate>
+      <description>GPT-6.2 Astra trended because OpenAI shipped a major frontier model update with concrete benchmark data showing a 62 Intelligence Index score and significant cost reductions via its companion Sol variant, sparking immediate debate over whether the performance gains justify the hype. The release timing — directly preceding Anthropic&#39;s expected market entry — amplified attention across AI newsletters and benchmarking platforms.</description>
+    </item>
     <item>
       <title>System One models (2026-11-17)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-17/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-09-25</guid>
       <pubDate>2026-09-25</pubDate>
       <description>Word of the day: world model</description>
-    </item>
-    <item>
-      <title>muse (2026-09-24)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-24/</link>
-      <guid isPermaLink="false">wotd-2026-09-24</guid>
-      <pubDate>2026-09-24</pubDate>
-      <description>Word of the day: muse</description>
     </item>
   </channel>
 </rss>
