@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a335a133",
+  "author": "Hugging Face Blog",
+  "content_chars": 11294,
+  "content_sha256": "e026bddcf590041e074677ef0501f3ef27dcdf4ef5cab541b74f2f3393f84c68",
+  "content_tokens": 2823,
+  "fetched_at": "2026-11-19T15:41:39Z",
+  "kind": "article",
+  "published_at": "2026-11-18T18:53:43+00:00",
+  "snippet": "Predicting end-to-end fine-tuning time on shared GPU clusters, from 272 production runs. A preview of our upcoming paper, Predicting End-to-End Fine-Tuning Time for Generative Language Models. The full version will be on arXiv soon. GPUs are among the most expensive and scarcest…",
+  "source_id": "huggingface-blog",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "top_terms": [
+    [
+      "model",
+      19
+    ],
+    [
+      "job",
+      18
+    ],
+    [
+      "gpus",
+      14
+    ],
+    [
+      "gpu",
+      11
+    ],
+    [
+      "training",
+      11
+    ],
+    [
+      "duration",
+      10
+    ],
+    [
+      "hours",
+      10
+    ],
+    [
+      "mfu",
+      10
+    ],
+    [
+      "runs",
+      10
+    ],
+    [
+      "feature",
+      9
+    ],
+    [
+      "jobs",
+      9
+    ],
+    [
+      "error",
+      8
+    ],
+    [
+      "num",
+      8
+    ],
+    [
+      "baseline",
+      7
+    ],
+    [
+      "catboost",
+      7
+    ],
+    [
+      "evaluation",
+      7
+    ],
+    [
+      "flop",
+      7
+    ],
+    [
+      "mean",
+      7
+    ],
+    [
+      "median",
+      7
+    ],
+    [
+      "across",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "url_canonical": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "via_source_id": null
+}

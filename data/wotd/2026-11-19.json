@@ -1,0 +1,280 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--a5757b3b",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 137.359488,
+      "term": "genie",
+      "tf_today": 30
+    },
+    {
+      "articles": [
+        "codenewsletter--64065606",
+        "latent-space--44442547",
+        "latent-space--b9f90ced",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 121.825397,
+      "term": "gemini 4 neon",
+      "tf_today": 23
+    },
+    {
+      "articles": [
+        "codenewsletter--64065606",
+        "latent-space--44442547",
+        "latent-space--b9f90ced",
+        "latent-space--e6192958",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 5.0,
+      "df_today": 5,
+      "score": 66.429904,
+      "term": "neon",
+      "tf_today": 82
+    },
+    {
+      "articles": [
+        "latent-space--a5757b3b",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 50.55027,
+      "term": "project genie",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--80de15db",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 45.74366,
+      "term": "inworld",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "latent-space--a5757b3b",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 36.445298,
+      "term": "genie 4",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--aed0a66c",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 36.445298,
+      "term": "inference capacity",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--44442547",
+        "latent-space--b9f90ced",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 31.084899,
+      "term": "neon is",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "latent-space--44442547",
+        "latent-space--b9f90ced",
+        "latent-space--e6192958",
+        "latent-space--f2b77798"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 29.296328,
+      "term": "gemini app",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "latent-space--02d9db12",
+        "latent-space--93d22d12"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 27.631021,
+      "term": "x86",
+      "tf_today": 9
+    }
+  ],
+  "date": "2026-11-19",
+  "evidence_article_ids": [
+    "codenewsletter--64065606",
+    "latent-space--44442547",
+    "latent-space--b9f90ced",
+    "latent-space--f2b77798"
+  ],
+  "judge": {
+    "input_tokens": 22384,
+    "model": "jev-1.14.0",
+    "pool_size": 44,
+    "signals": {
+      "anthropic": {
+        "dominance": 1.99,
+        "event": 0.88,
+        "form": 0.92,
+        "novelty": 0.72,
+        "specificity": 1.06
+      },
+      "bluetts": {
+        "dominance": 1.93,
+        "event": 0.68,
+        "form": 0.58,
+        "novelty": 0.8,
+        "specificity": 1.96
+      },
+      "contender": {
+        "dominance": 2.65,
+        "event": 0.83,
+        "form": 0.65,
+        "novelty": 0.67,
+        "specificity": 0.17
+      },
+      "fastest open source tts model": {
+        "dominance": 1.96,
+        "event": 0.84,
+        "form": 0.82,
+        "novelty": 0.7,
+        "specificity": 1.61
+      },
+      "gdm's opus": {
+        "dominance": 1.8,
+        "event": 0.55,
+        "form": 0.52,
+        "novelty": 0.68,
+        "specificity": 1.69
+      },
+      "gemini 4 neon": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.95,
+        "novelty": 0.79,
+        "specificity": 2.0
+      },
+      "gemini models": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.85,
+        "novelty": 0.77,
+        "specificity": 1.91
+      },
+      "genie 4": {
+        "dominance": 1.89,
+        "event": 0.94,
+        "form": 0.93,
+        "novelty": 0.5,
+        "specificity": 1.99
+      },
+      "google": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.91,
+        "novelty": 0.72,
+        "specificity": 1.0
+      },
+      "inference capacity": {
+        "dominance": 1.87,
+        "event": 0.6,
+        "form": 0.91,
+        "novelty": 0.53,
+        "specificity": 1.84
+      },
+      "lower cost": {
+        "dominance": 2.82,
+        "event": 0.9,
+        "form": 0.67,
+        "novelty": 0.64,
+        "specificity": 0.36
+      },
+      "model": {
+        "dominance": 2.96,
+        "event": 0.97,
+        "form": 0.66,
+        "novelty": 0.2,
+        "specificity": 1.15
+      },
+      "ne": {
+        "dominance": 2.51,
+        "event": 0.92,
+        "form": 0.26,
+        "novelty": 0.47,
+        "specificity": 1.16
+      },
+      "neon": {
+        "dominance": 2.99,
+        "event": 0.98,
+        "form": 0.91,
+        "novelty": 0.88,
+        "specificity": 1.93
+      },
+      "open source tts model": {
+        "dominance": 1.95,
+        "event": 0.82,
+        "form": 0.8,
+        "novelty": 0.56,
+        "specificity": 1.82
+      },
+      "project genie": {
+        "dominance": 1.93,
+        "event": 0.97,
+        "form": 0.91,
+        "novelty": 0.44,
+        "specificity": 1.99
+      },
+      "sol contender": {
+        "dominance": 2.43,
+        "event": 0.76,
+        "form": 0.33,
+        "novelty": 0.73,
+        "specificity": 1.26
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "gemini 4 neon",
+      "neon",
+      "gemini models",
+      "genie 4",
+      "project genie"
+    ]
+  },
+  "label": "Gemini 4 Neon",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+        "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain",
+        "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/"
+      ],
+      "text": "Gemini 4 Neon is a mid-tier large language model released by Google DeepMind in November 2026 as part of the Gemini 4 series. It is a distilled, smaller model optimized for cost-efficient, high-speed reasoning across software engineering, knowledge work, and scientific workflows. Despite its smaller size, Neon outperforms the larger Gemini 4 Carbon on several benchmarks at a fraction of the inference cost, placing third on the Artificial Analysis Intelligence Index behind only GPT-6.2 Astra and Claude Fable 5.2. It represents Google's strategy of rapid, iterative model releases to compete on both capability and price-performance."
+    },
+    "generated_at": "2026-11-19T15:44:50.606757+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Google DeepMind released Gemini 4 Neon, its fourth Gemini 4 model in seven weeks, positioning it as a smaller, cheaper alternative that matches or exceeds the performance of its predecessor Gemini 4 Carbon. Neon scores 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, ranking third overall behind GPT-6.2 Astra and Claude Fable 5.2, while delivering roughly 17% lower cost per task than Carbon and matching Carbon's high-effort performance at less than half the cost. The rapid cadence — Argon, Carbon, now Neon — reflects Google's accelerated release strategy to close the gap with Anthropic and OpenAI. Meanwhile, the naming scheme based on atomic numbers (Neon at 10, Carbon at 6) has drawn confusion, as the mid-tier Neon is faster and cheaper than the heavier Carbon. Inworld and Project Genie also appeared in today's trending terms, signaling continued interest in AI-driven game characters and coding agents.",
+    "why": "Gemini 4 Neon trended because Google DeepMind officially announced the model today across its blog and third-party benchmarks, marking the fourth Gemini 4 release in seven weeks. The coverage highlighted Neon's benchmark scores — 61 on the Artificial Analysis Intelligence Index, third overall — and its cost advantage over Carbon, making it a significant data point in the frontier model race."
+  },
+  "score": 121.825397,
+  "word": "gemini 4 neon"
+}

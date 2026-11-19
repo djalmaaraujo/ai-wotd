@@ -2734,6 +2734,10 @@
     "article_id": "interconnects--f269832c",
     "first_seen_date": "2026-10-29"
   },
+  "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain": {
+    "article_id": "latent-space--b9f90ced",
+    "first_seen_date": "2026-11-19"
+  },
   "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks": {
     "article_id": "interconnects--78d6007f",
     "first_seen_date": "2026-10-26"
@@ -3627,6 +3631,14 @@
     "article_id": "latent-space--5b9b5eca",
     "first_seen_date": "2026-10-29"
   },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon": {
+    "article_id": "latent-space--44442547",
+    "first_seen_date": "2026-11-19"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie": {
+    "article_id": "latent-space--a5757b3b",
+    "first_seen_date": "2026-11-19"
+  },
   "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": {
     "article_id": "latent-space--652c6088",
     "first_seen_date": "2026-11-12"
@@ -4302,6 +4314,10 @@
   "https://codenewsletter.ai/p/google-s-new-frontier-model-hunts-bugs-across-codebases": {
     "article_id": "codenewsletter--76436599",
     "first_seen_date": "2026-10-30"
+  },
+  "https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less": {
+    "article_id": "codenewsletter--64065606",
+    "first_seen_date": "2026-11-19"
   },
   "https://codenewsletter.ai/p/google-s-new-model-hunts-and-patches-security-bugs": {
     "article_id": "codenewsletter--9352d55f",
@@ -5242,6 +5258,10 @@
     "article_id": "google-deepmind--fc89e881",
     "first_seen_date": "2026-10-28"
   },
+  "https://deepmind.google/blog/genie-4-is-now-available": {
+    "article_id": "google-deepmind--871c1fcd",
+    "first_seen_date": "2026-11-19"
+  },
   "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership": {
     "article_id": "google-deepmind--cfac934a",
     "first_seen_date": "2026-07-04"
@@ -5317,6 +5337,10 @@
   "https://deepmind.google/blog/introducing-gemini-4-hydrogen": {
     "article_id": "google-deepmind--18116693",
     "first_seen_date": "2026-11-13"
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-neon": {
+    "article_id": "google-deepmind--ee513f10",
+    "first_seen_date": "2026-11-19"
   },
   "https://deepmind.google/blog/introducing-gemini-omni": {
     "article_id": "google-deepmind--8af59296",
@@ -5819,6 +5843,10 @@
     "article_id": "one-useful-thing--4ecbc6e7",
     "first_seen_date": "2026-04-13"
   },
+  "https://epoch.ai/data-insights/agentic-inference-capacity-growth": {
+    "article_id": "latent-space--aed0a66c",
+    "first_seen_date": "2026-11-19"
+  },
   "https://epoch.ai/data-insights/llm-inference-price-trends": {
     "article_id": "interconnects--4ed20abf",
     "first_seen_date": "2026-09-23"
@@ -6134,6 +6162,10 @@
     "article_id": "latent-space--7134af77",
     "first_seen_date": "2026-10-03"
   },
+  "https://github.com/Tencent-Hunyuan/Hy4-flash": {
+    "article_id": "latent-space--93d22d12",
+    "first_seen_date": "2026-11-19"
+  },
   "https://github.com/TheLastOxygen/mafdet": {
     "article_id": "latent-space--e793e69e",
     "first_seen_date": "2026-10-24"
@@ -6390,6 +6422,10 @@
   "https://github.com/manuelgscom/inside-llm": {
     "article_id": "latent-space--d5fd16a3",
     "first_seen_date": "2026-11-17"
+  },
+  "https://github.com/maxmelichov/BlueTTS": {
+    "article_id": "latent-space--02d9db12",
+    "first_seen_date": "2026-11-19"
   },
   "https://github.com/meta-llama/llama/blob/llama_v1/llama/model.py": {
     "article_id": "ahead-of-ai--db859454",
@@ -6990,6 +7026,10 @@
     "article_id": "huggingface-blog--857fab7a",
     "first_seen_date": "2026-07-17"
   },
+  "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": {
+    "article_id": "huggingface-blog--a335a133",
+    "first_seen_date": "2026-11-19"
+  },
   "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": {
     "article_id": "huggingface-blog--b02e711f",
     "first_seen_date": "2026-05-23"
@@ -7137,6 +7177,10 @@
   "https://huggingface.co/blog/Photoroom/prx-part4-data": {
     "article_id": "huggingface-blog--b1ca1add",
     "first_seen_date": "2026-07-07"
+  },
+  "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": {
+    "article_id": "huggingface-blog--a3f08cad",
+    "first_seen_date": "2026-11-19"
   },
   "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai": {
     "article_id": "huggingface-blog--cbb3bf77",
@@ -10979,9 +11023,17 @@
     "article_id": "interconnects--cc269c47",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted": {
+    "article_id": "latent-space--45270025",
+    "first_seen_date": "2026-11-19"
+  },
   "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
     "article_id": "latent-space--2bd618d9",
     "first_seen_date": "2026-11-18"
+  },
+  "https://huggingface.co/inworld/voice-isolator": {
+    "article_id": "latent-space--80de15db",
+    "first_seen_date": "2026-11-19"
   },
   "https://huggingface.co/knoopx/Swift-Qwen3.8-27B-NInfer": {
     "article_id": "latent-space--0e10e97a",
@@ -11255,6 +11307,11 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open": {
+    "article_id": null,
+    "first_seen_date": "2026-11-19",
+    "status": "fetch_failed"
+  },
   "https://ipo.anthropic.com/us": {
     "article_id": "latent-space--89a276db",
     "first_seen_date": "2026-11-13"
@@ -11477,6 +11534,10 @@
   "https://latent.space/p/ainews-gemini-4-carbon": {
     "article_id": "latent-space--bbf4beb8",
     "first_seen_date": "2026-10-29"
+  },
+  "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender": {
+    "article_id": "latent-space--f2b77798",
+    "first_seen_date": "2026-11-19"
   },
   "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c": {
     "article_id": "latent-space--353a77ce",
@@ -12015,6 +12076,10 @@
     "article_id": "latent-space--5e8016f4",
     "first_seen_date": "2026-11-14"
   },
+  "https://news.ycombinator.com/item?id=50555649": {
+    "article_id": "latent-space--e6192958",
+    "first_seen_date": "2026-11-19"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fai-is-getting-good-at-math%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-24",
@@ -12063,6 +12128,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-gemini-4-carbon%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-29",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-gemini-4-neon-gdm-s-opus-sol-contender%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-19",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c%2F": {
@@ -12555,6 +12625,10 @@
     "article_id": "openai-blog--e65180cf",
     "first_seen_date": "2026-11-14"
   },
+  "https://openai.com/business/customer-stories/sumitomo-life": {
+    "article_id": "openai-blog--94e1e587",
+    "first_seen_date": "2026-11-19"
+  },
   "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai": {
     "article_id": "openai-blog--bfdb34ca",
     "first_seen_date": "2026-05-11"
@@ -12598,6 +12672,11 @@
   "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
     "article_id": "openai-blog--14a32437",
     "first_seen_date": "2026-07-16"
+  },
+  "https://openai.com/index/advancing-chip-design-with-our-models": {
+    "article_id": null,
+    "first_seen_date": "2026-11-19",
+    "status": "fetch_failed"
   },
   "https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
     "article_id": "openai-blog--05e4af4e",
@@ -13371,6 +13450,10 @@
     "article_id": "openai-blog--98f46b55",
     "first_seen_date": "2026-04-13"
   },
+  "https://openai.com/index/inside-the-codex-sandbox": {
+    "article_id": "openai-blog--5dad81fd",
+    "first_seen_date": "2026-11-19"
+  },
   "https://openai.com/index/introducing-admin-plugin": {
     "article_id": "openai-blog--6cc72376",
     "first_seen_date": "2026-08-26"
@@ -13638,6 +13721,10 @@
   "https://openai.com/index/managing-ai-investments-in-agentic-era": {
     "article_id": "openai-blog--f0ec7780",
     "first_seen_date": "2026-07-15"
+  },
+  "https://openai.com/index/managing-frontier-ai-risk": {
+    "article_id": "openai-blog--7c36ad9c",
+    "first_seen_date": "2026-11-19"
   },
   "https://openai.com/index/mapping-ai-jobs-transition-eu": {
     "article_id": "openai-blog--efc2dff7",
@@ -13981,6 +14068,10 @@
     "article_id": "openai-blog--758f2928",
     "first_seen_date": "2026-08-20"
   },
+  "https://openai.com/index/research-acceleration-jagged-frontier": {
+    "article_id": "openai-blog--cd67220e",
+    "first_seen_date": "2026-11-19"
+  },
   "https://openai.com/index/research-acceleration-view-inside-openai": {
     "article_id": "openai-blog--6dfc688c",
     "first_seen_date": "2026-09-07"
@@ -14237,6 +14328,10 @@
   "https://openai.com/index/the-next-phase-of-education-for-countries": {
     "article_id": "openai-blog--fbe0eab3",
     "first_seen_date": "2026-05-21"
+  },
+  "https://openai.com/index/the-silent-consensus": {
+    "article_id": "openai-blog--4994a9e5",
+    "first_seen_date": "2026-11-19"
   },
   "https://openai.com/index/the-work-now-within-reach": {
     "article_id": "openai-blog--65e0d107",
@@ -15236,6 +15331,18 @@
   "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol": {
     "article_id": "simonwillison--fa161853",
     "first_seen_date": "2026-11-18"
+  },
+  "https://simonwillison.net/2026/Nov/18/daniel-stenberg": {
+    "article_id": "simonwillison--40331493",
+    "first_seen_date": "2026-11-19"
+  },
+  "https://simonwillison.net/2026/Nov/18/datasette-arrows": {
+    "article_id": "simonwillison--ac959f9e",
+    "first_seen_date": "2026-11-19"
+  },
+  "https://simonwillison.net/2026/Nov/18/llm-gemini": {
+    "article_id": "simonwillison--ac4b158e",
+    "first_seen_date": "2026-11-19"
   },
   "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser": {
     "article_id": "simonwillison--fa1e13f9",
@@ -16581,6 +16688,10 @@
   "https://www.anthropic.com/institute/recursive-self-improvement": {
     "article_id": "interconnects--ead01a1c",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
+    "article_id": "latent-space--581ffe1e",
+    "first_seen_date": "2026-11-19"
   },
   "https://www.anthropic.com/news/claude-3-family": {
     "article_id": "nlp-newsletter--d6440a41",

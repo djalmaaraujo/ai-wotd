@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--45270025",
+  "author": null,
+  "content_chars": 12472,
+  "content_sha256": "77f225f339f19635f9a159c19a3df718d04628e150bc9210db282b3a05e779c2",
+  "content_tokens": 3118,
+  "fetched_at": "2026-11-19T15:44:32Z",
+  "kind": "article",
+  "published_at": "2026-11-19T07:07:43+00:00",
+  "snippet": "A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model behind the OpenCode coding agent on software-engineering and terminal tasks. Maximum-effort thinking accuracy, at a sixth of the tokens. With thinking off, this adapter matches the base…",
+  "source_id": "latent-space",
+  "title": "harness-hub/Qwen3.8-27B-opencode-adapted · Hugging Face",
+  "top_terms": [
+    [
+      "model",
+      36
+    ],
+    [
+      "qwen3.8",
+      33
+    ],
+    [
+      "thinking",
+      31
+    ],
+    [
+      "base",
+      29
+    ],
+    [
+      "adapter",
+      26
+    ],
+    [
+      "opencode",
+      24
+    ],
+    [
+      "the base",
+      24
+    ],
+    [
+      "base model",
+      23
+    ],
+    [
+      "tasks",
+      23
+    ],
+    [
+      "the base model",
+      20
+    ],
+    [
+      "task",
+      17
+    ],
+    [
+      "swe-bench",
+      16
+    ],
+    [
+      "pro",
+      15
+    ],
+    [
+      "swe-bench pro",
+      15
+    ],
+    [
+      "terminal-bench",
+      15
+    ],
+    [
+      "terminal-bench 2.1",
+      14
+    ],
+    [
+      "tokens",
+      14
+    ],
+    [
+      "reasoning",
+      12
+    ],
+    [
+      "the adapter",
+      12
+    ],
+    [
+      "gguf",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted",
+  "url_canonical": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted",
+  "via_source_id": "latent-space"
+}

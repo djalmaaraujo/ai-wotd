@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--a3f08cad",
+  "author": "Hugging Face Blog",
+  "content_chars": 6547,
+  "content_sha256": "b0a995be15570af1e1970bfbbf420c2a4190bc0f4536ee7be23f8462f7bff10a",
+  "content_tokens": 1636,
+  "fetched_at": "2026-11-19T15:41:39Z",
+  "kind": "article",
+  "published_at": "2026-11-18T19:54:56+00:00",
+  "snippet": "Today we are releasing DaisyRose-27B, RadixArk’s first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles. We trained it on long-horizon agent tasks with sessions up to 1M tokens, with just 1,200 curated tasks in 18 days on 144 H200 GPUs…",
+  "source_id": "huggingface-blog",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "top_terms": [
+    [
+      "model",
+      18
+    ],
+    [
+      "training",
+      14
+    ],
+    [
+      "daisyrose-27b",
+      12
+    ],
+    [
+      "tasks",
+      11
+    ],
+    [
+      "the model",
+      9
+    ],
+    [
+      "agent",
+      8
+    ],
+    [
+      "built",
+      6
+    ],
+    [
+      "every",
+      6
+    ],
+    [
+      "open-source",
+      6
+    ],
+    [
+      "qwen3.8",
+      6
+    ],
+    [
+      "run",
+      6
+    ],
+    [
+      "runs",
+      6
+    ],
+    [
+      "content",
+      5
+    ],
+    [
+      "gpus",
+      5
+    ],
+    [
+      "learning",
+      5
+    ],
+    [
+      "release",
+      5
+    ],
+    [
+      "sandbox",
+      5
+    ],
+    [
+      "sandboxes",
+      5
+    ],
+    [
+      "task",
+      5
+    ],
+    [
+      "the agent",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "url_canonical": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "via_source_id": null
+}

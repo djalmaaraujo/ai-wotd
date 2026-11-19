@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--ac959f9e",
+  "author": "Simon Willison",
+  "content_chars": 1372,
+  "content_sha256": "b698ec34f164307c16bda6748b08824cfb0ae9b35a3a0948c56bd8fc7f5d5e02",
+  "content_tokens": 343,
+  "fetched_at": "2026-11-19T15:44:27Z",
+  "kind": "article",
+  "published_at": "2026-11-18T17:09:59+00:00",
+  "snippet": "18th November 2026 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file…",
+  "source_id": "simonwillison",
+  "title": "datasette-arrows 0.1a0",
+  "top_terms": [
+    [
+      "datasette",
+      5
+    ],
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "plugin",
+      5
+    ],
+    [
+      "streaming",
+      5
+    ],
+    [
+      "formats",
+      4
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th november",
+      4
+    ],
+    [
+      "th november 2026",
+      4
+    ],
+    [
+      "arrow",
+      3
+    ],
+    [
+      "export",
+      3
+    ],
+    [
+      "release",
+      3
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "csv",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "datasette-arrows",
+      2
+    ],
+    [
+      "implement",
+      2
+    ],
+    [
+      "option",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "table",
+      2
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/18/datasette-arrows",
+  "via_source_id": null
+}
