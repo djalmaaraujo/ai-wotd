@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--280380dd",
+  "author": null,
+  "content_chars": 6495,
+  "content_sha256": "2fc23913a993f711865c6388cdaf160e243a38d140ca9cd7d88d11bf19fbb9c3",
+  "content_tokens": 1623,
+  "fetched_at": "2026-11-20T15:26:17Z",
+  "kind": "article",
+  "published_at": "2026-11-20T07:12:24+00:00",
+  "snippet": "82M parameters, 16 languages, 118 voices, 24 kHz. ONNX with int8 weights (82.7 MB) or int4 weights (47.5 MB); both run on CPU, no PyTorch needed. And the float32 PyTorch weights. pip install kittenml from kittenml import KittenTTS import soundfile as sf m =…",
+  "source_id": "latent-space",
+  "title": "KittenML/kitten-tts-2-mini · Hugging Face",
+  "top_terms": [
+    [
+      "female",
+      73
+    ],
+    [
+      "male",
+      45
+    ],
+    [
+      "voice",
+      29
+    ],
+    [
+      "description",
+      19
+    ],
+    [
+      "female 1",
+      15
+    ],
+    [
+      "male 1",
+      14
+    ],
+    [
+      "female 2",
+      13
+    ],
+    [
+      "guide",
+      12
+    ],
+    [
+      "hushed",
+      12
+    ],
+    [
+      "hushed museum",
+      12
+    ],
+    [
+      "hushed museum guide",
+      12
+    ],
+    [
+      "male 2",
+      12
+    ],
+    [
+      "museum",
+      12
+    ],
+    [
+      "museum guide",
+      12
+    ],
+    [
+      "eleanor",
+      10
+    ],
+    [
+      "kittenml",
+      7
+    ],
+    [
+      "weights",
+      7
+    ],
+    [
+      "blues",
+      6
+    ],
+    [
+      "blues musician",
+      6
+    ],
+    [
+      "diana",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/KittenML/kitten-tts-2-mini",
+  "url_canonical": "https://huggingface.co/KittenML/kitten-tts-2-mini",
+  "via_source_id": "latent-space"
+}

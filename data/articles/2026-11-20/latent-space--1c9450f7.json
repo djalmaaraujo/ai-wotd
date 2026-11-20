@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--1c9450f7",
+  "author": null,
+  "content_chars": 2978,
+  "content_sha256": "da1c253efe6c9735d8662b12d78737065440614e0d0560578334145e2a9a2e96",
+  "content_tokens": 744,
+  "fetched_at": "2026-11-20T15:26:18Z",
+  "kind": "article",
+  "published_at": "2026-11-20T07:12:24+00:00",
+  "snippet": "中文 ｜ English ✒️ TechnicalReport | 📖 Documentation | 🤗 Hugging Face | 🤖 ModelScope Five GGUF builds of Hy4-flash: tencent/Hy4-flash | file | model size | bpw (overall) | bpw (excl. Engram table) | |---|---|---|---| Hy4-flash-Q4_K_M.gguf | 156.79 GiB | 6.05 | 5.27 |…",
+  "source_id": "latent-space",
+  "title": "AngelSlim/Hy4-flash-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "gguf",
+      15
+    ],
+    [
+      "build",
+      9
+    ],
+    [
+      "q4",
+      9
+    ],
+    [
+      "gib",
+      6
+    ],
+    [
+      "tok",
+      6
+    ],
+    [
+      "hy4-flash-q4",
+      5
+    ],
+    [
+      "gb",
+      4
+    ],
+    [
+      "hy4-flash",
+      4
+    ],
+    [
+      "llama",
+      4
+    ],
+    [
+      "q3",
+      4
+    ],
+    [
+      "spark",
+      4
+    ],
+    [
+      "bin",
+      3
+    ],
+    [
+      "bpw",
+      3
+    ],
+    [
+      "experts",
+      3
+    ],
+    [
+      "format",
+      3
+    ],
+    [
+      "gate",
+      3
+    ],
+    [
+      "git",
+      3
+    ],
+    [
+      "image",
+      3
+    ],
+    [
+      "jinja",
+      3
+    ],
+    [
+      "m-00001-of-00002",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/AngelSlim/Hy4-flash-GGUF",
+  "url_canonical": "https://huggingface.co/AngelSlim/Hy4-flash-GGUF",
+  "via_source_id": "latent-space"
+}

@@ -1028,6 +1028,10 @@
     "article_id": "aibreakfast--841132fd",
     "first_seen_date": "2026-04-20"
   },
+  "https://aibreakfast.beehiiv.com/p/google-neon-the-next-big-model": {
+    "article_id": "aibreakfast--74b02d27",
+    "first_seen_date": "2026-11-20"
+  },
   "https://aibreakfast.beehiiv.com/p/google-releases-gemini-pro-1m-tokens": {
     "article_id": "aibreakfast--b755ba45",
     "first_seen_date": "2026-04-19"
@@ -3512,6 +3516,10 @@
     "article_id": "ai-snake-oil--b783fc6b",
     "first_seen_date": "2026-09-23"
   },
+  "https://atomic.chat/": {
+    "article_id": "latent-space--7c922b2b",
+    "first_seen_date": "2026-11-20"
+  },
   "https://atomicagent.io/": {
     "article_id": "latent-space--ebc238fd",
     "first_seen_date": "2026-11-10"
@@ -4606,6 +4614,10 @@
   "https://codenewsletter.ai/p/openai-drops-mobile-preview-xai-ships-grok-build-its-first-cli-coding-agent": {
     "article_id": "codenewsletter--8e6a7a22",
     "first_seen_date": "2026-05-16"
+  },
+  "https://codenewsletter.ai/p/openai-hands-devs-the-voice-behind-chatgpt": {
+    "article_id": "codenewsletter--a9305e4d",
+    "first_seen_date": "2026-11-20"
   },
   "https://codenewsletter.ai/p/openai-is-freezing-its-latest-frontier-run": {
     "article_id": "codenewsletter--2caa1d49",
@@ -6045,6 +6057,10 @@
     "article_id": "latent-space--ca21a249",
     "first_seen_date": "2026-11-05"
   },
+  "https://github.com/0x0funky/audioghost-ai": {
+    "article_id": "latent-space--b88cc548",
+    "first_seen_date": "2026-11-20"
+  },
   "https://github.com/0xShug0/audio.cpp/blob/main/model_specs/kitten_tts2.json": {
     "article_id": "latent-space--c1254d78",
     "first_seen_date": "2026-10-23"
@@ -6761,6 +6777,10 @@
     "article_id": "latent-space--90e76f18",
     "first_seen_date": "2026-09-23"
   },
+  "https://huggingface.co/AngelSlim/Hy4-flash-GGUF": {
+    "article_id": "latent-space--1c9450f7",
+    "first_seen_date": "2026-11-20"
+  },
   "https://huggingface.co/Axion1-0/Axion-1.0-35B": {
     "article_id": "latent-space--e5214351",
     "first_seen_date": "2026-11-05"
@@ -6804,6 +6824,18 @@
   "https://huggingface.co/KittenML/kitten-tts-2": {
     "article_id": "latent-space--27cd8b72",
     "first_seen_date": "2026-10-23"
+  },
+  "https://huggingface.co/KittenML/kitten-tts-2-mini": {
+    "article_id": "latent-space--280380dd",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://huggingface.co/KittenML/kitten-tts-2-nano": {
+    "article_id": "latent-space--d1d8dc79",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://huggingface.co/KittenML/kitten-tts-2-pico": {
+    "article_id": "latent-space--c2945489",
+    "first_seen_date": "2026-11-20"
   },
   "https://huggingface.co/LastMachine/Qwen3-8B-ZeroZero-Heretic": {
     "article_id": "latent-space--0945d5d6",
@@ -8493,6 +8525,10 @@
   "https://huggingface.co/blog/hardware-partners-program": {
     "article_id": "huggingface-blog--8155421b",
     "first_seen_date": "2026-10-22"
+  },
+  "https://huggingface.co/blog/harness-adapters-at-scale": {
+    "article_id": "huggingface-blog--fe018759",
+    "first_seen_date": "2026-11-20"
   },
   "https://huggingface.co/blog/hello-hf-kernels": {
     "article_id": "huggingface-blog--73b4134d",
@@ -11107,6 +11143,10 @@
     "article_id": "interconnects--59c4c27c",
     "first_seen_date": "2026-10-21"
   },
+  "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE": {
+    "article_id": "latent-space--2ab91a20",
+    "first_seen_date": "2026-11-20"
+  },
   "https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF": {
     "article_id": "latent-space--3409397e",
     "first_seen_date": "2026-11-11"
@@ -11139,6 +11179,10 @@
     "article_id": "latent-space--32058322",
     "first_seen_date": "2026-11-18"
   },
+  "https://huggingface.co/spaces/KittenML/KittenTTS-2-Tiny-Demo": {
+    "article_id": "latent-space--f80a3d4c",
+    "first_seen_date": "2026-11-20"
+  },
   "https://huggingface.co/spaces/LessThanThreeAI/Humanlike-Chat": {
     "article_id": null,
     "first_seen_date": "2026-10-31",
@@ -11152,6 +11196,10 @@
     "article_id": null,
     "first_seen_date": "2026-11-07",
     "status": "fetch_failed"
+  },
+  "https://huggingface.co/spaces/mrfakename/voice-isolator": {
+    "article_id": "latent-space--26f336f2",
+    "first_seen_date": "2026-11-20"
   },
   "https://huggingface.co/spaces/webml-community/ternary-bonsai-2-webgpu-kernels": {
     "article_id": "latent-space--14406940",
@@ -11168,6 +11216,10 @@
   "https://huggingface.co/tencent/Hy3": {
     "article_id": "interconnects--1d6c31c0",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/tencent/Hy4-flash": {
+    "article_id": "latent-space--c40b5b26",
+    "first_seen_date": "2026-11-20"
   },
   "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16": {
     "article_id": "latent-space--32352728",
@@ -11511,6 +11563,10 @@
     "article_id": "latent-space--27b5391b",
     "first_seen_date": "2026-10-27"
   },
+  "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t": {
+    "article_id": "latent-space--9d41ae1c",
+    "first_seen_date": "2026-11-20"
+  },
   "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai": {
     "article_id": "latent-space--21d2c355",
     "first_seen_date": "2026-11-05"
@@ -11631,6 +11687,10 @@
     "article_id": "latent-space--a5252644",
     "first_seen_date": "2026-11-12"
   },
+  "https://latent.space/p/linear-scaling": {
+    "article_id": "latent-space--24201f45",
+    "first_seen_date": "2026-11-20"
+  },
   "https://latent.space/p/modal-d": {
     "article_id": "latent-space--e5a2db98",
     "first_seen_date": "2026-10-23"
@@ -11690,6 +11750,42 @@
   "https://lightning.ai/pages/community/lora-insights": {
     "article_id": "nlp-newsletter--58595ad1",
     "first_seen_date": "2026-09-23"
+  },
+  "https://linear.app/": {
+    "article_id": "latent-space--6b6160d2",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/blog/welcoming-cristina-cordova-to-linear": {
+    "article_id": "latent-space--e3d7e3ac",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/changelog/2025-05-01-mcp": {
+    "article_id": "latent-space--2efd908a",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/changelog/2026-03-24-introducing-linear-agent": {
+    "article_id": "latent-space--6eef1ef4",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/changelog/2026-06-11-coding-sessions": {
+    "article_id": "latent-space--68528ddb",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/changelog/2026-07-20-introducing-loops": {
+    "article_id": "latent-space--b53eb297",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/next": {
+    "article_id": "latent-space--5c2301f2",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/now/how-we-built-triage-intelligence": {
+    "article_id": "latent-space--ce1c2293",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://linear.app/now/sharing-growth-with-the-people-building-linear": {
+    "article_id": "latent-space--e54e1b1f",
+    "first_seen_date": "2026-11-20"
   },
   "https://link.springer.com/article/10.1007/s11023-012-9281-3": {
     "article_id": null,
@@ -12100,6 +12196,11 @@
     "first_seen_date": "2026-10-27",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-20",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-05",
@@ -12248,6 +12349,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fjev-revolution%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-12",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Flinear-scaling%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-20",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fmodal-d%2F": {
@@ -12632,6 +12738,22 @@
   "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai": {
     "article_id": "openai-blog--bfdb34ca",
     "first_seen_date": "2026-05-11"
+  },
+  "https://openai.com/business/learn/codex-security-plugin-demo": {
+    "article_id": "openai-blog--9ff36048",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+    "article_id": "openai-blog--cd909243",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://openai.com/business/learn/deploying-daybreak-red": {
+    "article_id": "openai-blog--a1a117ec",
+    "first_seen_date": "2026-11-20"
+  },
+  "https://openai.com/business/learn/pr-scans-demo": {
+    "article_id": "openai-blog--e17d9742",
+    "first_seen_date": "2026-11-20"
   },
   "https://openai.com/form/codex-originals": {
     "article_id": "openai-blog--6c5f9f37",
@@ -13393,6 +13515,10 @@
   "https://openai.com/index/how-news-organizations-are-using-ai": {
     "article_id": "openai-blog--8cb6338f",
     "first_seen_date": "2026-07-23"
+  },
+  "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+    "article_id": "openai-blog--cb889bee",
+    "first_seen_date": "2026-11-20"
   },
   "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
     "article_id": "openai-blog--187f98b9",
@@ -14814,6 +14940,10 @@
     "article_id": "google-research--9ed583a1",
     "first_seen_date": "2026-09-23"
   },
+  "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer": {
+    "article_id": "google-research--d3512e35",
+    "first_seen_date": "2026-11-20"
+  },
   "https://research.google/blog/accelerating-scientific-discovery-with-ai-powered-empirical-software": {
     "article_id": "latent-space--2d48ba95",
     "first_seen_date": "2026-09-23"
@@ -15348,6 +15478,10 @@
     "article_id": "simonwillison--fa1e13f9",
     "first_seen_date": "2026-11-18"
   },
+  "https://simonwillison.net/2026/Nov/19/postgresql-19": {
+    "article_id": "simonwillison--8086f084",
+    "first_seen_date": "2026-11-20"
+  },
   "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": {
     "article_id": "simonwillison--8f5fc18b",
     "first_seen_date": "2026-11-02"
@@ -15355,6 +15489,10 @@
   "https://simonwillison.net/2026/Nov/2/llm": {
     "article_id": "simonwillison--bfaaed9c",
     "first_seen_date": "2026-11-03"
+  },
+  "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad": {
+    "article_id": "simonwillison--fb4e2f1a",
+    "first_seen_date": "2026-11-20"
   },
   "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": {
     "article_id": "simonwillison--c23da0ab",
@@ -17416,6 +17554,10 @@
     "article_id": null,
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
+  },
+  "https://www.intercom.com/help/en/articles/8205718-fin-pricing": {
+    "article_id": "latent-space--0c20a6ad",
+    "first_seen_date": "2026-11-20"
   },
   "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my": {
     "article_id": "interconnects--595d3e36",

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--2ab91a20",
+  "author": null,
+  "content_chars": 8876,
+  "content_sha256": "2753f43e273d85fad8f4bfd0c9db48e58c4e94bcfaa3713822fc884d3db37999",
+  "content_tokens": 2219,
+  "fetched_at": "2026-11-20T15:26:16Z",
+  "kind": "article",
+  "published_at": "2026-11-20T07:12:24+00:00",
+  "snippet": "NVIDIA NemotronLabs RE-USE is a 9.6-million-parameter multilingual universal speech enhancement (USE) model designed to restore speech quality across a wide range of real-world degradations while preserving speech fidelity. It has the following desirable properties: - Robustness…",
+  "source_id": "latent-space",
+  "title": "nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face",
+  "top_terms": [
+    [
+      "speech",
+      29
+    ],
+    [
+      "data",
+      18
+    ],
+    [
+      "model",
+      15
+    ],
+    [
+      "audio",
+      11
+    ],
+    [
+      "noisy",
+      10
+    ],
+    [
+      "nvidia",
+      10
+    ],
+    [
+      "hours",
+      9
+    ],
+    [
+      "nemotronlabs",
+      8
+    ],
+    [
+      "dataset",
+      7
+    ],
+    [
+      "files",
+      7
+    ],
+    [
+      "hours of",
+      7
+    ],
+    [
+      "of speech",
+      7
+    ],
+    [
+      "re-use",
+      7
+    ],
+    [
+      "speech data",
+      7
+    ],
+    [
+      "en",
+      6
+    ],
+    [
+      "hours of speech",
+      6
+    ],
+    [
+      "khz",
+      6
+    ],
+    [
+      "nemotronlabs re-use",
+      6
+    ],
+    [
+      "of speech data",
+      6
+    ],
+    [
+      "quality",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE",
+  "url_canonical": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE",
+  "via_source_id": "latent-space"
+}

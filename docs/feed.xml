@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-19T15:44:53+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-20T15:26:45+00:00</lastBuildDate>
+    <item>
+      <title>Hy4-flash (2026-11-20)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-20/</link>
+      <guid isPermaLink="false">wotd-2026-11-20</guid>
+      <pubDate>2026-11-20</pubDate>
+      <description>Hy4-flash trended because Tencent published its official model card revealing a 220B MoE architecture with 1M context and multimodal input, and AngelSlim immediately released five GGUF quantizations (Q4_K_M, SPARK-4Bit, Q3_K, IQ2-AH) that make the model runnable on high-end local GPUs. The combination of a major Chinese lab&#39;s new flagship MoE and ready-to-use quantized artifacts drove simultaneous discussion on Hugging Face and in open-source LLM communities.</description>
+    </item>
     <item>
       <title>Gemini 4 Neon (2026-11-19)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-19/</link>
@@ -346,13 +353,6 @@
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-27/</link>
       <guid isPermaLink="false">wotd-2026-09-27</guid>
       <pubDate>2026-09-27</pubDate>
-      <description>Word of the day: None</description>
-    </item>
-    <item>
-      <title>None (2026-09-26)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-26/</link>
-      <guid isPermaLink="false">wotd-2026-09-26</guid>
-      <pubDate>2026-09-26</pubDate>
       <description>Word of the day: None</description>
     </item>
   </channel>

@@ -1,0 +1,264 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--9d41ae1c",
+        "latent-space--b88cc548"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 164.657857,
+      "term": "audioghost",
+      "tf_today": 36
+    },
+    {
+      "articles": [
+        "latent-space--280380dd",
+        "latent-space--c2945489",
+        "latent-space--d1d8dc79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 138.088614,
+      "term": "female 1",
+      "tf_today": 29
+    },
+    {
+      "articles": [
+        "latent-space--280380dd",
+        "latent-space--c2945489",
+        "latent-space--d1d8dc79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 131.997997,
+      "term": "male 1",
+      "tf_today": 28
+    },
+    {
+      "articles": [
+        "latent-space--280380dd",
+        "latent-space--c2945489",
+        "latent-space--d1d8dc79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 114.033379,
+      "term": "male 2",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "latent-space--1c9450f7",
+        "latent-space--9d41ae1c",
+        "latent-space--c40b5b26"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 108.154228,
+      "term": "hy4-flash",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "latent-space--280380dd",
+        "latent-space--c2945489",
+        "latent-space--d1d8dc79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 102.333333,
+      "term": "female 2",
+      "tf_today": 23
+    },
+    {
+      "articles": [
+        "latent-space--280380dd",
+        "latent-space--9d41ae1c",
+        "latent-space--c2945489",
+        "latent-space--d1d8dc79"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 4,
+      "score": 93.982547,
+      "term": "male",
+      "tf_today": 83
+    },
+    {
+      "articles": [
+        "latent-space--9d41ae1c",
+        "latent-space--b88cc548"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 82.221729,
+      "term": "sam-audio",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "latent-space--280380dd",
+        "latent-space--c2945489",
+        "latent-space--d1d8dc79"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 74.199862,
+      "term": "eleanor",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "aibreakfast--74b02d27",
+        "latent-space--9d41ae1c",
+        "latent-space--b88cc548"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 74.199862,
+      "term": "meta's",
+      "tf_today": 18
+    }
+  ],
+  "date": "2026-11-20",
+  "evidence_article_ids": [
+    "latent-space--1c9450f7",
+    "latent-space--9d41ae1c",
+    "latent-space--c40b5b26"
+  ],
+  "judge": {
+    "input_tokens": 25490,
+    "model": "jev-1.14.0",
+    "pool_size": 50,
+    "signals": {
+      "anthropic": {
+        "dominance": 2.42,
+        "event": 0.88,
+        "form": 0.93,
+        "novelty": 0.76,
+        "specificity": 1.06
+      },
+      "anthropic ipo": {
+        "dominance": 2.54,
+        "event": 0.92,
+        "form": 0.85,
+        "novelty": 0.88,
+        "specificity": 0.23
+      },
+      "atomic chat": {
+        "dominance": 1.65,
+        "event": 0.24,
+        "form": 0.91,
+        "novelty": 0.66,
+        "specificity": 1.94
+      },
+      "audioghost": {
+        "dominance": 1.71,
+        "event": 0.53,
+        "form": 0.88,
+        "novelty": 0.82,
+        "specificity": 1.94
+      },
+      "chatgpt": {
+        "dominance": 1.81,
+        "event": 0.93,
+        "form": 0.9,
+        "novelty": 0.43,
+        "specificity": 2.0
+      },
+      "face": {
+        "dominance": 2.11,
+        "event": 0.56,
+        "form": 0.45,
+        "novelty": 0.58,
+        "specificity": 1.03
+      },
+      "free local": {
+        "dominance": 1.96,
+        "event": 0.37,
+        "form": 0.63,
+        "novelty": 0.53,
+        "specificity": 1.02
+      },
+      "hugging face": {
+        "dominance": 2.8,
+        "event": 0.79,
+        "form": 0.76,
+        "novelty": 0.56,
+        "specificity": 1.22
+      },
+      "hy4-flash": {
+        "dominance": 2.28,
+        "event": 0.65,
+        "form": 0.87,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "ipo": {
+        "dominance": 2.48,
+        "event": 0.92,
+        "form": 0.78,
+        "novelty": 0.88,
+        "specificity": 0.01
+      },
+      "local": {
+        "dominance": 2.44,
+        "event": 0.73,
+        "form": 0.7,
+        "novelty": 0.7,
+        "specificity": 1.2
+      },
+      "memory-optimized sam-audio": {
+        "dominance": 1.55,
+        "event": 0.62,
+        "form": 0.75,
+        "novelty": 0.81,
+        "specificity": 1.97
+      },
+      "nemotronlabs": {
+        "dominance": 1.36,
+        "event": 0.52,
+        "form": 0.74,
+        "novelty": 0.77,
+        "specificity": 1.53
+      },
+      "voice": {
+        "dominance": 2.37,
+        "event": 0.93,
+        "form": 0.85,
+        "novelty": 0.59,
+        "specificity": 1.35
+      },
+      "x0funky": {
+        "dominance": 1.55,
+        "event": 0.58,
+        "form": 0.11,
+        "novelty": 0.73,
+        "specificity": 1.0
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "hy4-flash",
+      "audioghost",
+      "chatgpt"
+    ]
+  },
+  "label": "Hy4-flash",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/tencent/Hy4-flash",
+        "https://github.com/tencent/Hy4-flash",
+        "https://arxiv.org/abs/2401.04088"
+      ],
+      "text": "Hy4-flash is Tencent's flagship mixture-of-experts (MoE) large language model, featuring 220 billion total parameters (including a 64B-parameter 'Engram' memory component) but only 12 billion active parameters per forward pass. It accepts both text and images, generates text, and supports a 1-million-token context window. Its 42-layer backbone comprises one dense feed-forward layer and 41 MoE layers, optimizing inference cost through sparse activation. The model is released under a permissive license on Hugging Face with official GGUF quantizations for local deployment via llama.cpp."
+    },
+    "generated_at": "2026-11-20T15:26:43.220095+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Tencent released Hy4-flash, a 220B-parameter mixture-of-experts model with only 12B active parameters per token, natively supporting text and image inputs across a 1M-token context window. The model's official Hugging Face page details its 42-layer architecture — one dense layer plus 41 MoE layers — and positions it as the company's most cost-effective Hy variant to date. Community quantizer AngelSlim subsequently published five GGUF builds ranging from 125 to 157 GiB (IQ2-AH through Q4_K_M), enabling local inference on consumer hardware. Meanwhile, unrelated market chatter around Anthropic's hypothetical $1.5T IPO circulated on Latent Space, but the technical momentum today centers on deploying large MoE models efficiently via aggressive quantization.",
+    "why": "Hy4-flash trended because Tencent published its official model card revealing a 220B MoE architecture with 1M context and multimodal input, and AngelSlim immediately released five GGUF quantizations (Q4_K_M, SPARK-4Bit, Q3_K, IQ2-AH) that make the model runnable on high-end local GPUs. The combination of a major Chinese lab's new flagship MoE and ready-to-use quantized artifacts drove simultaneous discussion on Hugging Face and in open-source LLM communities."
+  },
+  "score": 108.154228,
+  "word": "hy4-flash"
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--d1d8dc79",
+  "author": null,
+  "content_chars": 3288,
+  "content_sha256": "7a0e84d788d634d3de7479b7d595183d9002e3c43ae608486574792ed9ed07e9",
+  "content_tokens": 822,
+  "fetched_at": "2026-11-20T15:26:16Z",
+  "kind": "article",
+  "published_at": "2026-11-20T07:12:24+00:00",
+  "snippet": "17M parameters per language model, 8 languages, 37 voices, 24 kHz. ONNX with int8 weights (17.4 MB per language) or int4 weights (8.8 MB per language); both run on CPU, no PyTorch needed. And the float32 PyTorch weights. pip install kittenml from kittenml import KittenTTS import…",
+  "source_id": "latent-space",
+  "title": "KittenML/kitten-tts-2-nano · Hugging Face",
+  "top_terms": [
+    [
+      "voice",
+      20
+    ],
+    [
+      "male",
+      19
+    ],
+    [
+      "female",
+      18
+    ],
+    [
+      "description",
+      11
+    ],
+    [
+      "female 1",
+      7
+    ],
+    [
+      "kittenml",
+      7
+    ],
+    [
+      "male 1",
+      7
+    ],
+    [
+      "male 2",
+      7
+    ],
+    [
+      "weights",
+      7
+    ],
+    [
+      "kittentts",
+      6
+    ],
+    [
+      "language",
+      6
+    ],
+    [
+      "audio",
+      5
+    ],
+    [
+      "backend",
+      5
+    ],
+    [
+      "female 2",
+      5
+    ],
+    [
+      "int4",
+      5
+    ],
+    [
+      "kitten-tts-2-nano",
+      5
+    ],
+    [
+      "name",
+      5
+    ],
+    [
+      "onnx",
+      5
+    ],
+    [
+      "voices",
+      5
+    ],
+    [
+      "de",
+      4
+    ]
+  ],
+  "url": "https://huggingface.co/KittenML/kitten-tts-2-nano",
+  "url_canonical": "https://huggingface.co/KittenML/kitten-tts-2-nano",
+  "via_source_id": "latent-space"
+}

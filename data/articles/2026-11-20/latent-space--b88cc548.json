@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--b88cc548",
+  "author": null,
+  "content_chars": 23876,
+  "content_sha256": "b27f329af442fd5f7ae3fd7f5bb3db1dfe6eed4962e56554fdb04f9c72d6a2f3",
+  "content_tokens": 5969,
+  "fetched_at": "2026-11-20T15:26:17Z",
+  "kind": "article",
+  "published_at": "2026-11-20T07:12:24+00:00",
+  "snippet": "Pull any sound out of audio or video Describe the sounds you want (vocals, a dog barking, traffic) and AudioGhost puts each one on its own track. Mix the tracks and export exactly what you hear, or your video with the new soundtrack. Powered by Meta's SAM-Audio, running locally…",
+  "source_id": "latent-space",
+  "title": "GitHub - 0x0funky/audioghost-ai: Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI. · GitHub",
+  "top_terms": [
+    [
+      "model",
+      39
+    ],
+    [
+      "api",
+      35
+    ],
+    [
+      "gb",
+      35
+    ],
+    [
+      "audioghost",
+      32
+    ],
+    [
+      "install",
+      25
+    ],
+    [
+      "py",
+      25
+    ],
+    [
+      "sound",
+      22
+    ],
+    [
+      "windows",
+      20
+    ],
+    [
+      "start",
+      18
+    ],
+    [
+      "track",
+      18
+    ],
+    [
+      "redis",
+      17
+    ],
+    [
+      "ffmpeg",
+      16
+    ],
+    [
+      "meta's",
+      16
+    ],
+    [
+      "sessions",
+      16
+    ],
+    [
+      "bat",
+      15
+    ],
+    [
+      "license",
+      15
+    ],
+    [
+      "sam-audio",
+      15
+    ],
+    [
+      "face",
+      14
+    ],
+    [
+      "file",
+      14
+    ],
+    [
+      "first",
+      14
+    ]
+  ],
+  "url": "https://github.com/0x0funky/audioghost-ai",
+  "url_canonical": "https://github.com/0x0funky/audioghost-ai",
+  "via_source_id": "latent-space"
+}

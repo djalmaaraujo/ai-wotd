@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Hy4-flash — 2026-11-20 · AI WOTD</title>
+  <link rel="stylesheet" href="/ai-wotd/style.css">
+  <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
+</head>
+<body>
+  <header>
+    <a class="brand" href="/ai-wotd/">AI Word Of The Day</a>
+    <nav>
+      <a href="/ai-wotd/">Today</a>
+      <a href="/ai-wotd/archive/">Archive</a>
+      <a href="https://github.com/djalmaaraujo/ai-wotd">GitHub</a>
+    </nav>
+  </header>
+  <main>
+<article class="day">
+  <p class="date">2026-11-20</p>
+  <h1>Hy4-flash</h1>
+
+  <p class="why">Hy4-flash trended because Tencent published its official model card revealing a 220B MoE architecture with 1M context and multimodal input, and AngelSlim immediately released five GGUF quantizations (Q4_K_M, SPARK-4Bit, Q3_K, IQ2-AH) that make the model runnable on high-end local GPUs. The combination of a major Chinese lab&#39;s new flagship MoE and ready-to-use quantized artifacts drove simultaneous discussion on Hugging Face and in open-source LLM communities.</p>
+
+  <section class="definition">
+    <h2>Definition</h2>
+    <p>Hy4-flash is Tencent&#39;s flagship mixture-of-experts (MoE) large language model, featuring 220 billion total parameters (including a 64B-parameter &#39;Engram&#39; memory component) but only 12 billion active parameters per forward pass. It accepts both text and images, generates text, and supports a 1-million-token context window. Its 42-layer backbone comprises one dense feed-forward layer and 41 MoE layers, optimizing inference cost through sparse activation. The model is released under a permissive license on Hugging Face with official GGUF quantizations for local deployment via llama.cpp.</p>
+    <ul class="def-refs">
+      <li><a href="https://huggingface.co/tencent/Hy4-flash" rel="noreferrer">https://huggingface.co/tencent/Hy4-flash</a></li>
+      <li><a href="https://github.com/tencent/Hy4-flash" rel="noreferrer">https://github.com/tencent/Hy4-flash</a></li>
+      <li><a href="https://arxiv.org/abs/2401.04088" rel="noreferrer">https://arxiv.org/abs/2401.04088</a></li>
+    </ul>
+  </section>
+
+  <section class="summary">
+    <h2>Today in AI</h2>
+    <p>Tencent released Hy4-flash, a 220B-parameter mixture-of-experts model with only 12B active parameters per token, natively supporting text and image inputs across a 1M-token context window. The model&#39;s official Hugging Face page details its 42-layer architecture — one dense layer plus 41 MoE layers — and positions it as the company&#39;s most cost-effective Hy variant to date. Community quantizer AngelSlim subsequently published five GGUF builds ranging from 125 to 157 GiB (IQ2-AH through Q4_K_M), enabling local inference on consumer hardware. Meanwhile, unrelated market chatter around Anthropic&#39;s hypothetical $1.5T IPO circulated on Latent Space, but the technical momentum today centers on deploying large MoE models efficiently via aggressive quantization.</p>
+  </section>
+
+  <section class="evidence">
+    <h2>Evidence (3)</h2>
+    <ul>
+      <li>
+        <a href="https://huggingface.co/AngelSlim/Hy4-flash-GGUF" rel="noreferrer">AngelSlim/Hy4-flash-GGUF · Hugging Face</a>
+        <span class="meta">
+          latent-space          · 2026-11-20
+        </span>
+<blockquote>中文 ｜ English ✒️ TechnicalReport | 📖 Documentation | 🤗 Hugging Face | 🤖 ModelScope Five GGUF builds of Hy4-flash: tencent/Hy4-flash | file | model size | bpw (overall) | bpw (excl. Engram table) | |---|---|---|---| Hy4-flash-Q4_K_M.gguf | 156.79 GiB | 6.05 | 5.27 |…</blockquote>      </li>
+      <li>
+        <a href="https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t" rel="noreferrer">[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T</a>
+        <span class="meta">
+          latent-space · swyx .ai          · 2026-11-20
+        </span>
+<blockquote>As we previewed on our Know Before You IPO pod, Anthropic set its IPO price at $83 and today $ANT closed at $97.17, up 17% from the offering price (drifting -5% to $92.60 after the close). The $81.3B offering overtook SpaceX&#39;s June IPO as the largest in history. Dario and…</blockquote>      </li>
+      <li>
+        <a href="https://huggingface.co/tencent/Hy4-flash" rel="noreferrer">tencent/Hy4-flash · Hugging Face</a>
+        <span class="meta">
+          latent-space          · 2026-11-20
+        </span>
+<blockquote>中文 ｜ English Official Website | GitHub | GGUF - Model Introduction - Pretrained model capability - Practicality and Cost Efficiency - Appendix: Benchmark results - News - Model Links - Quickstart - Deployment - Finetuning - License - Contact Us Hy4 flash is our most…</blockquote>      </li>
+    </ul>
+  </section>
+
+  <section class="candidates">
+    <h2>Candidates</h2>
+    <ol>
+      <li>audioghost <span class="meta">tf=36, df=2, score=164.66</span></li>
+      <li>female 1 <span class="meta">tf=29, df=3, score=138.09</span></li>
+      <li>male 1 <span class="meta">tf=28, df=3, score=132.00</span></li>
+      <li>male 2 <span class="meta">tf=25, df=3, score=114.03</span></li>
+      <li>hy4-flash <span class="meta">tf=24, df=3, score=108.15</span></li>
+      <li>female 2 <span class="meta">tf=23, df=3, score=102.33</span></li>
+      <li>male <span class="meta">tf=83, df=4, score=93.98</span></li>
+      <li>sam-audio <span class="meta">tf=21, df=2, score=82.22</span></li>
+      <li>eleanor <span class="meta">tf=18, df=3, score=74.20</span></li>
+      <li>meta&#39;s <span class="meta">tf=18, df=3, score=74.20</span></li>
+    </ol>
+  </section>
+
+  <section class="queried-links">
+    <details>
+      <summary>All queried links (15)</summary>
+      <ul>
+        <li>
+          <a href="https://aibreakfast.beehiiv.com/p/google-neon-the-next-big-model" rel="noreferrer">Anthropic IPO closes at $97 after opening at $111.50</a>
+          <span class="meta">
+            aibreakfast · AI Breakfast          </span>
+        </li>
+        <li>
+          <a href="https://codenewsletter.ai/p/openai-hands-devs-the-voice-behind-chatgpt" rel="noreferrer">OpenAI hands devs the voice behind ChatGPT</a>
+          <span class="meta">
+            codenewsletter · Code Newsletter          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/blog/harness-adapters-at-scale" rel="noreferrer">Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</a>
+          <span class="meta">
+            huggingface-blog · Hugging Face Blog          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/AngelSlim/Hy4-flash-GGUF" rel="noreferrer">AngelSlim/Hy4-flash-GGUF · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/spaces/mrfakename/voice-isolator" rel="noreferrer">a Hugging Face Space by mrfakename</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/KittenML/kitten-tts-2-mini" rel="noreferrer">KittenML/kitten-tts-2-mini · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE" rel="noreferrer">nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://atomic.chat/" rel="noreferrer">Atomic Chat: Free Local AI Chat for Mac, Windows &amp; iPhone</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t" rel="noreferrer">[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T</a>
+          <span class="meta">
+            latent-space · swyx .ai          </span>
+        </li>
+        <li>
+          <a href="https://github.com/0x0funky/audioghost-ai" rel="noreferrer">GitHub - 0x0funky/audioghost-ai: Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI. · GitHub</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/KittenML/kitten-tts-2-pico" rel="noreferrer">KittenML/kitten-tts-2-pico · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/tencent/Hy4-flash" rel="noreferrer">tencent/Hy4-flash · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/KittenML/kitten-tts-2-nano" rel="noreferrer">KittenML/kitten-tts-2-nano · Hugging Face</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/spaces/KittenML/KittenTTS-2-Tiny-Demo" rel="noreferrer">Kitten TTS 2 Tiny Demo</a>
+          <span class="meta">
+            latent-space          </span>
+        </li>
+        <li>
+          <a href="https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad" rel="noreferrer">Token fraud is here and it’s BAD (YouTube)</a>
+          <span class="meta">
+            simonwillison · Simon Willison          </span>
+        </li>
+      </ul>
+    </details>
+  </section>
+
+  <nav class="pager">
+<a href="/ai-wotd/d/2026-11-19/">← 2026-11-19</a>  </nav>
+</article>
+  </main>
+  <footer>
+    <p>Updated 2026-11-20T15:26:45+00:00. Built from public RSS, newsletters, and X.
+    Short attributed snippets shown under fair use; full text is never
+    redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
+  </footer>
+</body>
+</html>

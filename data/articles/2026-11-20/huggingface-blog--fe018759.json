@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--fe018759",
+  "author": "Hugging Face Blog",
+  "content_chars": 26229,
+  "content_sha256": "b118bbae88ad5825eec4299f3ee985bde6cd5a03fecf5300590da0afcd824f11",
+  "content_tokens": 6557,
+  "fetched_at": "2026-11-20T15:23:20Z",
+  "kind": "article",
+  "published_at": "2026-11-20T00:00:00+00:00",
+  "snippet": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost Combining RL on a custom task distribution with your favorite agent harness yields more accurate and efficient models for that target harness and task distribution. Models are…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "top_terms": [
+    [
+      "tasks",
+      68
+    ],
+    [
+      "model",
+      55
+    ],
+    [
+      "harness",
+      48
+    ],
+    [
+      "training",
+      39
+    ],
+    [
+      "task",
+      35
+    ],
+    [
+      "thinking",
+      26
+    ],
+    [
+      "adapters",
+      25
+    ],
+    [
+      "base",
+      25
+    ],
+    [
+      "pi",
+      24
+    ],
+    [
+      "hermes",
+      22
+    ],
+    [
+      "agent",
+      21
+    ],
+    [
+      "opencode",
+      21
+    ],
+    [
+      "rl",
+      21
+    ],
+    [
+      "the base",
+      21
+    ],
+    [
+      "the model",
+      20
+    ],
+    [
+      "terminal-bench",
+      19
+    ],
+    [
+      "base model",
+      18
+    ],
+    [
+      "the base model",
+      17
+    ],
+    [
+      "calls",
+      16
+    ],
+    [
+      "terminal-bench 2.1",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "url_canonical": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "via_source_id": null
+}
