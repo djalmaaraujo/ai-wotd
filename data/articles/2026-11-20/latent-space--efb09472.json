@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--efb09472",
+  "author": null,
+  "content_chars": 7736,
+  "content_sha256": "7b1eedfd2bf49ce38c6515b0162f48343ce67433ebaeb0ff620d90345ae1cf52",
+  "content_tokens": 1934,
+  "fetched_at": "2026-11-21T14:39:29Z",
+  "kind": "article",
+  "published_at": "2026-11-20T21:18:41+00:00",
+  "snippet": "Lean's minimal trusted kernel guarantees absolute correctness in mathematical proof, software and hardware verification. Lean is an open-source programming language and proof assistant that enables correct, maintainable, and formally verified code Powerful Automation Mathematics…",
+  "source_id": "latent-space",
+  "title": "Lean Programming Language",
+  "top_terms": [
+    [
+      "lean",
+      24
+    ],
+    [
+      "prime",
+      18
+    ],
+    [
+      "theorem",
+      16
+    ],
+    [
+      "grind",
+      14
+    ],
+    [
+      "nat",
+      13
+    ],
+    [
+      "factorial",
+      11
+    ],
+    [
+      "dvd",
+      9
+    ],
+    [
+      "hi",
+      9
+    ],
+    [
+      "lo",
+      9
+    ],
+    [
+      "none",
+      8
+    ],
+    [
+      "mathematics",
+      7
+    ],
+    [
+      "bsearch",
+      6
+    ],
+    [
+      "factor",
+      6
+    ],
+    [
+      "software",
+      6
+    ],
+    [
+      "by grind",
+      5
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "exists",
+      5
+    ],
+    [
+      "induction",
+      5
+    ],
+    [
+      "intro",
+      5
+    ],
+    [
+      "isprime",
+      5
+    ]
+  ],
+  "url": "https://lean-lang.org/",
+  "url_canonical": "https://lean-lang.org/",
+  "via_source_id": "latent-space"
+}

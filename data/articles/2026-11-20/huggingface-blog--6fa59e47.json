@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--6fa59e47",
+  "author": "Hugging Face Blog",
+  "content_chars": 19692,
+  "content_sha256": "c2f5ca16ab0fe1ecf77873319db5bbb07ea4392696bd52f772c74742dfcd797b",
+  "content_tokens": 4923,
+  "fetched_at": "2026-11-21T14:36:30Z",
+  "kind": "article",
+  "published_at": "2026-11-20T00:00:00+00:00",
+  "snippet": "TLDR; Inkling 2 Mini is a new looped transformer model. It’s a multimodal Mixture-of-Experts with ~26B physical total and 3B active parameters per token. It uses a neat trick to increase capacity: some layers are visited in a loop that repeats three times, which makes it work…",
+  "source_id": "huggingface-blog",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "top_terms": [
+    [
+      "model",
+      50
+    ],
+    [
+      "inkling",
+      32
+    ],
+    [
+      "inkling 2",
+      25
+    ],
+    [
+      "mini",
+      25
+    ],
+    [
+      "inkling 2 mini",
+      23
+    ],
+    [
+      "inputs",
+      17
+    ],
+    [
+      "messages",
+      16
+    ],
+    [
+      "prompt",
+      14
+    ],
+    [
+      "image",
+      13
+    ],
+    [
+      "layers",
+      13
+    ],
+    [
+      "return",
+      12
+    ],
+    [
+      "temperature",
+      12
+    ],
+    [
+      "processor",
+      11
+    ],
+    [
+      "run",
+      11
+    ],
+    [
+      "text",
+      11
+    ],
+    [
+      "tool",
+      11
+    ],
+    [
+      "true",
+      11
+    ],
+    [
+      "current",
+      10
+    ],
+    [
+      "html",
+      10
+    ],
+    [
+      "input",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "url_canonical": "https://huggingface.co/blog/inkling2mini",
+  "via_source_id": null
+}

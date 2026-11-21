@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--44301958",
+  "author": null,
+  "content_chars": 13048,
+  "content_sha256": "ba086250d0a93bab3d03fb07b0206fd8547a7572a5090852eff628cd4cc5b77f",
+  "content_tokens": 3262,
+  "fetched_at": "2026-11-21T14:39:25Z",
+  "kind": "article",
+  "published_at": "2026-11-21T05:02:13+00:00",
+  "snippet": "中文 ｜ English 🖥️ Official Website | 💬 GitHub | 📱 GGUF - Model Introduction - Pretrained model capability - Key Improvements - Capabilities and Use Cases - Known Limitations - Appendix: benchmark results - News - Model Links - Quickstart - Deployment - Finetuning - System Card…",
+  "source_id": "latent-space",
+  "title": "GitHub - Tencent-Hunyuan/Hy4 · GitHub",
+  "top_terms": [
+    [
+      "hy4",
+      50
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "base",
+      12
+    ],
+    [
+      "attention",
+      9
+    ],
+    [
+      "vision",
+      9
+    ],
+    [
+      "layer",
+      8
+    ],
+    [
+      "reasoning",
+      8
+    ],
+    [
+      "size",
+      8
+    ],
+    [
+      "experts",
+      7
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "kv",
+      7
+    ],
+    [
+      "moe",
+      7
+    ],
+    [
+      "parameters",
+      7
+    ],
+    [
+      "sparse",
+      7
+    ],
+    [
+      "tencent",
+      7
+    ],
+    [
+      "financial",
+      6
+    ],
+    [
+      "internal",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "preview",
+      6
+    ],
+    [
+      "sglang",
+      6
+    ]
+  ],
+  "url": "https://github.com/Tencent-Hunyuan/Hy4",
+  "url_canonical": "https://github.com/Tencent-Hunyuan/Hy4",
+  "via_source_id": "latent-space"
+}

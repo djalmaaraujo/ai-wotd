@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--878fa637",
+  "author": null,
+  "content_chars": 13077,
+  "content_sha256": "27b1ad9f6287adf184e12cf583ff6180a297b6ee0771f348a95138a905acd944",
+  "content_tokens": 3269,
+  "fetched_at": "2026-11-21T14:39:25Z",
+  "kind": "article",
+  "published_at": "2026-11-21T05:02:13+00:00",
+  "snippet": "中文 ｜ English 🖥️ Official Website | 💬 GitHub | 📱 GGUF - Model Introduction - Pretrained model capability - Key Improvements - Capabilities and Use Cases - Known Limitations - Appendix: benchmark results - News - Model Links - Quickstart - Deployment - Finetuning - System Card…",
+  "source_id": "latent-space",
+  "title": "tencent/Hy4 · Hugging Face",
+  "top_terms": [
+    [
+      "hy4",
+      50
+    ],
+    [
+      "model",
+      28
+    ],
+    [
+      "base",
+      12
+    ],
+    [
+      "attention",
+      9
+    ],
+    [
+      "vision",
+      9
+    ],
+    [
+      "layer",
+      8
+    ],
+    [
+      "reasoning",
+      8
+    ],
+    [
+      "size",
+      8
+    ],
+    [
+      "tencent",
+      8
+    ],
+    [
+      "experts",
+      7
+    ],
+    [
+      "image",
+      7
+    ],
+    [
+      "kv",
+      7
+    ],
+    [
+      "moe",
+      7
+    ],
+    [
+      "parameters",
+      7
+    ],
+    [
+      "sparse",
+      7
+    ],
+    [
+      "financial",
+      6
+    ],
+    [
+      "internal",
+      6
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "preview",
+      6
+    ],
+    [
+      "sglang",
+      6
+    ]
+  ],
+  "url": "https://huggingface.co/tencent/Hy4",
+  "url_canonical": "https://huggingface.co/tencent/Hy4",
+  "via_source_id": "latent-space"
+}

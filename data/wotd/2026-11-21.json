@@ -1,0 +1,255 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--6384dcbd",
+        "latent-space--b13fbc00"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 132.231559,
+      "term": "codeaf",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "last-week-in-ai--032c5931",
+        "last-week-in-ai--15e4f14f",
+        "last-week-in-ai--3c2ddf63",
+        "last-week-in-ai--532f01c4",
+        "last-week-in-ai--95430f55",
+        "last-week-in-ai--d89fc6d3",
+        "last-week-in-ai--f303e18b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 7,
+      "score": 106.219459,
+      "term": "thursday",
+      "tf_today": 21
+    },
+    {
+      "articles": [
+        "last-week-in-ai--17e891d4",
+        "last-week-in-ai--532f01c4",
+        "last-week-in-ai--f303e18b",
+        "latent-space--12e7ae61"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 72.272593,
+      "term": "trump",
+      "tf_today": 18
+    },
+    {
+      "articles": [
+        "last-week-in-ai--17e891d4",
+        "last-week-in-ai--532f01c4",
+        "last-week-in-ai--f303e18b"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 57.694526,
+      "term": "bessent",
+      "tf_today": 16
+    },
+    {
+      "articles": [
+        "last-week-in-ai--032c5931",
+        "last-week-in-ai--13e672fc",
+        "last-week-in-ai--3c2ddf63",
+        "last-week-in-ai--532f01c4",
+        "last-week-in-ai--5f7beb57",
+        "last-week-in-ai--95430f55",
+        "last-week-in-ai--d89fc6d3",
+        "latent-space--12e7ae61"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 8,
+      "score": 47.213226,
+      "term": "huang's",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--12e7ae61",
+        "latent-space--5a8f7ae1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 44.805922,
+      "term": "riemann",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "last-week-in-ai--13e672fc",
+        "last-week-in-ai--15e4f14f",
+        "last-week-in-ai--17e891d4",
+        "last-week-in-ai--532f01c4",
+        "last-week-in-ai--5f7beb57",
+        "last-week-in-ai--d89fc6d3",
+        "last-week-in-ai--f303e18b",
+        "latent-space--5a8f7ae1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 8,
+      "score": 41.418191,
+      "term": "on friday",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "latent-space--12e7ae61",
+        "latent-space--5a8f7ae1"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 40.545517,
+      "term": "riemann hypothesis",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "last-week-in-ai--15e4f14f",
+        "last-week-in-ai--3c2ddf63",
+        "last-week-in-ai--532f01c4",
+        "last-week-in-ai--d89fc6d3"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 37.2736,
+      "term": "stocks",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--9f479f97",
+        "latent-space--b13fbc00"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 36.375645,
+      "term": "work or",
+      "tf_today": 12
+    }
+  ],
+  "date": "2026-11-21",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 29407,
+    "model": "jev-1.14.0",
+    "pool_size": 56,
+    "signals": {
+      "anthropic": {
+        "dominance": 2.98,
+        "event": 0.93,
+        "form": 0.92,
+        "novelty": 0.79,
+        "specificity": 1.1
+      },
+      "chip": {
+        "dominance": 2.7,
+        "event": 0.94,
+        "form": 0.85,
+        "novelty": 0.77,
+        "specificity": 0.6
+      },
+      "correction": {
+        "dominance": 2.89,
+        "event": 0.52,
+        "form": 0.88,
+        "novelty": 0.81,
+        "specificity": 0.06
+      },
+      "huang": {
+        "dominance": 2.52,
+        "event": 0.92,
+        "form": 0.83,
+        "novelty": 0.88,
+        "specificity": 0.3
+      },
+      "hypothesis": {
+        "dominance": 2.63,
+        "event": 0.9,
+        "form": 0.82,
+        "novelty": 0.92,
+        "specificity": 0.11
+      },
+      "ipo": {
+        "dominance": 2.98,
+        "event": 0.9,
+        "form": 0.77,
+        "novelty": 0.86,
+        "specificity": 0.01
+      },
+      "ipo price": {
+        "dominance": 2.9,
+        "event": 0.75,
+        "form": 0.65,
+        "novelty": 0.81,
+        "specificity": 0.01
+      },
+      "jensen huang": {
+        "dominance": 2.47,
+        "event": 0.94,
+        "form": 0.95,
+        "novelty": 0.88,
+        "specificity": 0.47
+      },
+      "nvidia": {
+        "dominance": 2.62,
+        "event": 0.96,
+        "form": 0.94,
+        "novelty": 0.87,
+        "specificity": 0.96
+      },
+      "proofs": {
+        "dominance": 2.74,
+        "event": 0.95,
+        "form": 0.78,
+        "novelty": 0.88,
+        "specificity": 0.31
+      },
+      "riemann hypothesis": {
+        "dominance": 2.71,
+        "event": 0.95,
+        "form": 0.95,
+        "novelty": 0.91,
+        "specificity": 0.02
+      },
+      "stock": {
+        "dominance": 2.96,
+        "event": 0.92,
+        "form": 0.9,
+        "novelty": 0.87,
+        "specificity": 0.03
+      },
+      "stocks": {
+        "dominance": 2.94,
+        "event": 0.94,
+        "form": 0.89,
+        "novelty": 0.85,
+        "specificity": 0.01
+      },
+      "thursday": {
+        "dominance": 2.79,
+        "event": 0.94,
+        "form": 0.73,
+        "novelty": 0.73,
+        "specificity": 0.0
+      },
+      "wall street": {
+        "dominance": 2.74,
+        "event": 0.77,
+        "form": 0.91,
+        "novelty": 0.79,
+        "specificity": 0.0
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-20T15:26:45+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-21T14:39:42+00:00</lastBuildDate>
+    <item>
+      <title>None (2026-11-21)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-21/</link>
+      <guid isPermaLink="false">wotd-2026-11-21</guid>
+      <pubDate>2026-11-21</pubDate>
+      <description>Word of the day: None</description>
+    </item>
     <item>
       <title>Hy4-flash (2026-11-20)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-20/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-09-28</guid>
       <pubDate>2026-09-28</pubDate>
       <description>Holo4 trended today because H Company published a launch blog on Hugging Face announcing the model family&#39;s immediate availability on their API, releasing two model sizes plus Holotron4 Nano with open weights in multiple quantization formats and accompanying trajectory datasets. The announcement emphasizes production-ready computer-use agents rather than academic benchmarks, drawing attention from practitioners building automation workflows.</description>
-    </item>
-    <item>
-      <title>None (2026-09-27)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-27/</link>
-      <guid isPermaLink="false">wotd-2026-09-27</guid>
-      <pubDate>2026-09-27</pubDate>
-      <description>Word of the day: None</description>
     </item>
   </channel>
 </rss>
