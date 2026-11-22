@@ -1,0 +1,223 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 19.313255,
+      "term": "this email",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "conversations from",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "hamel",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "step 3",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "step 4",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "step 5",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 12.476649,
+      "term": "step 6",
+      "tf_today": 3
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "amazon did",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "and build evals",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--dd9059db"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 1,
+      "score": 6.591674,
+      "term": "before review",
+      "tf_today": 2
+    }
+  ],
+  "date": "2026-11-22",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 13719,
+    "model": "jev-1.14.0",
+    "pool_size": 29,
+    "signals": {
+      "amazon": {
+        "dominance": 1.05,
+        "event": 0.08,
+        "form": 0.91,
+        "novelty": 0.3,
+        "specificity": 0.94
+      },
+      "breaking prs": {
+        "dominance": 1.1,
+        "event": 0.05,
+        "form": 0.43,
+        "novelty": 0.29,
+        "specificity": 0.19
+      },
+      "build evals": {
+        "dominance": 1.4,
+        "event": 0.06,
+        "form": 0.35,
+        "novelty": 0.51,
+        "specificity": 1.9
+      },
+      "catch breaking prs": {
+        "dominance": 1.41,
+        "event": 0.09,
+        "form": 0.29,
+        "novelty": 0.68,
+        "specificity": 0.12
+      },
+      "decider": {
+        "dominance": 0.52,
+        "event": 0.08,
+        "form": 0.8,
+        "novelty": 0.53,
+        "specificity": 0.82
+      },
+      "decision model": {
+        "dominance": 2.59,
+        "event": 0.2,
+        "form": 0.93,
+        "novelty": 0.82,
+        "specificity": 1.33
+      },
+      "decision models": {
+        "dominance": 2.66,
+        "event": 0.22,
+        "form": 0.91,
+        "novelty": 0.8,
+        "specificity": 1.2
+      },
+      "here's": {
+        "dominance": 0.46,
+        "event": 0.23,
+        "form": 0.14,
+        "novelty": 0.13,
+        "specificity": 0.06
+      },
+      "implement": {
+        "dominance": 0.63,
+        "event": 0.11,
+        "form": 0.43,
+        "novelty": 0.12,
+        "specificity": 0.36
+      },
+      "label": {
+        "dominance": 0.25,
+        "event": 0.23,
+        "form": 0.59,
+        "novelty": 0.23,
+        "specificity": 1.49
+      },
+      "model": {
+        "dominance": 2.5,
+        "event": 0.33,
+        "form": 0.88,
+        "novelty": 0.21,
+        "specificity": 1.13
+      },
+      "model and build": {
+        "dominance": 1.58,
+        "event": 0.13,
+        "form": 0.08,
+        "novelty": 0.4,
+        "specificity": 0.85
+      },
+      "openai's decisions": {
+        "dominance": 0.77,
+        "event": 0.37,
+        "form": 0.51,
+        "novelty": 0.32,
+        "specificity": 0.56
+      },
+      "review": {
+        "dominance": 1.02,
+        "event": 0.07,
+        "form": 0.73,
+        "novelty": 0.46,
+        "specificity": 0.26
+      },
+      "step 3": {
+        "dominance": 0.97,
+        "event": 0.13,
+        "form": 0.27,
+        "novelty": 0.21,
+        "specificity": 0.21
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

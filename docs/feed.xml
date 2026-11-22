@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-21T14:39:42+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-22T14:33:38+00:00</lastBuildDate>
+    <item>
+      <title>None (2026-11-22)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-22/</link>
+      <guid isPermaLink="false">wotd-2026-11-22</guid>
+      <pubDate>2026-11-22</pubDate>
+      <description>Word of the day: None</description>
+    </item>
     <item>
       <title>None (2026-11-21)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-21/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-09-29</guid>
       <pubDate>2026-09-29</pubDate>
       <description>Claude Sonnet 5.5 trended because Anthropic published its official launch announcement today, revealing a 70.6% Terminal-Bench score — a 60-point leap over Sonnet 5 — alongside 30% speed and cost improvements. The release was immediately covered by technical newsletters like Code Newsletter and Latent Space, which highlighted its debugging strength and positioning against Opus 5.5.</description>
-    </item>
-    <item>
-      <title>Holo4 (2026-09-28)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-28/</link>
-      <guid isPermaLink="false">wotd-2026-09-28</guid>
-      <pubDate>2026-09-28</pubDate>
-      <description>Holo4 trended today because H Company published a launch blog on Hugging Face announcing the model family&#39;s immediate availability on their API, releasing two model sizes plus Holotron4 Nano with open weights in multiple quantization formats and accompanying trajectory datasets. The announcement emphasizes production-ready computer-use agents rather than academic benchmarks, drawing attention from practitioners building automation workflows.</description>
     </item>
   </channel>
 </rss>
