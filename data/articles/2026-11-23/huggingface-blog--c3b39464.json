@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--c3b39464",
+  "author": "Hugging Face Blog",
+  "content_chars": 48768,
+  "content_sha256": "a80add455acbfda0fa1841bd99b2f19a6b6d377e7eab834af7348ed5d222f9b2",
+  "content_tokens": 12192,
+  "fetched_at": "2026-11-23T18:00:27Z",
+  "kind": "article",
+  "published_at": "2026-11-23T00:00:00+00:00",
+  "snippet": "AI evaluations help shape which systems people build, adopt, and trust. An evaluation gives a system tasks, checks its answers or actions, and produces a score. Building and maintaining a useful evaluation therefore takes real work: defining tasks that reflect domain expertise…",
+  "source_id": "huggingface-blog",
+  "title": "How to build and maintain an agentic evaluation",
+  "top_terms": [
+    [
+      "task",
+      79
+    ],
+    [
+      "evaluation",
+      61
+    ],
+    [
+      "agent",
+      58
+    ],
+    [
+      "model",
+      57
+    ],
+    [
+      "tasks",
+      52
+    ],
+    [
+      "harness",
+      31
+    ],
+    [
+      "https",
+      30
+    ],
+    [
+      "run",
+      30
+    ],
+    [
+      "rollouts",
+      27
+    ],
+    [
+      "reference",
+      26
+    ],
+    [
+      "harbor",
+      25
+    ],
+    [
+      "results",
+      25
+    ],
+    [
+      "environment",
+      24
+    ],
+    [
+      "the agent",
+      24
+    ],
+    [
+      "figure",
+      23
+    ],
+    [
+      "rollout",
+      23
+    ],
+    [
+      "data",
+      22
+    ],
+    [
+      "test",
+      22
+    ],
+    [
+      "work",
+      22
+    ],
+    [
+      "benchmarks",
+      21
+    ]
+  ],
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "url_canonical": "https://huggingface.co/blog/agentic-evals",
+  "via_source_id": null
+}

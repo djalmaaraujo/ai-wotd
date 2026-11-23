@@ -1,0 +1,98 @@
+{
+  "article_id": "google-research--2c49d194",
+  "author": "Google Research Blog",
+  "content_chars": 8301,
+  "content_sha256": "20b1bb604da4d9ba45424ac491171c926a584264ecc89ca83375b32d0b69b412",
+  "content_tokens": 2075,
+  "fetched_at": "2026-11-23T18:03:14Z",
+  "kind": "article",
+  "published_at": "2026-11-23T17:21:12+00:00",
+  "snippet": "November 23, 2026 Kyriakos Axiotis, Staff Research Scientist, and Thomas Fu, Principal Engineer, Google Research We present DeepCrossAttention (DCA), an architecture that enhances transformer networks by using learnable weights and depth-wise cross-attention to dynamically…",
+  "source_id": "google-research",
+  "title": "Supercharging transformer residual connections",
+  "top_terms": [
+    [
+      "dca",
+      18
+    ],
+    [
+      "residual",
+      17
+    ],
+    [
+      "layers",
+      16
+    ],
+    [
+      "connections",
+      11
+    ],
+    [
+      "model",
+      11
+    ],
+    [
+      "information",
+      9
+    ],
+    [
+      "layer",
+      9
+    ],
+    [
+      "residual connections",
+      9
+    ],
+    [
+      "training",
+      9
+    ],
+    [
+      "standard",
+      7
+    ],
+    [
+      "models",
+      6
+    ],
+    [
+      "transformer",
+      6
+    ],
+    [
+      "dilution",
+      5
+    ],
+    [
+      "dynamically",
+      5
+    ],
+    [
+      "learning",
+      5
+    ],
+    [
+      "network",
+      5
+    ],
+    [
+      "across",
+      4
+    ],
+    [
+      "allowing",
+      4
+    ],
+    [
+      "attention",
+      4
+    ],
+    [
+      "dynamic",
+      4
+    ]
+  ],
+  "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+  "url_canonical": "https://research.google/blog/supercharging-transformer-residual-connections",
+  "via_source_id": null
+}

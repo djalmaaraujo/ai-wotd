@@ -1,0 +1,236 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "huggingface-blog--c3b39464",
+        "huggingface-blog--d10a7052"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 34.538776,
+      "term": "the score",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "aibreakfast--fa1f19b3",
+        "huggingface-blog--c3b39464"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 24.260151,
+      "term": "inference providers",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "huggingface-blog--c3b39464",
+        "huggingface-blog--d10a7052"
+      ],
+      "avg_tf_baseline": 10.9524,
+      "df_today": 2,
+      "score": 20.720575,
+      "term": "evaluation",
+      "tf_today": 65
+    },
+    {
+      "articles": [
+        "aibreakfast--fa1f19b3",
+        "codenewsletter--a476ef70",
+        "huggingface-blog--c3b39464",
+        "huggingface-blog--d10a7052"
+      ],
+      "avg_tf_baseline": 22.1364,
+      "df_today": 4,
+      "score": 19.954622,
+      "term": "task",
+      "tf_today": 85
+    },
+    {
+      "articles": [
+        "aibreakfast--fa1f19b3",
+        "huggingface-blog--c3b39464"
+      ],
+      "avg_tf_baseline": 3.1429,
+      "df_today": 2,
+      "score": 18.290383,
+      "term": "eight",
+      "tf_today": 22
+    },
+    {
+      "articles": [
+        "codenewsletter--a476ef70",
+        "huggingface-blog--d10a7052"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.931329,
+      "term": "shrinks",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "huggingface-blog--c3b39464",
+        "huggingface-blog--d10a7052"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 14.931329,
+      "term": "these tasks",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "aibreakfast--fa1f19b3",
+        "codenewsletter--a476ef70",
+        "huggingface-blog--c3b39464"
+      ],
+      "avg_tf_baseline": 33.48,
+      "df_today": 3,
+      "score": 12.666085,
+      "term": "agent",
+      "tf_today": 67
+    },
+    {
+      "articles": [
+        "huggingface-blog--c3b39464",
+        "huggingface-blog--d10a7052"
+      ],
+      "avg_tf_baseline": 5.8421,
+      "df_today": 2,
+      "score": 11.618588,
+      "term": "environment",
+      "tf_today": 25
+    },
+    {
+      "articles": [
+        "aibreakfast--fa1f19b3",
+        "huggingface-blog--c3b39464"
+      ],
+      "avg_tf_baseline": 5.9231,
+      "df_today": 2,
+      "score": 11.459755,
+      "term": "the agent",
+      "tf_today": 25
+    }
+  ],
+  "date": "2026-11-23",
+  "evidence_article_ids": [],
+  "judge": {
+    "input_tokens": 17826,
+    "model": "jev-1.14.0",
+    "pool_size": 37,
+    "signals": {
+      "agent": {
+        "dominance": 2.29,
+        "event": 0.8,
+        "form": 0.87,
+        "novelty": 0.45,
+        "specificity": 1.55
+      },
+      "agentic": {
+        "dominance": 2.22,
+        "event": 0.78,
+        "form": 0.58,
+        "novelty": 0.56,
+        "specificity": 1.68
+      },
+      "benchmark": {
+        "dominance": 1.01,
+        "event": 0.56,
+        "form": 0.88,
+        "novelty": 0.35,
+        "specificity": 1.79
+      },
+      "benchmarks": {
+        "dominance": 1.05,
+        "event": 0.55,
+        "form": 0.85,
+        "novelty": 0.28,
+        "specificity": 1.6
+      },
+      "ceo": {
+        "dominance": 1.78,
+        "event": 0.84,
+        "form": 0.71,
+        "novelty": 0.39,
+        "specificity": 0.01
+      },
+      "evaluation": {
+        "dominance": 1.92,
+        "event": 0.41,
+        "form": 0.9,
+        "novelty": 0.42,
+        "specificity": 1.64
+      },
+      "evaluations": {
+        "dominance": 1.91,
+        "event": 0.4,
+        "form": 0.83,
+        "novelty": 0.46,
+        "specificity": 1.47
+      },
+      "icml": {
+        "dominance": 1.06,
+        "event": 0.17,
+        "form": 0.77,
+        "novelty": 0.68,
+        "specificity": 1.94
+      },
+      "layers": {
+        "dominance": 1.46,
+        "event": 0.36,
+        "form": 0.62,
+        "novelty": 0.46,
+        "specificity": 1.71
+      },
+      "machines": {
+        "dominance": 1.74,
+        "event": 0.76,
+        "form": 0.79,
+        "novelty": 0.45,
+        "specificity": 0.87
+      },
+      "nvidia ceo": {
+        "dominance": 1.77,
+        "event": 0.87,
+        "form": 0.86,
+        "novelty": 0.56,
+        "specificity": 0.11
+      },
+      "point": {
+        "dominance": 1.66,
+        "event": 0.86,
+        "form": 0.84,
+        "novelty": 0.53,
+        "specificity": 1.66
+      },
+      "providers": {
+        "dominance": 1.28,
+        "event": 0.83,
+        "form": 0.66,
+        "novelty": 0.15,
+        "specificity": 0.61
+      },
+      "shrinks": {
+        "dominance": 1.84,
+        "event": 0.77,
+        "form": 0.24,
+        "novelty": 0.54,
+        "specificity": 0.08
+      },
+      "thinking machines": {
+        "dominance": 1.94,
+        "event": 0.77,
+        "form": 0.88,
+        "novelty": 0.74,
+        "specificity": 1.02
+      }
+    },
+    "status": "ok",
+    "survivors": []
+  },
+  "score": 0.0,
+  "status": "quiet_day",
+  "word": null
+}

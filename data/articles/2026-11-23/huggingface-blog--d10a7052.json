@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--d10a7052",
+  "author": "Hugging Face Blog",
+  "content_chars": 15149,
+  "content_sha256": "4e3589b7ebfbdcc3319f6d0e85f992d49ba3233fbe9e6fb2539941dcdd8a9c4b",
+  "content_tokens": 3787,
+  "fetched_at": "2026-11-23T18:00:27Z",
+  "kind": "article",
+  "published_at": "2026-11-23T17:20:37+00:00",
+  "snippet": "🤖 Models | 📄 Tech Report | 📊 Data | 💻 Code | 🌐 Project Page | 📈 Benchmark Deploying robots in real-world settings requires reliable perception throughout an interaction. To pick something up, a robot needs to follow the positions of its gripper and the object as they move. In a…",
+  "source_id": "huggingface-blog",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "top_terms": [
+    [
+      "robot",
+      23
+    ],
+    [
+      "point",
+      22
+    ],
+    [
+      "robotrack-bench",
+      22
+    ],
+    [
+      "manipulation",
+      18
+    ],
+    [
+      "tracking",
+      18
+    ],
+    [
+      "aj",
+      17
+    ],
+    [
+      "training",
+      17
+    ],
+    [
+      "points",
+      15
+    ],
+    [
+      "benchmarks",
+      14
+    ],
+    [
+      "data",
+      14
+    ],
+    [
+      "objects",
+      14
+    ],
+    [
+      "robotrack-15m",
+      13
+    ],
+    [
+      "video",
+      12
+    ],
+    [
+      "videos",
+      12
+    ],
+    [
+      "object",
+      11
+    ],
+    [
+      "real",
+      11
+    ],
+    [
+      "point tracking",
+      10
+    ],
+    [
+      "robotracker-warp",
+      10
+    ],
+    [
+      "the robot",
+      10
+    ],
+    [
+      "trackers",
+      10
+    ]
+  ],
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "url_canonical": "https://huggingface.co/blog/allenai/robotrack",
+  "via_source_id": null
+}
