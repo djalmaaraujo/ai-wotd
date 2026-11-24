@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--6066212d",
+  "author": null,
+  "content_chars": 11106,
+  "content_sha256": "f8736d6a9b033ec0a1cb7918e507ba0a6560db298b7415f9c8bf0de078191d4f",
+  "content_tokens": 2776,
+  "fetched_at": "2026-11-24T17:41:19Z",
+  "kind": "article",
+  "published_at": "2026-11-24T04:14:16+00:00",
+  "snippet": "Edited November 23, 2026. I've found more performance and I found a mistake in how I measured the first one. Here is what changed since November 21. - Correction. The long-prompt rows in the first chart were measured on prompts built from repetitive page snapshots and benchmark…",
+  "source_id": "latent-space",
+  "title": "Inkling 2 Mini, First Impressions - peaster",
+  "top_terms": [
+    [
+      "model",
+      17
+    ],
+    [
+      "first",
+      13
+    ],
+    [
+      "drafter",
+      12
+    ],
+    [
+      "port",
+      11
+    ],
+    [
+      "run",
+      11
+    ],
+    [
+      "token",
+      10
+    ],
+    [
+      "prompts",
+      9
+    ],
+    [
+      "cards",
+      8
+    ],
+    [
+      "effort",
+      8
+    ],
+    [
+      "low",
+      8
+    ],
+    [
+      "november",
+      8
+    ],
+    [
+      "two",
+      8
+    ],
+    [
+      "vllm",
+      8
+    ],
+    [
+      "default",
+      7
+    ],
+    [
+      "min",
+      7
+    ],
+    [
+      "reasoning",
+      7
+    ],
+    [
+      "the drafter",
+      7
+    ],
+    [
+      "the model",
+      7
+    ],
+    [
+      "chart",
+      6
+    ],
+    [
+      "layers",
+      6
+    ]
+  ],
+  "url": "https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions",
+  "url_canonical": "https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions",
+  "via_source_id": "latent-space"
+}

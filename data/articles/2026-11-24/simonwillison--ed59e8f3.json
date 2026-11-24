@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--ed59e8f3",
+  "author": "Simon Willison",
+  "content_chars": 777,
+  "content_sha256": "1cbac0cc404cd66b77bbe77bce7ed451c912236a70c42964e83a616e3ed6faa4",
+  "content_tokens": 194,
+  "fetched_at": "2026-11-24T17:41:08Z",
+  "kind": "article",
+  "published_at": "2026-11-24T04:24:29+00:00",
+  "snippet": "24th November 2026 I introduced this new charting plugin for Datasette yesterday. Today it's gained integration with Datasette Agent, so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo…",
+  "source_id": "simonwillison",
+  "title": "datasette-charts 0.2a0",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "datasette",
+      4
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th november",
+      4
+    ],
+    [
+      "th november 2026",
+      4
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "chart",
+      2
+    ],
+    [
+      "chat",
+      2
+    ],
+    [
+      "here's",
+      2
+    ],
+    [
+      "plugin",
+      2
+    ],
+    [
+      "video",
+      2
+    ],
+    [
+      "a0",
+      1
+    ],
+    [
+      "a0 24",
+      1
+    ],
+    [
+      "a0 24 th",
+      1
+    ],
+    [
+      "alpha",
+      1
+    ],
+    [
+      "alpha release",
+      1
+    ],
+    [
+      "and generation",
+      1
+    ],
+    [
+      "and generation tools",
+      1
+    ],
+    [
+      "and pyodide",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/24/datasette-charts",
+  "via_source_id": null
+}

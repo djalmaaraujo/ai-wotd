@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--10e44836",
+  "author": null,
+  "content_chars": 9696,
+  "content_sha256": "8695a76a7bbd33f2d0bf5e4cac2e695405af9cda8a55ddad3f415fe6a0509d33",
+  "content_tokens": 2424,
+  "fetched_at": "2026-11-24T17:41:22Z",
+  "kind": "article",
+  "published_at": "2026-11-24T04:14:16+00:00",
+  "snippet": "Thinking Machines' 26B looped MoE, all of it in 24 GB of VRAM. 126 to 128 tok/s plain decode, 182 to 207 tok/s through the HTTP server on new code and up to 212 tok/s on edits with the official DSpark drafter, 2,742 tok/s prefill, up to 344K context, images and tools. llama.cpp…",
+  "source_id": "latent-space",
+  "title": "GitHub - alesha-pro/maya-inkling-mini: Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM. · GitHub",
+  "top_terms": [
+    [
+      "tok",
+      20
+    ],
+    [
+      "gb",
+      16
+    ],
+    [
+      "drafter",
+      15
+    ],
+    [
+      "hip",
+      14
+    ],
+    [
+      "build",
+      12
+    ],
+    [
+      "engine",
+      12
+    ],
+    [
+      "gpu",
+      12
+    ],
+    [
+      "ik2",
+      12
+    ],
+    [
+      "cuda",
+      10
+    ],
+    [
+      "rtx",
+      10
+    ],
+    [
+      "token",
+      10
+    ],
+    [
+      "windows",
+      10
+    ],
+    [
+      "amd",
+      9
+    ],
+    [
+      "json",
+      9
+    ],
+    [
+      "parallel",
+      9
+    ],
+    [
+      "cache",
+      8
+    ],
+    [
+      "cmake",
+      8
+    ],
+    [
+      "context",
+      8
+    ],
+    [
+      "decode",
+      8
+    ],
+    [
+      "experts",
+      8
+    ]
+  ],
+  "url": "https://github.com/alesha-pro/maya-inkling-mini",
+  "url_canonical": "https://github.com/alesha-pro/maya-inkling-mini",
+  "via_source_id": "latent-space"
+}

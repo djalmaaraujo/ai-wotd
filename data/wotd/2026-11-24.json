@@ -1,0 +1,272 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--6bfbb080",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 138.214887,
+      "term": "qwen-image-2.1",
+      "tf_today": 32
+    },
+    {
+      "articles": [
+        "huggingface-blog--8389359d",
+        "latent-space--6bfbb080"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 95.430201,
+      "term": "cfg",
+      "tf_today": 24
+    },
+    {
+      "articles": [
+        "latent-space--6bfbb080",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 75.217613,
+      "term": "turbo",
+      "tf_today": 20
+    },
+    {
+      "articles": [
+        "latent-space--6bfbb080",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 46.833339,
+      "term": "turbo lora",
+      "tf_today": 14
+    },
+    {
+      "articles": [
+        "latent-space--6bfbb080",
+        "latent-space--a8266c7e"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.765496,
+      "term": "chatr",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "latent-space--3bc251ed",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 33.765496,
+      "term": "np",
+      "tf_today": 11
+    },
+    {
+      "articles": [
+        "codenewsletter--98c6a65b",
+        "latent-space--10e44836",
+        "latent-space--6066212d",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 4,
+      "score": 30.475391,
+      "term": "looped",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "latent-space--6bfbb080",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 29.621059,
+      "term": "convrot",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "latent-space--68805092",
+        "latent-space--ba65363f"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 25.599328,
+      "term": "personal intelligence",
+      "tf_today": 9
+    },
+    {
+      "articles": [
+        "simonwillison--8fcfb3b0",
+        "simonwillison--ed59e8f3",
+        "simonwillison--ef1ac589"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 23.781725,
+      "term": "datasette",
+      "tf_today": 8
+    }
+  ],
+  "date": "2026-11-24",
+  "evidence_article_ids": [
+    "latent-space--10e44836",
+    "latent-space--6066212d",
+    "latent-space--ba65363f"
+  ],
+  "judge": {
+    "input_tokens": 29804,
+    "model": "jev-1.14.0",
+    "pool_size": 60,
+    "signals": {
+      "board director": {
+        "dominance": 2.7,
+        "event": 0.89,
+        "form": 0.86,
+        "novelty": 0.69,
+        "specificity": 0.0
+      },
+      "board reinstates jensen huang": {
+        "dominance": 2.72,
+        "event": 0.94,
+        "form": 0.62,
+        "novelty": 0.76,
+        "specificity": 0.11
+      },
+      "ceo": {
+        "dominance": 2.81,
+        "event": 0.94,
+        "form": 0.69,
+        "novelty": 0.37,
+        "specificity": 0.01
+      },
+      "datasette": {
+        "dominance": 2.19,
+        "event": 0.96,
+        "form": 0.89,
+        "novelty": 0.77,
+        "specificity": 1.42
+      },
+      "director": {
+        "dominance": 2.42,
+        "event": 0.74,
+        "form": 0.69,
+        "novelty": 0.65,
+        "specificity": 0.04
+      },
+      "gpt 6.2 astra solves": {
+        "dominance": 1.96,
+        "event": 0.68,
+        "form": 0.63,
+        "novelty": 0.77,
+        "specificity": 1.83
+      },
+      "historical mystery": {
+        "dominance": 1.93,
+        "event": 0.63,
+        "form": 0.92,
+        "novelty": 0.8,
+        "specificity": 0.03
+      },
+      "inkling 2 mini": {
+        "dominance": 2.53,
+        "event": 0.89,
+        "form": 0.91,
+        "novelty": 0.82,
+        "specificity": 2.0
+      },
+      "jensen": {
+        "dominance": 2.85,
+        "event": 0.96,
+        "form": 0.88,
+        "novelty": 0.66,
+        "specificity": 0.24
+      },
+      "looped": {
+        "dominance": 2.7,
+        "event": 0.92,
+        "form": 0.51,
+        "novelty": 0.84,
+        "specificity": 1.9
+      },
+      "maya-inkling-mini": {
+        "dominance": 2.26,
+        "event": 0.89,
+        "form": 0.6,
+        "novelty": 0.69,
+        "specificity": 1.99
+      },
+      "mini": {
+        "dominance": 2.45,
+        "event": 0.84,
+        "form": 0.69,
+        "novelty": 0.71,
+        "specificity": 1.55
+      },
+      "model": {
+        "dominance": 2.74,
+        "event": 0.95,
+        "form": 0.8,
+        "novelty": 0.36,
+        "specificity": 1.24
+      },
+      "president": {
+        "dominance": 2.37,
+        "event": 0.77,
+        "form": 0.82,
+        "novelty": 0.64,
+        "specificity": 0.05
+      },
+      "project maya": {
+        "dominance": 1.73,
+        "event": 0.75,
+        "form": 0.83,
+        "novelty": 0.74,
+        "specificity": 1.9
+      },
+      "qwen3.5 27": {
+        "dominance": 1.88,
+        "event": 0.93,
+        "form": 0.71,
+        "novelty": 0.71,
+        "specificity": 2.0
+      },
+      "rtx 3090": {
+        "dominance": 1.55,
+        "event": 0.65,
+        "form": 0.88,
+        "novelty": 0.73,
+        "specificity": 1.99
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "inkling 2 mini",
+      "project maya",
+      "rtx 3090"
+    ]
+  },
+  "label": "Inkling 2 Mini",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://github.com/alesha-pro/maya-inkling-mini",
+        "https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions",
+        "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/"
+      ],
+      "text": "Inkling 2 Mini is a 26-billion-parameter looped mixture-of-experts (MoE) language model developed by Thinking Machines. It uses a recurrent 'looped' architecture where a single set of expert layers is applied iteratively, enabling high parameter efficiency. The model is notable for its deployment via the Project Maya (maya-ik2) engine, which quantizes and batches experts to fit entirely in 24 GB VRAM on an RTX 3090, achieving 128 tokens/second decode with 344K context, image understanding, and tool use. It demonstrates that large MoE models can run locally on consumer hardware without model splitting."
+    },
+    "generated_at": "2026-11-24T17:43:31.178799+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Thinking Machines' Inkling 2 Mini, a 26B-parameter looped mixture-of-experts model, dominated local-LLM discussions today after a Project Maya port demonstrated 128 token/s decode and 344K context on a single RTX 3090. The maya-inkling-mini GitHub release shows the full model fitting in 24 GB VRAM, with an 8 GB GPU path at 41 token/s, continuous batching, and tool/image support via the maya-ik2 engine. Benchmarks from peaster.io corrected earlier drafter-inflated numbers but confirmed strong prose throughput. Meanwhile, Latent Space's AINews noted Z.ai's new GLM 5.4 looped transformer follows Inkling Mini 2's architecture, and highlighted Nvidia CEO Jensen Huang's surprise return. Other trending terms today include qwen-image-2.1 (Alibaba's latest image generator), cfg (classifier-free guidance in diffusion), turbo (fast LoRA fine-tuning), and chatr (a conversational model).",
+    "why": "Inkling 2 Mini trended because the Project Maya community released a highly optimized inference stack (maya-inkling-mini) that runs the 26B looped MoE entirely on a single consumer RTX 3090 at 128 tok/s, and Latent Space's AINews positioned it as the architectural precursor to Z.ai's newly announced GLM 5.4 looped transformer."
+  },
+  "score": 10.221789,
+  "word": "inkling 2 mini"
+}

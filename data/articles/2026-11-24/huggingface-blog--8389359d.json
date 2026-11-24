@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--8389359d",
+  "author": "Hugging Face Blog",
+  "content_chars": 11111,
+  "content_sha256": "099d6d7515a08ffce2284aa9d75005978c31560d80b6e124bd80c6fe02a57dfb",
+  "content_tokens": 2777,
+  "fetched_at": "2026-11-24T17:38:20Z",
+  "kind": "article",
+  "published_at": "2026-11-24T16:34:13+00:00",
+  "snippet": "Add local obstacle avoidance to Microduck while keeping its walking policy fixed. Build varied courses with reusable SimReady assets, model ToF sensing with Newton’s raycaster, and train a controller in Isaac Lab to adjust gamepad velocity commands around obstacles. This…",
+  "source_id": "huggingface-blog",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "top_terms": [
+    [
+      "policy",
+      26
+    ],
+    [
+      "microduck",
+      24
+    ],
+    [
+      "tof",
+      15
+    ],
+    [
+      "walking",
+      15
+    ],
+    [
+      "obstacle",
+      13
+    ],
+    [
+      "robot",
+      13
+    ],
+    [
+      "task",
+      13
+    ],
+    [
+      "navigation",
+      12
+    ],
+    [
+      "training",
+      12
+    ],
+    [
+      "isaac",
+      11
+    ],
+    [
+      "sensor",
+      11
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "newton",
+      10
+    ],
+    [
+      "run",
+      10
+    ],
+    [
+      "avoidance",
+      9
+    ],
+    [
+      "commands",
+      9
+    ],
+    [
+      "isaac lab",
+      9
+    ],
+    [
+      "isaaclab",
+      9
+    ],
+    [
+      "lab",
+      9
+    ],
+    [
+      "rl",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "url_canonical": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "via_source_id": null
+}

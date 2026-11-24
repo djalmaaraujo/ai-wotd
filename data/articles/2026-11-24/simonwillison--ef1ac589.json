@@ -1,0 +1,98 @@
+{
+  "article_id": "simonwillison--ef1ac589",
+  "author": "Simon Willison",
+  "content_chars": 803,
+  "content_sha256": "7330de5af6ca5b95235ac13349670a3324223508c02948a1f0397c2ea1adc916",
+  "content_tokens": 200,
+  "fetched_at": "2026-11-24T17:41:08Z",
+  "kind": "article",
+  "published_at": "2026-11-24T03:45:57+00:00",
+  "snippet": "24th November 2026 A small improvement to Datasette Agent: chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update…",
+  "source_id": "simonwillison",
+  "title": "datasette-agent 0.7a1",
+  "top_terms": [
+    [
+      "november",
+      5
+    ],
+    [
+      "november 2026",
+      5
+    ],
+    [
+      "th",
+      4
+    ],
+    [
+      "th november",
+      4
+    ],
+    [
+      "th november 2026",
+      4
+    ],
+    [
+      "datasette",
+      3
+    ],
+    [
+      "fragment",
+      2
+    ],
+    [
+      "fragment hashes",
+      2
+    ],
+    [
+      "hashes",
+      2
+    ],
+    [
+      "release",
+      2
+    ],
+    [
+      "a0",
+      1
+    ],
+    [
+      "a0 release",
+      1
+    ],
+    [
+      "a1",
+      1
+    ],
+    [
+      "a1 24",
+      1
+    ],
+    [
+      "a1 24 th",
+      1
+    ],
+    [
+      "agent",
+      1
+    ],
+    [
+      "alpha",
+      1
+    ],
+    [
+      "alpha release",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "already open",
+      1
+    ]
+  ],
+  "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+  "url_canonical": "https://simonwillison.net/2026/Nov/24/datasette-agent",
+  "via_source_id": null
+}

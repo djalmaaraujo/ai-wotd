@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--6bfbb080",
+  "author": null,
+  "content_chars": 15572,
+  "content_sha256": "d81ffb25964caa0b5a43fe638dbf2f1ba66ad6cf6a31aca47d132aa48b6e427d",
+  "content_tokens": 3893,
+  "fetched_at": "2026-11-24T17:41:23Z",
+  "kind": "article",
+  "published_at": "2026-11-24T04:14:16+00:00",
+  "snippet": "A special thank-you to Chatr AI. Training models requires significant computing resources, and Chatr AI generously provided the GPU infrastructure that made this release possible. If you would like to help us release more open-weight models, please support Chatr AI—their support…",
+  "source_id": "latent-space",
+  "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized · Hugging Face",
+  "top_terms": [
+    [
+      "qwen-image-2.1",
+      31
+    ],
+    [
+      "comfyui",
+      27
+    ],
+    [
+      "diffusers",
+      25
+    ],
+    [
+      "cfg",
+      22
+    ],
+    [
+      "gguf",
+      22
+    ],
+    [
+      "steps",
+      22
+    ],
+    [
+      "bf16",
+      20
+    ],
+    [
+      "gb",
+      20
+    ],
+    [
+      "image",
+      19
+    ],
+    [
+      "prompt",
+      19
+    ],
+    [
+      "lora",
+      18
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "safetensors",
+      16
+    ],
+    [
+      "torch",
+      16
+    ],
+    [
+      "transformer",
+      16
+    ],
+    [
+      "turbo",
+      16
+    ],
+    [
+      "step",
+      14
+    ],
+    [
+      "int8",
+      13
+    ],
+    [
+      "qwen",
+      13
+    ],
+    [
+      "editing",
+      12
+    ]
+  ],
+  "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+  "url_canonical": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+  "via_source_id": "latent-space"
+}

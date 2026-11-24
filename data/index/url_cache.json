@@ -2718,9 +2718,18 @@
     "article_id": "ai-snake-oil--dd8c83c1",
     "first_seen_date": "2026-09-23"
   },
+  "https://arena.ai/": {
+    "article_id": "latent-space--9f639658",
+    "first_seen_date": "2026-11-24"
+  },
   "https://arena.ai/blog/ai-evaluations": {
     "article_id": "interconnects--2984d35c",
     "first_seen_date": "2026-10-29"
+  },
+  "https://arena.ai/leaderboard/chat/text": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
   },
   "https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027": {
     "article_id": "ai-snake-oil--699252dc",
@@ -3678,6 +3687,10 @@
   "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash": {
     "article_id": "latent-space--6c2406a6",
     "first_seen_date": "2026-11-07"
+  },
+  "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps": {
+    "article_id": "latent-space--68805092",
+    "first_seen_date": "2026-11-24"
   },
   "https://blog.google/products/search/search-language-understanding-bert": {
     "article_id": "nlp-newsletter--39b8ff87",
@@ -4887,6 +4900,10 @@
     "article_id": "codenewsletter--62003e07",
     "first_seen_date": "2026-09-26"
   },
+  "https://codenewsletter.ai/p/z-ai-s-looped-model-thinks-deeper-with-fewer-tokens": {
+    "article_id": "codenewsletter--98c6a65b",
+    "first_seen_date": "2026-11-24"
+  },
   "https://codenewsletter.ai/p/z-ai-ships-glm-5-2-microsoft-shifts-copilot-cowork-to-usage-based-pricing": {
     "article_id": "codenewsletter--a5e2fa55",
     "first_seen_date": "2026-06-18"
@@ -5049,6 +5066,10 @@
     "article_id": null,
     "first_seen_date": "2026-04-13",
     "status": "fetch_failed"
+  },
+  "https://davidmaister.com/books.samplechapters/ta": {
+    "article_id": "ai-snake-oil--b5cf7c7e",
+    "first_seen_date": "2026-11-24"
   },
   "https://deadline.com/2026/04/snap-layoffs-ceo-evan-spiegel-ai-1236861335": {
     "article_id": "ai-snake-oil--1428fc56",
@@ -5697,6 +5718,11 @@
     "article_id": "one-useful-thing--1a624cab",
     "first_seen_date": "2026-04-13"
   },
+  "https://doi.org/10.1177/1350508409338435": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
   "https://doomers.ai/work/typesafe-ai-case-study": {
     "article_id": "latent-space--26249364",
     "first_seen_date": "2026-10-10"
@@ -6290,6 +6316,10 @@
     "article_id": "nlp-newsletter--a787b2f8",
     "first_seen_date": "2026-09-23"
   },
+  "https://github.com/alesha-pro/maya-inkling-mini": {
+    "article_id": "latent-space--10e44836",
+    "first_seen_date": "2026-11-24"
+  },
   "https://github.com/anomalyco/opencode/releases/tag/v1.19.4": {
     "article_id": "latent-space--14027e6c",
     "first_seen_date": "2026-10-28"
@@ -6478,6 +6508,10 @@
   "https://github.com/jesdga95/basalt": {
     "article_id": "latent-space--9902a9f8",
     "first_seen_date": "2026-11-17"
+  },
+  "https://github.com/jonpojonpo/llama.cpp/tree/inkling-relfa": {
+    "article_id": "latent-space--54c121d2",
+    "first_seen_date": "2026-11-24"
   },
   "https://github.com/joonspk-research/generative_agents": {
     "article_id": "nlp-newsletter--1ab9613a",
@@ -6794,6 +6828,10 @@
   "https://hal.cs.princeton.edu/reliability": {
     "article_id": "ai-snake-oil--18b2e0fe",
     "first_seen_date": "2026-09-23"
+  },
+  "https://hbr.org/1982/09/consulting-is-more-than-giving-advice": {
+    "article_id": "ai-snake-oil--7ed49cc1",
+    "first_seen_date": "2026-11-24"
   },
   "https://hbr.org/2026/01/companies-are-laying-off-workers-because-of-ais-potential-not-its-performance": {
     "article_id": "ai-snake-oil--906d8f50",
@@ -9606,6 +9644,10 @@
     "article_id": "huggingface-blog--05a95ed2",
     "first_seen_date": "2026-08-11"
   },
+  "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
+    "article_id": "huggingface-blog--8389359d",
+    "first_seen_date": "2026-11-24"
+  },
   "https://huggingface.co/blog/nvidia/multi-llm-nim": {
     "article_id": "huggingface-blog--02fbe9fa",
     "first_seen_date": "2026-04-29"
@@ -10990,6 +11032,10 @@
     "article_id": "latent-space--e752e529",
     "first_seen_date": "2026-11-07"
   },
+  "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized": {
+    "article_id": "latent-space--6bfbb080",
+    "first_seen_date": "2026-11-24"
+  },
   "https://huggingface.co/collections/LiquidAI/lfm3": {
     "article_id": "latent-space--c77f7aac",
     "first_seen_date": "2026-10-29"
@@ -11435,6 +11481,10 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx": {
+    "article_id": "latent-space--20ec3f36",
+    "first_seen_date": "2026-11-24"
+  },
   "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open": {
     "article_id": null,
     "first_seen_date": "2026-11-19",
@@ -11488,6 +11538,16 @@
   "https://joschu.net/": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
+    "status": "fetch_failed"
+  },
+  "https://journals.sagepub.com/doi/10.1177/0170840607082221": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
+  "https://journals.sagepub.com/doi/10.1177/1350508409338435": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
     "status": "fetch_failed"
   },
   "https://jspaint.app/": {
@@ -11694,6 +11754,10 @@
   "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia": {
     "article_id": "latent-space--bde1fa4c",
     "first_seen_date": "2026-11-13"
+  },
+  "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft": {
+    "article_id": "latent-space--ba65363f",
+    "first_seen_date": "2026-11-24"
   },
   "https://latent.space/p/ainews-kimi-31": {
     "article_id": "latent-space--cbab01df",
@@ -12034,6 +12098,10 @@
     "article_id": "latent-space--9db6f180",
     "first_seen_date": "2026-10-08"
   },
+  "https://messyjobs.ai/": {
+    "article_id": "ai-snake-oil--db6472c8",
+    "first_seen_date": "2026-11-24"
+  },
   "https://metr.org/": {
     "article_id": "one-useful-thing--ac9a2c3b",
     "first_seen_date": "2026-04-13"
@@ -12197,6 +12265,10 @@
     "article_id": "latent-space--c3c07e4b",
     "first_seen_date": "2026-11-01"
   },
+  "https://news.microsoft.com/source/2019/02/04/new-accenture-microsoft-business-group-will-empower-enterprises-to-thrive-in-the-era-of-digital-disruption": {
+    "article_id": "ai-snake-oil--9b6a03c5",
+    "first_seen_date": "2026-11-24"
+  },
   "https://news.smol.ai/": {
     "article_id": "latent-space--87805e1c",
     "first_seen_date": "2026-09-23"
@@ -12355,6 +12427,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-jensen-huang-resigns-after-33-years-leading-nvidia%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-13",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-kimi-31%2F": {
@@ -12569,6 +12646,10 @@
   "https://newsletter.ruder.io/p/true-zero-shot-mt": {
     "article_id": "nlp-newsletter--e75cc0ef",
     "first_seen_date": "2026-09-23"
+  },
+  "https://newsroom.accenture.com/news/2015/accenture-and-amazon-web-services-create-new-business-group-to-help-enterprises-migrate-to-and-run-their-business-in-the-aws-cloud": {
+    "article_id": "ai-snake-oil--3f0ed59c",
+    "first_seen_date": "2026-11-24"
   },
   "https://nips.cc/": {
     "article_id": "nlp-newsletter--a8f5d283",
@@ -12837,6 +12918,10 @@
     "article_id": "openai-blog--aeb4ae51",
     "first_seen_date": "2026-11-17"
   },
+  "https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+    "article_id": "openai-blog--7769d052",
+    "first_seen_date": "2026-11-24"
+  },
   "https://openai.com/business/customer-stories/shield": {
     "article_id": "openai-blog--e65180cf",
     "first_seen_date": "2026-11-14"
@@ -12852,6 +12937,10 @@
   "https://openai.com/business/learn/codex-security-plugin-demo": {
     "article_id": "openai-blog--9ff36048",
     "first_seen_date": "2026-11-20"
+  },
+  "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+    "article_id": "openai-blog--5b0f79df",
+    "first_seen_date": "2026-11-24"
   },
   "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
     "article_id": "openai-blog--cd909243",
@@ -13844,6 +13933,10 @@
   "https://openai.com/index/introducing-openai-safety-fellowship": {
     "article_id": "openai-blog--e798ab23",
     "first_seen_date": "2026-04-13"
+  },
+  "https://openai.com/index/introducing-shirudo": {
+    "article_id": "openai-blog--e745d123",
+    "first_seen_date": "2026-11-24"
   },
   "https://openai.com/index/introducing-the-agents-api": {
     "article_id": "openai-blog--a20aa9cd",
@@ -14914,6 +15007,14 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions": {
+    "article_id": "latent-space--6066212d",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://pequalnp.com/": {
+    "article_id": "latent-space--3bc251ed",
+    "first_seen_date": "2026-11-24"
+  },
   "https://periodic.com/": {
     "article_id": "latent-space--2bf5c91d",
     "first_seen_date": "2026-10-09"
@@ -14998,6 +15099,16 @@
   "https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000443": {
     "article_id": "one-useful-thing--159c09dc",
     "first_seen_date": "2026-04-13"
+  },
+  "https://pubsonline.informs.org/doi/10.1287/stsc.2025.0444": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
+  "https://pubsonline.informs.org/doi/abs/10.1287/orsc.3.1.1": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
   },
   "https://pulse2.com/moonshot-ai-launches-kimi-k3-for-advanced-reasoning-coding-and-knowledge-work": {
     "article_id": "last-week-in-ai--868b725a",
@@ -15293,6 +15404,10 @@
   "https://ruder.io/nlp-benchmarking": {
     "article_id": "nlp-newsletter--c3e2c3c5",
     "first_seen_date": "2026-09-23"
+  },
+  "https://runtimewire.com/article/a-27b-model-rewrote-its-own-weights-and-gained-6-6-points-on-unseen-math": {
+    "article_id": "latent-space--33450d7d",
+    "first_seen_date": "2026-11-24"
   },
   "https://runtimewire.com/article/gpt-6-astra-edits-qwen-weights-weight-space-programming": {
     "article_id": "latent-space--2f0508bc",
@@ -15643,6 +15758,30 @@
   "https://simonwillison.net/2026/Nov/22/select-styling": {
     "article_id": "simonwillison--8c4c074b",
     "first_seen_date": "2026-11-23"
+  },
+  "https://simonwillison.net/2026/Nov/23/datasette-charts": {
+    "article_id": "simonwillison--86d2fbd4",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://simonwillison.net/2026/Nov/23/glm-54": {
+    "article_id": "simonwillison--750fa945",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://simonwillison.net/2026/Nov/23/ladybird": {
+    "article_id": "simonwillison--888382c8",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://simonwillison.net/2026/Nov/24/astra-historical-mystery": {
+    "article_id": "simonwillison--8fcfb3b0",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://simonwillison.net/2026/Nov/24/datasette-agent": {
+    "article_id": "simonwillison--ef1ac589",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://simonwillison.net/2026/Nov/24/datasette-charts": {
+    "article_id": "simonwillison--ed59e8f3",
+    "first_seen_date": "2026-11-24"
   },
   "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": {
     "article_id": "simonwillison--c23da0ab",
@@ -16515,6 +16654,10 @@
     "article_id": "last-week-in-ai--2050cc84",
     "first_seen_date": "2026-09-23"
   },
+  "https://thechatr.ai/playground": {
+    "article_id": "latent-space--a8266c7e",
+    "first_seen_date": "2026-11-24"
+  },
   "https://theconversation.com/military-force-may-have-delayed-irans-nuclear-ambitions-but-history-shows-that-diplomacy-is-the-more-effective-nonproliferation-strategy-259769": {
     "article_id": "ai-snake-oil--ad392bc1",
     "first_seen_date": "2026-09-23"
@@ -17098,6 +17241,11 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://www.axios.com/2025/08/10/ai-trump-deloitte-accenture-consulting": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
   "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks": {
     "article_id": null,
     "first_seen_date": "2026-09-23",
@@ -17241,13 +17389,32 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://www.bloomberg.com/opinion/newsletters/2026-11-23/jensen-s-candor-is-satisfactory-now?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQ3NDYxNSwiZXhwIjoxNzk2MDc5NDE1LCJhcnRpY2xlSWQiOiJUT1lWVEtSMjRVODkwMCIsImJjb25uZWN0SWQiOiI5MjgxRkY1M0M2N0Q0Qzg5QUQxNUQyMDNGMjlEOEEyRiJ9.xJ5NMXrrwB70YTBP2MCG1blRaX5XHxD7S0fAVzCB7Vw": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
+  "https://www.broadcom.com/products/pcie-switches-bridges/pcie-switches": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
   "https://www.businessinsider.com/agi-predictions-sam-altman-dario-amodei-geoffrey-hinton-demis-hassabis-2024-11": {
     "article_id": "ai-snake-oil--e0c16cde",
     "first_seen_date": "2026-09-23"
   },
+  "https://www.businessinsider.com/ai-agents-failed-consulting-tasks-mercor-ceo-improving-replace-consultants-2026-2": {
+    "article_id": "ai-snake-oil--775dfd5b",
+    "first_seen_date": "2026-11-24"
+  },
   "https://www.businessinsider.com/ai-agents-study-company-run-by-ai-disaster-replace-jobs-2025-4": {
     "article_id": "ai-snake-oil--cf41f430",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.businessinsider.com/ai-reshapes-how-mckinsey-makes-money-consultancy-2025-11": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
   },
   "https://www.businessinsider.com/josh-hawley-banning-self-driving-cars-2025-9": {
     "article_id": "ai-snake-oil--7abed26d",
@@ -17698,6 +17865,10 @@
     "first_seen_date": "2026-09-23",
     "status": "fetch_failed"
   },
+  "https://www.googlecloudpresscorner.com/2019-11-20-Google-Cloud-and-Deloitte-Launch-Cloud-Solutions-and-Services-Focused-on-Solving-a-Variety-of-Complex,-Cross-Industry-Problems": {
+    "article_id": "ai-snake-oil--7b397f19",
+    "first_seen_date": "2026-11-24"
+  },
   "https://www.gpmb.org/reports/annual-report-2019": {
     "article_id": "ai-snake-oil--99349185",
     "first_seen_date": "2026-10-02"
@@ -17891,6 +18062,11 @@
   "https://www.jmlr.org/history.html": {
     "article_id": "nlp-newsletter--37d5a0d2",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.journals.uchicago.edu/doi/10.1086/466756": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
   },
   "https://www.jstor.org/stable/2006600": {
     "article_id": "ai-snake-oil--18861a62",
@@ -18286,6 +18462,10 @@
     "article_id": "latent-space--c63b3717",
     "first_seen_date": "2026-10-30"
   },
+  "https://www.mercor.com/apex/apex-agents-leaderboard/management-consultant-agent": {
+    "article_id": "ai-snake-oil--e748b5d1",
+    "first_seen_date": "2026-11-24"
+  },
   "https://www.mercor.com/blog/update-on-mercor-security-incident": {
     "article_id": "latent-space--244d0d5b",
     "first_seen_date": "2026-11-11"
@@ -18298,6 +18478,10 @@
     "article_id": null,
     "first_seen_date": "2026-09-28",
     "status": "fetch_failed"
+  },
+  "https://www.metaculus.com/notebooks/45373/spring-2026-futureeval-analysis": {
+    "article_id": "ai-snake-oil--f1b887bb",
+    "first_seen_date": "2026-11-24"
   },
   "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses": {
     "article_id": "microsoft-research--b3a0d30f",
@@ -18536,6 +18720,10 @@
   "https://www.normaltech.ai/p/fact-checking-moravecs-paradox": {
     "article_id": "ai-snake-oil--321247ab",
     "first_seen_date": "2026-09-23"
+  },
+  "https://www.normaltech.ai/p/management-consulting-is-not-a-thin": {
+    "article_id": "ai-snake-oil--0f81ecf7",
+    "first_seen_date": "2026-11-24"
   },
   "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent": {
     "article_id": "ai-snake-oil--0d651bb4",
@@ -19559,6 +19747,11 @@
     "first_seen_date": "2026-11-13",
     "status": "fetch_failed"
   },
+  "https://www.sec.gov/Archives/edgar/data/1113247/000095013700004232/c54867a3s-1a.htm": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
+  },
   "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": {
     "article_id": null,
     "first_seen_date": "2026-10-27",
@@ -19571,6 +19764,11 @@
   "https://www.sglang.io/summit": {
     "article_id": "latent-space--1bbb7ce6",
     "first_seen_date": "2026-11-14"
+  },
+  "https://www.simonandschuster.biz/books/Managing-The-Professional-Service-Firm/David-H-Maister/9781416586364": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
+    "status": "fetch_failed"
   },
   "https://www.skild.ai/blogs/building-the-general-purpose-robotic-brain": {
     "article_id": "latent-space--cbd02c27",
@@ -19856,6 +20054,14 @@
     "article_id": "mit-tech-review-ai--55d3145b",
     "first_seen_date": "2026-11-21"
   },
+  "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument": {
+    "article_id": "mit-tech-review-ai--c6fde240",
+    "first_seen_date": "2026-11-24"
+  },
+  "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization": {
+    "article_id": "mit-tech-review-ai--ae13cec2",
+    "first_seen_date": "2026-11-24"
+  },
   "https://www.techpolicy.press/america-needs-better-ai-ambitions": {
     "article_id": "ai-snake-oil--cca6c101",
     "first_seen_date": "2026-11-11"
@@ -19898,6 +20104,10 @@
   "https://www.theatlantic.com/technology/archive/2025/06/ai-obituaries-chatgpt/683096": {
     "article_id": "one-useful-thing--c96dc0d9",
     "first_seen_date": "2026-04-13"
+  },
+  "https://www.thefp.com/p/the-consulting-crash-is-coming": {
+    "article_id": "ai-snake-oil--be946dc5",
+    "first_seen_date": "2026-11-24"
   },
   "https://www.theguardian.com/technology/2024/mar/08/we-definitely-messed-up-why-did-google-ai-tool-make-offensive-historical-images": {
     "article_id": "ai-snake-oil--4d8f9c11",
@@ -31269,6 +31479,11 @@
   "https://z.ai/blog/glm-5.3-flash": {
     "article_id": null,
     "first_seen_date": "2026-11-11",
+    "status": "fetch_failed"
+  },
+  "https://z.ai/blog/glm-5.4": {
+    "article_id": null,
+    "first_seen_date": "2026-11-24",
     "status": "fetch_failed"
   },
   "https://zhuanlan.zhihu.com/p/2095560295930508953": {

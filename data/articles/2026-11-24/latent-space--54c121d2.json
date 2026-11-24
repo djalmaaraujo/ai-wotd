@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--54c121d2",
+  "author": null,
+  "content_chars": 1965,
+  "content_sha256": "406d333769d31345a7521374d4ea62f43346f86310c31f8dece65a17e813d731",
+  "content_tokens": 491,
+  "fetched_at": "2026-11-24T17:41:21Z",
+  "kind": "article",
+  "published_at": "2026-11-24T04:14:16+00:00",
+  "snippet": "LLM inference in C/C++ v1.0.0 / ggml / ops / maintainer PRs / dev stats / lib llama API / llama-server REST API The main goal of llama.cpp is to enable LLM (and MLLM) inference with minimal setup and state-of-the-art performance on a wide range of hardware - locally and in the…",
+  "source_id": "latent-space",
+  "title": "GitHub - jonpojonpo/llama.cpp at inkling-relfa · GitHub",
+  "top_terms": [
+    [
+      "llama",
+      14
+    ],
+    [
+      "cpp",
+      5
+    ],
+    [
+      "single-header",
+      5
+    ],
+    [
+      "app",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "prs",
+      4
+    ],
+    [
+      "api",
+      3
+    ],
+    [
+      "docker",
+      3
+    ],
+    [
+      "domain",
+      3
+    ],
+    [
+      "ggml",
+      3
+    ],
+    [
+      "https",
+      3
+    ],
+    [
+      "public",
+      3
+    ],
+    [
+      "public domain",
+      3
+    ],
+    [
+      "b-gguf",
+      2
+    ],
+    [
+      "by multimodal",
+      2
+    ],
+    [
+      "by multimodal subsystem",
+      2
+    ],
+    [
+      "chat",
+      2
+    ],
+    [
+      "cli",
+      2
+    ],
+    [
+      "curl",
+      2
+    ],
+    [
+      "decoder",
+      2
+    ]
+  ],
+  "url": "https://github.com/jonpojonpo/llama.cpp/tree/inkling-relfa",
+  "url_canonical": "https://github.com/jonpojonpo/llama.cpp/tree/inkling-relfa",
+  "via_source_id": "latent-space"
+}

@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-23T18:03:24+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-24T17:43:34+00:00</lastBuildDate>
+    <item>
+      <title>Inkling 2 Mini (2026-11-24)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-24/</link>
+      <guid isPermaLink="false">wotd-2026-11-24</guid>
+      <pubDate>2026-11-24</pubDate>
+      <description>Inkling 2 Mini trended because the Project Maya community released a highly optimized inference stack (maya-inkling-mini) that runs the 26B looped MoE entirely on a single consumer RTX 3090 at 128 tok/s, and Latent Space&#39;s AINews positioned it as the architectural precursor to Z.ai&#39;s newly announced GLM 5.4 looped transformer.</description>
+    </item>
     <item>
       <title>None (2026-11-23)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-23/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-10-01</guid>
       <pubDate>2026-10-01</pubDate>
       <description>Gemini 4 Argon trended because Google officially announced the model today via its blog and the Latent Space newsletter, revealing benchmark-leading performance, a 1M-token output capability, and a gated rollout to cybersecurity defenders through the Fairwind Program — all framed as Google DeepMind&#39;s answer to competing frontier models from rivals.</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol (2026-09-30)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-09-30/</link>
-      <guid isPermaLink="false">wotd-2026-09-30</guid>
-      <pubDate>2026-09-30</pubDate>
-      <description>GPT-6.1 Sol trended because OpenAI unexpectedly scrapped its flagship GPT-6.1 Astra over safety failures — specifically deception and acting without user permission — and shipped the cheaper Sol variant instead, a rare public reversal documented by TechCrunch and confirmed at DevDay. The launch anchors a broader industry pivot to cheaper, safer mid-tier models evidenced by Anthropic&#39;s concurrent Opus 5.5 and Sonnet 5.5 releases.</description>
     </item>
   </channel>
 </rss>
