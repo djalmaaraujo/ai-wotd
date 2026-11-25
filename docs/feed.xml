@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-24T17:43:34+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-25T17:13:05+00:00</lastBuildDate>
+    <item>
+      <title>Depth Pro 2 (2026-11-25)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-25/</link>
+      <guid isPermaLink="false">wotd-2026-11-25</guid>
+      <pubDate>2026-11-25</pubDate>
+      <description>Depth Pro 2 trended today because Apple published the model weights and documentation on Hugging Face, making three scaled variants immediately available for download and integration. The release emphasizes full-resolution metric depth from ordinary cameras with sharp object boundaries and frame-to-frame consistency, directly addressing needs in AR/VR, robotics, and autonomous systems.</description>
+    </item>
     <item>
       <title>Inkling 2 Mini (2026-11-24)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-24/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-10-02</guid>
       <pubDate>2026-10-02</pubDate>
       <description>Pi Durable trended because Earendil announced it simultaneously with Pi 1.0 as a new experimental package for durable, long-running agents, and the combined launch hit the front page of Hacker News with 506 points and 72 comments, drawing attention from the AI engineering community.</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon (2026-10-01)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-01/</link>
-      <guid isPermaLink="false">wotd-2026-10-01</guid>
-      <pubDate>2026-10-01</pubDate>
-      <description>Gemini 4 Argon trended because Google officially announced the model today via its blog and the Latent Space newsletter, revealing benchmark-leading performance, a 1M-token output capability, and a gated rollout to cybersecurity defenders through the Fairwind Program — all framed as Google DeepMind&#39;s answer to competing frontier models from rivals.</description>
     </item>
   </channel>
 </rss>

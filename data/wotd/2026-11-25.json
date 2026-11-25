@@ -1,0 +1,266 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "latent-space--dc82c1fd",
+        "latent-space--fbf2f7c2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 268.684573,
+      "term": "songe",
+      "tf_today": 51
+    },
+    {
+      "articles": [
+        "latent-space--22435482",
+        "latent-space--cce80b08",
+        "latent-space--dc82c1fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 73.70448,
+      "term": "ling-3.2",
+      "tf_today": 17
+    },
+    {
+      "articles": [
+        "codenewsletter--4a833c49",
+        "latent-space--22435482"
+      ],
+      "avg_tf_baseline": 4.2308,
+      "df_today": 2,
+      "score": 26.39286,
+      "term": "kept",
+      "tf_today": 44
+    },
+    {
+      "articles": [
+        "latent-space--22435482",
+        "latent-space--cce80b08",
+        "latent-space--dc82c1fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 3,
+      "score": 26.366695,
+      "term": "inclusionai",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "latent-space--dc82c1fd",
+        "latent-space--de87eac0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.437062,
+      "term": "depth pro",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "latent-space--dc82c1fd",
+        "latent-space--de87eac0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.437062,
+      "term": "depth pro 2",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "aibreakfast--56f6230a",
+        "latent-space--dc82c1fd"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.437062,
+      "term": "glm-5.4",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "latent-space--dc82c1fd",
+        "latent-space--de87eac0"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 23.437062,
+      "term": "pro 2",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--4a833c49",
+        "latent-space--cc3068e2"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 19.408121,
+      "term": "consent",
+      "tf_today": 7
+    },
+    {
+      "articles": [
+        "latent-space--22435482",
+        "latent-space--cce80b08",
+        "latent-space--dc82c1fd"
+      ],
+      "avg_tf_baseline": 13.1333,
+      "df_today": 3,
+      "score": 18.536459,
+      "term": "moe",
+      "tf_today": 54
+    }
+  ],
+  "date": "2026-11-25",
+  "evidence_article_ids": [
+    "latent-space--dc82c1fd",
+    "latent-space--de87eac0"
+  ],
+  "judge": {
+    "input_tokens": 27830,
+    "model": "jev-1.14.0",
+    "pool_size": 57,
+    "signals": {
+      "agent": {
+        "dominance": 2.58,
+        "event": 0.93,
+        "form": 0.91,
+        "novelty": 0.37,
+        "specificity": 1.36
+      },
+      "agents": {
+        "dominance": 2.67,
+        "event": 0.91,
+        "form": 0.83,
+        "novelty": 0.34,
+        "specificity": 1.35
+      },
+      "aibrush": {
+        "dominance": 1.9,
+        "event": 0.48,
+        "form": 0.85,
+        "novelty": 0.75,
+        "specificity": 1.95
+      },
+      "cuga": {
+        "dominance": 1.9,
+        "event": 0.65,
+        "form": 0.73,
+        "novelty": 0.81,
+        "specificity": 1.94
+      },
+      "depth pro 2": {
+        "dominance": 1.84,
+        "event": 0.92,
+        "form": 0.92,
+        "novelty": 0.81,
+        "specificity": 2.0
+      },
+      "depthpro2": {
+        "dominance": 1.85,
+        "event": 0.92,
+        "form": 0.84,
+        "novelty": 0.85,
+        "specificity": 2.0
+      },
+      "gemini 4 neon": {
+        "dominance": 1.81,
+        "event": 0.61,
+        "form": 0.94,
+        "novelty": 0.47,
+        "specificity": 2.0
+      },
+      "hugging face": {
+        "dominance": 2.15,
+        "event": 0.88,
+        "form": 0.66,
+        "novelty": 0.54,
+        "specificity": 1.29
+      },
+      "indic voice agent": {
+        "dominance": 1.96,
+        "event": 0.88,
+        "form": 0.85,
+        "novelty": 0.69,
+        "specificity": 1.59
+      },
+      "llms": {
+        "dominance": 2.69,
+        "event": 0.96,
+        "form": 0.7,
+        "novelty": 0.15,
+        "specificity": 1.62
+      },
+      "painting": {
+        "dominance": 1.72,
+        "event": 0.6,
+        "form": 0.89,
+        "novelty": 0.75,
+        "specificity": 0.64
+      },
+      "pro 2": {
+        "dominance": 1.76,
+        "event": 0.92,
+        "form": 0.48,
+        "novelty": 0.82,
+        "specificity": 1.9
+      },
+      "records": {
+        "dominance": 1.89,
+        "event": 0.5,
+        "form": 0.77,
+        "novelty": 0.69,
+        "specificity": 0.11
+      },
+      "social reasoning": {
+        "dominance": 1.95,
+        "event": 0.94,
+        "form": 0.94,
+        "novelty": 0.63,
+        "specificity": 1.9
+      },
+      "songe": {
+        "dominance": 1.79,
+        "event": 0.43,
+        "form": 0.78,
+        "novelty": 0.71,
+        "specificity": 1.77
+      },
+      "verifiable social reasoning": {
+        "dominance": 1.96,
+        "event": 0.96,
+        "form": 0.94,
+        "novelty": 0.73,
+        "specificity": 1.95
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "depth pro 2",
+      "verifiable social reasoning",
+      "depthpro2",
+      "social reasoning",
+      "gemini 4 neon"
+    ]
+  },
+  "label": "Depth Pro 2",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://huggingface.co/apple/DepthPro2",
+        "https://machinelearning.apple.com/research/depth-pro",
+        "https://arxiv.org/abs/2410.08585"
+      ],
+      "text": "Depth Pro 2 is Apple's second-generation metric monocular depth estimation model family. It predicts absolute depth (in metric units) for every pixel from a single RGB image or video frame at the input's native resolution, without requiring stereo pairs or known camera intrinsics. The architecture prioritizes sharp depth discontinuities at object edges and temporal consistency across video frames, enabling applications in augmented reality, 3D reconstruction, and robotics. Three model sizes (S, B, L) offer a compute-quality tradeoff, with the largest (334M parameters) delivering the highest edge fidelity and stability."
+    },
+    "generated_at": "2026-11-25T17:13:03.143844+00:00",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "summary": "Apple released Depth Pro 2 on Hugging Face, a family of metric monocular depth estimation models that produce sharp, temporally consistent depth maps at full input resolution from single images or video streams. The release includes three model sizes — DepthPro2-S (24M parameters), DepthPro2-B (97M), and DepthPro2-L (334M) — trading off latency for edge sharpness and temporal stability. Meanwhile, Google DeepMind's Gemini 4 Neon model has sparked renewed confidence in the lab's frontier capabilities after months of skepticism following the Gemini 3 cycle, with Neon's adoption described as an unusually strong breakout trend. The concurrent releases highlight a split in industry focus: Apple advancing geometric perception for spatial computing, while Google pushes large language model frontiers.",
+    "why": "Depth Pro 2 trended today because Apple published the model weights and documentation on Hugging Face, making three scaled variants immediately available for download and integration. The release emphasizes full-resolution metric depth from ordinary cameras with sharp object boundaries and frame-to-frame consistency, directly addressing needs in AR/VR, robotics, and autonomous systems."
+  },
+  "score": 23.437062,
+  "word": "depth pro 2"
+}

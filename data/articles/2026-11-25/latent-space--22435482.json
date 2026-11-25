@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--22435482",
+  "author": null,
+  "content_chars": 35619,
+  "content_sha256": "86589dcf7f047b1a569ff7550a91046e19391c131c042769d753f2bd6547611e",
+  "content_tokens": 8904,
+  "fetched_at": "2026-11-25T17:12:29Z",
+  "kind": "article",
+  "published_at": "2026-11-25T04:29:07+00:00",
+  "snippet": "The league table for small open models. Benchmark scores for every recent small open-weight model worth comparing — read them side by side, see where each one is cheapest to run, and filter down to the ones that fit your hardware. - 1.5B–285B params - Official weights only - No…",
+  "source_id": "latent-space",
+  "title": "Tiny League — benchmark scores for small open-weight models",
+  "top_terms": [
+    [
+      "tok",
+      86
+    ],
+    [
+      "moe",
+      46
+    ],
+    [
+      "gib",
+      43
+    ],
+    [
+      "kept",
+      43
+    ],
+    [
+      "apache",
+      25
+    ],
+    [
+      "apache 2.0",
+      25
+    ],
+    [
+      "added",
+      23
+    ],
+    [
+      "dense",
+      22
+    ],
+    [
+      "model",
+      14
+    ],
+    [
+      "models",
+      14
+    ],
+    [
+      "benchmark",
+      12
+    ],
+    [
+      "nov",
+      9
+    ],
+    [
+      "nov 2026",
+      9
+    ],
+    [
+      "vision",
+      9
+    ],
+    [
+      "mit",
+      8
+    ],
+    [
+      "nov 2026 added",
+      8
+    ],
+    [
+      "nvidia-nemotron-3.5",
+      8
+    ],
+    [
+      "sept",
+      8
+    ],
+    [
+      "sept 2026",
+      8
+    ],
+    [
+      "ornith-1.5",
+      7
+    ]
+  ],
+  "url": "https://tinyleague.nunodonato.com/",
+  "url_canonical": "https://tinyleague.nunodonato.com/",
+  "via_source_id": "latent-space"
+}

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Inkling 2 Mini — 2026-11-24 · AI WOTD</title>
+  <title>Depth Pro 2 — 2026-11-25 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -18,154 +18,123 @@
   </header>
   <main>
 <article class="day">
-  <p class="date">2026-11-24</p>
-  <h1>Inkling 2 Mini</h1>
+  <p class="date">2026-11-25</p>
+  <h1>Depth Pro 2</h1>
 
-  <p class="why">Inkling 2 Mini trended because the Project Maya community released a highly optimized inference stack (maya-inkling-mini) that runs the 26B looped MoE entirely on a single consumer RTX 3090 at 128 tok/s, and Latent Space&#39;s AINews positioned it as the architectural precursor to Z.ai&#39;s newly announced GLM 5.4 looped transformer.</p>
+  <p class="why">Depth Pro 2 trended today because Apple published the model weights and documentation on Hugging Face, making three scaled variants immediately available for download and integration. The release emphasizes full-resolution metric depth from ordinary cameras with sharp object boundaries and frame-to-frame consistency, directly addressing needs in AR/VR, robotics, and autonomous systems.</p>
 
   <section class="definition">
     <h2>Definition</h2>
-    <p>Inkling 2 Mini is a 26-billion-parameter looped mixture-of-experts (MoE) language model developed by Thinking Machines. It uses a recurrent &#39;looped&#39; architecture where a single set of expert layers is applied iteratively, enabling high parameter efficiency. The model is notable for its deployment via the Project Maya (maya-ik2) engine, which quantizes and batches experts to fit entirely in 24 GB VRAM on an RTX 3090, achieving 128 tokens/second decode with 344K context, image understanding, and tool use. It demonstrates that large MoE models can run locally on consumer hardware without model splitting.</p>
+    <p>Depth Pro 2 is Apple&#39;s second-generation metric monocular depth estimation model family. It predicts absolute depth (in metric units) for every pixel from a single RGB image or video frame at the input&#39;s native resolution, without requiring stereo pairs or known camera intrinsics. The architecture prioritizes sharp depth discontinuities at object edges and temporal consistency across video frames, enabling applications in augmented reality, 3D reconstruction, and robotics. Three model sizes (S, B, L) offer a compute-quality tradeoff, with the largest (334M parameters) delivering the highest edge fidelity and stability.</p>
     <ul class="def-refs">
-      <li><a href="https://github.com/alesha-pro/maya-inkling-mini" rel="noreferrer">https://github.com/alesha-pro/maya-inkling-mini</a></li>
-      <li><a href="https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions" rel="noreferrer">https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions</a></li>
-      <li><a href="https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/" rel="noreferrer">https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</a></li>
+      <li><a href="https://huggingface.co/apple/DepthPro2" rel="noreferrer">https://huggingface.co/apple/DepthPro2</a></li>
+      <li><a href="https://machinelearning.apple.com/research/depth-pro" rel="noreferrer">https://machinelearning.apple.com/research/depth-pro</a></li>
+      <li><a href="https://arxiv.org/abs/2410.08585" rel="noreferrer">https://arxiv.org/abs/2410.08585</a></li>
     </ul>
   </section>
 
   <section class="summary">
     <h2>Today in AI</h2>
-    <p>Thinking Machines&#39; Inkling 2 Mini, a 26B-parameter looped mixture-of-experts model, dominated local-LLM discussions today after a Project Maya port demonstrated 128 token/s decode and 344K context on a single RTX 3090. The maya-inkling-mini GitHub release shows the full model fitting in 24 GB VRAM, with an 8 GB GPU path at 41 token/s, continuous batching, and tool/image support via the maya-ik2 engine. Benchmarks from peaster.io corrected earlier drafter-inflated numbers but confirmed strong prose throughput. Meanwhile, Latent Space&#39;s AINews noted Z.ai&#39;s new GLM 5.4 looped transformer follows Inkling Mini 2&#39;s architecture, and highlighted Nvidia CEO Jensen Huang&#39;s surprise return. Other trending terms today include qwen-image-2.1 (Alibaba&#39;s latest image generator), cfg (classifier-free guidance in diffusion), turbo (fast LoRA fine-tuning), and chatr (a conversational model).</p>
+    <p>Apple released Depth Pro 2 on Hugging Face, a family of metric monocular depth estimation models that produce sharp, temporally consistent depth maps at full input resolution from single images or video streams. The release includes three model sizes — DepthPro2-S (24M parameters), DepthPro2-B (97M), and DepthPro2-L (334M) — trading off latency for edge sharpness and temporal stability. Meanwhile, Google DeepMind&#39;s Gemini 4 Neon model has sparked renewed confidence in the lab&#39;s frontier capabilities after months of skepticism following the Gemini 3 cycle, with Neon&#39;s adoption described as an unusually strong breakout trend. The concurrent releases highlight a split in industry focus: Apple advancing geometric perception for spatial computing, while Google pushes large language model frontiers.</p>
   </section>
 
   <section class="evidence">
-    <h2>Evidence (3)</h2>
+    <h2>Evidence (2)</h2>
     <ul>
       <li>
-        <a href="https://github.com/alesha-pro/maya-inkling-mini" rel="noreferrer">GitHub - alesha-pro/maya-inkling-mini: Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM. · GitHub</a>
+        <a href="https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab" rel="noreferrer">[AINews] Gemini 4 Neon marks GDM&#39;s full return as a Frontier Lab</a>
         <span class="meta">
-          latent-space          · 2026-11-24
+          latent-space · swyx .ai          · 2026-11-25
         </span>
-<blockquote>Thinking Machines&#39; 26B looped MoE, all of it in 24 GB of VRAM. 126 to 128 tok/s plain decode, 182 to 207 tok/s through the HTTP server on new code and up to 212 tok/s on edits with the official DSpark drafter, 2,742 tok/s prefill, up to 344K context, images and tools. llama.cpp…</blockquote>      </li>
+<blockquote>Three months ago, shortly after the Demis/Dean/etc departures, and with disappointing progress on Gemini 3 models, people had publicly given up on Google DeepMind as a frontier lab. Today, apologies are being issued, and Neon is the talk of the town! Despite giving Gemini 4…</blockquote>      </li>
       <li>
-        <a href="https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions" rel="noreferrer">Inkling 2 Mini, First Impressions - peaster</a>
+        <a href="https://huggingface.co/apple/DepthPro2" rel="noreferrer">apple/DepthPro2 · Hugging Face</a>
         <span class="meta">
-          latent-space          · 2026-11-24
+          latent-space          · 2026-11-25
         </span>
-<blockquote>Edited November 23, 2026. I&#39;ve found more performance and I found a mistake in how I measured the first one. Here is what changed since November 21. - Correction. The long-prompt rows in the first chart were measured on prompts built from repetitive page snapshots and benchmark…</blockquote>      </li>
-      <li>
-        <a href="https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft" rel="noreferrer">[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</a>
-        <span class="meta">
-          latent-space · swyx .ai          · 2026-11-24
-        </span>
-<blockquote>Congrats to Sierra on tripling last year’s $10B valuation, and to Z.ai for releasing GLM 5.4, their first looped transformer following Thinking Machine’s much smaller Inkling Mini 2 from last week. However all these are outshone by today’s twin title stories… Jensen Huang is…</blockquote>      </li>
+<blockquote>Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth Depth Pro 2 estimates metric depth for every pixel from an ordinary camera: a single photo, a whole video, or a live feed, at the input&#39;s full resolution. Its depth is sharp at object edges and steady from frame…</blockquote>      </li>
     </ul>
   </section>
 
   <section class="candidates">
     <h2>Candidates</h2>
     <ol>
-      <li>qwen-image-2.1 <span class="meta">tf=32, df=2, score=138.21</span></li>
-      <li>cfg <span class="meta">tf=24, df=2, score=95.43</span></li>
-      <li>turbo <span class="meta">tf=20, df=2, score=75.22</span></li>
-      <li>turbo lora <span class="meta">tf=14, df=2, score=46.83</span></li>
-      <li>chatr <span class="meta">tf=11, df=2, score=33.77</span></li>
-      <li>np <span class="meta">tf=11, df=2, score=33.77</span></li>
-      <li>looped <span class="meta">tf=9, df=4, score=30.48</span></li>
-      <li>convrot <span class="meta">tf=10, df=2, score=29.62</span></li>
-      <li>personal intelligence <span class="meta">tf=9, df=2, score=25.60</span></li>
-      <li>datasette <span class="meta">tf=8, df=3, score=23.78</span></li>
+      <li>songe <span class="meta">tf=51, df=2, score=268.68</span></li>
+      <li>ling-3.2 <span class="meta">tf=17, df=3, score=73.70</span></li>
+      <li>kept <span class="meta">tf=44, df=2, score=26.39</span></li>
+      <li>inclusionai <span class="meta">tf=8, df=3, score=26.37</span></li>
+      <li>depth pro <span class="meta">tf=8, df=2, score=23.44</span></li>
+      <li>depth pro 2 <span class="meta">tf=8, df=2, score=23.44</span></li>
+      <li>glm-5.4 <span class="meta">tf=8, df=2, score=23.44</span></li>
+      <li>pro 2 <span class="meta">tf=8, df=2, score=23.44</span></li>
+      <li>consent <span class="meta">tf=7, df=2, score=19.41</span></li>
+      <li>moe <span class="meta">tf=54, df=3, score=18.54</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (17)</summary>
+      <summary>All queried links (12)</summary>
       <ul>
         <li>
-          <a href="https://codenewsletter.ai/p/z-ai-s-looped-model-thinks-deeper-with-fewer-tokens" rel="noreferrer">Z.ai&#39;s looped model thinks deeper with fewer tokens</a>
+          <a href="https://aibreakfast.beehiiv.com/p/agents-are-taking-on-big-math" rel="noreferrer">Agents are taking on Big Math</a>
+          <span class="meta">
+            aibreakfast · AI Breakfast          </span>
+        </li>
+        <li>
+          <a href="https://codenewsletter.ai/p/former-xai-engineers-let-your-agents-travel-back-in-time" rel="noreferrer">Former xAI engineers let your agents travel back in time</a>
           <span class="meta">
             codenewsletter · Code Newsletter          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance" rel="noreferrer">Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</a>
+          <a href="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants" rel="noreferrer">Verifiable Social Reasoning for LLM Assistants</a>
+          <span class="meta">
+            google-research · Google Research Blog          </span>
+        </li>
+        <li>
+          <a href="https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga" rel="noreferrer">An Indic Voice Agent with CUGA</a>
           <span class="meta">
             huggingface-blog · Hugging Face Blog          </span>
         </li>
         <li>
-          <a href="https://github.com/alesha-pro/maya-inkling-mini" rel="noreferrer">GitHub - alesha-pro/maya-inkling-mini: Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM. · GitHub</a>
+          <a href="https://tinyleague.nunodonato.com/" rel="noreferrer">Tiny League — benchmark scores for small open-weight models</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx" rel="noreferrer">NVIDIA Corporation - NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director</a>
+          <a href="https://github.com/neokrasav4ik/aibrush" rel="noreferrer">GitHub - neokrasav4ik/aibrush: Painting engine for LLMs: real oil brush, paint and canvas · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://runtimewire.com/article/a-27b-model-rewrote-its-own-weights-and-gained-6-6-points-on-unseen-math" rel="noreferrer">Qwen3.5 27B model rewrote its own weights and gained 6.6 points on unseen math</a>
+          <a href="https://github.com/pingdotgg/t3code/issues/4123" rel="noreferrer">Why promise no opt-out telemetry while telemetry has been on the whole time? Without even a button to turn it off. · Issue #4123 · pingdotgg/t3code · GitHub</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://pequalnp.com/" rel="noreferrer">Does P = NP? An AI agent fleet is attacking it, live</a>
+          <a href="https://huggingface.co/inclusionAI/Ling-3.2-air" rel="noreferrer">inclusionAI/Ling-3.2-air · Hugging Face</a>
           <span class="meta">
             latent-space          </span>
         </li>
         <li>
-          <a href="https://github.com/jonpojonpo/llama.cpp/tree/inkling-relfa" rel="noreferrer">GitHub - jonpojonpo/llama.cpp at inkling-relfa · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://peaster.io/articles/local-LLMs/inkling-2-mini-first-impressions" rel="noreferrer">Inkling 2 Mini, First Impressions - peaster</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps" rel="noreferrer">Tailored Google Search with Personal Intelligence apps</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized" rel="noreferrer">chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized · Hugging Face</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://arena.ai/" rel="noreferrer">Arena AI: The Official AI Ranking &amp; LLM Leaderboard</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://thechatr.ai/playground" rel="noreferrer">Image &amp; Video Playground | Chatr</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft" rel="noreferrer">[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</a>
+          <a href="https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab" rel="noreferrer">[AINews] Gemini 4 Neon marks GDM&#39;s full return as a Frontier Lab</a>
           <span class="meta">
             latent-space · swyx .ai          </span>
         </li>
         <li>
-          <a href="https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization" rel="noreferrer">Raising the stakes for enterprise networks with AI modernization</a>
+          <a href="https://huggingface.co/apple/DepthPro2" rel="noreferrer">apple/DepthPro2 · Hugging Face</a>
           <span class="meta">
-            mit-tech-review-ai · MIT Technology Review Insights          </span>
+            latent-space          </span>
         </li>
         <li>
-          <a href="https://simonwillison.net/2026/Nov/24/astra-historical-mystery" rel="noreferrer">GPT 6.2 Astra Solves a Historical Mystery</a>
+          <a href="https://github.com/sous-labs/songe" rel="noreferrer">GitHub - sous-labs/songe: A training engine for your local model, using your idle compute · GitHub</a>
           <span class="meta">
-            simonwillison · Simon Willison          </span>
+            latent-space          </span>
         </li>
         <li>
-          <a href="https://simonwillison.net/2026/Nov/24/datasette-charts" rel="noreferrer">datasette-charts 0.2a0</a>
+          <a href="https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems" rel="noreferrer">AI is straining America’s open records systems</a>
           <span class="meta">
-            simonwillison · Simon Willison          </span>
-        </li>
-        <li>
-          <a href="https://simonwillison.net/2026/Nov/24/datasette-agent" rel="noreferrer">datasette-agent 0.7a1</a>
-          <span class="meta">
-            simonwillison · Simon Willison          </span>
+            mit-tech-review-ai · Matthew King          </span>
         </li>
       </ul>
     </details>
@@ -176,7 +145,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-24T17:43:34+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-25T17:13:05+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>
