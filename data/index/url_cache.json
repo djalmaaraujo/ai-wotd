@@ -178,6 +178,10 @@
     "article_id": "latent-space--e6649cd6",
     "first_seen_date": "2026-09-23"
   },
+  "https://ai.engineer/code/2026/talks/thariq-shihipar": {
+    "article_id": "latent-space--5366456e",
+    "first_seen_date": "2026-11-26"
+  },
   "https://ai.engineer/europe/2027": {
     "article_id": "latent-space--6477626f",
     "first_seen_date": "2026-11-17"
@@ -3477,6 +3481,10 @@
     "article_id": "latent-space--91d06925",
     "first_seen_date": "2026-11-11"
   },
+  "https://arxiv.org/abs/2611.31236": {
+    "article_id": "latent-space--f5822231",
+    "first_seen_date": "2026-11-26"
+  },
   "https://arxiv.org/html/2104.09864v5": {
     "article_id": "ahead-of-ai--309a4115",
     "first_seen_date": "2026-11-15"
@@ -4472,6 +4480,10 @@
     "article_id": "codenewsletter--40bcdb53",
     "first_seen_date": "2026-08-28"
   },
+  "https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game": {
+    "article_id": "codenewsletter--aa636a54",
+    "first_seen_date": "2026-11-26"
+  },
   "https://codenewsletter.ai/p/kimi-k2-nears-closed-ai-models-google-simplifies-rag": {
     "article_id": "codenewsletter--3d201f80",
     "first_seen_date": "2026-04-14"
@@ -5374,6 +5386,10 @@
   "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe": {
     "article_id": "google-deepmind--e3644d73",
     "first_seen_date": "2026-08-27"
+  },
+  "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity": {
+    "article_id": "google-deepmind--6d73c6f0",
+    "first_seen_date": "2026-11-26"
   },
   "https://deepmind.google/blog/introducing-agentic-video-in-gemini": {
     "article_id": "google-deepmind--b9d67562",
@@ -6477,6 +6493,10 @@
     "article_id": "latent-space--c7cea7e0",
     "first_seen_date": "2026-09-23"
   },
+  "https://github.com/google-research/google-research/commit/4a7bc8ab0bc7": {
+    "article_id": "latent-space--bf242f8f",
+    "first_seen_date": "2026-11-26"
+  },
   "https://github.com/google-research/long-range-arena": {
     "article_id": "nlp-newsletter--94e633e3",
     "first_seen_date": "2026-09-23"
@@ -6588,6 +6608,26 @@
   "https://github.com/openai/math": {
     "article_id": "latent-space--cef8ce1c",
     "first_seen_date": "2026-10-07"
+  },
+  "https://github.com/openai/math/blob/main/CONTENTS.md": {
+    "article_id": "latent-space--6623e959",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://github.com/openai/math/blob/main/history.md": {
+    "article_id": "latent-space--248b9b73",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://github.com/openai/math/blob/main/preprints/The-logarithmic-exponent-of-finite-Fourier-transforms-November-24-2026/README.md": {
+    "article_id": "latent-space--637c0805",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/README.md": {
+    "article_id": "latent-space--90276c89",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://github.com/openai/math/tree/main/preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026": {
+    "article_id": "latent-space--88350626",
+    "first_seen_date": "2026-11-26"
   },
   "https://github.com/openai/math/tree/main/preprints/The-Quasi-Riemann-Hypothesis-October-5-2026": {
     "article_id": "latent-space--478dd1ea",
@@ -7568,6 +7608,10 @@
     "article_id": "huggingface-blog--fc598c0e",
     "first_seen_date": "2026-08-08"
   },
+  "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+    "article_id": "huggingface-blog--707fcd61",
+    "first_seen_date": "2026-11-26"
+  },
   "https://huggingface.co/blog/allenai/xybench": {
     "article_id": "huggingface-blog--eee84ac3",
     "first_seen_date": "2026-11-14"
@@ -8511,6 +8555,10 @@
   "https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
     "article_id": "huggingface-blog--d0e047c3",
     "first_seen_date": "2026-11-13"
+  },
+  "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": {
+    "article_id": "huggingface-blog--0534fac4",
+    "first_seen_date": "2026-11-26"
   },
   "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp": {
     "article_id": "huggingface-blog--d73a5588",
@@ -9615,6 +9663,10 @@
   "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas": {
     "article_id": "huggingface-blog--e00e67ec",
     "first_seen_date": "2026-04-21"
+  },
+  "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+    "article_id": "huggingface-blog--496029cf",
+    "first_seen_date": "2026-11-26"
   },
   "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai": {
     "article_id": "huggingface-blog--625ab2f2",
@@ -10776,6 +10828,10 @@
     "article_id": "huggingface-blog--be89fc41",
     "first_seen_date": "2026-05-11"
   },
+  "https://huggingface.co/blog/training-swarms": {
+    "article_id": "huggingface-blog--ee137878",
+    "first_seen_date": "2026-11-26"
+  },
   "https://huggingface.co/blog/transformers-backend-sglang": {
     "article_id": "huggingface-blog--d57713c8",
     "first_seen_date": "2026-05-06"
@@ -11293,6 +11349,10 @@
     "article_id": "latent-space--2ab91a20",
     "first_seen_date": "2026-11-20"
   },
+  "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B": {
+    "article_id": "latent-space--6b93b885",
+    "first_seen_date": "2026-11-26"
+  },
   "https://huggingface.co/oguzeldereli/ttf-Qwen3.8-27B-GGUF": {
     "article_id": "latent-space--3409397e",
     "first_seen_date": "2026-11-11"
@@ -11316,6 +11376,10 @@
   "https://huggingface.co/poolside/Laguna-XS.2/blob/main/config.json": {
     "article_id": "ahead-of-ai--69f968f9",
     "first_seen_date": "2026-09-23"
+  },
+  "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF": {
+    "article_id": "latent-space--3c19107f",
+    "first_seen_date": "2026-11-26"
   },
   "https://huggingface.co/raincandy-u/MacroStories": {
     "article_id": "latent-space--4db5ac6b",
@@ -11546,6 +11610,10 @@
   "https://jiho-ml.com/llm-tools-ruder": {
     "article_id": "nlp-newsletter--172d1fd0",
     "first_seen_date": "2026-09-23"
+  },
+  "https://jira.dev/": {
+    "article_id": "latent-space--033eb4ec",
+    "first_seen_date": "2026-11-26"
   },
   "https://joinhandshake.com/research/ai/deepswe-reward-hacking": {
     "article_id": "latent-space--c59fc933",
@@ -11803,6 +11871,10 @@
     "article_id": "latent-space--e93d69f8",
     "first_seen_date": "2026-11-03"
   },
+  "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them": {
+    "article_id": "latent-space--5b0cf9ab",
+    "first_seen_date": "2026-11-26"
+  },
   "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate": {
     "article_id": "latent-space--4fcc5376",
     "first_seen_date": "2026-11-11"
@@ -11910,6 +11982,10 @@
   "https://latent.space/p/supabase": {
     "article_id": "latent-space--5b65dca1",
     "first_seen_date": "2026-10-29"
+  },
+  "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai": {
+    "article_id": "latent-space--fcfef34c",
+    "first_seen_date": "2026-11-26"
   },
   "https://lean-lang.org/": {
     "article_id": "latent-space--efb09472",
@@ -12485,6 +12561,11 @@
     "first_seen_date": "2026-11-03",
     "status": "fetch_failed"
   },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-math-proofs-are-landing-faster-than-we-can-read-them%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-26",
+    "status": "fetch_failed"
+  },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-11",
@@ -12618,6 +12699,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fsupabase%2F": {
     "article_id": null,
     "first_seen_date": "2026-10-29",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fthe_revolution_vs_the_renaissance_thariq_shihipar_openai%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-26",
     "status": "fetch_failed"
   },
   "https://newsletter.deenamousa.com/p/the-leading-indicator-graveyard": {
@@ -15516,6 +15602,10 @@
     "article_id": "latent-space--fe4909d3",
     "first_seen_date": "2026-09-23"
   },
+  "https://scottaaronson.blog/?p=10379": {
+    "article_id": "latent-space--8f9beac5",
+    "first_seen_date": "2026-11-26"
+  },
   "https://sebastianraschka.com/blog/2023/detect-ai.html": {
     "article_id": "ahead-of-ai--c8c8206b",
     "first_seen_date": "2026-09-23"
@@ -15851,6 +15941,26 @@
   "https://simonwillison.net/2026/Nov/24/llm-inflection-points": {
     "article_id": "simonwillison--95f1c89f",
     "first_seen_date": "2026-11-25"
+  },
+  "https://simonwillison.net/2026/Nov/25/datasette-charts": {
+    "article_id": "simonwillison--358533db",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://simonwillison.net/2026/Nov/25/scott-aaronson": {
+    "article_id": "simonwillison--2afe1a05",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://simonwillison.net/2026/Nov/26/hn-50651685": {
+    "article_id": "simonwillison--580c1d57",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://simonwillison.net/2026/Nov/26/jack-despain-zhou": {
+    "article_id": "simonwillison--86922fde",
+    "first_seen_date": "2026-11-26"
+  },
+  "https://simonwillison.net/2026/Nov/26/sqlite3-rsync": {
+    "article_id": "simonwillison--4bd0d2f1",
+    "first_seen_date": "2026-11-26"
   },
   "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": {
     "article_id": "simonwillison--c23da0ab",

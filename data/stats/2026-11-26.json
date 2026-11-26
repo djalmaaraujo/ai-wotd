@@ -1,0 +1,5463 @@
+{
+  "article_ids": [
+    "codenewsletter--aa636a54",
+    "huggingface-blog--0534fac4",
+    "huggingface-blog--496029cf",
+    "huggingface-blog--ee137878",
+    "simonwillison--4bd0d2f1",
+    "simonwillison--580c1d57",
+    "simonwillison--86922fde"
+  ],
+  "date": "2026-11-26",
+  "document_count": 7,
+  "terms": {
+    "account": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "accuracy": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "across": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "act": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "actually": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "additional": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "agent": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 31
+    },
+    "agents": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 32
+    },
+    "agents in": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "alongside": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "alpha": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "alpha release": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "already": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "an agent": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "and model": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "and pyodide": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "and text": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "answer": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "answers": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "app": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "app in": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "app in the": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "around": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "around for": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "assigns": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "attempt": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "attention": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "available": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "back": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "backend": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "base": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "base model": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "beat": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "beep": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "beep with": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "beep with claude": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "behind": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "behind the": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "benchmark": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "best": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "better": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "bf16": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "blog": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "brief": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "browser": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "browser with": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "browser with service": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "bucket": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "build": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 18
+    },
+    "building": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "builds": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "calls": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "cases": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "cd": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "challenging": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "change": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "change the": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "changes": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "chart": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "charts": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "check": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "checks": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "claude": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 8
+    },
+    "code": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "code and": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "collect": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "columns": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "com": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "command": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "community": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "compare": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "compared": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "comparison": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "component": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "concurrency": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "configuration": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "connection": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "content": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "contents": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "context": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "conversation": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "correct": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "correct answer": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "covering": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "create": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 6
+    },
+    "credentials": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "current": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "dashboard": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "data": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 17
+    },
+    "datasets": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "datasette": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "datasette python": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "datasette python app": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "decision": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "dense": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "depth": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "details": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "dev": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "developer": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "developers": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "different": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "directly": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "distributed": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "earlier": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "easy": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "easy to": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "eight": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 10
+    },
+    "email": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "end": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "end up": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "enough": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "error": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "especially": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "evaluation": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "every": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "exact": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "example": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 16
+    },
+    "examples": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "existing": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "expect": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "face": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "failed": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "fewer": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "figure": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "figure 1": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "final": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "first": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 6,
+      "tf": 14
+    },
+    "first alpha": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "first alpha release": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "five": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "focused": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "folder": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "for every": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "for example": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "for the base": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "form": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "forms": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "full": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "full server-side": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "full server-side datasette": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "generate": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "generated": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "generated tokens": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "generating": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "generation": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "git": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "github": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "give": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "give the": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "gives": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "gives us": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "goes": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "good": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "great": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "group": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "grpo": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "h200": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "half": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "half of": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "head": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "held-out": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "help": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "helps": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "higher": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "how to build": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "https": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "hugging": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "hugging face": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 8
+    },
+    "improves": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "in the browser": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "in twelve": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "in twelve months": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "inbox": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inboxes": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "include": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "includes": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "including": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "including the": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "increased": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "independent": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "infer": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inference": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "inflection": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "inflection points": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "inflection points in": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "infrastructure": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "input": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "inputs": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "inside": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "inside the": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "install": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "installation": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "instead": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "is correct": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "isn't": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "it's": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "its contents": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "job": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "jsonl": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "keep": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "kernels": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "key": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "ladybird's": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "ladybird's first": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "ladybird's first alpha": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "language": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "lead": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "learn": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "learning": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "less": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "lets": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "line": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "link": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "llm": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llm inflection": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "llm inflection points": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "local": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "locating": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "locating the": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "locating the source": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "looking": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "makes": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "match": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "mean": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "meaningful": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "means": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "measured": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "measurements": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "memory": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "merge": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "messages": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 11
+    },
+    "mode": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "model": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 33
+    },
+    "model and": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "model is": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "models": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "multilingual": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "multiple": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "mysterious": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "mysterious beep": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "mysterious beep with": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "names": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "natural": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "nearly": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "needs": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "next": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "normalized": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "november": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 15
+    },
+    "november 2026": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 15
+    },
+    "numbers": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "on hugging": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "on hugging face": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "one h200": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "open": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "openai": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "operations": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "origin": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "output": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 7
+    },
+    "overview": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "page": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 14
+    },
+    "pages": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "part": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "performance": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 7
+    },
+    "picture": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "point": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "points": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "points in": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "points in twelve": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "policy": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "possible": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "practical": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "private": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "process": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "processes": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "processing": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "prompt": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "protocol": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "public": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "pull": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "pyodide": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "python": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "python app": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "python app in": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "quickly": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "qwen": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rate": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "rd": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "rd november": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "rd november 2026": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "reading": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "recent": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "recent articles": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "recorded": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "records": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "reference": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "reinforcement": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "reinforcement learning": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "release": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "released": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "requests": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "require": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "result": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "results": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 14
+    },
+    "reward": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "reward for": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rewards": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "rl": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rose": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rose from": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "roughly": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "row": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "rows": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "run": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 12
+    },
+    "running": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "running the": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "running the full": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "runs": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sampled": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "scaling": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "screen": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "second": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "sends": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "separate": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "series": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "seriously": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "server-side": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "server-side datasette": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "server-side datasette python": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "service": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "service workers": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "service workers and": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "set": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "setup": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "seven": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "sh": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "shared": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 9
+    },
+    "sharing": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "shots": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "show": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 5
+    },
+    "shows": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 4
+    },
+    "significantly": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "similar": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "single": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "size": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "small": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 11
+    },
+    "something": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "source": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "source of": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "spend": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "start": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 8
+    },
+    "start with": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "starting": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "step": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "still": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "story": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "structure": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "success": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 13
+    },
+    "success rate": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "successful": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "swarm": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "systems": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "tables": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 14
+    },
+    "takes": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "task": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 15
+    },
+    "team": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 49
+    },
+    "team also": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "team's": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "technical": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "test": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "tests": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "text": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 11
+    },
+    "th": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "th november": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "th november 2026": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 12
+    },
+    "than half": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "thankfully": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "that's": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the base": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the base model": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the browser": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "the browser with": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "the chart": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the community": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the dashboard": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the full": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "the full server-side": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "the mean": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the model": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 11
+    },
+    "the model is": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the setup": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the shots": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the source": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "the source of": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "the team": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "the team also": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "the tools": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the total": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "the training": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "the two": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "things": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "third": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "three": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 6
+    },
+    "three llm": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "three llm inflection": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "throughput": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "times": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "to build": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "together": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 6
+    },
+    "token": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "tokens": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 37
+    },
+    "tokens and": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tokens as": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tokens of": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "tokens per": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 7
+    },
+    "tool": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 9
+    },
+    "tools": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "top": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 5
+    },
+    "total": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "track": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "trained": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 8
+    },
+    "training": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 29
+    },
+    "try": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "turns": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "turns out": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "twelve": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "twelve months": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "two": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 9
+    },
+    "understand": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "understanding": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "update": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 12
+    },
+    "us": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 4,
+      "tf": 10
+    },
+    "useful": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "uses": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 6
+    },
+    "value": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "verifiable": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "visible": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--580c1d57"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "vllm": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 10
+    },
+    "way": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "way to": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "weekly": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "will help": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "with claude": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "with eight": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 4
+    },
+    "with service": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "with service workers": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "without": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 5,
+      "tf": 13
+    },
+    "work": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 3,
+      "tf": 13
+    },
+    "work on": {
+      "articles": [
+        "huggingface-blog--496029cf",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "workers": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "workers and": {
+      "articles": [
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 4,
+      "tf": 4
+    },
+    "workers and pyodide": {
+      "articles": [
+        "simonwillison--4bd0d2f1",
+        "simonwillison--580c1d57",
+        "simonwillison--86922fde"
+      ],
+      "authors": [
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 3
+    },
+    "working": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    },
+    "works": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog",
+        "Simon Willison"
+      ],
+      "df": 3,
+      "tf": 5
+    },
+    "wrong": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "you're": {
+      "articles": [
+        "codenewsletter--aa636a54",
+        "simonwillison--4bd0d2f1"
+      ],
+      "authors": [
+        "Code Newsletter",
+        "Simon Willison"
+      ],
+      "df": 2,
+      "tf": 2
+    },
+    "zero": {
+      "articles": [
+        "huggingface-blog--0534fac4",
+        "huggingface-blog--ee137878"
+      ],
+      "authors": [
+        "Hugging Face Blog"
+      ],
+      "df": 2,
+      "tf": 3
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--0534fac4",
+  "author": "Hugging Face Blog",
+  "content_chars": 3190,
+  "content_sha256": "11d1f19418a34a6316636178dd0284e29e50aee677c526b0b6c88905d1541cbe",
+  "content_tokens": 797,
+  "fetched_at": "2026-11-26T16:50:27Z",
+  "kind": "article",
+  "published_at": "2026-11-26T11:37:17+00:00",
+  "snippet": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face. It lets you track prompt processing and text generation performance across llama.cpp builds, models, and quantizations, so you can explore how local inference performs on AMD Ryzen and Radeon hardware. Local…",
+  "source_id": "huggingface-blog",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "top_terms": [
+    [
+      "model",
+      10
+    ],
+    [
+      "hardware",
+      9
+    ],
+    [
+      "build",
+      8
+    ],
+    [
+      "context",
+      7
+    ],
+    [
+      "tokens",
+      7
+    ],
+    [
+      "amd",
+      5
+    ],
+    [
+      "benchmark",
+      5
+    ],
+    [
+      "llama",
+      5
+    ],
+    [
+      "cpp",
+      4
+    ],
+    [
+      "dashboard",
+      4
+    ],
+    [
+      "generation",
+      4
+    ],
+    [
+      "models",
+      4
+    ],
+    [
+      "performance",
+      4
+    ],
+    [
+      "pp512",
+      4
+    ],
+    [
+      "quantizations",
+      4
+    ],
+    [
+      "radeon",
+      4
+    ],
+    [
+      "tab",
+      4
+    ],
+    [
+      "tg128",
+      4
+    ],
+    [
+      "and radeon",
+      3
+    ],
+    [
+      "builds",
+      3
+    ]
+  ],
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "url_canonical": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "via_source_id": null
+}

@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--ee137878",
+  "author": "Hugging Face Blog",
+  "content_chars": 16833,
+  "content_sha256": "d35a38891e8592e228103d2cfffa2aecbfde479e3c93085c79b57c73242865bc",
+  "content_tokens": 4208,
+  "fetched_at": "2026-11-26T16:50:28Z",
+  "kind": "article",
+  "published_at": "2026-11-26T00:00:00+00:00",
+  "snippet": "Part 1: Understanding swarms and training to communicate This is an aspirational blog series for aspirational readers. We (us, the community, you) want to build our own agent swarms because they're exciting, challenging, and increasingly capable. Furthermore, it would be…",
+  "source_id": "huggingface-blog",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "top_terms": [
+    [
+      "team",
+      46
+    ],
+    [
+      "agents",
+      25
+    ],
+    [
+      "tokens",
+      25
+    ],
+    [
+      "agent",
+      23
+    ],
+    [
+      "training",
+      22
+    ],
+    [
+      "task",
+      14
+    ],
+    [
+      "attempts",
+      13
+    ],
+    [
+      "updates",
+      13
+    ],
+    [
+      "four",
+      12
+    ],
+    [
+      "problems",
+      12
+    ],
+    [
+      "swarms",
+      12
+    ],
+    [
+      "trackio",
+      12
+    ],
+    [
+      "example",
+      11
+    ],
+    [
+      "problem",
+      11
+    ],
+    [
+      "success",
+      11
+    ],
+    [
+      "messages",
+      10
+    ],
+    [
+      "model",
+      10
+    ],
+    [
+      "results",
+      10
+    ],
+    [
+      "policy",
+      9
+    ],
+    [
+      "update",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/training-swarms",
+  "url_canonical": "https://huggingface.co/blog/training-swarms",
+  "via_source_id": null
+}

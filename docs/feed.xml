@@ -4,7 +4,14 @@
     <title>AI Word Of The Day</title>
     <link>https://djalmaaraujo.github.io/ai-wotd/</link>
     <description>Daily AI term picked from RSS, newsletters, and X.</description>
-    <lastBuildDate>2026-11-25T17:13:05+00:00</lastBuildDate>
+    <lastBuildDate>2026-11-26T16:53:52+00:00</lastBuildDate>
+    <item>
+      <title>Nemotron 3.5 Parse (2026-11-26)</title>
+      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-26/</link>
+      <guid isPermaLink="false">wotd-2026-11-26</guid>
+      <pubDate>2026-11-26</pubDate>
+      <description>Nemotron 3.5 Parse trended today because NVIDIA announced the model&#39;s release and Hugging Face published a detailed technical blog showing how to extend it with open synthetic data, fine-tuning recipes, and a DFlash2 speculator for accelerated inference, signaling a push toward production-ready document understanding for RAG and agents.</description>
+    </item>
     <item>
       <title>Depth Pro 2 (2026-11-25)</title>
       <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-11-25/</link>
@@ -347,13 +354,6 @@
       <guid isPermaLink="false">wotd-2026-10-03</guid>
       <pubDate>2026-10-03</pubDate>
       <description>Claude Opus 5.5 trended because its September 22 launch triggered a wave of first-impression posts: developers published detailed autonomous-coding workflows, Reddit sentiment aggregated 3,644 opinions into a 63 positive index, and benchmark leaderboards ranked it #2 on Arena text and #1 on the intelligence index, making it the reference point for OpenAI&#39;s competing GPT-6.1 Sol announcement.</description>
-    </item>
-    <item>
-      <title>Pi Durable (2026-10-02)</title>
-      <link>https://djalmaaraujo.github.io/ai-wotd/d/2026-10-02/</link>
-      <guid isPermaLink="false">wotd-2026-10-02</guid>
-      <pubDate>2026-10-02</pubDate>
-      <description>Pi Durable trended because Earendil announced it simultaneously with Pi 1.0 as a new experimental package for durable, long-running agents, and the combined launch hit the front page of Hacker News with 506 points and 72 comments, drawing attention from the AI engineering community.</description>
     </item>
   </channel>
 </rss>

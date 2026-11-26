@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--bf242f8f",
+  "author": null,
+  "content_chars": 3842,
+  "content_sha256": "d4fa973f0eaa62526dae3118101adfa34e526dc9db54dd5f4193f749ccfdf31f",
+  "content_tokens": 960,
+  "fetched_at": "2026-11-26T16:53:23Z",
+  "kind": "article",
+  "published_at": "2026-11-25T22:23:41+00:00",
+  "snippet": "| | 1 | +# Unconditional Deterministic Subexponential Integer Factoring and Quadratic Nonresidue Construction | | 2 | + | | 3 | +[This paper](paper.pdf) constructs explicit, | | 4 | +parameter-free deterministic algorithms for general integer factoring, | | 5 | +$(p…",
+  "source_id": "latent-space",
+  "title": "Add six Cogentic research papers: · google-research/google-research@4a7bc8a · GitHub",
+  "top_terms": [
+    [
+      "ln",
+      15
+    ],
+    [
+      "integer",
+      8
+    ],
+    [
+      "bigl",
+      7
+    ],
+    [
+      "bigr",
+      7
+    ],
+    [
+      "deterministic",
+      7
+    ],
+    [
+      "exp",
+      6
+    ],
+    [
+      "ge",
+      6
+    ],
+    [
+      "explicit",
+      5
+    ],
+    [
+      "license",
+      5
+    ],
+    [
+      "outputs",
+      5
+    ],
+    [
+      "widetilde",
+      5
+    ],
+    [
+      "an explicit",
+      4
+    ],
+    [
+      "cogentic",
+      4
+    ],
+    [
+      "given",
+      4
+    ],
+    [
+      "given any",
+      4
+    ],
+    [
+      "google",
+      4
+    ],
+    [
+      "in worst-case",
+      4
+    ],
+    [
+      "paper",
+      4
+    ],
+    [
+      "prime",
+      4
+    ],
+    [
+      "worst-case",
+      4
+    ]
+  ],
+  "url": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc7",
+  "url_canonical": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc7",
+  "via_source_id": "latent-space"
+}

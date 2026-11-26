@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Depth Pro 2 — 2026-11-25 · AI WOTD</title>
+  <title>Nemotron 3.5 Parse — 2026-11-26 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -18,123 +18,92 @@
   </header>
   <main>
 <article class="day">
-  <p class="date">2026-11-25</p>
-  <h1>Depth Pro 2</h1>
+  <p class="date">2026-11-26</p>
+  <h1>Nemotron 3.5 Parse</h1>
 
-  <p class="why">Depth Pro 2 trended today because Apple published the model weights and documentation on Hugging Face, making three scaled variants immediately available for download and integration. The release emphasizes full-resolution metric depth from ordinary cameras with sharp object boundaries and frame-to-frame consistency, directly addressing needs in AR/VR, robotics, and autonomous systems.</p>
+  <p class="why">Nemotron 3.5 Parse trended today because NVIDIA announced the model&#39;s release and Hugging Face published a detailed technical blog showing how to extend it with open synthetic data, fine-tuning recipes, and a DFlash2 speculator for accelerated inference, signaling a push toward production-ready document understanding for RAG and agents.</p>
 
   <section class="definition">
     <h2>Definition</h2>
-    <p>Depth Pro 2 is Apple&#39;s second-generation metric monocular depth estimation model family. It predicts absolute depth (in metric units) for every pixel from a single RGB image or video frame at the input&#39;s native resolution, without requiring stereo pairs or known camera intrinsics. The architecture prioritizes sharp depth discontinuities at object edges and temporal consistency across video frames, enabling applications in augmented reality, 3D reconstruction, and robotics. Three model sizes (S, B, L) offer a compute-quality tradeoff, with the largest (334M parameters) delivering the highest edge fidelity and stability.</p>
+    <p>Nemotron 3.5 Parse is a compact vision-language model from NVIDIA designed to extract structured content from document page images, preserving reading order and assigning content categories for downstream use in retrieval-augmented generation (RAG) and autonomous agents. It is trained via supervised fine-tuning on document understanding tasks followed by reinforcement learning to improve extraction accuracy, consistency, and completion reliability. The model is optimized for efficient inference and can be further customized with synthetic data and speculator-based acceleration.</p>
     <ul class="def-refs">
-      <li><a href="https://huggingface.co/apple/DepthPro2" rel="noreferrer">https://huggingface.co/apple/DepthPro2</a></li>
-      <li><a href="https://machinelearning.apple.com/research/depth-pro" rel="noreferrer">https://machinelearning.apple.com/research/depth-pro</a></li>
-      <li><a href="https://arxiv.org/abs/2410.08585" rel="noreferrer">https://arxiv.org/abs/2410.08585</a></li>
+      <li><a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin" rel="noreferrer">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</a></li>
+      <li><a href="https://www.nvidia.com/en-us/research/nemotron/" rel="noreferrer">https://www.nvidia.com/en-us/research/nemotron/</a></li>
+      <li><a href="https://huggingface.co/nvidia/Nemotron-3.5-Parse" rel="noreferrer">https://huggingface.co/nvidia/Nemotron-3.5-Parse</a></li>
     </ul>
   </section>
 
   <section class="summary">
     <h2>Today in AI</h2>
-    <p>Apple released Depth Pro 2 on Hugging Face, a family of metric monocular depth estimation models that produce sharp, temporally consistent depth maps at full input resolution from single images or video streams. The release includes three model sizes — DepthPro2-S (24M parameters), DepthPro2-B (97M), and DepthPro2-L (334M) — trading off latency for edge sharpness and temporal stability. Meanwhile, Google DeepMind&#39;s Gemini 4 Neon model has sparked renewed confidence in the lab&#39;s frontier capabilities after months of skepticism following the Gemini 3 cycle, with Neon&#39;s adoption described as an unusually strong breakout trend. The concurrent releases highlight a split in industry focus: Apple advancing geometric perception for spatial computing, while Google pushes large language model frontiers.</p>
+    <p>NVIDIA released Nemotron 3.5 Parse, a compact document understanding model that converts page images into structured, reading-order data for retrieval-augmented generation and agent workflows. The Hugging Face blog details how the model was trained through supervised fine-tuning followed by reinforcement learning to improve accuracy and reliable completion. NVIDIA and Hugging Face are now building on the release with synthetic training datasets, a fine-tuning recipe, and a DFlash2 speculator for faster inference, making the model more accessible for developers building document-processing pipelines.</p>
   </section>
 
   <section class="evidence">
-    <h2>Evidence (2)</h2>
+    <h2>Evidence (1)</h2>
     <ul>
       <li>
-        <a href="https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab" rel="noreferrer">[AINews] Gemini 4 Neon marks GDM&#39;s full return as a Frontier Lab</a>
+        <a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin" rel="noreferrer">Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</a>
         <span class="meta">
-          latent-space · swyx .ai          · 2026-11-25
+          huggingface-blog · Hugging Face Blog          · 2026-11-26
         </span>
-<blockquote>Three months ago, shortly after the Demis/Dean/etc departures, and with disappointing progress on Gemini 3 models, people had publicly given up on Google DeepMind as a frontier lab. Today, apologies are being issued, and Neon is the talk of the town! Despite giving Gemini 4…</blockquote>      </li>
-      <li>
-        <a href="https://huggingface.co/apple/DepthPro2" rel="noreferrer">apple/DepthPro2 · Hugging Face</a>
-        <span class="meta">
-          latent-space          · 2026-11-25
-        </span>
-<blockquote>Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth Depth Pro 2 estimates metric depth for every pixel from an ordinary camera: a single photo, a whole video, or a live feed, at the input&#39;s full resolution. Its depth is sharp at object edges and steady from frame…</blockquote>      </li>
+<blockquote>We recently released NVIDIA Nemotron 3.5 Parse, a compact document model that turns page images into structured data for retrieval-augmented generation (RAG) and agents. Now we’re building on that release with synthetic training datasets, a fine-tuning recipe, and a DFlash2…</blockquote>      </li>
     </ul>
   </section>
 
   <section class="candidates">
     <h2>Candidates</h2>
     <ol>
-      <li>songe <span class="meta">tf=51, df=2, score=268.68</span></li>
-      <li>ling-3.2 <span class="meta">tf=17, df=3, score=73.70</span></li>
-      <li>kept <span class="meta">tf=44, df=2, score=26.39</span></li>
-      <li>inclusionai <span class="meta">tf=8, df=3, score=26.37</span></li>
-      <li>depth pro <span class="meta">tf=8, df=2, score=23.44</span></li>
-      <li>depth pro 2 <span class="meta">tf=8, df=2, score=23.44</span></li>
-      <li>glm-5.4 <span class="meta">tf=8, df=2, score=23.44</span></li>
-      <li>pro 2 <span class="meta">tf=8, df=2, score=23.44</span></li>
-      <li>consent <span class="meta">tf=7, df=2, score=19.41</span></li>
-      <li>moe <span class="meta">tf=54, df=3, score=18.54</span></li>
+      <li>team <span class="meta">tf=49, df=3, score=17.45</span></li>
+      <li>charts <span class="meta">tf=13, df=2, score=10.78</span></li>
+      <li>one h200 <span class="meta">tf=4, df=2, score=10.12</span></li>
+      <li>origin <span class="meta">tf=4, df=2, score=10.12</span></li>
+      <li>with eight <span class="meta">tf=4, df=2, score=10.12</span></li>
+      <li>swarm <span class="meta">tf=10, df=2, score=9.42</span></li>
+      <li>in twelve <span class="meta">tf=3, df=3, score=7.72</span></li>
+      <li>in twelve months <span class="meta">tf=3, df=3, score=7.72</span></li>
+      <li>inflection points <span class="meta">tf=3, df=3, score=7.72</span></li>
+      <li>inflection points in <span class="meta">tf=3, df=3, score=7.72</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (12)</summary>
+      <summary>All queried links (7)</summary>
       <ul>
         <li>
-          <a href="https://aibreakfast.beehiiv.com/p/agents-are-taking-on-big-math" rel="noreferrer">Agents are taking on Big Math</a>
-          <span class="meta">
-            aibreakfast · AI Breakfast          </span>
-        </li>
-        <li>
-          <a href="https://codenewsletter.ai/p/former-xai-engineers-let-your-agents-travel-back-in-time" rel="noreferrer">Former xAI engineers let your agents travel back in time</a>
+          <a href="https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game" rel="noreferrer">Karpathy turns US public data into a Civ game</a>
           <span class="meta">
             codenewsletter · Code Newsletter          </span>
         </li>
         <li>
-          <a href="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants" rel="noreferrer">Verifiable Social Reasoning for LLM Assistants</a>
-          <span class="meta">
-            google-research · Google Research Blog          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga" rel="noreferrer">An Indic Voice Agent with CUGA</a>
+          <a href="https://huggingface.co/blog/ggml-org/llamacpp-amd-bench" rel="noreferrer">Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</a>
           <span class="meta">
             huggingface-blog · Hugging Face Blog          </span>
         </li>
         <li>
-          <a href="https://tinyleague.nunodonato.com/" rel="noreferrer">Tiny League — benchmark scores for small open-weight models</a>
+          <a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin" rel="noreferrer">Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</a>
           <span class="meta">
-            latent-space          </span>
+            huggingface-blog · Hugging Face Blog          </span>
         </li>
         <li>
-          <a href="https://github.com/neokrasav4ik/aibrush" rel="noreferrer">GitHub - neokrasav4ik/aibrush: Painting engine for LLMs: real oil brush, paint and canvas · GitHub</a>
+          <a href="https://huggingface.co/blog/training-swarms" rel="noreferrer">Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</a>
           <span class="meta">
-            latent-space          </span>
+            huggingface-blog · Hugging Face Blog          </span>
         </li>
         <li>
-          <a href="https://github.com/pingdotgg/t3code/issues/4123" rel="noreferrer">Why promise no opt-out telemetry while telemetry has been on the whole time? Without even a button to turn it off. · Issue #4123 · pingdotgg/t3code · GitHub</a>
+          <a href="https://simonwillison.net/2026/Nov/26/sqlite3-rsync" rel="noreferrer">sqlite3_rsync: Database Remote-Copy Tool For SQLite</a>
           <span class="meta">
-            latent-space          </span>
+            simonwillison · Simon Willison          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/inclusionAI/Ling-3.2-air" rel="noreferrer">inclusionAI/Ling-3.2-air · Hugging Face</a>
+          <a href="https://simonwillison.net/2026/Nov/26/hn-50651685" rel="noreferrer">The New York Times warns photographers not to update Photoshop over AI features</a>
           <span class="meta">
-            latent-space          </span>
+            simonwillison · Simon Willison          </span>
         </li>
         <li>
-          <a href="https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab" rel="noreferrer">[AINews] Gemini 4 Neon marks GDM&#39;s full return as a Frontier Lab</a>
+          <a href="https://simonwillison.net/2026/Nov/26/jack-despain-zhou" rel="noreferrer">Quoting Jack Despain Zhou</a>
           <span class="meta">
-            latent-space · swyx .ai          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/apple/DepthPro2" rel="noreferrer">apple/DepthPro2 · Hugging Face</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://github.com/sous-labs/songe" rel="noreferrer">GitHub - sous-labs/songe: A training engine for your local model, using your idle compute · GitHub</a>
-          <span class="meta">
-            latent-space          </span>
-        </li>
-        <li>
-          <a href="https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems" rel="noreferrer">AI is straining America’s open records systems</a>
-          <span class="meta">
-            mit-tech-review-ai · Matthew King          </span>
+            simonwillison · Simon Willison          </span>
         </li>
       </ul>
     </details>
@@ -145,7 +114,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-25T17:13:05+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-26T16:53:52+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>

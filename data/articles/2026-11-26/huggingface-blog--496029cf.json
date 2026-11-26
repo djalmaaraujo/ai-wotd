@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--496029cf",
+  "author": "Hugging Face Blog",
+  "content_chars": 8627,
+  "content_sha256": "588d61bd40f269d29caa22bc9692b87e9943e868d6e297cffe0dbb7e1e6de5ed",
+  "content_tokens": 2156,
+  "fetched_at": "2026-11-26T16:50:27Z",
+  "kind": "article",
+  "published_at": "2026-11-26T05:05:36+00:00",
+  "snippet": "We recently released NVIDIA Nemotron 3.5 Parse, a compact document model that turns page images into structured data for retrieval-augmented generation (RAG) and agents. Now we’re building on that release with synthetic training datasets, a fine-tuning recipe, and a DFlash2…",
+  "source_id": "huggingface-blog",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "top_terms": [
+    [
+      "parse",
+      23
+    ],
+    [
+      "page",
+      13
+    ],
+    [
+      "tables",
+      13
+    ],
+    [
+      "charts",
+      11
+    ],
+    [
+      "model",
+      9
+    ],
+    [
+      "parse 3.5",
+      9
+    ],
+    [
+      "synthetic",
+      9
+    ],
+    [
+      "chart",
+      8
+    ],
+    [
+      "document",
+      8
+    ],
+    [
+      "pass",
+      8
+    ],
+    [
+      "figure",
+      7
+    ],
+    [
+      "fine-tuning",
+      7
+    ],
+    [
+      "text",
+      7
+    ],
+    [
+      "training",
+      7
+    ],
+    [
+      "dflash2",
+      6
+    ],
+    [
+      "pages",
+      6
+    ],
+    [
+      "sft",
+      6
+    ],
+    [
+      "structured",
+      6
+    ],
+    [
+      "completion",
+      5
+    ],
+    [
+      "content",
+      5
+    ]
+  ],
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "url_canonical": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "via_source_id": null
+}

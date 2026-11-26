@@ -1,0 +1,98 @@
+{
+  "article_id": "latent-space--3c19107f",
+  "author": null,
+  "content_chars": 26019,
+  "content_sha256": "586eb781253e0e0f103d9c92d5c99d8adaa9e7205a5ee1aa0a411dea93b3560b",
+  "content_tokens": 6504,
+  "fetched_at": "2026-11-26T16:53:24Z",
+  "kind": "article",
+  "published_at": "2026-11-25T22:23:41+00:00",
+  "snippet": "Prism ML Website | Whitepaper | Demo & Examples | Discord A 27B ternary model built for agents, for llama.cpp (CUDA, Metal, CPU) ~9× smaller than FP16 | FP16-level agentic tool calling | 90% of FP16 agentic coding | the strongest agentic model under 10 GB Ternary Bonsai 2.5 27B…",
+  "source_id": "latent-space",
+  "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF · Hugging Face",
+  "top_terms": [
+    [
+      "bonsai",
+      46
+    ],
+    [
+      "llama",
+      30
+    ],
+    [
+      "cpp",
+      28
+    ],
+    [
+      "mtp",
+      27
+    ],
+    [
+      "pq2",
+      25
+    ],
+    [
+      "build",
+      24
+    ],
+    [
+      "bonsai 2",
+      23
+    ],
+    [
+      "nvidia",
+      23
+    ],
+    [
+      "bonsai 2.5",
+      21
+    ],
+    [
+      "ptq1",
+      21
+    ],
+    [
+      "fp16",
+      20
+    ],
+    [
+      "gb",
+      20
+    ],
+    [
+      "model",
+      20
+    ],
+    [
+      "decode",
+      17
+    ],
+    [
+      "kernels",
+      17
+    ],
+    [
+      "tokens",
+      17
+    ],
+    [
+      "every",
+      16
+    ],
+    [
+      "metal",
+      16
+    ],
+    [
+      "prefill",
+      16
+    ],
+    [
+      "rtx",
+      16
+    ]
+  ],
+  "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+  "url_canonical": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+  "via_source_id": "latent-space"
+}
