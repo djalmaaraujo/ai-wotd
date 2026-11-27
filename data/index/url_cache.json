@@ -3920,6 +3920,14 @@
     "article_id": "latent-space--d4c062a1",
     "first_seen_date": "2026-10-15"
   },
+  "https://clay.com/blog/avenue": {
+    "article_id": "latent-space--5a8f1f37",
+    "first_seen_date": "2026-11-27"
+  },
+  "https://clay.com/changelog/clay-agent-plugin-cli-api": {
+    "article_id": "latent-space--131d620e",
+    "first_seen_date": "2026-11-27"
+  },
   "https://cleanyour.tv/": {
     "article_id": "latent-space--16c37c52",
     "first_seen_date": "2026-11-05"
@@ -4203,6 +4211,10 @@
   "https://codenewsletter.ai/p/claude-subscribers-get-monthly-credits-to-build-agents": {
     "article_id": "codenewsletter--fac1a006",
     "first_seen_date": "2026-10-09"
+  },
+  "https://codenewsletter.ai/p/cloudflare-adds-no-cost-email-sending-and-search-for-agents": {
+    "article_id": "codenewsletter--1636a7fe",
+    "first_seen_date": "2026-11-27"
   },
   "https://codenewsletter.ai/p/cloudflare-s-new-model-reads-messy-data-faster-than-normal-llms": {
     "article_id": "codenewsletter--e6454254",
@@ -10964,6 +10976,10 @@
     "article_id": "huggingface-blog--9f959fb6",
     "first_seen_date": "2026-05-12"
   },
+  "https://huggingface.co/blog/video-trainium3": {
+    "article_id": "huggingface-blog--f39ad908",
+    "first_seen_date": "2026-11-27"
+  },
   "https://huggingface.co/blog/video_gen": {
     "article_id": "huggingface-blog--d3fc7a5d",
     "first_seen_date": "2026-05-10"
@@ -11939,6 +11955,10 @@
     "article_id": "latent-space--8c37ac9e",
     "first_seen_date": "2026-11-10"
   },
+  "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai": {
+    "article_id": "latent-space--62539ad1",
+    "first_seen_date": "2026-11-27"
+  },
   "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands": {
     "article_id": "latent-space--44af309f",
     "first_seen_date": "2026-10-28"
@@ -12644,6 +12664,11 @@
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fhandshake%2F": {
     "article_id": null,
     "first_seen_date": "2026-11-10",
+    "status": "fetch_failed"
+  },
+  "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fhow-clay-builds-gtm-agents-jeff-barg-head-of-ai%2F": {
+    "article_id": null,
+    "first_seen_date": "2026-11-27",
     "status": "fetch_failed"
   },
   "https://news.ycombinator.com/submitlink?u=https%3A%2F%2Flatent.space%2Fp%2Fhow_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands%2F": {
@@ -16918,6 +16943,10 @@
     "article_id": "latent-space--c96afaaa",
     "first_seen_date": "2026-11-09"
   },
+  "https://thenewstack.io/typesafe-jev-system-one": {
+    "article_id": "latent-space--fd3ec56b",
+    "first_seen_date": "2026-11-27"
+  },
   "https://theorem.dev/": {
     "article_id": "latent-space--94265091",
     "first_seen_date": "2026-11-21"
@@ -17628,6 +17657,26 @@
   "https://www.citriniresearch.com/p/2028gic": {
     "article_id": "one-useful-thing--9fe3c81e",
     "first_seen_date": "2026-04-13"
+  },
+  "https://www.clay.com/": {
+    "article_id": "latent-space--74972cd5",
+    "first_seen_date": "2026-11-27"
+  },
+  "https://www.clay.com/blog/clay-in-chatgpt": {
+    "article_id": "latent-space--bc590364",
+    "first_seen_date": "2026-11-27"
+  },
+  "https://www.clay.com/blog/sculpt-2026-recap": {
+    "article_id": "latent-space--c98fc24b",
+    "first_seen_date": "2026-11-27"
+  },
+  "https://www.clay.com/blog/series-d": {
+    "article_id": "latent-space--4c0c3fad",
+    "first_seen_date": "2026-11-27"
+  },
+  "https://www.clay.com/blog/the-story-of-clay-workflows": {
+    "article_id": "latent-space--d96453ad",
+    "first_seen_date": "2026-11-27"
   },
   "https://www.cloudcomputing-news.net/news/claude-platform-on-aws-anthropic-partnership": {
     "article_id": null,

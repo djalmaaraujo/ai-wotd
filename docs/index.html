@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Nemotron 3.5 Parse — 2026-11-26 · AI WOTD</title>
+  <title>Trainium3 — 2026-11-27 · AI WOTD</title>
   <link rel="stylesheet" href="/ai-wotd/style.css">
   <link rel="alternate" type="application/rss+xml" title="AI WOTD feed" href="/ai-wotd/feed.xml">
 </head>
@@ -18,92 +18,67 @@
   </header>
   <main>
 <article class="day">
-  <p class="date">2026-11-26</p>
-  <h1>Nemotron 3.5 Parse</h1>
+  <p class="date">2026-11-27</p>
+  <h1>Trainium3</h1>
 
-  <p class="why">Nemotron 3.5 Parse trended today because NVIDIA announced the model&#39;s release and Hugging Face published a detailed technical blog showing how to extend it with open synthetic data, fine-tuning recipes, and a DFlash2 speculator for accelerated inference, signaling a push toward production-ready document understanding for RAG and agents.</p>
+  <p class="why">Trainium3 trended because Hugging Face published a detailed benchmark of the AWS chip, including access to a trn3.48xlarge instance with 64 NeuronCores. The post demonstrated end-to-end video generation using Lightricks&#39; LTX-2.5, reporting 22 to 23 seconds per 10-second clip with sound. The timing and specificity of the infrastructure test drove attention to the new accelerator.</p>
 
   <section class="definition">
     <h2>Definition</h2>
-    <p>Nemotron 3.5 Parse is a compact vision-language model from NVIDIA designed to extract structured content from document page images, preserving reading order and assigning content categories for downstream use in retrieval-augmented generation (RAG) and autonomous agents. It is trained via supervised fine-tuning on document understanding tasks followed by reinforcement learning to improve extraction accuracy, consistency, and completion reliability. The model is optimized for efficient inference and can be further customized with synthetic data and speculator-based acceleration.</p>
+    <p>Trainium3 is Amazon Web Services&#39; third-generation AI accelerator chip, delivered through EC2 Trn3 instances such as trn3.48xlarge with 64 NeuronCores. It is designed for training and inference of large machine learning models and is programmed using the AWS Neuron SDK. In the AI industry, Trainium3 serves as a non-GPU cloud alternative for developers building and deploying generative models, including video and audio systems.</p>
     <ul class="def-refs">
-      <li><a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin" rel="noreferrer">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</a></li>
-      <li><a href="https://www.nvidia.com/en-us/research/nemotron/" rel="noreferrer">https://www.nvidia.com/en-us/research/nemotron/</a></li>
-      <li><a href="https://huggingface.co/nvidia/Nemotron-3.5-Parse" rel="noreferrer">https://huggingface.co/nvidia/Nemotron-3.5-Parse</a></li>
+      <li><a href="https://aws.amazon.com/trainium/" rel="noreferrer">https://aws.amazon.com/trainium/</a></li>
+      <li><a href="https://aws.amazon.com/ec2/instance-types/trn3/" rel="noreferrer">https://aws.amazon.com/ec2/instance-types/trn3/</a></li>
+      <li><a href="https://aws.amazon.com/neuron/" rel="noreferrer">https://aws.amazon.com/neuron/</a></li>
     </ul>
   </section>
 
   <section class="summary">
     <h2>Today in AI</h2>
-    <p>NVIDIA released Nemotron 3.5 Parse, a compact document understanding model that converts page images into structured, reading-order data for retrieval-augmented generation and agent workflows. The Hugging Face blog details how the model was trained through supervised fine-tuning followed by reinforcement learning to improve accuracy and reliable completion. NVIDIA and Hugging Face are now building on the release with synthetic training datasets, a fine-tuning recipe, and a DFlash2 speculator for faster inference, making the model more accessible for developers building document-processing pipelines.</p>
+    <p>Hugging Face researchers tested AWS Trainium3 chips by generating video with Lightricks&#39; LTX-2.5 model. The team accessed a trn3.48xlarge instance with 64 NeuronCores through a partnership with AWS, spending most of a month adapting models to the hardware. In a final experiment, a 10-second video clip with sound took 22 to 23 seconds to generate once models were loaded. The work illustrates how AI infrastructure providers and model developers are collaborating to evaluate new accelerators outside traditional GPU environments. Engineers reported that the system runs on AWS Neuron software, and that loading weights takes significant setup time before inference. The second phase of testing focused on audio-video synchronization, while a trigger in the benchmark script initiated clip generation. The experiment is part of a broader effort to determine whether non-NVIDIA silicon can support generative video workloads at scale.</p>
   </section>
 
   <section class="evidence">
     <h2>Evidence (1)</h2>
     <ul>
       <li>
-        <a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin" rel="noreferrer">Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</a>
+        <a href="https://huggingface.co/blog/video-trainium3" rel="noreferrer">Taking Trainium3 to the Track: Generating Videos with LTX-2.5</a>
         <span class="meta">
-          huggingface-blog · Hugging Face Blog          · 2026-11-26
+          huggingface-blog · Hugging Face Blog          · 2026-11-27
         </span>
-<blockquote>We recently released NVIDIA Nemotron 3.5 Parse, a compact document model that turns page images into structured data for retrieval-augmented generation (RAG) and agents. Now we’re building on that release with synthetic training datasets, a fine-tuning recipe, and a DFlash2…</blockquote>      </li>
+<blockquote>Thanks to our partnership with AWS, we were lucky enough to get access to a Trainium3 machine (trn3.48xlarge, 64 NeuronCores) for a month. We spent most of the month testing Hugging Face models on it, and getting more of them to work. With five days left, I allowed myself a…</blockquote>      </li>
     </ul>
   </section>
 
   <section class="candidates">
     <h2>Candidates</h2>
     <ol>
-      <li>team <span class="meta">tf=49, df=3, score=17.45</span></li>
-      <li>charts <span class="meta">tf=13, df=2, score=10.78</span></li>
-      <li>one h200 <span class="meta">tf=4, df=2, score=10.12</span></li>
-      <li>origin <span class="meta">tf=4, df=2, score=10.12</span></li>
-      <li>with eight <span class="meta">tf=4, df=2, score=10.12</span></li>
-      <li>swarm <span class="meta">tf=10, df=2, score=9.42</span></li>
-      <li>in twelve <span class="meta">tf=3, df=3, score=7.72</span></li>
-      <li>in twelve months <span class="meta">tf=3, df=3, score=7.72</span></li>
-      <li>inflection points <span class="meta">tf=3, df=3, score=7.72</span></li>
-      <li>inflection points in <span class="meta">tf=3, df=3, score=7.72</span></li>
+      <li>takes <span class="meta">tf=13, df=2, score=10.49</span></li>
+      <li>second <span class="meta">tf=19, df=2, score=10.26</span></li>
+      <li>trigger <span class="meta">tf=2, df=2, score=6.59</span></li>
+      <li>plan for <span class="meta">tf=4, df=2, score=4.83</span></li>
+      <li>runs on <span class="meta">tf=5, df=2, score=4.18</span></li>
+      <li>to generate <span class="meta">tf=4, df=2, score=3.98</span></li>
+      <li>gets <span class="meta">tf=5, df=2, score=3.42</span></li>
+      <li>prompts <span class="meta">tf=8, df=2, score=3.36</span></li>
+      <li>keep <span class="meta">tf=10, df=2, score=3.35</span></li>
+      <li>fails <span class="meta">tf=4, df=2, score=3.22</span></li>
     </ol>
   </section>
 
   <section class="queried-links">
     <details>
-      <summary>All queried links (7)</summary>
+      <summary>All queried links (2)</summary>
       <ul>
         <li>
-          <a href="https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game" rel="noreferrer">Karpathy turns US public data into a Civ game</a>
+          <a href="https://codenewsletter.ai/p/cloudflare-adds-no-cost-email-sending-and-search-for-agents" rel="noreferrer">Cloudflare adds no-cost email sending and search for agents</a>
           <span class="meta">
             codenewsletter · Code Newsletter          </span>
         </li>
         <li>
-          <a href="https://huggingface.co/blog/ggml-org/llamacpp-amd-bench" rel="noreferrer">Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</a>
+          <a href="https://huggingface.co/blog/video-trainium3" rel="noreferrer">Taking Trainium3 to the Track: Generating Videos with LTX-2.5</a>
           <span class="meta">
             huggingface-blog · Hugging Face Blog          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin" rel="noreferrer">Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</a>
-          <span class="meta">
-            huggingface-blog · Hugging Face Blog          </span>
-        </li>
-        <li>
-          <a href="https://huggingface.co/blog/training-swarms" rel="noreferrer">Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</a>
-          <span class="meta">
-            huggingface-blog · Hugging Face Blog          </span>
-        </li>
-        <li>
-          <a href="https://simonwillison.net/2026/Nov/26/sqlite3-rsync" rel="noreferrer">sqlite3_rsync: Database Remote-Copy Tool For SQLite</a>
-          <span class="meta">
-            simonwillison · Simon Willison          </span>
-        </li>
-        <li>
-          <a href="https://simonwillison.net/2026/Nov/26/hn-50651685" rel="noreferrer">The New York Times warns photographers not to update Photoshop over AI features</a>
-          <span class="meta">
-            simonwillison · Simon Willison          </span>
-        </li>
-        <li>
-          <a href="https://simonwillison.net/2026/Nov/26/jack-despain-zhou" rel="noreferrer">Quoting Jack Despain Zhou</a>
-          <span class="meta">
-            simonwillison · Simon Willison          </span>
         </li>
       </ul>
     </details>
@@ -114,7 +89,7 @@
 </article>
   </main>
   <footer>
-    <p>Updated 2026-11-26T16:53:52+00:00. Built from public RSS, newsletters, and X.
+    <p>Updated 2026-11-27T16:47:17+00:00. Built from public RSS, newsletters, and X.
     Short attributed snippets shown under fair use; full text is never
     redistributed. <a href="https://github.com/djalmaaraujo/ai-wotd">Source</a>.</p>
   </footer>

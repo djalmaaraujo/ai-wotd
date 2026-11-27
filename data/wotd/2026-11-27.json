@@ -1,0 +1,252 @@
+{
+  "candidates": [
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 4.9048,
+      "df_today": 2,
+      "score": 10.492175,
+      "term": "takes",
+      "tf_today": 13
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 8.3182,
+      "df_today": 2,
+      "score": 10.264066,
+      "term": "second",
+      "tf_today": 19
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 0.0,
+      "df_today": 2,
+      "score": 6.591674,
+      "term": "trigger",
+      "tf_today": 2
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 2.0,
+      "df_today": 2,
+      "score": 4.828314,
+      "term": "plan for",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 3.2143,
+      "df_today": 2,
+      "score": 4.180772,
+      "term": "runs on",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 2.4286,
+      "df_today": 2,
+      "score": 3.976258,
+      "term": "to generate",
+      "tf_today": 4
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 3.9333,
+      "df_today": 2,
+      "score": 3.416491,
+      "term": "gets",
+      "tf_today": 5
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 7.8421,
+      "df_today": 2,
+      "score": 3.362196,
+      "term": "prompts",
+      "tf_today": 8
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 10.7407,
+      "df_today": 2,
+      "score": 3.348785,
+      "term": "keep",
+      "tf_today": 10
+    },
+    {
+      "articles": [
+        "codenewsletter--1636a7fe",
+        "huggingface-blog--f39ad908"
+      ],
+      "avg_tf_baseline": 3.0,
+      "df_today": 2,
+      "score": 3.218876,
+      "term": "fails",
+      "tf_today": 4
+    }
+  ],
+  "date": "2026-11-27",
+  "evidence_article_ids": [
+    "huggingface-blog--f39ad908"
+  ],
+  "judge": {
+    "input_tokens": 17880,
+    "model": "jev-1.14.0",
+    "pool_size": 39,
+    "signals": {
+      "back": {
+        "dominance": 0.8,
+        "event": 0.39,
+        "form": 0.4,
+        "novelty": 0.23,
+        "specificity": 0.63
+      },
+      "code": {
+        "dominance": 1.3,
+        "event": 0.89,
+        "form": 0.74,
+        "novelty": 0.24,
+        "specificity": 0.4
+      },
+      "generate": {
+        "dominance": 1.75,
+        "event": 0.63,
+        "form": 0.4,
+        "novelty": 0.41,
+        "specificity": 1.13
+      },
+      "generating videos": {
+        "dominance": 1.89,
+        "event": 0.8,
+        "form": 0.81,
+        "novelty": 0.71,
+        "specificity": 1.4
+      },
+      "ltx-2.5": {
+        "dominance": 1.76,
+        "event": 0.72,
+        "form": 0.88,
+        "novelty": 0.81,
+        "specificity": 2.0
+      },
+      "machine": {
+        "dominance": 1.03,
+        "event": 0.7,
+        "form": 0.8,
+        "novelty": 0.27,
+        "specificity": 0.89
+      },
+      "making": {
+        "dominance": 1.35,
+        "event": 0.93,
+        "form": 0.6,
+        "novelty": 0.11,
+        "specificity": 0.23
+      },
+      "run": {
+        "dominance": 0.61,
+        "event": 0.64,
+        "form": 0.51,
+        "novelty": 0.21,
+        "specificity": 0.65
+      },
+      "send": {
+        "dominance": 1.67,
+        "event": 0.89,
+        "form": 0.32,
+        "novelty": 0.57,
+        "specificity": 0.07
+      },
+      "taking trainium3": {
+        "dominance": 1.95,
+        "event": 0.79,
+        "form": 0.44,
+        "novelty": 0.75,
+        "specificity": 1.99
+      },
+      "track": {
+        "dominance": 1.1,
+        "event": 0.34,
+        "form": 0.76,
+        "novelty": 0.56,
+        "specificity": 0.34
+      },
+      "trainium3": {
+        "dominance": 1.86,
+        "event": 0.63,
+        "form": 0.84,
+        "novelty": 0.85,
+        "specificity": 2.0
+      },
+      "videos": {
+        "dominance": 1.8,
+        "event": 0.75,
+        "form": 0.84,
+        "novelty": 0.66,
+        "specificity": 0.47
+      },
+      "what's": {
+        "dominance": 0.41,
+        "event": 0.91,
+        "form": 0.32,
+        "novelty": 0.54,
+        "specificity": 0.12
+      },
+      "wrong": {
+        "dominance": 0.95,
+        "event": 0.5,
+        "form": 0.47,
+        "novelty": 0.29,
+        "specificity": 0.14
+      }
+    },
+    "status": "ok",
+    "survivors": [
+      "trainium3",
+      "ltx-2.5"
+    ]
+  },
+  "label": "Trainium3",
+  "llm": {
+    "definition": {
+      "references": [
+        "https://aws.amazon.com/trainium/",
+        "https://aws.amazon.com/ec2/instance-types/trn3/",
+        "https://aws.amazon.com/neuron/"
+      ],
+      "text": "Trainium3 is Amazon Web Services' third-generation AI accelerator chip, delivered through EC2 Trn3 instances such as trn3.48xlarge with 64 NeuronCores. It is designed for training and inference of large machine learning models and is programmed using the AWS Neuron SDK. In the AI industry, Trainium3 serves as a non-GPU cloud alternative for developers building and deploying generative models, including video and audio systems."
+    },
+    "generated_at": "2026-11-27T16:47:14.761999+00:00",
+    "model": "openrouter/free",
+    "summary": "Hugging Face researchers tested AWS Trainium3 chips by generating video with Lightricks' LTX-2.5 model. The team accessed a trn3.48xlarge instance with 64 NeuronCores through a partnership with AWS, spending most of a month adapting models to the hardware. In a final experiment, a 10-second video clip with sound took 22 to 23 seconds to generate once models were loaded. The work illustrates how AI infrastructure providers and model developers are collaborating to evaluate new accelerators outside traditional GPU environments. Engineers reported that the system runs on AWS Neuron software, and that loading weights takes significant setup time before inference. The second phase of testing focused on audio-video synchronization, while a trigger in the benchmark script initiated clip generation. The experiment is part of a broader effort to determine whether non-NVIDIA silicon can support generative video workloads at scale.",
+    "why": "Trainium3 trended because Hugging Face published a detailed benchmark of the AWS chip, including access to a trn3.48xlarge instance with 64 NeuronCores. The post demonstrated end-to-end video generation using Lightricks' LTX-2.5, reporting 22 to 23 seconds per 10-second clip with sound. The timing and specificity of the infrastructure test drove attention to the new accelerator."
+  },
+  "score": null,
+  "word": "trainium3"
+}

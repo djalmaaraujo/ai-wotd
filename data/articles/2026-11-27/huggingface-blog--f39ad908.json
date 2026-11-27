@@ -1,0 +1,98 @@
+{
+  "article_id": "huggingface-blog--f39ad908",
+  "author": "Hugging Face Blog",
+  "content_chars": 14739,
+  "content_sha256": "e9b68ccae824901d3c456e3b2216453d1ed159ffd997d3b00a399b42bc31f3d9",
+  "content_tokens": 3684,
+  "fetched_at": "2026-11-27T16:35:48Z",
+  "kind": "article",
+  "published_at": "2026-11-27T00:00:00+00:00",
+  "snippet": "Thanks to our partnership with AWS, we were lucky enough to get access to a Trainium3 machine (trn3.48xlarge, 64 NeuronCores) for a month. We spent most of the month testing Hugging Face models on it, and getting more of them to work. With five days left, I allowed myself a…",
+  "source_id": "huggingface-blog",
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "top_terms": [
+    [
+      "shot",
+      29
+    ],
+    [
+      "frames",
+      19
+    ],
+    [
+      "prompt",
+      18
+    ],
+    [
+      "second",
+      17
+    ],
+    [
+      "film",
+      16
+    ],
+    [
+      "first",
+      16
+    ],
+    [
+      "clip",
+      15
+    ],
+    [
+      "model",
+      13
+    ],
+    [
+      "shots",
+      13
+    ],
+    [
+      "transformer",
+      13
+    ],
+    [
+      "takes",
+      12
+    ],
+    [
+      "the model",
+      11
+    ],
+    [
+      "iceberg",
+      10
+    ],
+    [
+      "neuroncores",
+      10
+    ],
+    [
+      "seal",
+      10
+    ],
+    [
+      "the transformer",
+      10
+    ],
+    [
+      "cpu",
+      9
+    ],
+    [
+      "diffusers",
+      9
+    ],
+    [
+      "pipeline",
+      9
+    ],
+    [
+      "the first",
+      9
+    ]
+  ],
+  "url": "https://huggingface.co/blog/video-trainium3",
+  "url_canonical": "https://huggingface.co/blog/video-trainium3",
+  "via_source_id": null
+}
